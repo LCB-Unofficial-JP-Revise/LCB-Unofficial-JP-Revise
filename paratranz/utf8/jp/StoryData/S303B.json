@@ -1,0 +1,912 @@
+[
+  {
+    "key": "0-place",
+    "original": "K社 検問所\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社 検問所\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사 검문소\nEN:\nK Corp. Checkpoint"
+  },
+  {
+    "key": "0-content",
+    "original": "流れが速いですね。十分くらい待てば私たちの番が来そうです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "流れが速いですね。十分くらい待てば私たちの番が来そうです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금방금방 빠지네요. 10분 정도만 기다리면 저희 차례가 오겠어요.\nEN:\nThe line’s moving quickly. It’ll be our turn in about 10 minutes at most."
+  },
+  {
+    "key": "1-content",
+    "original": "通過質問は私たち十三名全員がしないといけないんですか？\nダンテさんは口を利けないと思うんですけど、どうしましょう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通過質問は私たち十三名全員がしないといけないんですか？\nダンテさんは口を利けないと思うんですけど、どうしましょう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n통과 질문은 저희 13명이 다 해야 하나요? 단테 씨는 말을 못 알아들을 텐데, 어떻게 해야 하죠?\nEN:\nWill all thirteen of us need to answer immigration questions? They won’t be able to understand Manager Dante, so what should we do?"
+  },
+  {
+    "key": "2-content",
+    "original": "イシュメールは緊張すると早口になって質問が増えるという癖があるようだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメールは緊張すると早口になって質問が増えるという癖があるようだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘은 긴장하면 말이 빨라지고 질문이 늘어나는 버릇이 있는 듯했다.\nEN:\nIshmael seemed to have a habit of speaking quickly and being more inquisitive when she got anxious."
+  },
+  {
+    "key": "3-content",
+    "original": "ちょうどその話をしようと思ってたんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ちょうどその話をしようと思ってたんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안 그래도 그 이야기를 하려던 참이었지.\nEN:\nI was just about to get to that."
+  },
+  {
+    "key": "4-content",
+    "original": "よく聞け。K社の職員はこっちのラインに立ってる人達には\nとても簡単な質問だけをするだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "よく聞け。K社の職員はこっちのラインに立ってる人達には\nとても簡単な質問だけをするだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잘 들어. K사의 직원은 이쪽 줄에 서 있는 사람들에게는 매우 간단한 질문만 할 거다.\nEN:\nListen up. The K Corp. official will only ask very simple questions to the passengers in this line."
+  },
+  {
+    "key": "5-content",
+    "original": "そしてお前たちもまた、とても簡単な答えを返せば良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そしてお前たちもまた、とても簡単な答えを返せば良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그리고 너희들 또한 매우 간단한 대답만 하면 되는 거야.\nEN:\nAnd your answers will be similarly concise."
+  },
+  {
+    "key": "6-content",
+    "original": "審問所の職員がどんな目的で来たかと聞いてきたら…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審問所の職員がどんな目的で来たかと聞いてきたら…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문소 직원이 어떤 목적으로 왔냐고 물어보면…\nEN:\nWhen the border official asks about the nature of your visit…"
+  },
+  {
+    "key": "7-content",
+    "original": "「リンバス・カンパニーの業務で来ました、業務ビザを確認してください。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「リンバス・カンパニーの業務で来ました、業務ビザを確認してください。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n‘림버스 컴퍼니 업무상으로 왔습니다, 업무 비자를 확인해주세요.’\nEN:\nSay: “I’m here for business on the behalf of Limbus Company, please refer to my work visa.”"
+  },
+  {
+    "key": "8-content",
+    "original": "と答えれば良い。一言一句漏れなく覚えろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "と答えれば良い。一言一句漏れなく覚えろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라고 대답을 하면 된다. 토씨 하나 빼먹지 말고 그대로 외워.\nEN:\nRemember this exact phrase so that you can recite it word for word."
+  },
+  {
+    "key": "9-content",
+    "original": "それ以外は俺がなんとかするから、\nただ問題を起こさない人であるということだけ証明すれば良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それ以外は俺がなんとかするから、\nただ問題を起こさない人であるということだけ証明すれば良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 밖에는 내가 알아서 할 테니, 그저 문제를 일으키지 않을 사람이라는 것만 증명하면 돼.\nEN:\nI’ll take care of the rest, so you just have to prove that you aren’t here to cause trouble."
+  },
+  {
+    "key": "10-content",
+    "original": "もし私の言葉を暗唱できなければ、いっそ口を閉じてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もし私の言葉を暗唱できなければ、いっそ口を閉じてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혹시나 저 말을 외우지 못하겠다면, 차라리 입을 다물고 있으세요.\nEN:\nIf even memorizing that is too much of a burden for you, I suggest that you keep your mouth shut."
+  },
+  {
+    "key": "11-content",
+    "original": "ただ、お手持ちの社員証を差し出しさえすれば良いですからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ、お手持ちの社員証を差し出しさえすれば良いですからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그저 갖고 계시는 사원증을 내밀기만 해도 되니까요.\nEN:\nYou can present your employee card instead."
+  },
+  {
+    "key": "12-content",
+    "original": "<口を閉じて問題さえ起こさなければ良い。一番簡単なことだ。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<口を閉じて問題さえ起こさなければ良い。一番簡単なことだ。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;입 다물고 문제만 일으키지 않으면 된다. 제일 쉬운 일이지.&gt;\nEN:\n&lt;Keep quiet and don’t cause trouble. Easiest tasks in the world.&gt;"
+  },
+  {
+    "key": "13-content",
+    "original": "顔色をうかがいつつ、こっそりと当て擦った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "顔色をうかがいつつ、こっそりと当て擦った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈치를 보며 슬쩍 비꼬았다.\nEN:\nI sneakily mumbled a sarcastic remark."
+  },
+  {
+    "key": "14-content",
+    "original": "ファウストがもしや告げ口するのではないかと、内心心配にはなったが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストがもしや告げ口するのではないかと、内心心配にはなったが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 행여나 일러바치진 않을까 내심 걱정을 했지만…\nEN:\nI was worried that Faust might rat me out, but thankfully…"
+  },
+  {
+    "key": "15-content",
+    "original": "幸いなことにヴェルギリウスは虚空を見つめるばかりで、特に何も言わなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "幸いなことにヴェルギリウスは虚空を見つめるばかりで、特に何も言わなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n베르길리우스는 다행히 허공만 바라보고 있을 뿐 별말은 하지 않았다.\nEN:\nVergilius was idly staring off into space, sparing me from his scathing commentary."
+  },
+  {
+    "key": "16-content",
+    "original": "さぁ、では。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、では。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 그럼.\nEN:\nNow, next up."
+  },
+  {
+    "key": "17-content",
+    "original": "質問のある人は、自分は本当に価値のある質問を\n思いついたのかに対する検討をしてから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "質問のある人は、自分は本当に価値のある質問を\n思いついたのかに対する検討をしてから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n질문이 있는 사람은, 내가 정말 가치 있는 질문을 생각했는가에 대한 고민을 해본 후에.\nEN:\nIf you have a question, make sure to first ask yourself if it’s actually meaningful."
+  },
+  {
+    "key": "18-content",
+    "original": "静かに手を挙げるように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "静かに手を挙げるように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조용히 손을 들도록.\nEN:\nThen quietly raise your hand."
+  },
+  {
+    "key": "19-content",
+    "original": "私を含めて何人かが手を挙げた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私を含めて何人かが手を挙げた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나를 포함해서 몇 명이 손을 들었다.\nEN:\nSeveral hands were lifted, including mine."
+  },
+  {
+    "key": "20-content",
+    "original": "ロジオン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロジオン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로지온.\nEN:\nRodion."
+  },
+  {
+    "key": "21-content",
+    "original": "業務目的だから武器は持ってってもいいんだよね～？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "業務目的だから武器は持ってってもいいんだよね～？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n업무 목적이니까 무기는 들고 들어가도 되지~?\nEN:\nSince this trip is for business, we can carry our weapons, yeah~?"
+  },
+  {
+    "key": "22-content",
+    "original": "そうだ。次。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだ。次。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇다. 다음.\nEN:\nCorrect. Next."
+  },
+  {
+    "key": "23-content",
+    "original": "じゃあ、グレッグの奇々怪々とした腕やダンテの凄い時計頭も大丈夫ってことね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "じゃあ、グレッグの奇々怪々とした腕やダンテの凄い時計頭も大丈夫ってことね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럼, 그렉의 기기괴괴한 팔이나 단테의 근사한 시계 머리도 상관없겠네?\nEN:\nThen, Greg’s creepy-crawly arm and Dante’s chichi clockhead’re getting a pass too?"
+  },
+  {
+    "key": "24-content",
+    "original": "そうです。ちなみに管理人さんの頭は武器ではなくて義体に分類されるので\n観光ビザでも許容はされます。たとえ不死の能力を持っていてでもです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうです。ちなみに管理人さんの頭は武器ではなくて義体に分類されるので\n観光ビザでも許容はされます。たとえ不死の能力を持っていてでもです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맞아요. 참고로 관리자님의 머리는 무기가 아니라 의체로 분류가 되기 때문에 관광 비자여도 허용은 돼요. 비록 불사의 능력을 지니고 있더라도요.\nEN:\nThat should be the case. For your reference, our manager’s head counts as a prosthetic rather than a weapon, which means it’d be approved even if what we had were a tourist visa, powers to revive notwithstanding."
+  },
+  {
+    "key": "25-content",
+    "original": "模範生の役目を手に入れることを決心したらしいイシュメールが代わりに答えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "模範生の役目を手に入れることを決心したらしいイシュメールが代わりに答えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모범생 역할을 자처하기로 마음먹은 것 같은 이스마엘이 대신 대답했다.\nEN:\nIshmael took the role of the model student and answered in Vergilius’s stead."
+  },
+  {
+    "key": "26-content",
+    "original": "この前のカジノのときも思ったんだけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この前のカジノのときも思ったんだけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요전번 카지노 때도 느꼈던 것이지만…\nEN:\nIt feels like something changed about Ishmael’s attitude since the casino job…"
+  },
+  {
+    "key": "27-content",
+    "original": "イシュメールは頼みの私が間抜けな行動をしたせいで、\n自ら行動すべきだと判断したようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメールは頼みの私が間抜けな行動をしたせいで、\n自ら行動すべきだと判断したようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘은 믿었던 내가 어벙하게 굴었다는 것 때문에 스스로가 나서야 한다고 판단한 모양이다.\nEN:\nShe seems to have decided to take matters into her own hands after I betrayed her expectations of my capabilities as a leader."
+  },
+  {
+    "key": "28-content",
+    "original": "まさしく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まさしく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정확해.\nEN:\nPrecisely."
+  },
+  {
+    "key": "29-content",
+    "original": "私とグレゴールの腕が同時に下りていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私とグレゴールの腕が同時に下りていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나와 그레고르의 팔이 동시에 내려갔다.\nEN:\nGregor and I put our hands down at the same time."
+  },
+  {
+    "key": "30-content",
+    "original": "そして、良秀。火を消してから話すように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そして、良秀。火を消してから話すように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그리고, 료슈. 담배는 끄고 얘기하도록.\nEN:\nAnd, Ryōshū. Put out your cigarette before you speak."
+  },
+  {
+    "key": "31-content",
+    "original": "…俺は手挙げてないんだけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…俺は手挙げてないんだけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…난 손 안 들었다만.\nEN:\n…I didn’t raise my hand."
+  },
+  {
+    "key": "32-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n……\nEN:\n……"
+  },
+  {
+    "key": "33-content",
+    "original": "ヴェルギリウスは、力一杯天を突くドンキホーテの腕を\n最後まで無視しようとしたようだが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヴェルギリウスは、力一杯天を突くドンキホーテの腕を\n最後まで無視しようとしたようだが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n베르길리우스는 마지막까지 힘차게 뻗은 돈키호테의 팔은 무시하려 듯했지만…\nEN:\nVergilius was doing his best to ignore Don Quixote’s arm stretched skyward…"
+  },
+  {
+    "key": "34-content",
+    "original": "決して下ろそうとしない真っ直ぐな腕に、どうしようもなく答えることになった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "決して下ろそうとしない真っ直ぐな腕に、どうしようもなく答えることになった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결단코 내릴 생각을 하지 않는 꼿꼿한 팔에 어쩔 수 없이 대꾸를 해주는 듯했다.\nEN:\nBut he finally caved and gave the woman with an adamantly raised hand the chance to speak."
+  },
+  {
+    "key": "35-content",
+    "original": "…ああ、ドンキホーテ。なんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…ああ、ドンキホーテ。なんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그래, 돈키호테. 뭐지?\nEN:\n…Fine, Don Quixote. What is it?"
+  },
+  {
+    "key": "36-teller",
+    "original": "ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\nEN:\nDon Quixote"
+  },
+  {
+    "key": "36-title",
+    "original": "囚人 3番\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人 3番\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3번 수감자\nEN:\nSinner #3"
+  },
+  {
+    "key": "36-content",
+    "original": "あのガラスの壁はいかなる用途で置かれているのだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あのガラスの壁はいかなる用途で置かれているのだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저 유리 벽은 어떤 용도로 있는 것이오?\nEN:\nFor what purpose doth that barrier of glass serve?"
+  },
+  {
+    "key": "37-content",
+    "original": "皆の視線が、ドンキホーテの指差した入国審査館の中にある\nガラスの壁へと向かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皆の視線が、ドンキホーテの指差した入国審査館の中にある\nガラスの壁へと向かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모두의 시선이 돈키호테가 가리킨 입국 심사관 안에 있는 유리 벽으로 향했다.\nEN:\nFollowing Don Quixote’s finger, our attention was drawn to the glass wall stood in the middle of the building."
+  },
+  {
+    "key": "38-content",
+    "original": "スペースを半分くらいに分けた透明なガラスの壁の向こうには…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スペースを半分くらいに分けた透明なガラスの壁の向こうには…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절반 정도를 나누어 놓은 투명한 유리 벽 너머에는…\nEN:\nOn the other side of that clear dividing wall…"
+  },
+  {
+    "key": "39-content",
+    "original": "数え切れないほどの人間が一列になって待っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "数え切れないほどの人間が一列になって待っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헤아리기 힘들 정도로 많은 사람이 일렬로 기다리고 있었다.\nEN:\nWere countless people waiting in line."
+  },
+  {
+    "key": "40-content",
+    "original": "あっちは待つっていうより、もう人が床に座り込んでるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あっちは待つっていうより、もう人が床に座り込んでるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저쪽은 기다린다기보단 아예 사람들이 바닥에 앉아 있군.\nEN:\nThat line’s slowed to a crawl, people are sat on the floor waiting for it to move."
+  },
+  {
+    "key": "41-content",
+    "original": "列に並んでかなり時間が経ったみたいだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "列に並んでかなり時間が経ったみたいだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n줄을 선 지 꽤 시간이 지난 모양이야.\nEN:\nLooks like they’ve been there for quite some time."
+  },
+  {
+    "key": "42-content",
+    "original": "武装警備員も多いな。こちらの人員の三倍。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "武装警備員も多いな。こちらの人員の三倍。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무장 경호원도 많군. 이곳 인원의 3배.\nEN:\nThere are many armed guards as well. Three times as many compared to this side."
+  },
+  {
+    "key": "43-content",
+    "original": "…大多数の建物に建てられているガラスの壁は、\n安全のためである可能性が高い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…大多数の建物に建てられているガラスの壁は、\n安全のためである可能性が高い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…대부분 건물에 세워져 있는 유리 벽은 안전을 위한 용도일 가능성이 크다.\nEN:\n…Most of the glass walls you find inside buildings are there for safety reasons."
+  },
+  {
+    "key": "44-content",
+    "original": "まぁ～簡単に言うと裏路地の人達の専用区域でしょ。\n巣ごとにやり方は違うけど、とにかくまともなビザ無しに\n他の巣へ行くのはマ～ジででややこしいから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まぁ～簡単に言うと裏路地の人達の専用区域でしょ。\n巣ごとにやり方は違うけど、とにかくまともなビザ無しに\n他の巣へ行くのはマ～ジででややこしいから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐~ 쉽게 말하자면 뒷골목 사람들 전용 구역이지. 둥지마다 방식은 다르지만, 어쨌든 제대로 된 비자가 없이 다른 둥지로 가는 건 진짜 진짜 까다롭거든.\nEN:\nWell~ Simply put, that line’s for Backstreets folks. Each Nest handles immigration differently, but wherever it may be, it’s super-duper hard to get into another Nest without a proper visa."
+  },
+  {
+    "key": "45-content",
+    "original": "なんで検問所の近くで命を懸けてまで私たちを襲撃したと思う？\nビザを無理矢理にでも奪って巣に行こうとしたの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なんで検問所の近くで命を懸けてまで私たちを襲撃したと思う？\nビザを無理矢理にでも奪って巣に行こうとしたの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n왜 검문소 근처에서 목숨까지 걸고 우리를 습격하려고 했겠어? 비자를 강제로 빼앗아서라도 둥지에 가려고 했던 거지.\nEN:\nWhy’d you think those bullies jumped us on the way to the checkpoint? They wanted our visa so they could enter the Nest."
+  },
+  {
+    "key": "46-content",
+    "original": "…そして俺たちが解決してやれない問題でもある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…そして俺たちが解決してやれない問題でもある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그리고 우리가 해결해줄 수 없는 문제이기도 하지.\nEN:\n…A problem we are not in our power to resolve."
+  },
+  {
+    "key": "47-content",
+    "original": "しかし、それがドンキホーテには満足のいく答えにはならなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しかし、それがドンキホーテには満足のいく答えにはならなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 그것이 돈키호테에게는 만족스러운 답변이 되지 못했다.\nEN:\nHowever, that answer didn’t satisfy Don Quixote."
+  },
+  {
+    "key": "48-content",
+    "original": "その理由がガラスの壁の向こうにだけ存在する、陰鬱で威圧的な雰囲気のせいか、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その理由がガラスの壁の向こうにだけ存在する、陰鬱で威圧的な雰囲気のせいか、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 이유가 유리 벽 너머만의 음울하면서도 위압적인 분위기 때문인지,\nEN:\nWhether it was the fault of the gloomy yet oppressive atmosphere of the area beyond the wall…"
+  },
+  {
+    "key": "49-content",
+    "original": "もしくは今ガラスの壁の向こうで起こっている騒ぎのせいかは分からなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もしくは今ガラスの壁の向こうで起こっている騒ぎのせいかは分からなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혹은 지금 유리 벽 너머에서 벌어지고 있는 소란 때문인지는 몰랐다.\nEN:\nOr the disturbances happening in there, I couldn’t say."
+  },
+  {
+    "key": "50-content",
+    "original": "管理人様、我々の番でございます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様、我々の番でございます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님, 저희 차례입니다.\nEN:\nManager, it’s our turn now."
+  },
+  {
+    "key": "51-content",
+    "original": "<あ？うん…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<あ？うん…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;아? 응…&gt;\nEN:\n&lt;Huh? Right…&gt;"
+  },
+  {
+    "key": "52-content",
+    "original": "私たちの列は人の減る速度がとても速かったので、\nもう一言二言話す間もなく順番が近づいてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私たちの列は人の減る速度がとても速かったので、\nもう一言二言話す間もなく順番が近づいてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 쪽의 줄은 매우 빠른 속도로 줄어들었기에 몇 마디 더 나눌 새도 없이 차례가 다가왔다.\nEN:\nOur line moved at such a quick pace, we barely had time to chat before it was our turn to answer the official’s questions."
+  },
+  {
+    "key": "53-content",
+    "original": "忘れないでください。あちらから何の目的で来たかと言われたら…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "忘れないでください。あちらから何の目的で来たかと言われたら…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기억하세요. 그쪽에서 어떤 목적으로 왔냐고 하면…\nEN:\nRemember: When you’re asked about the purpose of your visit…"
+  },
+  {
+    "key": "54-content",
+    "original": "…もう一度言うなら審査官だかなんだか言う奴らと一緒に\n万・短・至・芸してやる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…もう一度言うなら審査官だかなんだか言う奴らと一緒に\n万・短・至・芸してやる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…한 번만 더 말하면 심사관인지 뭔지 하는 놈이랑 만.단.지.예 해주겠어.\nEN:\n…Remind me one more time and I’ll show SANGRIA to you and the official or whatever."
+  },
+  {
+    "key": "55-content",
+    "original": "イシュメールの心配とは裏腹に、検問所の通過は順風満帆そのものだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメールの心配とは裏腹に、検問所の通過は順風満帆そのものだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘의 걱정과는 다르게 검문소를 통과하는 과정은 순항을 맞이하고 있었다.\nEN:\nDespite Ishmael’s worries, our inspection was smooth sailing."
+  },
+  {
+    "key": "56-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "56-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "56-content",
+    "original": "所属グループ、理由をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "所属グループ、理由をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소속 그룹, 이유를 말씀해주세요.\nEN:\nPlease state your affiliation and purpose of visit."
+  },
+  {
+    "key": "57-content",
+    "original": "あ、業務でリンバス・カンパニーから来ました。社員証の確認をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ、業務でリンバス・カンパニーから来ました。社員証の確認をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아, 업무차 림버스 컴퍼니에서 왔습니다. 사원증 확인 부탁드립니다.\nEN:\nAh, I’ve come from Limbus Company on business. Here’s my employee card."
+  },
+  {
+    "key": "58-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "58-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "58-content",
+    "original": "…確認しました。次。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…確認しました。次。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…확인했습니다. 다음.\nEN:\n…All checked out. Next."
+  },
+  {
+    "key": "59-content",
+    "original": "リンバス・カンパニーから来ました。ビジネスで。\n社員証見せれば良いって言われました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバス・カンパニーから来ました。ビジネスで。\n社員証見せれば良いって言われました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 컴퍼니에서 왔죠. 비즈니스 때문에. 사원증 보시면 된대요.\nEN:\nFrom Limbus Company. Business reasons. Take a look at my card and all that."
+  },
+  {
+    "key": "60-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "60-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "60-content",
+    "original": "…確認しました。次。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…確認しました。次。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…확인했습니다. 다음.\nEN:\n…All checked out. Next."
+  },
+  {
+    "key": "61-content",
+    "original": "既に前の方でリンバス・カンパニーの所属であることを証明したせいか、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "既に前の方でリンバス・カンパニーの所属であることを証明したせいか、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 앞 선에서 림버스 컴퍼니 소속임을 증명했던 것 때문인지,\nEN:\nAfter our first Sinner proved who we work for, it was a breeze for the rest of us."
+  },
+  {
+    "key": "62-content",
+    "original": "検問所職員は抑揚のない同じ質問と興味なさげな目つきで顔を一度、\n社員証を一度見て(しかし速度を見た感じ、目で確認するというより\n慣習的な動作に近そうに思えた)囚人たちを通してくれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所職員は抑揚のない同じ質問と興味なさげな目つきで顔を一度、\n社員証を一度見て(しかし速度を見た感じ、目で確認するというより\n慣習的な動作に近そうに思えた)囚人たちを通してくれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원은 높낮이 없는 똑같은 질문과 무심한 눈빛으로 얼굴 한 번, 사원증을 한 번 보고 (하지만 속도를 보아하니 눈으로 확인하기보단 관습적인 몸짓에 가까워 보였다) 수감자들을 통과시켜주었다.\nEN:\nThe official asked the same question in the same dry tone, took a cursory glance at our faces and employee cards―though based on their speed, it seemed more like a customary gesture rather than an actual look over―then let each Sinner pass."
+  },
+  {
+    "key": "63-teller",
+    "original": "待つ人々\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待つ人々\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기다리는 사람들\nEN:\nPeople in Line"
+  },
+  {
+    "key": "63-title",
+    "original": "11区\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "11区\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n11구\nEN:\nDistrict 11"
+  },
+  {
+    "key": "63-content",
+    "original": "……。……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n……. …….\nEN:\n…… ……"
+  },
+  {
+    "key": "64-content",
+    "original": "…あっちで何か起こったみたいです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…あっちで何か起こったみたいです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…저쪽에서 무슨 문제가 생겼나 봐요.\nEN:\n…Something’s amiss over there."
+  },
+  {
+    "key": "65-content",
+    "original": "しかし、ここのガラスの壁は音まで遮断してしまうほどに厚かったのか、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しかし、ここのガラスの壁は音まで遮断してしまうほどに厚かったのか、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 이곳의 유리 벽은 소리까지 차단해 줄 정도로 두꺼운 모양이었는지,\nEN:\nThe glass wall standing between us and them was thick enough to block out sound."
+  },
+  {
+    "key": "66-content",
+    "original": "正確に何が起こっているかは分かりにくかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "正確に何が起こっているかは分かりにくかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정확히 무슨 일이 벌어졌는지는 알기 힘들었다.\nEN:\nIt was hard for us to tell what was going on through the wall."
+  },
+  {
+    "key": "67-content",
+    "original": "しかし、誰かが警備員たちによって両手を結束されたまま引きずられており、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しかし、誰かが警備員たちによって両手を結束されたまま引きずられており、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러나 누군가가 경비원들에 의해 양손을 결박당한 채로 끌려가고 있었으며,\nEN:\nHowever, I could see what was happening unambiguously; someone with cuffed hands was being dragged away by security."
+  },
+  {
+    "key": "68-content",
+    "original": "その前の子供がどうすれば良いのか分からないまま泣いてばかりいる様子だけは\nはっきりと見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その前の子供がどうすれば良いのか分からないまま泣いてばかりいる様子だけは\nはっきりと見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 앞에는 어린아이가 어찌해야 할 바를 모른 채 울기만 하는 장면만큼은 명확하게 보였다.\nEN:\nAnd a small child was crying next to them, clearly scared and confused."
+  },
+  {
+    "key": "69-content",
+    "original": "…気にしないでください。よく分からないですけど翼の禁忌を犯した模様です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…気にしないでください。よく分からないですけど翼の禁忌を犯した模様です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…신경 쓰지 말죠. 잘은 모르지만 날개의 금기를 어긴 모양이에요.\nEN:\n…We shouldn’t bother. I don’t know what happened, but I guess someone broke a taboo."
+  },
+  {
+    "key": "70-content",
+    "original": "そうだな。貧乏人が犯したタブーといっちゃぁ、満足できるくれぇの\nカネをポッケに突っ込めなかったこと以外にあるか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだな。貧乏人が犯したタブーといっちゃぁ、満足できるくれぇの\nカネをポッケに突っ込めなかったこと以外にあるか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래. 가난뱅이들이 어긴 금기래 봤자 만족스러울 만큼 충분한 돈을 뒷구멍에 찔러주지 않았다는 것 외엔 더 있겠어?\nEN:\nYeah, sure. Those impoverished vandals and their audacity to break the taboo of not stuffing enough cash in the right people’s pockets, am I right?"
+  },
+  {
+    "key": "71-content",
+    "original": "…それ、私に対する嫌味ですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…それ、私に対する嫌味ですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…지금 저한테 이죽대는 건가요?\nEN:\n…Are you mocking me right now?"
+  },
+  {
+    "key": "72-content",
+    "original": "はぁ。何だよ、気にすることじゃないつっただろ？\nその割には気にしすぎじゃねぇか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はぁ。何だよ、気にすることじゃないつっただろ？\nその割には気にしすぎじゃねぇか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n허. 뭐야, 신경 쓸 일은 아니라며? 너무 신경 쓰는데.\nEN:\nHuh. What, I thought you didn’t care? Guess someone’s knickers are in a twist."
+  },
+  {
+    "key": "73-content",
+    "original": "初めてイシュメールを揶揄うことに成功して\n声が大きくなったヒースクリフを見ていたが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "初めてイシュメールを揶揄うことに成功して\n声が大きくなったヒースクリフを見ていたが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음으로 이스마엘을 골리는 데 성공해서 목소리가 커진 히스클리프를 보고 있었는데…\nEN:\nWhile I was distracted by Heathcliff loudly celebrating his first successful tease on Ishmael…"
+  },
+  {
+    "key": "74-content",
+    "original": "予想していた人物が、予想できないタイミングに、また攻め込んでしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予想していた人物が、予想できないタイミングに、また攻め込んでしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예상했던 인물이 예상하지 못한 타이밍에, 또다시 치고 들어와 버렸다.\nEN:\nOur usual suspect sprang forth at her least expected moment yet again."
+  },
+  {
+    "key": "75-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "75-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "75-content",
+    "original": "所属グループ、理由をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "所属グループ、理由をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소속 그룹, 이유를 말씀해주세요.\nEN:\nPlease state your affiliation and purpose of visit."
+  },
+  {
+    "key": "76-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……"
+  },
+  {
+    "key": "77-content",
+    "original": "弱者へ自由を与えに参った！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弱者へ自由を与えに参った！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약자에게 자유를 주기 위해 왔노라!\nEN:\nI am come to liberate the weak and powerless!"
+  },
+  {
+    "key": "78-content",
+    "original": "初めて検問所の職員の顔に感情というものが表れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "初めて検問所の職員の顔に感情というものが表れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음으로 검문소 직원의 얼굴에 감정이라는 것이 드러난다.\nEN:\nAn emotion is expressed for the first time on the checkpoint official’s face."
+  },
+  {
+    "key": "79-content",
+    "original": "驚愕。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "驚愕。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경악.\nEN:\nFlabbergastation."
+  },
+  {
+    "key": "80-content",
+    "original": "文字通り驚愕の描かれた表情が、ドンキホーテを見上げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "文字通り驚愕の描かれた表情が、ドンキホーテを見上げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말 그대로 경악이 그려진 표정이 돈키호테를 올려다본다.\nEN:\nThey looked up at Don Quixote with a face screaming that it was flabbergasted."
+  },
+  {
+    "key": "81-content",
+    "original": "あの者たちを放してやれ！苦しがっているではないか！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あの者たちを放してやれ！苦しがっているではないか！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저자들을 풀어주게! 고통스러워하고 있지 않은가?\nEN:\nRelease them at once! Can you not see that they are suffering?"
+  },
+  {
+    "key": "82-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "82-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "82-content",
+    "original": "…所属グループ、理由をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…所属グループ、理由をお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…소속 그룹, 이유를 말씀해주세요.\nEN:\n…Please state your affiliation and purpose of visit."
+  },
+  {
+    "key": "83-content",
+    "original": "検問所の職員はなんとかその言葉を無視しながら\nずっと話していた台詞だけを繰り返し唱えるだけであり、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員はなんとかその言葉を無視しながら\nずっと話していた台詞だけを繰り返し唱えるだけであり、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원은 애써 그 말을 무시하며 계속해왔던 대사만을 반복해서 읊을 뿐이었고,\nEN:\nThe official ignored her demand and parroted the same question."
+  },
+  {
+    "key": "84-content",
+    "original": "ドンキホーテの気分が時々刻々と悪くなっていく様子が、\nありありと分かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテの気分が時々刻々と悪くなっていく様子が、\nありありと分かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테의 심기는 시시각각 나빠져 가는 것이 눈에 훤했다.\nEN:\nAll the while, Don Quixote was getting more upset by the minute."
+  },
+  {
+    "key": "85-content",
+    "original": "そして。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そして。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그리고.\nEN:\nAnd then…"
+  },
+  {
+    "key": "86-content",
+    "original": "再び見つめた窓ガラス越しの光景には…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び見つめた窓ガラス越しの光景には…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 쳐다본 유리창 너머의 광경엔…\nEN:\nIn looking through the transparent wall again…"
+  },
+  {
+    "key": "87-content",
+    "original": "引きずられていく人に向けられた、子供の切実な口の形が見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "引きずられていく人に向けられた、子供の切実な口の形が見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끌려 나가는 사람을 향한 아이의 처절한 입 모양이 보였다.\nEN:\nI saw the desperate child mouth a scream at the man dragged away in handcuffs:"
+  },
+  {
+    "key": "88-teller",
+    "original": "子供\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이\nEN:\nChild"
+  },
+  {
+    "key": "88-title",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "88-content",
+    "original": "ぱ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぱ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아\nEN:\n“Daaa"
+  },
+  {
+    "key": "89-teller",
+    "original": "子供\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이\nEN:\nChild"
+  },
+  {
+    "key": "89-title",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "89-content",
+    "original": "ぱ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぱ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빠\nEN:\naaddy!”"
+  },
+  {
+    "key": "90-content",
+    "original": "そなたらが行くつもりがないのであれば、私が直接解決してしんぜよう！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そなたらが行くつもりがないのであれば、私が直接解決してしんぜよう！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그대가 나설 마음이 없다면 내가 직접 해결하겠네!\nEN:\nIf you are unwilling to take action, then I shall myself!"
+  },
+  {
+    "key": "91-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "91-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "91-content",
+    "original": "…ふぅ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…ふぅ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…후.\nEN:\n…Hoo."
+  },
+  {
+    "key": "92-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "92-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "92-content",
+    "original": "コードパープル、コードパープル。禁忌K185違反発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コードパープル、コードパープル。禁忌K185違反発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코드 퍼플, 코드 퍼플. 금기 K185 위반 발생.\nEN:\nCode purple. Code purple. Violation of Taboo K185 on site."
+  },
+  {
+    "key": "93-teller",
+    "original": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "検問所の職員\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검문소 직원\nEN:\nCheckpoint Official"
+  },
+  {
+    "key": "93-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "93-content",
+    "original": "トロンボサイト支援要請。繰り返す、トロンボサイト…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "トロンボサイト支援要請。繰り返す、トロンボサイト…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n트롬보사이트 지원 요망. 재전파, 트롬보사이트…\nEN:\nRequesting Thrombocyte units. Repeat, requesting Thrombocyte…"
+  },
+  {
+    "key": "94-content",
+    "original": "定型文以外の話し方が分からないように見えた検問所の職員は、\nやがて殺伐とした言葉を無線に吹き込み始め、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "定型文以外の話し方が分からないように見えた検問所の職員は、\nやがて殺伐とした言葉を無線に吹き込み始め、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n똑같은 문장 외엔 말하는 방법을 모르는 것 같았던 검문소 직원은 이윽고 살벌해 보이는 단어를 무전에 불어넣기 시작했고,\nEN:\nVeering away from inquiry like a broken record, the official spoke an intimidating immune response to the radio."
+  },
+  {
+    "key": "95-teller",
+    "original": "案内放送\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "案内放送\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안내 방송\nEN:\nAnnouncement"
+  },
+  {
+    "key": "95-title",
+    "original": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사\nEN:\nK Corp."
+  },
+  {
+    "key": "95-content",
+    "original": "お知らせします。コードパープル、コードパープル。\n循環二棟、検問所14番。トロンボサイト、ルーコサイト。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お知らせします。コードパープル、コードパープル。\n循環二棟、検問所14番。トロンボサイト、ルーコサイト。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안내합니다. 코드 퍼플, 코드 퍼플. 순환 2동 검문소 14번. 트롬보사이트, 루코사이트.\nEN:\nAttention all personnel: Code purple. Code purple. Circulation Hall 2, Inspection Booth 14. Thrombocyte, Leukocyte."
+  },
+  {
+    "key": "96-content",
+    "original": "厚い鉄門が恐ろしい勢いで閉じられ、何と喚いているのか聞き取れない言葉と\nサイレンが容赦なく鳴り響き始めた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "厚い鉄門が恐ろしい勢いで閉じられ、何と喚いているのか聞き取れない言葉と\nサイレンが容赦なく鳴り響き始めた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두꺼운 철문들이 무서운 기세로 닫히며, 무어라 떠드는지 알 수 없는 말과 사이렌이 사정없이 울려 퍼지기 시작했다.\nEN:\nBlaring sirens accompanied the perplexing announcement, all the while thick metal gates shut around us."
+  },
+  {
+    "key": "97-content",
+    "original": "…フツーに頭をぶっ潰して死体袋に入れていけば良かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…フツーに頭をぶっ潰して死体袋に入れていけば良かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그냥 대갈통을 부수고 시체 자루에 넣어서 지나갈 걸 그랬어.\nEN:\n…Should’ve smashed her skull in and carried her in a body sack."
+  },
+  {
+    "key": "98-content",
+    "original": "そうしたところで、そう変わらなかったと思いますけどね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうしたところで、そう変わらなかったと思いますけどね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런다고 아주 달라질 건 없었을 것 같지만요.\nEN:\nI doubt that would’ve made much of a difference."
+  },
+  {
+    "key": "99-content",
+    "original": "トロンボ、ルーコ…各々血小板、白血球を意味するようなり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "トロンボ、ルーコ…各々血小板、白血球を意味するようなり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n트롬보, 루코… 각각 혈소판, 백혈구를 의미하는 것 같소만.\nEN:\nThrombo, Leuko… I believe they refer to platelets and white blood cells respectively."
+  },
+  {
+    "key": "100-content",
+    "original": "彼らのようですね。K社とお似合いです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "彼らのようですね。K社とお似合いです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저들을 의미하나 보군요. K사와 어울리네요.\nEN:\nIt must be them. Fitting for K Corp, I’d say."
+  },
+  {
+    "key": "101-content",
+    "original": "ファウストが指を向けた方向へ、皆が顔を向けると…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが指を向けた方向へ、皆が顔を向けると…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 손가락을 들어 올린 방향으로 모두가 고개를 돌렸고…\nEN:\nLooking in the direction Faust indicated, we all saw what she meant."
+  },
+  {
+    "key": "102-content",
+    "original": "ごつい服装をした人達もまた、私たちのことを見つめていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ごつい服装をした人達もまた、私たちのことを見つめていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사나운 복장을 한 사람들 역시 우리를 바라보고 있었다.\nEN:\nSecurity forces wearing menacing uniforms were staring at us."
+  }
+]

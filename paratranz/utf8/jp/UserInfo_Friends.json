@@ -1,0 +1,499 @@
+[
+  {
+    "key": "GetConditionTitle-content",
+    "original": "獲得条件\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "獲得条件\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n획득조건\nEN:\nRequirements"
+  },
+  {
+    "key": "BannerSelect-content",
+    "original": "バナー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バナー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장식 배너\nEN:\nBanner"
+  },
+  {
+    "key": "Personality-content",
+    "original": "人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격\nEN:\nIdentities"
+  },
+  {
+    "key": "CharacterNumber-content",
+    "original": "番号\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "番号\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n번호\nEN:\nID"
+  },
+  {
+    "key": "Rarity-content",
+    "original": "レアリティ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "レアリティ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n희귀도\nEN:\nRarity"
+  },
+  {
+    "key": "Season-content",
+    "original": "シーズン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌\nEN:\nSeason"
+  },
+  {
+    "key": "Group-content",
+    "original": "所属\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "所属\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소속\nEN:\nFaction"
+  },
+  {
+    "key": "Name-content",
+    "original": "名前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "名前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이름\nEN:\nName"
+  },
+  {
+    "key": "LastLoginDay-content",
+    "original": "最終ログイン日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終ログイン日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최근 접속일\nEN:\nLast Online:"
+  },
+  {
+    "key": "Manager-content",
+    "original": "管理人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자\nEN:\nManager"
+  },
+  {
+    "key": "Company-content",
+    "original": "会社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "会社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회사\nEN:\nCompany"
+  },
+  {
+    "key": "Friends-content",
+    "original": "フレンド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구\nEN:\nFriends"
+  },
+  {
+    "key": "Add_Friends-content",
+    "original": "フレンド追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンド追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 추가\nEN:\nAdd a Friend"
+  },
+  {
+    "key": "Delete_Friends-content",
+    "original": "フレンド削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンド削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 삭제\nEN:\nRemove Friend"
+  },
+  {
+    "key": "Waiting_Friends-content",
+    "original": "リクエスト中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リクエスト中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요청 중\nEN:\nSent Requests"
+  },
+  {
+    "key": "Accept_Friends-content",
+    "original": "承認待ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "承認待ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수락 대기\nEN:\nInbox"
+  },
+  {
+    "key": "Last_Reload-content",
+    "original": "{0}秒前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}秒前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}초 전\nEN:\n{0}s ago!"
+  },
+  {
+    "key": "WaitCancle-content",
+    "original": "キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요청 취소\nEN:\nCancel"
+  },
+  {
+    "key": "Refuse-content",
+    "original": "拒否\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拒否\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거절\nEN:\nDecline"
+  },
+  {
+    "key": "Accept-content",
+    "original": "承諾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "承諾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수락\nEN:\nAccept"
+  },
+  {
+    "key": "Send_Add_Friends-content",
+    "original": "フレンドに追加しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンドに追加しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 추가하시겠습니까?\nEN:\nSend them a friend request?"
+  },
+  {
+    "key": "Delete_Friends_Apply-content",
+    "original": "フレンドリストから削除しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンドリストから削除しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 목록에서 삭제하시겠습니까?\nEN:\nAre you sure you want to remove this user from your friend list?"
+  },
+  {
+    "key": "SendSendFriend_1-content",
+    "original": "リクエスト上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リクエスト上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요청가능 상한이 가득찼습니다.\nEN:\nYou have too many requests."
+  },
+  {
+    "key": "SendSendFriend_2-content",
+    "original": "フレンドリスト上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンドリスト上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 상한이 가득찼습니다.\nEN:\nYour friend list is full."
+  },
+  {
+    "key": "SendSendFriend_3-content",
+    "original": "相手のリクエスト待機数が上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "相手のリクエスト待機数が上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상대방의 수락대기열이 가득찼습니다.\nEN:\nThis user currently has too many requests."
+  },
+  {
+    "key": "SendSendFriend_4-content",
+    "original": "相手のフレンドリストが上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "相手のフレンドリストが上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상대방의 친구 상한이 가득찼습니다.\nEN:\nThis user’s friend list is full."
+  },
+  {
+    "key": "SendSendFriend_5-content",
+    "original": "無効なユーザーです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無効なユーザーです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유효하지 않은 유저입니다.\nEN:\nInvalid user."
+  },
+  {
+    "key": "SendSendFriend_6-content",
+    "original": "リクエストを送信済みのユーザーです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リクエストを送信済みのユーザーです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 요청목록에 있는 유저입니다.\nEN:\nThe user is already on the request list."
+  },
+  {
+    "key": "SendSendFriend_7-content",
+    "original": "予測できないエラーが発生しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予測できないエラーが発生しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예기치 못한 오류가 발생했습니다.\nEN:\nAn unexpected error has occurred."
+  },
+  {
+    "key": "SendAcceptReceivedFriend_1-content",
+    "original": "フレンドリスト上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンドリスト上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 상한이 가득찼습니다.\nEN:\nYour friend list is full."
+  },
+  {
+    "key": "SendAcceptReceivedFriend_2-content",
+    "original": "相手のフレンドリストが上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "相手のフレンドリストが上限に達しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상대방의 친구 상한이 가득찼습니다.\nEN:\nThis user’s friend list became full."
+  },
+  {
+    "key": "SendAcceptReceivedFriend_3-content",
+    "original": "相手がフレンドリクエストをキャンセルしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "相手がフレンドリクエストをキャンセルしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상대방이 친구요청을 취소했습니다.\nEN:\nThe user canceled their request."
+  },
+  {
+    "key": "SendAcceptReceivedFriend_4-content",
+    "original": "予測できないエラーが発生しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予測できないエラーが発生しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예기치 못한 오류가 발생했습니다.\nEN:\nAn unexpected error has occurred."
+  },
+  {
+    "key": "Today-content",
+    "original": "今日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오늘\nEN:\nToday!"
+  },
+  {
+    "key": "Ago-content",
+    "original": "{0}日前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}日前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}일 전\nEN:\n{0}d ago"
+  },
+  {
+    "key": "Day_Ago-content",
+    "original": "MM月 dd日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "MM月 dd日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nMM월 dd일\nEN:\nMM/dd"
+  },
+  {
+    "key": "Change_Introduce-content",
+    "original": "挨拶文の変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "挨拶文の変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인사말 변경\nEN:\nEdit Intro Tagline"
+  },
+  {
+    "key": "Sorting_Level-content",
+    "original": "アカウントレベル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アカウントレベル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계정 레벨\nEN:\nLevel"
+  },
+  {
+    "key": "Sorting_LastLogin-content",
+    "original": "最終ログイン日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終ログイン日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최근 접속일\nEN:\nLast Online"
+  },
+  {
+    "key": "Season_0-content",
+    "original": "恒常\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "恒常\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n통상\nEN:\nRegular"
+  },
+  {
+    "key": "Season_1-content",
+    "original": "シーズン1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 1\nEN:\nSeason 1"
+  },
+  {
+    "key": "Season_2-content",
+    "original": "シーズン2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 2\nEN:\nSeason 2"
+  },
+  {
+    "key": "Change-content",
+    "original": "変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n변경\nEN:\nChange"
+  },
+  {
+    "key": "Uninstall-content",
+    "original": "解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해제\nEN:\nUnequip"
+  },
+  {
+    "key": "All-content",
+    "original": "全体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전체\nEN:\nAll"
+  },
+  {
+    "key": "Reset_Company_Title-content",
+    "original": "設定の初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "設定の初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n설정 초기화\nEN:\nReset Settings"
+  },
+  {
+    "key": "Reset_Company_desc-content",
+    "original": "会社設定を初期化しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "会社設定を初期化しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회사 설정을 초기화 하시겠습니까?\nEN:\nAre you sure you want to reset your company settings?"
+  },
+  {
+    "key": "NO_Friends-content",
+    "original": "まだここには何も表示されません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まだここには何も表示されません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아직 이곳에는 아무도 없습니다.\nEN:\nNothing to display here yet."
+  },
+  {
+    "key": "NO_SendFriends-content",
+    "original": "リクエストはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リクエストはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요청한 내용이 없습니다.\nEN:\nNo requests made."
+  },
+  {
+    "key": "NO_AcceptFriends-content",
+    "original": "リクエストはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リクエストはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요청 받은 내용이 없습니다.\nEN:\nNo requests received."
+  },
+  {
+    "key": "SupportPersonality_Reset-content",
+    "original": "初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초기화\nEN:\nReset"
+  },
+  {
+    "key": "SearchFriends-content",
+    "original": "フレンドサーチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレンドサーチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n친구 찾기\nEN:\nDiscover w/ ID"
+  },
+  {
+    "key": "ReLoad-content",
+    "original": "更新\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "更新\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새로고침\nEN:\nRefresh"
+  },
+  {
+    "key": "Btn_Search-content",
+    "original": "サーチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サーチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찾기\nEN:\nSearch"
+  },
+  {
+    "key": "Sentence-content",
+    "original": "フレーズ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレーズ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n문장\nEN:\nPhrase"
+  },
+  {
+    "key": "Word-content",
+    "original": "ワード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ワード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단어\nEN:\nWord"
+  },
+  {
+    "key": "Uid_Copy-content",
+    "original": "コピー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コピー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복사\nEN:\nCopy"
+  },
+  {
+    "key": "Uid_Copy_ModalTitle-content",
+    "original": "コピー完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コピー完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복사 완료\nEN:\nCopy Success"
+  },
+  {
+    "key": "Uid_Copy_ModalDesc-content",
+    "original": "IDをコピーしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "IDをコピーしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이디가 복사되었습니다.\nEN:\nThe ID has been copied."
+  },
+  {
+    "key": "TicketCustom_Button-content",
+    "original": "チケットデコ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チケットデコ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n티켓 꾸미기\nEN:\nCustomize"
+  },
+  {
+    "key": "TicketCustom_Popup_L-content",
+    "original": "フレーム1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレーム1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n테두리 1\nEN:\nBorder 1"
+  },
+  {
+    "key": "TicketCustom_Popup_R-content",
+    "original": "フレーム2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレーム2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n테두리 2\nEN:\nBorder 2"
+  },
+  {
+    "key": "TicketCustom_Popup_EGOBG-content",
+    "original": "背景\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "背景\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배경\nEN:\nBg"
+  },
+  {
+    "key": "Using-content",
+    "original": "使用中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용중\nEN:\nIn Use"
+  },
+  {
+    "key": "IntroduceSort_Default-content",
+    "original": "基本\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본\nEN:\nDefault"
+  },
+  {
+    "key": "IntroduceSort_ABC-content",
+    "original": "アルファベット順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アルファベット順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가나다 순\nEN:\nAlphabetical"
+  },
+  {
+    "key": "IntroduceSort_Acquisition-content",
+    "original": "獲得順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "獲得順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n획득 순\nEN:\nClaim Date"
+  },
+  {
+    "key": "SimilarBanner-content",
+    "original": "バナーリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バナーリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배너 목록\nEN:\nBanner List"
+  },
+  {
+    "key": "SimilarTicket-content",
+    "original": "チケットリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チケットリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n티켓 목록\nEN:\nTicket List"
+  },
+  {
+    "key": "Choosing-content",
+    "original": "選択中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 중\nEN:\nSelecting"
+  },
+  {
+    "key": "IntroduceSort_Release-content",
+    "original": "リリース順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リリース順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출시 순\nEN:\nRelease Date"
+  }
+]

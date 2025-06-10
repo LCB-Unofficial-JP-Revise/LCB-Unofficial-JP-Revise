@@ -1,0 +1,65 @@
+[
+  {
+    "key": "dungeon_battle_reward_case_format_cost_acquisition-content",
+    "original": "コスト{0} 獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト{0} 獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 {0} 획득\nEN:\nGain {0} Cost"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_cost_and_gift_acquisition-content",
+    "original": "コスト{0} 獲得\n{1}%の確率でランク{2}以下のランダムな(入場時選択したキーワード)E.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト{0} 獲得\n{1}%の確率でランク{2}以下のランダムな(入場時選択したキーワード)E.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 {0} 획득\n{1}% 확률로 {2}등급 이하의 무작위 (입장 시 선택한 키워드) E.G.O 기프트 획득\nEN:\nGain {0} Cost\n{1}% chance to gain a random Tier {2} or lower E.G.O Gift of the Keyword Category selected at the start of the Mirror Dungeon"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition-content",
+    "original": "コスト{0} 獲得\n{1}%の確率でランダムなE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト{0} 獲得\n{1}%の確率でランダムなE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 {0} 획득\n{1}% 확률로 무작위 E.G.O 기프트 획득\nEN:\nGain {0} Cost\n{1}% chance to gain a random E.G.O Gift"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_random_gift_acquisition-content",
+    "original": "ランク{0}のランダムなE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク{0}のランダムなE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}등급 무작위 E.G.O 기프트 획득\nEN:\nGain a random Tier {0} E.G.O Gift"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_chip_acquisition-content",
+    "original": "最終クリア時、星明かりを{0}追加で獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終クリア時、星明かりを{0}追加で獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 클리어 시, 별빛 {0} 추가 획득\nEN:\nGain additional {0} Starlight upon clearing the Mirror Dungeon"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_random_ego_resource_acquisition-content",
+    "original": "ランダムなE.G.O資源{0}種 +{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムなE.G.O資源{0}種 +{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 E.G.O 자원 {0}종 +{1}\nEN:\nE.G.O Resource +{1} for {0} different Affinities"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_least_ego_resource_acquisition-content",
+    "original": "最も少ないE.G.O資源{0}種 +{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最も少ないE.G.O資源{0}種 +{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제일 적은 E.G.O 자원 {0}종 +{1}\nEN:\nE.G.O Resource +{1} for {0} of the least-owned Affinities"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword-content",
+    "original": "コスト{0} 獲得\n{1}%の確率でランク{2}のランダムな{3}E.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト{0} 獲得\n{1}%の確率でランク{2}のランダムな{3}E.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 {0} 획득\n{1}% 확률로 {2}등급 무작위 {3} E.G.O 기프트 획득\nEN:\nGain {0} Cost\n{1}% chance to gain a random Tier {2} {3} E.G.O Gift"
+  },
+  {
+    "key": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword_none_or_random-content",
+    "original": "コスト{0} 獲得\n{1}%の確率でランク{2}のランダムなE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト{0} 獲得\n{1}%の確率でランク{2}のランダムなE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 {0} 획득\n{1}% 확률로 {2}등급 무작위 E.G.O 기프트 획득\nEN:\nGain {0} Cost\n{1}% chance to gain a random Tier {2} E.G.O Gift"
+  }
+]

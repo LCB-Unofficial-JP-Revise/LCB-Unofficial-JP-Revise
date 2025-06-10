@@ -1,0 +1,359 @@
+[
+  {
+    "key": "836602-desc",
+    "original": "再生炉の基本的な機能以外にも、非活性状態になっていた安全チームのシステムの一つを起動できそうだ。\n\nどのシステムを起動しようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再生炉の基本的な機能以外にも、非活性状態になっていた安全チームのシステムの一つを起動できそうだ。\n\nどのシステムを起動しようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재생로의 기본적인 기능 이외에도 비활성화된 안전팀의 시스템 중 하나를 활성화할 수 있을 것 같다.\n\n어떤 시스템을 활성화할까?\nEN:\nLooks like we can restore one of the deactivated systems of the Safety Team, apart from the basic functionalities of the Regenerator.\n\nWhich one should we reactivate?"
+  },
+  {
+    "key": "836602-options[0].message",
+    "original": "再生炉Mk2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再生炉Mk2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재생로 Mk2\nEN:\nRegenerator Mk2"
+  },
+  {
+    "key": "836602-options[0].messageDesc",
+    "original": "選択時、全味方の体力を回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、全味方の体力を回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시 모든 아군 체력 회복.\nEN:\nSelect to heal HP for all allies."
+  },
+  {
+    "key": "836602-options[0].result[0]",
+    "original": "再生炉Mk2が活性化された。\n\n囚人たちの身体が素早く修復されるのが感じられる。\n\n疲労や負傷等も、しばらくするとすっかり無くなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再生炉Mk2が活性化された。\n\n囚人たちの身体が素早く修復されるのが感じられる。\n\n疲労や負傷等も、しばらくするとすっかり無くなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재생로 Mk2가 활성화되었다.\n\n수감자들의 신체가 빠르게 수복되는 것이 느껴진다.\n\n피로나 부상 또한 얼마 지나지 않아 말끔히 사라졌다.\nEN:\nRegenerator Mk2 reactivated.\n\nI can feel the Sinners' bodies rapidly regenerating.\n\nIt didn't just regenerate our wounds; it healed their fatigue or minor injuries as well."
+  },
+  {
+    "key": "836602-options[1].message",
+    "original": "精神汚染中和ガス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神汚染中和ガス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신 오염 중화 가스\nEN:\nMental Corruption Neutralizing Gas"
+  },
+  {
+    "key": "836602-options[1].messageDesc",
+    "original": "選択時、全味方の精神力を回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、全味方の精神力を回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시 모든 아군 정신력 회복.\nEN:\nSelect to heal SP for all allies."
+  },
+  {
+    "key": "836602-options[1].result[0]",
+    "original": "精神汚染中和ガスが活性化された。\n\n囚人たちは頭が澄んだかのように、一気に安堵した表情を浮かべる。\n\n次の戦闘に支障が無いくらいに、コンディションが確実に良くなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神汚染中和ガスが活性化された。\n\n囚人たちは頭が澄んだかのように、一気に安堵した表情を浮かべる。\n\n次の戦闘に支障が無いくらいに、コンディションが確実に良くなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신 오염 중화 가스가 활성화되었다.\n\n수감자들은 머리가 맑아진 것처럼 한결 편안한 표정을 짓는다.\n\n다음 전투에 문제가 없을 만큼 컨디션이 확실히 나아졌다.\nEN:\nThe Mental Corruption Neutralizing Gas has been activated.\n\nThe Sinners all look noticeably more comfortable, as though their heads have been cleared.\n\nWe're now all ready to fight our next battle."
+  },
+  {
+    "key": "971032-name",
+    "original": "教育および機械装置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "教育および機械装置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n교육 및 기계장치\nEN:\nEducation & Machine Console"
+  },
+  {
+    "key": "971032-desc",
+    "original": "廊下を通り過ぎる途中、火花が散る隔離室を見つけた。\n\n発電機が故障していて扉が閉まらないけど、中にいる幻想体が脱走した様子はない。\n\n部屋の中を見回しても、奥が暗くて正確に見えない。\n\nただ、天井の蜘蛛の糸と異常に黒い床が不気味に広がっているだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "廊下を通り過ぎる途中、火花が散る隔離室を見つけた。\n\n発電機が故障していて扉が閉まらないけど、中にいる幻想体が脱走した様子はない。\n\n部屋の中を見回しても、奥が暗くて正確に見えない。\n\nただ、天井の蜘蛛の糸と異常に黒い床が不気味に広がっているだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복도를 지나던 중, 스파크가 튀는 격리실을 발견했다.\n\n발전기가 고장 나 문이 닫히지 않지만, 안에 있는 환상체가 탈출한 것으로 보이진 않는다.\n\n방 안을 살피면 안쪽이 어두워 정확히 보이지 않는다.\n\n그저 천장의 거미줄과 이상하리만치 검은 바닥이 기이할 뿐.\nEN:\nWe came across a containment unit as we were making our way across the hallway. Its door is letting off sparks of lightning.\n\nLooks like the generator's shorted; the door refuses to close. But it doesn't seem like whatever Abnormality in there's escaped.\n\nTry as we might to take a better look inside, the sheer darkness of the containment unit makes it hard to tell what's going on in there.\n\nThe webs haning from the ceiling and the suspiciously pitch-black floor were quite bizarre to behold, however."
+  },
+  {
+    "key": "971032-options[0].message",
+    "original": "蜘蛛の糸を凝視する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蜘蛛の糸を凝視する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거미줄을 응시한다.\nEN:\nStare at the webs."
+  },
+  {
+    "key": "971032-options[0].messageDesc",
+    "original": "選択時、出血E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、出血E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 출혈 E.G.O GIFT 획득\nEN:\nSelect to gain a Bleed E.G.O Gift"
+  },
+  {
+    "key": "971032-options[0].result[0]",
+    "original": "蜘蛛の糸を凝視すると、隙間に沢山の蜘蛛が見える。\n\n蜘蛛の糸だけではない。\n\n床一面を覆う闇の中で、赤い眼を輝かせながら蠢くものが見える。\n\n小さな蜘蛛たちは発電機を確認すると、糸で包み始めた。\n\nそのうちの数匹が、まとわりつくように囚人たちの体を這い上がってくる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蜘蛛の糸を凝視すると、隙間に沢山の蜘蛛が見える。\n\n蜘蛛の糸だけではない。\n\n床一面を覆う闇の中で、赤い眼を輝かせながら蠢くものが見える。\n\n小さな蜘蛛たちは発電機を確認すると、糸で包み始めた。\n\nそのうちの数匹が、まとわりつくように囚人たちの体を這い上がってくる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거미줄을 응시하니 사이사이 거미들이 보인다.\n\n거미줄만이 아니다.\n\n바닥을 가득 채운 어둠이 붉은 눈을 빛내며 바글거리는 것이 보인다.\n\n작은 거미들은 발전기를 확인하더니 거미줄을 감았다.\n\n그 중 몇마리가 달라붙듯 수감자들을 타고 기어오른다.\nEN:\nLooking through the webs reveals... small spiders crawling within.\n\nAnd that they were no mere spiderweb.\n\nThe darkness that devoured the floor lights up, red eyes glowing and teeming.\n\nThe little spiders notice the generator, and begin weaving their webs.\n\nSome of them stick to the Sinners, slowly crawling up their bodies."
+  },
+  {
+    "key": "971032-options[1].message",
+    "original": "発電機を確認する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "発電機を確認する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n발전기를 확인한다.\nEN:\nCheck the generator."
+  },
+  {
+    "key": "971032-options[1].messageDesc",
+    "original": "選択時、充電E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、充電E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 충전 E.G.O GIFT 획득\nEN:\nSelect to gain a Charge E.G.O Gift"
+  },
+  {
+    "key": "971032-options[1].result[0]",
+    "original": "火花が飛び散る発電機を調べていると、故障した部品を難なく見つけた。\n\n部品を慎重に取り外した。\n\nすると全ての接続が断たれたかのように火花が止まり、隔離室の扉が一瞬にして閉まった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火花が飛び散る発電機を調べていると、故障した部品を難なく見つけた。\n\n部品を慎重に取り外した。\n\nすると全ての接続が断たれたかのように火花が止まり、隔離室の扉が一瞬にして閉まった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스파크가 튀는 발전기를 살피던 중, 고장난 부품을 어렵지 않게 발견했다.\n\n부품을 조심스럽게 빼내었다.\n\n그러자 모든 연결이 끊긴 듯, 스파크가 멎고 격리실 문이 순식간에 닫혔다.\nEN:\nThankfully, it doesn't take much time before a malfunctioning part is identified.\n\nWe carefully removed the malfunctioning part...\n\n... and all of a sudden, the generator stops fizzling, and the door of the containment unit slams shut."
+  },
+  {
+    "key": "971032-options[2].message",
+    "original": "蜘蛛の糸を凝視しつつ、発電機を確認する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蜘蛛の糸を凝視しつつ、発電機を確認する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거미줄을 응시하며, 발전기를 확인한다.\nEN:\nCheck the generator, but don't take your eyes off the webs."
+  },
+  {
+    "key": "971032-options[2].messageDesc",
+    "original": "嫉妬・色欲有利判定進行時、出血E.G.O GIFT・充電E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "嫉妬・色欲有利判定進行時、出血E.G.O GIFT・充電E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n질투 · 색욕 유리 판정 진행 시, 출혈 E.G.O GIFT · 충전 E.G.O GIFT 획득\nEN:\nEnvy & Lust Advantage check. Pass to gain a Bleed & Charge E.G.O Gift."
+  },
+  {
+    "key": "971033-name",
+    "original": "安全チーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "安全チーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안전팀\nEN:\nSafety Team"
+  },
+  {
+    "key": "971033-desc",
+    "original": "エメラルド色の光で満たされた部屋の中。\n\n誰かが零したのか、エンケファリンが机の上からぽたぽたと垂れている。\n\n「管理人様、ここにエンケファリンがあります。」\n\n「うむ、これを溜めて持っていけば非常に役立つ可能性が高い。」\n\n「み・あ・ガ・ガ。」\n\n「緑色の液体より、あのガラスの中にあるガスの方が気に入ったとのことです…。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エメラルド色の光で満たされた部屋の中。\n\n誰かが零したのか、エンケファリンが机の上からぽたぽたと垂れている。\n\n「管理人様、ここにエンケファリンがあります。」\n\n「うむ、これを溜めて持っていけば非常に役立つ可能性が高い。」\n\n「み・あ・ガ・ガ。」\n\n「緑色の液体より、あのガラスの中にあるガスの方が気に入ったとのことです…。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에메랄드 빛으로 가득 채워진 방 안.\n\n누군가 흘렸는지 모를 엔케팔린이 책상 위에서 뚝뚝 떨어지고 있다.\n\n'관리자 님, 여기 엔케팔린이 있습니다.'\n\n'음, 담아가면 도움이 될 가능성이 현저히 높다.'\n\n'초.저.유.가.'\n\n'초록색 액체보다 저쪽 유리 안에 있는 가스가 마음에 드신다네요…'\nEN:\nEvery corner of this room is filled with an emerald light.\n\nSomebody spilled a bunch of Enkephalin on the table, enough to start slowly dripping to the floor.\n\n'Executive Manager, we've found some Enkephalin here.'\n\n'Mm. It will likely be helpful to our endeavors should we collect them'\n\n'T.T.G.G.C.C?'\n\n'\"Take that glass gas canister, capiche?\" ... she says...'"
+  },
+  {
+    "key": "971033-options[0].message",
+    "original": "零れだしたエンケファリンを持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "零れだしたエンケファリンを持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흘러내린 엔케팔린을 챙긴다.\nEN:\nScoop up some Enkephalin."
+  },
+  {
+    "key": "971033-options[0].messageDesc",
+    "original": "選択時、沈潜E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、沈潜E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 침잠 E.G.O GIFT 획득\nEN:\nSelect to gain a Sinking E.G.O Gift"
+  },
+  {
+    "key": "971033-options[0].result[0]",
+    "original": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n「あの不吉さから来る芸術的な歪みが見えないのか？」\n\n「おい、そんなのお前しか分かんねぇぞ？」\n\n「ところで、ふむ。零れてるなら汚染してたりはしないのか？」\n\n「エンケファリンはそんな簡単に汚染されるタイプの物質ではありません。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n程なくして、囚人たちはエンケファリンの入った箱を抱えながら足早にその場を後にした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n「あの不吉さから来る芸術的な歪みが見えないのか？」\n\n「おい、そんなのお前しか分かんねぇぞ？」\n\n「ところで、ふむ。零れてるなら汚染してたりはしないのか？」\n\n「エンケファリンはそんな簡単に汚染されるタイプの物質ではありません。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n程なくして、囚人たちはエンケファリンの入った箱を抱えながら足早にその場を後にした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'정체를 알 수 없는 가스는 위험하다! 엔케팔린만 담아서 나가는 것이 낫겠군.'\n\n'흥, 아무것도 모르는 소리.'\n\n'저 불길함에서 오는 예술적인 일그러짐이 보이지 않나?'\n\n'야, 그딴 건 너밖에 모르거든…?'\n\n'그런데 음, 흘러내린 거면 오염되거나 그럴 수도 있지 않나?'\n\n'엔케팔린은 그렇게 쉽게 오염되는 종류의 물질이 아닙니다.'\n\n수감자들은 이내 파벌이 나뉘듯 두 갈래로 갈라져 논쟁을 벌이기 시작했다.\n\n얼마의 시간이 지나지 않아, 수감자들은 품에 엔케팔린이 든 상자를 안고 길을 재촉했다.\nEN:\n'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\n'Do you not see the twisted beauty emanating from the ominous gas container?'\n\n'Nah, lass. I don't. It's just you.'\n\n'So, um. Wouldn't that Enkephalin also be contaminated or something?'\n\n'Enkephalin is not a material that is so easily tainted.'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nFew minutes later, we found ourselves quickly making our way through the hallway with a box of Enkephalin in our hands."
+  },
+  {
+    "key": "971033-options[1].message",
+    "original": "ガスを持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガスを持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가스를 챙긴다.\nEN:\nTake the gas canister."
+  },
+  {
+    "key": "971033-options[1].messageDesc",
+    "original": "選択時、沈潜E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、沈潜E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 침잠 E.G.O GIFT 획득\nEN:\nSelect to gain a Sinking E.G.O Gift"
+  },
+  {
+    "key": "971033-options[1].result[0]",
+    "original": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n「あの不吉さから来る芸術的な歪みが見えないのか？」\n\n「白く揺蕩うが気に入りき。」\n\n「おお！でもガスをどうやって持っていくつもりであるか！？」\n\n「ここにガスを抽出して容器に入れるボタンがありますね～。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n程なくして、囚人たちはガスの入った容器を抱えながら足早にその場を後にした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n「あの不吉さから来る芸術的な歪みが見えないのか？」\n\n「白く揺蕩うが気に入りき。」\n\n「おお！でもガスをどうやって持っていくつもりであるか！？」\n\n「ここにガスを抽出して容器に入れるボタンがありますね～。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n程なくして、囚人たちはガスの入った容器を抱えながら足早にその場を後にした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'정체를 알 수 없는 가스는 위험하다! 엔케팔린만 담아서 나가는 것이 낫겠군.'\n\n'흥, 아무것도 모르는 소리.'\n\n'저 불길함에서 오는 예술적인 일그러짐이 보이지 않나?'\n\n'희뿌옇게 부유하는 것이 마음에 드오.'\n\n'오! 그런데 가스는 어떻게 들고 갈 생각인가!?'\n\n'여기 가스를 추출해서 통에 담는 버튼이 있는걸요~'\n\n수감자들은 이내 파벌이 나뉘듯 두 갈래로 갈라져 논쟁을 벌이기 시작했다.\n\n얼마의 시간이 지나지 않아, 수감자들은 품에 가스를 담은 통을 안고 길을 재촉했다.\nEN:\n'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\n'Do you not see the twisted beauty emanating from the ominous gas container?'\n\n'I am rather partial to the hazy levitation of the effluvium.'\n\n'Ooho, forsooth! Yet... how shalt thou carry the intangible gas!?'\n\n'Look, here's a button to extract the gas into a portable gas canister~'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nFew minutes later, we found ourselves quickly making our way through the hallway with a gas canister in our hands."
+  },
+  {
+    "key": "971033-options[2].message",
+    "original": "どっちも持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どっちも持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n둘 다 챙긴다\nEN:\nTake both"
+  },
+  {
+    "key": "971033-options[2].messageDesc",
+    "original": "色欲・怠惰有利判定進行時、結果によって沈潜E.G.O GIFT2種類を獲得(判定失敗時、戦闘発生)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色欲・怠惰有利判定進行時、結果によって沈潜E.G.O GIFT2種類を獲得(判定失敗時、戦闘発生)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 · 나태 유리 판정 진행 시, 결과에 따라 침잠 E.G.O GIFT 2종 획득 (판정 실패 시, 전투 발생)\nEN:\nLust & Sloth Advantage check. Pass to gain 2 Sinking E.G.O Gifts (failing begins a combat Encounter)"
+  },
+  {
+    "key": "971034-name",
+    "original": "罪善精神力回復用E.G.Oギフト付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪善精神力回復用E.G.Oギフト付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단악수선 정신력 회복용 E.G.O 기프트 보급\nEN:\nOne Sin SP Healing E.G.O Gift Giveaway"
+  },
+  {
+    "key": "971034-desc",
+    "original": "閉ざされた扉の隙間とガラス越しに光が漏れてくる。\n\nガラスの向こうには不気味な骸骨が見える。\n\n骸骨は十字架に茨で縛り付けられたまま、丸い光を放ちながら浮かんでいる。\n\n空虚な頭蓋骨の中の眼窩が、私たちを直視する。\n\n「この幻想体の名前は『たった一つの罪と何百もの善』です。」\n\n「もちろん、L社に存在していた個体とは同一ではないと思いますが。」\n\n「暗き二つの穴が、ひとえに我らを見透かすやのごとく、限りなく深しかし。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "閉ざされた扉の隙間とガラス越しに光が漏れてくる。\n\nガラスの向こうには不気味な骸骨が見える。\n\n骸骨は十字架に茨で縛り付けられたまま、丸い光を放ちながら浮かんでいる。\n\n空虚な頭蓋骨の中の眼窩が、私たちを直視する。\n\n「この幻想体の名前は『たった一つの罪と何百もの善』です。」\n\n「もちろん、L社に存在していた個体とは同一ではないと思いますが。」\n\n「暗き二つの穴が、ひとえに我らを見透かすやのごとく、限りなく深しかし。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닫혀있는 문틈과 유리를 통해 빛이 새어 나온다.\n\n유리 너머 기괴한 해골이 보인다.\n\n해골은 십자가에 가시나무로 묶인 채 둥근 빛을 띠며 부유하고 있다.\n\n공허한 두개골 속의 눈구멍이 우리를 직시한다.\n\n'이 환상체의 이름은 '단 한번의 악과 수백 가지의 선행'입니다.'\n\n'물론 L사에 존재했던 개체와 동일하진 않겠지만요.'\n\n'캄캄한 두 구멍이 마치 우리를 꿰뚫어보는 듯 한없이 깊구료'\nEN:\nA strand of light peeks through the glass and the ajar door.\n\nBeyond the glass is a bizarre skull...\n\nA floating skull bound by thorns to a cross, surrounded by a circular light.\n\nThe empty eye sockets of the skull gaze straight into us.\n\n'This Abnormality's denomination is 'One Sin and Hundreds of Good Deeds.'\n\n'Of course, it is not the same entity that once resided inside the L Corp.'\n\n'Fathomless depths lie within the hollows of its eyes; piercing us.'"
+  },
+  {
+    "key": "971034-options[0].message",
+    "original": "たった一つの罪と何百もの善に祈りを捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たった一つの罪と何百もの善に祈りを捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단 한번의 악과 수백 가지의 선행에게 기도를 올린다.\nEN:\nPray before One Sin and Hundreds of Good Deeds."
+  },
+  {
+    "key": "971034-options[0].messageDesc",
+    "original": "怠惰・憂鬱有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怠惰・憂鬱有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나태 · 우울 유리 판정 진행 시, 범용 E.G.O GIFT 획득\nEN:\nSloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift."
+  },
+  {
+    "key": "971034-options[1].message",
+    "original": "たった一つの罪と何百もの善に話し掛ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たった一つの罪と何百もの善に話し掛ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단 한번의 악과 수백 가지의 선행에게 말을 건다.\nEN:\nTalk to One Sin and Hundreds of Good Deeds."
+  },
+  {
+    "key": "971034-options[1].messageDesc",
+    "original": "怠惰・憂鬱有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怠惰・憂鬱有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나태 · 우울 유리 판정 진행 시, 범용 E.G.O GIFT 획득\nEN:\nSloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift."
+  },
+  {
+    "key": "971035-name",
+    "original": "体力回復、精神力回復あるいはコスト支給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力回復、精神力回復あるいはコスト支給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력 회복, 정신력 회복 혹은 코스트 지급\nEN:\nHeal HP, SP, or gain Cost"
+  },
+  {
+    "key": "971035-desc",
+    "original": "冷え冷えとした廊下で顔を上げると、白い蝶でいっぱいだった。\n\n翅を持ちながらも蝶はどこにも飛び立つことができないまま、廊下を漂っている。\n\n特に長く留まっている場所に足を運ぶと、透明なガラス越しに大きな棺が見える。\n\nそれは一人が横たわるには大きすぎるが、複数人が横たわるには明らかに小さすぎた。\n\n「棺が一つ、侘しげに置かれたりかし。」\n\n「うぅ、棺だなんて…。なんだか不気味ですね。触っちゃ駄目ですよね？」\n\n「触らないほうが安全ですが…中に何か役立つものがあるかもしれません。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "冷え冷えとした廊下で顔を上げると、白い蝶でいっぱいだった。\n\n翅を持ちながらも蝶はどこにも飛び立つことができないまま、廊下を漂っている。\n\n特に長く留まっている場所に足を運ぶと、透明なガラス越しに大きな棺が見える。\n\nそれは一人が横たわるには大きすぎるが、複数人が横たわるには明らかに小さすぎた。\n\n「棺が一つ、侘しげに置かれたりかし。」\n\n「うぅ、棺だなんて…。なんだか不気味ですね。触っちゃ駄目ですよね？」\n\n「触らないほうが安全ですが…中に何か役立つものがあるかもしれません。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싸늘해진 복도에서 고개를 들면, 하얀 나비들이 가득하다.\n\n날개가 달렸음에도 나비는 어디로도 날아가지 못한 채, 복도를 떠돌고 있다.\n\n유난히 오래 머무는 곳으로 걸음이 닿으면, 투명한 유리 너머 커다란 관이 보인다.\n\n그것은 한 명이 눕기엔 과해보이지만, 또 여럿이 눕기에는 턱없이 작았다.\n\n'관 하나가 쓸쓸히 놓여있소'\n\n'으으, 관이라니… 찝찝한 기분이 들어요. 만지면 안되겠죠?'\n\n'만지지 않는 편이 안전하겠지만… 안에 도움이 될만한 게 있을 수도 있겠죠.'\nEN:\nWe look up to see white butterflies above us.\n\nThough given wings, the butterflies wander the hallway, fluttering to nowhere.\n\nWe make our way to where it seems to rest a while, and we see a large coffin past the transparent glass window.\n\nIt was too grand for a one, yet too small for many.\n\n'A lonesome coffin lies.'\n\n'Eugh, a coffin...? I have a bad feeling about this. We probably shouldn't touch it, right?'\n\n'That'd be the safer choice, yeah... but what if there's something in there that could help us?"
+  },
+  {
+    "key": "971035-options[0].message",
+    "original": "棺を開けずに過ぎ去ろうと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棺を開けずに過ぎ去ろうと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관을 열지 않고 지나가자고 말한다.\nEN:\nLet's not mess with the coffin and leave."
+  },
+  {
+    "key": "971035-options[0].result[0]",
+    "original": "扉の向こうにある棺に向かってただ厳粛に、哀悼の意を表しながら通り過ぎた。\n\n凍えるように冷たい風に乗って、どこからともなく現れた蝶たちが舞い踊るように近づいてくる。\n\nそれが悲嘆の身悶えなのか、哀悼のための羽ばたきなのかはわからない。\n\nただ淡々と何かが、来た場所へ完全に帰っていったことを、蝶を見ながら偲ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "扉の向こうにある棺に向かってただ厳粛に、哀悼の意を表しながら通り過ぎた。\n\n凍えるように冷たい風に乗って、どこからともなく現れた蝶たちが舞い踊るように近づいてくる。\n\nそれが悲嘆の身悶えなのか、哀悼のための羽ばたきなのかはわからない。\n\nただ淡々と何かが、来た場所へ完全に帰っていったことを、蝶を見ながら偲ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n문 너머에 있는 관을 향해 그저 엄숙히, 애도를 표하고 지나갔다.\n\n시리도록 차가운 바람을 타고 어디서 왔는지 모를 나비들이 춤을 추듯 다가온다.\n\n그것이 비통한 몸부림인지, 애도를 위한 날갯짓인지는 알 수 없다.\n\n그저 담담하게 무언가 왔던 곳으로 온전히 돌아갔음을 나비를 보며 떠올린다.\nEN:\nWe solemnly paid our respects to the coffin past the door, then left.\n\nButterflies without a home dance, fluttering toward us on a shearing, cold wind.\n\nAre they writhing out of sorrow, or are they wingbeats of lamentation? We cannot know.\n\nA remembrance rises as I quietly observe the butterflies. That something has merely and fully returned to whence it came."
+  },
+  {
+    "key": "971035-options[1].message",
+    "original": "棺を開けてみようと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棺を開けてみようと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관을 열어보자고 말한다.\nEN:\nLet's see what's inside the coffin."
+  },
+  {
+    "key": "971035-options[1].messageDesc",
+    "original": "選択時、沈潜E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、沈潜E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 침잠 E.G.O GIFT 획득\nEN:\nSelect to gain a Sinking E.G.O Gift"
+  },
+  {
+    "key": "971035-options[1].result[0]",
+    "original": "棺の中には、冷たく息絶えた蝶ひとつが静かに、ただ静かに佇んでいる。\n\n終わりに何かがあるだろという無意味な羽ばたきを繰り返していた真っ白な蝶たちは、いつの間にか姿を消していた。\n\n死の果てには何があるのだろうか。実のところは、何も。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棺の中には、冷たく息絶えた蝶ひとつが静かに、ただ静かに佇んでいる。\n\n終わりに何かがあるだろうという無意味な羽ばたきを繰り返していた真っ白な蝶たちは、いつの間にか姿を消していた。\n\n死の果てには何があるのだろうか。実のところは、何も。\n<CMT_KR>오식: \"終わりに何かがあるだろ「」という無意味な羽ばたきを繰り返していた真っ白な蝶たちは、いつの間にか姿を消していた。\"  정확: \"終わりに何かがあるだろ「う」という無意味な羽ばたきを繰り返していた真っ白な蝶たちは、\"\n<CMT_EN>Typo: \"終わりに何かがあるだろ「」という無意味な羽ばたきを繰り返していた真っ白な蝶たちは、いつの間にか姿を消していた。\"  Correction: \"終わりに何かがあるだろ「う」という無意味な羽ばたきを繰り返していた真っ白な蝶たちは、\"\n<CMT_JP>誤植: \"終わりに何かがあるだろ「」という無意味な羽ばたきを繰り返していた真っ白な蝶たちは、いつの間にか姿を消していた。\"  訂正後: \"終わりに何かがあるだろ「う」という無意味な羽ばたきを繰り返していた真っ白な蝶たちは、\"",
+    "stage": 1,
+    "context": "KR:\n관 안에는 차갑게 죽은 나비 하나가 침묵 속에 가만히, 그저 가만히 머무른다.\n\n끝에 무언가 있을 것이라는 듯 부질없는 날개짓을 반복하던 새하얀 나비들은 어느새 자취를 감췄다.\n\n죽음의 끝에는 무엇이 있을까. 사실은 아무것도.\nEN:\nA cold cadaver of a butterfly rests silently inside the coffin.\n\nThe white butterflies, who so desperately fluttered their tiny wings in the faith that there must be something there at the end, are no more; gone, unnoticed by all.\n\nWhat lies past the periphery of death, one asks. Truth be told, there is nothing, nothing at all."
+  },
+  {
+    "key": "971036-name",
+    "original": "20番区の奇跡 ハードイベント1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20番区の奇跡 ハードイベント1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20번구의 기적 하드 이벤트 1\nEN:\nMiracle in District 20 Hard Event 1"
+  },
+  {
+    "key": "971036-desc",
+    "original": "赤くて青い照明でいっぱいの工場。\n\n何かをプレスする音と、ガチャガチャと鳴る工具の音が聞こえる場所に…。\n\nちっちゃいノーム達が忙しなく動いている。\n\n「早く動くんだノム！！」\n\n「レールに乗せるんだノム！！」\n\n「ラッピングしなきゃだノム！！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "赤くて青い照明でいっぱいの工場。\n\n何かをプレスする音と、ガチャガチャと鳴る工具の音が聞こえる場所に…。\n\nちっちゃいノーム達が忙しなく動いている。\n\n「早く動くんだノム！！」\n\n「レールに乗せるんだノム！！」\n\n「ラッピングしなきゃだノム！！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n붉고 푸른 조명이 가득한 공장.\n\n무언가를 찍어대는 소리와, 달그락거리는 공구 소리가 들리는 곳에는...\n\n조그마한 노움들이 바쁘게 움직이고 있다.\n\n'빨리 움직이라움!!'\n\n'레일에 올려라움!!'\n\n'포장해야 한다움!!'\nEN:\nThe factory is brightly lit with red and green light fixtures.\n\nAmidst the chaotic din of machines and clanking tools...\n\n... are tiny gnomes, scurrying about busily between the assembly lines.\n\n'Let's g-ome! Hurry up-ome!!'\n\n'Put 'em on the conveyor belt-ome!!'\n\n'Let's get packin'-ome!!'"
+  },
+  {
+    "key": "971036-options[0].message",
+    "original": "もう少し近寄る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もう少し近寄る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조금 더 다가간다.\nEN:\nApproach."
+  },
+  {
+    "key": "971036-options[0].messageDesc",
+    "original": "怠惰・暴食有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怠惰・暴食有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나태 · 탐식 유리 판정 진행 시, 범용 E.G.O GIFT 획득\nEN:\nRun a Sloth & Gluttony Advantage check to gain a Keywordless E.G.O Gift."
+  },
+  {
+    "key": "971036-options[0].result[0]",
+    "original": "そこには不思議なプレゼントがいっぱいある。\n\n探してみれば、役に立ちそうなものが見つかるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そこには不思議なプレゼントがいっぱいある。\n\n探してみれば、役に立ちそうなものが見つかるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그곳에는 신기한 선물들이 잔뜩 있다.\n\n찾아보면, 도움이 될 만한 것을 찾을 수 있을지도 모른다.\nEN:\nAll kinds of fascinating gifts are piled up here.\n\nMaybe we can rummage through it to find something that might be of help to us."
+  },
+  {
+    "key": "971036-options[1].message",
+    "original": "通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지나간다.\nEN:\nWalk past it."
+  },
+  {
+    "key": "971037-name",
+    "original": "20番区の奇跡 ハードイベント2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20番区の奇跡 ハードイベント2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20번구의 기적 하드 이벤트 2\nEN:\nMiracle in District 20 Hard Event 2"
+  },
+  {
+    "key": "971037-desc",
+    "original": "部屋の真ん中に、古びてギシギシと軋むベッドがぽつんと置かれている。\n\nその周囲にはランタンや燭台がびっしりと並んでいる。\n\nいくつかは冷えきっていて、黒く焦げた灰だけを残しているけど…。\n\nいくつかは未だに芯を燃やしながら、暖かく光っている。\n\nしかし垂れ下がった布団の横、足元あたりに広がる薄暗い闇が晴れる気配はない。\n\n床からは微かな震動が伝わってくる。\n\nじめじめした視線と、何かをずるずると引きずる音が聞こえる。\n\nあのベッドの下には、何がいるのだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋の真ん中に、古びてギシギシと軋むベッドがぽつんと置かれている。\n\nその周囲にはランタンや燭台がびっしりと並んでいる。\n\nいくつかは冷えきっていて、黒く焦げた灰だけを残しているけど…。\n\nいくつかは未だに芯を燃やしながら、暖かく光っている。\n\nしかし垂れ下がった布団の横、足元あたりに広がる薄暗い闇が晴れる気配はない。\n\n床からは微かな震動が伝わってくる。\n\nじめじめした視線と、何かをずるずると引きずる音が聞こえる。\n\nあのベッドの下には、何がいるのだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방 한가운데에 낡고 삐걱거리는 침대가 우두커니 놓여있다.\n\n그 주위엔 랜턴과 촛대가 빼곡히 늘어져 있다.\n\n어떤 것은 싸늘하게 식어, 검게 그을린 재만을 남겼지만...\n\n또 어떤 것은 여전히 심지를 태워 가며 따스히 빛나고 있다.\n\n그러나, 축 늘어진 이불 옆, 발치 아래에 자리한 스산한 어둠은 걷힐 기미가 없다.\n\n바닥에서 미묘한 떨림이 느껴진다.\n\n축축한 시선과 무언가를 질질 끄는 소리가 들린다.\n\n저 침대 밑에는 무엇이 있을까.\nEN:\nAn old, creaky bed sits solemnly in the middle of the room.\n\nIt is surrounded by numerous lanterns and candlesticks.\n\nSome are burnt out, their remains ashen and cold, leaving only dark singes as testament of their old flames...\n\nBut the others were still lit, their warm flames diligently traveling down the wicks.\n\nYet, the chillingly dark shadows lurking at the bed's legs, next to the sheets half-sliding off the bed, are shrouded still.\n\nAn odd tremor vibrates the floor.\n\nAnd soon, I hear a sound of something dragging across the floor accompanied by a sensation of a cold, clammy gaze peering intently in my direction...\n\nWhat could possibly lie beneath that bed?"
+  },
+  {
+    "key": "971037-options[0].message",
+    "original": "ベッドに近づく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ベッドに近づく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침대에 다가간다.\nEN:\nApproach the bed."
+  },
+  {
+    "key": "971037-options[0].messageDesc",
+    "original": "怠惰・暴食有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怠惰・暴食有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나태 · 탐식 유리 판정 진행 시, 범용 E.G.O GIFT 획득\nEN:\nRun a Sloth & Gluttony Advantage check to gain a Keywordless E.G.O Gift."
+  },
+  {
+    "key": "971037-options[1].message",
+    "original": "ベッドに近づかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ベッドに近づかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침대에 다가가지 않는다.\nEN:\nDo not approach the bed."
+  }
+]

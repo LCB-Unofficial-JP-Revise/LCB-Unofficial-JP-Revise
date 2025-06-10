@@ -1,0 +1,44 @@
+[
+  {
+    "key": "GetConfirmedObject-content",
+    "original": "<color=#ebcaa2>器物 {reward}獲得！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>器物 {reward}獲得！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;기물 {reward} 획득!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{reward} Artifact obtained!&lt;/color&gt;"
+  },
+  {
+    "key": "GetConfirmedCoin-content",
+    "original": "<color=#ebcaa2>器物{reward}を{stack}個獲得！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>器物{reward}を{stack}個獲得！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;기물 {reward} {stack}개 획득!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{stack} {reward} Artifact(s) obtained!&lt;/color&gt;"
+  },
+  {
+    "key": "LoseConfirmedCoin-content",
+    "original": "<color=#ebcaa2>器物{reward}を{stack}個ロスト！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>器物{reward}を{stack}個ロスト！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;기물 {reward} {stack}개 잃음!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{stack} {reward} Artifact(s) lost!&lt;/color&gt;"
+  },
+  {
+    "key": "DestroyObject-content",
+    "original": "<color=#ebcaa2>器物{reward}</color> <color=#e30000>消滅！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>器物{reward}</color> <color=#e30000>消滅！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;기물 {reward}&lt;/color&gt; &lt;color=#e30000&gt;소멸!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{reward} Artifact&lt;/color&gt; &lt;color=#e30000&gt;lost!&lt;/color&gt;"
+  },
+  {
+    "key": "GetConfirmedObjectOnWinBattle-content",
+    "original": "<color=#ebcaa2>次の戦闘に勝利時、器物 {reward}を獲得！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>次の戦闘に勝利時、器物 {reward}を獲得！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;다음 전투 승리 시 기물 {reward} 획득!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;Win the next battle to gain {reward} Artifact!&lt;/color&gt;"
+  },
+  {
+    "key": "HiddenGiftUnlockHiddenRoute-content",
+    "original": "<color=#ebcaa2>新しい道が地図に追加！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>新しい道が地図に追加！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;새로운 길이 지도에 추가됨!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;A new path opened up on the map!&lt;/color&gt;"
+  }
+]

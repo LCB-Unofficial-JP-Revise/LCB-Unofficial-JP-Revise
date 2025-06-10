@@ -1,0 +1,23 @@
+[
+  {
+    "key": "item_count_basic-content",
+    "original": "{1} {0}つ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{1} {0}つ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{1} {0}개\nEN:\n{1} x{0}"
+  },
+  {
+    "key": "item_count_page-content",
+    "original": "{1} {0}枚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{1} {0}枚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{1} {0}장\nEN:\n{0} {1}(s)"
+  },
+  {
+    "key": "item_count_lunacy_free-content",
+    "original": "狂気{0} 即時(無償)支給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狂気{0} 即時(無償)支給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉시 광기 {0}(무료) 지급\nEN:\nGet {0} Free Lunacy as a bonus"
+  }
+]

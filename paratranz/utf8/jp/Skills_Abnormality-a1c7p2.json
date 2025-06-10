@@ -1,0 +1,492 @@
+[
+  {
+    "key": "838101-levelList[0].name",
+    "original": "歩みは優雅に…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "歩みは優雅に…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n걸음은 우아하게...\nEN:\nWalk With Grace..."
+  },
+  {
+    "key": "838101-levelList[0].desc",
+    "original": "混乱していない味方を優先して指定し、対象が味方ならマッチ威力 +10, ダメージ量が常時0に固定\n対象の[Laceration]3につき、マッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱していない味方を優先して指定し、対象が味方ならマッチ威力 +10, ダメージ量が常時0に固定\n対象の[Laceration]3につき、マッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러지지 않은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n대상의 [Laceration] 3당 합 위력 +1 (최대 3)\nEN:\nPrioritize an unstaggered ally. If the target is an ally, gain Clash Power +10, and fix the damage to 0 at all times\nClash Power +1 for every 3 [Laceration] on the target (max 3)"
+  },
+  {
+    "key": "838101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n- 対象が味方なら、この効果の代わりに次のターンまで[AttackUp]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n- 対象が味方なら、この効果の代わりに次のターンまで[AttackUp]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\n- 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [AttackUp] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]\n- If the target is an ally, replace this effect with 3 [AttackUp] until next turn"
+  },
+  {
+    "key": "838102-levelList[0].name",
+    "original": "身振りは美しく…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "身振りは美しく…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸짓은 아름답게...\nEN:\nMove With Beauty..."
+  },
+  {
+    "key": "838102-levelList[0].desc",
+    "original": "混乱していない味方を優先して指定し、対象が味方ならマッチ威力 +10, ダメージ量が常時0に固定\n対象の[Laceration]3につき、マッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱していない味方を優先して指定し、対象が味方ならマッチ威力 +10, ダメージ量が常時0に固定\n対象の[Laceration]3につき、マッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러지지 않은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n대상의 [Laceration] 3당 합 위력 +1 (최대 3)\nEN:\nPrioritize an unstaggered ally. If the target is an ally, gain Clash Power +10, and fix the damage to 0 at all times\nClash Power +1 for every 3 [Laceration] on the target (max 3)"
+  },
+  {
+    "key": "838102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が3増加\n- 対象が味方なら、この効果の代わりに次のターンまで[DefenseUp]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が3増加\n- 対象が味方なら、この効果の代わりに次のターンまで[DefenseUp]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 3 증가\n- 대상이 아군이면 이 효과를 대신하여 다음 턴까지 [DefenseUp] 3 부여\nEN:\n[OnSucceedAttack] Inflict +3 [Laceration] Count\n- If the target is an ally, replace this effect with 3 [DefenseUp] until next turn"
+  },
+  {
+    "key": "838103-levelList[0].name",
+    "original": "観客へと手招きして…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "観客へと手招きして…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관객을 향해 손짓해...\nEN:\nBeckon the Audience Hither..."
+  },
+  {
+    "key": "838103-levelList[0].desc",
+    "original": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大4)\n[WhenUse] [Laceration]が15未満なら、[Laceration]15を得てから即1回発動させて[Laceration]回数が1減少(体力が10%未満なら[Laceration]・[Laceration]回数を得る効果のみ発動)\n[EndSkill] [BloodDinner]を15消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[FestivalFever]5または対象の[Laceration]6につき、最終威力 +1(最大4)\n[WhenUse] [Laceration]が15未満なら、[Laceration]15を得てから即1回発動させて[Laceration]回数が1減少(体力が10%未満なら[Laceration]・[Laceration]回数を得る効果のみ発動)\n[EndSkill] [BloodDinner]を15消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [FestivalFever] 5 또는 대상의 [Laceration] 6당 최종 위력 +1 (최대 4)\n[WhenUse] [BloodDinner]이 15 미만이면, [Laceration] 15를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[EndSkill] [BloodDinner] 15 소모\nEN:\n[WhenUse] Final Power +1 for every 5 [FestivalFever] on self or every 6 [Laceration] on the target (max 4)\n[WhenUse] At less than 15 [BloodDinner], gain 15 [Laceration] and immediately trigger it once, then reduce [Laceration] Count by 1 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[EndSkill] Consume 15 [BloodDinner]"
+  },
+  {
+    "key": "838103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]6につき[AttackUp]1, [DefenseUp]1を得る(それぞれ最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]6につき[AttackUp]1, [DefenseUp]1を得る(それぞれ最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 6당 [AttackUp] 1, [DefenseUp] 1 얻음 (각각 최대 3)\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] and 1 [DefenseUp] for every 6 [Laceration] on the target (max 3 of each)"
+  },
+  {
+    "key": "838103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838103-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Laceration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuelAttack] [Laceration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuelAttack] [Laceration] 횟수 5 증가\nEN:\n[WinDuelAttack] Inflict +5 [Laceration] Count"
+  },
+  {
+    "key": "838103-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [BloomingThorns]を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BloomingThorns]を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BloomingThorns] 3 얻음\nEN:\n[OnSucceedAttack] Gain 3 [BloomingThorns]"
+  },
+  {
+    "key": "838104-levelList[0].name",
+    "original": "幻想的なパレード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "幻想的なパレード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n환상의 퍼레이드\nEN:\nParade of Wonders"
+  },
+  {
+    "key": "838104-levelList[0].desc",
+    "original": "[CantIdentify]\nメインターゲットは敵、サブターゲットは味方を優先して指定し、対象が味方ならマッチい威力 +10, ダメージ量が常に0に固定\n[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が25未満なら、[Laceration]25を得てから即1回発動させ、[Laceration]回数が1減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[EndSkill] [BloodDinner]を25消耗\n[EndBattle] [FestivalFever]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nメインターゲットは敵、サブターゲットは味方を優先して指定し、対象が味方ならマッチい威力 +10, ダメージ量が常に0に固定\n[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が25未満なら、[Laceration]25を得てから即1回発動させ、[Laceration]回数が1減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[EndSkill] [BloodDinner]を25消耗\n[EndBattle] [FestivalFever]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n메인 타겟은 적, 서브 타겟은 아군을 우선으로 지정하며, 대상이 아군이면 합 위력 +10, 피해량이 항상 0으로 고정\n[WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 25 미만이면, [Laceration] 25를 얻은 다음 즉시 1회 발동시키고 [Laceration] 횟수 1 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[EndSkill] [BloodDinner] 25 소모\n[EndBattle] [FestivalFever]를 전부 소모\nEN:\n[CantIdentify]\nPrioritizes enemies for its main target, and prioritizes allies for its sub-targets. If the target is an ally, Clash Power +10 and always fix the damage to 0.\n[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 25 [BloodDinner], gain 25 [Laceration], immediately trigger it once, then lose 1 [Laceration] Count (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume all [FestivalFever]"
+  },
+  {
+    "key": "838104-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[FestivalFever]に比例し、次のターンまで[AttackUp]1, [DefenseUp]1を付与([FestivalFever]3につき1付与、それぞれ最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[FestivalFever]に比例し、次のターンまで[AttackUp]1, [DefenseUp]1を付与([FestivalFever]3につき1付与、それぞれ最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [FestivalFever]에 비례하여 다음 턴까지 [AttackUp] 1, [DefenseUp] 1 부여 ([FestivalFever] 3당 1 부여, 각각 최대 3)\nEN:\n[OnSucceedAttack] Inflict 1 [AttackUp] and [DefenseUp] until next turn based on [FestivalFever] (1 per 3 [FestivalFever], max 3 of each)"
+  },
+  {
+    "key": "838104-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838104-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が3増加\n- 対象が味方なら、この効果の代わりに[BloomingThorns]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が3増加\n- 対象が味方なら、この効果の代わりに[BloomingThorns]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 3 증가\n- 대상이 아군이면 이 효과를 대신하여 [BloomingThorns] 5 부여\nEN:\n[OnSucceedAttack] Inflict +3 [Laceration] Count\n- If the target is an ally, replace this effect with 5 [BloomingThorns]"
+  },
+  {
+    "key": "838105-levelList[0].name",
+    "original": "パレードは永遠に繰り返されるの\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パレードは永遠に繰り返されるの\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퍼레이드는 영원히 반복될거야\nEN:\nThe Parade Repeats for Eternity"
+  },
+  {
+    "key": "838105-levelList[0].desc",
+    "original": "[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が50未満なら、[Laceration]25, [Laceration]回数2を得てから即2回発動させ、[Laceration]回数が2減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[WhenUse] [BloodDinner]を半分だけ消耗\n[EndBattle] [IncompleteParade]を全て消耗\n[EndBattle] [FestivalFever]10得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が50未満なら、[Laceration]25, [Laceration]回数2を得てから即2回発動させ、[Laceration]回数が2減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[WhenUse] [BloodDinner]を半分だけ消耗\n[EndBattle] [IncompleteParade]を全て消耗\n[EndBattle] [FestivalFever]10を得る\n<CMT_KR>오식: \"[EndBattle] [FestivalFever]10「」得る\" 정확: \"[EndBattle] [FestivalFever]10「を」得る\"\n<CMT_EN>Typo: \"[EndBattle] [FestivalFever]10「」得る\" Correction: \"[EndBattle] [FestivalFever]10「を」得る\"\n<CMT_JP>誤植: \"[EndBattle] [FestivalFever]10「」得る\" 訂正後: \"[EndBattle] [FestivalFever]10「を」得る\"",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 50 미만이면, [Laceration] 25, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[WhenUse] [BloodDinner]을 절반만큼 소모\n[EndBattle] [IncompleteParade]를 전부 소모\n[EndBattle] [FestivalFever] 10 얻음\nEN:\n[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 50 [BloodDinner], gain 25 [Laceration], +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] Gain 10 [FestivalFever]"
+  },
+  {
+    "key": "838105-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 与ダメージ量の25%分体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 与ダメージ量の25%分体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 입힌 피해량의 25%만큼 체력 회복\nEN:\n[OnSucceedAttack] Heal by 25% of damage dealt"
+  },
+  {
+    "key": "838105-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 与ダメージ量の25%分体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 与ダメージ量の25%分体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 입힌 피해량의 25%만큼 체력 회복\nEN:\n[OnSucceedAttack] Heal by 25% of damage dealt"
+  },
+  {
+    "key": "838105-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838105-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 与ダメージ量の50%分体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 与ダメージ量の50%分体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 입힌 피해량의 50%만큼 체력 회복\nEN:\n[OnSucceedAttack] Heal by 50% of damage dealt"
+  },
+  {
+    "key": "838105-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Laceration] 5, [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration] 5, [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5, [Burst] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration] and 5 [Burst]"
+  },
+  {
+    "key": "838105-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[EndCoin] このスキルで消耗した[BloodDinner]10につき[BloomingThorns]1を得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndCoin] このスキルで消耗した[BloodDinner]10につき[BloomingThorns]1を得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndCoin] 이 스킬로 소모한 [BloodDinner] 10당 [BloomingThorns] 1 얻음 (최대 10)\nEN:\n[EndCoin] Gain 1 [BloomingThorns] for every 10 [BloodDinner] consumed by this Skill (max 10)"
+  },
+  {
+    "key": "838106-levelList[0].name",
+    "original": "それを繰り返すだけ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それを繰り返すだけ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그걸 반복할 뿐...\nEN:\nAnd that's all it does..."
+  },
+  {
+    "key": "838106-levelList[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] 自分の[FestivalFever]が5以上なら、マッチ威力 +3\n[StartBattle] [BloomingThorns]5を得る\n[DefeatDuel] [BloomingThorns]5を失う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[WhenUse] 自分の[FestivalFever]が5以上なら、マッチ威力 +3\n[StartBattle] [BloomingThorns]5を得る\n[DefeatDuel] [BloomingThorns]5を失う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n[WhenUse] 자신의 [FestivalFever]가 5 이상이면 합 위력 +3\n[StartBattle] [BloomingThorns] 5 얻음\n[DefeatDuel] [BloomingThorns] 5 잃음\nEN:\n[DuelCounter]\n[WhenUse] At 5+ [FestivalFever], Clash Power +3\n[StartBattle] Gain 5 [BloomingThorns]\n[DefeatDuel] Lose 5 [BloomingThorns]"
+  },
+  {
+    "key": "838106-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "838106-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "838107-levelList[0].name",
+    "original": "フィナーレ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フィナーレ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피날레\nEN:\nThe Finale"
+  },
+  {
+    "key": "838107-levelList[0].desc",
+    "original": "[WhenUse] [BloodDinner]を半分消耗\n[WinDuel] ダメージ量が(このスキルで消耗した[BloodDinner])%だけ増加(最大150%)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない\n[EndSkill] 精神力が-45になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [BloodDinner]を半分消耗\n[WinDuel] ダメージ量が(このスキルで消耗した[BloodDinner])%だけ増加(最大150%)\n[DefeatDuel] ダメージ量が50%だけ減少し、このスキルのダメージによって対象が混乱しない\n[EndSkill] 精神力が-45になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [BloodDinner]을 절반만큼 소모\n[WinDuel] 피해량이 (이 스킬로 소모한 [BloodDinner])%만큼 증가 (최대 150%)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\n[EndSkill] 정신력 -45로 감소\nEN:\n[WhenUse] Consume half of [BloodDinner]\n[WinDuel] Deal +([BloodDinner] consumed by this Skill)% damage (max 150%)\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target\n[EndSkill] This unit's SP drops to -45"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 6 증가\nEN:\n[OnSucceedAttack] Inflict +6 [Laceration] Count"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[WinDuelAttack] [Burst]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuelAttack] [Burst]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuelAttack] [Burst] 6 부여\nEN:\n[WinDuelAttack] Inflict 6 [Burst]"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[WinDuelAttack] [Burst]回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuelAttack] [Burst]回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuelAttack] [Burst] 횟수 6 증가\nEN:\n[WinDuelAttack] Inflict +6 [Burst] Count"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838107-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[EndCoin] このスキルで消耗した[BloodDinner]10につき[BloomingThorns]1を得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndCoin] このスキルで消耗した[BloodDinner]10につき[BloomingThorns]1を得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndCoin] 이 스킬로 소모한 [BloodDinner] 10당 [BloomingThorns] 1 얻음 (최대 10)\nEN:\n[EndCoin] Gain 1 [BloomingThorns] for every 10 [BloodDinner] consumed by this Skill (max 10)"
+  },
+  {
+    "key": "838901-levelList[0].name",
+    "original": "泉の竜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泉の竜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n샘의 용\nEN:\nDragon of the Spring"
+  },
+  {
+    "key": "838901-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Agility] 2 얻음\nEN:\n[WhenUse] Gain 2 [Agility] next turn"
+  },
+  {
+    "key": "838901-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [Agility] next turn"
+  },
+  {
+    "key": "838901-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+  },
+  {
+    "key": "838902-levelList[0].name",
+    "original": "秋の蓮花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "秋の蓮花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가을 연꽃\nEN:\nLotus in Autumn"
+  },
+  {
+    "key": "838902-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Agility] 2 얻음\nEN:\n[WhenUse] Gain 2 [Agility] next turn"
+  },
+  {
+    "key": "838902-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [Agility] next turn"
+  },
+  {
+    "key": "838902-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+  },
+  {
+    "key": "838903-levelList[0].name",
+    "original": "微かな軌跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "微かな軌跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐릿한 궤적\nEN:\nFaint Trace"
+  },
+  {
+    "key": "838903-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Agility]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Agility]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Agility] 3 얻음\nEN:\n[WhenUse] Gain 3 [Agility] next turn"
+  },
+  {
+    "key": "838903-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838903-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [SlashTakeDamageUp]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SlashTakeDamageUp]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [SlashTakeDamageUp] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [SlashTakeDamageUp]"
+  },
+  {
+    "key": "838904-levelList[0].name",
+    "original": "蒼白な軌跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蒼白な軌跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n창백한 궤적\nEN:\nPallid Trace"
+  },
+  {
+    "key": "838904-levelList[0].desc",
+    "original": "対象より速度が5以上高ければ、マッチ威力 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象より速度が5以上高ければ、マッチ威力 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상보다 속도가 5 이상 빠르면, 합 위력 +5\nEN:\nIf user's Speed is faster than target's by 5+, Clash Power +5"
+  },
+  {
+    "key": "838904-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838904-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 追加ダメージ100\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 追加ダメージ100\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 추가 피해 100\nEN:\n[OnSucceedAttack] Deal 100 Bonus Damage"
+  },
+  {
+    "key": "838905-levelList[0].name",
+    "original": "赤い矢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "赤い矢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n붉은살\nEN:\nRed Arwe"
+  },
+  {
+    "key": "838905-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Agility] 2 얻음\nEN:\n[WhenUse] Gain 2 [Agility] next turn"
+  },
+  {
+    "key": "838905-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 追加ダメージ50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 追加ダメージ50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 추가 피해 50\nEN:\n[OnSucceedAttack] Deal 50 Bonus Damage"
+  },
+  {
+    "key": "838905-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 追加ダメージ50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 追加ダメージ50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 추가 피해 50\nEN:\n[OnSucceedAttack] Deal 50 Bonus Damage"
+  },
+  {
+    "key": "838906-levelList[0].name",
+    "original": "黒い矢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒い矢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검은살\nEN:\nBlak Arwe"
+  },
+  {
+    "key": "838906-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Agility] 2 얻음\nEN:\n[WhenUse] Gain 2 [Agility] next turn"
+  },
+  {
+    "key": "838906-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [MentalCrack]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [MentalCrack] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [MentalCrack]"
+  },
+  {
+    "key": "838906-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [MentalCrack]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [MentalCrack] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [MentalCrack]"
+  },
+  {
+    "key": "838907-levelList[0].name",
+    "original": "水の鏡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "水の鏡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n물의 거울\nEN:\nMirror of Water"
+  },
+  {
+    "key": "838907-levelList[0].desc",
+    "original": "[CanDuelGuard]\n[WhenUse] [Protection]3を得る\n[WinDuel] このスキルの最終マッチ威力だけ、体力ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[WhenUse] [Protection]3を得る\n[WinDuel] このスキルの最終マッチ威力だけ、体力ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n[WhenUse] [Protection] 3 얻음\n[WinDuel] 이 스킬의 마지막 합 위력만큼 체력 피해를 입힘\nEN:\n[CanDuelGuard]\n[WhenUse] Gain 3 [Protection]\n[WinDuel] Deal HP damage equal to the final Clash Power of this Skill"
+  },
+  {
+    "key": "838907-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "838908-levelList[0].name",
+    "original": "電子加速レール活性化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "電子加速レール活性化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전자가속 레일 활성화\nEN:\nElectron Accelerator Rail Activation"
+  },
+  {
+    "key": "838908-levelList[0].desc",
+    "original": "[StartBattle] 次のターンに[Enhancement]10, [Agility]10を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 次のターンに[Enhancement]10, [Agility]10を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 다음 턴에 [Enhancement] 10, [Agility] 10 얻음\nEN:\n[StartBattle] Gain 10 [Enhancement] and [Agility] next turn"
+  },
+  {
+    "key": "838909-levelList[0].name",
+    "original": "矢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "矢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살\nEN:\nArwe"
+  },
+  {
+    "key": "838909-levelList[0].desc",
+    "original": "[WhenUse] [PenetrateDamageUp]を5得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [PenetrateDamageUp]を5得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [PenetrateDamageUp] 5 얻음\nEN:\n[WhenUse] Gain 5 [PenetrateDamageUp]"
+  }
+]

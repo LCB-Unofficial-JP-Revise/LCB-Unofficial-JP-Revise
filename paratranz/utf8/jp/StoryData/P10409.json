@@ -1,0 +1,835 @@
+[
+  {
+    "key": "0-content",
+    "original": "T社職員の武器、肉のスープを煮込んでくれる炊飯器、\n可愛い鶏のぬいぐるみ、それに様々な味のロリポップキャンディーまで。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "T社職員の武器、肉のスープを煮込んでくれる炊飯器、\n可愛い鶏のぬいぐるみ、それに様々な味のロリポップキャンディーまで。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nT사 직원의 무기, 고기 수프를 고아주는 밥솥, 귀엽게 생긴 닭인형, 거기에 다양한 맛의 롤리팝 사탕까지.\nEN:\nT Corp. Staff standard issue weaponry. A rice cooker that doubles as a slow cooker for hearty beef stew. Cute, chicken-shaped plush. Lollipop candies of various flavor, too."
+  },
+  {
+    "key": "1-content",
+    "original": "色んなものが売られているここは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色んなものが売られているここは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수많은 물건을 저마다 판매하고 있는 이곳은…\nEN:\nAll kinds of items are on display in each stall..."
+  },
+  {
+    "key": "2-content",
+    "original": "ユロージヴィ地下アジト名物の、物々交換市場。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ地下アジト名物の、物々交換市場。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비 지하 아지트의 명물인, 물물교환 시장이야.\nEN:\n... at this famous Bartering Market of the Yurodiviye underground hideouts."
+  },
+  {
+    "key": "3-content",
+    "original": "子供はここで必需品を交換するために来たんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供はここで必需品を交換するために来たんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이는 이곳에 꼭 필요한 걸 교환하기 위해 왔어.\nEN:\nThe child came here to trade for an item of great importance."
+  },
+  {
+    "key": "4-content",
+    "original": "そのため、昨夜発明品を作ったときに\n余ったねじを残らず持ってきたの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そのため、昨夜発明品を作ったときに\n余ったねじを残らず持ってきたの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그걸 위해, 어젯밤 발명품을 만들다 남은 나사를 모조리 챙겨왔지.\nEN:\nThat is why she scrounged for every single leftover screw she could find after building her invention."
+  },
+  {
+    "key": "5-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "5-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "5-content",
+    "original": "お前の煙草1箱と、俺の持ってるねじ4つ。\n価値はほぼ同じじゃないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お前の煙草1箱と、俺の持ってるねじ4つ。\n価値はほぼ同じじゃないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네놈의 담배 한 갑과, 내가 가진 나사 네 개. 가치는 비슷하지 않나?\nEN:\nFour screws for a box of cigs. Aren't they of equivalent worth?"
+  },
+  {
+    "key": "6-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "6-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "6-content",
+    "original": "はっ、何を言ってるんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はっ、何を言ってるんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n허, 말도 안되는 소리.\nEN:\nHah, nonsense."
+  },
+  {
+    "key": "7-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "7-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "7-content",
+    "original": "ぎっちり詰まったこの煙草1箱と交換したいなら、\nねじの7つは貰わないと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぎっちり詰まったこの煙草1箱と交換したいなら、\nねじの7つは貰わないと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꽉 들어찬 이 담배 한 갑과 교환하고 싶다면 나사 일곱 개는 줘야지.\nEN:\nThis box is packed to the brim with cigs, I'll have you know. Seven screws."
+  },
+  {
+    "key": "8-content",
+    "original": "ユロージヴィの商人がシッシと手を振ったが、\n子供は少しも退くつもりがないみたい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィの商人がシッシと手を振ったが、\n子供は少しも退くつもりがないみたい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비 상인이 손사래를 치지만, 아이는 조금도 물러날 생각이 없어.\nEN:\nThe Yurodivy merchant shakes his head, but the child wasn't going to back down just yet."
+  },
+  {
+    "key": "9-content",
+    "original": "ただ、ねじを載せた手をより堂々と伸ばしながらこう言ったの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ、ねじを載せた手をより堂々と伸ばしながらこう言ったの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그저 나사를 올려둔 손을 더 당당하게 뻗으며 이렇게 말했지.\nEN:\nShe shoved the screws on her palm closer to his face and declared."
+  },
+  {
+    "key": "10-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "10-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "10-content",
+    "original": "4つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네 개.\nEN:\nFour."
+  },
+  {
+    "key": "11-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "11-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "11-content",
+    "original": "…同じ巣だから特別に割り引いてやる。6つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…同じ巣だから特別に割り引いてやる。6つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…이거 같은 동지라 특별히 깎아주는 거야. 여섯 개.\nEN:\nSix. And that's with the discount for bein' one of us, lass."
+  },
+  {
+    "key": "12-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "12-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "12-content",
+    "original": "4つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네 개.\nEN:\nFour."
+  },
+  {
+    "key": "13-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "13-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "13-content",
+    "original": "い、5つ！それ以下は本当に無理だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "い、5つ！それ以下は本当に無理だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다, 다섯 개! 그 이하론 정말 안 돼!\nEN:\nF-five. I won't go any lower than that, alright?!"
+  },
+  {
+    "key": "14-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "14-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "14-content",
+    "original": "4つ。今回も断るならく・へだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4つ。今回も断るならく・へだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네 개. 이번에도 거절하면, 모. 분. 이다.\nEN:\nFour. Refuse again and I'll S.Y.N.C."
+  },
+  {
+    "key": "15-content",
+    "original": "今すぐにでも殺してきそうな目つきで睨む子供に\n萎縮したからかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今すぐにでも殺してきそうな目つきで睨む子供に\n萎縮したからかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금방이라도 죽일 듯이 노려보는 아이의 모습에 위축된 걸까?\nEN:\nPerhaps the child's glare intimidated him."
+  },
+  {
+    "key": "16-content",
+    "original": "商人は、自分が何か別途必要なものがないか悩むように\n子供が持ってるものと自分の持ってるものをゆっくりと見比べた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人は、自分が何か別途必要なものがないか悩むように\n子供が持ってるものと自分の持ってるものをゆっくりと見比べた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인은 자신이 필요한 다른 게 없는지 고민하듯, 아이가 가진 것과 자신이 가진 것을 천천히 살폈어.\nEN:\nHis eyes began to wander in search of something he needed, something she would be happy to take care of in return for the box of cigs."
+  },
+  {
+    "key": "17-content",
+    "original": "するとその視線がすっと、この前壊れたばかりの\n愛用していたラジオに止まったんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "するとその視線がすっと、この前壊れたばかりの\n愛用していたラジオに止まったんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러다가 그 시선이 툭, 얼마 전 고장난 자신의 애착 라디오에 멈췄지.\nEN:\nThey came to a sudden stop on his radio that broke down some time ago. His attachment radio."
+  },
+  {
+    "key": "18-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "18-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "18-content",
+    "original": "す、少し待ってくれ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "す、少し待ってくれ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 잠깐만 기다려봐.\nEN:\nW-wait. Just hold on a moment."
+  },
+  {
+    "key": "19-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "19-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "19-content",
+    "original": "これはどうだ？ねじの代わりに壊れたラジオを直すのは？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "これはどうだ？ねじの代わりに壊れたラジオを直すのは？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럼 이건 어때? 나사를 주는 대신 고장난 라디오를 고쳐주는 건?\nEN:\nHow about this? No need to pay me with screws, yeah? Just get this broken radio workin' again and I'll give you the whole box."
+  },
+  {
+    "key": "20-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "20-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "20-content",
+    "original": "ほぉ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ほぉ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호오.\nEN:\nOho."
+  },
+  {
+    "key": "21-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "21-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "21-content",
+    "original": "たぶんこっちの配線の問題だって思…うわぁっ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たぶんこっちの配線の問題だって思…うわぁっ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러니까 이쪽 배선 문제라고 생각… 으아악!\nEN:\nGreat. So I did try my hand at fixing it, and from what I can tell it's a wiring problem down he— AAGH!"
+  },
+  {
+    "key": "22-content",
+    "original": "商人が壊れた部分について話した瞬間。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人が壊れた部分について話した瞬間。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인이 고장 난 부분에 대해 말하는 순간,\nEN:\nJust as the merchant was starting to explain what was wrong with his radio..."
+  },
+  {
+    "key": "23-content",
+    "original": "子供は躊躇うことなく巨大なスパナを取り出し、\n商人の取り出したラジオに向かって何度も振り下ろした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供は躊躇うことなく巨大なスパナを取り出し、\n商人の取り出したラジオに向かって何度も振り下ろした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이는 망설임 없이 거대한 스패너를 꺼내들고, 상인이 꺼낸 라디오를 마구 내리쳤어.\nEN:\n... the child pulled out a massive spanner from somewhere and began smashing the merchant's radio with it."
+  },
+  {
+    "key": "24-content",
+    "original": "カン、カン、カンと工房でしか聞こえないような音に\n商人は気後れしながら子供を止めたが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カン、カン、カンと工房でしか聞こえないような音に\n商人は気後れしながら子供を止めたが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깡, 깡, 깡, 하는 공방에서나 들릴 법한 소리에 상인은 기함하며 아이를 말렸지만…\nEN:\nClang. Clang. Clang. The heavy sound of metal slamming into metal, something one wouldn't expect to hear outside places like the Workshops, was more than enough to freak out the merchant. He jumped from his seat screaming and tried to stop the child, but..."
+  },
+  {
+    "key": "25-content",
+    "original": "既に遅かったみたい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "既に遅かったみたい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 늦어버렸지.\nEN:\n... it was too late."
+  },
+  {
+    "key": "26-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "26-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "26-content",
+    "original": "何のつもりだ！？ボコボコになったじゃないか…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何のつもりだ！？ボコボコになったじゃないか…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이게 무슨 짓이야!? 다 찌그러졌잖아…\nEN:\nWhat the hell, lass?! Look, it's completely busted!"
+  },
+  {
+    "key": "27-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "27-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "27-content",
+    "original": "ちゃんと見ろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ちゃんと見ろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n똑바로 봐라.\nEN:\nLook harder."
+  },
+  {
+    "key": "28-content",
+    "original": "商人は潰れたラジオを泣きそうな顔で眺めながら、\n子供の言う通りボタンをいくつか押してみると…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人は潰れたラジオを泣きそうな顔で眺めながら、\n子供の言う通りボタンをいくつか押してみると…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인은 찌그러진 라디오를 울상으로 바라보다가 아이의 말에 버튼 몇개를 눌러보곤…\nEN:\nThe merchant, after a moment of silence for his crushed radio, dejectedly reached out and pressed its buttons."
+  },
+  {
+    "key": "29-content",
+    "original": "そのまま嘆声を漏らした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そのまま嘆声を漏らした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그대로 탄성을 내질렀어.\nEN:\n... And exclaimed with joy."
+  },
+  {
+    "key": "30-teller",
+    "original": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상인\nEN:\nMerchant"
+  },
+  {
+    "key": "30-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "30-content",
+    "original": "えっ、あっ！動いてる！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "えっ、あっ！動いてる！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어, 어! 작동하잖아?\nEN:\nWhuh... huh? That... that worked?!"
+  },
+  {
+    "key": "31-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "31-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "31-content",
+    "original": "ふん、元々鉄の塊ってもんは殴りゃ言うことを聞くもんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふん、元々鉄の塊ってもんは殴りゃ言うことを聞くもんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흥, 원래 고철덩어리는 때려야 말을 듣는 법이지.\nEN:\nHmph. You can always trust percussive maintenance to do its job."
+  },
+  {
+    "key": "32-content",
+    "original": "嬉しそうな顔でラジオをあちこち弄くる商人を無視し、子供はテーブルの上に\n置かれた煙草1箱を手に取った。そして、後ろから飴の見物をしていた\n他の子供の足をポン、と足で蹴った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "嬉しそうな顔でラジオをあちこち弄くる商人を無視し、子供はテーブルの上に\n置かれた煙草1箱を手に取った。そして、後ろから飴の見物をしていた\n他の子供の足をポン、と足で蹴った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁜 표정으로 라디오를 이리저리 만져보는 상인을 무시하고, 아이는 테이블 위에 놓여진 담배 한 갑을 챙겼어. 그리고 뒷쪽에서 사탕을 구경하던 다른 아이의 다리를 툭, 발로 찼지.\nEN:\nThe child was no longer interested in conversing further with the merchant, no matter how happy he looked as he tinkered with the radio. She was now looking at the other child, who was eyeing the sundry lollipops on display at some other stall. She took a box of cigarettes from the merchant before kicking the other child in the shin."
+  },
+  {
+    "key": "33-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "33-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "33-content",
+    "original": "飴はおしまい。仕事の時間だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "飴はおしまい。仕事の時間だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사탕 그만. 일을 줄 시간이다.\nEN:\nNo more lollipops. Time to give me a job. Now."
+  },
+  {
+    "key": "34-teller",
+    "original": "ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\nEN:\nHong Lu"
+  },
+  {
+    "key": "34-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "34-content",
+    "original": "それでも、僕が良秀さんの隊長だというのに\n毎回足で蹴りながら呼ぶのって酷いですよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それでも、僕が良秀さんの隊長だというのに\n毎回足で蹴りながら呼ぶのって酷いですよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래도 제가 료슈 씨 대장인데, 매번 발로 차서 부르시고 너무하세요~\nEN:\nYou know I'm technically your captain, right? How come you're always kicking me to get my attention? You're so mean~"
+  },
+  {
+    "key": "35-content",
+    "original": "飴を咥えた子供は蹴られたすねを撫でながら\n文句でも言うかのように話し掛けたけど、そこまで気にしてはいないみたい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "飴を咥えた子供は蹴られたすねを撫でながら\n文句でも言うかのように話し掛けたけど、そこまで気にしてはいないみたい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사탕을 문 아이는 걷어 차인 정강이를 문지르며 불평하듯 말했지만, 크게 개의치 않는 모습이야.\nEN:\nThe child protested with a lollipop in his mouth and rubbed his shin in pain, but his expression made it quite clear that he didn't really mind this small violence."
+  },
+  {
+    "key": "36-content",
+    "original": "こんなことは一度や二度じゃないかのように、\n慣れた態度で懐から紙束一つを子供に渡した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こんなことは一度や二度じゃないかのように、\n慣れた態度で懐から紙束一つを子供に渡した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이런 일이 한두 번이 아니었는 듯, 익숙한 태도로 품에서 종이뭉치 하나를 아이에게 넘겨주었어.\nEN:\nIn fact, it appeared that the other child was used to such treatments from her; he nonchalantly produced a bundle of paper from his overcoat and placed it in her hand."
+  },
+  {
+    "key": "37-teller",
+    "original": "ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\nEN:\nHong Lu"
+  },
+  {
+    "key": "37-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "37-content",
+    "original": "次からはアジトで受け取ってください。\n今回のリストもよろしくお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次からはアジトで受け取ってください。\n今回のリストもよろしくお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음부터는 아지트에서 받아가셔야 해요. 이번 명단도 잘 부탁드릴게요.\nEN:\nI would appreciate it a lot if you could come to our hideout to pick up your next assignment. Anyways... I trust that you'll take care of this list just as well, right?"
+  },
+  {
+    "key": "38-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "38-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "38-content",
+    "original": "し・る・か。この前の奴らは微妙だったな。\n振り下ろす味すら無いやつらだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "し・る・か。この前の奴らは微妙だったな。\n振り下ろす味すら無いやつらだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알. 바. 저번 놈들은 영 별로더군. 내리칠 맛도 안 나는 놈들이었지.\nEN:\nYour appreciation is N.O.M.B. The targets you gave me last time were too bland. I barely felt anything from bashing in their skulls."
+  },
+  {
+    "key": "39-teller",
+    "original": "ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\nEN:\nHong Lu"
+  },
+  {
+    "key": "39-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "39-content",
+    "original": "今回のは結構な大物ですから、期待しても良いですよ～。\nこの近くにある、一番大きな工場の工場長なんですけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回のは結構な大物ですから、期待しても良いですよ～。\nこの近くにある、一番大きな工場の工場長なんですけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번에는 꽤 거물이니까, 기대하셔도 좋아요~ 이 근처에서 제일 큰 공장의 공장장인데…\nEN:\nThen you'll like this one. Your next target is a bigwig, an actual industrialist, the proprietor of the biggest factory in the area. He's..."
+  },
+  {
+    "key": "40-content",
+    "original": "飴を咥えた子供の言葉に、子供はにやりと口角を上げた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "飴を咥えた子供の言葉に、子供はにやりと口角を上げた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이어지는 사탕을 문 아이의 말에 아이는 씨익, 입꼬리를 올렸어.\nEN:\nThe child's lips slowly curled into a smile as the other child continued to explain her target."
+  },
+  {
+    "key": "41-content",
+    "original": "夜が深まった頃、ユロージヴィのアジトから出てきた子供が\n武器を持ってゆっくりと誰かの跡を付けている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夜が深まった頃、ユロージヴィのアジトから出てきた子供が\n武器を持ってゆっくりと誰かの跡を付けている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n야심한 시각, 유로지비 아지트에서 나온 아이가 무기를 들고 천천히 누군가의 뒤를 밟고 있어.\nEN:\nThe child, now outside the Yurodiviye hideout and weapon in hand, slowly stalks her target."
+  },
+  {
+    "key": "42-content",
+    "original": "子供は興奮が抑えきれないらしく、浮かれた表情を浮かべてるね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供は興奮が抑えきれないらしく、浮かれた表情を浮かべてるね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이는 흥분을 주체하지 못하는 듯 들뜬 표정이야.\nEN:\nThe look of unsuppressed elation is clear on her face."
+  },
+  {
+    "key": "43-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "43-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "43-content",
+    "original": "ホンルの野郎。久々に良い情報を持ってきたじゃないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンルの野郎。久々に良い情報を持ってきたじゃないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루 놈. 오랜만에 쓸만한 정보를 가져왔군.\nEN:\nHong Lu, that brat. He finally fished up something exciting."
+  },
+  {
+    "key": "44-content",
+    "original": "子供の手には、リストと呼ばれる紙が握られていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供の手には、リストと呼ばれる紙が握られていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이의 손에는 명단이라고 불리는 종이가 들려있어.\nEN:\nIn her hands is a piece of paper they called the List."
+  },
+  {
+    "key": "45-content",
+    "original": "そこには巣の立場で、他人から搾取した人々の名前がびっしり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そこには巣の立場で、他人から搾取した人々の名前がびっしり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그곳에는 둥지의 편에 서서 다른 사람을 착취한 사람들의 이름이 빼곡해.\nEN:\nNames of those who exploited the weak and the downtrodden filled the paper from corner to corner, barely leaving any white paper to be seen under all that ink."
+  },
+  {
+    "key": "46-content",
+    "original": "今子供が尾行している人も、そのリストに載ってるね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今子供が尾行している人も、そのリストに載ってるね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지금 아이가 미행하고 있는 사람도, 그 명단에 올랐어.\nEN:\nThe child's current target was on the List."
+  },
+  {
+    "key": "47-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "47-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "47-content",
+    "original": "短縮的な時間を生きたことのない奴らが\n時間を奪われた後に浮かべる表情は…芸術的だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "短縮的な時間を生きたことのない奴らが\n時間を奪われた後に浮かべる表情は…芸術的だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단축된 시간을 살아보지 못한 놈들이 시간을 빼앗긴 뒤 짓는 표정은… 예술적이지.\nEN:\nIt's such an artistic ecstasy to watch the look of someone who's never experienced shortened time... have their time taken from them."
+  },
+  {
+    "key": "48-content",
+    "original": "子供はそのリストを正義の為に受け取ったわけじゃないんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供はそのリストを正義の為に受け取ったわけじゃないんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이는 그 명단을 정의로운 이유로 받아온 건 아니야.\nEN:\nThis child didn't have some grand, just purpose in mind when she picked up this list."
+  },
+  {
+    "key": "49-content",
+    "original": "持ってるものを分かち合って、皆が腹を空せないようにすることにも\n子供は興味を持っていないんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "持ってるものを分かち合って、皆が腹を空せないようにすることにも\n子供は興味を持っていないんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가진 것을 나눠서 모두가 배를 곯지 않는 것에 아이는 관심을 갖지 않아.\nEN:\nShe doesn't really care about redistribution of wealth or making sure that no one goes hungry, either."
+  },
+  {
+    "key": "50-content",
+    "original": "他人が行った悪行にも興味が無いの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "他人が行った悪行にも興味が無いの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타인이 저지른 악행에도 관심이 없지.\nEN:\nThe heinous acts of evil men was none of her business, either."
+  },
+  {
+    "key": "51-content",
+    "original": "子供はユロージヴィの考えと言葉に感化されたわけじゃなくて、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供はユロージヴィの考えと言葉に感化されたわけじゃなくて、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이는 유로지비의 생각과 말에 감화된 게 아니야.\nEN:\nIn fact, even the Yurodiviye ideology was none of her business."
+  },
+  {
+    "key": "52-content",
+    "original": "ただ、持てる者の時間と生命を短縮させる\n彼らの活動が気に入ったってこと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ、持てる者の時間と生命を短縮させる\n彼らの活動が気に入ったってこと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그저 가진 자의 시간과 생명을 단축시키는 그들의 활동이 마음에 들었던 거지.\nEN:\nShe just enjoyed cutting the haves short. Whether it was cutting their time short... or their lives."
+  },
+  {
+    "key": "53-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "53-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "53-content",
+    "original": "富・再・短・芸。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "富・再・短・芸。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부.재.단.예.\nEN:\nR.O.W. is the A.O.S."
+  },
+  {
+    "key": "54-content",
+    "original": "明滅する街灯の横で、子供はためらうことなく武器を持って走り出す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明滅する街灯の横で、子供はためらうことなく武器を持って走り出す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깜빡이는 가로등 옆에서 아이는 망설임 없이 무기를 들고 달려나가.\nEN:\nThe child suddenly breaks into a sprint after passing the flickering streetlight."
+  },
+  {
+    "key": "55-content",
+    "original": "子供が振り下ろすスパナはそこまで早くはない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供が振り下ろすスパナはそこまで早くはない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이가 휘두르는 스패너는 그렇게 빠르지 않아.\nEN:\nThe child swings the spanner, albeit at an oddly slow speed."
+  },
+  {
+    "key": "56-content",
+    "original": "時間が多い人にとっては軌跡が見えるくらいには遅いんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間が多い人にとっては軌跡が見えるくらいには遅いんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간이 많은 사람에겐 궤적이 보일 만큼 느릿해.\nEN:\nIf someone with a lot of time were to see it, they would even be able to tell the exact trajectory of that swing."
+  },
+  {
+    "key": "57-content",
+    "original": "でも路地を歩いてたお金持ちは、子供のスパナを避けられなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でも路地を歩いてたお金持ちは、子供のスパナを避けられなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 골목을 거닐던 부자는 아이의 스패너를 피하지 못했어.\nEN:\nBut the rich man still failed to dodge her assault..."
+  },
+  {
+    "key": "58-content",
+    "original": "綿密に、とても絶妙な角度で振り下ろしたからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "綿密に、とても絶妙な角度で振り下ろしたからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n까다롭게, 아주 절묘한 각도로 휘둘러졌거든.\nEN:\n... as she swung it at a meticulously calculated angle that left no room for him to move."
+  },
+  {
+    "key": "59-content",
+    "original": "ガンッ、って音が鈍く路地に鳴り響いた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガンッ、って音が鈍く路地に鳴り響いた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퍽, 하는 소리가 둔탁하게 골목에 울려 퍼졌어.\nEN:\nA weighty, blunt noise briefly echoes through the alley."
+  },
+  {
+    "key": "60-content",
+    "original": "倒れたお金持ちから時間を抜き取った子供は、\n満足そうに笑いながら昼に交換した煙草を口に咥えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "倒れたお金持ちから時間を抜き取った子供は、\n満足そうに笑いながら昼に交換した煙草を口に咥えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쓰러진 부자에게 시간을 뽑아 낸 아이는 만족스럽다는 듯 웃으며 낮에 교환했던 담배를 입에 물었지.\nEN:\nThe child grins satisfactorily as she places the cigarette she traded for between her lips. She'd extracted quite a bit of time from the target."
+  },
+  {
+    "key": "61-content",
+    "original": "そのとき、街灯の横で小さな明かりが短く点滅した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そのとき、街灯の横で小さな明かりが短く点滅した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그때, 가로등 옆에서 조그만 불빛이 짧게 점멸했어.\nEN:\nThat's when she noticed a brief, flashing light next to the streetlight."
+  },
+  {
+    "key": "62-content",
+    "original": "T社の路地に治安用に設置された、監視カメラだったんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "T社の路地に治安用に設置された、監視カメラだったんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nT사 골목에 치안용으로 설치된, 감시카메라였지.\nEN:\nA T Corp. surveillance camera."
+  },
+  {
+    "key": "63-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "63-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "63-content",
+    "original": "チッ、あれじゃあこの芸術をきちんと写せないだろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チッ、あれじゃあこの芸術をきちんと写せないだろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쯧, 저래선 이 예술을 제대로 담지 못하지.\nEN:\nTsk, that recording won't do this piece of art justice."
+  },
+  {
+    "key": "64-content",
+    "original": "子供は眉間に皺を寄せると、そこに向かって再びスパナを振り下ろした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供は眉間に皺を寄せると、そこに向かって再びスパナを振り下ろした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이는 미간을 찌푸리곤, 그곳을 향해 다시 스패너를 휘둘렀어.\nEN:\nThe child furrowed her brows and swung her spanner again, this time at the camera."
+  },
+  {
+    "key": "65-content",
+    "original": "潰れたカメラがドン、と下に落っこちたんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "潰れたカメラがドン、と下に落っこちたんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찌그러진 감시 카메라가 툭, 아래로 떨어졌지.\nEN:\nThe surveillance camera promptly drops to the ground."
+  },
+  {
+    "key": "66-teller",
+    "original": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\nEN:\nRyōshū"
+  },
+  {
+    "key": "66-title",
+    "original": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区 ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비\nEN:\nDistrict 20 Yurodivy"
+  },
+  {
+    "key": "66-content",
+    "original": "やっと少しアングルがそれっぽくなったな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "やっと少しアングルがそれっぽくなったな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이제 좀 각도가 그럴 듯하군.\nEN:\nNow, isn't this a much better angle?"
+  }
+]

@@ -1,0 +1,898 @@
+[
+  {
+    "key": "0-place",
+    "original": "カジノ プライベートルーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カジノ プライベートルーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n카지노 개인실\nEN:\nPrivate Room"
+  },
+  {
+    "key": "0-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "0-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "0-content",
+    "original": "いつの間にか最終セットか。 みんな、自分の目の前にあるチップの個数は確認してるか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いつの間にか最終セットか。 みんな、自分の目の前にあるチップの個数は確認してるか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느덧 마지막 판이네. 다들 자기 눈앞에 있는 칩 개수는 확인하고 있는 거지?\nEN:\nWe’re at the final round. You all keeping a good eye on your chips?"
+  },
+  {
+    "key": "1-content",
+    "original": "うん、私オールイン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うん、私オールイン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흠, 난 올인.\nEN:\nHm, I’m all in."
+  },
+  {
+    "key": "2-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "2-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "2-content",
+    "original": "…オールイン？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…オールイン？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…올인?\nEN:\n…All in?"
+  },
+  {
+    "key": "3-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "3-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "3-content",
+    "original": "わぁ～手札が良い感じに回ってきたみたいだね、ロージャ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わぁ～手札が良い感じに回ってきたみたいだね、ロージャ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n와~ 패가 이쁘게 들어왔나 보네, 로쟈?\nEN:\nOoh~ Dealt a nice hand, huh, Rodya?"
+  },
+  {
+    "key": "4-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "4-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "4-content",
+    "original": "はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部掛けちょん？おめここで負けたらすぐにずらかれや、あ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部賭けちょん？おめここで負けたらすぐにずらかれや、あ？\n<CMT_KR>오식: \"はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部「掛け」ちょん？おめここで負けたらすぐにずらかれや、あ？\" 정확: \"はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部「賭け」ちょん？\"\n<CMT_EN>Typo: \"はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部「掛け」ちょん？おめここで負けたらすぐにずらかれや、あ？\" Correction: \"はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部「賭け」ちょん？\"\n<CMT_JP>誤植: \"はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部「掛け」ちょん？おめここで負けたらすぐにずらかれや、あ？\" 訂正後: \"はぁ～おめさんさっきからちといけ好かねぇけど、何を信じて全部「賭け」ちょん？\"",
+    "stage": 1,
+    "context": "KR:\n하~ 나가 아까부터 쪼까 거슬리는디, 뭘 믿고 다 거냐? 너 여기서 지면 바로 나가리여, 알아?\nEN:\nHah~ That swagger of yours’s been rubbin’ me the wrong way, y’know that? You’re pushin’ yourself to the edge, so what’re you counting on?"
+  },
+  {
+    "key": "5-content",
+    "original": "私、最後に全てを掛けるタイプなの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私、最後に全てをかけるタイプなの。\n<CMT_KR>오식: \"私、最後に全てを「掛」けるタイプなの。\" 정확: \"私、最後に全てを「か」けるタイプなの。\"\n<CMT_EN>Typo: \"私、最後に全てを「掛」けるタイプなの。\" Correction: \"私、最後に全てを「か」けるタイプなの。\"\n<CMT_JP>誤植: \"私、最後に全てを「掛」けるタイプなの。\" 訂正後: \"私、最後に全てを「か」けるタイプなの。\"",
+    "stage": 1,
+    "context": "KR:\n난 원래 마지막에 모든 걸 거는 성격이거든.\nEN:\nI’m the kind of gal who bets everything she has at the end."
+  },
+  {
+    "key": "6-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……"
+  },
+  {
+    "key": "7-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "7-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "7-content",
+    "original": "動作やめ。袖捲れ。今抜き取りしたかぇ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "動作やめ。袖捲れ。今抜き取りしたかぇ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동작 그만. 팔목 걷어. 시방 지금 밑장을 뺐냐.\nEN:\nStop right there. Pull your sleeve up. Don’t think I didn’t see you bein’ sneaky."
+  },
+  {
+    "key": "8-content",
+    "original": "なに！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なに！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐야?!\nEN:\nHuh?!"
+  },
+  {
+    "key": "9-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "9-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "9-content",
+    "original": "さっきぽんぽん派のボスから奪った願望シール、腕に付けちゃろ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さっきぽんぽん派のボスから奪った願望シール、腕に付けちゃろ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방금 콩콩이파 보스한테서 뺏은 소망스티커, 팔에 붙였지?\nEN:\nYou just put one of them wish stickers you got from the Tingtang bossman on your arm."
+  },
+  {
+    "key": "10-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "10-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "10-content",
+    "original": "そいでここに全部ぶっこんで、おめ独りで黄金の枝をごっくりするつもりやったんじゃねぇか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そいでここに全部ぶっこんで、おめ独りで黄金の枝をごっくりするつもりやったんじゃねぇか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그걸로 여기에 다 박고 느이 혼자 황금가지 꿀꺽할 속셈이었던 거 아녀?\nEN:\nYou were tryin’ to rake in all the chips this round so you can have the Golden Bough all to yourself."
+  },
+  {
+    "key": "11-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "11-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "11-content",
+    "original": "さぁ、みんな見んさい！手首の下のこれ、これ。シールとちゃうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、みんな見んさい！手首の下のこれ、これ。シールとちゃうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 다들 보이소! 손모가지 밑에 이거, 이거. 스티커 아녀?\nEN:\nLook, everyone! Right ‘ere ‘neath her hand, this thing. ‘S got to be the sticker, ey?"
+  },
+  {
+    "key": "12-content",
+    "original": "…証拠は？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…証拠は？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…증거 있어?\nEN:\n…Got proof?"
+  },
+  {
+    "key": "13-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "13-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "13-content",
+    "original": "ロージャ、すまないけどちょっと手首見せてくれない？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ、すまないけどちょっと手首見せてくれない？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈, 미안하지만 잠깐 손목 좀 볼 수 있을까?\nEN:\nSorry, Rodya, but can I take a look at your wrist for a second?"
+  },
+  {
+    "key": "14-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……"
+  },
+  {
+    "key": "15-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "15-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "15-content",
+    "original": "おいこら、すんな！触んな！おめがぐるかおらにゃ分からんやろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おいこら、すんな！触んな！おめがぐるかおらにゃ分からんやろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에헤, 마! 건드리지 말어라. 느이가 한 통속인지 내가 어찌 알겄냐.\nEN:\nNah, you aren’t! Don’t you touch ‘er. Far as I know, you two might be in cahoots."
+  },
+  {
+    "key": "16-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "16-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "16-content",
+    "original": "さぁ、ひん剥くからよっくど見ちょれよ？おらはこんやからがズルするって分かっちょったわ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、ひん剥くからよっくど見ちょれよ？おらはこんやからがズルするって分かっちょったわ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자아, 까 볼테니 똑디들 보소잉? 내가 요 작것 꼬롬하게 굴 줄 알았당께.\nEN:\nNooow, I’ll lay ‘er arm bare, so keep your eyes peeled, aight? I knew this sly little fox would play dirty."
+  },
+  {
+    "key": "17-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "17-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "17-content",
+    "original": "何だかこのシーン…このセリフ…どこかで見た気がしなくもないんだけど。デジャヴかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何だかこのシーン…このセリフ…どこかで見た気がしなくもないんだけど。デジャヴかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭔가 이 장면… 이 대사… 어디서 본 것 같은 상황인데. 데쟈뷰인가?\nEN:\nHold on now… This situation… and dialogue… all feel awfully familiar. Have I seen this before somewhere?"
+  },
+  {
+    "key": "18-content",
+    "original": "その図体の癖して。ここまでみみっちくしなきゃダメなの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その図体の癖して。ここまでみみっちくしなきゃダメなの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덩치가 아깝다. 쪼잔하게 꼭 이렇게까지 해야겠어?\nEN:\nSmall-minded for someone so big. Do you really have to be petty about this?"
+  },
+  {
+    "key": "19-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "19-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "19-content",
+    "original": "盗んだ願望力をいたずらに無駄遣いすな。ばぶばぶしてたときに教わらんかったのかぇ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盗んだ願望力をいたずらに無駄遣いすな。ばぶばぶしてたときに教わらんかったのかぇ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n훔친 소망력을 함부로 남발하지 말라. 올 때 그런 건 안 가르쳐 주디?\nEN:\nAnd didn’t they teach you that with stolen wishpower comes strict responsibility?"
+  },
+  {
+    "key": "20-content",
+    "original": "…映画の見過ぎね。盗むだなんて、何を盗むっていうの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…映画の見過ぎね。盗むだなんて、何を盗むっていうの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…영화를 너무 많이 봤네. 훔치긴 뭘 훔쳐?\nEN:\n…You’ve watched too many movies man. What’s stolen?"
+  },
+  {
+    "key": "21-content",
+    "original": "そんなこと言って、もし無かったらなんなの。自主脱落でもするおつもりで？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そんなこと言って、もし無かったらなんなの。自主脱落でもするおつもりで？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러다가 없으면, 뭐 자진 탈락이라도 하시나?\nEN:\nIf you find nothing, will you fold and walk out?"
+  },
+  {
+    "key": "22-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "22-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "22-content",
+    "original": "あんれまぁ、負けん気だけはあんな。あいよ。おめの手首に願望力残っとるのにおらの脱落を賭ける。おめは何を賭けるんや？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あんれまぁ、負けん気だけはあんな。あいよ。おめの手首に願望力残っとるのにおらの脱落を賭ける。おめは何を賭けるんや？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아따, 깡따구는 있네. 오냐. 네 손모가지에 소망력 남아있다는 거에 내 탈락을 건다. 너는 뭐를 걸텨?\nEN:\nHah, you’ve got guts. Fine, I’ll bet all my stakes that there’s a piece o’ the wishpower on your wrist. What do you say?"
+  },
+  {
+    "key": "23-content",
+    "original": "まあ、同じでしょ。じゃあ、今からどっちかは脱落するんだよ？ビビってるわけじゃないんだよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まあ、同じでしょ。じゃあ、今からどっちかは脱落するんだよ？ビビってるわけじゃないんだよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n똑같지 뭐. 그럼, 지금 한 놈은 탈락하는 거다? 쫄리고 그러는 거 아니지?\nEN:\nSame as yours. So, one of us is about to go bust then? Scared, are you?"
+  },
+  {
+    "key": "24-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "24-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "24-content",
+    "original": "あははははは！いやぁ、どっかでそれっぺえもんでも見たんかぇ。とにかく、確かに賭けたっちゅうことや、な？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あははははは！いやぁ、どっかでそれっぺえもんでも見たんかぇ。とにかく、確かに賭けたっちゅうことや、な？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파하하하! 아따, 어디서 본 건 있어서. 아무튼, 확실하게 건 것이야, 그제?\nEN:\nPahahahah! Oh that’s cute, you get that somewhere? Anyway, that means your words’re final, ey?"
+  },
+  {
+    "key": "25-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "25-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "25-content",
+    "original": "うわぁ…どっかの何かと完全にそっくりだな…こうなるときっと最後は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うわぁ…どっかの何かと完全にそっくりだな…こうなるときっと最後は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어어… 완전 판박이인데… 이러면 분명 결말이…\nEN:\nOh my… This is going exactly how I remember… I’m pretty sure the conclusion was…"
+  },
+  {
+    "key": "26-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "26-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "26-content",
+    "original": "さぁて、確認入るでぇ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁて、確認入るでぇ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자아, 확인 들어간데이~\nEN:\nHere goes, let us confirm then~"
+  },
+  {
+    "key": "27-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "27-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "27-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……"
+  },
+  {
+    "key": "28-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "28-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "28-content",
+    "original": "なんじゃ？なにがどうなっとんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なんじゃ？なにがどうなっとんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐여? 어떻게 된 거여?\nEN:\nWuhuh? What’s going on ‘ere?"
+  },
+  {
+    "key": "29-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "29-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "29-content",
+    "original": "おらは見た、こんイカサマ師らが手首を触るの見たちゃ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おらは見た、こんイカサマ師らが手首を触るの見たちゃ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내가 봤어, 요 작 것이 손모가지 만지는 거 봤어! 이, 이럴 리가 없는데…\nEN:\nI saw it. I saw the little fox rub ‘er wrist! There’s—there’s no way…"
+  },
+  {
+    "key": "30-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "30-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "30-content",
+    "original": "脱落か。残念だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脱落か。残念だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈락이네. 아쉽게 됐어.\nEN:\nThat means you’re out. What a pity."
+  },
+  {
+    "key": "31-content",
+    "original": "脱落したらどうなるの？うーん、手首でも切ってくとか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脱落したらどうなるの？うーん、手首でも切ってくとか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈락이면 어떻게 되는데? 뭐, 손목이라도 잘라가나?\nEN:\nWhat happens to the loser, then? Lop off a hand or something?"
+  },
+  {
+    "key": "32-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "32-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "32-content",
+    "original": "冗談だろ、ロージャ？義体に手首なんて意味ないだろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "冗談だろ、ロージャ？義体に手首なんて意味ないだろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n농담이지, 로쟈? 의체한테 손목이 무슨 소용이야.\nEN:\nYou’re joking, right, Rodya? There’s no point in removing a prosthetic hand."
+  },
+  {
+    "key": "33-teller",
+    "original": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会 ボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회 보스\nEN:\nCrew Boss"
+  },
+  {
+    "key": "33-title",
+    "original": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鉄工会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철공회\nEN:\nTieqiu Crew"
+  },
+  {
+    "key": "33-content",
+    "original": "いんや、これ…これがこんなわけ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いんや、これ…これがこんなわけ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아녀, 이게… 이게 이럴 리가…\nEN:\nNo, this is… This can’t be right…"
+  },
+  {
+    "key": "34-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "34-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "34-content",
+    "original": "敗者には寛大に、見当違いなことに対してはより一層慎重に、だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敗者には寛大に、見当違いなことに対してはより一層慎重に、だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패자에게는 관대하지만 헛다리에게는 한층 더 신중해야 할 필요가 있지.\nEN:\nThe defeated will be shown generosity, but false accusations need to be taken care of with more caution."
+  },
+  {
+    "key": "35-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "35-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "35-content",
+    "original": "あ、まさか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ、まさか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어, 설마?\nEN:\nHang on, are you…?"
+  },
+  {
+    "key": "36-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……"
+  },
+  {
+    "key": "37-content",
+    "original": "うっ…なにこれ…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うっ…なにこれ…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n윽… 이게 무슨…!\nEN:\nGweh… What in the…!"
+  },
+  {
+    "key": "38-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "38-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "38-content",
+    "original": "おい、ハザードランプくらい付けてからやってくれよ、ハザードランプ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おい、ハザードランプくらい付けてからやってくれよ、ハザードランプ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이씨, 깜빡이 좀 켜고 해라, 깜빡이 좀!\nEN:\nFor Wings’ sake, can you PLEASE give me a warning—just a little one!"
+  },
+  {
+    "key": "39-teller",
+    "original": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アイド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이드\nEN:\nAida"
+  },
+  {
+    "key": "39-title",
+    "original": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치\nEN:\nLos Mariachis"
+  },
+  {
+    "key": "39-content",
+    "original": "う…油と脳髄が溢れ出してるよ…ウェッ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "う…油と脳髄が溢れ出してるよ…ウェッ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으.. 기름이랑 뇌수 새어 나오는 것 좀 봐… 으웩.\nEN:\nUgh… Look at all the grease and spinal fluid… Bwegh."
+  },
+  {
+    "key": "40-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "40-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "40-content",
+    "original": "覚えてる？ロージャ、これ僕らの裏路地のゴミ捨て場にあったやつだろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覚えてる？ロージャ、これ僕らの裏路地のゴミ捨て場にあったやつだろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기억나? 로쟈. 이거 우리 뒷골목 쓰레기장에 있었던 거잖아.\nEN:\nRemember, Rodya? It’s a trash compactor we saw at the waste disposal in our Backstreets."
+  },
+  {
+    "key": "41-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……"
+  },
+  {
+    "key": "42-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "42-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "42-content",
+    "original": "言っただろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "言っただろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내가 말했지.\nEN:\nI told you back then."
+  },
+  {
+    "key": "43-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "43-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "43-content",
+    "original": "僕たちみたいな無産階級が団結して支配階級を打倒し、新しい社会を築き上げるべきだと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕たちみたいな無産階級が団結して支配階級を打倒し、新しい社会を築き上げるべきだと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 같은 무산 계급들이 단결해서 지배 계급들을 타도하고 새로운 사회를 건설해 나가야 한다고.\nEN:\nThat we proletarians should unite to take down the ruling class and build a new society."
+  },
+  {
+    "key": "44-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "44-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "44-content",
+    "original": "そう言うと君は答えただろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そう言うと君は答えただろ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러니까 네가 대답했잖아.\nEN:\nSo then you replied:"
+  },
+  {
+    "key": "45-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "45-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "45-content",
+    "original": "お金持ちどもをみんなあのプレッサーに入れてぺっちゃんこにするべきってことなら、賛成だって言ったよね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お金持ちどもをみんなあのプレッサーに入れてぺっちゃんこにするべきってことなら、賛成だって言ったよね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부자들을 몽땅 저 프레셔에 납작하게 눌러버려야 한다는 뜻이 맞다면, 찬성이라고 했었지.\nEN:\n“If you mean we should round up the rich and flatten ‘em under one of those compactors, then I’m all for it.”"
+  },
+  {
+    "key": "46-content",
+    "original": "…正確には「ぶっ潰して弾け飛ばす」だけどね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…正確には「ぶっ潰して弾け飛ばす」だけどね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…정확하게는 ‘짜부려 터뜨려야’ 한다고 했어.\nEN:\n…Small correction: I said “crush and pop ‘em”."
+  },
+  {
+    "key": "47-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "47-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "47-content",
+    "original": "…そうだっけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…そうだっけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그랬나.\nEN:\n…Is that so."
+  },
+  {
+    "key": "48-teller",
+    "original": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソーニャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소냐\nEN:\nSonya"
+  },
+  {
+    "key": "48-title",
+    "original": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユロージヴィ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유로지비\nEN:\nYurodivy"
+  },
+  {
+    "key": "48-content",
+    "original": "ロージャ、今でもユロージヴィに戻るつもりはないのか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ、今でもユロージヴィに戻るつもりはないのか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈, 여전히 유로지비로 돌아올 생각은 없는 거야?\nEN:\nRodya, are you still unwilling to return to the Yurodiviye?"
+  },
+  {
+    "key": "49-content",
+    "original": "私は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나는…\nEN:\nI…"
+  },
+  {
+    "key": "50-content",
+    "original": "さっき…なんか音しなかった？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さっき…なんか音しなかった？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방금… 쾅 소리 나지 않았어?\nEN:\nDidn’t you all… hear a loud slam just now?"
+  },
+  {
+    "key": "51-teller",
+    "original": "ソード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소드\nEN:\nSaude"
+  },
+  {
+    "key": "51-title",
+    "original": "LCCB\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "LCCB\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLCCB\nEN:\nLCCB"
+  },
+  {
+    "key": "51-content",
+    "original": "しました。願望力が云々…の後くらいに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しました。願望力が云々…の後くらいに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n났어요. 소망력이 어쩌고… 한 다음에.\nEN:\nUndoubtedly. After a quarrel about… wishpower and the like."
+  },
+  {
+    "key": "52-content",
+    "original": "なんだよ？あいつら気付いたのか？おい、何してんだ？早く時計回せよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なんだよ？あいつら気付いたのか？おい、何してんだ？早く時計回せよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐야? 저 새끼들 눈치 깐 거야? 야, 뭐해? 빨리 시계 돌려봐.\nEN:\nWhat? Did they find out? Oi, quit gawking and turn that clock."
+  },
+  {
+    "key": "53-content",
+    "original": "もう、押さないでくださいよ。…あ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もう、押さないでくださいよ。…あ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어휴, 밀지 좀 마요. …아!\nEN:\nGosh, please stop pushing. …Aaah!"
+  },
+  {
+    "key": "54-content",
+    "original": "あ、えっあっ…！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ、えっあっ…！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어, 어어…?!\nEN:\nHuh, woah—?!"
+  },
+  {
+    "key": "55-content",
+    "original": "不幸にも、その扉は障子で出来た弱くて危なっかしい扉であり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不幸にも、その扉は障子で出来た弱くて危なっかしい扉であり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불행히도 그 문은 창호지로 만든 연약하고 위태로운 문 이였고.\nEN:\nUnfortunately, the door we were leaning against was a flimsy wooden frame covered with rice paper."
+  },
+  {
+    "key": "56-content",
+    "original": "私たちはそのまま賭博場の中へと倒れ込んでしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私たちはそのまま賭博場の中へと倒れ込んでしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리는 그대로 도박장 안으로 넘어져 들어왔다.\nEN:\nWe all tumbled into the room as the door fell."
+  }
+]

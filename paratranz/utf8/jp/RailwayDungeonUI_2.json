@@ -1,0 +1,401 @@
+[
+  {
+    "key": "railway_dungeon_alarm_buff_no_one_select_for_heal-content",
+    "original": "回復可能人格 なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回復可能人格 なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회복 가능 인격 없음\nEN:\nNo Recoverable ID"
+  },
+  {
+    "key": "railway_dungeon_alarm_buff_no_one_select_for_resurrect-content",
+    "original": "復活可能人格 なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復活可能人格 なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부활 가능 인격 없음\nEN:\nNo Revivable ID"
+  },
+  {
+    "key": "railway_dungeon_healable-content",
+    "original": "回復可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回復可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회복 가능\nEN:\nRecoverable"
+  },
+  {
+    "key": "railway_dungeon_resurrectable-content",
+    "original": "復活可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復活可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부활 가능\nEN:\nRevivable"
+  },
+  {
+    "key": "railway_dungeon_ask_to_select_buff_and_rotate-content",
+    "original": "路線に乗って<color=#0f7137>始発駅</color>へ移動しますか？\n\n<size=90%>移動時に循環回数が増加し、\n適用する<color=#0f7137>味方バフ</color>・<color=#990000>敵バフ</color>をそれぞれ選択します。</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "路線に乗って<color=#0f7137>始発駅</color>へ移動しますか？\n\n<size=90%>移動時に循環回数が増加し、\n適用する<color=#0f7137>味方バフ</color>・<color=#990000>敵バフ</color>をそれぞれ選択します。</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노선을 타고 &lt;color=#0f7137&gt;시착역&lt;/color&gt;으로 이동하시겠습니까?\n\n&lt;size=90%&gt;이동 시 순환 횟수가 증가하며, \n적용할 &lt;color=#0f7137&gt;아군 버프&lt;/color&gt; · &lt;color=#990000&gt;적 버프&lt;/color&gt;를 각각 선택합니다.&lt;/size&gt;\nEN:\nReturn to the &lt;color=#0f7137&gt;First Stop&lt;/color&gt;?\n&lt;size=90%&gt;Doing so increases your Cycle Count, \nand you can select 1 &lt;color=#0f7137&gt;Ally Buff&lt;/color&gt; & 1 &lt;color=#990000&gt;Enemy Buff&lt;/color&gt;.&lt;/size&gt;"
+  },
+  {
+    "key": "railway_dungeon_current_rotation_count_title-content",
+    "original": "現在の循環回数 :\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の循環回数 :\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 순환 횟수 :\nEN:\nCycle Count :"
+  },
+  {
+    "key": "railway_dungeon_rotation_count-content",
+    "original": "循環回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "循環回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순환 횟수\nEN:\nCycle Count"
+  },
+  {
+    "key": "railway_dungeon_cumulative_turn_count-content",
+    "original": "累計ターン数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "累計ターン数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누적 턴 수\nEN:\nTotal Turns"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_1-content",
+    "original": "循環回数{1}以上で、2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "循環回数{1}以上で、2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순환 횟수 {1} 이상으로 2호선 클리어 시 획득\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_2-content",
+    "original": "循環回数{1}以上で、2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "循環回数{1}以上で、2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순환 횟수 {1} 이상으로 2호선 클리어 시 획득\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_3-content",
+    "original": "循環回数{1}以上で、累計ターン数{0}以下で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "循環回数{1}以上で、累計ターン数{0}以下で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순환 횟수 {1} 이상, 누적 턴 수 {0}턴 이하로 2호선 클리어 시 획득\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts and under {0} Total Turns"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_4-content",
+    "original": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#d6e7f2&gt;시즌 2 레미니센스&lt;/color&gt; 기간 내에 순환 횟수 {1} 이상으로 2호선 클리어 시 획득\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts before &lt;color=#d6e7f2&gt;Season 2: Reminiscence&lt;/color&gt; ends"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_5-content",
+    "original": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#d6e7f2&gt;시즌 2 레미니센스&lt;/color&gt; 기간 내에 순환 횟수 {1} 이상으로 2호선 클리어 시 획득\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts before &lt;color=#d6e7f2&gt;Season 2: Reminiscence&lt;/color&gt; ends"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_6-content",
+    "original": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上、累計ターン数{0}以下で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上、累計ターン数{0}以下で2号線クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#d6e7f2&gt;시즌 2 레미니센스&lt;/color&gt; 기간 내에 순환 횟수 {1} 이상, 누적 턴 수 {0}턴 이하로 2호선 클리어 시 획득\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts and {0} or less Total Turns before &lt;color=#d6e7f2&gt;Season 2: Reminiscence&lt;/color&gt; ends"
+  },
+  {
+    "key": "railway_dungeon_2_buff_list-content",
+    "original": "バフリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バフリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 목록\nEN:\nBuffs List"
+  },
+  {
+    "key": "railway_dungeon_2_dummy_buff_name_1-content",
+    "original": "버프 이름 1 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "버프 이름 1 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 이름 1 (더미)\nEN:\nBuff Name 1 (Dummy)"
+  },
+  {
+    "key": "railway_dungeon_2_dummy_buff_name_2-content",
+    "original": "버프 이름 2 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "버프 이름 2 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 이름 2 (더미)\nEN:\nBuff Name 2 (Dummy)"
+  },
+  {
+    "key": "railway_dungeon_2_dummy_buff_name_3-content",
+    "original": "버프 이름 3 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "버프 이름 3 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 이름 3 (더미)\nEN:\nBuff Name 3 (Dummy)"
+  },
+  {
+    "key": "railway_dungeon_2_dummy_buff_name_4-content",
+    "original": "버프 이름 4 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "버프 이름 4 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 이름 4 (더미)\nEN:\nBuff Name 4 (Dummy)"
+  },
+  {
+    "key": "railway_dungeon_2_dummy_buff_name_5-content",
+    "original": "버프 이름 5 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "버프 이름 5 (더미)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 이름 5 (더미)\nEN:\nBuff Name 5 (Dummy)"
+  },
+  {
+    "key": "railway_dungeon_2_no_owned_buff_desc-content",
+    "original": "保有中のバフがありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有中のバフがありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유 중인 버프가 없습니다.\nEN:\nNo active Buffs."
+  },
+  {
+    "key": "railway_dungeon_2_buff_effect_title-content",
+    "original": "バフ選択リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バフ選択リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 선택 목록\nEN:\nSelected Buffs List"
+  },
+  {
+    "key": "railway_dungeon_2_current_buff-content",
+    "original": "バフ状態\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バフ状態\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 현황\nEN:\nBuff Status"
+  },
+  {
+    "key": "railway_dungeon_2_buff_acquire_ally_buff-content",
+    "original": "<style=\"railwayDungeonAlly\">味方バフ</style>1種を選択します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"railwayDungeonAlly\">味方バフ</style>1種を選択します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"railwayDungeonAlly\"&gt;아군 버프&lt;/style&gt; 1종을 선택합니다.\nEN:\nSelect 1 &lt;style=\"railwayDungeonAlly\"&gt;Ally Buff&lt;/style&gt;."
+  },
+  {
+    "key": "railway_dungeon_2_buff_acquire_enemy_buff-content",
+    "original": "<style=\"railwayDungeonEnemy\">敵バフ</style>1種を選択します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"railwayDungeonEnemy\">敵バフ</style>1種を選択します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"railwayDungeonEnemy\"&gt;적 버프&lt;/style&gt; 1종을 선택합니다.\nEN:\nSelect 1 &lt;style=\"railwayDungeonEnemy\"&gt;Enemy Buff&lt;/style&gt;."
+  },
+  {
+    "key": "railway_dungeon_2_buff_not_selectable-content",
+    "original": "今回の循環にて選択不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回の循環にて選択不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 순환에서 선택 불가\nEN:\nCannot be selected this Cycle."
+  },
+  {
+    "key": "railway_dungeon_2_buff_fixed_selection-content",
+    "original": "選択固定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択固定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고정 선택\nEN:\nFixed Choice"
+  },
+  {
+    "key": "railway_dungeon_2_select_buff_popup_title-content",
+    "original": "バフ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バフ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프 선택\nEN:\nSelect Buffs"
+  },
+  {
+    "key": "railway_dungeon_2_select_ally_buff-content",
+    "original": "味方バフ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方バフ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 버프 선택\nEN:\nSelect Ally Buff"
+  },
+  {
+    "key": "railway_dungeon_2_select_enemy_buff-content",
+    "original": "敵バフ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵バフ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 버프 선택\nEN:\nSelect Enemy Buff"
+  },
+  {
+    "key": "railway_dungeon_2_ally_buff-content",
+    "original": "味方バフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方バフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 버프\nEN:\nAlly Buffs"
+  },
+  {
+    "key": "railway_dungeon_2_enemy_buff-content",
+    "original": "敵バフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵バフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 버프\nEN:\nEnemy Buffs"
+  },
+  {
+    "key": "railway_dungeon_2_select_resurrect-content",
+    "original": "復活人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復活人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부활 인격 선택\nEN:\nSelect Identity to Revive"
+  },
+  {
+    "key": "railway_dungeon_2_empty_selected_buffs-content",
+    "original": "選択したバフがありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択したバフがありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택한 버프가 없습니다.\nEN:\nNo selected Buffs."
+  },
+  {
+    "key": "railway_dungeon_2_ask_retry_when_all_died-content",
+    "original": "全囚人が死亡して進行することが出来ません。\n現在のステージへ入場する直前へと戻りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人が死亡して進行することが出来ません。\n現在のステージへ入場する直前へと戻りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자가 사망하여 진행할 수 없습니다.\n현재 스테이지의 입장 직전으로 돌아가시겠습니까?\nEN:\nAll of your Sinners are dead. You can no longer continue the encounter.\nReturn to the state immediately before entering this stage?"
+  },
+  {
+    "key": "railway_dungeon_2_ask_retry_when_defeat-content",
+    "original": "現在のステージに入場する直前へと戻りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在のステージに入場する直前へと戻りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 스테이지의 입장 직전으로 돌아가시겠습니까?\nEN:\nReturn to state immediately before entering this stage?"
+  },
+  {
+    "key": "railway_dungeon_2_ask_retry_when_defeat_info-content",
+    "original": "※そうしない場合、敵のHPとバフ効果が残った状態で残存人格を使用して戦闘を実施します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※そうしない場合、敵のHPとバフ効果が残った状態で残存人格を使用して戦闘を実施します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 그렇지 않은 경우에는 적의 HP와 버프 효과가 유지된 상태로 남은 인격들을 사용하여 전투를 진행합니다.\nEN:\n※ Should you choose to continue, you may use the remaining Sinners to continue the battle. Enemy HP and Buff effects will carry over."
+  },
+  {
+    "key": "railway_dungeon_2_retry_stage-content",
+    "original": "ステージリトライ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージリトライ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 재도전\nEN:\nRetry Stage"
+  },
+  {
+    "key": "railway_dungeon_2_retry_popup_exit-content",
+    "original": "終了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "終了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n종료하기\nEN:\nEnd Stage"
+  },
+  {
+    "key": "railway_dungeon_2_retry_popup_continue-content",
+    "original": "コンティニュー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コンティニュー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이어하기\nEN:\nContinue"
+  },
+  {
+    "key": "railway_dungeon_2_retry_popup_retry-content",
+    "original": "リトライ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リトライ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 도전\nEN:\nTry Again"
+  },
+  {
+    "key": "railway_dungeon_2_rotation_count-content",
+    "original": "(循環回数{0})\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "(循環回数{0})\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n(순환 횟수 {0})\nEN:\n({0} Cycle Count)"
+  },
+  {
+    "key": "railway_dungeon_2_rotation_count_short-content",
+    "original": "循環 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "循環 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순환 : {0}\nEN:\nCycle : {0}"
+  },
+  {
+    "key": "railway_dungeon_2_turn_count_short-content",
+    "original": "ターン : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 : {0}\nEN:\nTurns : {0}"
+  },
+  {
+    "key": "railway_dungeon_2_rotation_node-content",
+    "original": "循環\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "循環\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순환\nEN:\nCycle"
+  },
+  {
+    "key": "railway_dungeon_2_reward_condition_special_ticket-content",
+    "original": "※<color=#32434f>シーズン2レミニセンス</color>期間内に循環回数<color=#005823>{1}</color>以上、累計ターン数<color=#005823>{0}</color>以下で終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※<color=#32434f>シーズン2レミニセンス</color>期間内に循環回数<color=#005823>{1}</color>以上、累計ターン数<color=#005823>{0}</color>以下で終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ &lt;color=#32434f&gt;시즌 2 레미니센스&lt;/color&gt; 기간 내에 순환 횟수 &lt;color=#005823&gt;{1}&lt;/color&gt; 이상, 누적 턴 수 &lt;color=#005823&gt;{0}&lt;/color&gt;턴 이하로 종착역 클리어 시 획득\nEN:\n※ Obtained by clearing Line 2 with &lt;color=#005823&gt;{1}&lt;/color&gt; or more Cycle Counts and&lt;color=#005823&gt;{0}&lt;/color&gt; or less Total Turns before \n&lt;color=#32434f&gt;Season 2: Reminiscence&lt;/color&gt; ends"
+  },
+  {
+    "key": "railway_dungeon_2_special_reward_title-content",
+    "original": "特別報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特別報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특별 보상\nEN:\nSpecial Rewards"
+  },
+  {
+    "key": "railway_dungeon_2_fixed_enemy_buff-content",
+    "original": "固定敵バフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "固定敵バフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고정 적 버프\nEN:\nFixed Enemy Buffs"
+  },
+  {
+    "key": "railway_dungeon_2_pass_station-content",
+    "original": "通過駅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通過駅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무정차\nEN:\nPass Station"
+  },
+  {
+    "key": "railway_dungeon_2_next_station-content",
+    "original": "次の駅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次の駅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 역\nEN:\nNext Station"
+  },
+  {
+    "key": "railway_dungeon_2_final_station-content",
+    "original": "終着駅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "終着駅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n종착역\nEN:\nThe Terminus"
+  },
+  {
+    "key": "railway_dungeon_2_banner_reward_condition_7-content",
+    "original": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上、累計ターン数{0}以下で2号線クリア時に獲得\n(※23/09/15 20:15 (KST) 以降新たに開始した記録を基準とする)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#d6e7f2>シーズン2 レミニセンス</color>期間中に循環回数{1}以上、累計ターン数{0}以下で2号線クリア時に獲得\n(※23/09/15 20:15 (KST) 以降新たに開始した記録を基準とする)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#d6e7f2&gt;시즌 2 레미니센스&lt;/color&gt; 기간 내에 순환 횟수 {1} 이상, 누적 턴 수 {0}턴 이하로 2호선 클리어 시 획득\n(단, 23/09/15 20:15 (KST) 이후에 새롭게 시작한 기록을 기준으로 함)\nEN:\nObtained by clearing Line 2 with {1} or more Cycle Counts and {0} or less Total Turns before\n&lt;color=#d6e7f2&gt;Season 2: Reminiscence&lt;/color&gt; ends (Must be a record from a run started after 2023.09.15 20:15(KST))"
+  },
+  {
+    "key": "railway_dungeon_2_reward_condition_special_ticket_14-content",
+    "original": "※ <color=#32434f>シーズン2 レミニセンス</color>期間中に循環回数<color=#005823>{1}</color>以上、累計ターン数<color=#005823>{0}</color>以下で終着駅クリア時に獲得\n(※23/09/15 20:15 (KST) 以降新たに開始した記録を基準とする)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※ <color=#32434f>シーズン2 レミニセンス</color>期間中に循環回数<color=#005823>{1}</color>以上、累計ターン数<color=#005823>{0}</color>以下で終着駅クリア時に獲得\n(※23/09/15 20:15 (KST) 以降新たに開始した記録を基準とする)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ &lt;color=#32434f&gt;시즌 2 레미니센스&lt;/color&gt; 기간 내에 순환 횟수 &lt;color=#005823&gt;{1}&lt;/color&gt; 이상, 누적 턴 수 &lt;color=#005823&gt;{0}&lt;/color&gt;턴 이하로 종착역 클리어 시 획득\n(단, 23/09/15 20:15 (KST) 이후에 새롭게 시작한 기록을 기준으로 함)\nEN:\nObtained by clearing Line 2 with &lt;color=#005823&gt;{1}&lt;/color&gt; or more Cycle Counts and &lt;color=#005823&gt;{0}&lt;/color&gt; or less Total Turns\nbefore &lt;color=#32434f&gt;Season 2: Reminiscence&lt;/color&gt; ends\n(Must be a record from a run started after 2023.09.15 20:15(KST))"
+  },
+  {
+    "key": "railway_dungeon_2_current_battle_turn_count-content",
+    "original": "現在のステージターン数 : <style=\"number_highlight\"><size=\"60%\">{0}</size></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在のステージターン数 : <style=\"number_highlight\"><size=\"60%\">{0}</size></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 스테이지 턴 수 : &lt;style=\"number_highlight\"&gt;&lt;size=\"60%\"&gt;{0}&lt;/size&gt;&lt;/style&gt;\nEN:\nTurns taken this Station : &lt;style=\"number_highlight\"&gt;&lt;size=\"60%\"&gt;{0}&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "railway_dungeon_2_ask_retry_when_defeat_info_turn_count-content",
+    "original": "※ステージクリア時、<style=\"yellow\">現在のステージターン数</style>が<style=\"yellow\">累計ターン数</style>に含まれます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※ステージクリア時、<style=\"yellow\">現在のステージターン数</style>が<style=\"yellow\">累計ターン数</style>に含まれます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 스테이지 클리어 시, &lt;style=\"yellow\"&gt;현재 스테이지 턴 수&lt;/style&gt;가 &lt;style=\"yellow\"&gt;누적 턴 수&lt;/style&gt;에 포함됩니다.\nEN:\n※ Upon completing the Station, &lt;style=\"yellow\"&gt;Turns taken in the current Station&lt;/style&gt; will be added to the &lt;style=\"yellow\"&gt;Total Turns&lt;/style&gt;."
+  },
+  {
+    "key": "railway_dungeon_2_ask_retry_when_defeat_info_save_battle-content",
+    "original": "続ける場合、敵のHPとバフ効果が残った状態で残存人格を使用して戦闘を実施します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "続ける場合、敵のHPとバフ効果が残った状態で残存人格を使用して戦闘を実施します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이어하는 경우에는 적의 HP와 버프 효과가 유지된 상태로 남은 인격들을 사용하여 전투를 진행합니다.\nEN:\nShould you choose to continue, you may use the remaining Sinners to continue the battle. Enemy HP and Buff effects will carry over."
+  },
+  {
+    "key": "railway_dungeon_2_ask_retry_when_all_died_turn_count-content",
+    "original": "※ステージをクリアした場合にのみ、<style=\"yellow\">現在のステージターン数</style>が<style=\"yellow\">累計ターン数</style>に含まれます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※ステージをクリアした場合にのみ、<style=\"yellow\">現在のステージターン数</style>が<style=\"yellow\">累計ターン数</style>に含まれます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 스테이지를 클리어한 경우에만 &lt;style=\"yellow\"&gt;현재 스테이지 턴 수&lt;/style&gt;가 &lt;style=\"yellow\"&gt;누적 턴 수&lt;/style&gt;에 포함됩니다.\nEN:\n※ &lt;style=\"yellow\"&gt;Turns taken in the current Station&lt;/style&gt; will be added to the &lt;style=\"yellow\"&gt;Total Turns&lt;/style&gt; only after completing the Station."
+  }
+]

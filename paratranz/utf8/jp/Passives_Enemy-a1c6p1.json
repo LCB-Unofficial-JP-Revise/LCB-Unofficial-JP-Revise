@@ -1,0 +1,261 @@
+[
+  {
+    "key": "9011601-name",
+    "original": "おま…か\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おま…か\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n너로...구\nEN:\nIt's... you..."
+  },
+  {
+    "key": "9011601-desc",
+    "original": "戦闘開始時、体力が最も低い敵ならダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、体力が最も低い敵ならダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시 체력이 가장 낮은 적이라면, 피해량 +10%\nEN:\nDeal +10% damage to targets with the least HP"
+  },
+  {
+    "key": "9011601-summary",
+    "original": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량 +10%\nEN:\nDamage +10%"
+  },
+  {
+    "key": "9011801-name",
+    "original": "…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n...\nEN:\n..."
+  },
+  {
+    "key": "9011801-desc",
+    "original": "マッチ敗北時、対象の精神力に3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、対象の精神力に3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배시, 대상의 정신력 3 피해\nEN:\nTarget takes 3 SP damage if this unit loses the clash"
+  },
+  {
+    "key": "9011801-summary",
+    "original": "対象の精神力に3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の精神力に3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 정신력 3 피해\nEN:\nTarget takes 3 SP damage"
+  },
+  {
+    "key": "9012001-name",
+    "original": "整頓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "整頓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정돈\nEN:\nCleaning"
+  },
+  {
+    "key": "9012001-desc",
+    "original": "スキル使用時、対象の体力が50%未満のならスキル威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル使用時、対象の体力が50%未満ならスキル威力 +1\n<CMT_KR>오식: \"スキル使用時、対象の体力が50%未満「の」ならスキル威力 +1\" 정확: \"スキル使用時、対象の体力が50%未満「」ならスキル威力 +1\"\n<CMT_EN>Typo: \"スキル使用時、対象の体力が50%未満「の」ならスキル威力 +1\" Correction: \"スキル使用時、対象の体力が50%未満「」ならスキル威力 +1\"\n<CMT_JP>誤植: \"スキル使用時、対象の体力が50%未満「の」ならスキル威力 +1\" 訂正後: \"スキル使用時、対象の体力が50%未満「」ならスキル威力 +1\"",
+    "stage": 1,
+    "context": "KR:\n스킬 사용시 대상의 체력이 50%미만일 때, 스킬 위력 +1\nEN:\nWhen using a Skill, if target's HP is below 50%, Skill Power +1"
+  },
+  {
+    "key": "9012001-summary",
+    "original": "スキル威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 위력 +1\nEN:\nSkill Power +1"
+  },
+  {
+    "key": "9012201-name",
+    "original": "整理\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "整理\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정리\nEN:\nOrganizing"
+  },
+  {
+    "key": "9012201-desc",
+    "original": "スキル使用時、対象の体力が50%未満のならダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル使用時、対象の体力が50%未満ならダメージ量 +30%\n<CMT_KR>오식: \"スキル使用時、対象の体力が50%未満「の」ならダメージ量 +30%\" 정확: \"スキル使用時、対象の体力が50%未満「」ならダメージ量 +30%\"\n<CMT_EN>Typo: \"スキル使用時、対象の体力が50%未満「の」ならダメージ量 +30%\" Correction: \"スキル使用時、対象の体力が50%未満「」ならダメージ量 +30%\"\n<CMT_JP>誤植: \"スキル使用時、対象の体力が50%未満「の」ならダメージ量 +30%\" 訂正後: \"スキル使用時、対象の体力が50%未満「」ならダメージ量 +30%\"",
+    "stage": 1,
+    "context": "KR:\n스킬 사용 시 대상의 체력이 50%미만일 때, 피해량 +30%\nEN:\nWhen using a Skill, if target's HP is below 50%, deal +30% damage"
+  },
+  {
+    "key": "9012201-summary",
+    "original": "与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량 +30%\nEN:\nDamage +30%"
+  },
+  {
+    "key": "9012301-name",
+    "original": "袋の鼠\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "袋の鼠\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n독 안에 든 쥐\nEN:\nDead End"
+  },
+  {
+    "key": "9012301-desc",
+    "original": "スキル使用時、自分の速度が対象より高いならマッチ威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル使用時、自分の速度が対象より高いならマッチ威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +1\nEN:\nWhen using a Skill, if this unit's Speed is faster than the target's, Clash Power +1"
+  },
+  {
+    "key": "9012301-summary",
+    "original": "マッチ威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1\nEN:\nClash Power +1"
+  },
+  {
+    "key": "9012501-name",
+    "original": "鼠狩り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鼠狩り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쥐사냥\nEN:\nRat Hunt"
+  },
+  {
+    "key": "9012501-desc",
+    "original": "スキル使用時、自分の速度が対象より高いならマッチ威力+1, ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル使用時、自分の速度が対象より高いならマッチ威力+1, ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 사용 시 자신의 속도가 대상보다 빠르면, 합 위력 +1, 피해량 +20%\nEN:\nWhen using a Skill, if this unit's Speed is faster than the target's, gain Clash Power +1 and deal +20% damage"
+  },
+  {
+    "key": "9012501-summary",
+    "original": "マッチ威力+1, ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力+1, ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1, 피해량 +20%\nEN:\nClash Power +1, deal +20% damage"
+  },
+  {
+    "key": "9012601-name",
+    "original": "最善を…尽くします\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最善を…尽くします\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최선을... 다하겠습니다\nEN:\nI Will... Do My Best"
+  },
+  {
+    "key": "9012601-desc",
+    "original": "ターン終了時に混乱状態になったとき、精神力を12回復。次のターンに防御レベル減少 2を得る(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に混乱状態になったとき、精神力を12回復。次のターンに防御レベル減少 2を得る(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 흐트러짐 상태가 되었을 때, 정신력 12 회복. 다음 턴에 방어 레벨 감소 2 얻음. (최대 1회)\nEN:\nTurn End: if Staggered, heal 12 SP. Gain 2 Defense Level Down next turn. (one time max)"
+  },
+  {
+    "key": "9012602-name",
+    "original": "申し訳ございません…奥様！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "申し訳ございません…奥様！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄송합니다...마님!\nEN:\nApologies... Mistress!"
+  },
+  {
+    "key": "9012602-desc",
+    "original": "ターン終了時にパニック状態から抜け出した場合、次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態から抜け出した場合、次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 패닉 상태에서 벗어났다면, 다음 턴에 공격 위력 증가 1 얻음\nEN:\nTurn End: if this unit recovered from Panic, gain 1 Attack Power Up next turn"
+  },
+  {
+    "key": "9012602-summary",
+    "original": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 공격 위력 증가 1 얻음\nEN:\nGain 1 Attack Power Up next turn"
+  },
+  {
+    "key": "9101401-name",
+    "original": "きちんと片付けてやろう…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "きちんと片付けてやろう…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제대로 치워주지...\nEN:\nI'll Clean You Up..."
+  },
+  {
+    "key": "9101401-desc",
+    "original": "ターン終了時に混乱状態になったとき、混乱状態から抜け出して精神力を20回復。次のターンに攻撃レベル増加 1を得る(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に混乱状態になったとき、混乱状態から抜け出して精神力を20回復。次のターンに攻撃レベル増加 1を得る(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 흐트러짐 상태가 되었을 때, 흐트러짐 상태에서 벗어나고 정신력 20 회복. 다음 턴에 공격 레벨 증가 1 얻음. (최대 1)\nEN:\nTurn End: if Staggered, recover from the Staggered state and heal 20 SP. Gain 1 Offense Level Up next turn. (1 max)"
+  },
+  {
+    "key": "9101402-name",
+    "original": "無礼者が…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無礼者が…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무례한 것!\nEN:\nInsolent Fool!"
+  },
+  {
+    "key": "9101402-desc",
+    "original": "対象が自分より速度が低ければ、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象が自分より速度が低ければ、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상이 자신보다 속도가 낮다면, 합 위력 +2\nEN:\nIf this unit's Speed is faster than the target's, Clash Power +2"
+  },
+  {
+    "key": "9101402-summary",
+    "original": "マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +2\nEN:\nClash Power +2"
+  },
+  {
+    "key": "9101403-name",
+    "original": "奥様の声が…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奥様の声が…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마님의 소리가...!\nEN:\nThe Mistress's Voice...!"
+  },
+  {
+    "key": "9101403-desc",
+    "original": "1つの攻撃スキルのコインが全て表面なら、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1つの攻撃スキルのコインが全て表面なら、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 공격 스킬의 코인이 모두 앞면이라면, 정신력 10 회복\nEN:\nHeal 10 SP when every Coin of an Attack Skill flips heads"
+  },
+  {
+    "key": "9101403-summary",
+    "original": "精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 10 회복\nEN:\nHeal 10 SP"
+  },
+  {
+    "key": "9101404-name",
+    "original": "奥様、見てらっしゃいますか！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奥様、見てらっしゃいますか！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마님, 보고 계신가요?!\nEN:\nWill You Witness Me, Mistress?!"
+  },
+  {
+    "key": "9101404-desc",
+    "original": "攻撃時、対象に沈潜があるかつ対象の精神力が-15以下なら、次のターンに攻撃レベル増加 3を得る(対象1体につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃時、対象に沈潜があるかつ対象の精神力が-15以下なら、次のターンに攻撃レベル増加 3を得る(対象1体につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격시 대상에게 침잠이 있고 대상의 정신력이 -15이하라면, 다음 턴에 공격 레벨 증가 3 얻음. (대상당 한 번)\nEN:\nIf the target has Sinking, and if the target has -15 or less SP, gain 3 Offense Level Up next turn. (once per target)"
+  },
+  {
+    "key": "9999999-name",
+    "original": "パニック回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パニック回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패닉 회복\nEN:\nPanic Recovery"
+  },
+  {
+    "key": "9999999-desc",
+    "original": "ターン終了時にパニック状態なら、精神力が0になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、精神力が0になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 패닉 상태라면 정신력이 0이됨.\nEN:\nTurn End: if in Panic, reset SP to 0."
+  },
+  {
+    "key": "9999998-name",
+    "original": "パニック変更不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パニック変更不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패닉 변경 불가\nEN:\nFixed Panic"
+  },
+  {
+    "key": "9999998-desc",
+    "original": "パニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패닉 유형을 변경하는 버프 획득 시, 패닉 유형이 변경되지 않음. 대신 정신력이 없는 대상에게 부여되는 효과가 부여됨\nEN:\nThis unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP."
+  }
+]

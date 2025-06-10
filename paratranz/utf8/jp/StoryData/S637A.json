@@ -1,0 +1,807 @@
+[
+  {
+    "key": "0-place",
+    "original": "ワザリング・ハイツ 実験室\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ワザリング・ハイツ 実験室\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n워더링하이츠 실험실\nEN:\nWuthering Heights Laboratory"
+  },
+  {
+    "key": "0-content",
+    "original": "誰も残っていないな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰も残っていないな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무도 남지 않았군.\nEN:\nSo there isn't anyone left..."
+  },
+  {
+    "key": "1-content",
+    "original": "私はもう長くないだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私はもう長くないだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n난 아마 오래 견디지 못할 거야.\nEN:\nI won't last much longer."
+  },
+  {
+    "key": "2-content",
+    "original": "こうやって生まれ、そうやって生きてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こうやって生まれ、そうやって生きてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이렇게 태어났고 그렇게 살아왔지.\nEN:\nThis is how I was born. How I've lived my entire life."
+  },
+  {
+    "key": "3-content",
+    "original": "そうか、分かってるならそろそろ大人しく…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうか、分かってるならそろそろ大人しく…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래, 알고 있으면 이제 순순히…\nEN:\nYeah. Glad you know that. So why don't you—"
+  },
+  {
+    "key": "4-content",
+    "original": "全ての罪を認めて…降伏…でもしろと？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全ての罪を認めて…降伏…でもしろと？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 죄를 인정하고… 항복… 이라도 하라는 건가?\nEN:\nWhat... admit my sins and... surrender...?"
+  },
+  {
+    "key": "5-content",
+    "original": "はは…それは一体私にとって何の意味があると思ってるんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はは…それは一体私にとって何の意味があると思ってるんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하하… 그게 대체 내게 무슨 의미가 있다고 생각하나?\nEN:\nHa ha... why would any of that ever matter to me?"
+  },
+  {
+    "key": "6-content",
+    "original": "リントンは一皮剥けたようなすっきりした顔で\n視線を上へ向けた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リントンは一皮剥けたようなすっきりした顔で\n視線を上へ向けた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n린튼은 한결 후련해진 표정으로 시선을 위로 올렸다.\nEN:\nLinton looks up with a lighter expression, as though a burden has been lifted from his shoulders."
+  },
+  {
+    "key": "7-content",
+    "original": "私はきっとここで終わるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私はきっとここで終わるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나는 아마도 여기까지가 끝일 거야.\nEN:\nThis is as far as I will go."
+  },
+  {
+    "key": "8-content",
+    "original": "すると誰かに向かって優しい声で言葉を紡ぎ始める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "すると誰かに向かって優しい声で言葉を紡ぎ始める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러더니 누군가를 향해 다정한 목소리로 말을 이어 나간다.\nEN:\nThen, with the gentlest voice, he begins speaking to... someone."
+  },
+  {
+    "key": "9-content",
+    "original": "満ち足りるところか、溢れてしまいそうな愛情が\n滲み出ていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "満ち足りるどころか、溢れてしまいそうな愛情が\n滲み出ていた。\n<CMT_KR>오식: \"満ち足りる「と」ころか、溢れてしまいそうな愛情が\" 정확: \"満ち足りる「ど」ころか、溢れてしまいそうな愛情が\"\n<CMT_EN>Typo: \"満ち足りる「と」ころか、溢れてしまいそうな愛情が\" Correction: \"満ち足りる「ど」ころか、溢れてしまいそうな愛情が\"\n<CMT_JP>誤植: \"満ち足りる「と」ころか、溢れてしまいそうな愛情が\" 訂正後: \"満ち足りる「ど」ころか、溢れてしまいそうな愛情が\"",
+    "stage": 1,
+    "context": "KR:\n가득 차다 못해 넘쳐흐를 것만 같은 애정이 묻어 나오고 있었다.\nEN:\nHis voice was overflowing with intense, fervent affection."
+  },
+  {
+    "key": "10-content",
+    "original": "いつも言っていた通り、後悔はない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いつも言っていた通り、後悔はない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n항상 말해왔던 것처럼, 후회는 없어.\nEN:\nAs I have always told you... I have no regrets."
+  },
+  {
+    "key": "11-content",
+    "original": "ただ、私たちが同じ速度で歩いていたわけではないと思っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ、私たちが同じ速度で歩いていたわけではないと思っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그저 우리가 같은 속도로 걷고 있던 것이 아니라고 생각해.\nEN:\nI merely think that... we were both walking in different paces."
+  },
+  {
+    "key": "12-content",
+    "original": "貴女がいつも速かっただけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貴女がいつも速かっただけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n당신이 항상 더 빨랐을 뿐이지.\nEN:\nAnd you always happened to walk ahead of me."
+  },
+  {
+    "key": "13-content",
+    "original": "それでも私は、貴女の後ろ姿を見るだけで\n胸がいっぱいになるほど満ち足りていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それでも私は、貴女の後ろ姿を見るだけで\n胸がいっぱいになるほど満ち足りていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래도 난 당신의 뒷모습을 보는 것조차 벅차오르도록 좋더군.\nEN:\nYet, even a sight of you from behind summoned butterflies in my stomach."
+  },
+  {
+    "key": "14-content",
+    "original": "主治医による適切な処置が講じられなければ、あの者はすぐに死ぬだろう。\n極度に衰弱している状態だな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "主治医による適切な処置が講じられなければ、あの者はすぐに死ぬだろう。\n極度に衰弱している状態だな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주치의의 마땅한 조치가 취해지지 않는다면, 저자는 곧 죽을 거다. 극도로 쇠약해져 있는 상태군.\nEN:\nThis man will die without immediate and appropriate medical attention from a professional doctor. He is extremely weakened."
+  },
+  {
+    "key": "15-content",
+    "original": "それでも…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それでも…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럼에도…\nEN:\nStill..."
+  },
+  {
+    "key": "16-content",
+    "original": "キャサリン、君が…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャサリン、君が…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n캐서린, 당신이…\nEN:\nCatherine, I wish you would..."
+  },
+  {
+    "key": "17-content",
+    "original": "ほんの少しでもいいから…私のせいで悲しんでくれたら嬉しい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ほんの少しでもいいから…私のせいで悲しんでくれたら嬉しい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아주 조금이라도 좋으니… 나로 인해 슬퍼했으면 좋겠어.\nEN:\n... I wish my death would bring you even a trace of sorrow."
+  },
+  {
+    "key": "18-content",
+    "original": "私がリントンという子と初めて目が合う前から…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私がリントンという子と初めて目が合う前から…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내가 린튼이라는 아이와 처음으로 눈이 마주치기 전부터…\nEN:\nEven before I first laid my eyes upon that child, Linton..."
+  },
+  {
+    "key": "19-content",
+    "original": "その子は私のことを見つめていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その子は私のことを見つめていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 애는 나를 지켜보고 있었지.\nEN:\n... he was watching me."
+  },
+  {
+    "key": "20-content",
+    "original": "しばらくの間、私から目を離せないまま。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しばらくの間、私から目を離せないまま。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한참을 내게서 눈을 떼지 못한 채로.\nEN:\nUnable to look away, even for a moment."
+  },
+  {
+    "key": "21-content",
+    "original": "その子はお金持ちな上に、絵本に出てくる王子様のような姿をしていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その子はお金持ちな上に、絵本に出てくる王子様のような姿をしていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 아이는 부자인데다가 동화책에 나오는 왕자님 같이 생겼어.\nEN:\nThat child is wealthy. He looks like the prince charming from fairy tales of my childhood."
+  },
+  {
+    "key": "22-content",
+    "original": "そして私のことを本当に好いている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そして私のことを本当に好いている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그리고 나를 정말 좋아해.\nEN:\nAnd he loves me so, so much."
+  },
+  {
+    "key": "23-content",
+    "original": "見てちょうだい。私を見るたびに、\nいつも目が星明かりのようにキラキラしているでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "見てちょうだい。私を見るたびに、\nいつも目が星明かりのようにキラキラしているでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이것 봐. 나를 볼 때마다, 항상 눈이 별빛처럼 반짝거리잖아.\nEN:\nSee? His eyes glimmer like the very stars of the night sky with every second he lays them upon me."
+  },
+  {
+    "key": "24-content",
+    "original": "私は、私を愛しているリントンを愛している。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私は、私を愛しているリントンを愛している。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나는 나를 사랑하는 린튼을 사랑해.\nEN:\nI love Linton who loves me."
+  },
+  {
+    "key": "25-content",
+    "original": "ただ私のためだけに\n輝いているその瞳を。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ私のためだけに\n輝いているその瞳を。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오직 나를 위해서만 반짝이는 그 눈빛을.\nEN:\nHis eyes that twinkle for no one else but me."
+  },
+  {
+    "key": "26-content",
+    "original": "ただ私のためだけに\nなびかせている黄金色の髪を。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ私のためだけに\nなびかせている黄金色の髪を。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오직 나를 위해서만 흩날리는 황금빛 머릿결을.\nEN:\nHis flaxen locks that flow for no one else but me."
+  },
+  {
+    "key": "27-content",
+    "original": "ただ私のためだけに笑ってくれる\nそのまぶしい笑顔を。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ私のためだけに笑ってくれる\nそのまぶしい笑顔を。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오직 나를 위해서만 웃어주는 그 빛나는 웃음을.\nEN:\nHis radiant smile that flashes for no one else but me."
+  },
+  {
+    "key": "28-content",
+    "original": "他の何者でもなく、私だけから幸せを見出すリントンを。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "他の何者でもなく、私だけから幸せを見出すリントンを。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오직 나를 통해서만 행복해하는 린튼을.\nEN:\nLinton, who finds happiness through nothing else but me."
+  },
+  {
+    "key": "29-content",
+    "original": "再び邸宅に光が戻り、視界が明るむと…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び邸宅に光が戻り、視界が明るむと…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 저택에 빛이 돌아오고, 시야가 밝아졌을 때…\nEN:\nWhen light returned to the manor, when I could finally see again..."
+  },
+  {
+    "key": "30-content",
+    "original": "リントンは誰よりも恍惚とした表情で笑っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リントンは誰よりも恍惚とした表情で笑っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n린튼은 누구보다 황홀한 표정으로 웃고 있었다.\nEN:\nThere stood Linton, wearing the brightest, happiest smile I had ever seen."
+  },
+  {
+    "key": "31-content",
+    "original": "実験装置に自らの身体を繋いだまま。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "実験装置に自らの身体を繋いだまま。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸에는 실험 장치를 스스로의 몸에 연결한 채로.\nEN:\n... The machines of the laboratory were linked to his body."
+  },
+  {
+    "key": "32-content",
+    "original": "あぁ…聞こえたか？ついに雷が落ちた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…聞こえたか？ついに雷が落ちた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 들었는가? 마침내 벼락이 쳤어.\nEN:\nAh... did you hear... the thunder...?"
+  },
+  {
+    "key": "33-content",
+    "original": "…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…!\nEN:\n…!"
+  },
+  {
+    "key": "34-content",
+    "original": "私のせいでキャサリンが痛がっているんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私のせいでキャサリンが痛がっているんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나로 인해 캐서린이 아파한 거야.\nEN:\nCatherine weeps for me."
+  },
+  {
+    "key": "35-content",
+    "original": "あぁ…キャサリン！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…キャサリン！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 캐서린!\nEN:\nOh... Catherine!"
+  },
+  {
+    "key": "36-content",
+    "original": "リントンが力の限り、キャサリンの棺に向かって手を伸ばす。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リントンが力の限り、キャサリンの棺に向かって手を伸ばす。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n린튼이 있는 힘을 다해서 캐서린의 관을 향해 손을 뻗는다.\nEN:\nLinton musters every strength in his body and reaches out toward Catherine's coffin."
+  },
+  {
+    "key": "37-content",
+    "original": "待て…今テメェ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待て…今テメェ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잠깐… 지금 너…\nEN:\nWait, what are you—"
+  },
+  {
+    "key": "38-content",
+    "original": "だからそろそろ…潮時だということだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だからそろそろ…潮時だということだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러니 이제… 적절한 때라는 거지…\nEN:\nSo now... is the right moment to..."
+  },
+  {
+    "key": "39-content",
+    "original": "…止まれ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…止まれ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…멈춰!\nEN:\n... STOP!"
+  },
+  {
+    "key": "40-content",
+    "original": "喜びの涙がリントンの頬を伝って流れているように見えたが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喜びの涙がリントンの頬を伝って流れているように見えたが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨의 눈물이 린튼의 볼을 타고 흘러내리는 듯했지만…\nEN:\nI thought I saw tears of joy rolling down his cheeks, but..."
+  },
+  {
+    "key": "41-content",
+    "original": "<…！>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<…！>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;…!&gt;\nEN:\n&lt;…!&gt;"
+  },
+  {
+    "key": "42-content",
+    "original": "よく見ると、それは融けゆく顔だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "よく見ると、それは融けゆく顔だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자세히 보니 그건 녹아가는 얼굴이었다.\nEN:\n... they were his flesh beginning to melt off his face."
+  },
+  {
+    "key": "43-content",
+    "original": "私を貴女の部屋の中に連れて行ってくれなくても…いいんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私を貴女の部屋の中に連れて行ってくれなくても…いいんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나를 그대 방 안으로 데려가 줄 수 없어도… 괜찮아.\nEN:\nEven if you will not permit me into your chambers... It's all right."
+  },
+  {
+    "key": "44-content",
+    "original": "貴女を待ちながら、あの壁の中に閉じ込められていよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貴女を待ちながら、あの壁の中に閉じ込められていよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그대를 기다리며 그 벽 속에 갇혀 있겠어.\nEN:\nI will await you within its walls forevermore."
+  },
+  {
+    "key": "45-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "45-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "45-content",
+    "original": "いつかの純粋なりし人間を作る方法は…単純だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いつかの純粋なりし人間を作る方法は…単純だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n언젠가의 순수했던 인간을 만드는 방법은… 단순했네.\nEN:\nTo bring forth the pure form of humanity that once existed... was quite the simple task."
+  },
+  {
+    "key": "46-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "47-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "47-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "47-content",
+    "original": "料理には天地がひっくり返ろうとも\n素質無きそなたは分からぬだろうが、イサン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "料理には天地がひっくり返ろうとも\n素質無きそなたは分からぬだろうが、イサン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요리에는 죽었다 깨어나도 소질이 없었던 자네는 모르겠지만, 이상.\nEN:\nYou never had any talent in the culinary arts, Yi Sang. So you wouldn't understand."
+  },
+  {
+    "key": "48-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "48-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "48-content",
+    "original": "いかなる不純物も混ざらぬ生地が存在するなら…\nあらゆる人格が被せられようとも安全に癒着できるのさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いかなる不純物も混ざらぬ生地が存在するなら…\nあらゆる人格が被せられようとも安全に癒着できるのさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 불순물도 섞이지 않은 반죽이 존재한다면… 어떤 인격이 입혀지던 간에, 안전하게 유착될 수 있지.\nEN:\nAny kind of Identity could safely and securely be applied to it, as long as the 'dough' is in its purest form."
+  },
+  {
+    "key": "49-content",
+    "original": "リントンさん…どうなってるんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リントンさん…どうなってるんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n린튼 씨가… 어떻게 된 거예요?\nEN:\nWhat happened to... Linton?"
+  },
+  {
+    "key": "50-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "50-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "50-content",
+    "original": "見えぬのか？不純物無き完全な生地になったのさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "見えぬのか？不純物無き完全な生地になったのさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보이지 않는가? 불순물 없는 완벽한 반죽이 된 거지.\nEN:\nCan't you see? He's become a dough, a batter; a pure being free of dregs."
+  },
+  {
+    "key": "51-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "51-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "51-content",
+    "original": "いかなる物と混ぜようとも、最上の結果物が出るほどの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いかなる物と混ぜようとも、最上の結果物が出るほどの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 무엇과 섞여 내더라도 최상의 결과물이 나올 수 있을 정도로.\nEN:\nSo that it would always yield the finest results, regardless of what other ingredients you mix into it."
+  },
+  {
+    "key": "52-content",
+    "original": "あんな肉の塊ごときを…人間だって呼ぶのか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あんな肉の塊ごときを…人間だって呼ぶのか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고작 저런 살덩어리를… 인간이라고 부른다고?\nEN:\nYou call that mass of flesh... human?"
+  },
+  {
+    "key": "53-content",
+    "original": "…いいえ。新しい人間を作るのはその過程に過ぎず…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…いいえ。新しい人間を作るのはその過程に過ぎず…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…아뇨, 새로운 인간을 만드는 것은 그 과정일 뿐…\nEN:\n... No. Creation of a new human is but a stepping stone in that process."
+  },
+  {
+    "key": "54-content",
+    "original": "最後の目的は、あなたが言ったその生地を超越した\nその前にあったはずの最初の人間でしょうね。\nこの状況は彼らにとってただの結果であり、実験に過ぎなかったでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最後の目的は、あなたが言ったその生地を超越した\nその前にあったはずの最初の人間でしょうね。\nこの状況は彼らにとってただの結果であり、実験に過ぎなかったでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최후의 목적은 당신이 말한 저 반죽을 넘어서 그 전에 있었을 최초의 인간이겠군요. 이 상황은 저들에게 단지 과정이자 실험이었을 뿐일 테죠.\nEN:\nTheir ultimate goal must be to go even further beyond that 'dough'; they seek to reach the very origin... the primordial human. This is but a part of that process, merely an experiment along the way."
+  },
+  {
+    "key": "55-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "55-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "55-content",
+    "original": "おぉ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おぉ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오…\nEN:\nOh…"
+  },
+  {
+    "key": "56-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "56-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "56-content",
+    "original": "ここでまともに生きている研究員が俺だけなのを幸いに思うが良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ここでまともに生きている研究員が俺だけなのを幸いに思うが良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여기 멀쩡히 살아있는 연구원이 나밖에 없는 걸 다행으로 여겨야겠어.\nEN:\nConsider yourself fortunate that there aren't any other surviving researchers here other than myself."
+  },
+  {
+    "key": "57-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "57-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "57-content",
+    "original": "この言の葉をヘルマン理事のような上の方が聞きでもすれば\n何としてもそなたを捕まえてこいと躍起になったであろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この言の葉をヘルマン理事のような上の方が聞きでもすれば\n何としてもそなたを捕まえてこいと躍起になったであろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 말을 헤르만 이사와 같은 윗분들이 듣기라도 했다면 어떻게든 자네를 잡아 오려고 기를 썼을 테니까.\nEN:\nIf Director Hermann or any of the other higher-ups heard what you said, I'm sure they would be pulling all kinds of strings to take you in."
+  },
+  {
+    "key": "58-content",
+    "original": "母さん…クソッ、やっぱりあの人は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "母さん…クソッ、やっぱりあの人は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어머니… 젠장, 역시 그 사람은…\nEN:\nMother... dammit, I knew that woman would be...!"
+  },
+  {
+    "key": "59-content",
+    "original": "作られし…かの生地であり、そなたらが人と呼びし\nかの存在…そは、接点の無かりしあらゆる世界の可能性にあれども、\n完全な人格が宿るべきものであらん…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "作られし…かの生地であり、そなたらが人と呼びし\nかの存在…そは、接点の無かりしあらゆる世界の可能性にあれども、\n完全な人格が宿るべきものであらん…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n만들어진… 저 반죽이자, 자네들이 인간이라 부르는 저 존재… 그건, 접점이 없던 어떠한 세계의 가능성이라도 온전한 인격이 깃들 수 있다는 것이구료…\nEN:\nThe 'dough', the being you refer to as a human... I presume that one could apply any Identity from any possibility, no matter how distant and irrelevant the world, to that being..."
+  },
+  {
+    "key": "60-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "60-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "60-content",
+    "original": "そうだ、誰よりもイサン\nそなたが喜ぶであろうと思ったさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだ、誰よりもイサン\nそなたが喜ぶであろうと思ったさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래, 누구보다 이상 자네가 기뻐할 거라고 생각했어.\nEN:\nYes, Yi Sang. I knew that you would be most overjoyed to hear of this breakthrough."
+  },
+  {
+    "key": "61-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "61-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "61-content",
+    "original": "俺たちは鏡技術の最極端にある地点に到達したがゆえに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "俺たちは鏡技術の最極端にある地点に到達したがゆえに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리는 거울 기술의 최극단에 있는 지점에 도달했으니.\nEN:\nThis is the apex of what the Mirror technology is capable of."
+  },
+  {
+    "key": "62-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "62-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "62-content",
+    "original": "今や残るは、その彼方へ向かって進む\n最後の跳躍さ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今や残るは、その彼方へ向かって進む\n最後の跳躍さ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이제 남은 건 그 너머를 향해 갈 마지막 도약이지.\nEN:\nNow all we have left to do is to leap from that apex, to soar beyond its limits."
+  },
+  {
+    "key": "63-content",
+    "original": "邸宅には…黄金の枝がもう一つ存在することが把握されております。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "邸宅には…黄金の枝がもう一つ存在することが把握されております。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저택에는… 황금가지가 하나 더 존재한다고 파악하고 있습니다.\nEN:\nFrom what we know, there is... another Golden Bough located inside the manor."
+  },
+  {
+    "key": "64-content",
+    "original": "この「生地」と称するものは、\n莫大なエネルギーをかき集めてこそ試みられる実験。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この「生地」と称するものは、\n莫大なエネルギーをかき集めてこそ試みられる実験。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 ‘반죽’이라고 지칭하는 것은, 막대한 에너지를 끌어모아야만 시도될 수 있는 실험.\nEN:\nThis 'dough' is a part of an experiment that can be conducted only with a preposterous magnitude of energy output."
+  },
+  {
+    "key": "65-content",
+    "original": "エネルギーを集めるための…黄金の枝は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エネルギーを集めるための…黄金の枝は…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에너지를 모으기 위한… 황금가지는…\nEN:\nSo the Golden Bough to accumulate that much energy..."
+  },
+  {
+    "key": "66-content",
+    "original": "この邸宅の頂上にあるということですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この邸宅の頂上にあるということですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 저택의 꼭대기에 있는 것이군요.\nEN:\n... must be located on the rooftop of this manor."
+  },
+  {
+    "key": "67-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "67-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "67-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "68-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "68-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "68-content",
+    "original": "そうだ、この屋敷の周りへ無慈悲に打ち落とされる雷を集めるものでもあり、\n黄金の枝の力を凝縮する避雷針の役割でもある。\n少し鳥肌が立つほどの推察力であるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだ、この屋敷の周りへ無慈悲に打ち落とされる雷を集めるものでもあり、\n黄金の枝の力を凝縮する避雷針の役割でもある。\n少し鳥肌が立つほどの推察力であるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맞아, 이 저택 주변에 무자비하게 내리치는 벼락을 모으는 것이자 황금가지의 힘을 응축하는 피뢰침의 역할이네. 이젠 조금 소름 돋을 지경이군.\nEN:\nCorrect. The Golden Bough acts as a lightning rod, draws the merciless strikes of lightning, then harnesses it into a form of energy for itself. Your breadth of knowledge is starting to get unsettling."
+  },
+  {
+    "key": "69-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "69-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "69-content",
+    "original": "さぁ、全ての準備は終わったが故に…\nそろそろ退場といくか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、全ての準備は終わったが故に…\nそろそろ退場といくか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 모든 준비는 끝났으니… 이제 슬슬 퇴장을 해볼까.\nEN:\nWell, now that everything is in order... I must really make my exit."
+  },
+  {
+    "key": "70-content",
+    "original": "どこへ行かれるつもりで？今度こそお前を捕まえて\n母さんの計画と関連した情報を…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どこへ行かれるつもりで？今度こそお前を捕まえて\n母さんの計画と関連した情報を…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어딜 가시려고, 이번에야말로 네놈을 잡아서 어머니의 계획과 관련된 정보들을…!\nEN:\nNot so fast! I'll get you and find out everything you know about what mother is planning—"
+  },
+  {
+    "key": "71-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "71-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "71-content",
+    "original": "どうか俺を捕まえんとする不必要な時間の浪費は\n互いにしないで欲しい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうか俺を捕まえんとする不必要な時間の浪費は\n互いにしないで欲しい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부디 나를 잡으려는 불필요한 시간 낭비는 서로 하지 않았으면 좋겠어.\nEN:\nPlease, let us not waste each other's time by playing this pointless game of cat and mouse."
+  },
+  {
+    "key": "72-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "72-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "72-content",
+    "original": "完璧な状態の人格が被せられしとき、このような白い煙が四方を覆うのさ。\n別れを告げるにはこの上なく雅であろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完璧な状態の人格が被せられしとき、このような白い煙が四方を覆うのさ。\n別れを告げるにはこの上なく雅であろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완벽한 상태의 인격이 덧씌워질 때 이토록 희뿌연 연기가 온 사방을 덮곤 하지. 헤어짐을 하기에 더할 나위 없이 멋지지 않은가.\nEN:\nWhen the perfected Identity is applied over a dough, one such opaque, murky mist emerges. What a picturesque moment, most apt to bid you all farewell, is it not?"
+  },
+  {
+    "key": "73-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "73-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "73-content",
+    "original": "ヘルマン理事の息子と言ったか。煙戦争に参加したと聞いた。\nもしやすると知っているかも知れぬな。少し違うであろうが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヘルマン理事の息子と言ったか。煙戦争に参加したと聞いた。\nもしやすると知っているかも知れぬな。少し違うであろうが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헤르만 이사의 아들이라고 했나. 연기전쟁에 참여했다지. 어쩌면 익숙할지도 모르겠군. 좀 다를 테지만.\nEN:\nDirector Hermann's son, was it? I hear that you are a veteran of the Smoke War. Then perhaps this may be a familiar sight to you, if a tad different in a few places."
+  },
+  {
+    "key": "74-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "74-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "74-content",
+    "original": "そして…イサン。我が朋よ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そして…イサン。我が朋よ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그리고… 이상. 내 벗이여.\nEN:\nAnd Yi Sang, my dear fellow."
+  },
+  {
+    "key": "75-teller",
+    "original": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アセア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아세아\nEN:\nAseah"
+  },
+  {
+    "key": "75-title",
+    "original": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사\nEN:\nN Corp."
+  },
+  {
+    "key": "75-content",
+    "original": "どうか生き残れ。そうしてこそ、俺の残りし未来を\n少なからずは期待できよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうか生き残れ。そうしてこそ、俺の残りし未来を\n少なからずは期待できよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살아남으시게. 그래야 내 남은 훗날이 그나마 기대가 될 테니.\nEN:\nLive. So that I may have aught to look forward to in the time I have left."
+  }
+]

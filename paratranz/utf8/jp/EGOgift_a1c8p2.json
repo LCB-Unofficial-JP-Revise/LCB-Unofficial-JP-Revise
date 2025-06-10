@@ -1,0 +1,436 @@
+[
+  {
+    "key": "2061-name",
+    "original": "銅銭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "銅銭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동전\nEN:\nCoin"
+  },
+  {
+    "key": "2061-desc",
+    "original": "保有している銅銭1枚につき、ホンルの与ダメージ量 +0.5%\n\n<i><color=#a16a3b>2次家主審査の進行のための物品。銅銭を全て失うか、奪われた候補者は即脱落する。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有している銅銭1枚につき、ホンルの与ダメージ量 +0.5%\n\n<i><color=#a16a3b>2次家主審査の進行のための物品。銅銭を全て失うか、奪われた候補者は即脱落する。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유한 동전당 홍루의 가하는 피해량 +0.5%\n\n<i>&lt;color=#a16a3b&gt;2차 가주 심사의 진행을 위한 물건. 동전을 모두 잃어버리거나 빼앗긴 후보자는 그 즉시 탈락한다.&lt;/color&gt;</i>\nEN:\nHong Lu deals +0.5% damage for every Coin\n\n<i>&lt;color=#a16a3b&gt;Artifacts used for the second round of the Family Hierarch Evaluation. Candidates without any remaining coins, either lost or taken by force, will be immediately eliminated.&lt;/color&gt;</i>"
+  },
+  {
+    "key": "2061-simpleDesc[0].simpleDesc",
+    "original": "保有した銅銭1枚につき、ホンルの与ダメージ量 +0.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有した銅銭1枚につき、ホンルの与ダメージ量 +0.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유한 동전당 홍루의 가하는 피해량 +0.5%\nEN:\nHong Lu deals +0.5% damage for every Coin"
+  },
+  {
+    "key": "2062-name",
+    "original": "古びた通行証\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "古びた通行証\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낡은 출입증\nEN:\nWorn Entry Card"
+  },
+  {
+    "key": "2062-desc",
+    "original": "壊れて古びた通行証だ。\nどこかの扉を開くのに使えないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れて古びた通行証だ。\nどこかの扉を開くのに使えないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서지고 낡은 출입증이다.\n어딘가의 문을 여는 데 쓸 수 있지 않을까?\nEN:\nA broken and battered entry card.\nMaybe it opens a door somewhere."
+  },
+  {
+    "key": "2063-name",
+    "original": "天王補心丹\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "天王補心丹\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n천왕보심단\nEN:\nHeavenly King's Heartmending Pill"
+  },
+  {
+    "key": "2063-desc",
+    "original": "ターン終了時、精神力の最も低い味方1名の精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、精神力の最も低い味方1名の精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 정신력이 가장 낮은 아군 1명의 정신력 10 회복.\nEN:\nTurn End: 1 ally with the least SP heals 10 SP"
+  },
+  {
+    "key": "2063-simpleDesc[0].simpleDesc",
+    "original": "毎ターン終了時、精神力の最も低い味方1名の精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン終了時、精神力の最も低い味方1名の精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 종료 시 정신력이 가장 낮은 아군 1명의 정신력 10 회복\nEN:\nEvery Turn End: 1 ally with the least SP heals 10 SP at Turn End"
+  },
+  {
+    "key": "2064-name",
+    "original": "静蓮丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "静蓮丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정연환\nEN:\nTranquil Lotus Bolus"
+  },
+  {
+    "key": "2064-desc",
+    "original": "ターン終了時、現体力の比率が最も低い味方1名の体力を、対象の体力最大値の5%だけ回復(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、現体力の比率が最も低い味方1名の体力を、対象の体力最大値の5%だけ回復(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 체력 비율이 제일 낮은 아군 1명의 체력을 대상의 최대 체력 5%만큼 회복 (소수점 버림).\nEN:\nTurn End: heal 5% HP for 1 ally with the least HP percentage (rounded down)"
+  },
+  {
+    "key": "2064-simpleDesc[0].simpleDesc",
+    "original": "該当キャラクターの体力を最大値の5%だけ回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "該当キャラクターの体力を最大値の5%だけ回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 캐릭터의 최대 체력의 5%만큼 회복\nEN:\nHeal the affected unit by 5% HP"
+  },
+  {
+    "key": "2065-name",
+    "original": "血花丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血花丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈화환\nEN:\nSanguine Blossom Bolus"
+  },
+  {
+    "key": "2065-desc",
+    "original": "ターン開始時、体力が減少した味方のうち、現体力の比率が最も低い味方1名のダメージ量が(対象の失った体力の比率 ÷ 4)%だけ威力が増加 (小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、体力が減少した味方のうち、現体力の比率が最も低い味方1名のダメージ量が(対象の失った体力の比率 ÷ 4)%だけ威力が増加 (小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력이 감소한 아군 중 현재 체력 비율이 가장 낮은 아군 1명의 피해량이 (대상의 잃은 체력 비율/4)%만큼 증가 (소수점 버림).\nEN:\nTurn Start: among allies who lost HP, 1 ally with the least HP percentage deals +(missing HP percentage / 4)% damage (rounded down)"
+  },
+  {
+    "key": "2065-simpleDesc[0].simpleDesc",
+    "original": "ダメージ量が該当キャラクターの(対象の失った体力の比率 ÷ 4)%だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダメージ量が該当キャラクターの(対象の失った体力の比率 ÷ 4)%だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량이 해당 캐릭터의 (대상의 잃은 체력 비율/4)%만큼 증가\nEN:\nThe affected unit deals +(missing HP percentage /4)% damage"
+  },
+  {
+    "key": "2066-name",
+    "original": "強靱丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인환\nEN:\nTenacity Bolus"
+  },
+  {
+    "key": "2066-desc",
+    "original": "ターン開始時、最大体力が最も高い味方1名が(このターンの間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、最大体力が最も高い味方1名が(このターンの間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 최대 체력이 가장 높은 아군 1명이 (이번 전투 동안 적에게 스킬 공격으로 피해를 받은 횟수)만큼 [DefenseUp] 얻음 (최대 6).\nEN:\nTurn Start: 1 ally with the highest max HP gains [DefenseUp] equal to the number of times that unit was hit by the enemies' Skill Attacks (max 6)"
+  },
+  {
+    "key": "2066-simpleDesc[0].simpleDesc",
+    "original": "ダメージを受けた回数だけ、防御レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダメージを受けた回数だけ、防御レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해를 받은 횟수만큼 방어 레벨 증가 얻음\nEN:\nGain Defense Level Up equal to the number of times this unit was hit"
+  },
+  {
+    "key": "2067-name",
+    "original": "鏡の中の花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡の中の花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울 속의 꽃\nEN:\nFlower in the Mirror"
+  },
+  {
+    "key": "2067-desc",
+    "original": "毎ターン開始時[Burst]の無い全ての敵へ[Burst]威力3を付与、[Burst]回数が1増加(集中戦闘の場合、全部位へ適用)\n\n<i><color=#a16a3b>水は流れ、花は謝して、両(ふた)つながら無情なり。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン開始時[Burst]の無い全ての敵へ[Burst]威力3を付与、[Burst]回数が1増加(集中戦闘の場合、全部位へ適用)\n\n<i><color=#a16a3b>水は流れ、花は謝して、両(ふた)つながら無情なり。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 [Burst]이 없는 모든 적에게 [Burst] 위력 3 부여, [Burst] 횟수 1 증가 (집중 전투일 경우, 모든 부위에 적용).\n\n<i>&lt;color=#a16a3b&gt;흐르는 물 지는 꽃 둘 다 무정하여라.&lt;/color&gt;</i>\nEN:\nEvery Turn Start: inflict 3 [Burst] Potency and +1 [Burst] Count to all enemies without [Burst] (for Focused Encounters, all Parts)\n\n<i>&lt;color=#a16a3b&gt;How heartless they are—the flowing stream and the wilting blossom both.&lt;/color&gt;</i>"
+  },
+  {
+    "key": "2067-simpleDesc[0].simpleDesc",
+    "original": "破裂の無い全ての敵、全部位へ破裂威力3を付与、破裂 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂の無い全ての敵、全部位へ破裂威力3を付与、破裂 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열이 없는 모든 적, 모든 부위에 파열 위력 3 부여, 파열 횟수 1 증가\nEN:\nInflict 3 Rupture Potency and +1 Rupture Count to all enemies/Parts without Rupture"
+  },
+  {
+    "key": "2068-name",
+    "original": "呪われた古文書\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪われた古文書\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주 받은 고문서\nEN:\nAccursed Codex"
+  },
+  {
+    "key": "2068-desc",
+    "original": "ステージの1ターン目開始時、戦闘に参加した全人格の精神力が5減少して、その人格が3ターンの間[ShamrockResultUp], [ShamrockDamageUp]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージの1ターン目開始時、戦闘に参加した全人格の精神力が5減少して、その人格が3ターンの間[ShamrockResultUp], [ShamrockDamageUp]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 첫 턴 시작 시 전투에 참여한 모든 인격의 정신력이 5 감소하고, 해당 인격이 3턴 동안 [ShamrockResultUp], [ShamrockDamageUp] 1 얻음.\nEN:\nFirst Turn Start of an Encounter: every Identity on the field loses 5 SP and gains 1 [ShamrockResultUp] and 1 [ShamrockDamageUp] for 3 turns."
+  },
+  {
+    "key": "2068-simpleDesc[0].simpleDesc",
+    "original": "配置された人格の精神力が5減少、該当人格が3ターンの間暴食威力増加 , 暴食ダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "配置された人格の精神力が5減少、該当人格が3ターンの間暴食威力増加 , 暴食ダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배치된 인격의 정신력이 5 감소, 해당 인격이 3턴동안 탐식 위력 증가, 탐식 피해량 증가 얻음\nEN:\nDeployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for 3 turns"
+  },
+  {
+    "key": "2069-name",
+    "original": "狂気が宿った古文書\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狂気が宿った古文書\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n광기가 깃든 고문서\nEN:\nMadness-inscribed Codex"
+  },
+  {
+    "key": "2069-desc",
+    "original": "ステージの1ターン目開始時、戦闘に参加した全人格の精神力が5減少して、その人格がこの戦闘の間[ShamrockResultUp], [ShamrockDamageUp]1を得る。\nマッチ敗北時に精神力が5減少し、該当スキルの最終コインが[SuperCoin]に変更される(E.G.Oスキルを除く、人格ごとに1ターンにつき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージの1ターン目開始時、戦闘に参加した全人格の精神力が5減少して、その人格がこの戦闘の間[ShamrockResultUp], [ShamrockDamageUp]1を得る。\nマッチ敗北時に精神力が5減少し、該当スキルの最終コインが[SuperCoin]に変更される(E.G.Oスキルを除く、人格ごとに1ターンにつき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 첫 턴 시작 시 전투에 참여한 모든 인격의 정신력이 5 감소하고, 해당 인격이 이번 전투 동안 [ShamrockResultUp], [ShamrockDamageUp] 1 얻음.\n합 패배 시 정신력이 5 감소하고 해당 스킬의 마지막 코인이 [SuperCoin]으로 변경됨.(E.G.O 스킬 제외, 인격마다 턴당 1회 발동).\nEN:\nFirst Turn Start of an Encounter: every Identity on the field loses 5 SP and gains 1 [ShamrockResultUp] and 1 [ShamrockDamageUp] for this Encounter.\nOn Clash Lose, lose 5 SP; convert the Skill's final Coin to [SuperCoin]. (except E.G.O Skills; once per turn per Identity)"
+  },
+  {
+    "key": "2069-simpleDesc[0].simpleDesc",
+    "original": "戦闘に配置された人格の精神力が5減少、該当人格がこの戦闘の間、暴食威力増加 , 暴食ダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘に配置された人格の精神力が5減少、該当人格がこの戦闘の間、暴食威力増加 , 暴食ダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투에 배치된 인격의 정신력이 5 감소, 해당 인격이 이번 전투동안 탐식 위력 증가, 탐식 피해량 증가 얻음\nEN:\nCombat Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for this Encounter"
+  },
+  {
+    "key": "2069-simpleDesc[1].simpleDesc",
+    "original": "マッチ敗北時に精神力が5減少。該当スキルの最終コインが破壊不能コインに変更。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時に精神力が5減少。該当スキルの最終コインが破壊不能コインに変更。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배시 정신력 5 감소. 해당 스킬의 마지막 코인이 파괴 불가 코인으로 변경\nEN:\nLose 5 SP on Clash Lose. Convert the Skill's final Coin to Unbreakable Coin"
+  },
+  {
+    "key": "2070-name",
+    "original": "水の中の月\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "水の中の月\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n물 속의 달\nEN:\nMoon in the Water"
+  },
+  {
+    "key": "2070-desc",
+    "original": "破裂 威力が5以上付与された敵に攻撃的中時、呼吸 威力1を得て自分の呼吸 回数が1増加(スキルごとに最大3回)\n\n<i><color=#a16a3b>水は流れ、花は謝して、両(ふた)つながら無情なり。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂 威力が5以上付与された敵に攻撃的中時、呼吸 威力1を得て自分の呼吸 回数が1増加(スキルごとに最大3回)\n\n<i><color=#a16a3b>水は流れ、花は謝して、両(ふた)つながら無情なり。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 위력이 5 이상 부여된 적에게 공격 적중 시 호흡 위력 1을 얻고, 자신의 호흡 횟수 1 증가 (스킬당 최대 3회).\n\n<i>&lt;color=#a16a3b&gt;흐르는 물 지는 꽃 둘 다 무정하여라.&lt;/color&gt;</i>\nEN:\nOn Hit against enemies with 5+ Rupture Potency: gain 1 Poise Potency and +1 Poise Count (3 times per Skill)\n\n<i>&lt;color=#a16a3b&gt;How heartless they are—the flowing stream and the wilting blossom both.&lt;/color&gt;</i>"
+  },
+  {
+    "key": "2070-simpleDesc[0].simpleDesc",
+    "original": "破裂が5以上付与された敵へ攻撃的中時に呼吸 威力を得て、自分の呼吸 回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂が5以上付与された敵へ攻撃的中時に呼吸 威力を得て、自分の呼吸 回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열이 5 이상 부여된 적에게 공격 적중 시 호흡 위력 얻고, 자신의 호흡 횟수 증가\nEN:\nOn Hit against enemies with 5+ Rupture: gain Poise Potency and Count"
+  },
+  {
+    "key": "2071-name",
+    "original": "花の墓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "花の墓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꽃무덤\nEN:\nFlower Mound"
+  },
+  {
+    "key": "2071-desc",
+    "original": "[Burst]を付与するスキルのマッチ威力 +1, ダメージ量 +10%\n攻撃終了時に[Burst]威力を15以上保有した対象が死亡したなら、対象を倒した人格が次のターンに[AttackUp]2を得る(スキルごとに最大3回発動)\n\n<i><color=#a16a3b>冷月、花魂を葬す。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]を付与するスキルのマッチ威力 +1, ダメージ量 +10%\n攻撃終了時に[Burst]威力を15以上保有した対象が死亡したなら、対象を倒した人格が次のターンに[AttackUp]2を得る(スキルごとに最大3回発動)\n\n<i><color=#a16a3b>冷月、花魂を葬す。</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst]을 부여하는 스킬의 합 위력 +1, 피해량 +10%\n공격 종료 시 [Burst] 위력을 15 이상 보유한 대상이 사망했으면, 대상을 처치한 인격이 다음 턴에 [AttackUp] 2 얻음 (스킬당 최대 3회 발동).\n\n<i>&lt;color=#a16a3b&gt;싸늘한 달빛 아래 꽃의 혼을 묻네&lt;/color&gt;</i>\nEN:\nSkills that inflict [Burst]: Clash Power +1, deal +10% damage\nIf targets with 15+ [Burst] Potency is defeated After Attack, the Identity that defeated that unit gains 2 [AttackUp] next turn (3 times per Skill)\n\n<i>&lt;color=#a16a3b&gt;Beneath the glacial moon I lay the blossom's soul to rest&lt;/color&gt;</i>"
+  },
+  {
+    "key": "2071-simpleDesc[0].simpleDesc",
+    "original": "破裂を付与するスキルのマッチ威力 +1, ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂を付与するスキルのマッチ威力 +1, ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열을 부여하는 스킬의 합 위력 +1, 피해량 +10%\nEN:\nSkills that inflict Rupture: Clash Power +1, deal +10% damage"
+  },
+  {
+    "key": "2071-simpleDesc[1].simpleDesc",
+    "original": "破裂が15以上付与された対象が死亡したなら、次のターンに倒したキャラクターが攻撃レベル増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂が15以上付与された対象が死亡したなら、次のターンに倒したキャラクターが攻撃レベル増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열이 15 이상 부여된 대상이 사망했으면, 다음 턴에 처치한 캐릭터가 공격 레벨 증가 2 얻음\nEN:\nIf a target with 15+ Rupture is defeated, the unit that defeated it gains 2 Offense Level Up next turn"
+  },
+  {
+    "key": "2072-name",
+    "original": "電撃斧\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "電撃斧\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전격부\nEN:\nLightening Axe"
+  },
+  {
+    "key": "2072-desc",
+    "original": "戦闘中、累計で自分の[Charge]回数を10消耗する度に[Charge]1を得る\nターン終了時に[Charge]が2以上なら、次のターンに[ParryingResultUp]1を得る\n[Charge]回数を5以上消耗したスキル的中時、[Burst]威力1を付与(スキルごとに3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中、累計で自分の[Charge]回数を10消耗する度に[Charge]1を得る\nターン終了時に[Charge]が2以上なら、次のターンに[ParryingResultUp]1を得る\n[Charge]回数を5以上消耗したスキル的中時、[Burst]威力1を付与(スキルごとに3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 누적으로 자신의 [Charge] 횟수 10을 소모할 때마다, [Charge] 1 얻음.\n턴 종료 시, [Charge]이 2 이상이면, 다음 턴에 [ParryingResultUp] 1 얻음.\n[Charge] 횟수를 5 이상 소모한 스킬 적중 시 [Burst] 위력 1 부여 (스킬당 3회)\nEN:\nGain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nTurn End: At 2+ [Charge], gain 1 [ParryingResultUp] next turn\nOn Hit with a Skill that consumed 5+ [Charge]: inflict 1 [Burst] Potency (3 times per Skill)"
+  },
+  {
+    "key": "2072-simpleDesc[0].simpleDesc",
+    "original": "充電回数を10消耗する度に、充電1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電回数を10消耗する度に、充電1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 횟수 10을 소모할 때마다, 충전 1 얻음\nEN:\nGain 1 Charge every time this unit consumes 10 Charge Count"
+  },
+  {
+    "key": "2072-simpleDesc[1].simpleDesc",
+    "original": "充電が2以上なら、次のターンにマッチ威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電が2以上なら、次のターンにマッチ威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전이 2 이상이면, 다음 턴에 합 위력 증가 1 얻음\nEN:\nAt 2+ Charge, gain 1 Clash Power Up next turn"
+  },
+  {
+    "key": "2072-simpleDesc[2].simpleDesc",
+    "original": "充電 回数を5以上消耗したスキル的中時、破裂1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電 回数を5以上消耗したスキル的中時、破裂1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 횟수를 5 이상 소모한 스킬 적중 시 파열 1 부여\nEN:\nOn Hit with Skills that consumed 5+ Charge Count: inflict 1 Rupture"
+  },
+  {
+    "key": "2073-name",
+    "original": "心破符\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心破符\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심파부\nEN:\nHeartrender Talisman"
+  },
+  {
+    "key": "2073-desc",
+    "original": "呪殺効果が付与された敵へ与える暴食属性スキルのダメージ量 +10%\n戦闘開始時、精神力が-15以下の人格が使用するスキルの最終コインが[SuperCoin]に変更される(人格ごとに1ターンにつき1回、最左方のスロットに装着されたスキルから適用、E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪殺効果が付与された敵へ与える暴食属性スキルのダメージ量 +10%\n戦闘開始時、精神力が-15以下の人格が使用するスキルの最終コインが[SuperCoin]に変更される(人格ごとに1ターンにつき1回、最左方のスロットに装着されたスキルから適用、E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주살 효과가 부여된 적에게 가하는 탐식 속성 스킬의 피해량 +10%.\n전투 시작시 정신력이 -15 이하인 인격이 사용하는 스킬의 마지막 코인이 [SuperCoin]으로 변경됨 (인격마다 턴당 1회, 가장 왼쪽 슬롯에 사용한 스킬부터 적용, E.G.O 스킬 제외).\nEN:\nGluttony Skills deal +10% damage against enemies with Deathrite effects\nFor Identities at -15 or less SP at Combat Start: convert the final Coin for their Skills into [SuperCoin] (once per turn per Identity; prioritizes the Skill in the leftmost Skill Slot; except E.G.O Skills)"
+  },
+  {
+    "key": "2073-simpleDesc[0].simpleDesc",
+    "original": "呪殺効果が付与された敵へ与える暴食属性スキルのダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪殺効果が付与された敵へ与える暴食属性スキルのダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주살 효과가 부여된 적에게 가하는 탐식 속성 스킬의 피해량 +10%\nEN:\nGluttony Skills deal +10% damage against enemies with Deathrite effects"
+  },
+  {
+    "key": "2073-simpleDesc[1].simpleDesc",
+    "original": "精神力が-15以下なら、ショウするスキルの最終コインが破壊不能コインに変更。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が-15以下なら、使用するスキルの最終コインが破壊不能コインに変更。\n<CMT_KR>오식: \"精神力が-15以下なら、「ショウ」するスキルの最終コインが破壊不能コインに変更。\" 정확: \"「使用」するスキルの最終コインが破壊不能コインに変更。\"\n<CMT_EN>Typo: \"精神力が-15以下なら、「ショウ」するスキルの最終コインが破壊不能コインに変更。\" Correction: \"「使用」するスキルの最終コインが破壊不能コインに変更。\"\n<CMT_JP>誤植: \"精神力が-15以下なら、「ショウ」するスキルの最終コインが破壊不能コインに変更。\" 訂正後: \"「使用」するスキルの最終コインが破壊不能コインに変更。\"",
+    "stage": 1,
+    "context": "KR:\n정신력이 -15 이하면, 사용하는 스킬의 마지막 코인이 파괴 불가 코인으로 변경\nEN:\nAt -15 or less SP: convert the final Coin for their Skills into Unbreakable Coin"
+  },
+  {
+    "key": "2074-name",
+    "original": "絶血刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絶血刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절혈도\nEN:\nBloodsevering Blade"
+  },
+  {
+    "key": "2074-desc",
+    "original": "体力が減少した状態のとき、マッチ威力 +1\n該当人格が攻撃的中時、的中した対象の([Laceration]威力 + [Laceration]回数)1につきダメージ量 +1% (最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が減少した状態のとき、マッチ威力 +1\n該当人格が攻撃的中時、的中した対象の([Laceration]威力 + [Laceration]回数)1につきダメージ量 +1% (最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 감소한 상태일 때 합 위력 +1.\n해당 인격이 공격 적중 시, 적중한 대상의 ([Laceration] 위력 + [Laceration] 횟수)당 피해량 +1% (최대 20%)\nEN:\nClash Power +1 when not at full HP.\nWhen an affected unit hits, deal +1% damage for every ([Laceration] Potency on target + [Laceration] Count on target) (max 20%)"
+  },
+  {
+    "key": "2074-simpleDesc[0].simpleDesc",
+    "original": "体力が減少した状態のとき、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が減少した状態のとき、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 감소한 상태일 때 합 위력 +1\nEN:\nWhen not at full HP, Clash Power +1"
+  },
+  {
+    "key": "2074-simpleDesc[1].simpleDesc",
+    "original": "攻撃的中時、対象の(出血 威力 + 出血 回数)1につきダメージ量 +1%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象の(出血 威力 + 出血 回数)1につきダメージ量 +1%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중 시 대상의 (출혈 위력 + 출혈 횟수)당 피해량 +1%\nEN:\nOn Hit, deal +1% damage for every (Bleed Potency on target + Bleed Count on target)"
+  },
+  {
+    "key": "2075-name",
+    "original": "金剛丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "金剛丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금강환\nEN:\nJin Gang Bolus"
+  },
+  {
+    "key": "2075-desc",
+    "original": "戦闘中にダメージを受けたなら、次のターンの間スキルの最終威力 +1, 与ダメージ量 +10% (自らダメージを受ける場合にも発動)\n体力が1になるダメージを受けたとき、体力最大値の50%だけ体力を回復し、今回の戦闘の間該当人格がターン開始時に[Enhancement]2を得る (戦闘につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中にダメージを受けたなら、次のターンの間スキルの最終威力 +1, 与ダメージ量 +10% (自らダメージを受ける場合にも発動)\n体力が1になるダメージを受けたとき、体力最大値の50%だけ体力を回復し、今回の戦闘の間該当人格がターン開始時に[Enhancement]2を得る (戦闘につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 피해를 입으면, 다음 턴 동안 스킬 최종 위력 +1, 가하는 피해량 +10% (스스로 피해를 받는 경우에도 발동).\n체력이 1이 되는 피해를 받았을 때, 최대 체력의 50%만큼 체력을 회복하고, 이번 전투 동안 해당 인격이 턴 시작 시 [Enhancement] 2 얻음 (전투당 1회).\nEN:\nWhen taking damage, gain Skill Final Power +1 and deal +10% damage (activates for self-damages as well) next turn\nWhen taking damage that brings a unit's HP down to 1, heal 50% HP, and the affected unit gains 2 [Enhancement] at Turn Start for the duration of that Encounter (once per Encounter)"
+  },
+  {
+    "key": "2075-simpleDesc[0].simpleDesc",
+    "original": "次のターンの間、スキルの最終威力 +1, 与ダメージ量10%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンの間、スキルの最終威力 +1, 与ダメージ量10%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴 동안 스킬 최종 위력 +1, 가하는 피해량 +10%\nEN:\nSkill Final Power +1, deal +10% damage next turn"
+  },
+  {
+    "key": "2075-simpleDesc[1].simpleDesc",
+    "original": "体力を最大値の50%だけ回復。このターンの間、攻撃威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力を最大値の50%だけ回復。このターンの間、攻撃威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력의 50%만큼 회복. 이번 전투 동안 공격 위력 증가 2 얻음\nEN:\nHeal 50% HP and gain 2 Attack Power Up for this Encounter"
+  },
+  {
+    "key": "2076-name",
+    "original": "色褪せたポスター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色褪せたポスター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 포스터\nEN:\nFaded Poster"
+  },
+  {
+    "key": "2076-desc",
+    "original": "[編成1・8番専用効果]\n攻撃終了時に対象が死亡したなら、[Breath]威力2を得て[Breath]回数が2増加。\n今回の戦闘の間、自分の攻撃終了時に死亡した敵1名につき攻撃レベル +1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成1・8番専用効果]\n攻撃終了時に対象が死亡したなら、[Breath]威力2を得て[Breath]回数が2増加。\n今回の戦闘の間、自分の攻撃終了時に死亡した敵1名につき攻撃レベル +1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 1번, 8번 전용 효과]\n공격 종료 시 대상이 사망했으면, [Breath] 위력 2 얻고 [Breath] 횟수 2 증가.\n이번 전투 동안 자신의 공격 종료 시 사망한 적 1명당 공격 레벨 +1 (최대 3).\nEN:\n[Effects apply only to #1, #8 Deployed Identities]\nAfter Attack: if the target is defeated, gain 2 [Breath] Potency and +2 [Breath] Count.\nFor this Encounter, each unit gains +1 Offense Level for every 1 enemy that is defeated at the 'After Attack' timing (max 3)"
+  },
+  {
+    "key": "2076-simpleDesc[0].simpleDesc",
+    "original": "呼吸 威力を2得る、呼吸 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸 威力を2得る、呼吸 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 위력 2 얻음, 호흡 횟수 2 증가\nEN:\nGain 2 Poise Potency and +2 Poise Count"
+  },
+  {
+    "key": "2076-simpleDesc[1].simpleDesc",
+    "original": "死亡した敵1名につき、攻撃レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡した敵1名につき、攻撃レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망한 적 1명당 공격 레벨 +1\nEN:\nOffense Level +1 for every defeated enemy"
+  },
+  {
+    "key": "2077-name",
+    "original": "深く刻まれた爪痕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深く刻まれた爪痕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깊게 패인 손톱자국\nEN:\nDeep Claw Marks"
+  },
+  {
+    "key": "2077-desc",
+    "original": "待機解除された味方が3ターンの間、[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待機解除された味方が3ターンの間、[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대기 해제된 아군이 3턴 동안 [ParryingResultUp] 1 얻음.\nEN:\nGain 1 [ParryingResultUp] for 3 turns after Substituting in."
+  },
+  {
+    "key": "2077-simpleDesc[0].simpleDesc",
+    "original": "待機解除時、マッチ威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待機解除時、マッチ威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대기 해제 시 합 위력 증가 1 얻음\nEN:\nGain 1 Clash Power Up for 3 turns after Substituting in"
+  },
+  {
+    "key": "2078-name",
+    "original": "孔滅日の記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "孔滅日の記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공멸일의 기억\nEN:\nThe Memory of Kong Family Annihilation"
+  },
+  {
+    "key": "2078-desc",
+    "original": "ホンルのレベルが55に上昇\nホンルの人格同期化段階、E.G.Oの幻想解析段階が4に上昇。\n\n<i><color=#a16a3b>「孔(コン)滅日を記憶せよ。\nコン家はその罪、限りなく重くして滅門されたり。\n鴻園の戒律を守らざる業、哀れにもあらずただ滑稽なり。\nかくのごとく、応報は必ず到来す。」</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンルのレベルが55に上昇\nホンルの人格同期化段階、E.G.Oの幻想解析段階が4に上昇。\n\n<i><color=#a16a3b>「孔(コン)滅日を記憶せよ。\nコン家はその罪、限りなく重くして滅門されたり。\n鴻園の戒律を守らざる業、哀れにもあらずただ滑稽なり。\nかくのごとく、応報は必ず到来す。」</color></i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루의 레벨이 55레벨로 상승\n홍루 인격의 동기화 단계, E.G.O의 환상해석 단계가 4단계로 상승.\n\n<i>&lt;color=#a16a3b&gt;' 공멸일을 기억하라.\n공씨 가문은 그 죄가 한없이 무거워 멸문하였다.\n홍원의 계율을 지키지 않은 업, 가련하지도 않고 우스울 뿐이니.\n이렇듯 응보는 반드시 도래한다.'&lt;/color&gt;</i>\nEN:\nHong Lu's level rises to 55\nHong Lu's Uptie and Threadspin Tiers rise to Tier 4\n\n<i>&lt;color=#a16a3b&gt;'Remember the day ruin came to the Kong family,\nwho have brought this destruction upon themselves through their grave transgressions.\nTo violate the laws of Hongyuan is no tragedy—as such, it warrants no pity, only humiliation and scorn.\nThis site of history stands as a monument to the inevitability of karma.'&lt;/color&gt;</i>"
+  },
+  {
+    "key": "2079-name",
+    "original": "紅い通行証\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紅い通行証\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n붉은 출입증\nEN:\nRed Entry Card"
+  },
+  {
+    "key": "2079-desc",
+    "original": "壊れて古びた紅い通行証だ。\nどこかの扉を開くのに使えないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れて古びた紅い通行証だ。\nどこかの扉を開くのに使えないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서지고 낡은 붉은색 출입증이다.\n어딘가의 문을 여는 데 쓸 수 있지 않을까?\nEN:\nA broken and battered red entry card.\nMaybe it opens a door somewhere."
+  }
+]

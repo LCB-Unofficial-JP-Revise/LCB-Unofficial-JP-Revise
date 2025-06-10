@@ -1,0 +1,114 @@
+[
+  {
+    "key": "9017801-name",
+    "original": "もくもく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もくもく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭉게뭉게\nEN:\nPuffy Brume"
+  },
+  {
+    "key": "9017801-desc",
+    "original": "自分の[Smoke]効果による被ダメージ量が増加せず、代わりに攻撃で与ダメージ量が増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の[Smoke]効果による被ダメージ量が増加せず、代わりに攻撃で与ダメージ量が増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신에게 있는 [Smoke]의 효과로 받는 피해량이 증가하지 않고 대신 가하는 피해량이 증가함.\nEN:\nInstead of taking more damage due to [Smoke] on self, inflict more damage."
+  },
+  {
+    "key": "9017802-name",
+    "original": "内燃機関\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "内燃機関\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내연기관\nEN:\nInternal Combustion Engine"
+  },
+  {
+    "key": "9017802-desc",
+    "original": "[Smoke]を得るとき、追加で1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Smoke]を得るとき、追加で1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Smoke]를 얻을 때, 추가로 1 얻음\nEN:\nWhen gaining [Smoke], gain 1 additional [Smoke]"
+  },
+  {
+    "key": "9017803-name",
+    "original": "肉の歯車\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉の歯車\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고기 톱니\nEN:\nMeat Gear"
+  },
+  {
+    "key": "9017803-desc",
+    "original": "戦闘中、最初に的中するコインのダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中、最初に的中するコインのダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 가장 먼저 적중하는 코인의 피해량 +10%\nEN:\nThe first Coin to connect in an Encounter deals +10% damage"
+  },
+  {
+    "key": "9017804-name",
+    "original": "考えの歯車\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えの歯車\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각 톱니\nEN:\nThought Gear"
+  },
+  {
+    "key": "9017804-desc",
+    "original": "回避スキル使用時、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避スキル使用時、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피 스킬 사용시 기본 위력 +1\nEN:\nOn Evade Skill Use: Base Power +1"
+  },
+  {
+    "key": "9017805-name",
+    "original": "内燃機関異常\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "内燃機関異常\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내연기관 이상\nEN:\nInternal Combustion Engine Malfunction"
+  },
+  {
+    "key": "9017805-desc",
+    "original": "混乱状態になると、自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態になると、自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 되면, 자신의 [Smoke] 전부 소모\nEN:\nWhen Staggered, lose all [Smoke] on self"
+  },
+  {
+    "key": "9018001-name",
+    "original": "肉の歯車: 強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉の歯車: 強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고기 톱니: 강화\nEN:\nMeat Gear: Enhance"
+  },
+  {
+    "key": "9018001-desc",
+    "original": "自分以外に味方がいるなら、ターン開始時に全ての味方へ[ParryingResultUp]1, [AttackDmgUp]2を付与(対象ごとに最大2回適用)\n自分以外に味方がいないなら、ターン開始時に[Smoke]を8得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分以外に味方がいるなら、ターン開始時に全ての味方へ[ParryingResultUp]1, [AttackDmgUp]2を付与(対象ごとに最大2回適用)\n自分以外に味方がいないなら、ターン開始時に[Smoke]を8得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신을 제외한 아군이 있다면, 턴 시작 시 모든 아군에게 [ParryingResultUp] 1, [AttackDmgUp] 2 부여 (대상당 최대 2번 적용)\n자신을 제외한 아군이 없다면, 턴 시작 시 [Smoke] 8 얻음\nEN:\nIf there are other surviving allies, apply 1 [ParryingResultUp] and 2 [AttackDmgUp] to all allies (2 times for each ally)\nIf ther eare no other surviving allies, gain 8 [Smoke] at Turn Start"
+  },
+  {
+    "key": "9018002-name",
+    "original": "考えの歯車: 遅延\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えの歯車: 遅延\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각 톱니: 지연\nEN:\nThought Gear: Delay"
+  },
+  {
+    "key": "9018002-desc",
+    "original": "このキャラクターが生存しているなら、ターン終了時に敵が生成されない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが生存しているなら、ターン終了時に敵が生成されない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 살아있으면 턴 종료 시 적이 생성되지 않는다.\nEN:\nIf this unit is alive, no enemies are generated at Turn End."
+  },
+  {
+    "key": "9018003-name",
+    "original": "考えの歯車: 危害\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えの歯車: 危害\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각 톱니: 위해\nEN:\nThought Gear: Risk"
+  },
+  {
+    "key": "9018003-desc",
+    "original": "守備スキル使用時、守備スキルの基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備スキル使用時、守備スキルの基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비 스킬 사용시 수비 스킬의 기본 위력 +1\nEN:\nOn Defensive Skill Use: Defensive Skill Base Power +1"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "key": "112601-name",
+    "original": "授けられた命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "授けられた命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부여받은 명령\nEN:\nBestowed Mission"
+  },
+  {
+    "key": "112601-desc",
+    "original": "ステージ開始時、[WeighedMurderousIntend]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ開始時、[WeighedMurderousIntend]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시, [WeighedMurderousIntend]를 얻음\nEN:\nEncounter Start: gain [WeighedMurderousIntend]"
+  },
+  {
+    "key": "112603-name",
+    "original": "脚力[卯]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脚力[卯]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각력[묘]\nEN:\nStrider [Mao]"
+  },
+  {
+    "key": "112603-desc",
+    "original": "自分より速度が低い対象を攻撃時、付与する[Burst]もしくは[Burst]回数 +2, ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分より速度が低い対象を攻撃時、付与する[Burst]もしくは[Burst]回数 +2, ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신보다 속도가 낮은 대상 공격 시, 부여하는 [Burst] 혹은 [Burst] 횟수 +2, 피해량 +10%\nEN:\nWhen attacking targets with slower Speed than this unit's, inflict +1 more [Burst] or [Burst] Count and deal +10% damage"
+  },
+  {
+    "key": "112602-name",
+    "original": "気勢[卯]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "気勢[卯]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기세[묘]\nEN:\nVigor [Mao]"
+  },
+  {
+    "key": "112602-desc",
+    "original": "[BurstAgility]を持つ敵に的中時、対象の[Burst]回数が2増加(1ターンにつき最大6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BurstAgility]を持つ敵に的中時、対象の[Burst]回数が2増加(1ターンにつき最大6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BurstAgility]을 가지고 있는 적 적중시, 대상의 [Burst] 횟수 2 증가 (턴 당 최대 6)\nEN:\nOn Hit against enemy with [BurstAgility]: inflict +2 [Burst] Count on the target (6 times per turn)"
+  },
+  {
+    "key": "112604-name",
+    "original": "圧倒[卯]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "圧倒[卯]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n압도[묘]\nEN:\nDominator [Mao]"
+  },
+  {
+    "key": "112604-desc",
+    "original": "スキル使用時、自分の速度が対象より2以上高いならコイン威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル使用時、自分の速度が対象より2以上高いならコイン威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 사용 시 자신의 속도가 대상보다 2 이상 높으면 코인 위력 +1\nEN:\nOn Skill Use, if this unit's Speed is faster than the target's by 2 or more, Coin Power +1"
+  },
+  {
+    "key": "112701-name",
+    "original": "末兄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "末兄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n작은 형님\nEN:\nThe Big Brother"
+  },
+  {
+    "key": "112701-desc",
+    "original": "ターン開始時、自分を含む全味方の精神力を10回復\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]での被ダメージ量 -20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、自分を含む全味方の精神力を10回復\n[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]での被ダメージ量 -20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 자신을 포함한 모든 아군의 정신력 10 회복\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -20%\nEN:\nTurn Start: all allies, including this unit, heal 10 SP\nTake -20% damage from [Combustion], [Laceration], [Vibration], [Burst], [Sinking]"
+  },
+  {
+    "key": "112702-name",
+    "original": "怨恨の刺青\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怨恨の刺青\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n원한 문신\nEN:\nVengeance Tattoo"
+  },
+  {
+    "key": "112702-desc",
+    "original": "今回の戦闘にて、中指所属の味方が死亡するたびに[AttackUp]1を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回の戦闘にて、中指所属の味方が死亡するたびに[AttackUp]1を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 전투에서 중지 소속 아군이 사망할 때마다 [AttackUp] 1을 얻음 (최대 5)\nEN:\nEvery time a Middle ally is killed in this encounter, gain 1 [AttackUp] (max 5)"
+  },
+  {
+    "key": "112703-name",
+    "original": "更にパサついてしまった髪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "更にパサついてしまった髪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조금 더 퍼석해져버린 머리\nEN:\nDeeper in the World of Bristly"
+  },
+  {
+    "key": "112703-desc",
+    "original": "マッチで2回敗北すると、次のターンにて[DefenseDown]6を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチで2回敗北すると、次のターンにて[DefenseDown]6を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합에서 2회 패배하면, 다음 턴에 [DefenseDown] 6을 얻음\nEN:\nIf this unit loses 2 Clashes, gain 6 [DefenseDown] next turn"
+  },
+  {
+    "key": "112704-name",
+    "original": "仕返し帳簿\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "仕返し帳簿\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앙갚음 장부\nEN:\nThe Book of Vengeance"
+  },
+  {
+    "key": "112704-desc",
+    "original": "自分または味方の中指組員被ダメージ時、攻撃者に[MiddleFingerBook]を1付与し、次のターンに[AttackUp]1を得る(1ターンにつき最大5)\n- 味方の中指組員がスキルで死亡時、攻撃者へ[MiddleFingerBook]2を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分または味方の中指組員被ダメージ時、攻撃者に[MiddleFingerBook]を1付与し、次のターンに[AttackUp]1を得る(1ターンにつき最大5)\n- 味方の中指組員がスキルで死亡時、攻撃者へ[MiddleFingerBook]2を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신 또는 아군 중지 조직원이 피격 시, 공격자에게 [MiddleFingerBook]을 1 부여하고, 다음 턴에 [AttackUp] 1 얻음 (턴 당 최대 5)\n- 아군 중지 조직원이 스킬로 사망 시, 공격자에게 [MiddleFingerBook] 2 추가 부여\nEN:\nWhen this unit or its ally is hit, inflict 1 [MiddleFingerBook] against the attacker, then gain 1 [AttackUp] next turn (max 5 per turn)\n- When an allied unit from The Middle is killed by a Skill, inflict 2 additional [MiddleFingerBook] against the attacker"
+  },
+  {
+    "key": "112705-name",
+    "original": "戦闘負傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘負傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 부상\nEN:\nWounded in Battle"
+  },
+  {
+    "key": "112705-desc",
+    "original": "体力が最大値の40%だけ減少した状態で戦闘開始(部位を含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が最大値の40%だけ減少した状態で戦闘開始(部位を含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력의 40% 만큼 체력이 감소한 상태로 전투 시작 (부위 포함)\nEN:\nBegins Encounter with 40% less HP (including Parts)"
+  },
+  {
+    "key": "112707-name",
+    "original": "髪を振り払う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "髪を振り払う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n머리 털기\nEN:\nBrush it Off"
+  },
+  {
+    "key": "112707-desc",
+    "original": "パニック状態になると、次のターン開始時にパニック状態を解除して精神力が0に初期化される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パニック状態になると、次のターン開始時にパニック状態を解除して精神力が0に初期化される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패닉 상태가 되면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.\nEN:\nWhen in panic, recover from panic at the start of the next turn and reset SP to 0."
+  }
+]

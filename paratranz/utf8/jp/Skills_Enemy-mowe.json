@@ -1,0 +1,1066 @@
+[
+  {
+    "key": "9014501-levelList[0].name",
+    "original": "硬化された腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬化された腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경화된 팔\nEN:\nCoagulated Arm"
+  },
+  {
+    "key": "9014501-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9014502-levelList[0].name",
+    "original": "硬血式強化突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式強化突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 강화 찌르기\nEN:\nHardblood Jag"
+  },
+  {
+    "key": "9014502-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9014502-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9014503-levelList[0].name",
+    "original": "血液収集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液収集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 수집\nEN:\nCollecting Blood"
+  },
+  {
+    "key": "9014503-levelList[0].desc",
+    "original": "対象の[Laceration]が10以上なら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が10以上なら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 10 이상이면, 피해량 +20%\nEN:\nIf target has 10+ [Laceration], deal +20% damage"
+  },
+  {
+    "key": "9014503-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9014503-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9014503-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)\nEN:\n[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)"
+  },
+  {
+    "key": "9014503-levelList[0].coinlist[2].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복\nEN:\n[OnSucceedAttack] Absorb [Laceration] on target to heal"
+  },
+  {
+    "key": "9014504-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "9014504-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9014504-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9014601-levelList[0].name",
+    "original": "硬化された腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬化された腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경화된 팔\nEN:\nCoagulated Arm"
+  },
+  {
+    "key": "9014601-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9014602-levelList[0].name",
+    "original": "硬血式強化斬り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式強化斬り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 강화 베기\nEN:\nHardblood Slice"
+  },
+  {
+    "key": "9014602-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9014602-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9014603-levelList[0].name",
+    "original": "血液収集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液収集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 수집\nEN:\nCollecting Blood"
+  },
+  {
+    "key": "9014603-levelList[0].desc",
+    "original": "対象の[Laceration]が10以上なら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が10以上なら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 10 이상이면, 피해량 +20%\nEN:\nIf target has 10+ [Laceration], deal +20% damage"
+  },
+  {
+    "key": "9014603-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9014603-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9014603-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)\nEN:\n[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)"
+  },
+  {
+    "key": "9014603-levelList[0].coinlist[2].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복\nEN:\n[OnSucceedAttack] Absorb [Laceration] on target to heal"
+  },
+  {
+    "key": "9014604-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "9014604-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9014604-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9014701-levelList[0].name",
+    "original": "硬化された腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬化された腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경화된 팔\nEN:\nCoagulated Arm"
+  },
+  {
+    "key": "9014701-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9014701-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9014702-levelList[0].name",
+    "original": "硬血式強化打撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式強化打撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 강화 타격\nEN:\nHardblood Strike"
+  },
+  {
+    "key": "9014702-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9014702-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9014703-levelList[0].name",
+    "original": "血液収集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液収集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 수집\nEN:\nCollecting Blood"
+  },
+  {
+    "key": "9014703-levelList[0].desc",
+    "original": "対象の[Laceration]が10以上なら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が10以上なら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 10 이상이면, 피해량 +20%\nEN:\nIf target has 10+ [Laceration], deal +20% damage"
+  },
+  {
+    "key": "9014703-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9014703-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9014703-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)\nEN:\n[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)"
+  },
+  {
+    "key": "9014703-levelList[0].coinlist[2].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복\nEN:\n[OnSucceedAttack] Absorb [Laceration] on target to heal"
+  },
+  {
+    "key": "9014704-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "9014704-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9014704-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9014801-levelList[0].name",
+    "original": "切断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "切断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절단\nEN:\nRip"
+  },
+  {
+    "key": "9014801-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014801-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014801-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9014802-levelList[0].name",
+    "original": "刺し下ろす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺し下ろす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찍어내리기\nEN:\nStab Down"
+  },
+  {
+    "key": "9014802-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 5 증가\nEN:\n[WhenUse] Gain +5 [Charge] Count"
+  },
+  {
+    "key": "9014802-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014802-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9014802-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014802-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9014803-levelList[0].name",
+    "original": "硬血式武器強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式武器強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 무기 강화\nEN:\nHardblood Weapon"
+  },
+  {
+    "key": "9014803-levelList[0].desc",
+    "original": "[WhenUse] 保有した[Charge]回数を全て消耗し、体力最大値の2 × (15 - 消耗した[Charge]回数)%だけ体力を消費してコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 保有した[Charge]回数を全て消耗し、体力最大値の2 × (15 - 消耗した[Charge]回数)%だけ体力を消費してコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2\nEN:\n[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2"
+  },
+  {
+    "key": "9014803-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "9014803-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DefenseDown]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [DefenseDown] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [DefenseDown]"
+  },
+  {
+    "key": "9014803-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)\nEN:\n[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)"
+  },
+  {
+    "key": "9014803-levelList[0].coinlist[1].coindescs[1].summary",
+    "original": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복\nEN:\n[OnSucceedAttack] Absorb [Laceration] on target to heal"
+  },
+  {
+    "key": "9014804-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9014804-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9014901-levelList[0].name",
+    "original": "刺す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찌르기\nEN:\nThrust"
+  },
+  {
+    "key": "9014901-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014901-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014901-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9014902-levelList[0].name",
+    "original": "斬り裂く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬り裂く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n베어가르기\nEN:\nCleave"
+  },
+  {
+    "key": "9014902-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 5 증가\nEN:\n[WhenUse] Gain +5 [Charge] Count"
+  },
+  {
+    "key": "9014902-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014902-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9014902-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9014902-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9014903-levelList[0].name",
+    "original": "硬血式武器強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式武器強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 무기 강화\nEN:\nHardblood Weapon"
+  },
+  {
+    "key": "9014903-levelList[0].desc",
+    "original": "[WhenUse] 保有した[Charge]回数を全て消耗し、体力最大値の2 × (15 - 消耗した[Charge]回数)%だけ体力を消費してコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 保有した[Charge]回数を全て消耗し、体力最大値の2 × (15 - 消耗した[Charge]回数)%だけ体力を消費してコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2\nEN:\n[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2"
+  },
+  {
+    "key": "9014903-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "9014903-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vulnerable] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vulnerable]"
+  },
+  {
+    "key": "9014903-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)\nEN:\n[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)"
+  },
+  {
+    "key": "9014903-levelList[0].coinlist[1].coindescs[0].summary",
+    "original": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복\nEN:\n[OnSucceedAttack] Absorb [Laceration] on target to heal"
+  },
+  {
+    "key": "9014904-levelList[0].name",
+    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피\nEN:\nEvade"
+  },
+  {
+    "key": "9014904-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9015001-levelList[0].name",
+    "original": "槍振り回し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "槍振り回し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n창 휘두르기\nEN:\nSpear Swing"
+  },
+  {
+    "key": "9015001-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9015001-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9015001-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9015001-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9015002-levelList[0].name",
+    "original": "傷口穿ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傷口穿ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상처 헤집기\nEN:\nTear Up Wound"
+  },
+  {
+    "key": "9015002-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 5 증가\nEN:\n[WhenUse] Gain +5 [Charge] Count"
+  },
+  {
+    "key": "9015002-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9015002-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Laceration]"
+  },
+  {
+    "key": "9015002-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9015002-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "9015002-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9015002-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9015003-levelList[0].name",
+    "original": "硬血式武器強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式武器強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 무기 강화\nEN:\nHardblood Weapon"
+  },
+  {
+    "key": "9015003-levelList[0].desc",
+    "original": "[WhenUse] 保有した[Charge]回数を全て消耗し、体力最大値の2 × (15 - 消耗した[Charge]回数)%だけ体力を消費してコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 保有した[Charge]回数を全て消耗し、体力最大値の2 × (15 - 消耗した[Charge]回数)%だけ体力を消費してコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 보유한 [Charge] 횟수를 전부 소모하고, 최대 체력의 2 x (15 - 소모한 [Charge] 횟수)% 만큼 체력을 소모하여 코인 위력 +2\nEN:\n[WhenUse] Consume all [Charge] Count on self and consume 2(15 - [Charge] Count consumed)% HP to gain Coin Power +2"
+  },
+  {
+    "key": "9015003-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "9015003-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9015003-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [AttackDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [AttackDown] 3 부여.\nEN:\n[OnSucceedAttack] Inflict 3 [AttackDown]"
+  },
+  {
+    "key": "9015003-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]威力を最大10まで吸収し、体力最大値の(吸収した[Laceration]威力 × 2)%だけ体力を回復([Laceration]威力は1未満に下がらない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 위력을 최대 10까지 흡수하여 최대 체력의 (흡수한 [Laceration] 위력 x 2)%만큼 체력 회복 ([Laceration] 위력은 1 미만으로 감소하지 않음)\nEN:\n[OnSucceedAttack] Absorb up to 10 [Laceration] Potency from the target and heal ([Laceration] Potency absorbed x 2)% HP (this effect does not lower the target's [Laceration] Potency under 1)"
+  },
+  {
+    "key": "9015003-levelList[0].coinlist[1].coindescs[1].summary",
+    "original": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]を吸収して体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]을 흡수하여 체력 회복\nEN:\n[OnSucceedAttack] Absorb [Laceration] on target to heal"
+  },
+  {
+    "key": "9015004-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9015004-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9015101-levelList[0].name",
+    "original": "義体稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "義体稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의체 가동\nEN:\nActivate Prosthesis"
+  },
+  {
+    "key": "9015101-levelList[0].desc",
+    "original": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を5消耗して[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を5消耗して[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 [AttackUp] 3을 얻음\nEN:\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain 3 [AttackUp]"
+  },
+  {
+    "key": "9015101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9015102-levelList[0].name",
+    "original": "銛の標識\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "銛の標識\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n작살 표식\nEN:\nHarpoon Mark"
+  },
+  {
+    "key": "9015102-levelList[0].desc",
+    "original": "[StartBattle] 自分の[Charge]回数が5未満なら、自分の[Charge]回数を5, [Laceration]回数を3増加させて[Vulnerable]1を得る\n[WhenUse] [Charge]回数が10以上なら、[Charge]回数を5消耗して[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の[Charge]回数が5未満なら、自分の[Charge]回数を5, [Laceration]回数を3増加させて[Vulnerable]1を得る\n[WhenUse] [Charge]回数が10以上なら、[Charge]回数を5消耗して[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 자신의 [Charge] 횟수가 5 미만이면, 자신의 [Charge] 횟수 5, [Laceration] 횟수 3 증가하고, [Vulnerable] 1을 얻음\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수를 5 소모하여 [AttackUp] 3을 얻음\nEN:\n[StartBattle] At 5- [Charge] Count, gain 5 [Charge] Count, 3 [Laceration] Count, and 1 [Vulnerable]\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain 3 [AttackUp]"
+  },
+  {
+    "key": "9015102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9015102-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9015102-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "9015103-levelList[0].name",
+    "original": "硬血式強化打撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式強化打撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 강화 작살\nEN:\nHardblood Harpoon"
+  },
+  {
+    "key": "9015103-levelList[0].desc",
+    "original": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が10増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が10増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 10 증가\nEN:\n[WhenUse] Consume 10% HP on self to gain +10 [Charge] Count"
+  },
+  {
+    "key": "9015103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Laceration] Count"
+  },
+  {
+    "key": "9015103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여.\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "9015103-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가.\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count."
+  },
+  {
+    "key": "9015103-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Paralysis] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Paralysis]"
+  },
+  {
+    "key": "9015104-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "9015104-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9101801-levelList[0].name",
+    "original": "義体稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "義体稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의체 가동\nEN:\nActivate Prosthesis"
+  },
+  {
+    "key": "9101801-levelList[0].desc",
+    "original": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가\nEN:\n[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count"
+  },
+  {
+    "key": "9101801-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9101801-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "9101802-levelList[0].name",
+    "original": "硬血式血液逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式血液逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 혈액 역류\nEN:\nHardblood Reflux"
+  },
+  {
+    "key": "9101802-levelList[0].desc",
+    "original": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가\nEN:\n[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count"
+  },
+  {
+    "key": "9101802-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9101802-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Paralysis] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Paralysis]"
+  },
+  {
+    "key": "9101802-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9101802-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9101802-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9101802-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9101803-levelList[0].name",
+    "original": "生体エネルギー転換式充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生体エネルギー転換式充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생체 에너지 전환식 충전\nEN:\nBioenergy Conversion Charge"
+  },
+  {
+    "key": "9101803-levelList[0].desc",
+    "original": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が15増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が15増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가\nEN:\n[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count"
+  },
+  {
+    "key": "9101803-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9101803-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9101803-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "9101803-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9101803-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [AttackDown]"
+  },
+  {
+    "key": "9101804-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9101804-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Laceration]回数3につき、基本威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Laceration] 횟수 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] Base Power +1 for every 3 [Laceration] Count on self (max 2)"
+  },
+  {
+    "key": "9101805-levelList[0].name",
+    "original": "硬血式血液移転\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血式血液移転\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈식 혈액 이전\nEN:\nHardblood Transfusion"
+  },
+  {
+    "key": "9101805-levelList[0].desc",
+    "original": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が10以上なら、[Charge]回数を3消耗してコイン威力 +1\n[WhenUse] [Charge]回数が15以上なら、[Charge]回数を3を追加で消耗してダメージ量 + 20%\n[WhenUse] [Charge]回数が5未満なら、体力が最大値の10%分減少して[Charge]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 10 이상이면, [Charge] 횟수 3을 소모하여 코인 위력 +1\n[WhenUse] [Charge] 횟수가 15 이상이면, [Charge] 횟수 3을 추가로 소모하여 피해량 + 20%\n[WhenUse] [Charge] 횟수가 5 미만이면, 최대 체력의 10%만큼 체력이 감소하고 [Charge] 횟수 5 증가\nEN:\n[WhenUse] At 10+ [Charge] Count, consume 3 [Charge] Count to gain Coin Power +1\n[WhenUse] At 15+ [Charge] Count, consume 3 additional [Charge] Count to deal +20% damage\n[WhenUse] At 5- [Charge] Count, lose 10% HP and gain +5 [Charge] Count"
+  },
+  {
+    "key": "9101805-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9101805-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9101805-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9101806-levelList[0].name",
+    "original": "生体エネルギー転換式再充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生体エネルギー転換式再充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생체 에너지 전환식 재충전\nEN:\nBioenergy Conversion Recharge"
+  },
+  {
+    "key": "9101806-levelList[0].desc",
+    "original": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が15増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の体力最大値の10%分消耗し、[Charge]回数が15増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 체력을 최대 체력의 10% 만큼 소모하여 [Charge] 횟수 15 증가\nEN:\n[WhenUse] Consume 10% HP on self to gain +15 [Charge] Count"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable]"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 [Laceration]"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9101806-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [AttackDown]"
+  }
+]

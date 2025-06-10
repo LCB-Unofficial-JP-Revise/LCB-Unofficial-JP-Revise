@@ -1,0 +1,674 @@
+[
+  {
+    "key": "90001-name",
+    "original": "虫の肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "虫の肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n벌레 육체\nEN:\nVerminous Body"
+  },
+  {
+    "key": "90001-desc",
+    "original": "ターン終了時に体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 체력 5 회복\nEN:\nAt the end of the turn, heal 5 HP."
+  },
+  {
+    "key": "90002-name",
+    "original": "養分補充\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "養分補充\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영양분 보충\nEN:\nNutritive Reinforcements"
+  },
+  {
+    "key": "90002-desc",
+    "original": "敵を倒したとき、体力を20回復。次のターンに守備威力増加 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵を倒したとき、体力を20回復。次のターンに守備威力増加 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시 체력 20 회복, 다음 턴에 수비 위력 증가 5를 얻음\nEN:\nAfter defeating an enemy, heal 20 HP, and gain 5 Defense Power Up next turn."
+  },
+  {
+    "key": "90003-name",
+    "original": "鋭い刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭い刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날카로운 칼\nEN:\nSharp Edge"
+  },
+  {
+    "key": "90003-desc",
+    "original": "攻撃的中時、出血 を1-2付与\nターン開始時、標的 を持つキャラクターを攻撃する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、出血 を1-2付与\nターン開始時、標的 を持つキャラクターを攻撃する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중 시 출혈 1-2 부여\n턴 시작 시 표적이 있는 캐릭터가 있으면, 해당 캐릭터를 공격함\nEN:\nOn hit, inflict 1-2 Bleed.\nIf a unit is Marked, attack them first."
+  },
+  {
+    "key": "90004-name",
+    "original": "士気下落\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "士気下落\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사기 하락\nEN:\nWeak Morale"
+  },
+  {
+    "key": "90004-desc",
+    "original": "味方が死亡する度、永続的に脆弱 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が死亡する度、永続的に脆弱 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 사망할 때마다 영구적으로 취약 1을 얻음\nEN:\nWhenever an ally dies, permanently gain 1 Fragile."
+  },
+  {
+    "key": "90005-name",
+    "original": "成敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응징\nEN:\nRetribution"
+  },
+  {
+    "key": "90005-desc",
+    "original": "体力が50%以下になると、次のターンに攻撃威力増加 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が50%以下になると、次のターンに攻撃威力増加 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 50% 이하가 되면 다음 턴에 공격 위력 증가 5를 얻음\nEN:\nWhen HP drops below 50%, gain 5 Attack Power Up next turn."
+  },
+  {
+    "key": "90006-name",
+    "original": "精神波動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神波動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신 파동\nEN:\nMind Wave"
+  },
+  {
+    "key": "90006-desc",
+    "original": "攻撃的中時、対象の精神力を-10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象の精神力を-10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중 시 대상의 정신력 -10\nEN:\nOn hit, target loses 10 SP."
+  },
+  {
+    "key": "9000101-name",
+    "original": "負傷した強化肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "負傷した強化肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부상당한 강화 육체\nEN:\nInjured Augmentation"
+  },
+  {
+    "key": "9000101-desc",
+    "original": "体力が50%未満のとき、ターン開始時に体力を1回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が50%未満のとき、ターン開始時に体力を1回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 50% 미만일 때 턴 시작 시 체력 1 회복\nEN:\nAt the start of the turn, if at less than 50% HP, heal 1 HP."
+  },
+  {
+    "key": "9000102-name",
+    "original": "強化肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 육체\nEN:\nAugmented Body"
+  },
+  {
+    "key": "9000102-desc",
+    "original": "体力が50%未満のとき、ターン開始時に体力を2回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が50%未満のとき、ターン開始時に体力を2回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 50% 미만일 때 턴 시작 시 체력 2 회복\nEN:\nAt the start of the turn, if at less than 50% HP, heal 2 HP."
+  },
+  {
+    "key": "9000103-name",
+    "original": "侵蝕された強化肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "侵蝕された強化肉体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침식된 강화 육체\nEN:\nCorroded Augmentation"
+  },
+  {
+    "key": "9000103-desc",
+    "original": "体力が50%未満のとき、ターン開始時に体力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が50%未満のとき、ターン開始時に体力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 50% 미만일 때 턴 시작 시 체력 4 회복\nEN:\nAt the start of the turn, if at less than 50% HP, heal 4 HP."
+  },
+  {
+    "key": "9100301-name",
+    "original": "兄貴分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "兄貴分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큰형님\nEN:\nBig Boss"
+  },
+  {
+    "key": "9100301-desc",
+    "original": "このキャラクターが死亡すると全味方の精神力が-45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが死亡すると全味方の精神力が-45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 사망하면 모든 아군 정신력 -45\nEN:\nWhen this unit is defeated, all its allies lose 45 SP."
+  },
+  {
+    "key": "9100302-name",
+    "original": "ちびども！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ちびども！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아그들아!\nEN:\nNot Me Boys!"
+  },
+  {
+    "key": "9100302-desc",
+    "original": "味方が死亡するたびに、このキャラクターの精神力が-15\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が死亡するたびに、このキャラクターの精神力が-15\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 사망할 때마다 이 캐릭터의 정신력 -15\nEN:\nThis unit loses 15 SP whenever an ally is defeated."
+  },
+  {
+    "key": "9100401-name",
+    "original": "パーティータイム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パーティータイム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파티 타임\nEN:\nHora de Fiesta"
+  },
+  {
+    "key": "9100401-desc",
+    "original": "毎ターン、自分を含む全味方の精神力を10回復\n自分の精神力が20以上ならターン開始時に攻撃威力増加 1、守備威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン、自分を含む全味方の精神力を10回復\n自分の精神力が20以上ならターン開始時に攻撃威力増加 1、守備威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴마다 자신 포함 모든 아군 정신력 10 회복\n자신의 정신력 20 이상이면 턴 시작 시 공격 위력 증가, 수비 위력 증가 1 얻음\nEN:\nAt the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 Attack Power Up and 1 Defense Power Up at turn start."
+  },
+  {
+    "key": "9100402-name",
+    "original": "パーティーお開き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パーティーお開き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파티 종료\nEN:\nSe Acabó la Fiesta"
+  },
+  {
+    "key": "9100402-desc",
+    "original": "このキャラクターが死亡すると全味方の精神力が-45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが死亡すると全味方の精神力が-45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 사망하면 모든 아군 정신력 -45\nEN:\nWhen this unit is defeated, all its allies lose 45 SP."
+  },
+  {
+    "key": "9002801-name",
+    "original": "HP弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "HP弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nHP탄\nEN:\nHP Bullets"
+  },
+  {
+    "key": "9002801-desc",
+    "original": "ターン開始時に体力を15回復\n体力が50%未満なら、体力15を追加で回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に体力を15回復\n体力が50%未満なら、体力15を追加で回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력 15 회복\n체력이 50%미만이면 체력 15 추가 회복\nEN:\nAt the start of the turn, heal 15 HP.\nAt less than 50% HP, heal 15 additional HP."
+  },
+  {
+    "key": "9003201-name",
+    "original": "高貴な犠牲であった\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高貴な犠牲であった\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고귀한 희생있도다\nEN:\nNoble be Thy Sacrifice"
+  },
+  {
+    "key": "9003201-desc",
+    "original": "味方が死亡すると、次のターン開始時に攻撃威力増加 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が死亡すると、次のターン開始時に攻撃威力増加 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 사망하면 다음 턴 시작 시 공격 위력 증가 1을 얻는다.\nEN:\nWhen an ally is defeated, gain 1 Attack Power Up next turn."
+  },
+  {
+    "key": "9003801-name",
+    "original": "処断の歓び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "処断の歓び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처단의 기쁨\nEN:\nJoy of Execution"
+  },
+  {
+    "key": "9003801-desc",
+    "original": "敵を倒すと次のターン開始時に、ダメージ量増加 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵を倒すと次のターン開始時に、ダメージ量増加 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적을 처치하면 다음 턴 시작 시 피해량 증가 2를 얻는다.\nEN:\nAfter defeating an enemy, gain 2 Damage Up next turn."
+  },
+  {
+    "key": "9100501-name",
+    "original": "握る者の金鎚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "握る者の金鎚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쥐는 자의 망치\nEN:\nHammer of the One Who Grips"
+  },
+  {
+    "key": "9100501-desc",
+    "original": "このキャラクターが生きている間、全味方がターン開始時に精神力を10回復\nこのキャラクターが死亡すると、全味方の精神力が-45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが生きている間、全味方がターン開始時に精神力を10回復\nこのキャラクターが死亡すると、全味方の精神力が-45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 살아있는동안 모든 아군이 턴 시작 시 정신력 10 회복\n이 캐릭터가 사망하면 모든 아군 정신력 -45\nEN:\nAt the start of the turn, all allies heal 10 SP.\nWhen this unit is defeated, all its allies lose 45 SP."
+  },
+  {
+    "key": "9100601-name",
+    "original": "執念\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "執念\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집념\nEN:\nPersistence"
+  },
+  {
+    "key": "9100601-desc",
+    "original": "体力が50%未満になると、次のターン開始時自分に付与されたマイナス効果を除去し、毎ターン狂信 4、攻撃威力増加 1、守備威力増加 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が50%未満になると、次のターン開始時自分に付与されたマイナス効果を除去し、毎ターン狂信 4、攻撃威力増加 1、守備威力増加 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 50% 미만이 되면, 다음 턴 시작 시 자신에게 부여된 부정적인 효과를 제거하고, 매 턴마다 광신 4, 공격 위력 증가 1, 수비 위력 증가 1을 얻는다.\nEN:\nWhen HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn."
+  },
+  {
+    "key": "9100502-name",
+    "original": "撲せよ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "撲せよ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두드릴지라\nEN:\nThou Shalt Hammer"
+  },
+  {
+    "key": "9100502-desc",
+    "original": "自分に狂信 がある場合、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分に狂信 がある場合、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신에게 광신이 있을 때 피해량 +50%\nEN:\nIf this unit is Fanatic, deal +50% damage."
+  },
+  {
+    "key": "9004601-name",
+    "original": "機械精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "機械精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기계 정신\nEN:\nMechanical Mentality"
+  },
+  {
+    "key": "9004601-desc",
+    "original": "精神力が0に固定される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が0に固定される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 0에 고정됨.\nEN:\nSanity is fixed at 0."
+  },
+  {
+    "key": "9004602-name",
+    "original": "堅い外皮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "堅い外皮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단단한 외피\nEN:\nSolid Exterior"
+  },
+  {
+    "key": "9004602-desc",
+    "original": "<sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">火傷</color></link></u>によるダメージが半減。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">火傷</color></link></u>によるダメージが半減。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Combustion\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>에 입는 대미지 반감.\nEN:\nTake half as much damage from &lt;sprite name=\"Laceration\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Combustion\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u>."
+  },
+  {
+    "key": "9004603-name",
+    "original": "揺れに注意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揺れに注意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흔들림 주의\nEN:\nCaution: Unsteady"
+  },
+  {
+    "key": "9004603-desc",
+    "original": "自分が受ける振動爆発による混乱区間前進量が+50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分が受ける振動爆発による混乱区間前進量が+50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신이 받는 진동 폭발에 의한 흐트러짐 손상 +50%\nEN:\nThis unit's stagger threshold rises by 50% more when affected by Tremor Burst"
+  },
+  {
+    "key": "9004604-name",
+    "original": "破損注意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破損注意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파손 주의\nEN:\nCaution: Delicate"
+  },
+  {
+    "key": "9004604-desc",
+    "original": "自分が受ける<sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">破裂</color></link></u>によるダメージ+30% (小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分が受ける<sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">破裂</color></link></u>によるダメージ+30% (小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신이 받는 &lt;sprite name=\"Burst\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>에 의한 피해 +30% (소수점 버림)\nEN:\nTake +30% damage from &lt;sprite name=\"Burst\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> (Rounded down)"
+  },
+  {
+    "key": "9004901-name",
+    "original": "破損機能損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破損機能損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파손 기능 손상\nEN:\nDamageable Disuniter"
+  },
+  {
+    "key": "9004901-desc",
+    "original": "混乱状態になると、それ以降付与する破裂 、破裂 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態になると、それ以降付与する破裂 、破裂 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 된다면, 이후로 부여하는 파열, 파열 횟수 1 감소\nEN:\nAfter being staggered, inflict 1 less Rupture and Rupture Count"
+  },
+  {
+    "key": "9005001-name",
+    "original": "振動機能損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動機能損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흔들림 기능 손상\nEN:\nDamageable Thumper"
+  },
+  {
+    "key": "9005001-desc",
+    "original": "混乱状態になると、それ以降付与する振動 、振動 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態になると、それ以降付与する振動 、振動 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 된다면, 이후로 부여하는 진동, 진동 횟수 1 감소\nEN:\nAfter being staggered, inflict 1 less Tremor and Tremor Count"
+  },
+  {
+    "key": "9100701-name",
+    "original": "攻撃機能オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃機能オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 기능 과열\nEN:\nOverheating Attack Function"
+  },
+  {
+    "key": "9100701-desc",
+    "original": "自分の攻撃で混乱状態にした場合、次のターンにダメージ量増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の攻撃で混乱状態にした場合、次のターンにダメージ量増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 공격으로 흐트러짐 상태를 만들었다면, 다음 턴에 피해량 증가 3 얻음\nEN:\nWhen staggering a unit with an attack, gain 3 Damage Up next turn."
+  },
+  {
+    "key": "9100702-name",
+    "original": "破損機能完全損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破損機能完全損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파손 기능 완전 손상\nEN:\nBreakable Disuniter"
+  },
+  {
+    "key": "9100702-desc",
+    "original": "混乱状態になると、それ以降付与する破裂 、破裂 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態になると、それ以降付与する破裂 、破裂 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 된다면, 이후로 부여하는 파열, 파열 횟수 3 감소\nEN:\nAfter being staggered, inflict 3 less Rupture and Rupture Count"
+  },
+  {
+    "key": "9100703-name",
+    "original": "振動機能完全損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動機能完全損傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흔들림 기능 완전 손상\nEN:\nBreakable Thumper"
+  },
+  {
+    "key": "9100703-desc",
+    "original": "混乱状態になると、それ以降付与する振動 、振動 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態になると、それ以降付与する振動 、振動 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 된다면, 이후로 부여하는 진동, 진동 횟수 3 감소\nEN:\nAfter being staggered, inflict 3 less Tremor and Tremor Count"
+  },
+  {
+    "key": "9100801-name",
+    "original": "スパナ稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スパナ稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스패너 가동\nEN:\nSpanner Up"
+  },
+  {
+    "key": "9100801-desc",
+    "original": "1ターンの間、表面で的中したコインの数だけ共振を得る。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1ターンの間、表面で的中したコインの数だけ共振を得る。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴동안 앞면 적중한 코인 수만큼 공진을 얻음. (최대 10)\nEN:\nGain Resonant by the number of heads Coins that successfully hit during a turn. (Max 10)"
+  },
+  {
+    "key": "9100802-name",
+    "original": "バラのスパナ工房代表\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バラのスパナ工房代表\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미스패너 공방 대표\nEN:\nRosespanner Workshop Rep"
+  },
+  {
+    "key": "9100802-desc",
+    "original": "ウェーブの間、死んだ味方の数だけ振動を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウェーブの間、死んだ味方の数だけ振動を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n웨이브동안 죽은 아군 수만큼 진동을 추가 부여\nEN:\nInflict more Tremor by the number of allies that have died this wave"
+  },
+  {
+    "key": "9100803-name",
+    "original": "これが最後ですか\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "これが最後ですか\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마지막인건가요\nEN:\nGuess I'm the Last"
+  },
+  {
+    "key": "9100803-desc",
+    "original": "単独でいる場合、毎ターン共振 1, 振動同化 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "単独でいる場合、毎ターン共振 1, 振動同化 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혼자 남으면 매 턴마다 공진 1, 진동 동화 1 얻음.\nEN:\nWhen alone, gain 1 Resonant and 1 Tremor Sync every turn."
+  },
+  {
+    "key": "9100804-name",
+    "original": "どうしようもないですね\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうしようもないですね\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어쩔 수 없네요\nEN:\nI've Got No Choice"
+  },
+  {
+    "key": "9100804-desc",
+    "original": "単独でいる場合、自分を最後に攻撃した対象を次のターンに指定する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "単独でいる場合、自分を最後に攻撃した対象を次のターンに指定する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혼자 남았을 때, 자신을 마지막으로 공격한 사람을 다음 턴에 지정함.\nEN:\nWhen alone, marks the last unit that attacked this character as a target next turn."
+  },
+  {
+    "key": "9100901-name",
+    "original": "絡み付く呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絡み付く呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n얽혀오는 저주 부적\nEN:\nEntangling Curse Talisman"
+  },
+  {
+    "key": "9100901-desc",
+    "original": "1ターンの間行ったマッチの数だけ、絡み付いた呪いの札 を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1ターンの間行ったマッチの数だけ、絡み付いた呪いの札 を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴동안 진행한 합만큼 얽혀온 저주 부적을 얻음.\nEN:\nGain Entangled Curse Talismans by the number of clashes the unit engaged in during a turn."
+  },
+  {
+    "key": "9100902-name",
+    "original": "縛り付けられた呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛り付けられた呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n옭아매인 저주 부적\nEN:\nStrangling Curse Talisman"
+  },
+  {
+    "key": "9100902-desc",
+    "original": "絡み付いた呪いの札 が10なら、混乱区間を10前進させて全て消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絡み付いた呪いの札 が10なら、混乱区間を10前進させて全て消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n얽혀온 저주 부적이 10이라면, 10만큼 흐트러짐 손상. 전부 소멸.\nEN:\nAt 10 Entangled Curse Talismans, raise stagger threshold by 10, then remove the status."
+  },
+  {
+    "key": "9100903-name",
+    "original": "増殖する呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "増殖する呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증식하는 저주 부적\nEN:\nMultiplying Curse Talisman"
+  },
+  {
+    "key": "9100903-desc",
+    "original": "体力が30%以下のとき、付与する貼り直された呪いの札 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が30%以下のとき、付与する貼り直された呪いの札 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 30%이하일 때, 부여하는 다시 붙여진 저주 부적 +1\nEN:\nAt 30% or less HP, inflict +1 Reattached Curse Talisman"
+  },
+  {
+    "key": "9100904-name",
+    "original": "侵蝕する呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "侵蝕する呪いの札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침식하는 저주 부적\nEN:\nEncroaching Curse Talisman"
+  },
+  {
+    "key": "9100904-desc",
+    "original": "体力が30%以下のとき、攻撃終了時に対象の貼り直された呪いの札 が5以上なら、次のターンに麻痺 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が30%以下のとき、攻撃終了時に対象の貼り直された呪いの札 が5以上なら、次のターンに麻痺 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 30%이하일 때, 공격 종료 시 대상에게 다시 붙여진 저주 부적이 5이상이라면 다음 턴에 마비 2 부여\nEN:\nAt 30% or less HP, if the target has 5+ Reattached Curse Talisman after an attack is finished, inflict 2 Paralyze next turn."
+  },
+  {
+    "key": "9006201-name",
+    "original": "流れ出る憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "流れ出る憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흘러오는 우울\nEN:\nFloods of Sorrow"
+  },
+  {
+    "key": "9006201-desc",
+    "original": "裏面的中時、沈潜 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "裏面的中時、沈潜 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷면 적중 시 침잠 2 부여\nEN:\nTails Coins inflict 2 Sinking"
+  },
+  {
+    "key": "9006202-name",
+    "original": "溢れ出る哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "溢れ出る哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n넘쳐흐르는 슬픔\nEN:\nOverflowing Sorrow"
+  },
+  {
+    "key": "9006202-desc",
+    "original": "ターン終了時、自分の精神力を5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、自分の精神力を5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시, 자신의 정신력 5 감소\nEN:\nAt the end of the turn, lose 5 SP"
+  },
+  {
+    "key": "9006101-name",
+    "original": "酔い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "酔い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n취기\nEN:\nIntoxication"
+  },
+  {
+    "key": "9006101-desc",
+    "original": "保有している高揚が5のとき、酔いを5得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有している高揚が5のとき、酔いを5得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가지고 있는 고양이 5일 때, 취기를 5 얻음.\nEN:\nAt 5 Morale Boost, gain 5 Tipsy."
+  },
+  {
+    "key": "9006102-name",
+    "original": "二日酔いの解消\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二日酔いの解消\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숙취 해소\nEN:\nHangover Cure"
+  },
+  {
+    "key": "9006102-desc",
+    "original": "保有している酔い が5のとき、守備スキルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有している酔い が5のとき、守備スキルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가지고 있는 취기가 5일 때, 수비 스킬을 사용함.\nEN:\nAt 5 Tipsy, uses a defense skill."
+  },
+  {
+    "key": "9006801-name",
+    "original": "回復アンプル注入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回復アンプル注入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회복 앰플 주입\nEN:\nHealing Ampule Injection"
+  },
+  {
+    "key": "9006801-desc",
+    "original": "ターン開始時に体力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に体力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력 20 회복\nEN:\nAt the start of the turn, heal 20 HP."
+  },
+  {
+    "key": "9006802-name",
+    "original": "緊急アンプル投薬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緊急アンプル投薬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n긴급 앰플 투약\nEN:\nEmergency Ampule Administration"
+  },
+  {
+    "key": "9006802-desc",
+    "original": "体力が25%未満なら、体力最大値の40%分回復(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が25%未満なら、体力最大値の40%分回復(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 25%미만이면 전체 체력의 40%까지 회복 (최대 1회)\nEN:\nAt less than 25% HP, heal up to 40% of Max HP (One-time only)"
+  },
+  {
+    "key": "9007001-name",
+    "original": "ゴールデンタイム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゴールデンタイム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금 시간\nEN:\nGolden Time"
+  },
+  {
+    "key": "9007001-desc",
+    "original": "ターン終了時に体力が12~24%残っているなら、体力を最大値の65%即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に体力が12~24%残っているなら、体力を最大値の65%即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 체력이 12% ~ 24%사이로 남았을 때, 전체 체력의 65%만큼 즉시 회복. 흐트러짐 상태 해제. (최대 1회)\nEN:\nAt the end of the turn, if the HP is between 12% and 24%, instantly heal up to 65% of Max HP, and recover from stagger. (One-time only)"
+  },
+  {
+    "key": "9007002-name",
+    "original": "時間逆行の反動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間逆行の反動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간 역행 반동\nEN:\nTime Reversion Retroaction"
+  },
+  {
+    "key": "9007002-desc",
+    "original": "ゴールデンタイム発動以降、ターン終了時に脆弱 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゴールデンタイム発動以降、ターン終了時に脆弱 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금 시간 발동 이후, 턴 종료 시 취약 3 얻음\nEN:\nAfter activating Golden Time, gain 3 Fragile at turn end."
+  },
+  {
+    "key": "9005401-name",
+    "original": "恐怖装置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "恐怖装置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공포 장치\nEN:\nTerror Device"
+  },
+  {
+    "key": "9005401-desc",
+    "original": "味方が味方を攻撃するとき、3精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が味方を攻撃するとき、3精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 아군에게 공격할 때, 정신력 3 피해\nEN:\nWhen an ally attacks another ally, deal 3 SP damage"
+  },
+  {
+    "key": "9006901-name",
+    "original": "回復アンプル注入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回復アンプル注入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회복 앰플 주입\nEN:\nHealing Ampule Injection"
+  },
+  {
+    "key": "9006901-desc",
+    "original": "ターン開始時に体力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に体力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력 20 회복\nEN:\nAt the start of the turn, heal 20 HP."
+  },
+  {
+    "key": "9006902-name",
+    "original": "緊急アンプル投薬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緊急アンプル投薬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n긴급 앰플 투약\nEN:\nEmergency Ampule Administration"
+  },
+  {
+    "key": "9006902-desc",
+    "original": "体力が25%未満なら、体力最大値の40%分回復(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が25%未満なら、体力最大値の40%分回復(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 25%미만이면 전체 체력의 40%까지 회복 (최대 1회)\nEN:\nAt less than 25% HP, heal up to 40% of Max HP (One-time only)"
+  },
+  {
+    "key": "9006803-name",
+    "original": "緊急アンプル過負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緊急アンプル過負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n긴급 앰플 과부하\nEN:\nEmergency Ampule Overdose"
+  },
+  {
+    "key": "9006803-desc",
+    "original": "体力が1以下にならない。\nターン開始時に体力が60以下なら、強化状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が1以下にならない。\nターン開始時に体力が60以下なら、強化状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 1 이하로 떨어지지 않음.\n턴 시작 시 체력이 60 이하라면, 강화 상태가 된다.\nEN:\nHP does not drop below 1;\nIf at 60- HP at the start of the turn, enter a powered-up state."
+  }
+]

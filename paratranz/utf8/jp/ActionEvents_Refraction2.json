@@ -1,0 +1,44 @@
+[
+  {
+    "key": "855601-name",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
+  },
+  {
+    "key": "855601-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\nUNUSED TEXT"
+  },
+  {
+    "key": "855601-desc",
+    "original": "「君が望むものは何だ？」\n\n気が付くと、その表示板は囚人たちに話しかけていた。\n\n「君の望みが鮮明になってやっと、花は開くことができるんだ。」\n\n「罪が濃くなるほどに、花びらも鮮やかに染まるのさ。」\n\n「分かったか？罪というものを知りながらも願い、そして願ってこそ薔薇は咲くんだよ。色とりどりの、薔薇が。」\n\n「薔薇を咲かさねばならないだろう。庭園を出たいだろう？」\n\n「私たちが、私が手伝ってあげよう。」\n\n「私たちは庭園が花でいっぱいになることを望んでいるだけだ。」\n\n「さあ、どうしたいんだ？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「君が望むものは何だ？」\n\n気が付くと、その表示板は囚人たちに話しかけていた。\n\n「君の望みが鮮明になってやっと、花は開くことができるんだ。」\n\n「罪が濃くなるほどに、花びらも鮮やかに染まるのさ。」\n\n「分かったか？罪というものを知りながらも願い、そして願ってこそ薔薇は咲くんだよ。色とりどりの、薔薇が。」\n\n「薔薇を咲かさねばならないだろう。庭園を出たいだろう？」\n\n「私たちが、私が手伝ってあげよう。」\n\n「私たちは庭園が花でいっぱいになることを望んでいるだけだ。」\n\n「さあ、どうしたいんだ？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"네가 바라는 건 무엇이니?\"\n\n정신을 차리고 보면, 그 표지판은 수감자들에게 말을 걸고 있어.\n\n\"너의 바람이 선명해야만 꽃이 피어날 수 있단다.\"\n\n\"죄가 짙을 수록 꽃잎 또한 선명하게 물이 들지.\"\n\n\"알겠니? 죄라는 걸 알면서도 바라고 또 바래야 장미를 틔울 수 있단다. 알록달록한, 장미를.\"\n\n\"장미를 틔워야 할 거야. 정원을 나가고 싶잖니?\"\n\n\"우리가, 내가 도와줄게.\"\n\n\"우리는 정원에 꽃이 가득하길 바랄 뿐이야.\"\n\n\"자, 어떻게 하고 싶니?\"\nEN:\n\"What do you wish for?\"\n\nThe Sign asks the sinners.\n\n\"A rose can bloom only when you clearly wish for something.\"\n\n\"The heavier your sins, the deeper the color of petals will be.\n\n\"See? Wish, wish for it. Knowing that it is a sin. Only then can you bloom such colorful roses.\"\n\n\"You have to bloom the roses. You want to escape this garden, don't you?\"\n\n\"Let us... let me help you.\"\n\n\"Our only wish is that our garden will bloom full of flowers.\"\n\n\"Now, what will you do?\""
+  },
+  {
+    "key": "855601-options[0].message",
+    "original": "提案を拒否する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提案を拒否する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제안을 거부한다.\nEN:\nRefuse."
+  },
+  {
+    "key": "855601-options[0].result[0]",
+    "original": "「愚かだな。」\n\n「望むものがないだって？そんなのは偽善だ。」\n\n「お前の種たちは…それほどにまで鮮明なのに、花にしないというのは合理的ではない。」\n\n「まぁ…どうしようもないか。」\n\n「望むものがないなら、永遠に留まるだけだ。」\n\n「認めずには、何もできないということを悟るまで。」\n\n「私たちと、私と共にいよう。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「愚かだな。」\n\n「望むものがないだって？そんなのは偽善だ。」\n\n「お前の種たちは…それほどにまで鮮明なのに、花にしないというのは合理的ではない。」\n\n「まぁ…どうしようもないか。」\n\n「望むものがないなら、永遠に留まるだけだ。」\n\n「認めずには、何もできないということを悟るまで。」\n\n「私たちと、私と共にいよう。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"멍청하구나.\"\n\n\"바라는 게 없다는 거니? 그런건 위선이야.\"\n\n\"네 씨앗들은… 그렇게 선명한데, 꽃으로 만들지 않는다는 건 합리적이지 않아.\"\n\n\"뭐… 어쩔 수 없지.\"\n\n\"바라는 것이 없다면, 영원히 머물 뿐이야.\"\n\n\"인정하지 않고선 아무 것도 할 수 없는 걸 깨달을 때 까지.\"\n\n\"우리랑, 나랑 함께하자.\"\nEN:\n\"Foolish.\"\n\n\"Everyone has wishes. To deny them is to deny yourself.\"\n\n\"I can see how… vivid your seeds are. To not allow them to bloom isn't fair.\"\n\n\"Well… That's too bad.\"\n\n\"If you have no wishes, then remain here forevermore.\"\n\n\"Until you realize that there is no moving on without acceptance.\"\n\n\"Be with us. With me.\""
+  },
+  {
+    "key": "855601-options[1].message",
+    "original": "提案を受け入れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提案を受け入れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제안을 받아들인다.\nEN:\nAccept."
+  }
+]

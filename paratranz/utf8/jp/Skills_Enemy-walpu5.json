@@ -1,0 +1,338 @@
+[
+  {
+    "key": "9017801-levelList[0].name",
+    "original": "歯車の導くままに\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "歯車の導くままに\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n톱니가 이끄는 대로\nEN:\nGuidance of the Gears"
+  },
+  {
+    "key": "9017801-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 2 얻음\nEN:\n[WhenUse] Gain 2 [Smoke]"
+  },
+  {
+    "key": "9017801-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Smoke] 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 [Smoke] Count"
+  },
+  {
+    "key": "9017802-levelList[0].name",
+    "original": "肉の歯車: 止まる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉の歯車: 止まる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고기 톱니: 멈추기\nEN:\nMeat Gear: Stop"
+  },
+  {
+    "key": "9017802-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]4を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]4を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 4 얻음, 자신의 [Smoke] 횟수 2 증가\nEN:\n[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count"
+  },
+  {
+    "key": "9017802-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Smoke]"
+  },
+  {
+    "key": "9017802-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Paralysis] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn"
+  },
+  {
+    "key": "9017802-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Smoke]"
+  },
+  {
+    "key": "9017802-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Paralysis] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn"
+  },
+  {
+    "key": "9017803-levelList[0].name",
+    "original": "蒸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蒸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증기\nEN:\nVapour"
+  },
+  {
+    "key": "9017803-levelList[0].desc",
+    "original": "対象の[Smoke]3につき、マッチ威力 +1(最大2)\n自分の[Smoke]3につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +2\n[EndSkill] 自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Smoke]3につき、マッチ威力 +1(最大2)\n自分の[Smoke]3につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +2\n[EndSkill] 自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Smoke] 3당, 합 위력 +1 (최대 2)\n자신의 [Smoke] 3당, 피해량 +10% (최대 20%)\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +2\n[EndSkill] 자신의 [Smoke] 전부 소모\nEN:\nClash Power +1 for every 3 [Smoke] on the target (max 2)\nDeal +10% damage for every 3 [Smoke] on self (max 20%)\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self"
+  },
+  {
+    "key": "9017803-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Smoke]"
+  },
+  {
+    "key": "9017803-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Smoke]3につき、コインを再使用(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Smoke]3につき、コインを再使用(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Smoke] 3 당, 코인 재사용 (최대 3회 발동)\nEN:\n[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)"
+  },
+  {
+    "key": "9017804-levelList[0].name",
+    "original": "回避命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피 명령\nEN:\nEvade Order"
+  },
+  {
+    "key": "9017804-levelList[0].desc",
+    "original": "[OnSucceedEvade] [Smoke]3を得る、[Smoke]回数が1増加\n[OnSucceedEvade] 自分の[Smoke]が10なら、次のターンに[ParryingResultUp]1, [Protection]3を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] [Smoke]3を得る、[Smoke]回数が1増加\n[OnSucceedEvade] 自分の[Smoke]が10なら、次のターンに[ParryingResultUp]1, [Protection]3を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedEvade] [Smoke] 3 얻음, [Smoke] 횟수 1 증가\n[OnSucceedEvade] 자신의 [Smoke]가 10이면, 다음 턴에 [ParryingResultUp] 1, [Protection] 3 얻음 (턴 당 1회)\nEN:\n[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)"
+  },
+  {
+    "key": "9017901-levelList[0].name",
+    "original": "歯車に従い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "歯車に従い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n톱니를 따라\nEN:\nGuided by Gears"
+  },
+  {
+    "key": "9017901-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 2 얻음.\nEN:\n[WhenUse] Gain 2 [Smoke]"
+  },
+  {
+    "key": "9017901-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Smoke] 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 [Smoke] Count"
+  },
+  {
+    "key": "9017902-levelList[0].name",
+    "original": "肉の歯車: 締め上げる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉の歯車: 締め上げる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고기 톱니: 부여잡기\nEN:\nMeat Gear: Grapple"
+  },
+  {
+    "key": "9017902-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]4を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]4を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 4 얻음, 자신의 [Smoke] 횟수 2 증가\nEN:\n[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count"
+  },
+  {
+    "key": "9017902-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Smoke] Count"
+  },
+  {
+    "key": "9017902-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "9017902-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Smoke] Count"
+  },
+  {
+    "key": "9017902-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "9017903-levelList[0].name",
+    "original": "奇襲命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇襲命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기습 명령\nEN:\nAssault Order"
+  },
+  {
+    "key": "9017903-levelList[0].desc",
+    "original": "対象の[Smoke]3につき、マッチ威力 +1(最大2)\n自分の[Smoke]3につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +2\n[EndSkill] 自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Smoke]3につき、マッチ威力 +1(最大2)\n自分の[Smoke]3につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +2\n[EndSkill] 自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Smoke] 3당, 합 위력 +1 (최대 2)\n자신의 [Smoke] 3당, 피해량 +10% (최대 20%)\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +2\n[EndSkill] 자신의 [Smoke] 전부 소모\nEN:\nClash Power +1 for every 3 [Smoke] on the target (max 2)\nDeal +10% damage for every 3 [Smoke] on self (max 20%)\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self"
+  },
+  {
+    "key": "9017903-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Smoke] Count"
+  },
+  {
+    "key": "9017903-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Smoke]3につき、コインを再使用(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Smoke]3につき、コインを再使用(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Smoke] 3 당, 코인 재사용 (최대 3회 발동)\nEN:\n[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)"
+  },
+  {
+    "key": "9017904-levelList[0].name",
+    "original": "回避命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피 명령\nEN:\nEvade Order"
+  },
+  {
+    "key": "9017904-levelList[0].desc",
+    "original": "[OnSucceedEvade] [Smoke]3を得る、[Smoke]回数が1増加\n[OnSucceedEvade] 自分の[Smoke]が10なら、次のターンに[ParryingResultUp]1, [Protection]3を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] [Smoke]3を得る、[Smoke]回数が1増加\n[OnSucceedEvade] 自分の[Smoke]が10なら、次のターンに[ParryingResultUp]1, [Protection]3を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedEvade] [Smoke] 3 얻음, [Smoke] 횟수 1 증가\n[OnSucceedEvade] 자신의 [Smoke]가 10이면, 다음 턴에 [ParryingResultUp] 1, [Protection] 3 얻음 (턴 당 1회)\nEN:\n[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)"
+  },
+  {
+    "key": "9018001-levelList[0].name",
+    "original": "肉の歯車: 命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉の歯車: 命令\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고기 톱니: 명령\nEN:\nMeat Gear: Command"
+  },
+  {
+    "key": "9018001-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]3を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]3を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 3 얻음, 자신의 [Smoke] 횟수 2 증가\nEN:\n[WhenUse] Gain 3 [Smoke] and +2 [Smoke] Count"
+  },
+  {
+    "key": "9018001-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]3を付与、[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]3を付与、[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 3 부여, [Smoke] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 3 [Smoke] and +2 [Smoke] Count"
+  },
+  {
+    "key": "9018002-levelList[0].name",
+    "original": "考えの歯車: 受給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えの歯車: 受給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각 톱니: 수급\nEN:\nThought Gear: Collect"
+  },
+  {
+    "key": "9018002-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]4を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]4を得る、自分の[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 4 얻음, 자신의 [Smoke] 횟수 2 증가\nEN:\n[WhenUse] Gain 4 [Smoke] and +2 [Smoke] Count"
+  },
+  {
+    "key": "9018002-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]4を付与、[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]4を付与、[Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 4 부여, [Smoke] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 4 [Smoke] and +2 [Smoke] Count"
+  },
+  {
+    "key": "9018002-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Paralysis] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Paralysis] next turn"
+  },
+  {
+    "key": "9018003-levelList[0].name",
+    "original": "肉の歯車: 制限\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉の歯車: 制限\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고기 톱니: 제한\nEN:\nMeat Gear: Restrict"
+  },
+  {
+    "key": "9018003-levelList[0].desc",
+    "original": "対象の[Smoke]3につき、マッチ威力 +1\n自分の[Smoke]3につき、ダメージ量 +10%\nこのスキルにてコイン再使用時、自分の[Smoke]を3消耗\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Smoke]3につき、マッチ威力 +1\n自分の[Smoke]3につき、ダメージ量 +10%\nこのスキルにてコイン再使用時、自分の[Smoke]を3消耗\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Smoke] 3당, 코인 위력 +1\n자신의 [Smoke] 3당, 피해량 +10%\n이 스킬에서 코인 재사용 시 자신의 [Smoke] 3 소모\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +1\nEN:\nCoin Power +1 for every 3 [Smoke] on the target\nDeal +10% damage for every 3 [Smoke] on self\nConsume 3 [Smoke] on self every time this Skill Reuses Coin\n[WhenUse] At 10 [Smoke], Coin Power +1"
+  },
+  {
+    "key": "9018003-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Smoke] Count"
+  },
+  {
+    "key": "9018003-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Smoke]5につき、コインを再使用(最大2回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Smoke]5につき、コインを再使用(最大2回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Smoke] 5 당, 코인 재사용 (최대 2회 발동)\nEN:\n[OnSucceedAttack] Reuse Coin for every 5 [Smoke] on the target (2 times max)"
+  },
+  {
+    "key": "9018004-levelList[0].name",
+    "original": "考えの歯車: 解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えの歯車: 解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각 톱니: 해제\nEN:\nThought Gear: Remove"
+  },
+  {
+    "key": "9018004-levelList[0].desc",
+    "original": "対象の[Smoke]3につき、マッチ威力 +1\n自分の[Smoke]3につき、ダメージ量 +20%\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +2\n[EndSkill] 自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Smoke]3につき、マッチ威力 +1\n自分の[Smoke]3につき、ダメージ量 +20%\n[WhenUse] 自分の[Smoke]が10なら、コイン威力 +2\n[EndSkill] 自分の[Smoke]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Smoke] 3당, 합 위력 +1\n자신의 [Smoke] 3당, 피해량 +20%\n[WhenUse] 자신의 [Smoke]가 10이면, 코인 위력 +2\n[EndSkill] 자신의 [Smoke] 전부 소모\nEN:\nClash Power +1 for every 3 [Smoke] on the target\nDeal +20% damage for every 3 [Smoke] on self\n[WhenUse] At 10 [Smoke], Coin Power +2\n[EndSkill] Consume all [Smoke] on self"
+  },
+  {
+    "key": "9018004-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Smoke]"
+  },
+  {
+    "key": "9018004-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Smoke]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Smoke] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Smoke] Count"
+  },
+  {
+    "key": "9018004-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Smoke]3につき、コインを再使用(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Smoke]3につき、コインを再使用(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Smoke] 3 당, 코인 재사용 (최대 3회 발동)\nEN:\n[OnSucceedAttack] Reuse Coin for every 3 [Smoke] on the target (3 times max)"
+  },
+  {
+    "key": "9018005-levelList[0].name",
+    "original": "考えの歯車: 蒸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えの歯車: 蒸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각 톱니: 증기\nEN:\nThought Gear: Vapour"
+  },
+  {
+    "key": "9018005-levelList[0].desc",
+    "original": "[WhenUse] [Smoke]5を得る、[Smoke]回数が2増加\n[WhenUse] 自分の[Smoke]が10なら、次のターンに[PlusCoinValueUp]2, [Protection]3を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Smoke]5を得る、[Smoke]回数が2増加\n[WhenUse] 自分の[Smoke]が10なら、次のターンに[PlusCoinValueUp]2, [Protection]3を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Smoke] 5 얻음, [Smoke] 횟수 2 증가\n[WhenUse] 자신의 [Smoke]가 10이면, 다음 턴에 [PlusCoinValueUp] 2, [Protection] 3 얻음 (턴 당 1회)\nEN:\n[WhenUse] Gain 5 [Smoke] and +2 [Smoke] Count\n[WhenUse] At 10 [Smoke], gain 2 [PlusCoinValueUp] and 3 [Protection] next turn (once per turn)"
+  }
+]

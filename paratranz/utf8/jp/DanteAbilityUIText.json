@@ -1,0 +1,79 @@
+[
+  {
+    "key": "danteAbility_UIPopup_Title-content",
+    "original": "能力:光の苗木選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "能力:光の苗木選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛의 묘목 능력 선택\nEN:\nSelect Sapling of Light Ability"
+  },
+  {
+    "key": "danteAbility_UIPopup_Remain-content",
+    "original": "残り回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남은 횟수\nEN:\nRemaining Activations"
+  },
+  {
+    "key": "dnateAbiltiy_Unlock_GoldenBranch_Resonance-content",
+    "original": "黄金の枝 共鳴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黄金の枝 共鳴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금가지 공명\nEN:\nGolden Bough Resonance"
+  },
+  {
+    "key": "tutorial_battle_danteAbility_title-content",
+    "original": "能力:光の苗木\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "能力:光の苗木\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛의 묘목 능력\nEN:\nSapling of Light Ability"
+  },
+  {
+    "key": "tutorial_battle_danteAbility_01_desc_01-content",
+    "original": "右上段の能力:光の苗木ボタンをクリックします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "右上段の能力:光の苗木ボタンをクリックします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우측 상단의 빛의 묘목 능력 버튼을 클릭합니다.\nEN:\nSelect the Sapling of Light ability button on the top right."
+  },
+  {
+    "key": "tutorial_battle_danteAbility_02_desc_01-content",
+    "original": "使用する能力を選択します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用する能力を選択します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용할 능력을 선택합니다.\nEN:\nSelect the ability to use."
+  },
+  {
+    "key": "tutorial_battle_danteAbility_03_desc_01-content",
+    "original": "確認ボタンを押すと、能力:光の苗木が発動します。\n光の苗木は規定回数だけ使用できます。\n使用回数は一日ごとに初期化されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "確認ボタンを押すと、能力:光の苗木が発動します。\n光の苗木は規定回数だけ使用できます。\n使用回数は一日ごとに初期化されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n확인 버튼을 누르면 빛의 묘목 능력이 발동됩니다.\n빛의 묘목은 사용 횟수만큼 사용할 수 있습니다.\n사용 횟수는 하루마다 초기화됩니다.\nEN:\nPress the confirmation button to activate the Sapling of Light ability.\nSapling of Light can be used as long as there are remaining Activations.\nRemaining Activations are reset every day."
+  },
+  {
+    "key": "ui_activated-content",
+    "original": "発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n발동\nEN:\nActivate"
+  },
+  {
+    "key": "IsUnavailableDanteAbility_TitleText-content",
+    "original": "使用できない光の苗木の能力です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用できない光の苗木の能力です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용할 수 없는 빛의 묘목 능력입니다.\nEN:\nCannot use this Sapling of Light ability."
+  },
+  {
+    "key": "IsUnavailableDanteAbility_DescText_IsActivatedAbility-content",
+    "original": "今日既に使用された光の苗木の能力です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今日既に使用された光の苗木の能力です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오늘 이미 사용된 빛의 묘목 능력입니다.\nEN:\nAlready used this Sapling of Light ability today."
+  },
+  {
+    "key": "IsUnavailableDanteAbility_DescText_RemainingCountIsZero-content",
+    "original": "今日の残り回数が0です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今日の残り回数が0です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오늘 더 이상 남은 횟수가 없습니다.\nEN:\nNo remaining activations for today."
+  }
+]

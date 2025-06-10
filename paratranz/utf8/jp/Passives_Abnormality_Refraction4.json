@@ -1,0 +1,408 @@
+[
+  {
+    "key": "860501-name",
+    "original": "肖像画残像視認\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肖像画残像視認\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초상화 잔상 목도\nEN:\nPortrait Afterimage Sighting"
+  },
+  {
+    "key": "860501-desc",
+    "original": "ご主人様の肖像画と繋がったスロットなら、肖像画の色と同じ色の波長が発生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ご主人様の肖像画と繋がったスロットなら、肖像画の色と同じ色の波長が発生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주인님의 초상화와 연결된 슬롯일 경우, 초상화의 색상과 같은 색의 파장이 일어남\nEN:\nIf a Skill Slot is attached to the Master's Portrait, a shockwave in the same color as the aura around the Master's Portrait occurs when the Portrait is revealed"
+  },
+  {
+    "key": "860502-name",
+    "original": "招かざる客の排除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客の排除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객 쫓기\nEN:\nThrowing Out the Interloper"
+  },
+  {
+    "key": "860502-desc",
+    "original": "肖像画があるとき\n- ターン終了時に肖像画が出現して3ターンが経過したなら、\n- [UninvitedGuest]が無い編成順が最も速い敵に[UninvitedGuest]を付与\n- 全肖像画を燃やす。燃やした偽物の肖像画の2倍だけ全ての敵へ[Sinking]付与、[Sinking]回数増加。次のターンに[AttackUp], [Protection]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肖像画があるとき\n- ターン終了時に肖像画が出現して3ターンが経過したなら、\n- [UninvitedGuest]が無い編成順が最も速い敵に[UninvitedGuest]を付与\n- 全肖像画を燃やす。燃やした偽物の肖像画の2倍だけ全ての敵へ[Sinking]付与、[Sinking]回数増加。次のターンに[AttackUp], [Protection]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초상화가 있을 때\n- 턴 종료시 초상화가 등장한지 3턴이 지났다면,\n- [UninvitedGuest]이 없는 편성 순서가 가장 빠른 적에게 [UninvitedGuest] 부여\n- 모든 초상화를 불태움. 불태운 가짜 초상화의 2배만큼 모든 적에게 [Sinking] 부여, [Sinking] 횟수 증가. 다음 턴에 [AttackUp], [Protection]를 얻음\nEN:\nWhen the Portraits are present:\n- Turn End: Once 3 turns have passed since the Portraits have appeared...\n     - Inflict [UninvitedGuest] to the earliest-Deployed enemy without [UninvitedGuest]\n     - Incinerate all Portraits. Inflict double the amount of fake Portraits burned as [Sinking] Potency and Count against all enemies. Gain [AttackUp] and [Protection] next turn"
+  },
+  {
+    "key": "860503-name",
+    "original": "招かざる客を狩る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客を狩る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객 사냥\nEN:\nInterloper Hunt"
+  },
+  {
+    "key": "860503-desc",
+    "original": "対象に[UninvitedGuest]がある場合、マッチ威力 +1, 与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[UninvitedGuest]がある場合、マッチ威力 +1, 与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 [UninvitedGuest]이 있을 경우, 합 위력 +1, 피해량 +20%\nEN:\nIf the target has [UninvitedGuest], Clash Power +1 and deal +20% damage"
+  },
+  {
+    "key": "860507-name",
+    "original": "あぁご主人様…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁご主人様…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아아 주인님…\nEN:\nOoh, Dear Master..."
+  },
+  {
+    "key": "860507-desc",
+    "original": "肖像画があるとき、属性及び攻撃タイプ耐性が0.5ずつ減少および[Protection]8を得る。\n敵がご主人様の肖像画を倒したなら[UninvitedGuest]を付与、次のターンの間、自分の物理耐性が0.5上昇し、脆弱5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肖像画があるとき、属性及び攻撃タイプ耐性が0.5ずつ減少および[Protection]8を得る。\n敵がご主人様の肖像画を倒したなら[UninvitedGuest]を付与、次のターンの間、自分の物理耐性が0.5上昇し、脆弱5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초상화가 있을 때, 속성 및 공격 유형 내성이 0.5씩 감소 및 [Protection] 8을 얻음.\n적이 주인님의 초상화를 처치했다면, [UninvitedGuest]을 부여, 다음 턴동안 자신의 물리 내성이 0.5 상승하고 취약 5 얻음.\nEN:\nWhen the Portraits are present, reduce Affinity & Attack Type Resistances by 0.5, and gain 8 [Protection].\nIf the enemies defeated the Master's Portrait, inflict [UninvitedGuest] to the unit that defeated it; then gain 0.5 Phys. Resistances and 5 Fragile for the next turn."
+  },
+  {
+    "key": "860505-name",
+    "original": "あなたも招かざる客の一味ですね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あなたも招かざる客の一味ですね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n당신도 불청객의 식구군요?\nEN:\nYou Must Be the Interloper's Family?"
+  },
+  {
+    "key": "860505-desc",
+    "original": "[UninvitedGuest]を保有している敵が生じたら、自分の体力が10%失われるたびに[UninvitedGuest]がない敵に[UninvitedGuest]1を付与(最大4人)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UninvitedGuest]を保有している敵が生じたら、自分の体力が10%失われるたびに[UninvitedGuest]がない敵に[UninvitedGuest]1を付与(最大4人)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UninvitedGuest]을 소유한 적이 생기면, 자신의 체력이 10% 떨어질 때마다 [UninvitedGuest]이 없는 적에게 [UninvitedGuest] 1 부여 (최대 4명)\nEN:\nWhen an enemy has [UninvitedGuest], inflict [UninvitedGuest] against an enemy without [UninvitedGuest] every time this unit loses 10% of its HP (max 4 enemies)"
+  },
+  {
+    "key": "860601-name",
+    "original": "追ってくる眼差し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "追ってくる眼差し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n따라오는 눈길\nEN:\nPeering Gaze"
+  },
+  {
+    "key": "860601-desc",
+    "original": "存在する間、全ての敵へ[Sinking]1を付与, [Sinking]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "存在する間、全ての敵へ[Sinking]1を付与, [Sinking]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n존재하는 동안 모든 적에게 [Sinking] 1 부여, [Sinking] 횟수 1 증가\nEN:\nAs long as this unit exists, inflict 1 [Sinking] Potency and Count every turn"
+  },
+  {
+    "key": "860602-name",
+    "original": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객\nEN:\nInterloper"
+  },
+  {
+    "key": "860602-desc",
+    "original": "自分が死ぬとき、最後に自分を攻撃した対象に[UninvitedGuest]を付与\n- 4名以上の敵が[UninvitedGuest]を保有しているなら付与しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分が死ぬとき、最後に自分を攻撃した対象に[UninvitedGuest]を付与\n- 4名以上の敵が[UninvitedGuest]を保有しているなら付与しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신이 죽을 때, 마지막으로 자신을 공격했던 대상에게 [UninvitedGuest] 부여\n- 4명 이상의 적이 [UninvitedGuest]을 가지고 있다면 부여하지 않음\nEN:\nWhen this unit is defeated, inflict [UninvitedGuest] against the enemy that attacked this unit last\n- If 4+ enemies have [UninvitedGuest], this effect does not activate"
+  },
+  {
+    "key": "860701-name",
+    "original": "追ってくる眼差し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "追ってくる眼差し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n따라오는 눈길\nEN:\nPeering Gaze"
+  },
+  {
+    "key": "860701-desc",
+    "original": "存在する間、全ての敵へ[Sinking]1を付与, [Sinking]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "存在する間、全ての敵へ[Sinking]1を付与, [Sinking]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n존재하는 동안 모든 적에게 [Sinking] 1 부여, [Sinking] 횟수 1 증가\nEN:\nAs long as this unit exists, inflict 1 [Sinking] Potency and Count every turn"
+  },
+  {
+    "key": "860702-name",
+    "original": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객\nEN:\nInterloper"
+  },
+  {
+    "key": "860702-desc",
+    "original": "自分が死ぬとき、最後に自分を攻撃した対象に[UninvitedGuest]を付与\n- 4名以上の敵が[UninvitedGuest]を保有しているなら付与しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分が死ぬとき、最後に自分を攻撃した対象に[UninvitedGuest]を付与\n- 4名以上の敵が[UninvitedGuest]を保有しているなら付与しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신이 죽을 때, 마지막으로 자신을 공격했던 대상에게 [UninvitedGuest] 부여\n- 4명 이상의 적이 [UninvitedGuest]을 가지고 있다면 부여하지 않음\nEN:\nWhen this unit is defeated, inflict [UninvitedGuest] against the enemy that attacked this unit last\n- If 4+ enemies have [UninvitedGuest], this effect does not activate"
+  },
+  {
+    "key": "860801-name",
+    "original": "見覚えのあるプラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "見覚えのあるプラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낯설지 않은 플러그\nEN:\nA Familiar Connector"
+  },
+  {
+    "key": "860801-desc",
+    "original": "[ConnectedPlug]1につき速度の最小値が1増加、[Vulnerable]1, [AttackDmgUp]1を得る\n[ConnectedPlug]が3になった次のターンに混乱状態になったら[Vulnerable]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ConnectedPlug]1につき速度の最小値が1増加、[Vulnerable]1, [AttackDmgUp]1を得る\n[ConnectedPlug]が3になった次のターンに混乱状態になったら[Vulnerable]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ConnectedPlug]당 속도 최소값 1증가, [Vulnerable] 1, [AttackDmgUp] 1을 얻음\n[ConnectedPlug]가 3이 되어 다음 턴에 흐트러짐 상태가 된다면 [Vulnerable] 4를 얻음\nEN:\nFor every [ConnectedPlug], gain 1 Min. Speed value, 1 [Vulnerable], and 1 [AttackDmgUp]\nWhen this unit is Staggered next turn due to having 3 [ConnectedPlug], gain 4 [Vulnerable]"
+  },
+  {
+    "key": "860802-name",
+    "original": "過電流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過電流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n과전류\nEN:\nOvercurrent"
+  },
+  {
+    "key": "860802-desc",
+    "original": "ターン終了時、自分の[Charge]回数10回につき次のターンにて[VioletDamageUp]1を得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、自分の[Charge]回数10回につき次のターンにて[VioletDamageUp]1を得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 자신의 [Charge] 횟수 10당 다음 턴에 [VioletDamageUp] 1 얻음 (최대 2)\nEN:\nTurn End: For every 10 [Charge] Count on self, gain 1 [VioletDamageUp] next turn (max 2)"
+  },
+  {
+    "key": "860803-name",
+    "original": "逃れたい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "逃れたい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n벗어나고 싶은\nEN:\nWant to be Free"
+  },
+  {
+    "key": "860803-desc",
+    "original": "全体力の25%だけ残ったとき、次のターンからターンが経過するたびに\n- [ParryingResultUp]を1ずつ追加で得る\n- [AttackDmgUp]を1ずつ追加で得る\n- [Vulnerable]を1ずつ追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全体力の25%だけ残ったとき、次のターンからターンが経過するたびに\n- [ParryingResultUp]を1ずつ追加で得る\n- [AttackDmgUp]を1ずつ追加で得る\n- [Vulnerable]を1ずつ追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전체 체력의 25%만큼 남았을 때, 다음 턴부터 턴이 지날때마다\n- [ParryingResultUp] 1씩 추가로 얻음\n- [AttackDmgUp] 1씩 추가로 얻음\n- [Vulnerable] 1씩 추가로 얻음\nEN:\nAt 25% HP, starting this turn, gain 1 of the following every turn. The values are cumulative and do not expire.\n- Gain 1 [ParryingResultUp]\n- Gain 1 [AttackDmgUp]\n- Gain 1 [Vulnerable]"
+  },
+  {
+    "key": "860804-name",
+    "original": "発電機\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "発電機\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n발전기\nEN:\nGenerator"
+  },
+  {
+    "key": "860804-desc",
+    "original": "ターン終了時、自分に[ConnectedPlug]と[ThundercloudFormation]がない場合は、次のターンに発電機を1回召喚する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、自分に[ConnectedPlug]と[ThundercloudFormation]がない場合は、次のターンに発電機を1回召喚する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 자신에게 [ConnectedPlug]와 [ThundercloudFormation]이 없다면, 다음 턴에 발전기를 한 번 소환함.\nEN:\nTurn End: If this unit does not have [ConnectedPlug] and [ThundercloudFormation], summon a Generator once next turn."
+  },
+  {
+    "key": "862801-name",
+    "original": "電雲集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "電雲集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전운집\nEN:\nGathering Lightning Cloud"
+  },
+  {
+    "key": "862801-desc",
+    "original": "ターン終了時、電気羊に次のターンにて[ThundercloudFormation]4を付与。\n既にあるなら付与しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、電気羊に次のターンにて[ThundercloudFormation]4を付与。\n既にあるなら付与しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 전기양에게 다음 턴에 [ThundercloudFormation] 4 부여.\n이미 있다면, 부여하지 않음.\nEN:\nTurn End: Apply 4 [ThundercloudFormation] to the Dreaming Electric Sheep next turn.\nDoes not apply more of this effect if it already has this effect."
+  },
+  {
+    "key": "862802-name",
+    "original": "外された対羊電接地プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "外された対羊電接地プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n떼어내진 대양전 접지 플러그\nEN:\nDetached Anti-Ovine Grounding Plug"
+  },
+  {
+    "key": "862802-desc",
+    "original": "被ダメージ時、攻撃者に次のターンにて[AntiSheepGround]1を付与(ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時、攻撃者に次のターンにて[AntiSheepGround]1を付与(ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시, 공격자에게 다음 턴에 [AntiSheepGround] 1 부여 (턴 당 1회)\nEN:\nWhen hit, inflict 1 [AntiSheepGround] to the Attacker (once per turn)"
+  },
+  {
+    "key": "862803-name",
+    "original": "安全第一プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "安全第一プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안전 제일 플러그\nEN:\nSafety Plug"
+  },
+  {
+    "key": "862803-desc",
+    "original": "全被ダメージが0になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全被ダメージが0になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 모든 피해가 0이 됨\nEN:\nReduces all damage taken to 0"
+  },
+  {
+    "key": "862901-name",
+    "original": "宴会の序幕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "宴会の序幕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연회의 서막\nEN:\nPrelude of the Banquet"
+  },
+  {
+    "key": "862901-desc",
+    "original": "2ターン目の開始時に縛られた王の下手人を召喚する。\n縛られた王の下手人は死亡時に別の下手人に入れ替わり、計12名の下手人が召喚される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2ターン目の開始時に縛られた王の下手人を召喚する。\n縛られた王の下手人は死亡時に別の下手人に入れ替わり、計12名の下手人が召喚される。\n<CMT_KR>오역 의심: \"下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_EN>Possible mistranslation: \"下手人\" Details: \"The Japanese term '下手人' differs from the Korean '하수인' in that it is only used to refer to a 'murderer' or 'perpetrator of a crime. Therefore, translations like '手先' or '手下' would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
+    "stage": 1,
+    "context": "KR:\n2턴 시작 시 묶인 왕의 하수인을 소환한다.\n묶인 왕의 하수인은 사망 시 또 다른 하수인으로 대체되며, 총 12명의 하수인이 소환된다.\nEN:\nTurn 2 Start: Summon the retinue of the King in Binds.\nThe King has twelve retainers. Upon the death of a retainer, another will fill its place until there are none."
+  },
+  {
+    "key": "862902-name",
+    "original": "宴会の終わり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "宴会の終わり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연회의 끝\nEN:\nClosing of the Banquet"
+  },
+  {
+    "key": "862902-desc",
+    "original": "下手人が全て死亡したなら、戦闘に自ら参加する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "下手人が全て死亡したなら、戦闘に自ら参加する。\n<CMT_KR>오역 의심: \"下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_EN>Possible mistranslation: \"下手人\" Details: \"The Japanese term '下手人' differs from the Korean '하수인' in that it is only used to refer to a 'murderer' or 'perpetrator of a crime. Therefore, translations like '手先' or '手下' would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
+    "stage": 1,
+    "context": "KR:\n하수인이 모두 사망하면, 전투에 직접 참여한다.\nEN:\nWhen all retainers are defeated, the King joins the fight."
+  },
+  {
+    "key": "862903-name",
+    "original": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나오면 안되는 텍스트\nEN:\nNOTHING TO SEE HERE"
+  },
+  {
+    "key": "862903-desc",
+    "original": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나오면 안되는 텍스트\nEN:\nNOTHING TO SEE HERE"
+  },
+  {
+    "key": "862904-name",
+    "original": "断たれる包帯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "断たれる包帯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끊어지는 붕대\nEN:\nSnapping Bandages"
+  },
+  {
+    "key": "862904-desc",
+    "original": "胴体部位を破壊時、全ての敵に[BandageOfTheBoundKing]を付与する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "胴体部位を破壊時、全ての敵に[BandageOfTheBoundKing]を付与する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸통 부위 파괴 시 모든 적에게 [BandageOfTheBoundKing]를 부여한다.\nEN:\nWhen the Body Part is destroyed, apply [BandageOfTheBoundKing] on all enemies."
+  },
+  {
+    "key": "828001-name",
+    "original": "縛られた王の下手人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王の下手人\n<CMT_KR>오역 의심: \"縛られた王の下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_EN>Possible mistranslation: \"縛られた王の下手人\" Details: \"The Japanese term '下手人' differs from the Korean '하수인' in that it is only used to refer to a 'murderer' or 'perpetrator of a crime. Therefore, translations like '手先' or '手下' would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"縛られた王の下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
+    "stage": 1,
+    "context": "KR:\n묶인 왕의 하수인\nEN:\nRetainer of the King in Binds"
+  },
+  {
+    "key": "828001-desc",
+    "original": "今回の戦闘の間、[BandageOfTheBoundKing]、[BigWelcome]を得る。\n毎ターン開始時に縛られた王がこのキャラクターに加護を与える。\n縛られた王の加護はターンごとに[Enhancement]を付与、精神力回復、体力回復の順に変わる。生存した縛られた王の下手人(嫉妬大罪)の数が6名未満であれば、付与される加護が強化される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回の戦闘の間、[BandageOfTheBoundKing]、[BigWelcome]を得る。\n毎ターン開始時に縛られた王がこのキャラクターに加護を与える。\n縛られた王の加護はターンごとに[Enhancement]を付与、精神力回復、体力回復の順に変わる。生存した縛られた王の下手人(嫉妬大罪)の数が6名未満であれば、付与される加護が強化される。\n<CMT_KR>오역 의심: \"下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_EN>Possible mistranslation: \"下手人\" Details: \"The Japanese term '下手人' differs from the Korean '하수인' in that it is only used to refer to a 'murderer' or 'perpetrator of a crime. Therefore, translations like '手先' or '手下' would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
+    "stage": 1,
+    "context": "KR:\n이번 전투동안 [BandageOfTheBoundKing], [BigWelcome]를 얻음.\n매 턴 시작 시 묶인 왕이 이 캐릭터에게 가호를 부여함.\n묶인 왕의 가호는 턴마다 [Enhancement]를 부여, 정신력 회복, 체력 회복 순으로 달라짐. 생존한 묶인 왕의 하수인(질투 죄종)의 수가 6명 미만이면, 부여되는 가호가 강화됨.\nEN:\n- Gain [BandageOfTheBoundKing] and [BigWelcome] for this Encounter.\n- At every Turn Start, the King in Binds blesses this unit with grace.\n- The grace of the King in Binds changes every turn, in the following order: [Enhancement], SP Heal, and HP Heal. If there are less than 6 surviving Retainers(Peccatulum Invidiae), boost the grace's strength."
+  },
+  {
+    "key": "828002-name",
+    "original": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나오면 안되는 텍스트\nEN:\nNOTHING TO SEE HERE"
+  },
+  {
+    "key": "828002-desc",
+    "original": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나오면 안되는 텍스트\nEN:\nNOTHING TO SEE HERE"
+  },
+  {
+    "key": "828003-name",
+    "original": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나오면 안되는 텍스트\nEN:\nLOOK AWAY!"
+  },
+  {
+    "key": "828003-desc",
+    "original": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てはいけないテキスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나오면 안되는 텍스트\nEN:\nLOOK AWAY!"
+  },
+  {
+    "key": "860506-name",
+    "original": "屈折された力比べ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された力比べ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 힘겨루기\nEN:\nRefracted Struggle"
+  },
+  {
+    "key": "860506-desc",
+    "original": "同じ対象とのマッチ判定数が10回以上なら、マッチ判定時のマッチ威力が現在の(合計マッチ判定回数 ÷ 10)だけランダムに増加または減少する。(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同じ対象とのマッチ判定数が10回以上なら、マッチ判定時のマッチ威力が現在の(合計マッチ判定回数 ÷ 10)だけランダムに増加または減少する。(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동일한 대상과의 합이 10합 이상이면, 합 판정 시 합 위력이 현재 (합 횟수 / 10)만큼 랜덤하게 증가 또는 감소함. (소수점 버림)\nEN:\nAt 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count / 10) in a Clash. (rounded down)"
+  },
+  {
+    "key": "828004-name",
+    "original": "嫉妬大罪 2型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "嫉妬大罪 2型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n질투 죄종 2형\nEN:\nPeccatulum Invidiae Class 2"
+  },
+  {
+    "key": "828004-desc",
+    "original": "与ダメージ量 +15%, 被ダメージ量-15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量 +15%, 被ダメージ量-15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 피해량 +15%, 받는 피해량 -15%\nEN:\nDeal +15% damage and take -15% damage"
+  },
+  {
+    "key": "828005-name",
+    "original": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 정신\nEN:\nRefracted Mind"
+  },
+  {
+    "key": "828005-desc",
+    "original": "開始精神力 +30\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始精神力 +30\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 정신력 +30\nEN:\nEntry SP +30"
+  },
+  {
+    "key": "828006-name",
+    "original": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 정신\nEN:\nRefracted Mind"
+  },
+  {
+    "key": "828006-desc",
+    "original": "開始精神力 -20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始精神力 -20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 정신력 -20\nEN:\nEntry SP -20"
+  },
+  {
+    "key": "828007-name",
+    "original": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 정신\nEN:\nRefracted Mind"
+  },
+  {
+    "key": "828007-desc",
+    "original": "開始精神力 +45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始精神力 +45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 정신력 +45\nEN:\nEntry SP +45"
+  },
+  {
+    "key": "828008-name",
+    "original": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 정신\nEN:\nRefracted Mind"
+  },
+  {
+    "key": "828008-desc",
+    "original": "開始精神力 +20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始精神力 +20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 정신력 +20\nEN:\nEntry SP +20"
+  }
+]

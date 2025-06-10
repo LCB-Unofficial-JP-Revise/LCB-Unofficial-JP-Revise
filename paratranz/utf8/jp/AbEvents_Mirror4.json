@@ -1,0 +1,422 @@
+[
+  {
+    "key": "97100301-title",
+    "original": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닭의 열정적인 탱고\nEN:\nTango of Poultry Passion"
+  },
+  {
+    "key": "97100301-eventDesc",
+    "original": "糸と針を持った鶏がキラキラとした目で囚人を見つめる。\nどうせ誰かがやらねばならない。あの瞳を無視できるわけなんかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "糸と針を持った鶏がキラキラとした目で囚人を見つめる。\nどうせ誰かがやらねばならない。あの瞳を無視できるわけなんかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n실과 바늘을 든 닭이 똘망거리는 눈으로 수감자들을 바라본다.\n어차피 누군가는 해야 한다. 저 눈망울을 무시할 수 있을리 없다.\nEN:\nThe chicken holding some stitching supplies pleads with chicky eyes.\nSomeone has to do this. Those eyes cannot be ignored."
+  },
+  {
+    "key": "97100301-behaveDesc",
+    "original": "最も手先が器用な囚人は誰だろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最も手先が器用な囚人は誰だろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가장 손기술이 좋은 수감자는 누구일까?\nEN:\nWho has the hands for this task?"
+  },
+  {
+    "key": "97100301-successDesc[0]",
+    "original": "[{0}]囚人はどうしようもないという風にそわそわしながら前へ出た。\n「うーん…。」\n糸と針を受け取って、鶏の後ろに座った。\nそして拙くはあるが、正しいやり方で縫合していった。\n「キエッ。」\n幸いなことにそれは縫合の痛みは感じていないようだ。\n縫合を終えた瞬間、鶏はありがたく思ったのか囚人[{0}]に抱き着いた。\n「ギエェ！」\n囚人[{0}]は当惑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[{0}]囚人はどうしようもないという風にそわそわしながら前へ出た。\n「うーん…。」\n糸と針を受け取って、鶏の後ろに座った。\nそして拙くはあるが、正しいやり方で縫合していった。\n「キエッ。」\n幸いなことにそれは縫合の痛みは感じていないようだ。\n縫合を終えた瞬間、鶏はありがたく思ったのか囚人[{0}]に抱き着いた。\n「ギエェ！」\n囚人[{0}]は当惑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자는 어쩔 수 없다는 듯 쭈뼛거리며 나섰다.\n\"음...\"\n실과 바늘을 받아들고 닭의 등 뒤에 앉았다.\n그리고는 서툴지만 정석적인 방법으로 봉합해 나갔다.\n\"끼엡.\"\n다행히 그것은 봉합의 고통까지 느끼지는 않는 것 같다.\n봉합을 마친 순간, 그것은 고맙다는 듯 [{0}] 수감자에게 안겨들었다.\n\"기에에!\"\n[{0}] 수감자는 당혹스러워했다.\nEN:\n{0} hesitantly stepped forward.\n“Mmh…”\nTaking the needle and thread, the Sinner sat behind the chicken.\nWith awkward but careful hands, they began to stitch the seam with a standard method.\n“Kieph.”\nFortunately, it doesn’t seem to feel the pain of the needle.\nOnce the sewing was done, it hopped into {0}’s lap as if to thank them.\n“Kieeh!”\n{0} was pleasantly perplexed."
+  },
+  {
+    "key": "97100301-failureDesc[0]",
+    "original": "囚人[{0}]は意気揚々として近寄った。\n「どれ…。」\n糸と針を受け取り、鶏の背中に座った。\nだが最初の勢いはどこに行ったのか、段々と変な方向へ糸が進んでいった。\n「ギエェッ！」\n縫合を終える前に、鶏は囚人[{0}]を押しやった。\n「…それなら自分でやれば良かったんじゃ？」\nそして糸と針を奪って自分で縫合すると、どこかに消えていった。\n囚人[{0}]は当惑するばかりであった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]は意気揚々として近寄った。\n「どれ…。」\n糸と針を受け取り、鶏の背中に座った。\nだが最初の勢いはどこに行ったのか、段々と変な方向へ糸が進んでいった。\n「ギエェッ！」\n縫合を終える前に、鶏は囚人[{0}]を押しやった。\n「…それなら自分でやれば良かったんじゃ？」\nそして糸と針を奪って自分で縫合すると、どこかに消えていった。\n囚人[{0}]は当惑するばかりであった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자는 의기양양하게 다가갔다.\n\"어디...\"\n실과 바늘을 받아들고 닭의 등 뒤에 앉았다.\n하지만 기세와는 달리, 점점 삐뚤빼뚤하게 실이 그어져 간다.\n\"기에엑!\"\n봉합을 채 다 마치기도 전에, 닭은 [{0}] 수감자를 밀쳐냈다.\n\"...이럴거면 혼자 하면 됐잖아?\"\n그러고는 실과 바늘을 빼앗아 자신이 직접 봉합하더니, 어디론가로 사라졌다.\n[{0}] 수감자는 당혹스러울 뿐이다.\nEN:\n{0} confidently stepped forward.\n“Let’s see…”\nTaking the needle and thread, the Sinner sat behind the chicken.\nIn spite of the initial confidence, however, their stitches became gradually wry.\n“Kieerh!”\nBefore {0} could finish, the chicken pushed the Sinner away.\n“…Why didn’t you do it yourself in the first place?”\nIt snatched the supplies back to sew itself up, then walked out of sight.\n{0} was left perplexed."
+  },
+  {
+    "key": "97101201-title",
+    "original": "黒い帳簿選択肢 - 住民を助ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒い帳簿選択肢 - 住民を助ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검은 장부 선택지 - 주민들을 구한다.\nEN:\nBlack Ledger Choice - Save the Civilians."
+  },
+  {
+    "key": "97101201-behaveDesc",
+    "original": "どんな囚人が前へ出る？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どんな囚人が前へ出る？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 수감자가 나설까?\nEN:\nWho will step forth?"
+  },
+  {
+    "key": "97101201-successDesc[0]",
+    "original": "「クソッ…。」\n\n「どうなってんだ？あいつら、全員ずらかったって聞いたのに！」\n\n囚人{0}とエンドゥが奮闘した末、黒雲会の組員たちは倒れたり逃げたりした。\n\n「…ありがたい。民草を助けさせてくれて。」\n\nエンドゥがぺこりとお礼を言った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「クソッ…。」\n\n「どうなってんだ？あいつら、全員ずらかったって聞いたのに！」\n\n囚人{0}とエンドゥが奮闘した末、黒雲会の組員たちは倒れたり逃げたりした。\n\n「…ありがたい。民草を助けさせてくれて。」\n\nエンドゥがぺこりとお礼を言った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"젠장...\"\n\n\"어떻게 된 거야? 그 놈들, 전부 내뺐다더니!\"\n\n{0} 수감자와 앵두가 분투한 끝에, 흑운회 조직원들은 쓰러지거나 도망쳐 버렸다.\n\n\"...고맙군. 민초들을 도우게 해주어.\"\n\n앵두가 꾸벅 감사 인사를 했다.\nEN:\n\"Damn it...\"\n\n\"What the hell happened?! I thought we'd driven them all away!\"\n\nAfter a grueling battle, {0} and Aeng-du managed to defeat or drive away the Kurokumo Clan henchmen.\n\n\"... You have my gratitude. I'm glad that we could provide them some help.\""
+  },
+  {
+    "key": "97101201-failureDesc[0]",
+    "original": "「クソッ…。」\n\n「どうなってんだ？あいつら、全員ずらかったって聞いたのに！」\n\n囚人{0}とエンドゥが奮闘した末、黒雲会の組員たちは倒せたが…。\n\n「…クッ。」\n\nエンドゥの回復が上手くいかなかったせいか、攻撃を避けることはできなかったようだ。\n\nそんなエンドゥを援護した囚人{0}も、若干の被害を甘受しなければならなかった。\n\n「すまない…。」\n\nエンドゥが、屈辱的な顔で唇を噛み締めつつ言った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「クソッ…。」\n\n「どうなってんだ？あいつら、全員ずらかったって聞いたのに！」\n\n囚人{0}とエンドゥが奮闘した末、黒雲会の組員たちは倒せたが…。\n\n「…クッ。」\n\nエンドゥの回復が上手くいかなかったせいか、攻撃を避けることはできなかったようだ。\n\nそんなエンドゥを援護した囚人{0}も、若干の被害を甘受しなければならなかった。\n\n「すまない…。」\n\nエンドゥが、屈辱的な顔で唇を噛み締めつつ言った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"젠장...\"\n\n\"어떻게 된 거야? 그 놈들, 전부 내뺐다더니!\"\n\n{0} 수감자와 앵두가 분투한 끝에, 흑운회 조직원들은 쓰러트리기는 했지만...\n\n\"...큭.\"\n\n앵두의 회복이 원활하지 못했던 탓일까, 피해를 피할 수는 없었던 것 같다.\n\n그런 앵두를 엄호하다, {0} 수감자도 약간의 피해를 감수해야만 했다.\n\n\"미안하군...\"\n\n앵두가 치욕스럽다는 듯 입술을 깨물며 말했다.\nEN:\n\"Damn it...\"\n\n\"What the hell happened?! I thought we'd driven them all away!\"\n\nAfter a grueling battle, {0} and Aeng-du managed to defeat or drive away the Kurokumo Clan henchmen. But...\n\n\"... Ach.\"\n\nPerhaps Aeng-du hadn't fully recovered yet. She ended up suffering some damage from the skirmish.\n\n{0} also seems to have taken some hits while protecting wounded Aeng-du.\n\n\"My apologies...\"\n\nAeng-du muttered through gritted teeth. There was a tinge of shame in her voice."
+  },
+  {
+    "key": "97101203-title",
+    "original": "黒い帳簿選択肢 - 剣契だと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒い帳簿選択肢 - 剣契だと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검은 장부 선택지 - 검계라고 말한다.\nEN:\nBlack Ledger Choice - Say that you're with the Blade Lineage."
+  },
+  {
+    "key": "97101203-behaveDesc",
+    "original": "誰を前に出して話させようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰を前に出して話させようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누가 나서서 말하게 할까?\nEN:\nWho will step forth and speak?"
+  },
+  {
+    "key": "97101203-successDesc[0]",
+    "original": "「コ、コココム…。」\n\n住民たちはあっという間に地面へと伏せると、ぶるぶる震えながら話す。\n\n「申し訳ございません、申し訳ございません！」\n\n「どうか、お命だけは…。」\n\n囚人{0}は慌てて傷つけるつもりはないと言ったが、彼らは聞く素振りすら見せない。\n\n「こ、これを…。」\n\n彼らは丁寧に両手を合わせ、何かを私たちへと献上した。\n\n黒いその帳簿を手に取って表紙を開いてみると、何かが長ったらしく書かれた帳簿のように見えた。\n\n「申し訳ございません！私どもは、そのようなものしか差し上げることができません…。」\n\n立ち上がらせようとしたが、恐怖で怖じ気ついたせいか絶対に頭を上げようとしない。\n\n…どうしようもないので、彼らを置き去りにするしかなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「コ、コココム…。」\n\n住民たちはあっという間に地面へと伏せると、ぶるぶる震えながら話す。\n\n「申し訳ございません、申し訳ございません！」\n\n「どうか、お命だけは…。」\n\n囚人{0}は慌てて傷つけるつもりはないと言ったが、彼らは聞く素振りすら見せない。\n\n「こ、これを…。」\n\n彼らは丁寧に両手を合わせ、何かを私たちへと献上した。\n\n黒いその帳簿を手に取って表紙を開いてみると、何かが長ったらしく書かれた帳簿のように見えた。\n\n「申し訳ございません！私どもは、そのようなものしか差し上げることができません…。」\n\n立ち上がらせようとしたが、恐怖で怖じ気ついたせいか絶対に頭を上げようとしない。\n\n…どうしようもないので、彼らを置き去りにするしかなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"거, 거거거...\"\n\n주민들은 순식간에 흙바닥에 납작 엎드리더니, 부들부들 떨면서 말한다.\n\n\"죄송합니다, 죄송합니다!\"\n\n\"제발, 제 목숨 만은...\"\n\n{0} 수감자가 당황하며 해칠 의도가 없다고 말하지만, 그들은 들은 체도 하지 않는다.\n\n\"이, 이것을...\"\n\n그들은 공손히 두 손을 모아 무언가를 우리에게 올려보였다.\n\n표지가 검은 그 책자를 받아 펼쳐보니 무언가가 길게 쓰인 장부 같아 보였다.\n\n\"죄송합니다! 저희는 그저 그런 것 밖에 드리지 못합니다...\"\n\n일으켜 세우려해도, 이미 공포에 절어 버렸는지, 절대 머리를 들려 하지 않는다.\n\n...어쩔 수 없이, 그들을 두고 지나가는 수 밖에 없었다.\nEN:\n\"The Bl-bl-the—\"\n\nThe civilians immediately kneeled before us and bowed profusely. Their voices tremble as they plead.\n\n\"We're sorry, We're so sorry!\"\n\n\"Please, have mercy... Don't kill us...!\"\n\nIn a flustered attempt, {0} tries to tell them that we have no cause nor intent to hurt them; but they refuse to listen.\n\n\"T-take this, at least...\"\n\nThey raised their hands with the utmost deference. In their hands was what appeared to be a book.\n\nTaking a closer look at it, we realized that what they handed us was a filled ledger with black covers.\n\n\"Please, forgive us! That's all we have with us at the moment...\"\n\nTry as we might to help them to their feet, the fear has already rooted them firmly to the ground. They don't even dare to raise their heads.\n\n... We had no choice but to leave them as they were."
+  },
+  {
+    "key": "97101203-failureDesc[0]",
+    "original": "「…冗談が過ぎますね～。」\n\n囚人{0}の口調がぎこちなかったせいか、話を聞いていた住民の目尻がせり上がると、ワハハッっと笑い出した。\n\n「あの方々が今、こんな道端にいるわけないじゃないですか。」\n\n「そう、そう。そして、知らんぷりをしていた私たちを助ける理由も…。」\n\n「これこれ、口に気をつけるんだな！」\n\n「はっ！」\n\n彼らはわけの分からないことを言うと、突然正気に戻ったかのように口を塞いで私たちのことを見つめてきた。\n\n「ほ、ほんなら…助けてくれてありがとうございました！」\n\n「そんないたずらをしちゃぁ痛い目見ますよ！気をつけてください…。」\n\nそんな言葉を残して、住民たちは慌てて立ち去った。\n\n無駄に嫌な気分を味わった気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「…冗談が過ぎますね～。」\n\n囚人{0}の口調がぎこちなかったせいか、話を聞いていた住民の目尻がせり上がると、ワハハッっと笑い出した。\n\n「あの方々が今、こんな道端にいるわけないじゃないですか。」\n\n「そう、そう。そして、知らんぷりをしていた私たちを助ける理由も…。」\n\n「これこれ、口に気をつけるんだな！」\n\n「はっ！」\n\n彼らはわけの分からないことを言うと、突然正気に戻ったかのように口を塞いで私たちのことを見つめてきた。\n\n「ほ、ほんなら…助けてくれてありがとうございました！」\n\n「そんないたずらをしちゃぁ痛い目見ますよ！気をつけてください…。」\n\nそんな言葉を残して、住民たちは慌てて立ち去った。\n\n無駄に嫌な気分を味わった気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"...장난이 심하시군요~\"\n\n{0} 수감자의 말투가 어설펐던 걸까, 이야기를 듣던 주민의 눈꼬리가 꿈틀거리더니 으하핫, 하고 웃어버렸다.\n\n\"그 분들이 지금, 이런 길거리에 계실리 없지 않습니까.\"\n\n\"맞아, 맞아. 그리고 그저 모른 척이나 하던 우리를 도우실 이유도...\"\n\n\"에헤, 그 입!\"\n\n\"헉!\"\n\n그들은 영문 모를 말을 하더니, 갑자기 퍼뜩 정신을 차린듯 입을 막고 우리를 쳐다본다.\n\n\"그, 그러면... 도와주셔서 감사했습니다!\"\n\n\"그런 장난은 하시면 화를 입습니다! 조심하십시오...\"\n\n그런 말을 남기고, 주민들은 황급히 떠나갔다.\n\n괜히 기분만 나빠진 것 같다...\nEN:\n\"... That's one nasty joke, fellas~\"\n\nMaybe {0} sounded awkward when they claimed to be from the Blade Lineage. The civilian's eyebrow twitched for a brief second before he burst into laughter.\n\n\"Why would they be out here, in these streets?\"\n\n\"Right, right. Besides, why'd they ever help us? We just turned a blind eye when they—\"\n\n\"Hey now! Shh, watch your mouth!\"\n\n\"Ah!\"\n\nAfter an exchange none of us had enough context for, they suddenly snapped as though they realized we were still standing right here.\n\n\"W-well then... Thank you for the help anyway!\"\n\n\"But don't say something like that, even as a joke! You never know what'll happen...\"\n\nWith that, the civilians hurriedly left the scene.\n\nThis did nothing but bring down our mood, did it..."
+  },
+  {
+    "key": "97101301-title",
+    "original": "錆びた柄選択肢 - 剣術は斬撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "錆びた柄選択肢 - 剣術は斬撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n녹슨 칼자루 선택지 - 검술은 참격\nEN:\nRusted Hilt - To wield a blade is to Slash with it"
+  },
+  {
+    "key": "97101301-behaveDesc",
+    "original": "誰が自分の見解を言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰が自分の見解を言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누가 자신의 견해를 말해볼까?\nEN:\nWho will share their opinion?"
+  },
+  {
+    "key": "97101301-successDesc[0]",
+    "original": "「賢明だな！」\n\n一番手前で杯を持って声高に話していた者が呵々と笑った。\n\n「他のやり方を見下しているわけではないぞ！ ただ、鋭いものを扱う理由は何かを斬り裂くためなのだから！」\n\n他の二人も仕方なさそうに頷いている。\n\n「刃に限って言えばまあ、仕方ないか…。」\n\n「まあ確かに。首を切ってしまえば、頭をかち割るのとほぼ同じ効果になるだろう。」\n\n「さあ！良い気分だ、これを持って行くがよい！」\n\n斬撃の優秀さを主張した者が背中を叩きながら、何かを渡してきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「賢明だな！」\n\n一番手前で杯を持って声高に話していた者が呵々と笑った。\n\n「他のやり方を見下しているわけではないぞ！ ただ、鋭いものを扱う理由は何かを斬り裂くためなのだから！」\n\n他の二人も仕方なさそうに頷いている。\n\n「刃に限って言えばまあ、仕方ないか…。」\n\n「まあ確かに。首を切ってしまえば、頭をかち割るのとほぼ同じ効果になるだろう。」\n\n「さあ！良い気分だ、これを持って行くがよい！」\n\n斬撃の優秀さを主張した者が背中を叩きながら、何かを渡してきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"현명하군!\"\n\n제일 앞에서 술잔을 들고 목청을 높이던 자가 껄껄 웃는다.\n\n\"다른 방식들을 깔보는 것이 아닐세! 다만, 예기를 다루는 이유는 무언가를 베어내기 위함인 것이니까!\"\n\n다른 두 사람도 어쩔 수 없다는 듯 고개를 끄덕거린다.\n\n\"칼날만 놓고 말하자면 뭐, 어쩔 수 없지...\"\n\n\"하긴, 목을 잘라버리면 머리를 깨는 것이랑 비슷한 효과겠지.\"\n\n\"자! 기분이 좋군. 이것을 가져가게!\"\n\n참격의 우수함을 주장했던 자가 등을 두드리며 무언가를 건넸다.\nEN:\n\"Hear, hear!\"\n\nThe loudest one guffaws, raising his cup full of liquor.\n\n\"I'm not claiming that other methods are inferior! I am merely claiming that a blade, a weapon with an edge, is made to cut things!\"\n\nThe other two nod in reluctant agreement.\n\n\"W-well, if you're talking about the blade and the blade part only, sure...\"\n\n\"I suppose a decapitation is not so different from breaking the skull open.\"\n\n\"Ha! You've made my day, friend. Here, take this!\"\n\nThe man who preached the superiority of Slash pats you on the back and places something in your hands."
+  },
+  {
+    "key": "97101301-failureDesc[0]",
+    "original": "「賢明だな！」\n\n一番手前で杯を持って声高に話していた者が呵々と笑った。\n\n「じゃが…。」\n\n突然さっと真顔になり、恐ろしい目つきで囚人{0}を睨み付ける。\n\n「心にもないことを言うのは、武人として恥ではないか？」\n\n「まったく、またか！通りすがりの人を自ら連れてきた癖に怖がらせるつもりか？」\n\n隣にいた二人が機嫌良さげに囚人{0}を引っ張ってテーブルに連れて行く。\n\n「貫通の一撃がやはりもっと凄いと思ったのだろう？分かるぞ！」\n\n「やっぱり頭をかち割る打撃感は、そう簡単に諦めきれないだろう？」\n\n二人は自分たちが飲んでいた酒を注ぎ、囚人{0}を激励した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「賢明だな！」\n\n一番手前で杯を持って声高に話していた者が呵々と笑った。\n\n「じゃが…。」\n\n突然さっと真顔になり、恐ろしい目つきで囚人{0}を睨み付ける。\n\n「心にもないことを言うのは、武人として恥ではないか？」\n\n「まったく、またか！通りすがりの人を自ら連れてきた癖に怖がらせるつもりか？」\n\n隣にいた二人が機嫌良さげに囚人{0}を引っ張ってテーブルに連れて行く。\n\n「貫通の一撃がやはりもっと凄いと思ったのだろう？分かるぞ！」\n\n「やっぱり頭をかち割る打撃感は、そう簡単に諦めきれないだろう？」\n\n二人は自分たちが飲んでいた酒を注ぎ、囚人{0}を激励した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"현명하군!\"\n\n제일 앞에서 술잔을 들고 목청을 높이던 자가 껄껄 웃는다.\n\n\"하나...\"\n\n그러다가 뚝, 웃음을 멈추고 무서운 눈빛으로 {0} 수감자를 노려본다.\n\n\"마음에도 없는 말을 하는 건, 무인으로서 수치가 아니겠는가?\"\n\n\"에헤이, 이 사람이 또! 지나가는 사람을 데리고 왜 겁을 주나?\"\n\n옆에 있던 두 사람이 기분이 좋은 듯 {0} 수감자를 이끌고 탁자로 데려간다.\n\n\"관통의 일격이 역시 더 대단하다 생각 한 것이지? 이해하네!\"\n\n\"역시 머리를 깨는 타격감은 쉽게 포기 못하지 않겠는가?\"\n\n둘은 자신들이 마시던 술을 따라주며, {0} 수감자를 격려했다.\nEN:\n\"Hear, hear!\"\n\nThe loudest one guffaws, raising his cup full of liquor.\n\n\"Yet...\"\n\nAll of a sudden, he stops laughing. Then, with a terrifying look on his face, he glares at {0}.\n\n\"How can you, as a practitioner of the martial arts yourself, deceive yourself and refuse to tell me your true beliefs? Have you no shame?\"\n\n\"Give it a rest, man! Trying to scare innocent passersby again?\"\n\nThe two drinking buddies of the man drag {0} to their table with a giddy look on their faces.\n\n\"I'm sure the allure of a powerful, singular Piercing strike was too much to deny! I understand, I do!\"\n\n\"The feeling of a Blunt object striking and cracking open a skull... can't get enough of that, eh?\"\n\nThe pair cheered {0} on and filled their cup with liquor."
+  },
+  {
+    "key": "97101401-title",
+    "original": "砕けた刃選択肢 - 抜剣姿勢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "砕けた刃選択肢 - 抜剣姿勢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조각난 칼날 선택지 - 발검 자세\nEN:\nFractured Blade Choice - Draw of the Sword"
+  },
+  {
+    "key": "97101401-behaveDesc",
+    "original": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자에게 부탁할까?\nEN:\nWho should wield the sword?"
+  },
+  {
+    "key": "97101401-successDesc[0]",
+    "original": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜いて目の前のものを斬り裂いた。\n\n何がそんなにおかしいのか分からないが、それはケラケラと笑って消え…。\n\nその場には砕けた刃だけが残っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜いて目の前のものを斬り裂いた。\n\n何がそんなにおかしいのか分からないが、それはケラケラと笑って消え…。\n\nその場には砕けた刃だけが残っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 검을 건네 받았다.\n\n\"...!\"\n\n잠시 숨을 고른 뒤, {0} 수감자는 순식간에 검을 뽑아 눈 앞의 것을 베어냈다.\n\n그것은 뭐가 그렇게 우스운지, 깔깔깔 웃어대며 사라졌고...\n\n그 자리에는 조각난 칼날만이 남아 있었다.\nEN:\n{0} wielded the sword.\n\n\"...!\"\n\nAfter taking a moment to steady their breathing, {0} unsheathed the blade and sliced the thing before us in the blink of an eye.\n\nThat thing giggled as it disappeared, somehow finding this situation humorous...\n\nAnd left behind fragments of a blade."
+  },
+  {
+    "key": "97101401-failureDesc[0]",
+    "original": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えて消えてしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消え失せてしまった。\n<CMT_KR>표현 개선: \"'消えて消えてしまった'는 일본어에서 불필요하게 반복된 표현으로, 오타로 인식될 수 있기 때문에 보다 자연스럽게 강조하는 '消え失せてしまった'로 수정함.\"\n<CMT_EN>Wording fix: \"The phrase '消えて消えてしまった' contains redundant repetition in Japanese and may be mistaken as a typo, so it was adjusted to the more natural emphatic form '消え失せてしまった'.\"\n<CMT_JP>表現改善: \"「消えて消えてしまった」では日本語として冗長な繰り返しとなり、誤植として受け取られてしまう恐れがあるため「消え失せてしまった」という自然な文に調整\"",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 검을 건네 받았다.\n\n\"...!\"\n\n잠시 숨을 고른 뒤, {0} 수감자는 순식간에 검을 뽑아...\n\n내지 못하고 그대로 검을 바닥에 떨구어 버렸다.\n\n...검집을 반대로 잡아 칼날 쪽에 손바닥을 대고 있었던 것 같다.\n\n{0} 수감자가 지혈을 하는 동안, 그것은 어디론가 사라지고 없어져 버렸다.\nEN:\n{0} wielded the sword.\n\n\"...!\"\n\nAfter taking a moment to steady their breathing, {0} unshea—\n\n—Nevermind. They failed to unsheathe the blade, and instead dropped it to the floor.\n\n... I think they were holding the sword backwards, slicing their own palm open in the process.\n\nThe thing disappeared while we were busy trying to stop the bleeding from {0}'s hand."
+  },
+  {
+    "key": "97101402-title",
+    "original": "壊れた刃 - 抜いて下ろす姿勢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れた刃 - 抜いて下ろす姿勢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 칼날 선택지 - 뽑아서 늘어뜨리는 자세\nEN:\nBroken Blade Choice - Let the sword hang to the side"
+  },
+  {
+    "key": "97101402-behaveDesc",
+    "original": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자에게 부탁할까?\nEN:\nWho should wield the sword?"
+  },
+  {
+    "key": "97101402-successDesc[0]",
+    "original": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}はゆっくりと剣を引き抜き、鞘を横に投げやるとそのまま剣を地面へ向けて下ろした。\n\nその行動の何がそんなにおかしいのか分からないが、それはケラケラと笑って消え…。\n\nその場には壊れた刃だけが残っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}はゆっくりと剣を引き抜き、鞘を横に投げやるとそのまま剣を地面へ向けて下ろした。\n\nその行動の何がそんなにおかしいのか分からないが、それはケラケラと笑って消え…。\n\nその場には壊れた刃だけが残っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 검을 건네 받았다.\n\n\".......\"\n\n{0} 수감자는 천천히 검을 뽑아 냈고, 검집을 옆으로 던져 버린 후 그대로 검을 바닥을 향해 늘어뜨렸다.\n\n그 행동이 뭐가 그렇게 우스운지, 그것은 깔깔깔 웃어대며 사라졌고...\n\n그 자리에는 부서진 칼날만이 남아 있었다.\nEN:\n{0} wielded the sword.\n\n\"......\"\n\n{0} effortlessly unsheathed the sword, threw the scabbard away, and gently lowered it to their side, its tip pointing toward the ground.\n\nThat thing giggled as it disappeared, somehow finding this situation humorous...\n\nAnd left behind a broken blade."
+  },
+  {
+    "key": "97101402-failureDesc[0]",
+    "original": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えて消えてしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消え失せてしまった。\n<CMT_KR>표현 개선: \"'消えて消えてしまった'는 일본어에서 불필요하게 반복된 표현으로, 오타로 인식될 수 있기 때문에 보다 자연스럽게 강조하는 '消え失せてしまった'로 수정함.\"\n<CMT_EN>Wording fix: \"The phrase '消えて消えてしまった' contains redundant repetition in Japanese and may be mistaken as a typo, so it was adjusted to the more natural emphatic form '消え失せてしまった'.\"\n<CMT_JP>表現改善: \"「消えて消えてしまった」では日本語として冗長な繰り返しとなり、誤植として受け取られてしまう恐れがあるため「消え失せてしまった」という自然な文に調整\"",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 검을 건네 받았다.\n\n\".......\"\n\n{0} 수감자는 조심스레, 미끄러지듯이 검을 뽑아...\n\n내지 못하고 그대로 검을 바닥에 떨구어 버렸다.\n\n...검집을 반대로 잡아 칼날 쪽에 손바닥을 대고 있었던 것 같다.\n\n{0} 수감자가 지혈을 하는 동안, 그것은 어디론가 사라지고 없어져 버렸다.\nEN:\n{0} wielded the sword.\n\n\"......\"\n\n{0} carefully and effortlessly unsheathed the swor—\n\n—Nevermind. They failed to unsheathe the blade, and instead dropped it to the floor.\n\n... I think they were holding the sword backwards, slicing their own palm open in the process.\n\nThe thing disappeared while we were busy trying to stop the bleeding from {0}'s hand."
+  },
+  {
+    "key": "97101601-title",
+    "original": "赤い房飾り - 鯨の争い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "赤い房飾り - 鯨の争い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n붉은 색술 선택지 - 고래 싸움\nEN:\nRed Tassel Choice - Small fries"
+  },
+  {
+    "key": "97101601-behaveDesc",
+    "original": "どの囚人が伝えてあげるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人が伝えてあげるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자가 전해줄까?\nEN:\nWho will speak to them?"
+  },
+  {
+    "key": "97101601-successDesc[0]",
+    "original": "「はっ！」\n\n剣を腰に携えた者が笑い出した。\n\n「愚問賢答だ。都市じゃこんな問答に意味があるわけなどないだろう。」\n\n彼はガハハとより豪快に笑い、自分の剣についた房飾りをぐっと引きちぎって渡してきた。\n\n「そなたの答えが気に入った。これは贈り物だ。剣契の人と衝突することがあれば、これを見せるんだよ。」\n\n「どんな使い方をしても役に立つだろう。」\n\n彼らはそう言い、手を振りながら別の方向へと向かっていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「はっ！」\n\n剣を腰に携えた者が笑い出した。\n\n「愚問賢答だ。都市じゃこんな問答に意味があるわけなどないだろう。」\n\n彼はガハハとより豪快に笑い、自分の剣についた房飾りをぐっと引きちぎって渡してきた。\n\n「そなたの答えが気に入った。これは贈り物だ。剣契の人と衝突することがあれば、これを見せるんだよ。」\n\n「どんな使い方をしても役に立つだろう。」\n\n彼らはそう言い、手を振りながら別の方向へと向かっていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"허!\"\n\n검을 찬 자가 픽하고 웃는다.\n\n\"우문현답이로군. 도시에서 이런 문답에 의미가 있을리가 없지.\"\n\n그는 껄껄, 좀 더 호쾌하게 웃더니 제 검에 달린 색술을 팍하고 뜯어내 건네주었다.\n\n\"자네 답이 마음에 들었네. 이건 선물이다. 검계 쪽 사람과 부딪힐 일이 생기거든, 이걸 보여보게.\"\n\n\"어떻게 쓰이든 도움이 될테니.\"\n\n그들은 그렇게 말하고 손을 흔들며 다른 방향으로 떠나갔다.\nEN:\n\"Hah!\"\n\nThe sword-carrying man snickers.\n\n\"You answer with wisdom to my foolish query. Such musings hold very little significance in the City, indeed.\"\n\nHe laughs a little more, this time with gusto, then tears a tassel from his weapon before handing it over.\n\n\"I enjoyed your answer. If you evern find yourself in a conflict with the Blade Lineage, show them this tassel.\"\n\n\"It will be of some help to you, I can guarantee you that.\"\n\nWith that, they waved their hands and disappeared into the other direction."
+  },
+  {
+    "key": "97101601-failureDesc[0]",
+    "original": "「その通りだ。」\n\n二人は頷く。\n\n「しかし、そんな達観したことを言えるほど、そなたに能力があるようには見えんがね。」\n\n二人は気まずい笑みを浮かべながら、ただ背を向けてどこかへと歩いていった。\n\n一人残された囚人{0}は傷付いたらしく、少しうなだれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「その通りだ。」\n\n二人は頷く。\n\n「しかし、そんな達観したことを言えるほど、そなたに能力があるようには見えんがね。」\n\n二人は気まずい笑みを浮かべながら、ただ背を向けてどこかへと歩いていった。\n\n一人残された囚人{0}は傷付いたらしく、少しうなだれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"맞는 말이지.\"\n\n두 사람이 끄덕거린다.\n\n\"하지만 그런 달관한 말을 할 정도로 그대가 능력이 있어보이진 않는군.\"\n\n둘은 어색한 웃음을 지으며, 그저 등을 돌려 어딘가로 걸어나갔다.\n\n혼자 남은 {0} 수감자는, 상처입은 듯 고개를 슬쩍 떨어트렸다.\nEN:\n\"True words indeed.\"\n\nThey both nod.\n\n\"But I don't suppose you are wise or capable enough to speak such wisdom from your heart.\"\n\nThe two smile awkwardly before turning around and leaving.\n\nLeft all alone, {0} looked down to the ground with a sad look on their face."
+  },
+  {
+    "key": "97101701-title",
+    "original": "破れた編み笠 選択肢 - 大事なのは他にある\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破れた編み笠 選択肢 - 大事なのは他にある\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해진 삿갓 선택지 - 중요한 건 다른 것\nEN:\nRagged Bamboo Hat Choice - That's not what matters"
+  },
+  {
+    "key": "97101701-behaveDesc",
+    "original": "どの囚人が言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人が言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자가 말할까?\nEN:\nWho will speak?"
+  },
+  {
+    "key": "97101701-successDesc[0]",
+    "original": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「喜」\n\nその文字はしばらく浮かんでいたが、何か別の形状へと変わって地面へサッと落ちた。\n\n地面には、古びて破れた笠が一つあった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「喜」\n\nその文字はしばらく浮かんでいたが、何か別の形状へと変わって地面へサッと落ちた。\n\n地面には、古びて破れた笠が一つあった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'희'\n\n그 글자는 잠시간 떠 있더니, 무언가의 형체로 변하며 바닥으로 툭 떨어졌다.\n\n바닥에는, 오래 되어 해진 삿갓 하나가 있었다.\nEN:\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Joy.'\n\nThe word stays there for a moment before transforming and falling to the floor.\n\nIt transformed into an old and weathered bamboo hat."
+  },
+  {
+    "key": "97101701-failureDesc[0]",
+    "original": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「怒」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「怒」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'로'\n\n그 글자는 잠시간 떠 있더니, 무언가 불타오르듯 화르륵 하고 사라졌다.\n\n...마음에 들지 않았던 걸까?\nEN:\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Wrath.'\n\nThe word stays there for a moment before burning up and fading away.\n\n... Maybe it didn't like our answer?"
+  },
+  {
+    "key": "97101702-title",
+    "original": "古びた道袍選択肢 - 正しいものは正しい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "古びた道袍選択肢 - 正しいものは正しい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낡은 도포 선택지 - 옳은 것은 옳다\nEN:\nOld Dopo Cloak - What's right is right"
+  },
+  {
+    "key": "97101702-behaveDesc",
+    "original": "どの囚人が言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人が言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자가 말할까?\nEN:\nWho will speak?"
+  },
+  {
+    "key": "97101702-successDesc[0]",
+    "original": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「楽」\n\nその文字はしばらく浮かんでいたが、何か別の形状へと変わって地面へサッと落ちた。\n\n地面には、歳月を重ねたように見える古びた道袍が一つあった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「楽」\n\nその文字はしばらく浮かんでいたが、何か別の形状へと変わって地面へサッと落ちた。\n\n地面には、歳月を重ねたように見える古びた道袍が一つあった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'락'\n\n그 글자는 잠시간 떠 있더니, 무언가의 형체로 변하며 바닥으로 툭 떨어졌다.\n\n바닥에는, 해를 잔뜩 묵은 듯한 도포가 하나 있었다.\nEN:\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Pleasure.'\n\nThe word stays there for a moment before transforming and falling to the floor.\n\nIt transformed into an old, weathered dopo robe."
+  },
+  {
+    "key": "97101702-failureDesc[0]",
+    "original": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「哀」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い文字が段々と消え、新しい文字が浮かんだ。\n\n「哀」\n\nその文字はしばらく浮かんでいたが、何かが燃えるかのように消えてしまった。\n\n…気に入らなかったのだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸른 글자들이 스르르 사라지더니, 새로운 글자가 떠올랐다.\n\n'애'\n\n그 글자는 잠시간 떠 있더니, 무언가 불타오르듯 화르륵 하고 사라졌다.\n\n...마음에 들지 않았던 걸까?\nEN:\nThe blue letters slowly fade away, and a new word appears in their place.\n\n'Sorrow.'\n\nThe word stays there for a moment before burning up and fading away.\n\n... Maybe it didn't like our answer?"
+  },
+  {
+    "key": "97102101-title",
+    "original": "工場を全体的に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "工場を全体的に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공장을 전체적으로 살펴본다.\nEN:\nTake a general, sweeping look around the factory."
+  },
+  {
+    "key": "97102101-behaveDesc",
+    "original": "誰が手伝うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰が手伝うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누가 도울까?\nEN:\nWho will help?"
+  },
+  {
+    "key": "97102101-successDesc[0]",
+    "original": "囚人{0}は周辺を見回して悩んだ末に、工場で稼働している機械の速度が速いということに気づいた。\n\n2時間も寝たらその分、他の職員の負担も増えるはずだ…。\n\n工場の生産量にも支障があったかもしれない、と囚人{0}は言った。\n\n「問題に対して目敏いな。」\n\n「聞いたか？無駄に言い訳をするつもりなら、何も言わずに黙って仕事に戻れ。」\n\nゆっくりと降りてゆく職員を見ながら、工場主はポケットから何かを取り出して私たちに渡した。\n\n「本来は仕事のできる職員にあげる予定だったが、必要なさそうだ。君たちが持っていくといい。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}は周辺を見回して悩んだ末に、工場で稼働している機械の速度が速いということに気づいた。\n\n2時間も寝たらその分、他の職員の負担も増えるはずだ…。\n\n工場の生産量にも支障があったかもしれない、と囚人{0}は言った。\n\n「問題に対して目敏いな。」\n\n「聞いたか？無駄に言い訳をするつもりなら、何も言わずに黙って仕事に戻れ。」\n\nゆっくりと降りてゆく職員を見ながら、工場主はポケットから何かを取り出して私たちに渡した。\n\n「本来は仕事のできる職員にあげる予定だったが、必要なさそうだ。君たちが持っていくといい。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자는 주변을 둘러보며 고민한 끝에, 공장에서 돌아가는 기계의 속도가 빠르다는 것을 알아챘다.\n\n2시간이나 자면, 그만큼 다른 직원들의 부담이 늘어났을 테고…\n\n공장의 생산량에도 차질이 있었을지도 모른다고 {0} 수감자는 말했다.\n\n\"잘못을 정확히 짚어주는군.\"\n\n\"들었나? 괜히 핑계 댈 생각이라면 더 말할 필요 없이 다시 가서 일이나 하게.\"\n\n느릿하게 내려가는 직원을 보며, 공장주는 주머니에서 무언가 꺼내 우리에게 건넸다.\n\n\"원래 일을 잘하는 직원에게 주려 했는데, 필요 없겠어. 자네들이 가지게.\"\nEN:\nAfter looking around and thinking for a moment, {0} noticed that the factory's machine was running at a high speed.\n\n{0} says that, two hours of sleep might bring undue burden on other employees...\n\nand may even have had negative effects on the factory's production lines.\n\n\"You have a keen eye for problems.\"\n\n\"Did you all hear that? Stop making excuses and get back to work.\"\n\nThe factory owner glares at the employee, who was slowly descending the stairs, before handing something over to us.\n\n\"I was going to give this out as a reward for good performance to an employee of mine, but I don't suppose I shall now. Here, you can have this.\""
+  },
+  {
+    "key": "97102101-failureDesc[0]",
+    "original": "いくら疲れていたにしろ、2時間も寝ていることに気づかなかったことに対して囚人{0}が疑問を示した。\n\n「ちっちっ、工場の面目丸つぶれだな。」\n\n「お前はクビだ。」\n\n何か間違えたような気がしたけど、もう手遅れだ。\n\n職員は涙ぐみながらゆっくりと土下座までしたが、工場主は振り向きもせずに行ってしまった。\n\n残されたのは、のろい職員の号泣と私たちだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いくら疲れていたにしろ、2時間も寝ていることに気づかなかったことに対して囚人{0}が疑問を示した。\n\n「ちっちっ、工場の面目丸つぶれだな。」\n\n「お前はクビだ。」\n\n何か間違えたような気がしたけど、もう手遅れだ。\n\n職員は涙ぐみながらゆっくりと土下座までしたが、工場主は振り向きもせずに行ってしまった。\n\n残されたのは、のろい職員の号泣と私たちだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무리 피곤해도 2시간이나 잘 동안 몰랐다는 것에 {0} 수감자가 의문을 표했다.\n\n\"쯧쯧, 공장의 체면이 말이 아니군.\"\n\n\"자네는 당장 해고일세.\"\n\n뭔가 잘못됐다는 걸 느꼈지만 이미 늦었다.\n\n직원은 울먹거리면서 천천히 무릎까지 꿇었지만, 공장주는 뒤도 안 돌아보고 가버렸다.\n\n결국 남은 건, 느릿한 직원의 절규와 우리뿐이다.\nEN:\n{0} expressed confusion that no one, including the employee, seemed to notice that the employee was sleeping for two whole hours. \n\n\"Tsk tsk. This reflects negatively on our factory's image.\"\n\n\"You're fired. Get out.\"\n\nSomething felt off, but it was too late.\n\nThe employee very slowly fell to their knees, tears welling in their eyes, but the factory owner did not even bat an eye before turning around and leaving the room.\n\nWe were left alone with the employee's slow, excruciating wailing."
+  },
+  {
+    "key": "97102102-title",
+    "original": "工場主と職員を綿密に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "工場主と職員を綿密に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공장주와 직원을 면밀히 살펴본다.\nEN:\nTake a closer look at the factory owner and the employee."
+  },
+  {
+    "key": "97102102-behaveDesc",
+    "original": "誰が手伝うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰が手伝うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누가 도울까?\nEN:\nWho will help?"
+  },
+  {
+    "key": "97102102-successDesc[0]",
+    "original": "囚人{0}は2人の間を行き来しながら悩んだ末、2人の1日の長さが完全に異なるということに気がついた。\n\n1日が80時間の工場主にとっては、職員が2時間もの間ずっと寝ていたように見えるけど…。\n\n1日が6時間の職員は9分弱居眠りしただけだと囚人{0}は伝えた。\n\n「ふむ、君は1日どれくらい働いているんだ？」\n\n「5……時……間……。」\n\n「そうか、それくらいだろうな。それならこのくらいにしておくか。次からは注意するんだな。」\n\n工場主は状況を理解したらしくこれ以上は何も言わず、職員の側を通り過ぎていった。\n\n助けたくれたことに対して感謝の意を表しているのだろうか。職員は非常に緩やかに腰を曲げ、何かを我々の手に握らせてくれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}は2人の間を行き来しながら悩んだ末、2人の1日の長さが完全に異なるということに気がついた。\n\n1日が80時間の工場主にとっては、職員が2時間もの間ずっと寝ていたように見えるけど…。\n\n1日が6時間の職員は9分弱居眠りしただけだと囚人{0}は伝えた。\n\n「ふむ、君は1日どれくらい働いているんだ？」\n\n「5……時……間……。」\n\n「そうか、それくらいだろうな。それならこのくらいにしておくか。次からは注意するんだな。」\n\n工場主は状況を理解したらしくこれ以上は何も言わず、職員の側を通り過ぎていった。\n\n助けたくれたことに対して感謝の意を表しているのだろうか。職員は非常に緩やかに腰を曲げ、何かを我々の手に握らせてくれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자는 두사람을 오가며 고민한 끝에, 둘의 하루 길이가 완전히 다르다는 걸 알아챘다.\n\n하루가 80시간인 공장주에게는 직원이 2시간 동안 내리 잔 것처럼 보이겠지만…\n\n하루 6시간인 직원은 9분 남짓 졸았을 뿐이라고 {0} 수감자는 말했다.\n\n\"흠, 자네가 하루에 얼마나 일하지?\"\n\n\"5… … 시… … 간… …\"\n\n\"그래, 그쯤이었지. 그럼 이 정도로 넘어가지. 다음부터는 주의하게.\"\n\n공장주는 상황을 이해한 듯 더 말하지 않고 직원을 지나갔다.\n\n도와준 것이 고마운지 직원은 아주 느릿하게 허리를 숙이며, 무언가를 우리 손에 쥐어주었다.\nEN:\n{0} paced between the two of them for a while, before coming to a realization that the lengths of their days were completely different.\n\nIn the eyes of the factory owner, who lives eighty-hour days, it may have looked as though the employee slept for two straight hours.\n\nBut for the employee, who only lives six-hour days, it must have been a mere nine-minute nap. {0} relays this information.\n\n\"Hm. How many hours do you work in a day?\"\n\n\"F...i...v...e... H...o...u...r...s...\"\n\n\"Hm, yes. That sounds about right. I'll let this one slide, but be careful not to make the same mistake twice.\"\n\nWith that, the owner walked past the employee.\n\nThe employee very slowly bowed at us in gratitude before leaving something in our hands."
+  },
+  {
+    "key": "97102102-failureDesc[0]",
+    "original": "2人の持っている時間が違うと囚人{0}は言った。\n\n「私がそんな事情まで一つ一つ考慮すべきだっていうのか？」\n\n「9分でも2時間でも、寝たのに変わりはない。お前はクビだ。」\n\n何か間違えたような気がしたけど、もう手遅れだ。\n\n職員は涙ぐみながらゆっくりと土下座までしたが、工場主は振り向きもせずに行ってしまった。\n\n残されたのは、のろい職員の号泣と私たちだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2人の持っている時間が違うと囚人{0}は言った。\n\n「私がそんな事情まで一つ一つ考慮すべきだっていうのか？」\n\n「9分でも2時間でも、寝たのに変わりはない。お前はクビだ。」\n\n何か間違えたような気がしたけど、もう手遅れだ。\n\n職員は涙ぐみながらゆっくりと土下座までしたが、工場主は振り向きもせずに行ってしまった。\n\n残されたのは、のろい職員の号泣と私たちだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n둘은 가진 시간이 다르다고 {0} 수감자는 말했다.\n\n\"내가 그런 사정까지 하나하나 봐줘야 하나?\"\n\n\"9분이든 2시간이든 잔 건 잔 거지. 자네는 당장 해고일세.\"\n\n뭔가 잘못됐다는 걸 느꼈지만 이미 늦었다.\n\n직원은 울먹거리면서 천천히 무릎까지 꿇었지만, 공장주는 뒤도 안 돌아보고 가버렸다.\n\n결국 남은 건, 느릿한 직원의 절규와 우리뿐이다.\nEN:\n{0} expressed that the employee lives shorter days than the owner.\n\n\"And why would that be any of my business?\"\n\n\"Nine minutes, two hours, it makes no difference. You still decided to sleep in the middle of a workday. You're fired.\"\n\nSomething was wrong—but it was too late.\n\nThe employee very slowly fell to their knees, tears welling in their eyes, but the factory owner did not even bat an eye before turning around and leaving the room.\n\nWe were left alone with the employee's slow, excruciating wailing."
+  },
+  {
+    "key": "97102201-behaveDesc",
+    "original": "誰が話すんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰が話すんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누가 말할까?\nEN:\nWho will speak?"
+  },
+  {
+    "key": "97102201-successDesc[0]",
+    "original": "囚人{0}がそんな計算はおかしいと言った。\n\n他の囚人たちも、ちょうど辺りに徴収所があるし、金額も大きいから確認した方がよさそうだと周囲の注意を引いた。\n\n通りを歩いていた人たちがヒソヒソし始めると、時間徴収者は仕方なさそうに頷いた。\n\n「そういえば、あなたは時計を持っていませんね。」\n\n「あまり騒ぎを起こさない方が良いでしょう。」\n\n執行を阻まれたことが気に食わなかったせいか、徴収者は無駄にケチをつけながら囚人に何かを貼り付けて消えていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}がそんな計算はおかしいと言った。\n\n他の囚人たちも、ちょうど辺りに徴収所があるし、金額も大きいから確認した方がよさそうだと周囲の注意を引いた。\n\n通りを歩いていた人たちがヒソヒソし始めると、時間徴収者は仕方なさそうに頷いた。\n\n「そういえば、あなたは時計を持っていませんね。」\n\n「あまり騒ぎを起こさない方が良いでしょう。」\n\n執行を阻まれたことが気に食わなかったせいか、徴収者は無駄にケチをつけながら囚人に何かを貼り付けて消えていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 그런 계산은 이상하다고 말한다.\n\n다른 수감자도 마침 주변에 징수소가 있고, 큰 금액이니 확인해 보는 게 좋을 것 같다고 주변의 주의를 끈다.\n\n거리를 지나던 사람들이 수군거리자, 시간 징수자는 마지못해 고개를 끄덕였다.\n\n\"그러고 보니 당신, 시계가 없군요.\"\n\n\"너무 소란 피우지 않는 편이 좋을 겁니다.\"\n\n집행을 막아선 것이 마음에 들지 않는지, 징수자는 괜히 트집을 잡으며 수감자에게 무언가를 붙이고 사라졌다.\nEN:\n{0} claims that there is something wrong with their calculation.\n\nThe other Sinners chime in to say that they should probably get that amount verified. One of them notes that, conveniently, there is a Collections Office nearby.\n\nThe whispering crowd begins to grow around the commotion, and the Time Collector eventually gives in.\n\n\"Looks like you're not carrying a timepiece.\"\n\n\"I would stay out of trouble if I were you.\"\n\nClearly annoyed by the obstruction, the Time Collector grumbled about something and left; but not before taping something to the Sinner's clothes."
+  },
+  {
+    "key": "97102201-failureDesc[0]",
+    "original": "囚人{0}がそんな計算はおかしいと言った。\n\n他の囚人たちも、ちょうど辺りに徴収所があるし、金額も大きいから確認した方がよさそうだと周囲の注意を引いた。\n\n通りがざわめきで騒がしくなった。\n\n「そういえば、あなたは時計を持っていませんね。」\n\n「通りで騒ぎまで起こしたのですから、徴収いたします。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}がそんな計算はおかしいと言った。\n\n他の囚人たちも、ちょうど辺りに徴収所があるし、金額も大きいから確認した方がよさそうだと周囲の注意を引いた。\n\n通りがざわめきで騒がしくなった。\n\n「そういえば、あなたは時計を持っていませんね。」\n\n「通りで騒ぎまで起こしたのですから、徴収いたします。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 그런 계산은 이상하다고 말한다.\n\n다른 수감자도 마침 주변에 징수소가 있고, 큰 금액이니 확인해 보는 게 좋을 것 같다고 주변의 주의를 끈다.\n\n거리가 웅성거림으로 소란스러워진다.\n\n\"그러고 보니 당신, 시계가 없군요.\"\n\n\"거리에 소란까지 피웠으니, 징수하겠습니다.\"\nEN:\n{0} claims that there is something wrong with their calculation.\n\nThe other Sinners chime in to say that they should probably get that amount verified. One of them notes that, conveniently, there is a Collections Office nearby.\n\nThe whispering crowd begins to grow around the commotion.\n\n\"Looks like you're not carrying a timepiece.\"\n\n\"Not only that, you are also disturbing the peace of our good citizenry. I will have to collect your taxes.\""
+  },
+  {
+    "key": "97102301-behaveDesc",
+    "original": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자에게 부탁할까?\nEN:\nWho will step up?"
+  },
+  {
+    "key": "97102301-successDesc[0]",
+    "original": "辛うじて追いついた青年に、時間が多そうなのに何がそんなに忙しいのかと聞いてみた。\n\n青年は囚人{0}の返事を待つことさえ惜しいのか、時計を何度も覗きながら小走りで動き回っている。\n\n「早く仕事を片付けて、もっと時間を持つんです！」\n\n「あそこの工場主は、1日に10時間は私より長く生きてるはずです！」\n\n囚人{0}は首を傾け、より多くの時間をどこに使うか尋ねた。\n\n「より多くの時間を持てば、より多くの時間働くことができるんですよ！あっ、遅れそうなのでそれでは。」\n\n青年は遅れる言いながら急いで建物の中に飛び込んだ。\n\nあれほど多くの時間を持ちながら、結局どこに使うかは分からなかった。\n\n青年が去った場所に何か残っている。\n\n返すにも、彼はあまりにも遠くへ行ってしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "辛うじて追いついた青年に、時間が多そうなのに何がそんなに忙しいのかと聞いてみた。\n\n青年は囚人{0}の返事を待つことさえ惜しいのか、時計を何度も覗きながら小走りで動き回っている。\n\n「早く仕事を片付けて、もっと時間を持つんです！」\n\n「あそこの工場主は、1日に10時間は私より長く生きてるはずです！」\n\n囚人{0}は首を傾け、より多くの時間をどこに使うか尋ねた。\n\n「より多くの時間を持てば、より多くの時間働くことができるんですよ！あっ、遅れそうなのでそれでは。」\n\n青年は遅れる言いながら急いで建物の中に飛び込んだ。\n\nあれほど多くの時間を持ちながら、結局どこに使うかは分からなかった。\n\n青年が去った場所に何か残っている。\n\n返すにも、彼はあまりにも遠くへ行ってしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n간신히 따라잡은 청년에게 시간도 많아 보이는데 뭐가 그렇게 바쁘냐고 물어봤다.\n\n청년은 {0} 수감자의 말을 기다리는 것조차 아까운지, 시계를 힐끔거리며 종종걸음으로 사방을 뛰어다닌다.\n\n\"빨리 일해야, 더 많은 시간을 가지죠!\"\n\n\"저기 공장 주인은 저보다 하루에 10시간은 더 살 걸요!\"\n\n{0} 수감자는 고개를 기울이며, 더 많은 시간을 가져 어디에 쓸 것이냐 물었다.\n\n\"더 많은 시간을 가지면, 더 많은 시간을 일할 수 있죠! 아, 늦어서 가볼게요.\"\n\n청년은 늦었다며 다급히 건물 안으로 뛰어 들어갔다.\n\n그렇게 많은 시간을 가져 어디에 쓸지는 결국 알지 못했다.\n\n청년이 떠난 자리에 무언가 남아있다.\n\n돌려주기에 그는 이미 너무 멀리 가버렸다.\nEN:\nAfter barely managing to catch up to the youth, {0} asks them what's gotten them in such a hurry.\n\nThe youth keeps glancing at his watch, clearly impatient about even waiting for {0}'s question to finish. He keeps pacing from one location to another.\n\n\"I have to work fast so I can make more time!\"\n\n\"That factory owner there? I'm sure he's got ten more hours in his life than I do!\"\n\n{0} leans in and asks the youth: \"what are you going to use all that time for?\"\n\n\"With more time, I can use that time to work longer hours! Agh, I'm late! Gotta run, bye!\"\n\nThe youth hurriedly runs into the building.\n\nWe never did find out what he really wanted to do with all that time.\n\nLooks like he dropped something in his hurry...\n\nBut he's already too far gone to give it back."
+  },
+  {
+    "key": "97102301-failureDesc[0]",
+    "original": "青年に追いつけなかった。\n\nしょうがないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青年に追いつけなかった。\n\nしょうがないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n청년을 따라잡지 못했다.\n\n어쩔 수 없지.\nEN:\nYou couldn't catch up to the youth.\n\nOh well."
+  },
+  {
+    "key": "97102302-behaveDesc",
+    "original": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人に頼もうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자에게 부탁할까?\nEN:\nWho will step up?"
+  },
+  {
+    "key": "97102302-successDesc[0]",
+    "original": "時間が無さそうなのに、どうしてそんな顔をしていられるのか聞いてみた。\n\nすると老人は慈しみ深く笑いながら、とてもゆっくりと紙に書いて見せてくれた。\n\n「大事なのはどれだけ多くの時間を持ったかではないんじゃ。」\n\n「与えられた時間をどう使うかが重要なのじゃ。」\n\n「目まぐるしく動く世界の中、一人でゆっくりと歩いているこのとても快い瞬間に、どうして悪い表情を浮かべられようか？」\n\n老人はゆっくりと振り返って歩き始める。\n\n老人のいた場所に何か残っている。\n\n返そうと頭を上げたが、もう老人は見当たらなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間が無さそうなのに、どうしてそんな顔をしていられるのか聞いてみた。\n\nすると老人は慈しみ深く笑いながら、とてもゆっくりと紙に書いて見せてくれた。\n\n「大事なのはどれだけ多くの時間を持ったかではないんじゃ。」\n\n「与えられた時間をどう使うかが重要なのじゃ。」\n\n「目まぐるしく動く世界の中、一人でゆっくりと歩いているこのとても快い瞬間に、どうして悪い表情を浮かべられようか？」\n\n老人はゆっくりと振り返って歩き始める。\n\n老人のいた場所に何か残っている。\n\n返そうと頭を上げたが、もう老人は見当たらなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간도 없어 보이는데 어떻게 그런 표정을 지을 수 있는지 물어봤다.\n\n그러자 노인은 인자하게 웃으며, 아주 느리게 종이에 글을 써 보여주었다.\n\n'중요한 것은 얼마나 많은 시간을 가졌느냐가 아니라네.'\n\n'주어진 시간을 어떻게 쓰느냐가 중요하지.'\n\n'아주 빠른 세상 속에 홀로 천천히 걷는 이 좋은 순간에 어찌 나쁜 표정을 짓겠나?'\n\n노인은 천천히 뒤로 돌아 걷기 시작한다.\n\n노인이 떠난 자리에 무언가 남아있다.\n\n돌려주려 고개를 들었으나, 더 이상 노인은 보이지 않는다.\nEN:\nYou ask the old man: \"How can you smile like that when it's clear that you have such little time?\"\n\nThe old man smiles gently before writing something down on a paper.\n\n'Life is not a matter of how much time we have.'\n\n'What truly matters is how we use the time that is given to us.'\n\n'How can I make any other face but a smile when, at this moment, I am afforded leisure in such a hurrying world?'\n\nThe old man slowly turns around and walks away.\n\nLooks like he left something behind.\n\nYou look up to return the item to the old man... but he's already gone."
+  },
+  {
+    "key": "97102302-failureDesc[0]",
+    "original": "時間が無さそうなのに、どうしてそんな顔をしていられるのか聞いてみた。\n\nすると老人は慈しみ深く笑いながら、とてもゆっくりと紙に書き始めた。\n\nこうしている時間はない。\n\n文字を書いている老人を置いて、先程の道に戻った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間が無さそうなのに、どうしてそんな顔をしていられるのか聞いてみた。\n\nすると老人は慈しみ深く笑いながら、とてもゆっくりと紙に書き始めた。\n\nこうしている時間はない。\n\n文字を書いている老人を置いて、先程の道に戻った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간도 없어 보이는데 어떻게 그런 표정을 지을 수 있는지 물어봤다.\n\n그러자 노인은 인자하게 웃으며, 아주 느리게 종이에 글을 쓰기 시작한다.\n\n이러고 있을 시간은 없지.\n\n글을 쓰는 노인을 놔두고, 다시 갈 길을 보챘다.\nEN:\nYou ask the old man: \"How can you smile like that when it's clear that you have such little time?\"\n\nThe old man smiles gently before writing something down on a paper.\n\nWe don't have time for this nonsense.\n\nYou hurry on your path, leaving the old man behind."
+  },
+  {
+    "key": "97102401-behaveDesc",
+    "original": "どの囚人が伝えてあげるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人が伝えてあげるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자가 전해줄까?\nEN:\nWho will deliver it?"
+  },
+  {
+    "key": "97102401-successDesc[0]",
+    "original": "団結せよ！\n\nスローガンを叫びながら、ユロージヴィは金持ちから盗んだ酒を何本か取り出して、積み上げられたグラスにたんまりと注ぐ。\n\n上のグラスからこぼれた酒が下に流れ、下のグラスをいっぱいに満たした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "団結せよ！\n\nスローガンを叫びながら、ユロージヴィは金持ちから盗んだ酒を何本か取り出して、積み上げられたグラスにたんまりと注ぐ。\n\n上のグラスからこぼれた酒が下に流れ、下のグラスをいっぱいに満たした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단결하라!\n\n구호를 연신 외치며, 유로지비는 부자들에게서 훔친 술 몇병을 꺼내 쌓인 잔에 잔뜩 따른다.\n\n윗잔에서 흘러넘친 술이 아래로 흘러 밑잔을 가득 채운다.\nEN:\nUnite!\n\nThe Yurodivy produces a few bottles of liquor stolen from the rich and pours it over the pile of chalices, all the while shouting the chant."
+  },
+  {
+    "key": "97102401-failureDesc[0]",
+    "original": "ぎこちなく叫んだスローガンに、疑いの目が向けられた。\n\n用事があるという苦しい言い訳をして、素早くアジトから抜け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぎこちなく叫んだスローガンに、疑いの目が向けられた。\n\n用事があるという苦しい言い訳をして、素早くアジトから抜け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어색하게 외친 구호에, 의심의 눈빛이 쏟아지기 시작했다.\n\n바쁜 일이 있다는 구차한 핑계를 대며, 빠르게 아지트에서 빠져나갔다.\nEN:\nThat was a very awkward chant. Everyone suddenly shoots a suspicious look in your direction.\n\nYou make some bad excuses about having places to be before quickly booking it from the hideout."
+  },
+  {
+    "key": "97102501-behaveDesc",
+    "original": "どの囚人が言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どの囚人が言うんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 수감자가 말할까?\nEN:\nWho will speak?"
+  },
+  {
+    "key": "97102501-successDesc[0]",
+    "original": "できる限りのことはやってみたけれど、有意義な助けにはならなかった。\n\n動きもせず、物理的な干渉も通用しない。\n\nただ調査中、ダイナミックな姿勢の被害者の足元から不審な領収書を発見した。\n\nこれは手がかりになるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "できる限りのことはやってみたけれど、有意義な助けにはならなかった。\n\n動きもせず、物理的な干渉も通用しない。\n\nただ調査中、ダイナミックな姿勢の被害者の足元から不審な領収書を発見した。\n\nこれは手がかりになるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n할 수 있는 모든 걸 해보았지만, 의미 있는 도움을 줄 순 없었다.\n\n움직이지도 않고, 물리적인 간섭도 통하지 않는다.\n\n다만, 조사하던 중 역동적인 자세의 피해자 발밑에서 수상한 영수증을 발견했다.\n\n이건 단서가 될지도 모른다.\nEN:\nYou've done everything you could, but none of it yielded a meaningful result.\n\nThey can't move, and you can't physically touch them.\n\nBut you find a suspicious looking receipt from under the victim's foot.\n\nThis might be a clue."
+  },
+  {
+    "key": "97102501-failureDesc[0]",
+    "original": "できる限りのことはやってみたけれど、有意義な助けにはならなかった。\n\n動きもせず、物理的な干渉も通用しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "できる限りのことはやってみたけれど、有意義な助けにはならなかった。\n\n動きもせず、物理的な干渉も通用しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n할 수 있는 모든 걸 해보았지만, 의미 있는 도움을 줄 순 없었다.\n\n움직이지도 않고, 물리적인 간섭도 통하지 않는다.\nEN:\nYou've done everything you could, but none of it yielded a meaningful result.\n\nThey can't move, and you can't physically touch them."
+  }
+]

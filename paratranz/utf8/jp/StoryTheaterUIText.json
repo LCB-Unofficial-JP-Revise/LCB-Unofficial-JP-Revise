@@ -1,0 +1,541 @@
+[
+  {
+    "key": "MAINSTORY-content",
+    "original": "メインストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주요이야기\nEN:\nMain Story"
+  },
+  {
+    "key": "PERSONALITYSTORY-content",
+    "original": "人格ストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格ストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 이야기\nEN:\nIdentity Archive"
+  },
+  {
+    "key": "NOTE_OF_DANTE-content",
+    "original": "ダンテのノート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダンテのノート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단테의 노트\nEN:\nDante’s Notes"
+  },
+  {
+    "key": "EPISODE-content",
+    "original": "{0}話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}화\nEN:\nEp. {0}"
+  },
+  {
+    "key": "PAGE-content",
+    "original": "{0}章\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}章\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}장\nEN:\nPg. {0}"
+  },
+  {
+    "key": "PROGRESS-content",
+    "original": "進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진행도\nEN:\nProgress"
+  },
+  {
+    "key": "Before-content",
+    "original": "戦闘前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 전\nEN:\nPre-battle"
+  },
+  {
+    "key": "After-content",
+    "original": "戦闘後\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘後\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 후\nEN:\nPost-battle"
+  },
+  {
+    "key": "ENTER-content",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nEnter"
+  },
+  {
+    "key": "CLOSE-content",
+    "original": "閉じる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "閉じる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닫기\nEN:\nClose"
+  },
+  {
+    "key": "MIRRORWOLDS-content",
+    "original": "鏡の世界\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡の世界\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울 세계들\nEN:\nMirror Worlds"
+  },
+  {
+    "key": "STORY-content",
+    "original": "ストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스토리\nEN:\nStory"
+  },
+  {
+    "key": "SECURITY_MATERIAL-content",
+    "original": "保安資料\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保安資料\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보안 자료\nEN:\nClassified Logs"
+  },
+  {
+    "key": "SPEECH-content",
+    "original": "台詞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "台詞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대사\nEN:\nDialogue"
+  },
+  {
+    "key": "OPEN_CONDITION-content",
+    "original": "解放条件:\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "解放条件:\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n개방 조건:\nEN:\nTo Unlock:"
+  },
+  {
+    "key": "DEEP_ANALYSIS-content",
+    "original": "深層分析:\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深層分析:\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심층 분석:\nEN:\nIn-depth:"
+  },
+  {
+    "key": "DATA_DOWNLOAD-content",
+    "original": "データダウンロード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "データダウンロード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n데이터 다운로드\nEN:\nData Download"
+  },
+  {
+    "key": "DATA_DOWNLOAD_DESC-content",
+    "original": "音声を再生しますか？\n再生時に追加データをダウンロードします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "音声を再生しますか？\n再生時に追加データをダウンロードします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음성을 재생하시겠습니까?\n재생 시, 추가 데이터를 다운로드 합니다.\nEN:\nPlay sound files for voiced dialogue?\nAdditional data will be downloaded."
+  },
+  {
+    "key": "DATA_DOWNLOAD_NO-content",
+    "original": "音声なし\n(0.00MB)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "音声なし\n(0.00MB)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음성 없음\n(0.00MB)\nEN:\nUnvoiced\n(0.00 MB)"
+  },
+  {
+    "key": "DATA_DOWNLOAD_YES-content",
+    "original": "音声あり\n({0}MB)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "音声あり\n({0}MB)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음성 있음\n({0}MB)\nEN:\nVoiced\n({0} MB)"
+  },
+  {
+    "key": "CV_1-content",
+    "original": "ミン・スンウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ミン・スンウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n민승우\nEN:\nMin Seung-woo"
+  },
+  {
+    "key": "CV_2-content",
+    "original": "パク・ジユン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パク・ジユン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n박지윤\nEN:\nPark Ji-yoon"
+  },
+  {
+    "key": "CV_3-content",
+    "original": "キム・イェリム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キム・イェリム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n김예림\nEN:\nKim Yea-lim"
+  },
+  {
+    "key": "CV_4-content",
+    "original": "イ・セア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イ・セア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이새아\nEN:\nYi Sae-ah"
+  },
+  {
+    "key": "CV_5-content",
+    "original": "グォン・ソンヒョク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グォン・ソンヒョク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n권성혁\nEN:\nKwon Sung-hyuk"
+  },
+  {
+    "key": "CV_6-content",
+    "original": "キム・シンウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キム・シンウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n김신우\nEN:\nKim Sin-woo"
+  },
+  {
+    "key": "CV_7-content",
+    "original": "ホン・スンヒョ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホン・スンヒョ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍승효\nEN:\nHong Seung-hyo"
+  },
+  {
+    "key": "CV_8-content",
+    "original": "ジャン・イェナ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ジャン・イェナ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장예나\nEN:\nJang Ye-na"
+  },
+  {
+    "key": "CV_9-content",
+    "original": "ユン・アヨン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ユン・アヨン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n윤아영\nEN:\nYoon A-young"
+  },
+  {
+    "key": "CV_10-content",
+    "original": "キム・ダウル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キム・ダウル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n김다올\nEN:\nKim Da-ol"
+  },
+  {
+    "key": "CV_11-content",
+    "original": "キム・ボナ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キム・ボナ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n김보나\nEN:\nKim Bo-na"
+  },
+  {
+    "key": "CV_12-content",
+    "original": "チェ・ハン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チェ・ハン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최한\nEN:\nChoi Han"
+  },
+  {
+    "key": "gacksung-content",
+    "original": "同期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화\nEN:\nUptie"
+  },
+  {
+    "key": "EnterStoryPopupDesc-content",
+    "original": "{0}へ\n入場しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}へ\n入場しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}에\n입장하시겠습니까?\nEN:\nWill you enter\n{0}?"
+  },
+  {
+    "key": "No-content",
+    "original": "キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n취소\nEN:\nCancel"
+  },
+  {
+    "key": "DetailStoryDungeon-content",
+    "original": "ストーリーダンジョン内部\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ストーリーダンジョン内部\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스토리 던전 내부\nEN:\nWithin Story Dungeon"
+  },
+  {
+    "key": "NeedsPersonality-content",
+    "original": "必要な人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必要な人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n필요 인격\nEN:\nIdentity Required"
+  },
+  {
+    "key": "NeedsPersonalityButton-content",
+    "original": "必要な人格を見る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必要な人格を見る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n필요 인격 보기\nEN:\nView Requirements"
+  },
+  {
+    "key": "MainStoryOpenCondition_101-content",
+    "original": "1-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1-1 스테이지 클리어\nEN:\nClear 1-1"
+  },
+  {
+    "key": "MainStoryOpenCondition_102-content",
+    "original": "2-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2-1 스테이지 클리어\nEN:\nClear 2-1"
+  },
+  {
+    "key": "MainStoryOpenCondition_103-content",
+    "original": "3-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "3-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3-1 스테이지 클리어\nEN:\nClear 3-1"
+  },
+  {
+    "key": "PersonalityStory_OpenCodition-content",
+    "original": "人格同期化{0}段階 解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格同期化{0}段階 解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 동기화 {0}단계 개방\nEN:\nUnlocked at Uptie Tier {0}"
+  },
+  {
+    "key": "OTHERSTORY-content",
+    "original": "その他のストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その他のストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 밖의 이야기\nEN:\nDetour Tales"
+  },
+  {
+    "key": "DanteNote_Record-content",
+    "original": "記録\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "記録\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기록\nEN:\nRecord"
+  },
+  {
+    "key": "DanteNote_Time-content",
+    "original": "時間順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간순\nEN:\nTime"
+  },
+  {
+    "key": "DanteNote_Update-content",
+    "original": "記録順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "記録順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기록순\nEN:\nUpdate"
+  },
+  {
+    "key": "DanteNote_Main-content",
+    "original": "どこから書くべきか分からない。\nどこから記憶を失ったのかも分からないから当然か。\nとりあえず、記憶にないものに遭遇したらそのたびに書いてみようと思う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どこから書くべきか分からない。\nどこから記憶を失ったのかも分からないから当然か。\nとりあえず、記憶にないものに遭遇したらそのたびに書いてみようと思う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어디서부터 써야 하는지 모르겠다.\n어디서부터 기억을 잃었는지도 모르겠으니까 당연한가.\n일단, 기억에 없는 것들을 마주치면 닥치는 대로 적어볼까 한다.\nEN:\nI’m not sure where to even start.\nI guess it’s only natural, given that I can’t tell how much I forgot to begin with.\nMaybe I’ll start by making notes whenever I run into things I don’t remember."
+  },
+  {
+    "key": "MINI-content",
+    "original": "MINI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "MINI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nMINI\nEN:\nMini"
+  },
+  {
+    "key": "DetailStoryMini-content",
+    "original": "ミニエピソード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ミニエピソード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미니 에피소드\nEN:\nMini Episodes"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9103-content",
+    "original": "3.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "3.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3.5-1 스테이지 클리어\nEN:\nClear 3.5-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9010-content",
+    "original": "3.5-9 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "3.5-9 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3.5-9 스테이지 클리어\nEN:\nClear 3.5-9"
+  },
+  {
+    "key": "MainStoryOpenCondition_104-content",
+    "original": "4-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4-1 스테이지 클리어\nEN:\nClear 4-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9104-content",
+    "original": "4.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4.5-1 스테이지 클리어\nEN:\nClear 4.5-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9011-content",
+    "original": "4.5-11 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4.5-11 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4.5-11 스테이지 클리어\nEN:\nClear 4.5-11"
+  },
+  {
+    "key": "MainStoryOpenCondition_105-content",
+    "original": "5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5-1 스테이지 클리어\nEN:\nClear 5-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9012-content",
+    "original": "5-36 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5-36 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5-36 스테이지 클리어\nEN:\nClear 5-36"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9105-content",
+    "original": "5.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5.5-1 스테이지 클리어\nEN:\nClear 5.5-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9013-content",
+    "original": "5.5-12 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5.5-12 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5.5-12 스테이지 클리어\nEN:\nClear 5.5-12"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9014-content",
+    "original": "5.5-12 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5.5-12 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5.5-12 스테이지 클리어\nEN:\nClear 5.5-12"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9107-content",
+    "original": "5.5-13 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5.5-13 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5.5-13 스테이지 클리어\nEN:\nClear 5.5-13"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9015-content",
+    "original": "5.5-24 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5.5-24 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5.5-24 스테이지 클리어\nEN:\nClear 5.5-24"
+  },
+  {
+    "key": "MainStoryOpenCondition_106-content",
+    "original": "6-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6-1 스테이지 클리어\nEN:\nClear 6-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9016-content",
+    "original": "6-48 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6-48 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6-48 스테이지 클리어\nEN:\nClear 6-48"
+  },
+  {
+    "key": "theStoryOf-content",
+    "original": "の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의 이야기\nEN:\n's Story"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9109-content",
+    "original": "6.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6.5-1 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6.5-1 스테이지 클리어\nEN:\nClear 6.5-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9017-content",
+    "original": "6-48 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6-48 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6-48 스테이지 클리어\nEN:\nClear 6-48"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9110-content",
+    "original": "6.5-16 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6.5-16 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6.5-16 스테이지 클리어\nEN:\nClear 6.5-16"
+  },
+  {
+    "key": "personality_voice_section_before_clear_chapter_format-content",
+    "original": "{0}章前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}章前\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}장 전\nEN:\nPre\nCanto {0}"
+  },
+  {
+    "key": "personality_voice_section_after_clear_chapter_format-content",
+    "original": "{0}章後\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}章後\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}장 후\nEN:\nPost\nCanto {0}"
+  },
+  {
+    "key": "PersonalityStory_OpenCodition_UnlockCode106-content",
+    "original": "6章クリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6章クリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6장 클리어\nEN:\nClear Canto VI"
+  },
+  {
+    "key": "PersoanlityStory_After-content",
+    "original": "(その後)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "(その後)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n(그 후)\nEN:\n(The After)"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9018-content",
+    "original": "6.5-30 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6.5-30 ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6.5-30 스테이지 클리어\nEN:\nClear 6.5-30"
+  },
+  {
+    "key": "MainStoryOpenCondition_107-content",
+    "original": "7-1ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "7-1ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n7-1 스테이지 클리어\nEN:\nClear 7-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9019-content",
+    "original": "7-36ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "7-36ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n7-36 스테이지 클리어\nEN:\nClear 7-36"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9114-content",
+    "original": "7.5-1ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "7.5-1ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n7.5-1 스테이지 클리어\nEN:\nClear 7.5-1"
+  },
+  {
+    "key": "OtherStoryOpenCondition_9116-content",
+    "original": "7.5-15ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "7.5-15ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n7.5-15 스테이지 클리어\nEN:\nClear 7.5-15"
+  },
+  {
+    "key": "MainStoryOpenCondition_108-content",
+    "original": "8-1ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "8-1ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n8-1 스테이지 클리어\nEN:\nClear 8-1"
+  }
+]

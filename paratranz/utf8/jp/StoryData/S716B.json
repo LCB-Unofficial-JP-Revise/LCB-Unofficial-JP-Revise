@@ -1,0 +1,940 @@
+[
+  {
+    "key": "0-place",
+    "original": "ファンタジー・ブラッドシューティング\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファンタジー・ブラッドシューティング\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판타지 블러드 슈팅\nEN:\nFantasy Blood-shooting"
+  },
+  {
+    "key": "0-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "0-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "0-content",
+    "original": "勇敢な冒険家様の名前を教えてくださいませぇ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "勇敢な冒険家様の名前を教えてくださいませぇ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n용감한 모험가님의 이름을 알려주세요.\nEN:\nTell us your name, O brave adventurer."
+  },
+  {
+    "key": "1-content",
+    "original": "<color=#84a79d>それが、お前が進んでゆくべき冒険の条件だ。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#84a79d>それが、お前が進んでゆくべき冒険の条件だ。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#84a79d&gt;그것이 네가 나아갈 모험의 조건이다.&lt;/color&gt;\nEN:\n&lt;color=#84a79d&gt;That is the condition of your adventure.&lt;/color&gt;"
+  },
+  {
+    "key": "2-content",
+    "original": "<color=#84a79d>これを受け容れる気持ちがあるなら、お前の名前を俺に話せ。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#84a79d>これを受け容れる気持ちがあるなら、お前の名前を俺に話せ。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#84a79d&gt;이를 받아들일 마음이 있다면, 너의 이름을 내게 말해라.&lt;/color&gt;\nEN:\n&lt;color=#84a79d&gt;If you are willing to accept these terms, then speak your name to me.&lt;/color&gt;"
+  },
+  {
+    "key": "3-place",
+    "original": "ファンタジー・ブラッドシューティング\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファンタジー・ブラッドシューティング\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판타지 블러드 슈팅\nEN:\nFantasy Blood-shooting"
+  },
+  {
+    "key": "3-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "4-content",
+    "original": "我が名は…ドンキホーテだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が名は…ドンキホーテだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 몸의 이름은… 돈키호테다.\nEN:\nThou shalt know that my name... is Don Quixote."
+  },
+  {
+    "key": "5-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "5-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "5-content",
+    "original": "あ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아…\nEN:\nAhh..."
+  },
+  {
+    "key": "6-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "6-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "6-content",
+    "original": "その名前を使うだなんて、アンタも\nアタシたちみたいに狂っちゃったんだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その名前を使うだなんて、アンタも\nアタシたちみたいに狂っちゃったんだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 이름을 쓰다니 너도 우리처럼 미쳐버렸구나…\nEN:\nTo use that name... You've gone just as insane as the rest of us..."
+  },
+  {
+    "key": "7-content",
+    "original": "一瞬のうちにナレーションの声がぼやけると、しばし沈黙が続いた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一瞬のうちにナレーションの声がぼやけると、しばし沈黙が続いた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순간, 내레이션의 목소리가 흐릿하게 바뀌더니, 잠시 침묵이 이어졌다.\nEN:\nThe voice from the announcement system briefly fell hesitant, and an extended silence followed."
+  },
+  {
+    "key": "8-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "8-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "8-content",
+    "original": "…冒険家ドンキホーテとそのお友だちはファンタジー・ブラッドシューティングで\n1位を達成しました！おめでとうございますぅ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…冒険家ドンキホーテとそのお友だちはファンタジー・ブラッドシューティングで\n1位を達成しました！おめでとうございますぅ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…모험가 돈키호테와 그 친구들은 판타지 블러드 슈팅에서 1위를 달성했습니다! 축하합니다.\nEN:\n... Brave Don Quixote, the adventurer, and her friends placed first in the Fantasy Blood-shooting Range competition! Salutations and Congratulations!"
+  },
+  {
+    "key": "9-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "9-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "9-content",
+    "original": "報酬は！？ドキドキドキドキ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬は！？ドキドキドキドキ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상은?! 두근두근두근두근…\nEN:\nWhat shall be your reward?! Drum roll please, everyone~"
+  },
+  {
+    "key": "10-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "10-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "10-content",
+    "original": "押すだけでこのラ・マンチャランドで最高にイケてるアトラクションに\n乗りに行ける道が開くボタンですわぁ～！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押すだけでこのラ・マンチャランドで最高にイケてるアトラクションに\n乗りに行ける道が開くボタンですわぁ～！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누르기만 하면 이 라만차랜드에서 제일 끝내주는 놀이기구를 타러 갈 수 있는 길이 열리는 버튼입니다~!\nEN:\nTa-da! Here's a button that opens the path to the finest attraction of all time in La Manchaland~!"
+  },
+  {
+    "key": "11-teller",
+    "original": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ナレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내레이션\nEN:\nNarrator"
+  },
+  {
+    "key": "11-title",
+    "original": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드\nEN:\nLa Manchaland"
+  },
+  {
+    "key": "11-content",
+    "original": "勇敢な冒険家だけが乗れるラ・マンチャランドのハイライトアトラクション！\nホーンテッド・ブラッディ・メアリー！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "勇敢な冒険家だけが乗れるラ・マンチャランドのハイライトアトラクション！\nホーンテッド・ブラッディ・メアリー！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n용감한 모험가들만 탈 수 있는 라만차랜드의 하이라이트 어트랙션! 헌티드 블러디 메리!\nEN:\n'The Haunted: Bloody Mary', the highlight of La Manchaland, the frightening challenge that only the bravest of adventurers dare face!"
+  },
+  {
+    "key": "12-content",
+    "original": "<これ、次の区域に行ける装置みたい…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<これ、次の区域に行ける装置みたい…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;이게 다음 구역으로 갈 수 있는 장치인가봐…&gt;\nEN:\n&lt;So this is the 'device' that leads us to our next destination, huh...&gt;"
+  },
+  {
+    "key": "13-content",
+    "original": "でもこんなもんを…こんなに簡単に押させてくれんのか？\nボタンまで手ずから用意して？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でもこんなもんを…こんなに簡単に押させてくれんのか？\nボタンまで手ずから用意して？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런데 이런 걸… 이렇게 쉽게 누르게 해준다고? 버튼을 직접 대령해서?\nEN:\nThis seems a tad too easy, don't it? Just like that? And they even bring the button to you?"
+  },
+  {
+    "key": "14-content",
+    "original": "でも俺が買った情報によると…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でも俺が買った情報によると…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 제가 사둔 정보에 의하면…\nEN:\nAccording to the info I bought, though..."
+  },
+  {
+    "key": "15-content",
+    "original": "区域1に入って生きて出られる確率は25％程度でした。\n高い確率ではありませんが…かといって低い確率でもないですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "区域1に入って生きて出られる確率は25％程度でした。\n高い確率ではありませんが…かといって低い確率でもないですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1구역에 들어갔다가 살아서 나올 수 있는 확률은 25% 정도였어요. 높은 확률은 아니지만… 그렇다고 낮은 확률도 아니죠.\nEN:\nThere's only twenty-five percent chance of surviving through the first Area. The odds aren't great, but they're not terrible either."
+  },
+  {
+    "key": "16-content",
+    "original": "俺たちはその確率を突破して、ボタンを押せるようになったんです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "俺たちはその確率を突破して、ボタンを押せるようになったんです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저희는 그 확률을 뚫고 버튼을 누를 수 있게 된 거예요!\nEN:\nWhat really matters though, is that we made it through! The button's right here!"
+  },
+  {
+    "key": "17-content",
+    "original": "情報を買った…？どういうことですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情報を買った…？どういうことですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정보를 사…? 그게 무슨 말이죠?\nEN:\nYou... bought the info? What's that supposed to mean?"
+  },
+  {
+    "key": "18-content",
+    "original": "ブリーフィングで出た情報以外に、生存者の証言が\nもっとあったということですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ブリーフィングで出た情報以外に、生存者の証言が\nもっとあったということですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n브리핑에서 나온 정보 외에 생존자들의 증언이 더 있었다는 건가요?\nEN:\nAre you saying that there were more testimonies from survivors than what we heard earlier at the briefing?"
+  },
+  {
+    "key": "19-content",
+    "original": "はは…皆さんも、世間知らず過ぎますねぇ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はは…皆さんも、世間知らず過ぎますねぇ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하하… 여러분들 몰라도 너무 모르신다…\nEN:\nHa ha... wow. You guys really are new to this business, huh?"
+  },
+  {
+    "key": "20-content",
+    "original": "ラ・マンチャランドから生き残ってきたフィクサーたちが、\nなぜ愚直に貴重な情報をハナ協会に提供すると？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランドから生き残ってきたフィクサーたちが、\nなぜ愚直に貴重な情報をハナ協会に提供すると？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드에서 생존해 온 해결사들이 왜 곧이곧대로 귀중한 정보들을 하나 협회에게 제공하겠어요?\nEN:\nDo you really think that the Fixers who managed to survive La Manchaland would just... fork over their precious intel to the Hana Association?"
+  },
+  {
+    "key": "21-content",
+    "original": "当然、有用で価値のある情報は少数にだけ暗々裏で売るんですよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "当然、有用で価値のある情報は少数にだけ暗々裏で売るんですよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n당연히 쓸모 있고 값진 정보들은 소수에게만 암암리에 파는 거죠.\nEN:\nNo, of course not. They sell important intel like that to just a few people who's got the cash and the interest."
+  },
+  {
+    "key": "22-content",
+    "original": "区域1の装置を起動させるためには、そのアトラクションに登場する\n血袋たちを全て倒して1位を取らなければ出ないとありました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "区域1の装置を起動させるためには、そのアトラクションに登場する\n血袋たちを全て倒して1位を取らなければ出ないとありました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1구역의 장치를 가동시키기 위해서는 그 어트랙션에서 등장하는 피주머니들을 모조리 죽이고 1등을 차지해야만 나온다고 했어요.\nEN:\nThey also told me that, to activate the device in Area 1, we have to kill all the Bloodfiends in that attraction and place first in the leaderboard."
+  },
+  {
+    "key": "23-content",
+    "original": "…なぜそんな情報を事前に教えてくれなかったのだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…なぜそんな情報を事前に教えてくれなかったのだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…왜 그런 정보를 미리 이야기하지 않은 거지?\nEN:\n... And you neglected to tell us this why?"
+  },
+  {
+    "key": "24-content",
+    "original": "お、お互い信頼を築く時間が必要だっただけです…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お、お互い信頼を築く時間が必要だっただけです…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서… 서로 신뢰를 쌓는 시간이 필요했던 것뿐이죠…\nEN:\nW-well, I just thought we needed some time to build the trust between us before I started sharing things."
+  },
+  {
+    "key": "25-content",
+    "original": "まあ、私は分かるよ。\n高いお金を出して情報を買われたんでしょうし～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まあ、私は分かるよ。\n高いお金を出して情報を買われたんでしょうし～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐, 난 이해해. 비싼 돈 주고 정보를 사셨을 테니~\nEN:\nEh, I get it. I bet that intel wasn't cheap to come by~"
+  },
+  {
+    "key": "26-content",
+    "original": "そ、そうです…ふう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そ、そうです…ふう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마, 맞아요… 휴.\nEN:\nY-yeah, totally... whew."
+  },
+  {
+    "key": "27-content",
+    "original": "でも…こんなにスムーズに任務が終わったことってあったっけな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でも…こんなにスムーズに任務が終わったことってあったっけな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런데… 이렇게 수월하게 임무가 끝났던 적이 있었던가?\nEN:\n... Has our mission ever gone this smoothly before?"
+  },
+  {
+    "key": "28-content",
+    "original": "<ボタンを押せば私たちのこの区域でやるべきことは終わりなの？>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<ボタンを押せば私たちのこの区域でやるべきことは終わりなの？>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;버튼을 누르면 우리가 이 구역에서 할 일은 끝난 거야?&gt;\nEN:\n&lt;So... we press this button, and our job's done here?&gt;"
+  },
+  {
+    "key": "29-content",
+    "original": "確かに怪しいけど…押す以外に特にできることはあるだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "確かに怪しいけど…押す以外に特にできることはあるだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분명 수상쩍긴 하지만… 누르는 것 말고 별달리 할 수 있는 게 있을까?\nEN:\nIt's definitely suspicious how easy this was, but... what can we do? Not press it?"
+  },
+  {
+    "key": "30-content",
+    "original": "良い方向に考えれば…これで早く区域1を抜けて他の方々に合流できますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良い方向に考えれば…これで早く区域1を抜けて他の方々に合流できますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n좋게 생각하면… 이걸로 얼른 1구역을 벗어나서 다른 분들에게 합류할 수 있겠어요.\nEN:\nIf we're being optimistic... at least we should be able to get out of Area 1 now and join the others."
+  },
+  {
+    "key": "31-content",
+    "original": "血鬼と血袋に関する情報はそれほど広まっていない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血鬼と血袋に関する情報はそれほど広まっていない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈귀와 피주머니에 대한 정보는 그리 만연하지 않다.\nEN:\nConsider that information regarding Bloodfiends and Bloodbags is rare to come by for the public."
+  },
+  {
+    "key": "32-content",
+    "original": "慣れていない者がここで制限時間内に多くの血袋を除去する競争をしたなら、\n1位を取るのは難しかった可能性がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "慣れていない者がここで制限時間内に多くの血袋を除去する競争をしたなら、\n1位を取るのは難しかった可能性がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n익숙지 않은 자가 이곳에서 제한 시간 동안 많은 피주머니를 제거하는 경합을 한다면, 1등을 하기 힘들었을 가능성이 있다.\nEN:\nHad someone unfamiliar with the particulars of battling Bloodbags participated in this competition, it may have been difficult to place first in the leaderboard."
+  },
+  {
+    "key": "33-content",
+    "original": "うーん…それも一理あるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うーん…それも一理あるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으음… 그것도 일리가 있네.\nEN:\nHm... that's also true, I suppose."
+  },
+  {
+    "key": "34-content",
+    "original": "おい、大人しく残りの情報も吐け。\n信頼は十分に築いただろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おい、大人しく残りの情報も吐け。\n信頼は十分に築いただろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이봐, 순순히 나머지 정보들도 다 불어라. 신뢰는 충분히 쌓았겠지.\nEN:\nHey, what other information are you withholding from us? Spit it out. What more 'trust' do you need?"
+  },
+  {
+    "key": "35-content",
+    "original": "ウーティスが信頼という名の脅迫をしてヒューゴを急かした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティスが信頼という名の脅迫をしてヒューゴを急かした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스가 신뢰라는 이름의 협박을 들이밀면서 휴고를 부추겼다.\nEN:\nOutis shoved Hugo, practically threatening him with her odd emphasis on the word 'trust'."
+  },
+  {
+    "key": "36-content",
+    "original": "あの…その…えっと…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あの…その…えっと…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어… 그… 음…\nEN:\nThat's, uh. Um..."
+  },
+  {
+    "key": "37-content",
+    "original": "ここのどこかには、絶対に出会ってはいけない血鬼が3匹います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ここのどこかには、絶対に出会ってはいけない血鬼が3匹います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이곳 어딘가에는 반드시 마주치면 안 되는 혈귀들이 세 마리가 있어요.\nEN:\nThey say that there are three Bloodfiends here that we gotta avoid at all costs."
+  },
+  {
+    "key": "38-content",
+    "original": "管理人血鬼というらしく、生き残る確率を高めたいなら\nその3匹とは絶対に出くわすな…と言われました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人血鬼というらしく、生き残る確率を高めたいなら\nその3匹とは絶対に出くわすな…と言われました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자 혈귀들이라는데, 살아남을 확률을 높이고 싶다면 그 세 마리와 마주치는 건 꼭 피하라고… 하더라고요.\nEN:\nFixers call them the overseer Bloodfiends. If you want a better chance of survival, avoid them. Or so they say."
+  },
+  {
+    "key": "39-content",
+    "original": "区域ごとに1人ずついるようです。でも条件に彼らまで倒して来いという話は\nどこにもなかったじゃないですか、ラ・マンチャランドの討伐とは\n関係ないから…たぶん…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "区域ごとに1人ずついるようです。でも条件に彼らまで倒して来いという話は\nどこにもなかったじゃないですか、ラ・マンチャランドの討伐とは\n関係ないから…たぶん…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 구역당 한 명씩 있다는 모양이에요. 하지만 조건에 그들까지 죽이고 오라는 말은 어디에도 없었잖아요, 라만차랜드 토벌과는 상관없으니까… 아마도…\nEN:\nThere's one in each Area, but hey. At least it didn't say anywhere in the terms and conditions of the contract that we had to kill them, too. They don't have anything to do with eradicating La Manchaland, after all. ... Probably..."
+  },
+  {
+    "key": "40-content",
+    "original": "だから出くわさないのが一番良いと思います、俺たちはこのボタンさえ早く押せば…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だから出くわさないのが一番良いと思います、俺たちはこのボタンさえ早く押せば…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러니까 안 마주치는 게 제일 좋을 거예요, 우리는 이 버튼만 빠르게 누르면…\nEN:\nThe point is, we should try to steer clear of those monsters. Let's just hit that button and book it—"
+  },
+  {
+    "key": "41-content",
+    "original": "そうはいかぬ、フィクサーよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうはいかぬ、フィクサーよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럴 순 없네, 해결사여.\nEN:\nI cannot well bring myself to do such a thing, O Fixer."
+  },
+  {
+    "key": "42-content",
+    "original": "え、えぇ…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "え、えぇ…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으, 으응…?\nEN:\nUh... you can't...?"
+  },
+  {
+    "key": "43-content",
+    "original": "今も罪なき訪問客たちは皆ここで苦しんでいるではないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今も罪なき訪問客たちは皆ここで苦しんでいるではないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지금도 죄 없는 방문객들은 모두 이곳에서 고통받고 있지 않은가?\nEN:\nThe innocent visitors to this terrible place suffer still, do they not?"
+  },
+  {
+    "key": "44-content",
+    "original": "ここの管理をしている3匹の血鬼たちをすべて倒し、\nその罪を償わせるのが当然の道理ではあるまいか！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ここの管理をしている3匹の血鬼たちをすべて倒し、\nその罪を償わせるのが当然の道理ではあるまいか！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이곳을 관리하는 세 마리의 혈귀들을 모조리 물리치고 그 죗값을 치르게 하는 것이 합당한 도리이지 않겠는가!\nEN:\nThus, the only path of righteousness that remain before us is to defeat all three Bloodfiends, those beasts who watch over this slaughterhouse, and have them pay for their crimes!"
+  },
+  {
+    "key": "45-content",
+    "original": "…まったく、ちょっと止めてくださいよ！\n友達ですよね…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…まったく、ちょっと止めてくださいよ！\n友達ですよね…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…맙소사, 좀 말려봐요! 당신들 친구잖아요…\nEN:\n... Holy smokes, aren't you guys going to try to talk her out of this insanity? She's your friend, isn't she...?"
+  },
+  {
+    "key": "46-content",
+    "original": "止められるときに止められていたら\nどれほどよかっただろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "止められるときに止められていたら\nどれほどよかっただろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말릴 수 있었을 때 말려졌다면 얼마나 좋았을까.\nEN:\nBud, we already would've tried if we thought there was a snowball's chance in hell of convincing her."
+  },
+  {
+    "key": "47-content",
+    "original": "出てくるがよい、この極悪非道な血鬼め！\nこのドンキホーテが自ら決着をつけてやろう！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出てくるがよい、この極悪非道な血鬼め！\nこのドンキホーテが自ら決着をつけてやろう！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나와라, 이 극악무도한 혈귀놈! 이 돈키호테가 손수 결판을 내리라!\nEN:\nHark! Show thyself, thou wicked Bloodfiend! I, Don Quixote, shall vanquish thee!"
+  },
+  {
+    "key": "48-content",
+    "original": "う～ん。一応聞くけど、その3人の血鬼たちには\n外見の特徴とかある？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "う～ん。一応聞くけど、その3人の血鬼たちには\n外見の特徴とかある？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음~ 혹시, 그 세 명의 혈귀들은 생김새 특징 같은 게 있었어?\nEN:\nUm~ So is there anything you can tell us about what these three Bloodfiends look like?"
+  },
+  {
+    "key": "49-content",
+    "original": "ううっ…。これは200万眼(アン)も払って得た情報なんですが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ううっ…。これは200万眼(アン)も払って得た情報なんですが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으윽… 이거는 200만 안이나 주고 얻은 정보인데…\nEN:\nNngh... That intel cost me two mil..."
+  },
+  {
+    "key": "50-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "51-content",
+    "original": "一番華やかな仮面です…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一番華やかな仮面です…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제일 화려한 가면이요…\nEN:\n... They wear the gaudiest masks..."
+  },
+  {
+    "key": "52-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "52-content",
+    "original": "プハハハハハ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "プハハハハハ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸하하하하!!\nEN:\nPffffhahahahahahha!!"
+  },
+  {
+    "key": "53-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "53-content",
+    "original": "面白かったぁ、1週間のうちでいっちばん面白かったわぁ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "面白かったぁ、1週間のうちでいっちばん面白かったわぁ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재밌다, 일주일 중에 제일 재미있었어.\nEN:\nHow fun, how fun! This is the most fun I've had all week!"
+  },
+  {
+    "key": "54-content",
+    "original": "管理人の血鬼たちは区域で一番華やかな仮面を被ってるって…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の血鬼たちは区域で一番華やかな仮面を被ってるって…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자 혈귀들은 구역에서 제일 화려한 가면을 쓰고 있다고…\nEN:\nApparently their masks stand out for being extremely gaudy..."
+  },
+  {
+    "key": "55-content",
+    "original": "あいつ、血の臭いも中々に華やかなようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あいつ、血の臭いも中々に華やかなようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그놈, 피 냄새도 제법 화려한가 보군.\nEN:\nThey must have a pretty 'gaudy' smell of blood, as well."
+  },
+  {
+    "key": "56-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "56-content",
+    "original": "あんなたちの中で誰がドンキホーテなのかしらぁ？\nわたしぃ、ちょっと目がちょっとかすんでから久しくてねぇ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あんなたちの中で誰がドンキホーテなのかしらぁ？\nわたしぃ、ちょっと目がかすんでから久しくてねぇ！\n<CMT_KR>오식: \"わたしぃ、ちょっと目が「ちょっと」かすんでから久しくてねぇ！\" 정확: \"わたしぃ、ちょっと目が「」かすんでから久しくてねぇ！\"\n<CMT_EN>Typo: \"わたしぃ、ちょっと目が「ちょっと」かすんでから久しくてねぇ！\" Correction: \"わたしぃ、ちょっと目が「」かすんでから久しくてねぇ！\"\n<CMT_JP>誤植: \"わたしぃ、ちょっと目が「ちょっと」かすんでから久しくてねぇ！\" 訂正後: \"わたしぃ、ちょっと目が「」かすんでから久しくてねぇ！\"",
+    "stage": 1,
+    "context": "KR:\n너희 중 누가 돈키호테야? 내가 눈이 좀 침침해진 지가 꽤 되어서 말이야!\nEN:\nWhich one of you's Don Quixote, friends? My eyesight ain't like it used to be!"
+  },
+  {
+    "key": "57-content",
+    "original": "丁度現れましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "丁度現れましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n때마침 나타나셨네요.\nEN:\nAnd there she is."
+  },
+  {
+    "key": "58-content",
+    "original": "…あ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…あ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…어.\nEN:\n... Uh."
+  },
+  {
+    "key": "59-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "59-content",
+    "original": "アタシの言うことが聞こえないのぉ？アタシが作ったこのアトラクションで\n1位を取った「ドンキホーテ」が誰かって聞いているんだけどぉ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アタシの言うことが聞こえないのぉ？アタシが作ったこのアトラクションで\n1位を取った「ドンキホーテ」が誰かって聞いているんだけどぉ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 말 안 들려? 내가 만든 이 어트랙션에서 1등을 한 ‘돈키호테’ 가 누구냐니까?\nEN:\nI asked which one of you is this 'Don Quixote' who came first place in this attraction of mine? Hello?"
+  },
+  {
+    "key": "60-content",
+    "original": "か…か…仮面が…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "か…か…仮面が…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가… 가… 가면이…\nEN:\nH-her... her mask..."
+  },
+  {
+    "key": "61-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "61-content",
+    "original": "教えてくれたらぁ、残りの人たちは行かせてあげるわぁ。\nボタンを押してぇ、次の区域に行けるようにねっ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "教えてくれたらぁ、残りの人たちは行かせてあげるわぁ。\nボタンを押してぇ、次の区域に行けるようにねっ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알려주면, 나머지 사람들은 보내줄게. 버튼을 누르고, 다음 구역으로 갈 수 있도록.\nEN:\nJust answer my question, and I'll let the rest of you press the button and head on over to the next Area."
+  },
+  {
+    "key": "62-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "62-content",
+    "original": "ドンキホーテが誰かさえ教えてくれたら…ねぇっ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテが誰かさえ教えてくれたら…ねぇっ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테가 누구인지만 알려준다면… 말이야!\nEN:\nAs long as you tell me which one of you is... Don Quixote!"
+  },
+  {
+    "key": "63-content",
+    "original": "当―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "当―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본…\nEN:\n'Tis—"
+  },
+  {
+    "key": "64-content",
+    "original": "こ…この者です！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こ…この者です！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이… 이 자입니다!\nEN:\nS-she's right here!"
+  },
+  {
+    "key": "65-content",
+    "original": "ドンキホーテが答える前に、素早くヒューゴが叫んだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテが答える前に、素早くヒューゴが叫んだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테가 대답하기 전에, 재빠르게 휴고가 소리를 질렀다.\nEN:\nHugo shouted from the top of his lungs just as Don Quixote began to speak."
+  },
+  {
+    "key": "66-content",
+    "original": "のろのろと話していた、これまでの様子とは全く違う速度で。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "のろのろと話していた、これまでの様子とは全く違う速度で。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n느릿느릿 말하던 여태까지의 모습과는 전혀 다른 속도로.\nEN:\nThe speed with which he called out her name was in striking contrast with his previous slow, reluctant attitude."
+  },
+  {
+    "key": "67-content",
+    "original": "こ…これでもういいんですよね？\nボタンを押してもいいんですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こ…これでもういいんですよね？\nボタンを押してもいいんですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이… 이제 된 거죠? 버튼을 눌러도 되는 거죠?\nEN:\nW-well? Can I press the button now?"
+  },
+  {
+    "key": "68-content",
+    "original": "は…はは…区域の装置稼働させたフィクサーは討伐金を精算するとき、\n1.5倍追加でもらえるんだ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "は…はは…区域の装置稼働させたフィクサーは討伐金を精算するとき、\n1.5倍追加でもらえるんだ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하… 하하… 구역의 장치를 가동한 해결사는 토벌금을 정산할 때 1.5배 더 받을 수 있다고!\nEN:\nHa... ha ha...! Fixers who activate a device gets 1.5 times the rate when calculating the eradication reward!"
+  },
+  {
+    "key": "69-content",
+    "original": "…はぁ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…はぁ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…하.\nEN:\n... Hah."
+  },
+  {
+    "key": "70-content",
+    "original": "押せばいいだろ、ボタン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押せばいいだろ、ボタン。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눌러보던가, 버튼.\nEN:\nTry pressing the button now."
+  },
+  {
+    "key": "71-content",
+    "original": "止める間もなく、良秀は鋭い鞘を振り回して\n彼の手首を切っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "止める間もなく、良秀は鋭い鞘を振り回して\n彼の手首を切っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈가 뭐라 말릴 새도 없이, 날카로운 검집을 휘둘러 그자의 손목을 잘라갔다.\nEN:\nRyōshū swung her absurdly sharp scabbard, chopping off his wrists with blinding speed."
+  },
+  {
+    "key": "72-content",
+    "original": "うっ…ぐぅうっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うっ…ぐぅうっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으… 크으윽…\nEN:\nHnngh... Agh..."
+  },
+  {
+    "key": "73-content",
+    "original": "りょ、良秀君！これは一体どういうことであるか！？ \n仲間同士で剣を使うなぞ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "りょ、良秀君！これは一体どういうことであるか！？ \n仲間同士で剣を使うなぞ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료, 료슈 군! 이게 무슨 짓인가!? 동료끼리 칼을 쓰다니!\nEN:\nY-young Ryōshū! Whatever hast thou done?! To put thy steel against the flesh of a compatriot...!"
+  },
+  {
+    "key": "74-content",
+    "original": "あんな阿呆を仲間にした覚えはない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あんな阿呆を仲間にした覚えはない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저런 머저릴 동료로 둔 적 없다.\nEN:\nNever accepted that idiot as my compatriot."
+  },
+  {
+    "key": "75-content",
+    "original": "<ドンキホーテ、君のことを売り渡そうとしたんだ。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<ドンキホーテ、君のことを売り渡そうとしたんだ。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;돈키호테, 너를 팔아넘기려고 했어.&gt;\nEN:\n&lt;Don Quixote, he was trying to sell you out.&gt;"
+  },
+  {
+    "key": "76-content",
+    "original": "そ、それはそうであるが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そ、それはそうであるが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그, 그건 그렇네만…\nEN:\nV-verily, yet..."
+  },
+  {
+    "key": "77-content",
+    "original": "臭いからして裏切りが漂っていたな…。\nもしかしたら手法に独創性があるかもと期待したが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "臭いからして裏切りが漂っていたな…。\nもしかしたら手法に独創性があるかもと期待したが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n냄새부터 배신할 놈이었지… 혹시나 방식의 독창성이 있을까 기대했다만.\nEN:\nI smelled treachery the moment I saw him. ... I waited, curious if he would demonstrate even an ounce of creativity when pulling off that act."
+  },
+  {
+    "key": "78-content",
+    "original": "こんな卑劣なクリシェ…我慢ならん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こんな卑劣なクリシェ…我慢ならん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이런 치졸한 클리셰… 참아줄 수가 없군.\nEN:\n... But this is tired, meek, and clichéd. Can't stand the lack of originality."
+  },
+  {
+    "key": "79-content",
+    "original": "<…面白ければ許してやるつもりだったってこと？>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<…面白ければ許してやるつもりだったってこと？>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;…재밌었으면 놔줬을 거라는 이야기?&gt;\nEN:\n&lt;... So you would've just let him do his thing if it was... interesting?&gt;"
+  },
+  {
+    "key": "80-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "80-content",
+    "original": "プッ…アハハハハハハ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "プッ…アハハハハハハ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n풉… 하하하하하하!\nEN:\nPfft... Hehehahahaha!"
+  },
+  {
+    "key": "81-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "81-content",
+    "original": "どうしてわかったのぉ？ 殺すつもりだったのにぃ！ あんなに格式の低い服を\n着て来た癖に、アタシたちの区域のボタンを素直に\n押させるわけにはいかなかったのっ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうしてわかったのぉ？ 殺すつもりだったのにぃ！ あんなに格式の低い服を\n着て来た癖に、アタシたちの区域のボタンを素直に\n押させるわけにはいかなかったのっ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떻게 알았어? 내가 죽이려고 했는데! 저렇게 격식도 없는 옷을 입고 온 주제에 우리 구역의 버튼을 순순히 누르게 할 순 없었단 말이야!\nEN:\nOh, how did you know? I was going to kill him myself! I mean, how could I let someone so scruffy and slovenly press the button in our Area, of all places?!"
+  },
+  {
+    "key": "82-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "83-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "83-content",
+    "original": "それで…アンタがドンキホーテなのぉ？\nアタシの遊びで1位を取ったドンキホーテがぁ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それで…アンタがドンキホーテなのぉ？\nアタシの遊びで1位を取ったドンキホーテがぁ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래서… 네가 돈키호테야? 내 놀이에서 1등을 한 돈키호테가?\nEN:\nSo. You're that Don Quixote? The Don Quixote who won my game?"
+  },
+  {
+    "key": "84-content",
+    "original": "そうであるが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうであるが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇네만.\nEN:\nIndeed, 'tis I."
+  },
+  {
+    "key": "85-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "85-content",
+    "original": "…どうして。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…どうして。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…어떻게…\nEN:\n... Well, then..."
+  },
+  {
+    "key": "86-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "86-content",
+    "original": "どうして1位を取ったの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうして1位を取ったの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떻게 1등을 했어?\nEN:\n... How did you win?"
+  },
+  {
+    "key": "87-content",
+    "original": "苦境に立たされた多くの人々を救い、お前のような悪人を\n倒すために全て倒したのである！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦境に立たされた多くの人々を救い、お前のような悪人を\n倒すために全て倒したのである！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n곤경에 갇힌 이곳의 수많은 사람들을 구하고, 당신 같은 악인을 해치우기 위해서 모조리 해치웠소!\nEN:\nI have rescued numerous innocents and hewn my path through scores of villains to vanquish a cur such as thee!"
+  },
+  {
+    "key": "88-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "88-content",
+    "original": "ハ…ハハ…ハ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ハ…ハハ…ハ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하… 하하… 하…\nEN:\nHa... ha ha... ha..."
+  },
+  {
+    "key": "89-content",
+    "original": "ど…どうして何度もそんなに笑うのだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ど…どうして何度もそんなに笑うのだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n왜… 왜 자꾸 그렇게 웃는 것인가?\nEN:\nWh... wherefore art thou so giddy?"
+  },
+  {
+    "key": "90-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "90-content",
+    "original": "あぁ…とってもうれしいから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…とってもうれしいから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 너무 기쁘니까.\nEN:\nOh, it's... I'm just so happy, you know?"
+  },
+  {
+    "key": "91-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "91-content",
+    "original": "どうだった？やっぱりアタシが作った遊具が一番楽しかったでしょぉ？\n本当はあそこにもっと装飾をつけて、服にもレースを足そうと思ったんだけど、\n時間がなくてねぇ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうだった？やっぱりアタシが作った遊具が一番楽しかったでしょぉ？\n本当はあそこにもっと装飾をつけて、服にもレースを足そうと思ったんだけど、\n時間がなくてねぇ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어땠어? 역시 내가 만든 놀이기구가 제일 재밌지? 원래는 저기 장식을 더 달고 옷에도 레이스를 더 붙이려고 했는데 시간이 없었어.\nEN:\nSo, how did you like the game? Mine's your favorite, isn't it? I was going to add a few more decorations here and there, maybe some frilly lace... but I ran out of time."
+  },
+  {
+    "key": "92-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "92-content",
+    "original": "アタシたちの血袋は、アタシがいちいち服を着替えさせてあげないといけないんだけど、\n複雑な服はみんなビリビリに破られちゃってさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アタシたちの血袋は、アタシがいちいち服を着替えさせてあげないといけないんだけど、\n複雑な服はみんなビリビリに破られちゃってさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 피주머니들은 내가 일일히 옷을 갈아입혀 줘야 하는데, 복잡한 옷은 다 찢어지지 뭐야.\nEN:\nYou see, since Bloodbags can't change themselves, I have to dress each and every one of them myself. Anything too complicated just isn't sturdy enough to stay on."
+  },
+  {
+    "key": "93-content",
+    "original": "おぞましいことをよくもまあ口にするものだ…\n当人はここに遊びに来たわけのではないぞ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おぞましいことをよくもまあ口にするものだ…\n当人はここに遊びに来たわけではないのだぞ。\n<CMT_KR>오식: \"当人はここに遊びに来たわけ「のではないぞ」。\" 정확: \"当人はここに遊びに来たわけ「ではないのだぞ」。\"\n<CMT_EN>Typo: \"当人はここに遊びに来たわけ「のではないぞ」。\" Correction: \"当人はここに遊びに来たわけ「ではないのだぞ」。\"\n<CMT_JP>誤植: \"当人はここに遊びに来たわけ「のではないぞ」。\" 訂正後: \"当人はここに遊びに来たわけ「ではないのだぞ」。\"",
+    "stage": 1,
+    "context": "KR:\n끔찍한 소리를 잘도 지껄이는군… 본인은 이곳에 놀러 온 것이 아닐세.\nEN:\nWhat horrible crime thou confessest... I am not here to play thy games."
+  },
+  {
+    "key": "94-content",
+    "original": "人々を捕まえるラ・マンチャランドを討伐し！\n恐ろしい悪党たちを一掃するために来たのである！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人々を捕まえるラ・マンチャランドを討伐し！\n恐ろしい悪党たちを一掃するために来たのである！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사람들을 잡아가는 라만차랜드를 토벌하고! 끔찍한 악당들을 모조리 처단시키기 위해 왔네!\nEN:\nI have arrived here to eradicate this terrible place that taketh people, La Manchaland! To slay its villains slithering within!"
+  },
+  {
+    "key": "95-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "95-content",
+    "original": "それなのに！どうしてアタシが作った服を着てこなかったの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それなのに！どうしてアタシが作った服を着てこなかったの？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런데! 왜 내가 만든 옷을 안 입고 왔어?\nEN:\nOkay! But why aren't you wearing the outfit I made for you?"
+  },
+  {
+    "key": "96-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "96-content",
+    "original": "すっごく失礼じゃないの！ アタシの区域に遊びに来るなら、\nもう少しそれらしい格好をしてくるべきだったでしょうに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "すっごく失礼じゃないの！ アタシの区域に遊びに来るなら、\nもう少しそれらしい格好をしてくるべきだったでしょうに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예의에 한참 어긋났잖아! 내 구역으로 놀러 올 거였으면 좀 더 그럴듯한 모습을 하고 왔어야지.\nEN:\nHow discourteous of you! If you wanted to hang out in my Area, you should've made yourself a little more presentable than... this."
+  },
+  {
+    "key": "97-content",
+    "original": "なんだよ、さっきから会話が根本からズレてないか…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なんだよ、さっきから会話が根本からズレてないか…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐야, 아까부터 대화가 아예 어긋난 느낌인데…?\nEN:\nWhat the... Is it just me, or does it sound like their conversation isn't connecting at all with each other's?"
+  },
+  {
+    "key": "98-content",
+    "original": "マトモじゃなさそうですし、早く倒しましょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マトモじゃなさそうですし、早く倒しましょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제정신이 아닌 듯한데 얼른 해치우죠…\nEN:\nYeah, she's nuts. Let's put her out of her misery..."
+  },
+  {
+    "key": "99-teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "99-content",
+    "original": "あはは！アンタはカンカンドレスにリボンのついたブーツを履けば似合いそう！\nアタシがすっごく似合うように作ってあげられるのに！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あはは！アンタはカンカンドレスにリボンのついたブーツを履けば似合いそう！\nアタシがすっごく似合うように作ってあげられるのに！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하하하! 너는 캉캉 드레스에 리본 달린 부츠를 신으면 어울리겠다! 내가 진짜 어울리게 만들어줄 수 있는데!\nEN:\nHahaha! I just know that you'll look great in a can-can dress and boots with ribbons! Oh, I'll make you look so pretty!"
+  }
+]

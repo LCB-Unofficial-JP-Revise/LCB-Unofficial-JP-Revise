@@ -1,0 +1,716 @@
+[
+  {
+    "key": "837804-name",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
+  },
+  {
+    "key": "837804-desc",
+    "original": "戦闘開始時、[StarvingPriestTwo]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[StarvingPriestTwo]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작시, [StarvingPriestTwo] 얻음\nEN:\nGain [StarvingPriestTwo] at the start of the Encounter"
+  },
+  {
+    "key": "837801-name",
+    "original": "終油の秘跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "終油の秘跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n종부성사\nEN:\nUnctio Extrema"
+  },
+  {
+    "key": "837801-desc",
+    "original": "ターン終了時、自分の[Laceration]を発動させる(最大50. 自分の[Laceration]回数を1消耗)。体力が最も低い味方血鬼の(本体と部位の)体力を50回復させる(ダメージを受けた味方がいなければ発動しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、自分の[Laceration]を発動させる(最大50. 自分の[Laceration]回数を1消耗)。体力が最も低い味方血鬼の(本体と部位の)体力を50回復させる(ダメージを受けた味方がいなければ発動しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시, 자신의 [Laceration]을 발동시킴 (최대 50. 자신의 [Laceration] 횟수 1 소모). 가장 체력이 낮은 아군 혈귀의 (본체와 부위의) 체력을 50 회복시킴 (피해를 입은 아군이 없으면 발동하지 않음)\nEN:\nTurn End: activate [Laceration] on self. (max 50; consume 1 [Laceration] Count on self) Heal 50 HP to Core and Part of an allied Bloodfiend with the least HP (does not activate if all allies are at full HP)"
+  },
+  {
+    "key": "837802-name",
+    "original": "赦しの秘跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "赦しの秘跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고백성사\nEN:\nSacramentum Paenitentiae"
+  },
+  {
+    "key": "837802-desc",
+    "original": "ターン終了時に自分の精神力が5減少し、最も精神力が低い味方血鬼の精神力が10回復(精神力を持つ対象がいない場合は発動しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に自分の精神力が5減少し、最も精神力が低い味方血鬼の精神力が10回復(精神力を持つ対象がいない場合は発動しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시, 자신의 정신력이 5 감소하고 가장 정신력이 낮은 아군 혈귀의 정신력 10 회복 (정신력이 있는 대상이 없으면 발동하지 않음)\nEN:\nTurn End: lose 5 SP and heal 10 SP for an allied Bloodfiend with the least SP (does not activate if there aren't any allies with SP)"
+  },
+  {
+    "key": "837803-name",
+    "original": "磨り減ってしまった心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "磨り減ってしまった心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 마음\nEN:\nAiling Heart"
+  },
+  {
+    "key": "837803-desc",
+    "original": "自分の[WornHeart]の数値によってパターンが変更\nターン終了時、[WornHeart]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の[WornHeart]の数値によってパターンが変更\nターン終了時、[WornHeart]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [WornHeart]의 수치에 따라 패턴이 변경됨\n턴 종료시, [WornHeart] 1 얻음\nEN:\nGains new patterns based on [WornHeart] value on self\nTurn End: gain 1 [WornHeart]"
+  },
+  {
+    "key": "837805-name",
+    "original": "血に染まった手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血に染まった手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피로 물든 손\nEN:\nBloodied Hand"
+  },
+  {
+    "key": "837805-desc",
+    "original": "- [BloodyHand]が10以上なら、[BloodyHand_2nd]に変化\n- [BloodyHand_2nd]が20以上なら、[BloodyHand_3rd]に変化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- [BloodyHand]が10以上なら、[BloodyHand_2nd]に変化\n- [BloodyHand_2nd]が20以上なら、[BloodyHand_3rd]に変化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- [BloodyHand]이 10 이상이면, [BloodyHand_2nd] 로 전환됨.\n- [BloodyHand_2nd]이 20 이상이면, [BloodyHand_3rd] 으로 전환됨.\nEN:\n- At 10+ [BloodyHand], convert them to [BloodyHand_2nd].\n- At 20+ [BloodyHand_2nd], convert them to [BloodyHand_3rd]."
+  },
+  {
+    "key": "837901-name",
+    "original": "愛していた者たち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "愛していた者たち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑했던 이들\nEN:\nThe Once-loved Ones"
+  },
+  {
+    "key": "837901-desc",
+    "original": "ターン開始時、全ての敵が[AffectionTeddy]を保有しているなら強力なスキルを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全ての敵が[AffectionTeddy]を保有しているなら強力なスキルを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 모든 적이 [AffectionTeddy]을 보유하였다면, 강력한 스킬을 사용\nEN:\nTurn Start: if all enemies have [AffectionTeddy], use a powerful Skill"
+  },
+  {
+    "key": "837902-name",
+    "original": "こびり付いた杭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こびり付いた杭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n늘어붙은 쇠말뚝\nEN:\nGrimy Iron Stake"
+  },
+  {
+    "key": "837902-desc",
+    "original": "単一コインスキルを使用して敵へ的中時、対象へ[Laceration]威力3を付与して次のターンまで[DefenseDown]2を付与。\n対象が[Laceration]状態の場合、効果が強化されて[Laceration]威力5を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "単一コインスキルを使用して敵へ的中時、対象へ[Laceration]威力3を付与して次のターンまで[DefenseDown]2を付与。\n対象が[Laceration]状態の場合、効果が強化されて[Laceration]威力5を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단일 코인 스킬을 사용하여 적에게 적중 시, 대상에게 [Laceration] 위력 3을 부여하고 다음 턴까지 [DefenseDown] 2 부여\n대상이 [Laceration] 상태일 경우, 효과가 강화되어 [Laceration] 위력 5 부여\nEN:\nWhen hitting an enemy using a single-Coin Skill, inflict 3 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration], inflict 5 [Laceration] Potency instead"
+  },
+  {
+    "key": "837903-name",
+    "original": "思い出す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "思い出す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기억하기\nEN:\nTo Remember"
+  },
+  {
+    "key": "837903-desc",
+    "original": "このターンに、もの悲しい抱擁のターン終了効果で混乱したなら、次のターン開始時に[FaintMemory]を10得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このターンに、もの悲しい抱擁のターン終了効果で混乱したなら、次のターン開始時に[FaintMemory]を10得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 턴에 서글픈 포옹의 턴 종료 시 효과로 흐트러졌다면, 다음 턴 시작 시 [FaintMemory] 10 얻음\nEN:\nIf this unit was Staggered due to the Turn End effect of A Sad Embrace, gain 10 [FaintMemory] at the next Turn Start"
+  },
+  {
+    "key": "837904-name",
+    "original": "愛を与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "愛を与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑 베풀기\nEN:\nTo Love"
+  },
+  {
+    "key": "837904-desc",
+    "original": "ターン終了時に体力が30%以下なら、全ての敵へ[AffectionTeddy]3を付与する代わり、次のターンに[AttackDown]15を得る(戦闘につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に体力が30%以下なら、全ての敵へ[AffectionTeddy]3を付与する代わり、次のターンに[AttackDown]15を得る(戦闘につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 체력이 30% 이하인 상태라면 모든 적에게 [AffectionTeddy] 3을 부여하는 대신 다음 턴에 [AttackDown] 15 얻음 (전투당 1회)\nEN:\nIf at less than or equal to 30% HP at Turn End: instead of inflicting 3 [AffectionTeddy] to all enemies, gain 15 [AttackDown] next turn (once per Encounter)"
+  },
+  {
+    "key": "837905-name",
+    "original": "痛くありませんように\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛くありませんように\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아프지 않기를\nEN:\nPlease Don't be Sick"
+  },
+  {
+    "key": "837905-desc",
+    "original": "対象の保有するマイナス効果の種類数3つにつき、基本威力が1減少(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の保有するマイナス効果の種類数3つにつき、基本威力が1減少(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상이 보유한 부정적 효과의 종류 수 3개당 기본 위력 1 감소 (최대 3)\nEN:\nBase Power -1 for every 3 types of negative effects on the target (max 3)"
+  },
+  {
+    "key": "837301-name",
+    "original": "罪悪抵抗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪悪抵抗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄악 저항\nEN:\nSin Resistance"
+  },
+  {
+    "key": "837301-desc",
+    "original": "混乱状態、部位破壊状態でなければ自分が受ける[Laceration]ダメージが50％減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態、部位破壊状態でなければ自分が受ける[Laceration]ダメージが50％減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Laceration] 피해 50% 감소\nEN:\nUnless this unit is Staggered or Part Broken, take 50% less [Laceration] damage"
+  },
+  {
+    "key": "837401-name",
+    "original": "罪悪抵抗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪悪抵抗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄악 저항\nEN:\nSin Resistance"
+  },
+  {
+    "key": "837401-desc",
+    "original": "混乱状態・部位破壊状態でなければ、クリティカルダメージが発生した際に発生するクリティカル分のダメージを半減する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態・部位破壊状態でなければ、クリティカルダメージが発生した際に発生するクリティカル分のダメージを半減する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태, 부위 파괴 상태가 아니라면 크리티컬 피해를 받을 때 크리티컬 피해량의 절반만큼 받음.\nEN:\nUnless this unit is Staggered or Part Broken, take only half of Critical Damage."
+  },
+  {
+    "key": "837501-name",
+    "original": "カーミラ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カーミラ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n카르밀라\nEN:\nCarmilla"
+  },
+  {
+    "key": "837501-desc",
+    "original": "ターン開始時、ランダムな敵1名へ体力最大値5%分の固定ダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、ランダムな敵1名へ体力最大値5%分の固定ダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 무작위 적 1명의 최대 체력 5%만큼 고정 피해를 입힘.\nEN:\nTurn Start: to a random enemy, deal fixed damage equal to 5% of their HP."
+  },
+  {
+    "key": "837502-name",
+    "original": "一滴の養分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一滴の養分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 방울의 양분\nEN:\nA Drop of Nourishment"
+  },
+  {
+    "key": "837502-desc",
+    "original": "攻撃終了時、自分の攻撃スキルで与えたダメージ量の半分だけ本体・部位体力を回復\n- 自分の体力が100%なら、次のターンに[AttackUp]2を得る。(最大2回)\n回復した体力の比率によって次の効果を累計で得る\n- 数値1以上: 毎ターン開始時、防御レベル増加3を得る\n- 数値2以上: 毎ターン開始時、[AttackUp]3を得る\n- 数値3以上: 毎ターン開始時、速度最低・最大値 +2\n- 数値5以上: 毎ターン開始時、[Enhancement]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、自分の攻撃スキルで与えたダメージ量の半分だけ本体・部位体力を回復\n- 自分の体力が100%なら、次のターンに[AttackUp]2を得る。(最大2回)\n回復した体力の比率によって次の効果を累計で得る\n- 数値1以上: 毎ターン開始時、防御レベル増加3を得る\n- 数値2以上: 毎ターン開始時、[AttackUp]3を得る\n- 数値3以上: 毎ターン開始時、速度最低・最大値 +2\n- 数値5以上: 毎ターン開始時、[Enhancement]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료 시 자신의 공격 스킬로 입힌 피해량의 절반만큼 본체, 부위 체력 회복\n- 자신의 체력이 100%라면, 다음 턴에 [AttackUp] 2 얻음. (최대 2회)\n회복한 체력 비율에 따라 다음의 효과를 누적으로 받음\n- 수치 1 이상: 매 턴 시작 시 방어 레벨 증가 3 얻음\n- 수치 2 이상: 매 턴 시작 시 [AttackUp] 3 얻음\n- 수치 3 이상: 매 턴 시작 시 속도 최솟값 +2, 최댓값 +2\n- 수치 5 이상: 매 턴 시작 시 [Enhancement] 3 얻음\nEN:\nAfter Attack: heal Core and Part equal to 50% of the damage this unit dealt with its Attack Skill\n- At 100% HP, gain 2 [AttackUp] next turn. (2 times max)\nBased on the percentage of HP healed, gain the following effects (cumulative)\n- At 1+ Stack: gain 3 Defense Level Up at every Turn Start\n- At 2+ Stack: gain 3 [AttackUp] at every Turn Start\n- At 3+ Stack: gain +2 Min & Max Speed\n- At 5+ Stack: gain 3 [Enhancement] at every Turn Start"
+  },
+  {
+    "key": "837503-name",
+    "original": "締め付ける一輪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "締め付ける一輪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n옭아매는 한 송이\nEN:\nA Single Strangling Flower"
+  },
+  {
+    "key": "837503-desc",
+    "original": "攻撃終了時[TinyCarmilla]1を付与する\n[Laceration]がある対象の場合、攻撃終了時に[TinyCarmilla]1を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時[TinyCarmilla]1を付与する\n[Laceration]がある対象の場合、攻撃終了時に[TinyCarmilla]1を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료 시 [TinyCarmilla] 1을 부여함\n[Laceration]이 있는 대상일 경우, 공격 종료 시 [TinyCarmilla] 1 추가 부여\nEN:\nAfter Attack: inflict 1 [TinyCarmilla]\nIf the target has [Laceration], inflict 1 additional [TinyCarmilla] After Attack"
+  },
+  {
+    "key": "837601-name",
+    "original": "棘の鞭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棘の鞭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가시 채찍\nEN:\nSpiked Whip"
+  },
+  {
+    "key": "837601-desc",
+    "original": "攻撃直前、対象に[Burst]があれば、20%の確率で[Burst]回数が1増加\n対象へ[ThornNoose]を付与するとき、棘の投げ縄 を生成する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃直前、対象に[Burst]があれば、20%の確率で[Burst]回数が1増加\n対象へ[ThornNoose]を付与するとき、棘の投げ縄 を生成する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 직전 대상에게 [Burst]이 있으면, 20%확률로 [Burst] 횟수 1 증가\n대상에게 [ThornNoose]를 부여할 때, 가시 올가미를 생성함.\nEN:\nIf the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count\nWhen inflicting [ThornNoose], generate a 'Barbed Lasso' Unit."
+  },
+  {
+    "key": "837601-summary",
+    "original": "攻撃直前、対象に[Burst]があれば、20%の確率で[Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃直前、対象に[Burst]があれば、20%の確率で[Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 직전 대상에게 [Burst]이 있으면, 20%확률로 [Burst] 횟수 1 증가\nEN:\nIf the target has [Burst] immediately before attack, 20% chance to inflict +1 [Burst] Count"
+  },
+  {
+    "key": "837602-name",
+    "original": "蔓の絡まった馬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蔓の絡まった馬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덩굴 얽힌 말\nEN:\nBramble Steed"
+  },
+  {
+    "key": "837602-desc",
+    "original": "生成された棘の投げ縄だけ速度が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生成された棘の投げ縄だけ速度が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생성된 가시 올가미만큼 속도가 증가함.\nEN:\nGain Speed equal to the generated 'Barbed Lasso' Unit on the field"
+  },
+  {
+    "key": "837603-name",
+    "original": "もつれ合う棘の蔓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もつれ合う棘の蔓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서로 뒤엉키는 가시 덩굴\nEN:\nInterlocking Brambles"
+  },
+  {
+    "key": "837603-desc",
+    "original": "最大体力が40%以下になると、パターンが変更\n毎ターン全ての敵へ、敵の速度だけ[Burst]を付与\n付与する[ThornNoose]が2になる\n毎ターン経過する度に[AttackUp], [DefenseDown]を2ずつ得る(最大12)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力が40%以下になると、パターンが変更\n毎ターン全ての敵へ、敵の速度だけ[Burst]を付与\n付与する[ThornNoose]が2になる\n毎ターン経過する度に[AttackUp], [DefenseDown]を2ずつ得る(最大12)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 40%이하가 되면, 패턴 변경됨.\n매 턴마다 모든 적에게 적의 속도만큼 [Burst]을 부여함\n부여하는 [ThornNoose]가 2가 됨\n매 턴이 지날 때마다 [AttackUp], [DefenseDown] 2씩 얻음 (최대 12)\nEN:\nAt 40%- HP, gain a new pattern\nEvery turn, inflict [Burst] equal to each enemy's Speed against each enemy\nInflict 2 [ThornNoose] instead\nGain 2 [AttackUp] and [DefenseDown] with every passing turn (max 12)"
+  },
+  {
+    "key": "838006-name",
+    "original": "夢心地\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢心地\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈결\nEN:\nIn Dreams"
+  },
+  {
+    "key": "838006-desc",
+    "original": "戦闘開始時、[Dreamy]を得る。\n戦闘開始時、戦場にまき散らされた伏在する血が顕わになり[BloodDinner]400を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[Dreamy]を得る。\n戦闘開始時、戦場にまき散らされた伏在する血が顕わになり[BloodDinner]400を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [Dreamy] 얻음.\n전투 시작 시, 전장에 흩뿌려진 잠재된 피가 드러나 [BloodDinner] 400 얻음.\nEN:\nEncounter Start: gain [Dreamy].\nEncounter Start: the sleeping blood drenching the battlefield will surface, increasing [BloodDinner] by 400."
+  },
+  {
+    "key": "838001-name",
+    "original": "耳を傾けて聞いてしまった物語と胸の高鳴り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "耳を傾けて聞いてしまった物語と胸の高鳴り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n귀기울여 듣게되어버린 이야기와 두근거림\nEN:\nThe Enthralling Tales, the Beating Passion"
+  },
+  {
+    "key": "838001-desc",
+    "original": "80%, 60%, 40%になったとき、体力がそれ以上下がらずにパターンが変更\nパターン変更時、混乱状態が解除されて次のターンに速度が10になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "80%, 60%, 40%になったとき、体力がそれ以上下がらずにパターンが変更\nパターン変更時、混乱状態が解除されて次のターンに速度が10になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n80%, 60%, 40%가 되었을 때, 체력이 더이상 떨어지지 않고 패턴이 변경됨\n패턴 변경 시, 흐트러짐 상태가 해제되고 다음 턴에 속도가 10이됨\nEN:\nUpon hitting 80%, 60%, and 40% HP, no longer take damage and gain a new pattern\nUpon gaining a new pattern, recover from Stagger and raise Speed to 10 next turn"
+  },
+  {
+    "key": "838002-name",
+    "original": "この忌々しい病から逃れられるなら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この忌々しい病から逃れられるなら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 지긋지긋한 병에서 벗어날수 있다면\nEN:\nIf we can be freed from this excruciating sickness"
+  },
+  {
+    "key": "838002-desc",
+    "original": "攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけの部位と本体の体力を回復。\n- 自分の[Laceration]威力1につき、このパッシブの回復量が1%増加(最大20%)\n- [SuperCoin]の場合、マッチ敗北後に的中時、この効果は発動しない。\n毎ターン開始時、([BloodDinner] ÷ 10)だけ自分の体力を回復する(最大50)\n毎ターン開始時、精神力が-15以下なら、(20 - 自分の精神力)だけ[BloodDinner]を消耗して精神力を回復。マッチ威力増加2を得る\n敵討伐時、[BloodArmor]を5得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ部位と本体の体力を回復。\n- 自分の[Laceration]威力1につき、このパッシブの回復量が1%増加(最大20%)\n- [SuperCoin]の場合、マッチ敗北後に的中時、この効果は発動しない。\n毎ターン開始時、([BloodDinner] ÷ 10)だけ自分の体力を回復する(最大50)\n毎ターン開始時、精神力が-15以下なら、(20 - 自分の精神力)だけ[BloodDinner]を消耗して精神力を回復。マッチ威力増加2を得る\n敵討伐時、[BloodArmor]を5得る\n<CMT_KR>오식: \"攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ「の」部位と本体の体力を回復。\" 정확: \"与えたダメージ量の40%だけ「」部位と本体の体力を回復。\"\n<CMT_EN>Typo: \"攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ「の」部位と本体の体力を回復。\" Correction: \"与えたダメージ量の40%だけ「」部位と本体の体力を回復。\"\n<CMT_JP>誤植: \"攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ「の」部位と本体の体力を回復。\" 訂正後: \"与えたダメージ量の40%だけ「」部位と本体の体力を回復。\"",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 입힌 피해량의 40%만큼 부위와 본체 체력 회복.\n- 자신의 [Laceration] 위력 1당, 이 패시브의 회복량 1% 증가 (최대 20%)\n- 파괴 불가 코인의 경우 합 패배 후 적중 시 이 효과는 발동되지 않음.\n매 턴 시작 시 ([BloodDinner] / 10)만큼 자신의 체력을 회복함. (최대 50)\n매 턴 시작 시 정신력이 -15 이하라면, (20 - 자신의 정신력)만큼 [BloodDinner]을 소모하여 정신력 회복. 합 위력 증가 2 얻음\n적 처치 시, [BloodArmor]을 5 얻음\nEN:\nOn Hit, if the target has [Laceration], heal Part and Core by 40% of the damage dealt.\n- This Passive heals +1% more HP for every [Laceration] Potency on self (max 20%)\n- For Unbreakable Coins: this effect does not activate on Hit After Clash Lose.\nEvery Turn Start: heal ([BloodDinner]/10) HP. (max 50)\nEvery Turn Start: at -15 or less SP, consume (20 - current SP) [BloodDinner] to gain SP and gain 2 Clash Power Up\nOn Kill, gain 5 [BloodArmor]"
+  },
+  {
+    "key": "838002-summary",
+    "original": "攻撃的中時、対象に[Laceration]があるなら体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があるなら体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중 시, 대상에게 [Laceration]이 있으면 체력 회복\nEN:\nOn Hit, if the target has [Laceration], heal HP"
+  },
+  {
+    "key": "838003-name",
+    "original": "私も冒険をしても良いのだろうか\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私も冒険をしても良いのだろうか\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나도 모험을 해도 되는걸까\nEN:\nCan I go on an adventure, too?"
+  },
+  {
+    "key": "838003-desc",
+    "original": "ターン終了時、[BloodDinner]300につき次のターンにて速度の最大・最小値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、[BloodDinner]300につき次のターンにて速度の最大・最小値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 [BloodDinner] 300당 다음 턴에 속도 최솟값, 최댓값 +1\nEN:\nTurn End: Min & Max Speed +1 next turn for every 300 [BloodDinner]"
+  },
+  {
+    "key": "838004-name",
+    "original": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈찬\nEN:\nBloodfeast"
+  },
+  {
+    "key": "838004-desc",
+    "original": "このキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血が最大まで顕わになる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血が最大まで顕わになる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피가 최대로 드러난다.\nEN:\nIf this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit.\nWhen this unit enters the field, the sleeping blood drenching the battlefield will flood the surface."
+  },
+  {
+    "key": "838005-name",
+    "original": "硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈\nEN:\nHardblood"
+  },
+  {
+    "key": "838005-desc",
+    "original": "戦闘開始時、[BloodArmor]を1得る\n- [BloodArmor]が1未満に減少しない\n- [BloodArmor]が10以上なら、[BloodArmor_2nd]に変換される\n- [BloodArmor]が20以上なら、[BloodArmor_3rd]に変換される\n段階によって速度の最小・最大値が1増加(最大2)\n[BloodArmor]が消耗されて足りなくなったら前の段階になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[BloodArmor]を1得る\n- [BloodArmor]が1未満に減少しない\n- [BloodArmor]が10以上なら、[BloodArmor_2nd]に変換される\n- [BloodArmor]が20以上なら、[BloodArmor_3rd]に変換される\n段階によって速度の最小・最大値が1増加(最大2)\n[BloodArmor]が消耗されて足りなくなったら前の段階になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [BloodArmor]을 1 얻음\n- [BloodArmor]이 1 미만으로 감소하지 않음.\n- [BloodArmor]이 10 이상이면, [BloodArmor_2nd]로 전환됨.\n- [BloodArmor] 가 20 이상이면, [BloodArmor_3rd]로 전환됨.\n단계에 따라 속도 최솟값, 최댓값 1 증가 (최대 2)\n[BloodArmor]이 소모되어, 부족해지면 이전 단계가 됨\nEN:\nCombat Start: gain 1 [BloodArmor]\n- [BloodArmor] cannot drop below 1\n- At 10+ [BloodArmor], convert them to [BloodArmor_2nd].\n- At 20+ [BloodArmor], convert them to [BloodArmor_3rd].\nGain Min & Max Speed based on the Stage of this effect (max 2)\nIf this unit consumes [BloodArmor] and drops below the above thresholds, revert to previous Stages accordingly"
+  },
+  {
+    "key": "838007-name",
+    "original": "しかし父母様がいらっしゃって、家族がいて、目を背けられない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しかし父母様がいらっしゃって、家族がいて、目を背けられない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 어버이가 있고, 가족이 있고, 외면할 수 없는\nEN:\nBut I have my Father and my Family whom I cannot abandon"
+  },
+  {
+    "key": "838007-desc",
+    "original": "ターン終了時、パニックならパニックを解除して[BloodDinner]を100消耗し、[Enhancement]3を得る\n- [BloodDinner]を消耗できなければ[Laceration]を30得て[Enhancement]3, ダメージ量増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、パニックならパニックを解除して[BloodDinner]を100消耗し、[Enhancement]3を得る\n- [BloodDinner]を消耗できなければ[Laceration]を30得て[Enhancement]3, ダメージ量増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 패닉이면 패닉을 해제하고, [BloodDinner]을 100 소모해서 [Enhancement] 3을 얻음\n- [BloodDinner]을 소모하지 못했으면 [Laceration]을 30 얻고 [Enhancement] 3, 피해량 증가 2를 얻음\nEN:\nTurn End: If Panicked, recover from Panic, and consume 100 [BloodDinner] to gain 3 [Enhancement]\n- If this unit failed to consume [BloodDinner], gain 30 [Laceration], 3 [Enhancement], and 2 Damage Up"
+  },
+  {
+    "key": "837701-name",
+    "original": "棘の投げ縄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棘の投げ縄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가시 올가미\nEN:\nBarbed Lasso"
+  },
+  {
+    "key": "837701-desc",
+    "original": "死亡時、自分が捕まえている敵の[ThornNoose]を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡時、自分が捕まえている敵の[ThornNoose]を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망시, 자신이 붙잡고 있는 적의 [ThornNoose] 제거\nEN:\nWhen this unit dies, the [ThornNoose] of the enemy bound to this unit expires"
+  },
+  {
+    "key": "839401-name",
+    "original": "指定保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "指定保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지정 보호\nEN:\nDesignated Protection"
+  },
+  {
+    "key": "839401-desc",
+    "original": "ターン開始時、体力が減少して前のターンと体力減少比率の差が最も大きい味方へ防御レベル増加 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、体力が減少して前のターンと体力減少比率の差が最も大きい味方へ防御レベル増加 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력이 감소하여 이전 턴과 체력 비율이 가장 차이가 많이 나는 아군에게 방어 레벨 증가 2 부여\nEN:\nAt Turn Start, apply 2 Defense Level Up to the ally who lost the most HP percentage between this Turn and last Turn"
+  },
+  {
+    "key": "840301-name",
+    "original": "割れ舞い散る硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "割れ舞い散る硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깨져 흩날리는 경혈\nEN:\nShattering, Scattering Hardblood"
+  },
+  {
+    "key": "840301-desc",
+    "original": "敵の攻撃、状態異常ダメージにより死亡時に[BloodDinner]が30増加。ランダムなE.G.O資源が2つ増加。自ら除去された場合は発動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵の攻撃、状態異常ダメージにより死亡時に[BloodDinner]が30増加。ランダムなE.G.O資源が2つ増加。自ら除去された場合は発動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적의 공격, 상태이상 피해로 사망 시 [BloodDinner] 30 증가, 무작위 E.G.O 자원 2개 증가. 스스로 제거된 경우 발동되지 않음.\nEN:\nWhen this unit is killed due to enemy attack or Status effect damage, increase [BloodDinner] by 30, and increase E.G.O resource of a random Affinity by 2. Does not activate if this unit killed itself."
+  },
+  {
+    "key": "840302-name",
+    "original": "狂おしいほどに爆発しちゃいたいんです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狂おしいほどに爆発しちゃいたいんです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미쳐터져버리고만 싶어요!\nEN:\nThis Explosive Insanity!"
+  },
+  {
+    "key": "840302-desc",
+    "original": "ターン終了時に生存しているなら、次のターンに自爆スキルを使用。自爆スキルを使用したターン終了時に死亡しなかったなら死亡する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に生存しているなら、次のターンに自爆スキルを使用。自爆スキルを使用したターン終了時に死亡しなかったなら死亡する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 생존한 상태면, 다음 턴에 자폭 스킬 사용. 자폭 스킬을 사용한 턴 종료 시 사망하지 않았다면 사망함.\nEN:\nIf this unit is still alive by Turn End, use the self-detonation Skill next turn. If this unit is still alive at the same Turn End as the turn this unit used the self-detonation Skill, dies."
+  },
+  {
+    "key": "839001-name",
+    "original": "本体の体力が1に維持される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本体の体力が1に維持される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본체 체력 1 유지\nEN:\nFix Core HP to 1"
+  },
+  {
+    "key": "839001-desc",
+    "original": "本体の体力が1未満に下がらない.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本体の体力が1未満に下がらない。\n<CMT_KR>오식: \"本体の体力が1未満に下がらない「.」\" 정확: \"本体の体力が1未満に下がらない「。」\"\n<CMT_EN>Typo: \"本体の体力が1未満に下がらない「.」\" Correction: \"本体の体力が1未満に下がらない「。」\"\n<CMT_JP>誤植: \"本体の体力が1未満に下がらない「.」\" 訂正後: \"本体の体力が1未満に下がらない「。」\"",
+    "stage": 1,
+    "context": "KR:\n본체의 체력이 1 미만으로 감소하지 않음.\nEN:\nCore HP does not drop below 1."
+  },
+  {
+    "key": "839002-name",
+    "original": "捨てられて膿んだラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捨てられて膿んだラ・マンチャランド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버려지고 곪은 라만차랜드\nEN:\nLa Manchaland, Abandoned and Festering"
+  },
+  {
+    "key": "839002-desc",
+    "original": "一定周期で血鬼と血袋が入ったゴンドラを生成。ゴンドラが生成されるとき、一定数の血鬼と血袋が共に出現することがある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一定周期で血鬼と血袋が入ったゴンドラを生成。ゴンドラが生成されるとき、一定数の血鬼と血袋が共に出現することがある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일정 주기로 혈귀와 피주머니가 담긴 곤돌라를 생성함. 곤돌라가 생성될 때 일정 수의 혈귀와 피주머니가 함께 등장할 수 있음.\nEN:\nGenerates Gondolas filled with Bloodfiends and Bloodbags at a set interval. A certain number of Bloodfiends and Bloodbags may arrive to the field when when a Gondola is generated."
+  },
+  {
+    "key": "839003-name",
+    "original": "永久に回る風車、大観覧車、そして吾ら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "永久に回る風車、大観覧車、そして吾ら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영원히 도는 풍차,대관람차 그리고 우리\nEN:\nThe Eternal Cycle of Windmills, Wheels, and Us"
+  },
+  {
+    "key": "839003-desc",
+    "original": "ゴンドラが生成されているときは攻撃できない。\nスキルダメージにより体力が減少しない。[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]効果で体力ダメージを受けない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゴンドラが生成されているときは攻撃できない。\nスキルダメージにより体力が減少しない。[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]効果で体力ダメージを受けない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n곤돌라가 생성되어있을 때 공격할 수 없음.\n스킬 피해로 체력이 감소하지 않음. [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 효과로 체력 피해를 받지 않음.\nEN:\nCannot be attacked when there is a Gondola on the field.\nDoes not lose HP due to Skill damage. Does not take HP damage due to [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]."
+  },
+  {
+    "key": "839004-name",
+    "original": "再び…再び回るのだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び…再び回るのだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시... 다시 도는거란다.\nEN:\nHere we go... another lap."
+  },
+  {
+    "key": "839004-desc",
+    "original": "ターン終了時、または戦闘進行中に[FerrisWheel]が0かつ、次のターンに出現する敵がいないなら次のフェーズへ移行する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、または戦闘進行中に[FerrisWheel]が0かつ、次のターンに出現する敵がいないなら次のフェーズへ移行する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 또는 전투 진행 중 [FerrisWheel]가 0이고, 다음 턴에 등장할 적이 없으면, 다음 페이즈로 넘어감.\nEN:\nIf [FerrisWheel] is at 0 and there are no units to be spawned next turn at Turn End or during the combat phase, move on to the next phase."
+  },
+  {
+    "key": "839005-name",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
+  },
+  {
+    "key": "839005-desc",
+    "original": "戦闘開始時、[StarvingDonqui]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[StarvingDonqui]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [StarvingDonqui] 얻음\nEN:\nGain [StarvingDonqui] at the start of the Encounter"
+  },
+  {
+    "key": "841001-name",
+    "original": "再び巡る血の衝動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び巡る血の衝動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 도는 피의 충동\nEN:\nReturning Bloodlust"
+  },
+  {
+    "key": "841001-desc",
+    "original": "- [RegainedStrength]が10以上なら、[RegainedStrength_2nd]に変わる\n- [RegainedStrength]が20以上なら、[RegainedStrength_3rd]に変わる\n- [RegainedStrength]が消耗されて足りなくなれば前の段階に戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- [RegainedStrength]が10以上なら、[RegainedStrength_2nd]に変わる\n- [RegainedStrength]が20以上なら、[RegainedStrength_3rd]に変わる\n- [RegainedStrength]が消耗されて足りなくなれば前の段階に戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- [RegainedStrength]이 10 이상이면, [RegainedStrength_2nd] 로 전환됨.\n- [RegainedStrength]이 20 이상이면, [RegainedStrength_3rd] 로 전환됨.\n- [RegainedStrength]이 소모되어, 부족해지면 이전 단계가 됨\nEN:\n- At 10+ [RegainedStrength], convert them to [RegainedStrength_2nd].\n- At 20+ [RegainedStrength], convert them to [RegainedStrength_3rd].\n- If this unit consumes [RegainedStrength] and drops it below the above thresholds, revert to previous Stages accordingly"
+  },
+  {
+    "key": "841002-name",
+    "original": "ドンキホーテ式硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ式硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테식 경혈\nEN:\nDon Quixote Hardblood Arts"
+  },
+  {
+    "key": "841002-desc",
+    "original": "攻撃的中時、対象に[Laceration]があれば、被ダメージ量の30%だけ部位と本体の体力を回復\n[SuperCoin]の場合はマッチ敗北後に的中時、この効果は発動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があれば、被ダメージ量の30%だけ部位と本体の体力を回復\n[SuperCoin]の場合はマッチ敗北後に的中時、この効果は発動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 입힌 체력 피해량의 30%만큼 부위와 본체 체력 회복. \n파괴 불가 코인의 경우, 합 패배 후 적중 시 이 효과는 발동되지 않음.\nEN:\nOn Hit, if the target has [Laceration], heal this unit's Part & Core by 30% of the HP damage dealt.\nFor Unbreakable Coins: this effect does not activate on Hit after Clash Lose."
+  },
+  {
+    "key": "841003-name",
+    "original": "馴染みのない晩餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "馴染みのない晩餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낯선 만찬\nEN:\nAn Unfamiliar Banquet"
+  },
+  {
+    "key": "841003-desc",
+    "original": "1ターンで体力を自分の体力最大値の15%以上回復するか、敵の[Laceration]を吸収したなら、次のターンにて[Binding]3を得る(1ターンにつき1回)\n自分のスキルで対象を倒した場合、次のターンに[AttackDown]2, [DefenseDown]1を得る(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1ターンで体力を自分の体力最大値の15%以上回復するか、敵の[Laceration]を吸収したなら、次のターンにて[Binding]3を得る(1ターンにつき1回)\n自分のスキルで対象を倒した場合、次のターンに[AttackDown]2, [DefenseDown]1を得る(最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 턴에 체력을 자신의 최대 체력의 15% 이상 회복했거나, 적의 [Laceration]을 흡수했으면, 다음 턴에 [Binding] 3 얻음. (턴 당 1회)\n자신의 스킬로 대상을 처치한 경우, 다음 턴에 [AttackDown] 2 , [DefenseDown] 1 얻음. (최대 3회 발동)\nEN:\nIf this unit healed more than 15% of its max HP, or siphoned the enemy's [Laceration], gain 3 [Binding] next turn. (once per turn)\nIf this unit killed the target with its Skill, gain 2 [AttackDown] and 1 [DefenseDown] next turn. (3 times per turn)"
+  },
+  {
+    "key": "841004-name",
+    "original": "家族のため…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "家族のため…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가족을 위하여…\nEN:\nFor the Family..."
+  },
+  {
+    "key": "841004-desc",
+    "original": "ターン終了時にパニック状態なら、次のターン開始時にパニック状態を解除し、精神力が0に初期化される。\nパニック状態が解除されるとき\n- [BloodDinner]を30消耗し、次のターンに[Enhancement]2, [Agility]1を得て、精神力を30回復。 \n- [BloodDinner]を消耗できなければ、[Laceration]を40を得て、[Laceration]によるダメージを即発動させてから、[Laceration]回数が5減少する。\n- 以降、次のターンに[Enhancement]2を得て、精神力を30回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、次のターン開始時にパニック状態を解除し、精神力が0に初期化される。\nパニック状態が解除されるとき\n- [BloodDinner]を30消耗し、次のターンに[Enhancement]2, [Agility]1を得て、精神力を30回復。 \n- [BloodDinner]を消耗できなければ、[Laceration]を40を得て、[Laceration]によるダメージを即発動させてから、[Laceration]回数が5減少する。\n- 以降、次のターンに[Enhancement]2を得て、精神力を30回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.\n패닉 상태가 해제될 때\n- [BloodDinner]을 30 소모하여 다음 턴에 [Enhancement] 2, [Agility] 1 얻고, 정신력 30 회복\n- [BloodDinner]을 소모하지 못한 경우, [Laceration] 40을 얻고 즉시 발동시킨 후, 자신의 [Laceration] 횟수 5 감소.\n- 이후 다음 턴에 [Enhancement] 2를 얻고, 정신력 30 회복\nEN:\nTurn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [Agility] next turn, and heal 30 SP.\n- If this unit failed to consume [BloodDinner], gain 40 [Laceration], immediately take the damage from [Laceration], then lose 5 [Laceration] Count.\n- Then, gain 2 [Enhancement] next turn and heal 30 SP"
+  },
+  {
+    "key": "841101-name",
+    "original": "虚しく安逸だった夢のかけら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "虚しく安逸だった夢のかけら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헛되고 안일했던 꿈의 조각\nEN:\nBroken Fragment of a Futile, Naive Dream"
+  },
+  {
+    "key": "841101-desc",
+    "original": "このユニットが除去されると、[BloodDinner]が30増加\n囚人によって討伐されると夢見る冒険の記憶 を生成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このユニットが除去されると、[BloodDinner]が30増加\n囚人によって討伐されると夢見る冒険の記憶 を生成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 유닛이 제거되면 [BloodDinner] 30 증가\n수감자에 의해 처치 시 꿈꾸는 모험의 기억 생성\nEN:\nIf this unit is eliminated, increase [BloodDinner] by 30\nWhen killed by a Sinner, generate Memories of the Dreaming Adventure"
+  },
+  {
+    "key": "841102-name",
+    "original": "家族に背を向けた利己的な願い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "家族に背を向けた利己的な願い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가족을 등진 이기적인 바램\nEN:\nA Selfish Wish at the Expense of the Family"
+  },
+  {
+    "key": "841102-desc",
+    "original": "本物のドンキホーテに倒されると\n- 本物のドンキホーテが[RegainedStrength]5を得る。\n- 全囚人が色欲ダメージを30受け、[Laceration]威力8, [Laceration]回数8を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本物のドンキホーテに倒されると\n- 本物のドンキホーテが[RegainedStrength]5を得る。\n- 全囚人が色欲ダメージを30受け、[Laceration]威力8, [Laceration]回数8を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테에게 처치되면\n- 돈키호테가 [RegainedStrength] 5 얻음.\n-모든 수감자가 색욕 피해를 30 받고, [Laceration] 위력 8, [Laceration] 횟수 8 얻음.\nEN:\nWhen killed by Don Quixote:\n- Don Quixote gains 5 [RegainedStrength].\n- All Sinners take 30 Lust damage and gain 8 [Laceration] Potency and Count."
+  },
+  {
+    "key": "841301-name",
+    "original": "過ぎし冒険の記憶たち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし冒険の記憶たち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지나온 모험의 기억들\nEN:\nMemories of the Journeys Past"
+  },
+  {
+    "key": "841301-desc",
+    "original": "毎ターン開始時、全囚人の精神力を5回復\n囚人ドンキホーテに特殊効果を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン開始時、全囚人の精神力を5回復\n囚人ドンキホーテに特殊効果を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 모든 수감자 정신력 5 회복.\n돈키호테 수감자에게 특수한 효과 부여\nEN:\nAll Sinners gain 5 SP at every Turn Start.\nDon Quixote the Sinner gains a special effect"
+  },
+  {
+    "key": "841302-name",
+    "original": "噛み締める意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "噛み締める意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n되새기는 의지\nEN:\nReminders of Determination"
+  },
+  {
+    "key": "841302-desc",
+    "original": "ドンキホーテに倒されたら、ドンキホーテに今回と次のターンに[Reduction]を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテに倒されたら、ドンキホーテに今回と次のターンに[Reduction]を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테에게 처치되면 돈키호테에게 이번 턴과 다음 턴에 [Reduction] 3 부여.\nEN:\nWhen killed by Don Quixote: Don Quixote gains 3 [Reduction] this turn and next turn."
+  },
+  {
+    "key": "841201-name",
+    "original": "硬血楔拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血楔拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈 쐐기 구속\nEN:\nHardblood Wedge Gaol"
+  },
+  {
+    "key": "841201-desc",
+    "original": "このユニットが除去されると次のターンにて、このユニットに貫かれていた味方の[Penetration]状態が解除される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このユニットが除去されると次のターンにて、このユニットに貫かれていた味方の[Penetration]状態が解除される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 유닛이 제거되면 다음 턴에 이 유닛에게 꿰뚫렸던 아군의 [Penetration] 상태가 해제됨.\nEN:\nWhen this unit is eliminated, the ally who was impaled by this unit will lose the [Penetration] status next turn."
+  },
+  {
+    "key": "841202-name",
+    "original": "割れ舞い散る硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "割れ舞い散る硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깨져 흩날리는 경혈\nEN:\nShattering, Scattering Hardblood"
+  },
+  {
+    "key": "841202-desc",
+    "original": "このユニットが除去されると、数量が最も少ないE.G.O資源を3つ、ランダムなE.G.O資源を3つ獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このユニットが除去されると、数量が最も少ないE.G.O資源を3つ、ランダムなE.G.O資源を3つ獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 유닛이 제거되면 수량이 가장 부족한 ego 자원 3개, 무작위 ego 자원 3개 획득.\nEN:\nWhen this unit is eliminated, gain 3 E.G.O resources for the least-owned E.G.O resource."
+  },
+  {
+    "key": "841203-name",
+    "original": "内側から結晶化されてゆく血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "内側から結晶化されてゆく血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안에서부터 결정화 되어가는 피\nEN:\nInternal Blood Crystallization"
+  },
+  {
+    "key": "841203-desc",
+    "original": "生成された次のターンまで倒されなかったなら、当該ターン終了時にこのユニットが除去され、除去時に効果が発動。\nその後、このユニットに貫かれていた味方が体力最大値の30%分の固定ダメージを受け、[Laceration]威力10、回数5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生成された次のターンまで倒されなかったなら、当該ターン終了時にこのユニットが除去され、除去時に効果が発動。\nその後、このユニットに貫かれていた味方が体力最大値の30%分の固定ダメージを受け、[Laceration]威力10、回数5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생성된 다음 턴까지 처치되지 않았으면, 해당 턴 종료 시 이 유닛이 제거되며, 제거 시 효과가 발동됨.\n이후 이 유닛에게 꿰뚫렸던 아군이 최대 체력의 30%만큼 고정 피해를 받고, [Laceration] 위력 10, 횟수 5를 얻음.\nEN:\nIf this unit is not eliminated by the turn after its generation, this unit will be eliminated at Turn End, activating the following effect.\nThe ally who was impaled by this unit takes fixed damage equal to 30% of their max HP, and gains 10 [Laceration] Potency and +5 [Laceration] Count."
+  },
+  {
+    "key": "841204-name",
+    "original": "固まってしまった全ての血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "固まってしまった全ての血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳어버린 모든 피\nEN:\nTotal Blood Coagulation"
+  },
+  {
+    "key": "841204-desc",
+    "original": "本物のドンキホーテに倒されると死亡時に効果が発動し、このユニットに貫かれていた味方が死亡する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本物のドンキホーテに倒されると死亡時に効果が発動し、このユニットに貫かれていた味方が死亡する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진짜 돈키호테에게 처치되면, 사망시 효과가 발동되고, 이 유닛에게 꿰뚫렸던 아군이 사망함.\nEN:\nWhen killed by true Don Quixote, activate the on-death effect, and the ally impaled by this unit will be killed."
+  },
+  {
+    "key": "841103-name",
+    "original": "抱いてはならぬ無責任な夢であったのだ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "抱いてはならぬ無責任な夢であったのだ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n품어서는 안될 무책임했던 꿈이었던거야\nEN:\nI never should've dreamed this irresponsible dream"
+  },
+  {
+    "key": "841103-desc",
+    "original": "自分に[Precarious]があれば、討伐時に夢見る冒険の記憶が生成されない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分に[Precarious]があれば、討伐時に夢見る冒険の記憶が生成されない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신에게 [Precarious]이 있으면, 처치 시 꿈꾸는 모험의 기억이 생성되지 않음.\nEN:\nIf this unit has [Precarious], Memories of the Dreaming Adventure will not be generated on death"
+  },
+  {
+    "key": "839006-name",
+    "original": "黄金の枝の強制調律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黄金の枝の強制調律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금가지의 강제 조율\nEN:\nThe Golden Bough's Forced Arbitration"
+  },
+  {
+    "key": "839006-desc",
+    "original": "戦闘開始時、[ConfinementOfGoldenBranch]を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[ConfinementOfGoldenBranch]を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [ConfinementOfGoldenBranch] 얻음.\nEN:\nEncounter Start: gain [ConfinementOfGoldenBranch]."
+  },
+  {
+    "key": "841005-name",
+    "original": "まだまだやれるだろう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まだまだやれるだろう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n좀 더 해보렴\nEN:\nPlease, try again"
+  },
+  {
+    "key": "841005-desc",
+    "original": "パターン変更時、自分の部位に付与された[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]威力を半減。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パターン変更時、自分の部位に付与された[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking]威力を半減。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패턴 변경 시 자신의 부위에 부여된 [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 위력을 절반으로 감소.\nEN:\nWhen gaining a new pattern, halve the Potency of [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] on this unit's Parts."
+  },
+  {
+    "key": "841104-name",
+    "original": "冒険はここで終わりだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "冒険はここで終わりだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모험은 여기서 끝이다.\nEN:\nThe adventure ends here."
+  },
+  {
+    "key": "841104-desc",
+    "original": "毎ターン開始時にドンキホーテがバリアを得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン開始時にドンキホーテがバリアを得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 돈키호테가 보호막을 얻음.\nEN:\nDon Quixote gains Shield at every Turn Start."
+  }
+]

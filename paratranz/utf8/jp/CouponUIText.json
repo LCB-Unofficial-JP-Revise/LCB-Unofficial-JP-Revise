@@ -1,0 +1,86 @@
+[
+  {
+    "key": "coupon_InputField_block-content",
+    "original": "クーポンコード入力不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クーポンコード入力不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쿠폰 코드 입력 불가\nEN:\nCannot Input Coupon Codes"
+  },
+  {
+    "key": "coupon_InputField-content",
+    "original": "クーポンコード入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クーポンコード入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쿠폰 코드 입력\nEN:\nInput coupon codes here"
+  },
+  {
+    "key": "coupon_popup_title-content",
+    "original": "クーポン入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クーポン入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쿠폰 입력\nEN:\nInput Coupon Code"
+  },
+  {
+    "key": "coupon_popup_desc-content",
+    "original": "- クーポンは大文字と数字の組み合わせです。\n- 同一クーポンは、1アカウントにつき1回のみ登録できます。\n- 有効期限が切れたクーポンは登録できません。\n- 短時間で登録に多数失敗した場合、一定期間クーポン登録が制限されることがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- クーポンは大文字と数字の組み合わせです。\n- 同一クーポンは、1アカウントにつき1回のみ登録できます。\n- 有効期限が切れたクーポンは登録できません。\n- 短時間で登録に多数失敗した場合、一定期間クーポン登録が制限されることがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n-쿠폰은 대문자 + 숫자로만 조합됩니다.\n- 같은 쿠폰은 계정마다 한 번만 등록할 수 있습니다.\n- 유효기간이 만료된 쿠폰은 등록할 수 없습니다.\n- 단기간에 다수의 등록 실패 시, 일정 기간 쿠폰 등록이 제한될 수 있습니다.\nEN:\n- Coupons are always combinations of upper-case English alphabets and numbers.\n- No same coupon can be registered more than once for the same account.\n- Coupons past their expiry date cannot be registered.\n- Repeated coupon code input failure within a short timeframe may restrict coupon code for a set amount of time."
+  },
+  {
+    "key": "coupon_use_failed_2-content",
+    "original": "無効なクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無効なクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유효하지 않은 쿠폰입니다.\nEN:\nThis coupon is invalid."
+  },
+  {
+    "key": "coupon_use_failed_3-content",
+    "original": "無効なクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無効なクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유효하지 않은 쿠폰입니다.\nEN:\nThis coupon is invalid."
+  },
+  {
+    "key": "coupon_use_failed_4-content",
+    "original": "有効期間が過ぎたクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有効期間が過ぎたクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유효기간이 만료된 쿠폰입니다.\nEN:\nThis coupon is expired."
+  },
+  {
+    "key": "coupon_use_failed_5-content",
+    "original": "使用済みのクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用済みのクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 사용된 쿠폰입니다.\nEN:\nThis coupon has already been claimed."
+  },
+  {
+    "key": "coupon_use_failed_6-content",
+    "original": "使用済みのクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用済みのクーポンです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 사용된 쿠폰입니다.\nEN:\nThis coupon has already been claimed."
+  },
+  {
+    "key": "coupon_use_failed_7-content",
+    "original": "連続登録失敗により、{0}までクーポン登録が停止されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連続登録失敗により、{0}までクーポン登録が停止されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연속 등록 실패로 인해 {0}까지 쿠폰 등록이 중단 중단되었습니다.\nEN:\nRepeated coupon code input failure. Coupon code input restricted until {0}."
+  },
+  {
+    "key": "coupon_InputField_block_desc-content",
+    "original": "{0}まで登録停止\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}まで登録停止\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}까지 등록 중단\nEN:\nCoupon code input restricted until {0}"
+  },
+  {
+    "key": "coupon_use_failed_unknown-content",
+    "original": "不明なエラーが発生しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不明なエラーが発生しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알 수 없는 오류가 발생했습니다.\nEN:\nAn unknown error has occurred."
+  }
+]

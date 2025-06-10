@@ -1,0 +1,562 @@
+[
+  {
+    "key": "place",
+    "original": "質屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "質屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전당포\nEN:\nA Pawnshop"
+  },
+  {
+    "key": "teller",
+    "original": "質屋の主人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "質屋の主人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전당포 주인\nEN:\nPawnbroker"
+  },
+  {
+    "key": "title",
+    "original": "J社 質屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "J社 質屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nJ사 전당포\nEN:\nJ Corp. Pawnshop"
+  },
+  {
+    "key": "content",
+    "original": "おや、どんさか入り過ぎじゃぁないのかぇ？タダでさえ狭い店だってのに…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おや、どんさか入り過ぎじゃぁないのかぇ？タダでさえ狭い店だってのに…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거, 너무 우르르 들어오는 거 아니유? 가뜩이나 좁아터진 가게구만...\nEN:\nAin’t ya too many visitors at once? The shop’s cramped as is…"
+  },
+  {
+    "key": "content-dup1",
+    "original": "トランプでやりますかぇ、それとも麻雀でやりますかぇ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "トランプでやりますかぇ、それとも麻雀でやりますかぇ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n트럼프로 볼거유, 아니면 마작 점으로 볼거유?\nEN:\nY’all prefer your luck of the draw from trumps or mahjong?"
+  },
+  {
+    "key": "content-dup2",
+    "original": "店内に入ってすぐ私たちを出迎えてくれたのは\n質屋の主人と見られる老人の無愛想な挨拶だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "店内に入ってすぐ私たちを出迎えてくれたのは\n質屋の主人と見られる老人の無愛想な挨拶だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가게 안을 들어가자마자 맞이해 준 건 전당포 주인으로 보이는 노인의 퉁명스러운 인사였다.\nEN:\nAs we entered the shop, we were met with the gruff greeting of an old pawnbroker."
+  },
+  {
+    "key": "content-dup3",
+    "original": "アレなんつってんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アレなんつってんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저게 뭐라는 거냐?\nEN:\nWhat’s that blighter on about?"
+  },
+  {
+    "key": "content-dup4",
+    "original": "…J社の案内冊子読んできたのって私だけですか？\nヴェルギリウスさんが出発する前に一度読んでみろって言ってたじゃないですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…J社の案内冊子読んできたのって私だけですか？\nヴェルギリウスさんが出発する前に一度読んでみろって言ってたじゃないですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…저만 J사 안내 책자 읽어온 거예요? 베르길리우스 씨가 떠나기 전에 한 번씩 읽어보라고 했잖아요.\nEN:\n…Am I the only one here who read up on Nest J? Vergilius gave us a pamphlet to peruse before we left."
+  },
+  {
+    "key": "content-dup5",
+    "original": "まぁ、表紙くらいは見た気がするけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まぁ、表紙くらいは見た気がするけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐, 표지 정도는 봤던 것 같기도 하고...\nEN:\nWell, I think I remember glancing at the cover…"
+  },
+  {
+    "key": "content-dup6",
+    "original": "ここではその日の運によって受け取る支払金が変わります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ここではその日の運によって受け取る支払金が変わります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이곳에서는 그날 하루의 운에 따라서 받을 수 있는 지불금도 달라져요.\nEN:\nHere, you’ll get loaned different amounts depending on your fortune for the day."
+  },
+  {
+    "key": "content-dup7",
+    "original": "大吉なら上乗せしてくれるでしょうけど、\n大凶に近づくほど元手も回収できなくなるってことです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大吉なら上乗せしてくれるでしょうけど、\n大凶に近づくほど元手も回収できなくなるってことです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대복이면 값을 더 치러주겠지만 흉에 가까워질수록 본전도 못 건지게 되는 거죠.\nEN:\nIf you draw a great boon, you get extra cash, while misfortune means far less than what the pawn is worth."
+  },
+  {
+    "key": "content-dup8",
+    "original": "あ～そういえば、僕の家では端から占い師を正式雇用してましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ～そういえば、僕の家では端から占い師を正式雇用してましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아~ 그러고 보니 우리 집은 아예 점을 보는 사람들을 정식으로 고용하기도 했어요.\nEN:\nAh~ That reminds me, our family had hired dedicated fortunetellers."
+  },
+  {
+    "key": "content-dup9",
+    "original": "家を出る直前に引いた運勢が大吉だったんですけど、\nこういう風にみんなに逢える運命を暗示してたみたいですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "家を出る直前に引いた運勢が大吉だったんですけど、\nこういう風にみんなに逢える運命を暗示してたみたいですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집을 나오기 직전에 봤던 점에 대복을 뽑았는데, 이렇게 다 같이 만날 운명을 암시한 거였나 봐요.\nEN:\nThey drew a greater boon for me in the divination they performed before I left. That must’ve been a sign that I would join all of you wonderful people on our journey."
+  },
+  {
+    "key": "content-dup10",
+    "original": "わぁ、裕福な家で悠々自適な生活をしてたのがあなたの運命だなんて。\n私も次にはそんな運命で生まれることを願わないとですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わぁ、裕福な家で悠々自適な生活をしてたのがあなたの運命だなんて。\n私も次にはそんな運命で生まれることを願わないとですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n와, 유복한 집에서 신선놀음이나 해왔던 게 당신의 운명이라니. 저도 다음에는 그런 운명으로 태어나길 기도해야겠네요.\nEN:\nWow, really, so indulging in lofty leisure on your grand estate was your fated life. Maybe I should pray that I’m born that rich if there’s a next time."
+  },
+  {
+    "key": "content-dup11",
+    "original": "オレはごめんだ。あんな奴らのが、何だかんだで汚い遊び方すんだよな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オレはごめんだ。あんな奴らのが、何だかんだで汚い遊び方すんだよな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n난 사양이야. 저런 놈들이 알고 보면 더 더럽게 노는 법이거든.\nEN:\nI’m good. It’s well-off folks like him that tend to play dirty."
+  },
+  {
+    "key": "content-dup12",
+    "original": "そうかもしれませんね。僕も子供の頃から弟弟と一緒に遊ぶのが\n嫌だった気がします。毎日反則技を使って意地悪したからですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうかもしれませんね。僕も子供の頃から弟弟と一緒に遊ぶのが\n嫌だった気がします。毎日反則技を使って意地悪したからですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럴 수도 있겠네요. 저도 어렸을 때부터 제 동생 하고는 같이 놀기 싫었던 것 같아요. 맨날 반칙을 쓰면서 심술을 부렸거든요.\nEN:\nYou might be right. I didn’t like to get along with my younger sibling in childhood. Always trying to cheat and grouch if things didn’t go as desired."
+  },
+  {
+    "key": "content-dup13",
+    "original": "いや、オレが言ったのはそういうんじゃなくて！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いや、オレが言ったのはそういうんじゃなくて！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니, 내가 말한 건 그런 뜻이 아니고!\nEN:\nNo, that’s NOT what I was getting at!"
+  },
+  {
+    "key": "content-dup14",
+    "original": "みんな占うのかい、それともやらんのかい？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "みんな占うのかい、それともやらんのかい？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다들 점 볼 거여, 말 거여?\nEN:\nSo you wanna get your fortune or not?"
+  },
+  {
+    "key": "content-dup15",
+    "original": "ところで…やっこさん、カタにするもんは持ってたりするんかぇ？\nなんかみんな身なりが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ところで…やっこさん、カタにするもんは持ってたりするんかぇ？\nなんかみんな身なりが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런데… 시방, 저당 잡을 걸 가지고 있긴 한 거여? 다들 행색이...\nEN:\nForget about that… Do you people even have anything to pawn? I’m not seeing any wealth on ya…"
+  },
+  {
+    "key": "content-dup16",
+    "original": "質屋の主人が信用ならないという顔で囚人を一人ずつ舐め回すように見ると、私の前で止まった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "質屋の主人が信用ならないという顔で囚人を一人ずつ舐め回すように見ると、私の前で止まった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전당포 주인이 미덥지 않은 얼굴로 수감자들을 한 명씩 흩어 내리다가 내 앞에 멈췄다.\nEN:\nThe pawnbroker glanced over each Sinner with a dubious look until his eyes landed on me."
+  },
+  {
+    "key": "content-dup17",
+    "original": "ほほぉ…あの時計頭は良い値が付きそうかのぉ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ほほぉ…あの時計頭は良い値が付きそうかのぉ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오호... 저 시계머리는 값이 되긴 하겠군.\nEN:\nOho… That clockhead might be worth a good sum."
+  },
+  {
+    "key": "content-dup18",
+    "original": "見積もるとどれくらい、じいさん？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "見積もるとどれくらい、じいさん？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n얼마로 예상하는데, 영감?\nEN:\nHow much do you think they sell for, old pal?"
+  },
+  {
+    "key": "content-dup19",
+    "original": "<ロージャ…なんで価格を聞くんだ…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<ロージャ…なんで価格を聞くんだ…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;로쟈… 가격은 왜 물어보는 거야…&gt;\nEN:\n&lt;Rodya… I’m not for sale…&gt;"
+  },
+  {
+    "key": "content-dup20",
+    "original": "連絡を受け取ったかは分からないのですが、\n私たちはリンバス・カンパニー所属で…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連絡を受け取ったかは分からないのですが、\n私たちはリンバス・カンパニー所属で…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연락받으셨을 진 모르겠지만 저희는 림버스 컴퍼니 소속으로...\nEN:\nAs you were likely contacted in advance, we are from Limbus Company, and…"
+  },
+  {
+    "key": "content-dup21",
+    "original": "不幸にも囚人はもちろん、質屋の主人ですら\nファウストの話をちゃんと聞いてなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不幸にも囚人はもちろん、質屋の主人ですら\nファウストの話をちゃんと聞いてなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불행히도 수감자들은 물론이고, 전당포 주인조차 파우스트의 말을 제대로 듣지 않고 있다.\nEN:\nUnfortunately, neither the Sinners nor the pawnbroker were paying any attention to Faust’s words."
+  },
+  {
+    "key": "content-dup22",
+    "original": "あぁ、このハンカチは家から出るときに持ってきたものなんですけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ、このハンカチは家から出るときに持ってきたものなんですけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아, 이 손수건은 집 나올 때 가져왔던 건데요...\nEN:\nOh, I did bring this handkerchief with me when I left home…"
+  },
+  {
+    "key": "content-dup23",
+    "original": "ほほぉ…絹に龍の刺繍を入れてあるの。\nステッチが細かいのが、このくらいなら…七百万…眼(アン)？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ほほぉ…絹に龍の刺繍を入れてあるの。\nステッチが細かいのが、このくらいなら…七百万…眼(アン)？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오호… 비단에 용 자수를 놓았군. 바늘땀이 꼼꼼한 게, 이 정도면… 칠백만… 안?\nEN:\nOho… A dragon embroidered on silk. That’s some meticulous needlework, which might net… let’s see, seven million… Ahn?"
+  },
+  {
+    "key": "content-dup24",
+    "original": "たったそれくらいの布きれがそんな高ぇのかよ！？\n眼が腐ってんじゃねぇのか、じじい！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たったそれくらいの布きれがそんな高ぇのかよ！？\n眼が腐ってんじゃねぇのか、じじい！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그깟 천 조각이 그렇게 비싸다고?! 눈이 썩어버린 거 아냐, 영감?!\nEN:\nA crummy piece of cloth is worth that much?! Have your eyes rotted out, old geezer?!"
+  },
+  {
+    "key": "content-dup25",
+    "original": "は？こんな高級品が分からんのかぇ…\nはぁ、そんなガラクタの指輪なんてはめてるからの…。チッチッ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "は？こんな高級品が分からんのかぇ…\nはぁ、そんなガラクタの指輪なんてはめてるからの…。チッチッ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐? 이런 고급품을 못 알아… 하아, 그런 고물 반지나 끼고 있으니… 쯧쯔.\nEN:\nWha? You don’t recognize the value of this quality—­­ Beh, now I see. You’re wearing a shabby ring like it’s true treasure… Tsk-tsk."
+  },
+  {
+    "key": "content-dup26",
+    "original": "…今何つった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…今何つった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…뭐라고 했냐.\nEN:\n…What did you just say."
+  },
+  {
+    "key": "content-dup27",
+    "original": "もう、うるさい！ダンテ～、こいつら静かにさせて～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もう、うるさい！ダンテ～、こいつら静かにさせて～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아우, 시끄러! 단테~ 얘네 좀 조용히 시켜줘~\nEN:\nGeez, cut it out! Dante~ Please shut them up~"
+  },
+  {
+    "key": "content-dup28",
+    "original": "心配したじゃないですか、ファウスト。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心配したじゃないですか、ファウスト。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n걱정했잖아요, 파우스트.\nEN:\nYou had us worried, Faust."
+  },
+  {
+    "key": "content-dup29",
+    "original": "修羅場になった質屋の騒音の中で、にこやかなこと\nこの上ない愛想の良い声が聞こえてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "修羅場になった質屋の騒音の中で、にこやかなこと\nこの上ない愛想の良い声が聞こえてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n난장판이 된 전당포의 소음 속에서, 상냥하기 그지없는 사근사근한 목소리가 들려왔다.\nEN:\nAmidst the chaos, a most gentle voice softly landed on my ears."
+  },
+  {
+    "key": "teller-dup7",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup7",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup30",
+    "original": "会うのは4時だったんですが、15分も過ぎてしまって。\nあなたが時計を見る方法を忘れたはずはないでしょうし、そうですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "会うのは4時だったんですが、15分も過ぎてしまって。\nあなたが時計を見る方法を忘れたはずはないでしょうし、そうですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보기로 한 시간은 4시였는데 15분이나 지나버려서. 당신이 시계 보는 법을 까먹었을 리는 없을 테고요. 그렇죠?\nEN:\nWe were meant to meet each other at 4, but fifteen minutes had passed already. Surely you couldn’t have forgotten how to read a clock, right?"
+  },
+  {
+    "key": "content-dup31",
+    "original": "はい、バスを運転したのは私ではないですからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はい、バスを運転したのは私ではないですからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네, 버스를 운전한 건 제가 아니니까요.\nEN:\nCertainly not. There was little I could do to alter the driver of the bus."
+  },
+  {
+    "key": "teller-dup8",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup8",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup32",
+    "original": "あはぁ、だからこんな時計人間まで連れて歩いてるのか？\nアラーム機能はなかったみたいだなあ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あはぁ、だからこんな時計人間まで連れて歩いてるのか？\nアラーム機能はなかったみたいだなあ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아하, 그래서 이런 시계 인간까지 데리고 다니는 거야? 알람 기능까진 없었나 보네.\nEN:\nAha, so you’re taking a clock-person with you to help with the time? I suppose they didn’t come with an alarm."
+  },
+  {
+    "key": "content-dup33",
+    "original": "もはや見下している声色を隠そうともしない声も、続けて聞こえてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もはや見下している声色を隠そうともしない声も、続けて聞こえてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이젠 아예 업신여기는 기색을 숨길 의지조차 없는 목소리도 이어서 들려왔다.\nEN:\nThe gentle voice was soon followed by one that didn’t even attempt to hide their disdain."
+  },
+  {
+    "key": "content-dup34",
+    "original": "<おい、酷いじゃないか。初対面だっていうのに…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<おい、酷いじゃないか。初対面だっていうのに…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;이봐, 너무하잖아. 처음 보는 사이끼리...&gt;\nEN:\n&lt;Come on, that’s a little harsh. Let’s try to leave better first impressions…&gt;"
+  },
+  {
+    "key": "content-dup35",
+    "original": "囚人以外には私の言葉が聞こえないということを知っているにもかかわらず\n無礼な言動には毎回興奮してしまう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人以外には私の言葉が聞こえないということを知っているにもかかわらず\n無礼な言動には毎回興奮してしまう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자들 외엔 내 말이 들리지 않을 거라는 걸 알고 있음에도 무례한 언사엔 매번 흥분하게 된다.\nEN:\nI know my voice won’t be heard by anyone other than the Sinners, but I still can’t help but get upset at rude remarks."
+  },
+  {
+    "key": "teller-dup9",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup9",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup36",
+    "original": "あぁ、お前たちか？この前の黄金の枝の奪還作戦をぶち壊しにしたやつらって。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ、お前たちか？この前の黄金の枝の奪還作戦をぶち壊しにしたやつらって。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아, 너희야? 이번에 황금가지 탈환 작전 말아먹은 애들.\nEN:\nOh, so it was you? You guys are the team that botched the Golden Bough retrieval last time?"
+  },
+  {
+    "key": "teller-dup10",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup10",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup37",
+    "original": "都市で屈指の天才が属するチームだって話だったから、\n周りからもかなり期待されてたんだけどな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "都市で屈指の天才が属するチームだって話だったから、\n周りからもかなり期待されてたんだけどな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도시에서 손꼽힌다는 천재가 속한 팀이라길래 주위에서 기대가 많았는데.\nEN:\nFolks had high expectations for your team, what with some of the smartest people in the City being on it."
+  },
+  {
+    "key": "teller-dup11",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup11",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup38",
+    "original": "なんだか…ファウストさんの顔色がずっと悪そうに見えますけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なんだか…ファウストさんの顔色がずっと悪そうに見えますけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어쩐지... 파우스트 씨 표정이 계속 안 좋아 보이던데.\nEN:\nNo wonder… Ms. Faust wasn’t looking very pleased."
+  },
+  {
+    "key": "content-dup39",
+    "original": "私の表情はいつも同じでしたよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私の表情はいつも同じでしたよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제 표정은 항상 동일했어요.\nEN:\nMy face has remained constant."
+  },
+  {
+    "key": "content-dup40",
+    "original": "おい、おめぇは何でじっとしてんだよ？\nこいつもそこそこ頭脳派だろ。無視すんなよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おい、おめぇは何でじっとしてんだよ？\nこいつもそこそこ頭脳派だろ。無視すんなよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n야, 넌 왜 가만히 있어? 얘도 나름 두뇌파야. 무시하지 말라고.\nEN:\nEy, what’re you standing around for? Go on now. This fellow here is also the brainy sort. Don’t brush him off."
+  },
+  {
+    "key": "content-dup41",
+    "original": "ヒースクリフがイサンを横目で見ながら言ったが、\nイサンは気乗りしないようだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフがイサンを横目で見ながら言ったが、\nイサンは気乗りしないようだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프가 이상을 곁눈으로 가리키며 말했지만, 정작 이상의 반응은 시큰둥 했다.\nEN:\nHeathcliff gave Yi Sang a sideways glance, but what he got in response was lukewarm."
+  },
+  {
+    "key": "content-dup42",
+    "original": "ただ、いたずらなることゆえ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ、いたずらなることゆえ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그저 무의미한 자랑이기 때문이오.\nEN:\nI shall not, as that would be a hollow vaunt."
+  },
+  {
+    "key": "content-dup43",
+    "original": "お前地下だと饒舌じゃなかったか？なんでまたそう変になったんだよ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お前地下だと饒舌じゃなかったか？なんでまたそう変になったんだよ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n너 지하에서만 해도 말 많지 않았냐? 왜 갑자기 또 이상해진 거야?\nEN:\nBut you were a lot more talkative down in that basement? Who are you and what did you do with Yi Sang?"
+  },
+  {
+    "key": "content-dup44",
+    "original": "当職もあんがいさんざん、さなることを言わるるなりけり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "当職もあんがいさんざん、さなることを言わるるなりけり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본인은 본래부터 이상이었소만.\nEN:\nI am and have always been whom I match in the mirror."
+  },
+  {
+    "key": "content-dup45",
+    "original": "この…はぁ。もういい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この…はぁ。もういい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이… 하. 됐다.\nEN:\nYou― Haah, forget it."
+  },
+  {
+    "key": "content-dup46",
+    "original": "最初の任務はそもそも失敗を念頭に置いた計画でした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初の任務はそもそも失敗を念頭に置いた計画でした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫 번째 임무는 애초에 실패를 염두에 둔 계획이었어요.\nEN:\nOur first mission was devised with failure in mind."
+  },
+  {
+    "key": "content-dup47",
+    "original": "各自の潜在能力を確認する時間が必要だったから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "各自の潜在能力を確認する時間が必要だったから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각자의 잠재력을 확인하는 시간이 필요했으니까.\nEN:\nWe needed an opportunity to see what potential our Sinners held."
+  },
+  {
+    "key": "content-dup48",
+    "original": "…そうだったのか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…そうだったのか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그랬던 거였어?\nEN:\n…Wait, it was?"
+  },
+  {
+    "key": "content-dup49",
+    "original": "最初から目標が失敗の作戦だなんて、作戦と言うには微妙だな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初から目標が失敗の作戦だなんて、作戦と言うには微妙だな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음부터 목표가 실패인 작전이라니, 작전이라고 부르기도 무엇하군.\nEN:\nA plan whose purpose is to fail? That could hardly qualify as a proposal."
+  },
+  {
+    "key": "teller-dup12",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup12",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup50",
+    "original": "ヴェルギリウスさんはどこに行きました？私はあの方に会えるかと思って\n作戦に合流すると言ったんですが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヴェルギリウスさんはどこに行きました？私はあの方に会えるかと思って\n作戦に合流すると言ったんですが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n베르길리우스 님은 어디 갔죠? 전 그 분 얼굴이라도 뵐 수 있을까 싶어서 작전에 합류하겠다고 한 건데요.\nEN:\nBy the way, where is Vergilius? I agreed to assist with the operation mainly for a chance to get to see him."
+  },
+  {
+    "key": "teller-dup13",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup13",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup51",
+    "original": "あの方も恥ずかしかっただろうな。\nこんなひよっ子たちと一緒だって考えてみろよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あの方も恥ずかしかっただろうな。\nこんなひよっ子たちと一緒だって考えてみろよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그분도 쪽팔렸겠지. 이런 애들이랑 같이 다닌다고 생각해봐.\nEN:\nHe must’ve been embarrassed. Imagine accompanying people like these."
+  },
+  {
+    "key": "content-dup52",
+    "original": "くっ…あん野郎、わざと遠いとこで降ろしたのか？\nオレらが恥ずかしいから！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "くっ…あん野郎、わざと遠いとこで降ろしたのか？\nオレらが恥ずかしいから！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큭… 그 자식, 일부러 멀찌감치 내려 준거였나? 우리가 쪽팔려서?!\nEN:\nTch… Is that why he dropped us so far away from the place? Because he was ashamed of us?!"
+  },
+  {
+    "key": "content-dup53",
+    "original": "…どうして私たちを卑下する発言には誰も反論しないんですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…どうして私たちを卑下する発言には誰も反論しないんですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…왜 비하 발언에는 반박을 아무도 안 하는 건데요.\nEN:\n…Doesn’t anyone have a thing to say about us being belittled?"
+  },
+  {
+    "key": "content-dup54",
+    "original": "それに自己紹介でもした方が自慢であれ、\n虚勢であれ意味があるってことはご存じないんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それに自己紹介でもした方が自慢であれ、\n虚勢であれ意味があるってことはご存じないんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그리고 자기소개라도 해야 잘난 척이든 허세든 의미 있어진다는 거 몰라요?\nEN:\nAnd won’t all the boasting and bluffing not do much if we don’t introduce ourselves first?"
+  },
+  {
+    "key": "content-dup55",
+    "original": "今回、共同作戦をすることになった方々です。\nリンバス・カンパニークリア部署、LCCからいらっしゃいました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回、共同作戦をすることになった方々です。\nリンバス・カンパニークリア部署、LCCからいらっしゃいました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번에 합동작전을 하게 될 분들이에요. 림버스 컴퍼니 클리어 부서, LCC에서 오셨습니다.\nEN:\nThese two will be our cooperators for this mission. They’re from the Limbus Company Clearance department, also known as the LCC."
+  },
+  {
+    "key": "teller-dup14",
+    "original": "ソード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ソード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소드\nEN:\nSaude"
+  },
+  {
+    "key": "title-dup14",
+    "original": "LCCB\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "LCCB\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLCCB\nEN:\nLCCB"
+  },
+  {
+    "key": "content-dup56",
+    "original": "ビフォーチームまで付けてくださいよ。\nあぁ、私はソードでこの人はエピです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ビフォーチームまで付けてくださいよ。\nあぁ、私はソードでこの人はエピです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비포팀 까지 붙여주시죠. 아, 전 소드고 이 사람은 에피랍니다.\nEN:\nThe Before Team of Clearance, please. Ah, I’m Saude, and this here is Effie."
+  },
+  {
+    "key": "content-dup57",
+    "original": "まぁ、拍手でもしたほ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まぁ、拍手でもしたほ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐, 우리가 박수라도 쳐줘야 되는…\nEN:\nWhat, are we supposed to clap or…"
+  },
+  {
+    "key": "content-dup58",
+    "original": "わぁ！お会いできて嬉しいです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わぁ！お会いできて嬉しいです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n와! 반가워요!\nEN:\nWonderful! It’s a pleasure!"
+  },
+  {
+    "key": "content-dup59",
+    "original": "ホンルだけが心から喜びながら二人を歓迎し(本当に拍手するところだった)、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンルだけが心から喜びながら二人を歓迎し(本当に拍手するところだった)、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루만이 진심으로 반가워하며 그들을 환영했으며(실제로 박수를 치기 직전까지 갔다),\nEN:\nHong Lu was the only person on the team welcoming them with total sincerity. (He almost even gave a standing ovation.)"
+  },
+  {
+    "key": "content-dup60",
+    "original": "残りの半分は冷ややかな、もう半分は警戒している目付きで見つめて\n挨拶の時間はお開きとなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残りの半分は冷ややかな、もう半分は警戒している目付きで見つめて\n挨拶の時間はお開きとなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나머지의 반은 싸늘한, 반은 경계 어린 눈빛으로 쳐다보는 걸로 인사 시간은 마무리가 되었다.\nEN:\nA good half of the rest stared at the two with cold eyes, and the others wary, until introductions were finished."
+  }
+]

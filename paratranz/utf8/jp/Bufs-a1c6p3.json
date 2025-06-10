@@ -1,0 +1,233 @@
+[
+  {
+    "key": "AaCfPcBe-name",
+    "original": "深い喪失\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深い喪失\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깊은 상실\nEN:\nDeep Bereavement"
+  },
+  {
+    "key": "AaCfPcBe-desc",
+    "original": "攻撃終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료 시 정신력 5 피해 입힘.\nEN:\nInflict 5 SP damage After Attack."
+  },
+  {
+    "key": "AaCfPcBf-name",
+    "original": "解放されない哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "解放されない哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해방되지 못한 서글픔\nEN:\nFettered Woe"
+  },
+  {
+    "key": "AaCfPcBf-desc",
+    "original": "特定条件下でターン終了時に3以上なら、次のターンに全部位が混乱状態になる。\n鎖部位が脆弱3を得て消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定条件下でターン終了時に3以上なら、次のターンに全部位が混乱状態になる。\n鎖部位が脆弱3を得て消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 조건에서 턴 종료시 3이상이면, 다음 턴에 모든 부위가 흐트러짐 상태가 됨.\n사슬 부위에 취약을 3 얻고 소멸함.\nEN:\nUnder a certain condition, and at 3+ Value at Turn End, all Parts become Staggered next turn.\nExpires after applying 3 Fragile to the Chain Part"
+  },
+  {
+    "key": "AaCfPcBg-name",
+    "original": "憤怒の対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒の対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노의 대상\nEN:\nSubject of Wrath"
+  },
+  {
+    "key": "AaCfPcBg-desc",
+    "original": "心が引き裂かれたヒースクリフの攻撃対象へ優先的に選ばれる。\n死を迎えるとき、他の人格へ付与される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心が引き裂かれたヒースクリフの攻撃対象へ優先的に選ばれる。\n死を迎えるとき、他の人格へ付与される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마음이 찢겨진 히스클리프의 공격에 우선 지정 당함.\n죽음을 맞이할 때, 다른 인격에게 부여가 됨.\nEN:\nBecomes a priority attack target for Heathcliff The Heartbroken.\nWhen this unit is killed, this effect moves to a different Identity."
+  },
+  {
+    "key": "AaCfPcBb-name",
+    "original": "バトラーの目印\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バトラーの目印\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버틀러의 표식\nEN:\nButler's Mark"
+  },
+  {
+    "key": "AaCfPcBb-desc",
+    "original": "特定攻撃スキルの加重値増加に使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定攻撃スキルの加重値増加に使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 공격 스킬의 가중치 증가에 사용됨\nEN:\nUsed to raise Atk Weight of certain Attack Skills"
+  },
+  {
+    "key": "AaCfPcBc-name",
+    "original": "捕縛術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捕縛術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포박술\nEN:\nBinding Technique"
+  },
+  {
+    "key": "AaCfPcBc-desc",
+    "original": "- 最大3\n- ターン終了時に1増加\n- ターン終了時、次のターンに束縛を数値だけ得る。\n- ターン終了時に数値が3なら、この戦闘の間混乱状態になる。\n 消滅しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大3\n- ターン終了時に1増加\n- ターン終了時、次のターンに束縛を数値だけ得る。\n- ターン終了時に数値が3なら、この戦闘の間混乱状態になる。\n 消滅しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 3\n- 턴 종료시 1 증가\n- 턴 종료 시 다음 턴에 속박을 수치만큼 얻음.\n- 턴 종료 시 수치가 3이면, 이번 전투 동안 흐트러짐 상태가 됨.\n소멸하지 않음.\nEN:\n- Max 3\n- Turn End: increases by 1\n- Turn End: gain Bind equal to the Value of this effect.\n- Turn End: if at 3 Value, become Staggered for the rest of the Encounter.\nDoes not expire."
+  },
+  {
+    "key": "AaCfPcBc-summary",
+    "original": "次のターンに束縛を数値だけ得る。\n数値が3以上なら、この戦闘の間混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに束縛を数値だけ得る。\n数値が3以上なら、この戦闘の間混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 속박을 수치만큼 얻음.\n수치가 3이면, 이번 전투 동안 흐트러짐 상태가 됨.\nEN:\nGain Bind equal to the Value next turn.\nIf at 3 Value, become Staggered for the rest of the Encounter."
+  },
+  {
+    "key": "AaCfPcBa-name",
+    "original": "覚悟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覚悟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각오\nEN:\nDetermination"
+  },
+  {
+    "key": "AaCfPcBa-desc",
+    "original": "被ダメージ時、次のターンに攻撃レベル増加1を得る(1ターンにつき3回)\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n自分が固定編成される戦闘にて、自分の退却関連機能が作動しなくなる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時、次のターンに攻撃レベル増加1を得る(1ターンにつき3回)\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n自分が固定編成される戦闘にて、自分の退却関連機能が作動しなくなる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 다음 턴에 공격 레벨 증가 1 얻음.(턴 당 3회)\n턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.\n자신이 고정 편성되어야 하는 전투에서 자신의 퇴각 관련 기능이 작동하지 않음.\nEN:\n- When attacked, gain 1 Offense Level Up next turn. (3 times per turn)\n- Turn Start: If at less than 0 SP, gain 3 Attack Power Up.\nThis unit's Retreat abilities do not activate for the duration of this Encounter."
+  },
+  {
+    "key": "AaCfPcBa-summary",
+    "original": "被ダメージ時、攻撃レベル増加1を得る\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時、攻撃レベル増加1を得る\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 공격 레벨 증가 1 얻음.\n턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.\nEN:\nWhen hit, gain 1 Offense Level Up next turn.\nTurn Start: at less than 0 SP, gain 3 Attack Power Up."
+  },
+  {
+    "key": "AaCfPcBh-name",
+    "original": "苦痛に満ちた憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦痛に満ちた憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고통스러운 분노\nEN:\nExcruciating Rage"
+  },
+  {
+    "key": "AaCfPcBh-desc",
+    "original": "攻撃者に爆発する憤怒があれば、被ダメージ +100％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃者に爆発する憤怒があれば、被ダメージ +100％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격자에게 폭발하는 분노가 있으면 받는 피해 +100%\nEN:\nIf the attacker has Explosive Wrath, take +100% damage"
+  },
+  {
+    "key": "AaCfPcBm-name",
+    "original": "苦痛の雷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦痛の雷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고통의 벼락\nEN:\nLightning of Suffering"
+  },
+  {
+    "key": "AaCfPcBm-desc",
+    "original": "- マッチ勝利時に対象へ張り裂ける心を付与し、対象へダメージを7与える。\n- マッチ敗北または一方攻撃終了時、張り裂ける心を得てダメージを受ける。\n- スキル終了時に1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- マッチ勝利時に対象へ張り裂ける心を付与し、対象へダメージを7与える。\n- マッチ敗北または一方攻撃終了時、張り裂ける心を得てダメージを受ける。\n- スキル終了時に1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 합 승리 시 대상에게 찢어지는 마음을 부여하고, 대상에게 체력 피해를 7 준다.\n- 합 패배 또는 일방 공격 종료 시 찢어지는 마음을 얻고, 체력 피해를 7 받는다.\n- 스킬 종료 시 1 감소\nEN:\n- Clash Win: Inflict Breaking Heart and deal 7 HP damage.\n- Clash Lose or After Unopposed Attack: Gain Breaking Heart and take 7 HP damage.\n- Reduced by 1 at Skill End"
+  },
+  {
+    "key": "AaCfPcBn-name",
+    "original": "張り裂ける心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "張り裂ける心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찢어지는 마음\nEN:\nBreaking Heart"
+  },
+  {
+    "key": "AaCfPcBn-desc",
+    "original": "- (数値 × 0.2)だけ、全罪悪属性の耐性が増加\n- 数値が3になると混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- (数値 × 0.2)だけ、全罪悪属性の耐性が増加\n- 数値が3になると混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- (수치 X 0.2)만큼 모든 죄악 속성 내성 증가\n- 수치가 3이 되면 흐트러짐 상태가 된다.\nEN:\n- Every Sin Affinity Resistance is increased by (Value x 0.2)\n- At 3 Value, become Staggered."
+  },
+  {
+    "key": "AaCfPcBp-name",
+    "original": "近づく勇気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "近づく勇気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다가갈 용기\nEN:\nCourage to Approach"
+  },
+  {
+    "key": "AaCfPcBp-desc",
+    "original": "- ターン終了時に精神力を10回復\n- 毎ターン攻撃威力増加3, 保護5を得る\n- 被ダメージ時に精神力を5回復。次のターンに攻撃レベル増加1を得る。(1ターンにつき3回)\n- ターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n- この戦闘の間、生存した味方が自分を除いて1名以上いるときは、ヒースクリフの体力が1未満にならない\nこの戦闘の間、自分の退却関連機能が作動しなくなる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン終了時に精神力を10回復\n- 毎ターン攻撃威力増加3, 保護5を得る\n- 被ダメージ時に精神力を5回復。次のターンに攻撃レベル増加1を得る。(1ターンにつき3回)\n- ターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n- この戦闘の間、生存した味方が自分を除いて1名以上いるときは、ヒースクリフの体力が1未満にならない\nこの戦闘の間、自分の退却関連機能が作動しなくなる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 종료시 정신력 10 회복\n- 매 턴마다 공격 위력 증가 3, 보호 5 얻음\n- 피격 시 정신력 5 회복. 다음 턴에 공격 레벨 증가 1 얻음.(턴 당 3회)\n- 턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.\n- 이번 전투동안 생존한 아군이 자신을 제외하여 1명 이상 있을 때, 히스클리프의 체력이 1 미만으로 감소하지 않는다.\n이번 전투동안 자신의 퇴각 관련 기능이 작동하지 않음.\nEN:\n- Turn End: Heal 10 SP\n- Gain 3 Attack Power Up and 5 Protection every turn\n- When attacked, heal 5 SP. Gain 1 Offense Level Up next turn. (3 times per turn)\n- Turn Start: If at less than 0 SP, gain 3 Attack Power Up.\n- As long as there are 1 or more other surviving ally in this Encounter, Heathcliff's HP does not drop below 1.\nThis unit's Retreat abilities do not activate for the duration of this Encounter."
+  },
+  {
+    "key": "AaCfPcBo-name",
+    "original": "覚悟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覚悟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각오\nEN:\nDetermination"
+  },
+  {
+    "key": "AaCfPcBo-desc",
+    "original": "ターン終了時に精神力回復10。被ダメージ時、次のターンに攻撃レベル増加1を得る(1ターンにつき3回)\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n- この戦闘の間、生存した味方が自分を除いて1名以上いるときは、ヒースクリフの体力が1未満にならない\nこの戦闘の間、自分の退却関連機能が作動しなくなる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に精神力回復10。被ダメージ時、次のターンに攻撃レベル増加1を得る(1ターンにつき3回)\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n- この戦闘の間、生存した味方が自分を除いて1名以上いるときは、ヒースクリフの体力が1未満にならない\nこの戦闘の間、自分の退却関連機能が作動しなくなる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 정신력 회복 10. 피격 시 다음 턴에 공격 레벨 증가 1 얻음.(턴 당 3회)\n턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.\n이번 전투동안 생존한 아군이 자신을 제외하여 1명 이상 있을 때, 히스클리프의 체력이 1 미만으로 감소하지 않는다.\n이번 전투동안 퇴각 관련 기능이 작동하지 않음.\nEN:\n- Turn End: Heal 10 SP. When attacked, heal 5 SP. Gain 1 Offense Level Up next turn. (3 times per turn)\n- Turn Start: If at less than 0 SP, gain 3 Attack Power Up.\n- As long as there are 1 or more other surviving allies in this Encounter, Heathcliff's HP does not drop below 1.\nThis unit's Retreat abilities do not activate for the duration of this Encounter."
+  },
+  {
+    "key": "AaCfPcBo-summary",
+    "original": "ターン終了時に精神力回復10。\n被ダメージ時に攻撃レベル増加1を得る。\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に精神力回復10。\n被ダメージ時に攻撃レベル増加1を得る。\nターン開始時に精神力が0未満なら、攻撃威力増加3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 정신력 회복 10.\n피격 시 공격 레벨 증가 1 얻음.\n턴 시작 시 정신력이 0 미만이면, 공격 위력 증가 3 얻음.\nEN:\nTurn End: heal 10 SP. \nWhen hit, gain 1 Offense Level Up.\nTurn Start: at less than 0 SP, gain 3 Attack Power Up."
+  },
+  {
+    "key": "AaCfPcBq-name",
+    "original": "引き裂かれた心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "引き裂かれた心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찢긴 마음\nEN:\nBroken Heart"
+  },
+  {
+    "key": "AaCfPcBq-desc",
+    "original": "- 速度最大値 +2\n- 毎ターンダメージ量増加、脆弱 3を得る\n- メイン攻撃対象がヒースクリフなら、攻撃スキルの最終威力 +2\n- ヒースクリフにマッチ敗北時、次のターンに束縛 3, ダメージ量減少 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 速度最大値 +2\n- 毎ターンダメージ量増加、脆弱 3を得る\n- メイン攻撃対象がヒースクリフなら、攻撃スキルの最終威力 +2\n- ヒースクリフにマッチ敗北時、次のターンに束縛 3, ダメージ量減少 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 속도 값 +2\n- 매 턴마다 피해량 증가, 취약 3 얻음\n- 메인 공격 대상이 히스클리프면 공격 스킬의 최종 위력 +2\n- 히스클리프에게 합 패배 시 다음 턴에 속박 3, 피해량 감소 3 얻음\nEN:\n- Max Speed +2\n- Gain 3 Damage Up and 3 Fragile every turn\n- If the main target is Heathcliff, the Attack Skill gains Final Power +2\n- Clash Lose against Heathcliff: gain 3 Bind and 3 Damage Down next turn"
+  },
+  {
+    "key": "AaCfPcBr-name",
+    "original": "苦痛の中で…惨たらしく目覚めますように！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦痛の中で…惨たらしく目覚めますように！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고통 속에서...비참하게 깨어나기를!\nEN:\nMay She... Wake in Torment!"
+  },
+  {
+    "key": "AaCfPcBr-desc",
+    "original": "苦痛の雷が付与された対象とマッチ進行時、マッチ威力 -6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦痛の雷が付与された対象とマッチ進行時、マッチ威力 -6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고통의 벼락이 부여된 대상과 합 진행 시 합 위력 -6\nEN:\nClash Power -6 in a Clash against targets with Lightning of Suffering"
+  },
+  {
+    "key": "AaCfPcBi-name",
+    "original": "高熱機伝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高熱機伝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고열기전\nEN:\nSuperthermogenesis"
+  },
+  {
+    "key": "AaCfPcBi-desc",
+    "original": "ターン終了時、数値に比例した体力最大値比率の固定ダメージを受けて効果が消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、数値に比例した体力最大値比率の固定ダメージを受けて効果が消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 수치에 비례하여 최대 체력의 일정 비율만큼 고정 피해를 받고 효과 소멸\nEN:\nTurn End: take fixed damage equal to X% of Max HP based on the Value, then the effect expires"
+  },
+  {
+    "key": "AaCfPcBs-name",
+    "original": "邪魔するな\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "邪魔するな\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방해하지마\nEN:\nAway With You"
+  },
+  {
+    "key": "AaCfPcBs-desc",
+    "original": "残りバリア : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残りバリア : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남은 보호막 수치 : {0}\nEN:\nRemaining Shield Value : {0}"
+  }
+]

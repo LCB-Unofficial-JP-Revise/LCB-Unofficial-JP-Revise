@@ -1,0 +1,310 @@
+[
+  {
+    "key": "9018101-levelList[0].name",
+    "original": "■め\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "■め\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n■■라\nEN:\n■■ew"
+  },
+  {
+    "key": "9018101-levelList[0].desc",
+    "original": "[WhenUse] 対象に[Burst]が無いなら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Burst]が無いなら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [Burst]이 없다면, 합 위력 +1\nEN:\n[WhenUse] If the target does not have [Burst], Clash Power +1"
+  },
+  {
+    "key": "9018101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "9018101-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力2ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力2ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 2 피해\nEN:\n[OnSucceedAttack] Deal 2 SP damage"
+  },
+  {
+    "key": "9018102-levelList[0].name",
+    "original": "■い■■う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "■い■■う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n■어 ■■자\nEN:\nLe■'■ ■■t"
+  },
+  {
+    "key": "9018102-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 5+ [Burst], Coin Power +1"
+  },
+  {
+    "key": "9018102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "9018102-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 3 피해\nEN:\n[OnSucceedAttack] Deal 3 SP damage"
+  },
+  {
+    "key": "9018102-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "9018102-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 与ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 与ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 입힌 체력 피해량만큼 체력 회복 (최대 20)\nEN:\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+  },
+  {
+    "key": "9018102-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 精神力5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 5 피해\nEN:\n[OnSucceedAttack] Deal 5 SP damage"
+  },
+  {
+    "key": "9018103-levelList[0].name",
+    "original": "次■お■だ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次■お■だ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이■엔 ■야!!\nEN:\nI■'s Y■■r ■■rn N■■!!"
+  },
+  {
+    "key": "9018103-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]3につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]3につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst] 3 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Burst] Count"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)\nEN:\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면, 코인 1회 재사용\nEN:\n[OnSucceedAttack] At less than 50% HP, Reuse Coin once"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 精神力10ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力10ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 10 피해\nEN:\n[OnSucceedAttack] Deal 10 SP damage"
+  },
+  {
+    "key": "9018103-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)\nEN:\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+  },
+  {
+    "key": "9018104-levelList[0].name",
+    "original": "ガー■\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガー■\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가■\nEN:\nGua■■"
+  },
+  {
+    "key": "9018104-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]1につき、5のバリアを得る\n[EndBattle] 残ったバリアの数値だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]1につき、5のバリアを得る\n[EndBattle] 残ったバリアの数値だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]당 5의 보호막 체력 얻음\n[EndBattle] 남은 보호막 수치만큼 체력 회복\nEN:\n[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP"
+  },
+  {
+    "key": "9018201-levelList[0].name",
+    "original": "わ■■は\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わ■■は\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으■■하\nEN:\nWa■■■■ha"
+  },
+  {
+    "key": "9018201-levelList[0].desc",
+    "original": "[WhenUse] 対象に[Burst]が無いなら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Burst]が無いなら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [Burst]이 없다면, 합 위력 +1\nEN:\n[WhenUse] If the target does not have [Burst], Clash Power +1"
+  },
+  {
+    "key": "9018201-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "9018201-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力2ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力2ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 2 피해\nEN:\n[OnSucceedAttack] Deal 2 SP damage"
+  },
+  {
+    "key": "9018202-levelList[0].name",
+    "original": "■■■よう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "■■■よう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n■■자\nEN:\nC■■an"
+  },
+  {
+    "key": "9018202-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 5+ [Burst], Coin Power +1"
+  },
+  {
+    "key": "9018202-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "9018202-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力3ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 3 피해\nEN:\n[OnSucceedAttack] Deal 3 SP damage"
+  },
+  {
+    "key": "9018202-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Burst]"
+  },
+  {
+    "key": "9018202-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 与ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 与ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 입힌 체력 피해량만큼 체력 회복 (최대 20)\nEN:\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+  },
+  {
+    "key": "9018202-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 精神力5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 5 피해\nEN:\n[OnSucceedAttack] Deal 5 SP damage"
+  },
+  {
+    "key": "9018203-levelList[0].name",
+    "original": "食■■■間だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "食■■■間だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n식■ ■간이다!\nEN:\nTi■■ to E■■!"
+  },
+  {
+    "key": "9018203-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]3につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]3につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst] 3 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Coin Power +1 for every 3 [Burst] on target (max 2)"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Burst]"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)\nEN:\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力が最大値の50%未満なら、コインを1回再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력이 최대 체력의 50% 미만이면, 코인 1회 재사용\nEN:\n[OnSucceedAttack] At less than 50% HP, Reuse Coin once"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 精神力10ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力10ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 10 피해\nEN:\n[OnSucceedAttack] Deal 10 SP damage"
+  },
+  {
+    "key": "9018203-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量だけ体力を回復(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 피해량만큼 체력 회복 (최대 20)\nEN:\n[OnSucceedAttack] Heal HP equal to damage dealt (Max 20)"
+  },
+  {
+    "key": "9018204-levelList[0].name",
+    "original": "ガー■\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガー■\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n■드\nEN:\n■■■rd"
+  },
+  {
+    "key": "9018204-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]1につき、5のバリアを得る\n[EndBattle] 残ったバリアの数値だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]1につき、5のバリアを得る\n[EndBattle] 残ったバリアの数値だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]당 5의 보호막 체력 얻음\n[EndBattle] 남은 보호막 수치만큼 체력 회복\nEN:\n[WhenUse] Gain Shield HP for every 5 [Burst] on the target\n[EndBattle] Heal HP equal to the remaining Shield HP"
+  }
+]

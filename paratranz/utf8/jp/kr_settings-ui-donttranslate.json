@@ -1,0 +1,471 @@
+[
+  {
+    "key": "mainui_settings_game-content",
+    "original": "基本設定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本設定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 설정\nEN:\nGeneral"
+  },
+  {
+    "key": "mainui_settings_graphic-content",
+    "original": "グラフィック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グラフィック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래픽\nEN:\nGraphics"
+  },
+  {
+    "key": "mainui_settings_sound-content",
+    "original": "音声\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "音声\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음성\nEN:\nAudio"
+  },
+  {
+    "key": "mainui_settings_notice-content",
+    "original": "通知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알림\nEN:\nNotifs"
+  },
+  {
+    "key": "mainui_settings_etc-content",
+    "original": "その他\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その他\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기타\nEN:\nMisc."
+  },
+  {
+    "key": "mainui_settings_download-content",
+    "original": "ダウンロード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダウンロード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다운로드\nEN:\nDownload"
+  },
+  {
+    "key": "mainui_settings_download_complete-content",
+    "original": "ダウンロード完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダウンロード完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다운로드 완료\nEN:\nDownload Complete"
+  },
+  {
+    "key": "mainui_settings_video_resource-content",
+    "original": "映像リソース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "映像リソース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영상 리소스\nEN:\nVideo Resources"
+  },
+  {
+    "key": "mainui_settings_audio_resource-content",
+    "original": "音声リソース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "音声リソース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음성 리소스\nEN:\nAudio Resources"
+  },
+  {
+    "key": "mainui_settings_animation_resource-content",
+    "original": "アニメーションリソース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アニメーションリソース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n애니메이션 리소스\nEN:\nAnimation Resources"
+  },
+  {
+    "key": "mainui_settings_ego_presentation-content",
+    "original": "E.G.O演出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O演出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 연출\nEN:\nE.G.O Animation"
+  },
+  {
+    "key": "mainui_settings_on-content",
+    "original": "オン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n켜기\nEN:\nOn"
+  },
+  {
+    "key": "mainui_settings_off-content",
+    "original": "オフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끄기\nEN:\nOff"
+  },
+  {
+    "key": "mainui_settings_play_once_per_day-content",
+    "original": "一日に一回だけ再生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一日に一回だけ再生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하루에 한 번만 재생\nEN:\nOnce per Day"
+  },
+  {
+    "key": "mainui_settings_resolution-content",
+    "original": "解像度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "解像度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해상도\nEN:\nResolution"
+  },
+  {
+    "key": "mainui_settings_resolution_windowded-content",
+    "original": "ウィンドウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウィンドウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n창모드\nEN:\nWindowed"
+  },
+  {
+    "key": "mainui_settings_resolution_fullscreen-content",
+    "original": "全画面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全画面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전체화면\nEN:\nFullscreen"
+  },
+  {
+    "key": "mainui_settings_texquality-content",
+    "original": "テクスチャの品質\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "テクスチャの品質\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n텍스쳐 품질\nEN:\nTexture Quality"
+  },
+  {
+    "key": "mainui_settings_resolution_warning-content",
+    "original": "画質が高くなるほど、電力消費の増加や発熱を引き起こす可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "画質が高くなるほど、電力消費の増加や発熱を引き起こす可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화질이 높을수록 전력 소모 증가 및 발열 현상이 유발될 수 있습니다.\nEN:\nHigher resolutions may cause the device to heat and consume additional power."
+  },
+  {
+    "key": "mainui_settings_fps_warning-content",
+    "original": "フレームレートが高くなるほど、電力消費の増加や発熱を引き起こす可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フレームレートが高くなるほど、電力消費の増加や発熱を引き起こす可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n프레임이 높을수록 전력 소모 및 발열 현상이 유발될 수 있습니다.\nEN:\nHigher framerates may cause the device to heat and consume additional power."
+  },
+  {
+    "key": "mainui_settings_low-content",
+    "original": "低\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저\nEN:\nLow"
+  },
+  {
+    "key": "mainui_settings_middle-content",
+    "original": "中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중\nEN:\nMedium"
+  },
+  {
+    "key": "mainui_settings_high-content",
+    "original": "高\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고\nEN:\nHigh"
+  },
+  {
+    "key": "mainui_settings_postprocessing-content",
+    "original": "ポストプロセス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ポストプロセス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포스트프로세싱\nEN:\nPost-processing"
+  },
+  {
+    "key": "mainui_settings_ppon-content",
+    "original": "オン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n켜기\nEN:\nOn"
+  },
+  {
+    "key": "mainui_settings_ppoff-content",
+    "original": "オフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끄기\nEN:\nOff"
+  },
+  {
+    "key": "mainui_settings_ppdesc-content",
+    "original": "戦闘にて使うカメラ効果を制御します。パフォーマンスに影響を及ぼします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘にて使うカメラ効果を制御します。パフォーマンスに影響を及ぼします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투에서 사용하는 카메라 효과를 제어합니다. 성능에 영향을 줍니다.\nEN:\nControls camera effects in battle. Affects game performance."
+  },
+  {
+    "key": "mainui_settings_antialiasing-content",
+    "original": "アンチエイリアス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アンチエイリアス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안티앨리어싱\nEN:\nAnti-aliasing"
+  },
+  {
+    "key": "mainui_settings_clear-content",
+    "original": "設定の初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "設定の初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n설정 초기화\nEN:\nReset"
+  },
+  {
+    "key": "mainui_settings_clear_ask-content",
+    "original": "全ての設定を初期化しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全ての設定を初期化しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 설정을 초기화하시겠습니까?\nEN:\nReset everything to default?"
+  },
+  {
+    "key": "mainui_settings_render_acceleration-content",
+    "original": "レンダリングの加速\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "レンダリングの加速\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n렌더링 가속\nEN:\nAccelerated Rendering"
+  },
+  {
+    "key": "mainui_settings_sound_master-content",
+    "original": "マスター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マスター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마스터\nEN:\nMaster"
+  },
+  {
+    "key": "mainui_settings_sound_sfx-content",
+    "original": "効果音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "効果音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n효과음\nEN:\nSFX"
+  },
+  {
+    "key": "mainui_settings_sound_voice-content",
+    "original": "ボイス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ボイス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보이스\nEN:\nVoice"
+  },
+  {
+    "key": "mainui_settings_sound_battle_announcer-content",
+    "original": "アナウンサー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アナウンサー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아나운서\nEN:\nAnnouncer"
+  },
+  {
+    "key": "mainui_settings_notice_enkephalin_full-content",
+    "original": "エンケファリン充填完了の通知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了の通知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료 알림\nEN:\nEnkephalin Recovery"
+  },
+  {
+    "key": "mainui_settings_notice_ads-content",
+    "original": "プロモーション通知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "プロモーション通知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍보성 알림\nEN:\nPromotional Notices"
+  },
+  {
+    "key": "mainui_settings_notice_ads_night-content",
+    "original": "プロモーション通知(夜間)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "プロモーション通知(夜間)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍보성 알림 (야간)\nEN:\nPromotional Notices (Night)"
+  },
+  {
+    "key": "mainui_settings_change_launguage-content",
+    "original": "言語変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "言語変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n언어 변경\nEN:\nLanguage"
+  },
+  {
+    "key": "mainui_settings_change_launguage_ask-content",
+    "original": "言語変更はゲーム再起動時に適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "言語変更はゲーム再起動時に適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n언어 변경은 게임 재시작 시 정상 적용됩니다.\nEN:\nLanguage changes apply after restarting the game."
+  },
+  {
+    "key": "mainui_settings_faq_btn-content",
+    "original": "サポートサービス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サポートサービス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고객 센터\nEN:\nCustomer Service"
+  },
+  {
+    "key": "connect_to_google_account-content",
+    "original": "Google連携\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Google連携\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nGoogle 연동\nEN:\nLink with Google"
+  },
+  {
+    "key": "connect_to_apple_account-content",
+    "original": "Apple連携\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Apple連携\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nApple 연동\nEN:\nLink with Apple"
+  },
+  {
+    "key": "explain_sucession-content",
+    "original": "ご利用のアカウントから退会時、全てのアカウント情報および購入情報が削除されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ご利用のアカウントから退会時、全てのアカウント情報および購入情報が削除されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이용하시는 계정 탈퇴 시 모든 계정 및 구매 정보가 삭제됩니다.\nEN:\nIf you close the account, all gameplay and purchase data will be deleted."
+  },
+  {
+    "key": "explain_sucession_remain_days-content",
+    "original": "アカウント削除期間は7日で、期間内にログインすると削除がキャンセルできます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アカウント削除期間は7日で、期間内にログインすると削除がキャンセルできます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계정 탈퇴 기간은 7일이며 기간 내 접속 시 탈퇴 취소가 가능합니다.\nEN:\nYou will be given a 7-day grace period. You can restore the account if you sign in before the end of the period."
+  },
+  {
+    "key": "explain_writing_code_for_sucession-content",
+    "original": "※上記の内容に同意するなら、\nテキストボックス内の文字を入力してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※上記の内容に同意するなら、\nテキストボックス内の文字を入力してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 위 내용에 동의하실 경우,\n텍스트 박스 내 문자를 입력해주세요.\nEN:\n※ If you agree to the terms above,\nplease enter the letters you see in the box."
+  },
+  {
+    "key": "explain_secession_status-content",
+    "original": "該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n今ログインすれば復旧可能です。\nアカウントを復旧しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n今ログインすれば復旧可能です。\nアカウントを復旧しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 계정은 탈퇴 처리 중입니다.\n남은시간 : {0} 일 {1} 시간 {2} 분\n지금 로그인 하시면 복구할 수 있습니다.\n계정 복구 하시겠습니까?\nEN:\nThe account is currently under a closure period.\nTime Remaining: {0}D {1}H {2}M\nYou can recover the account if you sign in now.\nRecover the account?"
+  },
+  {
+    "key": "recover-content",
+    "original": "復旧\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復旧\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복구\nEN:\nRecover"
+  },
+  {
+    "key": "request_sucession-content",
+    "original": "削除申請\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "削除申請\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈퇴 신청\nEN:\nRequest Closure"
+  },
+  {
+    "key": "request_sucession_success-content",
+    "original": "削除申請に成功しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "削除申請に成功しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈퇴 신청을 성공하셨습니다.\nEN:\nClosure successfully requested."
+  },
+  {
+    "key": "mainui_settings_account-content",
+    "original": "アカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계정\nEN:\nAccount"
+  },
+  {
+    "key": "account_secede-content",
+    "original": "アカウント削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アカウント削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계정 탈퇴\nEN:\nClose Account"
+  },
+  {
+    "key": "connected_accounts-content",
+    "original": "連携済みアカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連携済みアカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연동된 계정\nEN:\nLinked Accounts"
+  },
+  {
+    "key": "mainui_settings_bloom-content",
+    "original": "ブルーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ブルーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n블룸\nEN:\nBloom"
+  },
+  {
+    "key": "mainui_settings_blur-content",
+    "original": "ブラー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ブラー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n블러\nEN:\nBlur"
+  },
+  {
+    "key": "mainui_settings_bloomdesc-content",
+    "original": "光のにじむ効果を制御します。パフォーマンスに影響します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "光のにじむ効果を制御します。パフォーマンスに影響します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛 번짐 효과를 제어합니다. 성능에 영향을 줍니다.\nEN:\nControls spread of light effects. Affects game performance."
+  },
+  {
+    "key": "mainui_settings_blurdesc-content",
+    "original": "ぼかし効果を効果を制御します。パフォーマンスに影響します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぼかし効果を効果を制御します。パフォーマンスに影響します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐려짐 효과를 제어합니다. 성능에 영향을 줍니다.\nEN:\nControls blur effects. Affects game performance."
+  },
+  {
+    "key": "mainui_settings_fps_common-content",
+    "original": "一般FPS\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般FPS\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 FPS\nEN:\nNormal FPS"
+  },
+  {
+    "key": "mainui_settings_fps_battle-content",
+    "original": "戦闘FPS\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘FPS\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 FPS\nEN:\nCombat FPS"
+  },
+  {
+    "key": "mainui_settings_renderingscale-content",
+    "original": "レンダリングスケール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "レンダリングスケール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n렌더링 스케일\nEN:\nRender Scaling"
+  },
+  {
+    "key": "mainui_settings_renderingscale_warning-content",
+    "original": "PC環境では「高」、モバイル環境では「中」以下の値を推奨します。\nレンダリングスケールの値が高くなるほど、電力消耗増加および発熱現象が誘発されることがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "PC環境では「高」、モバイル環境では「中」以下の値を推奨します。\nレンダリングスケールの値が高くなるほど、電力消耗増加および発熱現象が誘発されることがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nPC 환경에서는 「고」, 모바일 환경에서는 「중」 이하의 값을 권장합니다.\n렌더링 스케일 값이 높을수록 전력 소모 증가 및 발열 현상이 유발될 수 있습니다.\nEN:\nWe recommend that you set it to 「High」 on PC. On mobile, 「Medium」 or lower is recommended.\nHigher rendering scale value may lead to increased power drainage and heat."
+  },
+  {
+    "key": "mainui_settings_colorfilter-content",
+    "original": "色覚サポート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色覚サポート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "EN:\n(더미)색상필터"
+  },
+  {
+    "key": "mainui_settings_deuteranomaly_green-weak-content",
+    "original": "2型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "EN:\n(더미)녹색약"
+  },
+  {
+    "key": "mainui_settings_protanomaly_red-weak-content",
+    "original": "1型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "EN:\n(더미)적색약"
+  },
+  {
+    "key": "mainui_settings_tritanomaly_blue-weak-content",
+    "original": "3型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "3型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "EN:\n(더미)청색약"
+  },
+  {
+    "key": "mainui_settings_colorfilter_power-content",
+    "original": "カラーフィルターの強度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カラーフィルターの強度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "EN:\n(더미)색상필터 강도"
+  },
+  {
+    "key": "mainui_settings_colorfilter_test-content",
+    "original": "適用確認画像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適用確認画像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "EN:\n(더미)적용 확인 이미지"
+  }
+]

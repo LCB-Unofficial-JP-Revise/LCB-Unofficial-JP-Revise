@@ -1,0 +1,184 @@
+[
+  {
+    "key": "9008301-name",
+    "original": "鯨との繋がり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鯨との繋がり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고래와의 연결\nEN:\nCetacean Strand"
+  },
+  {
+    "key": "9008301-desc",
+    "original": "このキャラクターが死亡すると、穴掌鯨にダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが死亡すると、穴掌鯨にダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 사망하면 구멍 손바닥 고래에게 피해를 준다.\nEN:\nWhale of the Porous Hand takes damage when this unit is defeated."
+  },
+  {
+    "key": "9008302-name",
+    "original": "繋がった痛み\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "繋がった痛み\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연결된 아픔\nEN:\nConnected Pain"
+  },
+  {
+    "key": "9008302-desc",
+    "original": "死亡すると、繋がった人魚に10ダメージを与えて次のターンにダメージ量増加 2を付与。\n繋がった人魚はこのダメージで体力が1以下にならない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡すると、繋がった人魚に10ダメージを与えて次のターンにダメージ量増加 2を付与。\n繋がった人魚はこのダメージで体力が1以下にならない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망한다면, 연결된 인어들에게 체력 10의 피해를 주고 다음 턴에 피해량 증가 2를 부여.\n연결된 인어들은 해당 피해로 체력이 1이하로 떨어지지 않음.\nEN:\nUpon death, deal 10 damage to connected Mermaids. Then, apply 2 Damage Up next turn.\nThis effect cannot drop the connected Mermaids' HP below 1."
+  },
+  {
+    "key": "9008401-name",
+    "original": "余裕の呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "余裕の呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여유로운 호흡\nEN:\nEasy Breathing"
+  },
+  {
+    "key": "9008401-desc",
+    "original": "<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>があるなら、マッチ勝利時に<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>があるなら、マッチ勝利時に<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;호흡&lt;/color&gt;&lt;/link&gt;</u>이 있을 때, 합 승리 시 &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;호흡&lt;/color&gt;&lt;/link&gt;</u>을 5 얻음.\nEN:\nIf this unit has &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;Poise&lt;/color&gt;&lt;/link&gt;</u>, gain 5 &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;Poise&lt;/color&gt;&lt;/link&gt;</u> upon Clash Win."
+  },
+  {
+    "key": "9008402-name",
+    "original": "コインの両面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コインの両面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동전의 양면\nEN:\nTwo Sides Of a Coin"
+  },
+  {
+    "key": "9008402-desc",
+    "original": "毎ターン、1番目のコイン的中時に表面なら次のターンにダメージ量増加 1を得る。\n1番目のコイン的中時、裏面なら次のターンにダメージ量減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン、1番目のコイン的中時に表面なら次のターンにダメージ量増加 1を得る。\n1番目のコイン的中時、裏面なら次のターンにダメージ量減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴마다 첫번째 코인 적중시 앞면이면 다음 턴에 피해량 증가 1을 얻음.\n첫번째 코인 적중시 뒷면이면 다음 턴에 피해량 감소 1을 얻음\nEN:\nEvery turn, if the first Coin 'Heads Hits', gain 1 Damage Up next turn.\nIf the first Coin 'Tails Hits', gain 1 Damage Down next turn."
+  },
+  {
+    "key": "9008601-name",
+    "original": "そこチクッとしないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そこチクッとしないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거기 따끔하지 않아?\nEN:\nAin't That a Prick?"
+  },
+  {
+    "key": "9008601-desc",
+    "original": "的中時、対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "的中時、対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적중시 대상에게 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>이 있다면, 대상의 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>만큼 정신력 회복\nEN:\nOn Hit, if target has &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u>, regain SP equal to &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> on target"
+  },
+  {
+    "key": "9008701-name",
+    "original": "最前線へ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最前線へ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최전선으로!!\nEN:\nTo the Front Lines!!"
+  },
+  {
+    "key": "9008701-desc",
+    "original": "速度が1のとき、<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</color></link></u>を得ると1追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度が1のとき、<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</color></link></u>を得ると1追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도가 1일 때, &lt;sprite name=\"Protection\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Protection\"&gt;보호&lt;/color&gt;&lt;/link&gt;</u>를 얻으면 1 추가로 얻음.\nEN:\nWhen gaining Protection, gain 1 additional &lt;sprite name=\"Protection\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Protection\"&gt;Protection&lt;/color&gt;&lt;/link&gt;</u> if this unit's Speed is at 1"
+  },
+  {
+    "key": "9008702-name",
+    "original": "そこチクッとしないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そこチクッとしないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거기 따끔하지 않아?\nEN:\nAin't That a Prick?"
+  },
+  {
+    "key": "9008702-desc",
+    "original": "的中時、対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "的中時、対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적중시 대상에게 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>이 있다면, 대상의 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>만큼 정신력 회복\nEN:\nOn Hit, if target has &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u>, regain SP equal to &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> on target"
+  },
+  {
+    "key": "9101201-name",
+    "original": "コインの両面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コインの両面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동전의 양면\nEN:\nTwo Sides Of a Coin"
+  },
+  {
+    "key": "9101201-desc",
+    "original": "毎ターン、1番目のコイン的中時に表面なら次のターンにダメージ量増加 2, 攻撃威力増加 1を得る。\n1番目のコイン的中時、裏面なら次のターンにダメージ量減少 2, 攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン、1番目のコイン的中時に表面なら次のターンにダメージ量増加 2, 攻撃威力増加 1を得る。\n1番目のコイン的中時、裏面なら次のターンにダメージ量減少 2, 攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴마다 첫번째 코인이 앞면이면 다음 턴에 피해량 증가 2, 공격 위력 증가 1을 얻음.\n첫번째 코인이 뒷면이면 다음 턴에 피해량 감소 2, 공격 위력 감소 1을 얻음\nEN:\nEvery turn, if the first Coin 'Heads Hits', gain 2 Damage Up and 1 Attack Power Up next turn.\nIf the first Coin 'Tails Hits', gain 2 Damage Down and 1 Attack Power Down next turn."
+  },
+  {
+    "key": "9101202-name",
+    "original": "待て…近寄るな！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待て…近寄るな！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잠깐… 다가오지마!\nEN:\nNo... Get Away From Me!"
+  },
+  {
+    "key": "9101202-desc",
+    "original": "マッチ敗北時、呼吸 4, 呼吸 回数3が増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、呼吸 4, 呼吸 回数3が増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배시, 호흡 4, 호흡 횟수 3 증가.\nEN:\nUpon Clash Lose, gain 4 Poise and 3 Poise Count."
+  },
+  {
+    "key": "9101203-name",
+    "original": "喜べ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喜べ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n환호하라!\nEN:\nHuzzah, Men!"
+  },
+  {
+    "key": "9101203-desc",
+    "original": "クリティカル的中時、次のターンに加算コイン強化 を得る。\n自分の精神力を15回復。\n自分を除く全味方の精神力を10回復\n(1ターンに1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル的中時、次のターンに加算コイン強化 を得る。\n自分の精神力を15回復。\n自分を除く全味方の精神力を10回復\n(1ターンに1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 적중시 다음 턴에 더하기 코인 강화 1를 얻음.\n자신의 정신력 15 회복.\n자신을 제외한 모든 아군의 정신력 10 회복\n(매 턴마다 한 번 발동)\nEN:\nOn Critical Hit, gain 1 Plus Coin Boost next turn.\nHeal 15 SP on self.\nAll other allies heal 10 SP.\n(Activates once per turn)"
+  },
+  {
+    "key": "9101204-name",
+    "original": "何やってんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何やってんだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭣들 하는 거야?\nEN:\nWhat Are You Doing?!"
+  },
+  {
+    "key": "9101204-desc",
+    "original": "戦闘にて捕まった場合、全味方の精神力-30\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘にて捕まった場合、全味方の精神力-30\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투에서 붙잡혔을 때, 모든 아군의 정신력 -30\nEN:\nBeing captured in this encounter causes all allies to lose 30 SP"
+  },
+  {
+    "key": "9101205-name",
+    "original": "そこチクッとしないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そこチクッとしないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거기 따끔하지 않아?\nEN:\nAin't That a Prick?"
+  },
+  {
+    "key": "9101205-desc",
+    "original": "的中時、対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "的中時、対象に<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>があれば、対象の<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적중시 대상에게 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>이 있다면, 대상의 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>만큼 정신력 회복\nEN:\nIf target has &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> On Hit, regain SP equal to &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> on target"
+  },
+  {
+    "key": "9101101-name",
+    "original": "鯨との繋がり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鯨との繋がり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고래와의 연결\nEN:\nCetacean Strand"
+  },
+  {
+    "key": "9101101-desc",
+    "original": "このキャラクターが死亡すると、穴掌鯨にダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが死亡すると、穴掌鯨にダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 사망하면 구멍 손바닥 고래에게 피해를 준다.\nEN:\nWhale of the Porous Hand takes damage when this unit is defeated."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "key": "9101905-levelList[0].name",
+    "original": "快刀乱麻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "快刀乱麻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쾌청 베기\nEN:\nSky-clearing Cut"
+  },
+  {
+    "key": "9101905-levelList[0].desc",
+    "original": "[StartBattle] メインターゲットの[Laceration]が5以上なら、攻撃加重値 +1\n[StartBattle] このターンに使用する攻撃スキルが4つ以上なら、最終威力 +5\n[WinDuel] 全味方の精神力が15回復\n対象の[Laceration]が7以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] メインターゲットの[Laceration]が5以上なら、攻撃加重値 +1\n[StartBattle] このターンに使用する攻撃スキルが4つ以上なら、最終威力 +5\n[WinDuel] 全味方の精神力が15回復\n対象の[Laceration]が7以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 메인 타겟의 [Laceration]이 5이상이면, 공격 가중치 +1\n[StartBattle] 이번 턴에 사용하는 공격 스킬이 4개 이상이면, 최종 위력 +5\n[WinDuel] 모든 아군 정신력 15 회복\n대상의 [Laceration]이 7 이상이면, 피해량 +30%\nEN:\n[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, Final Power +5\n[WinDuel] All allies heal 15 SP\nIf target has 7+ [Laceration], deal +30% damage"
+  },
+  {
+    "key": "9101905-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Laceration] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "9101905-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Laceration] 3 부여\nEN:\n[OnSucceedAttackHead] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9101905-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "対象の[Laceration]が7以上なら、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が7以上なら、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 7 이상이면, 피해량 +50%\nEN:\nIf target has 7+ [Laceration], deal +50% damage"
+  },
+  {
+    "key": "9101905-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 10 부여\nEN:\n[OnSucceedAttack] Inflict +10 [Laceration] Count"
+  },
+  {
+    "key": "9101906-levelList[0].name",
+    "original": "裏路地の掟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "裏路地の掟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목의 규칙\nEN:\nRules of the Backstreets"
+  },
+  {
+    "key": "9101906-levelList[0].desc",
+    "original": "[WhenUse] 自分を除いた生存している味方の数だけ、コインを1つ追加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分を除いた生存している味方の数だけ、コインを1つ追加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신 제외 살아있는 아군 수만큼 1코인 추가 (최대 3)\nEN:\n[WhenUse] Add 1 more coin per every surviving other ally (max 3)"
+  },
+  {
+    "key": "9101906-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2, [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2, [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+  },
+  {
+    "key": "9101906-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[EnemyKill] 全味方の精神力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EnemyKill] 全味方の精神力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EnemyKill] 모든 아군 정신력 20 회복\nEN:\n[EnemyKill] All allies heal 20 SP"
+  }
+]

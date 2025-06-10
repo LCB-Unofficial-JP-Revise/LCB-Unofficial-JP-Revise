@@ -1,0 +1,296 @@
+[
+  {
+    "key": "mirrordungeonui_level_up-content",
+    "original": "成長人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 인격 선택\nEN:\nChoose Identity to Level Up"
+  },
+  {
+    "key": "mirrordungeonui_ask_level_up-content",
+    "original": "この性格を成長させますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この性格を成長させますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 인격을 성장시키겠습니까?\nEN:\nWill you enhance the selected Identity?"
+  },
+  {
+    "key": "mirrordungeonui_warning_stop_dungeon-content",
+    "original": "※探査を終えると、今までクリアした階層を基準に報酬が支給されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※探査を終えると、今までクリアした階層を基準に報酬が支給されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※탐사를 마칠 시, 현재까지 클리어한 층을 기준으로 보상이 지급됩니다.\nEN:\n※ If you quit exploration, you’ll return with rewards based on the floors you’ve cleared."
+  },
+  {
+    "key": "mirrordungeonui_current_reward-content",
+    "original": "現在の報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 보상\nEN:\nCurrent Rewards"
+  },
+  {
+    "key": "mirrordungeonui_acquire_new_character-content",
+    "original": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 획득\nEN:\nIdentity Acquired"
+  },
+  {
+    "key": "mirrordungeonui_level_up_complete-content",
+    "original": "人格成長完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格成長完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 성장 완료\nEN:\nIdentity Upgraded"
+  },
+  {
+    "key": "mirrordungeonui_continue-content",
+    "original": "探査を続けますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "探査を続けますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐사를 계속 진행하겠습니까?\nEN:\nWill you continue exploration?"
+  },
+  {
+    "key": "mirrordungeonui_select_character-content",
+    "original": "囚人選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 선택\nEN:\nSelect Sinner"
+  },
+  {
+    "key": "mirrordungeonui_able_to_equip-content",
+    "original": "装着可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "装着可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장착 가능\nEN:\nCan Equip"
+  },
+  {
+    "key": "mirrordungeon_success_to_levelup-content",
+    "original": "人格レベルアップ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格レベルアップ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 단계 상승!\nEN:\nIdentity Powered Up!"
+  },
+  {
+    "key": "mirrordungeon_additional_exp-content",
+    "original": "パス経験値追加報酬(デイリー)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パス経験値追加報酬(デイリー)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금일 패스 경험치 추가 보상\nEN:\nDaily Pass EXP Bonus"
+  },
+  {
+    "key": "mirrordungeon_already_in_member-content",
+    "original": "参加中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "参加中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출전 중\nEN:\nOn Team"
+  },
+  {
+    "key": "mirrordungeon_select_start_character-content",
+    "original": "鏡の世界へ入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡の世界へ入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울 세계 진입\nEN:\nEnter Mirror World"
+  },
+  {
+    "key": "mirrordungeon_acquire_ego_gift_popup-content",
+    "original": "E.G.Oギフトを獲得しました！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフトを獲得しました！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트를 획득하였습니다!\nEN:\nE.G.O Gift GET!"
+  },
+  {
+    "key": "mirrordungeon_additional_exp_weekly-content",
+    "original": "パス経験値追加報酬(ウィークリー)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パス経験値追加報酬(ウィークリー)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금주 패스 경험치 추가 보상\nEN:\nWeekly Pass EXP Bonus"
+  },
+  {
+    "key": "mirrordungeon_daily_free-content",
+    "original": "一日一回無料\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一日一回無料\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일일 1회 무료\nEN:\nDaily Free Entry"
+  },
+  {
+    "key": "mirrordungeon_entrance_quit_former_simulation-content",
+    "original": "既存のシミュレーション終了しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "既存のシミュレーション終了しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기존 시뮬레이션을 그만 두시겠습니까?\nEN:\nTerminate the ongoing simulation?"
+  },
+  {
+    "key": "mirrordungeon_progress_rate_simulation-content",
+    "original": "{0}シミュレーション進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}シミュレーション進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 시뮬레이션 진행도\nEN:\n{0} Simulation Progress"
+  },
+  {
+    "key": "mirrordungeon_resume_simulation-content",
+    "original": "シミュレーション再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シミュレーション再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시뮬레이션 재개\nEN:\nResume Simulation"
+  },
+  {
+    "key": "mirrordungeon_stop_simulation-content",
+    "original": "シミュレーション中断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シミュレーション中断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시뮬레이션 중단\nEN:\nHalt Simulation"
+  },
+  {
+    "key": "mirrordungeon_simulation_info_1-content",
+    "original": "◆消費エンケファリンなし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆消費エンケファリンなし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 소비 엔케팔린 없음\nEN:\n◆ No Enkephalin Cost"
+  },
+  {
+    "key": "mirrordungeon_simulation_info_2-content",
+    "original": "◆獲得報酬なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆獲得報酬なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 획득 보상 없음\nEN:\n◆ No Rewards"
+  },
+  {
+    "key": "mirrordungeon_progress-content",
+    "original": "探査再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "探査再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐사 재개\nEN:\nResume"
+  },
+  {
+    "key": "mirrordungeon_stop-content",
+    "original": "探査中断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "探査中断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐사 중단\nEN:\nHalt Exploration"
+  },
+  {
+    "key": "mirrordungeon_dungeon_name_simulation-content",
+    "original": "{0}シミュレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}シミュレーション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 시뮬레이션\nEN:\n{0} Simulation"
+  },
+  {
+    "key": "mirrordungeon_warning_not_equip_ego-content",
+    "original": "E.G.Oを装着していません。\nこのまま進めますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oを装着していません。\nこのまま進めますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O를 장착하지 않았습니다.\n이대로 진행하시겠습니까?\nEN:\nE.G.O not equipped.\nAre you sure you wish to proceed?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards-content",
+    "original": "報酬を受け取る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬を受け取る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상 수령\nEN:\nClaim Rewards"
+  },
+  {
+    "key": "mirrordungeon_ask_select_character_level_up-content",
+    "original": "成長人格 選択可能回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長人格 選択可能回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 인격 선택 가능 횟수\nEN:\nEnhancements Used"
+  },
+  {
+    "key": "mirrordungeon_simulation_info_no_use_module-content",
+    "original": "◆エンケファリンモジュール消費なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆エンケファリンモジュール消費なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 엔케팔린 모듈 소비하지 않음\nEN:\n◆ No Enkephalin Module Cost"
+  },
+  {
+    "key": "mirrordungeon_after_levelup-content",
+    "original": "レベル{0} 完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "レベル{0} 完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 단계 완료\nEN:\nLevel Up #{0}"
+  },
+  {
+    "key": "mirrordunge_ego_gift_history_button_label-content",
+    "original": "E.G.Oギフト記録集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト記録集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 기록집\nEN:\nE.G.O Gift Compendium"
+  },
+  {
+    "key": "mirrordungeon_weekly_reset_description-content",
+    "original": "ウィークリーレコードが初期化されました。\n硝子窓へ移動します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウィークリーレコードが初期化されました。\n硝子窓へ移動します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주간 기록이 초기화되었습니다.\n유리창으로 이동합니다.\nEN:\nThe weekly record has been reset.\nMoving over to the Window."
+  },
+  {
+    "key": "mirrordungeon_simulation_on-content",
+    "original": "！シミュレーション中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "！シミュレーション中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n! 시뮬레이션 중\nEN:\n! Simulating… !"
+  },
+  {
+    "key": "mirrordungeon_participated-content",
+    "original": "参加中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "参加中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참여 중\nEN:\nParticipant"
+  },
+  {
+    "key": "select_ego_gift-content",
+    "original": "E.G.Oギフト選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 선택\nEN:\nSelect E.G.O Gift"
+  },
+  {
+    "key": "explore_dungeon_finished-content",
+    "original": "探査完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "探査完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐사 완료\nEN:\nExploration Complete"
+  },
+  {
+    "key": "participated_personality-content",
+    "original": "参加人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "参加人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참여 인격\nEN:\nIdentities"
+  },
+  {
+    "key": "dungeon_final_area-content",
+    "original": "最終探索区域\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終探索区域\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 탐사 구역\nEN:\nLast Reached"
+  },
+  {
+    "key": "total_progress_rate-content",
+    "original": "累計進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "累計進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총 진행도\nEN:\nTotal Progress"
+  },
+  {
+    "key": "mirrordungeon_weekly_reset-content",
+    "original": "以前のプレイ記録がリセットされました。\n報酬を受け取ってください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "以前のプレイ記録がリセットされました。\n報酬を受け取ってください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전 플레이 기록이 만료되었습니다.\n보상을 수령하십시오.\nEN:\nThe previous session has expired.\nPlease claim your rewards."
+  },
+  {
+    "key": "mirror_dungeon_error_desc-content",
+    "original": "サーバーエラーにより、データが損失しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サーバーエラーにより、データが損失しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서버 오류로 인하여 데이터가 손실되었습니다.\nEN:\nData was lost due to a server error."
+  },
+  {
+    "key": "mirrordunge_achievement_history_button_label-content",
+    "original": "アチーブメント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アチーブメント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n업적\nEN:\nAchievements"
+  }
+]

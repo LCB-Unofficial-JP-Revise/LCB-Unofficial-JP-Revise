@@ -1,0 +1,548 @@
+[
+  {
+    "key": "BloodyHand_2nd-name",
+    "original": "血に染まった手II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血に染まった手II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피로 물든 손 II\nEN:\nBloodied Hand II"
+  },
+  {
+    "key": "BloodyHand_2nd-desc",
+    "original": "- 血に染まった手 を得る効果が、該当バフを得る効果に変更\n- 最大値 : 20\n- 基本値 : 10\n- 数値6につき、攻撃レベル が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 血に染まった手 を得る効果が、該当バフを得る効果に変更\n- 最大値 : 20\n- 基本値 : 10\n- 数値6につき、攻撃レベル が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 피로 물든 손을 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 20\n- 기본값 : 10\n- 수치 6당 공격 레벨 1 증가\nEN:\n- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 20\n- Base Value: 10\n- Gain 1 Offense Level for every 6 Stack"
+  },
+  {
+    "key": "BloodyHand_3rd-name",
+    "original": "血に染まった手III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血に染まった手III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피로 물든 손 III\nEN:\nBloodied Hand III"
+  },
+  {
+    "key": "BloodyHand_3rd-desc",
+    "original": "- 血に染まった手を得る効果が、該当バフを得る効果に変更\n- 最大値 : 30\n- 基本値 : 20\n- 攻撃威力が1増加\n- 数値が30なら自分のスキル的中時、破裂2, 破裂回数1を追加で付与\n- 数値が30なら自分のスキル的中時、自身と攻撃対象へお互いに出血を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 血に染まった手を得る効果が、該当バフを得る効果に変更\n- 最大値 : 30\n- 基本値 : 20\n- 攻撃威力が1増加\n- 数値が30なら自分のスキル的中時、破裂2, 破裂回数1を追加で付与\n- 数値が30なら自分のスキル的中時、自身と攻撃対象へお互いに出血を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 피로 물든 손을 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 30\n- 기본값 : 20\n- 공격 위력 1 증가\n- 수치가 30이면, 자신의 스킬 적중시 파열 2, 파열 횟수 1 추가로 부여\n- 수치가 30이면, 자신의 스킬 적중시 자신과 공격 대상에게 서로 출혈 3 부여\nEN:\n- Any effects that gain Bloodied Hand gain this effect instead\n- Max Value: 30\n- Base Value: 20\n- Gain 1 Attack Power\n- At 30 Stack: On Hit with this unit's Skill, inflict additional 2 Rupture and +1 Rupture Count\n- At 30 Stack: On Hit with this unit's Skill, inflict 3 Bleed both on self and against the target"
+  },
+  {
+    "key": "WornHeart-name",
+    "original": "磨り減ってしまった心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "磨り減ってしまった心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 마음\nEN:\nAiling Heart"
+  },
+  {
+    "key": "WornHeart-desc",
+    "original": "- 最大10スタック\n- 初期値3で戦闘開始\n- ターン開始時、数値1につき防御レベル減少1を得る\n- ターン開始時、数値2につき攻撃レベル増加1を得る\n- ターン開始時、数値が10なら脆弱3を得て精神力が5減少\n- 数値が10なら、自身の攻撃が命中時、ダメージ量の40%だけ部位と本体の体力を回復して血に染まった手2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大10スタック\n- 初期値3で戦闘開始\n- ターン開始時、数値1につき防御レベル減少1を得る\n- ターン開始時、数値2につき攻撃レベル増加1を得る\n- ターン開始時、数値が10なら脆弱3を得て精神力が5減少\n- 数値が10なら、自身の攻撃が命中時、ダメージ量の40%だけ部位と本体の体力を回復して血に染まった手2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 10 스택\n- 처음부터 3을 가지고 전투 시작.\n- 턴 시작시, 수치 1당 방어 레벨 감소 1 얻음\n- 턴 시작시, 수치 2당 공격 레벨 증가 1 얻음\n- 턴 시작시, 수치가 10이면 취약 3 얻고 정신력 5 감소\n- 수치가 10이면, 자신의 공격 적중시 피해량의 40%만큼 부위와 본체 체력 회복하고 피로 물든 손을 2 얻음\nEN:\n- Max Stack: 10\n- Enters Encounter with 3 Stack\n- Turn Start: gain 1 Defense Level Down for every Stack\n- Turn Start: gain 1 Offense Level Up for every 2 Stack\n- Turn Start: at 10 Stack, gain 3 Fragile and lose 5 SP\n- At 10 Stack: On Hit, heal 40% of the damage dealt to this unit's Part and Core, and gain 2 Bloodied Hand"
+  },
+  {
+    "key": "StarvingPriestTwo-name",
+    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노쇠\nEN:\nWithered"
+  },
+  {
+    "key": "StarvingPriestTwo-desc",
+    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 오랫동안 피를 마시지 못했다.\n- 기본 공격 레벨 25 감소\n- 기본 방어 레벨 25 감소\nEN:\n- Starved for blood for a long, long time.\n- Lose 25 Base Offense Level\n- Lose 25 Base Defense Level"
+  },
+  {
+    "key": "Guilt_LowMorale-name",
+    "original": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄책감\nEN:\nGuilt"
+  },
+  {
+    "key": "Guilt_LowMorale-desc",
+    "original": "ターン終了時、次のターンに脆弱、精神力回復効率減少 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、次のターンに脆弱、精神力回復効率減少 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 다음 턴에 취약, 정신력 회복 효율 감소 1 얻음\nEN:\nTurn End: gain 1 Fragility and SP Heal Efficiency Down"
+  },
+  {
+    "key": "Guilt_Panic-name",
+    "original": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄책감\nEN:\nGuilt"
+  },
+  {
+    "key": "Guilt_Panic-desc",
+    "original": "ターン終了時、次のターンに脆弱、精神力回復効率減少 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、次のターンに脆弱、精神力回復効率減少 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 다음 턴에 취약, 정신력 회복 효율 감소 2 얻음\nEN:\nTurn End: gain 2 Fragility and 1 SP Heal Efficiency Down"
+  },
+  {
+    "key": "MentalIncreaseDown-name",
+    "original": "精神力回復効率減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力回復効率減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 회복 효율 감소\nEN:\nSP Heal Efficiency Down"
+  },
+  {
+    "key": "MentalIncreaseDown-desc",
+    "original": "精神力回復効率がスタックだけ減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力回復効率がスタックだけ減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 회복 효율이 스택만큼 감소\nEN:\nSP Heal Efficiency decreases by the effect's Stack"
+  },
+  {
+    "key": "AffectionTeddy-name",
+    "original": "愛着\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "愛着\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n애착\nEN:\nAttachment"
+  },
+  {
+    "key": "AffectionTeddy-desc",
+    "original": "- 最大値 : 9\n- 攻撃者がこの効果を持つ対象を攻撃するとき、数値だけマッチ威力が増加\n- ターン終了時、1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 9\n- 攻撃者がこの効果を持つ対象を攻撃するとき、数値だけマッチ威力が増加\n- ターン終了時、1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 9\n- 공격자가 이 효과를 보유한 대상을 공격할 때, 수치만큼 합 위력 증가\n- 턴 종료 시, 1 감소\nEN:\n- Max Value: 9\n- When the Attacker attacks the target with this effect, the Attacker gains Clash Power equal to the Stack\n- Turn End: reduce by 1"
+  },
+  {
+    "key": "FaintMemory-name",
+    "original": "おぼろげな記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おぼろげな記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아련한 기억\nEN:\nFaint Memories"
+  },
+  {
+    "key": "FaintMemory-desc",
+    "original": "- 基本値 : 10\n- ターン開始時、数値だけ防御レベル増加を得る\n- マッチ敗北時、1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本値 : 10\n- ターン開始時、数値だけ防御レベル増加を得る\n- マッチ敗北時、1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본값 : 10\n- 턴 시작 시, 수치만큼 방어 레벨 증가를 얻음\n- 합 패배 시, 1 감소\nEN:\n- Base Value: 10\n- Turn Start: gain Defense Level Up equal to the Stack\n- Clash Lose: reduce by 1"
+  },
+  {
+    "key": "CursePackage-name",
+    "original": "呪いの包み\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの包み\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주 꾸러미\nEN:\nBox of Curses"
+  },
+  {
+    "key": "CursePackage-desc",
+    "original": "- 最大値 : 1\n- ターン終了時、攻撃威力減少1、防御威力減少1、攻撃レベル減少2、防御レベル減少2を得て、数値が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 1\n- ターン終了時、攻撃威力減少1、防御威力減少1、攻撃レベル減少2、防御レベル減少2を得て、数値が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 1\n- 턴 종료시, 공격 위력 감소 1, 수비 위력 감소 1, 공격 레벨 감소 2, 방어 레벨 감소 2를 얻고 수치 1 감소\nEN:\n- Max Value: 1\n- Turn End: gain 1 Attack Power Down, 1 Defense Power Down, 2 Offense Level Down, 2 Defense Level Down, and reduce the Stack of this effect by 1"
+  },
+  {
+    "key": "TinyCarmilla-name",
+    "original": "小さなカーミラ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "小さなカーミラ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n작은 카르밀라\nEN:\nLittle Carmilla"
+  },
+  {
+    "key": "TinyCarmilla-desc",
+    "original": "- 最大値 : 3\n- 小さなカーミラを得るたびに出血2を得る\n- ターン終了時、出血回数が2増加\n- ターン終了時に3なら、対象に体力最大値15%分の固定ダメージを与え、全ての敵の体力を最大値の5%分回復してから除去される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 3\n- 小さなカーミラを得るたびに出血2を得る\n- ターン終了時、出血回数が2増加\n- ターン終了時に3なら、対象に体力最大値15%分の固定ダメージを与え、全ての敵の体力を最大値の5%分回復してから除去される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 3\n- 작은 카르밀라를 얻을 때마다 출혈을 2 얻음\n- 턴 종료시, 출혈 횟수 2 증가\n- 턴 종료시, 3이면 대상의 최대 체력 15%만큼 고정 피해를 입히고 모든 적들의 최대 체력의 5% 회복 이후 제거됨\nEN:\n- Max Stack: 3\n- Gain 2 Bleed every time this unit gains Little Carmilla\n- Turn End: gain +2 Bleed Count\n- Turn End: at 3 Stack, take fixed damage equal to 15% of this unit's max HP, heal HP equal to 5% of each enemy's max HP, then this effect expires"
+  },
+  {
+    "key": "OneDropNutrition-name",
+    "original": "一滴の養分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一滴の養分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 방울의 양분\nEN:\nA Drop of Nourishment"
+  },
+  {
+    "key": "OneDropNutrition-desc",
+    "original": "- 最大値 : 10\n- 自身の攻撃で体力を回復したとき、体力最大値の10%ごとに1増加\n- 回復した体力の割合 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 10\n- 自身の攻撃で体力を回復したとき、体力最大値の10%ごとに1増加\n- 回復した体力の割合 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 10\n- 자신의 공격으로 체력 회복할 때, 회복한 최대 체력의 비율 10%당, 1 증가\n- 회복한 체력 비율: {0}\nEN:\n- Max Stack: 10\n- Gain 1 Stack every time this unit heals 10% of its max HP with its HP-healing Attacks\n- HP healed: {0}%"
+  },
+  {
+    "key": "ThornNoose-name",
+    "original": "棘の投げ縄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棘の投げ縄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가시 올가미\nEN:\nBarbed Lasso"
+  },
+  {
+    "key": "ThornNoose-desc",
+    "original": "- 最大値 : 3\n- ターン終了時、破裂2, 破裂回数が2増加\n- ターン終了時、数値が1以上なら、次のターンの速度が1に固定される\n- ターン終了時、数値が2になると、20の暴食ダメージを受ける\n- ターン終了時、数値が3になると、次のターンにて強制混乱状態になり、バフが解除および繋がった棘の投げ縄が解除される\n- ターン開始時に1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 3\n- ターン終了時、破裂2, 破裂回数が2増加\n- ターン終了時、数値が1以上なら、次のターンの速度が1に固定される\n- ターン終了時、数値が2になると、20の暴食ダメージを受ける\n- ターン終了時、数値が3になると、次のターンにて強制混乱状態になり、バフが解除および繋がった棘の投げ縄が解除される\n- ターン開始時に1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 3\n- 턴 종료 시 파열 2, 파열 횟수 2 증가\n- 턴 종료 시 수치가 1 이상이면, 다음 턴에 속도가 1로 고정됨.\n- 턴 종료 시 수치가 2가 되면, 20의 탐식 피해를 입음.\n- 턴 종료 시 수치가 3이 되면, 다음 턴에 강제 흐트러짐 상태가 됨.  버프 제거 및 연결된 가시 올가미 제거됨.\n- 턴 시작 시 1 증가\nEN:\n- Max Stack: 3\n- Turn End: gain 2 Rupture and +2 Rupture Count\n- Turn End: at 1+ Stack, fix this unit's Speed to 1.\n- Turn End: at 2 Stack, take 20 Gluttony damage.\n- Turn End: at 3 Stack, become forcibly Staggered next turn. This effect and the connected Barbed Lasso both expire.\n- Gain 1 at Turn Start"
+  },
+  {
+    "key": "SwirlingBlood-name",
+    "original": "揺らぎ【血鬼】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揺らぎ【血鬼】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일렁임【혈귀】\nEN:\nShimmering【Bloodfiend】"
+  },
+  {
+    "key": "SwirlingBlood-desc",
+    "original": "- このバフがある時、ダメージを受けると対象の攻撃終了時に出血5を付与\n- このバフがある間、バリア体力はターン終了時に消えない\n- 条件を満たした場合、消滅及びパターン変更前まで脆弱を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- このバフがある時、ダメージを受けると対象の攻撃終了時に出血5を付与\n- このバフがある間、バリア体力はターン終了時に消えない\n- 条件を満たした場合、消滅及びパターン変更前まで脆弱を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 이 버프가 있을 때, 피해를 입으면 대상의 공격 종료 시 출혈 5를 부여함.\n- 이 버프가 있는 동안 보호막 체력은 턴 종료 시 사라지지 않음\n- 조건 만족 시, 소멸 및 패턴 변경전까지 취약을 3 얻음\nEN:\n- While this effect is active: when this unit takes damage, the Attacker gains 5 Bleed After Attack.\n- While this effect is active: the Shield HP does not expire at Turn End\n- When conditions are met, gain 3 Fragile until this effect expires and this unit gains a new pattern"
+  },
+  {
+    "key": "BloodArmor-name",
+    "original": "硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈\nEN:\nHardblood"
+  },
+  {
+    "key": "BloodArmor-desc",
+    "original": "- 最大値 : 10\n- 硬血 1段階\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 10\n- 硬血 1段階\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 10\n- 경혈 1단계\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 10\n- Stage 1 Hardblood\n- Used for special Skills"
+  },
+  {
+    "key": "BloodArmor_2nd-name",
+    "original": "硬血 II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血 II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈 II\nEN:\nHardblood II"
+  },
+  {
+    "key": "BloodArmor_2nd-desc",
+    "original": "- 最大値 : 10\n- 硬血 2段階\n- ターン開始時、数値6につき攻撃レベル1, 防御レベル1増加\n- 速度の最小・再大値が1増加\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 20\n- 硬血 2段階\n- ターン開始時、数値6につき攻撃レベル1, 防御レベル1増加\n- 速度の最小・最大値が1増加\n- 特殊スキルに使用される\n<CMT_KR>오식1: \"- 最大値 : 「10」\" 정확1: \"- 最大値 : 「20」\" 오식2: \"- 速度の最小・「再大」値が1増加\" 정확2: \"- 速度の最小・「最大」値が1増加\"\n<CMT_EN>Typo1: \"- 最大値 : 「10」\" Correction1: \"- 最大値 : 「20」\" Typo2: \"- 速度の最小・「再大」値が1増加\" Correction2: \"- 速度の最小・「最大」値が1増加\"\n<CMT_JP>誤植1: \"- 最大値 : 「10」\" 訂正後1: \"- 最大値 : 「20」\"  誤植2: \"- 速度の最小・「再大」値が1増加\" 訂正後2: \"- 速度の最小・「最大」値が1増加\"",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 20\n- 경혈 2단계\n- 턴 시작시 수치 6당 공격 레벨 1, 방어 레벨 1 증가\n- 속도 최솟값, 최댓값 1 증가\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 20\n- Stage 2 Hardblood\n- Turn Start: gain 1 Offense Level and Defense Level for every 6 Stack\n- Raise Min & Max Speed values by 1\n- Used for special Skills"
+  },
+  {
+    "key": "BloodArmor_3rd-name",
+    "original": "硬血 III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硬血 III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경혈 III\nEN:\nHardblood III"
+  },
+  {
+    "key": "BloodArmor_3rd-desc",
+    "original": "- 最大値 : 30\n- 硬血 2段階\n- ターン開始時、数値6につき攻撃レベル2, 防御レベル2増加\n- 速度の最小・再大値が2増加\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 30\n- 硬血 3段階\n- ターン開始時、数値6につき攻撃レベル2, 防御レベル2増加\n- 速度の最小・最大値が2増加\n- 特殊スキルに使用される\n<CMT_KR>오식1: \"- 硬血 「2」段階\" 정확1: \"- 硬血 「3」段階\" 오식2: \"- 速度の最小・「再大」値が2増加\" 정확2: \"- 速度の最小・「最大」値が2増加\"\n<CMT_EN>Typo1: \"- 硬血 「2」段階\" Correction1: \"- 硬血 「3」段階\" Typo2: \"- 速度の最小・「再大」値が2増加\" Correction2: \"- 速度の最小・「最大」値が2増加\"\n<CMT_JP>誤植1: \"- 硬血 「2」段階\" 訂正後1: \"- 硬血 「3」段階\" 誤植2: \"- 速度の最小・「再大」値が2増加\" 訂正後2: \"- 速度の最小・「最大」値が2増加\"",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 30\n- 경혈 3단계\n- 턴 시작시 수치 6당 공격 레벨 2, 방어 레벨 2 증가\n- 속도 최솟값, 최댓값 2 증가\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 30\n- Stage 3 Hardblood\n- Turn Start: gain 2 Offense Level and Defense Level for every 6 Stack\n- Raise Min & Max Speed values by 2\n- Used for special Skills"
+  },
+  {
+    "key": "Dreamy-name",
+    "original": "夢心地の中のためらい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢心地の中のためらい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈결속 망설임\nEN:\nDreamy Hesitation"
+  },
+  {
+    "key": "Dreamy-desc",
+    "original": "- 基本攻撃・防御レベルが35減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本攻撃・防御レベルが35減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본 공격 레벨 35 감소\n- 기본 방어 레벨 35 감소\nEN:\n- Lose 35 Base Offense Level\n- Lose 35 Base Defense Level"
+  },
+  {
+    "key": "BloodringUp_LowMorale-name",
+    "original": "血揚げ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血揚げ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피올림\nEN:\nResanguination"
+  },
+  {
+    "key": "BloodringUp_LowMorale-desc",
+    "original": "- 士気低下\n出血がない対象ならマッチ威力 -1、的中時に対象の出血威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n出血がない対象ならマッチ威力 -1、的中時に対象の出血威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n출혈이 없는 대상이면, 합 위력 -1, 적중시 대상의 출혈 위력만큼 체력 회복\nEN:\n- Low Morale\nIf the target does not have Bleed, Clash Power -1; On Hit, heal HP equal to Bleed Potency on the target"
+  },
+  {
+    "key": "BloodringUp_Panic-name",
+    "original": "血揚げ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血揚げ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피올림\nEN:\nResanguination"
+  },
+  {
+    "key": "BloodringUp_Panic-desc",
+    "original": "- パニック\n出血がある対象ならマッチ威力 -2、出血がない対象ならマッチ威力 -2、的中時に対象の出血威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n出血がある対象ならマッチ威力 -2、出血がない対象ならマッチ威力 -2、的中時に対象の出血威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n출혈이 있는 대상이면, 합 위력 +2, 출혈이 없는 대상이면, 합 위력 -2, 적중시 대상의 출혈 위력만큼 체력 회복\nEN:\n- Panic\nIf the target has Bleed, Clash Power +2; if the target does not have Bleed, Clash Power -2; On Hit, heal HP equal to Bleed Potency on the target"
+  },
+  {
+    "key": "BloodDinner_Common_Accumulation-name",
+    "original": "共用累積消耗血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "共用累積消耗血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공용 누적 소모 혈찬\nEN:\nBloodfeast Consumed (shared)"
+  },
+  {
+    "key": "BloodDinner_Common_Accumulation-desc",
+    "original": "この戦闘の間累計で消耗した血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この戦闘の間累計で消耗した血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 전투 동안 누적 소모한 혈찬\nEN:\nTotal Bloodfeast consumed in this Encounter"
+  },
+  {
+    "key": "ThirstyRose-name",
+    "original": "渇望する薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "渇望する薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n목마른 장미\nEN:\nPolydipsic Rose"
+  },
+  {
+    "key": "ThirstyRose-desc",
+    "original": "- 最大値: 5\n- ターン終了時、自分の出血威力が10以上なら、自分の体力最大値の1%だけ色欲ダメージを受ける(最大30)\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 5\n- ターン終了時、自分の出血威力が10以上なら、自分の体力最大値の1%だけ色欲ダメージを受ける(最大30)\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 5\n- 턴 종료 시 자신의 출혈 위력이 10이상일 때, 자신의 최대 체력 1%만큼 색욕 피해를 입음. (최대 30)\n- 턴 종료 시 1 감소\nEN:\n- Max Value: 5\n- Turn End: at 10+ Bleed Potency, take Lust damage equal to 1% of this unit's max HP. (max 30)\n- Turn End: reduced by 1"
+  },
+  {
+    "key": "RoseWedge-name",
+    "original": "薔薇のとげ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇のとげ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 쐐기\nEN:\nRose Wedge"
+  },
+  {
+    "key": "RoseWedge-desc",
+    "original": "- 威力の最大値 : 10\n- 回数の最大値 : 4\n- 出血ダメージを10受けるたび、威力が1増加。\n- 被ダメージ時にスキル効果で出血、特殊出血が付与されるたびに出血2を得て、攻撃者に出血1を与える。(1ターンにつき最大5回)\n- この効果の威力が10なら、上記の効果発動時に追加で出血回数が1増加。\n- ターン終了時に回数が1減少\n- 戦闘終了時に威力10または回数1なら、バフが消滅して(威力 × 10)の色欲ダメージを受ける。\n- 付与対象が死亡またはバフ消滅時は(威力 × 10)だけ血餐が増加、付与対象の全味方ユニットに(威力 × 2)の色欲ダメージを与える(最低1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 威力の最大値 : 10\n- 回数の最大値 : 4\n- 出血ダメージを10受けるたび、威力が1増加。\n- 被ダメージ時にスキル効果で出血、特殊出血が付与されるたびに出血2を得て、攻撃者に出血1を与える。(1ターンにつき最大5回)\n- この効果の威力が10なら、上記の効果発動時に追加で出血回数が1増加。\n- ターン終了時に回数が1減少\n- 戦闘終了時に威力10または回数1なら、バフが消滅して(威力 × 10)の色欲ダメージを受ける。\n- 付与対象が死亡またはバフ消滅時は(威力 × 10)だけ血餐が増加、付与対象の全味方ユニットに(威力 × 2)の色欲ダメージを与える(最低1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 위력 최댓값 : 10\n- 횟수 최댓값 : 4\n- 출혈 피해를 10 받을 때마다, 위력 1 증가.\n- 피격시 자신에게 스킬 효과로 출혈, 특수 출혈이 부여될 때마다 출혈 2를 얻고, 공격자에게 출혈 1을 부여함. (턴 당 최대 5회)\n· 이 효과의 위력이 10이면, 위 효과 발동 시 추가로 출혈 횟수가 1 증가함.\n- 턴 종료 시 횟수 1 감소\n- 전투 종료 시 위력 10 또는 횟수 1이면, 버프가 소멸하고 (위력 x 10)만큼 색욕 피해를 받음.\n- 부여 대상이 사망하거나 버프 소멸 시 (위력 x 10)만큼 혈찬 증가, 부여 대상의 모든 아군 유닛에게 (위력 x 2)만큼 색욕 피해를 입힘 (최소 1)\nEN:\n- Max Potency: 10\n- Max Count: 4\n- Gain 1 Potency every time this unit takes 10 Bleed damage\n- When gaining Bleed or 'Unique Bleed' from getting hit, gain 2 Bleed and inflict 1 Bleed against the Attacker. (5 times per turn)\n· At 10 Potency, gain +1 Bleed Count as well when triggering the above effect.\n- Turn End: lose 1 Count\n- Combat End: at 10 Potency or 1 Count, this effect expires, and this unit takes (Potency x 10) Lust damage.\n- If the unit inflicted with this effect dies, or when this effect expires: increase Bloodfeast by (Potency x 10), and deal (Potency x 2) Lust damage against all of its allies (min 1)"
+  },
+  {
+    "key": "FerrisWheel-name",
+    "original": "回り回る観覧車\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回り回る観覧車\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌고도는 관람차\nEN:\nThe Endless Wheel"
+  },
+  {
+    "key": "FerrisWheel-desc",
+    "original": "ゴンドラが倒される度に1減少。\nこの数値が0であり、次のターンに生成されるユニットがいなければ次のフェーズへ移行。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゴンドラが倒される度に1減少。\nこの数値が0であり、次のターンに生成されるユニットがいなければ次のフェーズへ移行。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n곤돌라가 처치될 때마다 1 감소.\n이 수치가 0이고, 다음 턴에 생성될 유닛이 없으면 다음 페이즈로 넘어감.\nEN:\nReduced by 1 every time a Gondola is defeated.\nIf this value is at 0, and if there are no units to be spawned next turn, move on to the next phase."
+  },
+  {
+    "key": "StarvingDonqui-name",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
+  },
+  {
+    "key": "StarvingDonqui-desc",
+    "original": "- 基本攻撃・防御レベルが10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本攻撃・防御レベルが10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본 공격 레벨 10 감소\n- 기본 방어 레벨 10 감소\nEN:\n- Lose 10 Base Offense Level\n- Lose 10 Base Defense Level"
+  },
+  {
+    "key": "RegainedStrength-name",
+    "original": "再び巡る血の衝動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び巡る血の衝動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 도는 피의 충동\nEN:\nReturning Bloodlust"
+  },
+  {
+    "key": "RegainedStrength-desc",
+    "original": "- 最大値: 10\n- 再び巡る血の衝動 1段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 10\n- 再び巡る血の衝動 1段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 10\n- 다시 도는 피의 충동 1단계\nEN:\n- Max Value: 10\n- Stage 1 Returning Bloodlust"
+  },
+  {
+    "key": "RegainedStrength_2nd-name",
+    "original": "再び巡る血の衝動II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び巡る血の衝動II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 도는 피의 충동 II\nEN:\nReturning Bloodlust II"
+  },
+  {
+    "key": "RegainedStrength_2nd-desc",
+    "original": "- 最大値: 20\n- 再び巡る血の衝動 2段階\n- ターン開始時、数値5につき攻撃レベル増加1, 防御レベル増加1を得る\n- 再び巡る血の衝動を消耗するスキルのマッチ威力+1, 該当スキルにて付与する出血・破裂の威力と回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 20\n- 再び巡る血の衝動 2段階\n- ターン開始時、数値5につき攻撃レベル増加1, 防御レベル増加1を得る\n- 再び巡る血の衝動を消耗するスキルのマッチ威力+1, 該当スキルにて付与する出血・破裂の威力と回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 20\n- 다시 도는 피의 충동 2단계\n- 턴 시작시 수치 5 당, 공격 레벨 증가 1, 방어 레벨 증가 1 얻음\n- 다시 도는 피의 충동을 소모하는 스킬의 합 위력 +1, 해당 스킬에서 부여하는 출혈, 파열의 위력과 횟수 +1\nEN:\n- Max Value: 20\n- Stage 2 Returning Bloodlust\n- Turn Start: gain 1 Offense Level up and 1 Defense Level Up for every 5 Value\n- Clash Power +1 to Skills that consume Returning Bloodlust; inflict +1 more of Potency and Count for Bleed and Rupture inflicted by the said Skill"
+  },
+  {
+    "key": "RegainedStrength_3rd-name",
+    "original": "再び巡る血の衝動III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び巡る血の衝動III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 도는 피의 충동 III\nEN:\nReturning Bloodlust III"
+  },
+  {
+    "key": "RegainedStrength_3rd-desc",
+    "original": "- 最大値: 30\n- 再び巡る血の衝動 3段階\n- ターン開始時、数値5につき攻撃レベル増加2, 防御レベル増加1を得る\n- 再び巡る血の衝動を消耗するスキルのコイン威力+1, 該当スキルにて付与する出血・破裂の威力と回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 30\n- 再び巡る血の衝動 3段階\n- ターン開始時、数値5につき攻撃レベル増加2, 防御レベル増加1を得る\n- 再び巡る血の衝動を消耗するスキルのコイン威力+1, 該当スキルにて付与する出血・破裂の威力と回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 30\n- 다시 도는 피의 충동 3단계\n- 턴 시작시 수치 5 당, 공격 레벨 증가 2, 방어 레벨 증가 1 얻음\n- 다시 도는 피의 충동을 소모하는 스킬의 코인 위력 +1, 해당 스킬에서 부여하는 출혈, 파열의 위력과 횟수 +1\nEN:\n- Max Value: 30\n- Stage 3 Returning Bloodlust\n- Turn Start: gain 2 Offense Level up and 1 Defense Level Up for every 5 Value\n- Coin Power +1 to Skills that consume Returning Bloodlust; inflict +1 more of Potency and Count for Bleed and Rupture inflicted by the said Skill"
+  },
+  {
+    "key": "WeightOfResponsibility_LowMorale-name",
+    "original": "吾が夢を捨てこれからは…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "吾が夢を捨てこれからは…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 꿈을 버리고 이제는...\nEN:\nTime to abandon my dream..."
+  },
+  {
+    "key": "WeightOfResponsibility_LowMorale-desc",
+    "original": "- 士気低下\n- 攻撃威力増加2, 脆弱1を得る。速度の最大値が2増加\n- 体力回復量が30%増加\n- ターン終了時、ターン開始時より再び巡る血の衝動の数値が低いなら、次のターンに攻撃レベル増加2, 防御レベル減少2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 攻撃威力増加2, 脆弱1を得る。速度の最大値が2増加\n- 体力回復量が30%増加\n- ターン終了時、ターン開始時より再び巡る血の衝動の数値が低いなら、次のターンに攻撃レベル増加2, 防御レベル減少2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 공격 위력 증가 2, 취약  1 얻음, 속도 최댓값 2 증가\n- 체력 회복량 30% 증가\n- 턴 종료 시 턴 시작 시보다 다시 도는 피의 충동의 수치가 낮으면 다음 턴에 공격 레벨 증가 2, 방어 레벨 감소 2 얻음.\nEN:\n- Low Morale\n- Gain 2 Attack Power Up and 1 Fragile; raise max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 2 Offense Level Up and 2 Defense Level Down"
+  },
+  {
+    "key": "WeightOfResponsibility_Panic-name",
+    "original": "父上として家族のため…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "父上として家族のため…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어버이로써 가족을 위해....\nEN:\n... for my Family, as their Father..."
+  },
+  {
+    "key": "WeightOfResponsibility_Panic-desc",
+    "original": "- パニック\n- 攻撃威力増加2, クイック2, 脆弱2を得る\n- 体力回復量が50%増加\n- ターン終了時、ターン開始時より再び巡る血の衝動の数値が低いなら、次のターンに攻撃レベル増加3, 防御レベル減少5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- 攻撃威力増加2, クイック2, 脆弱2を得る\n- 体力回復量が50%増加\n- ターン終了時、ターン開始時より再び巡る血の衝動の数値が低いなら、次のターンに攻撃レベル増加3, 防御レベル減少5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 공격 위력 증가 2, 신속 2, 취약 2 얻음\n- 체력 회복량 50% 증가\n- 턴 종료 시 턴 시작 시보다 다시 도는 피의 충동의 수치가 낮으면 다음 턴에 공격 레벨 증가 3, 방어 레벨 감소 5 얻음\nEN:\n- Panic\n- Gain 2 Attack Power Up, 2 Haste, and 2 Fragile\n- Heal +50% more HP when healing\n- Turn End: if the current Returning Bloodlust is lower than its value at Turn Start, gain 3 Offense Level Up and 5 Defense Level Down"
+  },
+  {
+    "key": "Precarious-name",
+    "original": "無責任な夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無責任な夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무책임한 꿈\nEN:\nIrresponsible Dream"
+  },
+  {
+    "key": "Precarious-desc",
+    "original": "ドンキホーテに被ダメージに倒される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテに被ダメージで倒される。\n<CMT_KR>오식: \"ドンキホーテに被ダメージ「に」倒される。\"  정확: \"ドンキホーテに被ダメージ「で」倒される。\"\n<CMT_EN>Typo: \"ドンキホーテに被ダメージ「に」倒される。\"  Correction: \"ドンキホーテに被ダメージ「で」倒される。\"\n<CMT_JP>誤植: \"ドンキホーテに被ダメージ「に」倒される。\"  訂正後: \"ドンキホーテに被ダメージ「で」倒される。\"",
+    "stage": 1,
+    "context": "KR:\n돈키호테에게 피격 시 처치됨.\nEN:\nKilled when hit by Don Quixote."
+  },
+  {
+    "key": "Penetration-name",
+    "original": "凝結していく血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凝結していく血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳어가는 피\nEN:\nCongealing Blood"
+  },
+  {
+    "key": "Penetration-desc",
+    "original": "2ターンの間行動不能になり、味方を貫いた槍ユニットが生成される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2ターンの間行動不能になり、味方を貫いた槍ユニットが生成される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2턴동안 행동이 불가능하며, 아군을 꿰뚫은 창 유닛이 생성됨.\nEN:\nCannot act for 2 turns; spawns an Impaling Spear unit over the ally."
+  },
+  {
+    "key": "DecreamentalDefense-name",
+    "original": "深刻な負傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深刻な負傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심각한 부상\nEN:\nCrippling Injury"
+  },
+  {
+    "key": "DecreamentalDefense-desc",
+    "original": "- 前の戦闘の負傷がまだ回復していない。\n- 体力最大値が大幅に減少\n- ターン開始時、累積ターン1につき防御レベル減少1を追加で得る(最大15)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 前の戦闘の負傷がまだ回復していない。\n- 体力最大値が大幅に減少\n- ターン開始時、累積ターン1につき防御レベル減少1を追加で得る(最大15)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 이전 전투의 부상이 아직 회복되지 않았다.\n- 최대 체력 대폭 감소\n- 턴 시작시, 누적된 턴 1 당 방어 레벨 감소 1 추가로 얻음 (최대 15)\nEN:\n- Yet to recover from the wounds gained in the previous battle.\n- Massively reduce max HP\n- Turn Start: gain 1 Defense Level Down for every cumulative turn (max 15)"
+  },
+  {
+    "key": "UnfinishedDream-name",
+    "original": "水より濃い血から解き放たれ、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "水より濃い血から解き放たれ、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n물보다 진한 피에서 벗어나,\nEN:\nIN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER"
+  },
+  {
+    "key": "UnfinishedDream-desc",
+    "original": "- 毎ターン終了時、次のターンにクイック1, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 毎ターン終了時、次のターンにクイック1, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 매 턴 종료 시, 다음 턴에 신속 1, 공격 레벨 증가 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)\nEN:\n- At every Turn End: gain 1 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)"
+  },
+  {
+    "key": "SanchoMind_LowMorale-name",
+    "original": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깨어나는 살육의 고양감\nEN:\nReawakening Joy Of Carnage"
+  },
+  {
+    "key": "SanchoMind_LowMorale-desc",
+    "original": "- 士気低下\n毎ターン開始時、攻撃レベル増加2を得る。精神力回復効率 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n毎ターン開始時、攻撃レベル増加2を得る。精神力回復効率 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n매 턴 시작 시, 공격 레벨 증가 2 얻음. 정신력 효율 +2\nEN:\n- Low Morale\nGain 2 Attack Power Up at every Turn Start; +2 SP Efficiency"
+  },
+  {
+    "key": "SanchoMind_Panic-name",
+    "original": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깨어나는 살육의 고양감\nEN:\nReawakening Joy Of Carnage"
+  },
+  {
+    "key": "SanchoMind_Panic-desc",
+    "original": "- パニック\nターン開始時、防御レベル増加6を得る。次のターンに攻撃レベル増加3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\nターン開始時、防御レベル増加6を得る。次のターンに攻撃レベル増加3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n턴 시작 시, 방어 레벨 증가 6 얻음. 다음 턴에 공격 레벨 증가 3 얻음\nEN:\n- Panic\nTurn Start: gain 6 Defense Level Up. Gain 3 Offense Level Up next turn"
+  },
+  {
+    "key": "FragmentOfHope-name",
+    "original": "バスで仲間たちと共に様々な冒険を共にし、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バスで仲間たちと共に様々な冒険を共にし、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버스에서 동료들과 함께 여러 모험을 겪었으며,\nEN:\nWHICH TREATS THE BUS, THE COMPANIONS, AND THE ADVENTURES"
+  },
+  {
+    "key": "FragmentOfHope-desc",
+    "original": "数値だけマッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "数値だけマッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수치만큼 합 위력 증가\nEN:\nGain Clash Power equal to the value"
+  },
+  {
+    "key": "FragmentOfHopeTwo-name",
+    "original": "夢を終わらせないサンチョであり、我がドンキホーテでもある者について\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢を終わらせないサンチョであり、我がドンキホーテでもある者について\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈을 끝내지 않을 산초이자 우리의 돈키호테에 대하여\nEN:\nOF HOW SANCHO, OUR DON QUIXOTE, REFUSED TO END THE DREAM"
+  },
+  {
+    "key": "FragmentOfHopeTwo-desc",
+    "original": "数値につきマッチ威力 +4\n戦闘開始時、自分と味方へバリアを付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "数値につきマッチ威力 +4\n戦闘開始時、自分と味方へバリアを付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수치당 합 위력 +4\n전투 시작 시 자신과 아군에게 보호막 부여\nEN:\nClash Power +4 for every value\nApply Shield to self and all allies at Combat Start"
+  },
+  {
+    "key": "ConfinementOfGoldenBranch-name",
+    "original": "黄金の枝の強制調律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黄金の枝の強制調律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금가지의 강제 조율\nEN:\nThe Golden Bough's Forced Arbitration"
+  },
+  {
+    "key": "ConfinementOfGoldenBranch-desc",
+    "original": "- 基本攻撃・防御レベルが30減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本攻撃・防御レベルが30減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본 공격 레벨 30 감소\n- 기본 방어 레벨 30 감소\nEN:\n- Lose 30 Base Offense Level\n- Lose 30 Base Defense Level"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "key": "9015206-name",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
+  },
+  {
+    "key": "9015206-desc",
+    "original": "戦闘開始時、[StarvingBarberOne]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[StarvingBarberOne]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [StarvingBarberOne] 얻음\nEN:\nGain [StarvingBarberOne] at the start of the Encounter"
+  },
+  {
+    "key": "9015202-name",
+    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노쇠\nEN:\nWithered"
+  },
+  {
+    "key": "9015202-desc",
+    "original": "ターン開始時[Laceration]がある対象がいなければ、速度最大値 -2(敵味方全てを含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時[Laceration]がある対象がいなければ、速度最大値 -2(敵味方全てを含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 [Laceration]이 있는 대상이 없으면, 속도 최댓값 -2 (아군, 적군 전부 포함)\nEN:\nTurn Start: if no one has [Laceration], Min Speed -2 (checks both allies & enemies)"
+  },
+  {
+    "key": "9015203-name",
+    "original": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흡혈\nEN:\nBloodsucking"
+  },
+  {
+    "key": "9015203-desc",
+    "original": "攻撃的中時、対象に[Laceration]があるならダメージ量の15%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があるならダメージ量の15%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복\nEN:\nOn Hit, if the target has [Laceration], heal by 15% of damage dealt"
+  },
+  {
+    "key": "9015204-name",
+    "original": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 경화\nEN:\nBlood Coagulation"
+  },
+  {
+    "key": "9015204-desc",
+    "original": "攻撃終了時、対象の[Laceration]が8以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、対象の[Laceration]が8以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료시 대상의 [Laceration]이 8 이상이면, [HardenedBlood] 1 얻음\nEN:\nAfter Attack: if the target has 8+ [Laceration], gain 1 [HardenedBlood]"
+  },
+  {
+    "key": "9015205-name",
+    "original": "血染めの鋏の刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血染めの鋏の刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n핏빛 가위날\nEN:\nBlood-tinged Scissorblades"
+  },
+  {
+    "key": "9015205-desc",
+    "original": "[BloodScissor]が1以上なら、鋏の刃が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BloodScissor]が1以上なら、鋏の刃が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BloodScissor]이 1 이상이면, 가위의 날이 강화됨.\nEN:\nAt 1+ [BloodScissor], enhance the blades of the scissor."
+  },
+  {
+    "key": "9015207-name",
+    "original": "血袋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血袋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피주머니\nEN:\nBloodbag"
+  },
+  {
+    "key": "9015207-desc",
+    "original": "被ダメージ時に自分の[Laceration]回数が1増加。\n体力が20%減少するたびに[HardenedBlood]1を得る。\n味方または敵に血鬼がいる場合、死亡時に[BloodDinner]が30増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時に自分の[Laceration]回数が1増加。\n体力が20%減少するたびに[HardenedBlood]1を得る。\n味方または敵に血鬼がいる場合、死亡時に[BloodDinner]が30増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 자신의 [Laceration] 횟수 1 증가.\n체력이 20% 감소할 때마다 [HardenedBlood] 1 얻음.\n아군 또는 적에 혈귀가 있는 경우, 사망 시, [BloodDinner]이 30만큼 증가\nEN:\nWhen hit, gain +1 [Laceration] Count.\nGain 1 [HardenedBlood] every time this unit loses 20% HP.\nIf there is a Bloodfiend on the field, regardless of whether it is an ally or an enemy, increase [BloodDinner] by 30"
+  },
+  {
+    "key": "9015401-name",
+    "original": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흡혈\nEN:\nBloodsucking"
+  },
+  {
+    "key": "9015401-desc",
+    "original": "攻撃的中時、対象に[Laceration]があるならダメージ量の20%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があるならダメージ量の20%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 20%만큼 체력 회복\nEN:\nOn Hit, if the target has [Laceration], heal by 20% of damage dealt"
+  },
+  {
+    "key": "9015402-name",
+    "original": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 경화\nEN:\nBlood Coagulation"
+  },
+  {
+    "key": "9015402-desc",
+    "original": "攻撃終了時、対象の[Laceration]が5以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、対象の[Laceration]が5以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료시 대상의 [Laceration]이 5 이상이면, [HardenedBlood] 1 얻음\nEN:\nAfter Attack: if the target has 5+ [Laceration], gain 1 [HardenedBlood]"
+  },
+  {
+    "key": "9015403-name",
+    "original": "血の渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血の渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피의 갈증\nEN:\nThirst for Blood"
+  },
+  {
+    "key": "9015403-desc",
+    "original": "- [Laceration]が付与された対象を優先して攻撃\n- ターン終了時、このターンにダメージを与えられなかったなら、次のターンに脆弱2, 攻撃レベル増加2を得る\n- ターン終了時、このターンにダメージを与えられたなら精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- [Laceration]が付与された対象を優先して攻撃\n- ターン終了時、このターンにダメージを与えられなかったなら、次のターンに脆弱2, 攻撃レベル増加2を得る\n- ターン終了時、このターンにダメージを与えられたなら精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- [Laceration]이 부여된 대상을 우선적으로 공격\n- 턴 종료 시 이번 턴에 피해를 주지 못한 경우, 다음 턴에 취약 2, 공격 레벨 증가 2를 얻음\n- 턴 종료 시 이번 턴에 피해를 줬다면,정신력 5 회복\nEN:\n- Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 Offense Level Up next turn\n- Turn End: if this unit dealt damage this turn, heal 5 SP"
+  },
+  {
+    "key": "9015404-name",
+    "original": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈찬\nEN:\nBloodfeast"
+  },
+  {
+    "key": "9015404-desc",
+    "original": "このキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を顕わにする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を顕わにする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피를 드러낸다.\nEN:\nIf this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will surface."
+  },
+  {
+    "key": "9015405-name",
+    "original": "血染めの鋏の刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血染めの鋏の刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n핏빛 가위날\nEN:\nBlood-tinged Scissorblades"
+  },
+  {
+    "key": "9015405-desc",
+    "original": "[BloodScissor]が2以上なら、鋏の刃が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BloodScissor]が2以上なら、鋏の刃が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BloodScissor]이 2 이상이면, 가위의 날이 강화됨.\nEN:\nAt 2+ [BloodScissor], enhance the blades of the scissor."
+  },
+  {
+    "key": "9015601-name",
+    "original": "血鬼の狩人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血鬼の狩人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈귀 사냥꾼\nEN:\nBloodfiend Hunter"
+  },
+  {
+    "key": "9015601-desc",
+    "original": "対象が<血鬼>、<血袋>ならダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象が<血鬼>、<血袋>ならダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상이 &lt;혈귀&gt;, &lt;피주머니&gt;면 피해량 +10%\nEN:\nIf the target is a &lt;Bloodfiend&gt; or a &lt;Bloodbag&gt;, deal +10% damage"
+  },
+  {
+    "key": "9015602-name",
+    "original": "過激な狩猟術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過激な狩猟術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n과격한 사냥법\nEN:\nAggressive Hunting Techniques"
+  },
+  {
+    "key": "9015602-desc",
+    "original": "敵へ攻撃スキル的中時、10%の確率で[Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵へ攻撃スキル的中時、10%の確率で[Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적에게 공격 스킬 적중 시 10% 확률로 [Burst] 횟수 2 증가\nEN:\nWhen hitting an enemy with an Attack Skill, 10% chance to inflict +2 [Burst] Count"
+  },
+  {
+    "key": "9015603-name",
+    "original": "対血鬼専用ハンマー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対血鬼専用ハンマー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대 혈귀전용 망치\nEN:\nAnti-Bloodfiend Hammer"
+  },
+  {
+    "key": "9015603-desc",
+    "original": "スキル使用時、対象の[Burst]が10以上なら、スキルにて[Burst]を付与する変わる代わりにダメージ量が30%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル使用時、対象の[Burst]が10以上なら、スキルにて[Burst]を付与する代わりにダメージ量が30%増加\n<CMT_KR>오식: \"スキル使用時、対象の[Burst]が10以上なら、スキルにて[Burst]を付与する「変わる」代わりにダメージ量が30%増加\" 정확: \"スキルにて[Burst]を付与する「」代わりにダメージ量が30%増加\"\n<CMT_EN>Typo: \"スキル使用時、対象の[Burst]が10以上なら、スキルにて[Burst]を付与する「変わる」代わりにダメージ量が30%増加\" Correction: \"スキルにて[Burst]を付与する「」代わりにダメージ量が30%増加\"\n<CMT_JP>誤植: \"スキル使用時、対象の[Burst]が10以上なら、スキルにて[Burst]を付与する「変わる」代わりにダメージ量が30%増加\" 訂正後: \"スキルにて[Burst]を付与する「」代わりにダメージ量が30%増加\"",
+    "stage": 1,
+    "context": "KR:\n스킬 사용 시, 대상의 [Burst]이 10 이상이면, 스킬에서 [Burst]을 부여하는 대신 피해량이 30% 증가\nEN:\nOn Skill use, if the target has 10+ [Burst], deal +30% damage instead of inflicting [Burst] with this unit's Skills"
+  },
+  {
+    "key": "9015604-name",
+    "original": "止血剤\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "止血剤\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지혈제\nEN:\nStyptics"
+  },
+  {
+    "key": "9015604-desc",
+    "original": "ターン終了時、自分に[Laceration]があるなら[Laceration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、自分に[Laceration]があるなら[Laceration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시, 자신에게 [Laceration]이 있으면 [Laceration] 횟수 1 감소\nEN:\nTurn End: if this unit has [Laceration], lose 1 [Laceration] Count"
+  },
+  {
+    "key": "9016001-name",
+    "original": "弱者の目印\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弱者の目印\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약자 표식\nEN:\nWeakling Mark"
+  },
+  {
+    "key": "9016001-desc",
+    "original": "マッチ勝利時、対象へ[TrulyWeak]を付与する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、対象へ[TrulyWeak]を付与する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리시, 대상에게 [TrulyWeak] 디버프를 부여함\nEN:\nOn Clash Win, inflict [TrulyWeak]"
+  },
+  {
+    "key": "9016002-name",
+    "original": "悪の群れ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "悪の群れ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n악의 무리\nEN:\nThe Wicked Caitiffs"
+  },
+  {
+    "key": "9016002-desc",
+    "original": "弱者を虐める事を好む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弱者を虐める事を好む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약자를 괴롭히는 것을 좋아함\nEN:\nLoves bullying the weak"
+  },
+  {
+    "key": "9016003-name",
+    "original": "卑劣さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "卑劣さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비열함\nEN:\nBullies"
+  },
+  {
+    "key": "9016003-desc",
+    "original": "[TrulyWeak]を持つ敵を攻撃するとき、マッチ威力が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[TrulyWeak]を持つ敵を攻撃するとき、マッチ威力が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[TrulyWeak] 디버프를 가진 적을 공격할 때, 합 위력 1 증가\nEN:\nClash Power +1 when attacking an enemy with [TrulyWeak]"
+  },
+  {
+    "key": "9016101-name",
+    "original": "つまらなく無い戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "つまらなく無い戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시시하지 않은 전투\nEN:\nAn Encounter of Moderate Difficulty"
+  },
+  {
+    "key": "9016101-desc",
+    "original": "このキャラクターの与ダメージ量 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターの与ダメージ量 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 가하는 피해량 +15%\nEN:\nDeals +15% damage"
+  },
+  {
+    "key": "9016102-name",
+    "original": "人間すら取って食うクマ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人間すら取って食うクマ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사람까지 잡아먹는 곰\nEN:\nThe Man-eating Bear"
+  },
+  {
+    "key": "9016102-desc",
+    "original": "現体力が最大値の50%以下の対象への与ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現体力が最大値の50%以下の対象への与ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 체력이 최대 체력의 50% 이하인 대상에게 가하는 피해량 +25%\nEN:\nDeal +25% damage against targets with 50%- HP"
+  },
+  {
+    "key": "9016103-name",
+    "original": "おそろしさ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おそろしさ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무시무시함\nEN:\nBig & Scary"
+  },
+  {
+    "key": "9016103-desc",
+    "original": "マッチ進行時、対象の精神力が1減少することがある\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ進行時、対象の精神力が1減少することがある\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 진행 시 대상의 정신력이 1 감소할 수도 있음\nEN:\nIn a Clash, the opponent just might lose 1 SP, maybe"
+  }
+]

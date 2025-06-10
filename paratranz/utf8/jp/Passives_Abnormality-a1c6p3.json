@@ -1,0 +1,394 @@
+[
+  {
+    "key": "816101-name",
+    "original": "罪悪耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪悪耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄악 내성\nEN:\nSin Nullification"
+  },
+  {
+    "key": "816101-desc",
+    "original": "混乱状態、部位破壊状態でなければ自分が受ける[Combustion]ダメージが80％減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態、部位破壊状態でなければ自分が受ける[Combustion]ダメージが80％減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태, 부위 파괴 상태가 아니라면 자신이 받는 [Combustion] 피해 80% 감소.\nEN:\nUnless this unit is Staggered or Part Broken, take 80% less [Combustion] damage."
+  },
+  {
+    "key": "816102-name",
+    "original": "火炎転移\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火炎転移\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화염 전이\nEN:\nProliferating Flame"
+  },
+  {
+    "key": "816102-desc",
+    "original": "対象に[Combustion]があるなら、的中時に対象の[Combustion]半分だけ[Combustion]を操作パネル両隣の人格へ付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[Combustion]があるなら、的中時に対象の[Combustion]半分だけ[Combustion]を操作パネル両隣の人格へ付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 [Combustion]이 있을 때, 적중시 대상의 [Combustion] 절반만큼 [Combustion]을 조작 패널 양옆 인격에게 부여함.\nEN:\nIf the target has [Combustion]: On Hit, spread half of [Combustion] on target to 2 units adjacent to the target on the Dashboard."
+  },
+  {
+    "key": "816601-name",
+    "original": "絡まった狩り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絡まった狩り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒤엉킨 사냥\nEN:\nChaotic Hunt"
+  },
+  {
+    "key": "816601-desc",
+    "original": "マッチ勝利時、次のマッチにてマッチ威力 -1(最大2)\nマッチ敗北時、次のマッチにてマッチ威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、次のマッチにてマッチ威力 -1(最大2)\nマッチ敗北時、次のマッチにてマッチ威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리시, 다음 합에서 합 위력 -1 (최대 2)\n합 패배시, 다음 합에서 합 위력 +1 (최대 2)\nEN:\nClash Win: Clash Power -1 for the next Clash (max 2)\nClash Lose: Clash Power +1 for the next Clash (max 2)"
+  },
+  {
+    "key": "816602-name",
+    "original": "放棄した人間性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放棄した人間性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포기한 인간성\nEN:\nHumanity Abandoned"
+  },
+  {
+    "key": "816602-desc",
+    "original": "ターン開始時、[AttackDmgUp]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、[AttackDmgUp]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시, [AttackDmgUp] 2 얻음.\nEN:\nTurn Start: gain 2 [AttackDmgUp]."
+  },
+  {
+    "key": "816603-name",
+    "original": "袋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "袋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자루\nEN:\nSack"
+  },
+  {
+    "key": "816603-desc",
+    "original": "- 鎖がある間は、全部位が[Enhancement]を1, [AttackDmgUp]を2得る\n- 鎖破壊時、今回のステージの間はターン終了時、次のターンにて[Binding]を2得て物理耐性が0.7増加する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 鎖がある間は、全部位が[Enhancement]を1, [AttackDmgUp]を2得る\n- 鎖破壊時、今回のステージの間はターン終了時、次のターンにて[Binding]を2得て物理耐性が0.7増加する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사슬이 있는 동안에는 모든 부위가 [Enhancement]를 1, [AttackDmgUp]를 2 얻음\n- 사슬이 파괴시 이번 스테이지동안 턴 종료시 다음 턴에 [Binding]을 2 얻고 물리 내성이 0.7 증가함\nEN:\n- When this unit has the Chain, all Parts gain 1 [Enhancement] and 2 [AttackDmgUp]\n- When the Chain is broken, starting next turn, gain 2 [Binding] and +0.7 to all physical resistances until the end of this Encounter"
+  },
+  {
+    "key": "816604-name",
+    "original": "ルサンチマン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ルサンチマン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n르쌍티망\nEN:\nRessentiment"
+  },
+  {
+    "key": "816604-desc",
+    "original": "自分の体力が35％以下のとき、対象が自分より現体力の比率が高ければマッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の体力が35％以下のとき、対象が自分より現体力の比率が高ければマッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 체력이 35%이하일 때, 대상이 자신보다 현재 체력 비율이 높으면 합 위력 +2\nEN:\nWhen this unit has 35% or less HP: If the target has a higher HP percentage than this unit, Clash Power +2"
+  },
+  {
+    "key": "816605-name",
+    "original": "頭にくる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頭にくる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n악에 받친\nEN:\nSpite-driven"
+  },
+  {
+    "key": "816605-desc",
+    "original": "自分の現体力の比率が30%以下になると\n- 打撃スキルダメージ量 +20%\n- ターンが経過するにつれ[Enhancement]1, [Vulnerable]を2ずつ追加で得る。(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の現体力の比率が30%以下になると\n- 打撃スキルダメージ量 +20%\n- ターンが経過するにつれ[Enhancement]1, [Vulnerable]を2ずつ追加で得る。(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 현재 체력 비율이 30%이하가 되었다면\n- 타격 스킬의 피해량 +20%\n- 턴이 지남에 따라 [Enhancement] 1, [Vulnerable] 2씩 추가로 얻음. (최대 3회)\nEN:\nIf this Unit's current HP percentage is 30% or less:\n- Blunt Skills Deal +20% damage\n- Gain 1 [Enhancement] and 2 [Vulnerable] with every turn that passes. (3 times max)"
+  },
+  {
+    "key": "816606-name",
+    "original": "地獄の猟犬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "地獄の猟犬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지옥의 사냥개\nEN:\nInfernal Hound"
+  },
+  {
+    "key": "816606-desc",
+    "original": "鎖破壊時、ランダムな敵へ[AaCfPcBg]を付与。\n次のターンから[AaCfPcBg]を持つ人格を優先して攻撃。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鎖破壊時、ランダムな敵へ[AaCfPcBg]を付与。\n次のターンから[AaCfPcBg]を持つ人格を優先して攻撃。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사슬 파괴시, 무작위 적에게 [AaCfPcBg] 부여.\n다음 턴부터 [AaCfPcBg]을 지닌 인격 우선 공격함.\nEN:\nWhen the Chain is broken, inflict [AaCfPcBg] to a random enemy.\nStarting next turn, prioritize target with [AaCfPcBg]."
+  },
+  {
+    "key": "817101-name",
+    "original": "優位\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "優位\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우위\nEN:\nSuperiority"
+  },
+  {
+    "key": "817101-desc",
+    "original": "マッチ勝利時、対象よりも速度が高ければ精神力が3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、対象よりも速度が高ければ精神力が3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리시 대상보다 속도가 빠르다면, 정신력 3 회복\nEN:\nClash Win: If this unit's Speed is faster than the target's, heal 3 SP"
+  },
+  {
+    "key": "817102-name",
+    "original": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불속지객\nEN:\nThe Uninvited"
+  },
+  {
+    "key": "817102-desc",
+    "original": "混乱状態の敵がいるなら、攻撃スキルで対象を優先的に指定する。\n混乱状態の敵へ的中時、ダメージ量 +20％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態の敵がいるなら、攻撃スキルで対象を優先的に指定する。\n混乱状態の敵へ的中時、ダメージ量 +20％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태의 적이 있다면, 공격 스킬로 대상을 우선 지정함.\n흐트러짐 상태의 적 적중시, 피해량 +20%\nEN:\nIf there are Staggered enemies, this unit prioritizes Staggered targets with its Attack Skills\nDeal +20% damage to Staggered enemies On Hit"
+  },
+  {
+    "key": "817103-name",
+    "original": "応接道第九式 結縛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応接道第九式 結縛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응접도 제 9식 결박\nEN:\nReceiving Arts 9: Binding"
+  },
+  {
+    "key": "817103-desc",
+    "original": "パターンが変更されてから戦闘終了時、次のターンに[AaCfPcBc]がないランダムな人格1名へ、次のターンにて[AaCfPcBc]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パターンが変更されてから戦闘終了時、次のターンに[AaCfPcBc]がないランダムな人格1名へ、次のターンにて[AaCfPcBc]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패턴이 변경되고부터 전투 종료시 다음 턴에 [AaCfPcBc]이 없는 무작위 인격 한명에게 다음 턴에 [AaCfPcBc] 부여\nEN:\nAfter this unit gains a new pattern, and after Combat End, inflict [AaCfPcBc] to a random Identity without [AaCfPcBc] next turn"
+  },
+  {
+    "key": "817104-name",
+    "original": "捕縛解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捕縛解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포박 해제\nEN:\nRelease From Binds"
+  },
+  {
+    "key": "817104-desc",
+    "original": "混乱状態になると、数値が2以下の全[AaCfPcBc]が除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態になると、数値が2以下の全[AaCfPcBc]が除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 되면, 수치가 2 이하인 모든 [AaCfPcBc] 제거\nEN:\nAll [AaCfPcBc] less than or equal to 2 expires when this unit is Staggered"
+  },
+  {
+    "key": "817201-name",
+    "original": "滲む感情\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "滲む感情\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n번지는 감정\nEN:\nSpreading Emotions"
+  },
+  {
+    "key": "817201-desc",
+    "original": "自分と同じ属性の爆発する感情効果を持つ味方が死亡すると、自分の爆発する感情効果が除去され、残りの味方を全員死亡させて次のターンに[AaCfPbBd]を得る。\n該当属性の爆発する感情効果、該当属性の保護が全囚人へ付与される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分と同じ属性の爆発する感情効果を持つ味方が死亡すると、自分の爆発する感情効果が除去され、残りの味方を全員死亡させて次のターンに[AaCfPbBd]を得る。\n該当属性の爆発する感情効果、該当属性の保護が全囚人へ付与される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신과 동일한 속성의 폭발하는 감정 효과를 가진 아군이 사망하면, 자신의 폭발하는 감정 효과가 제거되며, 나머지 아군을 모두 사망시키고, 다음 턴에 [AaCfPbBd]을 얻음.\n해당 속성의 폭발하는 감정 효과, 해당 속성의 보호가 모든 수감자에게 부여됨.\nEN:\nWhen an ally with the same Affinity to this unit's Explosive Emotions effect is defeated: lose Explosive Emotions effect on self, kill all other allies, and gain [AaCfPbBd] next turn.\nAll Sinners gain the effects of the corresponding Explosive Emotions effect, and protection against the corresponding Affinity."
+  },
+  {
+    "key": "817202-name",
+    "original": "燻った恨み\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "燻った恨み\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맺힌 원한\nEN:\nAmalgamated Resentment"
+  },
+  {
+    "key": "817202-desc",
+    "original": "爆発する感情効果を持っている間、全スキルの属性が該当属性へ変更。\n爆発する感情効果が除去された後も、該当フェーズの間は変更されたスキル属性が維持される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "爆発する感情効果を持っている間、全スキルの属性が該当属性へ変更。\n爆発する感情効果が除去された後も、該当フェーズの間は変更されたスキル属性が維持される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n폭발하는 감정 효과가 있는 동안 모든 스킬의 속성이 해당 속성으로 변경됨.\n폭발하는 감정 효과가 제거된 후에도 해당 페이즈동안 변경된 스킬 속성이 유지됨.\nEN:\nWhen this unit has an Explosive Emotions effect, all Skill Affinities are replaced with the corresponding Affinity.\nEven after the Explosive Emotions effect expires, the changed Skill Affinities remain changed for the rest of the Phase."
+  },
+  {
+    "key": "817203-name",
+    "original": "終わらない復讐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "終わらない復讐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끝나지 않은 복수\nEN:\nContinuing Revenge"
+  },
+  {
+    "key": "817203-desc",
+    "original": "体力が最大値の75％, 35％になるたびにパターンが変更。\nパターン変更時、自分に付与されたマイナス効果の威力・回数を半減させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が最大値の75％, 35％になるたびにパターンが変更。\nパターン変更時、自分に付与されたマイナス効果の威力・回数を半減させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 최대 체력의 75%, 35%가 될 때마다 패턴이 변경됨.\n패턴 변경 시 자신에게 부여된 부정적인 효과의 위력, 횟수를 절반으로 감소\nEN:\nGains a new pattern at 75% and 35% of max HP.\nWhen this unit gains a new pattern, halve the Potency and Count of every negative effect on self"
+  },
+  {
+    "key": "9101602-name",
+    "original": "敵意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적의\nEN:\nAntagonism"
+  },
+  {
+    "key": "9101602-desc",
+    "original": "対象が自分より現体力が高ければマッチ威力 +2, ダメージ量 +20％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象が自分より現体力が高ければマッチ威力 +2, ダメージ量 +20％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상이 자신보다 현재 체력이 높으면 합 위력 +2, 피해량 +20%\nEN:\nIf the target's current HP is higher than this unit's, Clash Power +2 and deal +20% damage"
+  },
+  {
+    "key": "9101603-name",
+    "original": "待ち望んだ瞬間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待ち望んだ瞬間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기다린 순간\nEN:\nLong-awaited Moment"
+  },
+  {
+    "key": "9101603-desc",
+    "original": "マッチ勝利時、自分の精神力を5回復\nヒースクリフにマッチ敗北時に精神力減少10、次のターンに[Binding]2を得る。(1ターンにつき1回)\n1ターンの間ヒースクリフに攻撃を的中できなかった場合、ターン終了時に精神力減少5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、自分の精神力を5回復\nヒースクリフにマッチ敗北時に精神力減少10、次のターンに[Binding]2を得る。(1ターンにつき1回)\n1ターンの間ヒースクリフに攻撃を的中できなかった場合、ターン終了時に精神力減少5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 자신의 정신력 5 회복\n히스클리프에게 합 패배 시 정신력 감소 10, 다음 턴에 [Binding] 2를 얻음. (턴 당 1회)\n한 턴 동안 히스클리프에게 공격을 적중하지 못했으면, 턴 종료 시 정신력 감소 5\nEN:\nClash Win: Heal 5 SP on self\nClash Lose against Heathcliff: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit against Heathcliff this turn, lose 5 SP at Turn End"
+  },
+  {
+    "key": "9101606-name",
+    "original": "傲気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傲気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오기\nEN:\nVying Spirit"
+  },
+  {
+    "key": "9101606-desc",
+    "original": "自分の体力が低くなるほど、防御レベルが増加\n(自分の失った体力10％につき、防御レベル +1, 小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の体力が低くなるほど、防御レベルが増加\n(自分の失った体力10％につき、防御レベル +1, 小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 체력이 낮아질수록 방어 레벨 증가\n(자신의 잃은 체력 10% 당 방어 레벨 +1. 소수점 버림)\nEN:\nThe lower this unit's HP gets, the higher this unit's Defense Level gets\nDefense Level +1 for every 10% missing HP on self (rounded down)"
+  },
+  {
+    "key": "821601-name",
+    "original": "破綻のワイルドハント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破綻のワイルドハント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파탄의 와일드헌트\nEN:\nWild Hunt of Desolation"
+  },
+  {
+    "key": "821601-desc",
+    "original": "体力が1になると死亡せず、体力が1に維持される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が1になると死亡せず、体力が1に維持される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 1이 되면, 사망하지 않고 체력이 1로 유지된다.\nEN:\nCannot be defeated at 0 HP. HP does not drop below 1."
+  },
+  {
+    "key": "817401-name",
+    "original": "別の人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "別の人格\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n또 다른 인격\nEN:\nA Distant Identity"
+  },
+  {
+    "key": "817401-desc",
+    "original": "ターン終了時、両手の体力が1になると行動不能状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、両手の体力が1になると行動不能状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 양손의 체력이 1이 되면, 행동 불가 상태가 된다.\nEN:\nTurn End: If both Hands are at 1 HP, become Immobilized."
+  },
+  {
+    "key": "817402-name",
+    "original": "冷たい身体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "冷たい身体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싸늘한 몸\nEN:\nCold Body"
+  },
+  {
+    "key": "817402-desc",
+    "original": "体力が1未満に下がらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が1未満に下がらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 1 미만으로 감소하지 않는다.\nEN:\nHP does not drop below 1."
+  },
+  {
+    "key": "817403-name",
+    "original": "揺れる自我\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揺れる自我\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흔들리는 자아\nEN:\nA Shaky Ego"
+  },
+  {
+    "key": "817403-desc",
+    "original": "ターン終了時、両手の体力が1になると次のターンにバリアを得る。\nバリアを全て除去すると、行動不能状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、両手の体力が1になると次のターンにバリアを得る。\nバリアを全て除去すると、行動不能状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 양손의 체력이 1이 되면, 다음 턴에 보호막을 얻는다.\n보호막을 전부 제거하면, 행동 불가 상태가 된다.\nEN:\nTurn End: If both Hands are at 1 HP, gain Shield next turn.\nOnce the Shield is fully depleted, become Immobilized."
+  },
+  {
+    "key": "819201-name",
+    "original": "不幸を断ち切る手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不幸を断ち切る手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불행을 끊는 손\nEN:\nMisery-severing Hand"
+  },
+  {
+    "key": "819201-desc",
+    "original": "体力が1になったターンの次のターンが終了時、他の手の体力が2以上なら、その手の残体力の50％だけ自分の体力を回復する。(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が1になったターンの次のターンが終了時、他の手の体力が2以上なら、その手の残体力の50％だけ自分の体力を回復する。(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 1이 된 턴의 다음 턴 종료 시 다른 손의 체력이 2 이상이면, 해당 손의 현재 체력의 50%만큼 자신의 체력을 회복한다. (소수점 버림)\nEN:\nIf the other Hand is at 2+ HP at the next Turn End after the turn in which this Hand reaches 1 HP, this unit heals HP equal to 50% of the other Hand's HP. (rounded down)"
+  },
+  {
+    "key": "821401-name",
+    "original": "深い喪失\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深い喪失\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깊은 상실\nEN:\nDeep Bereavement"
+  },
+  {
+    "key": "821401-desc",
+    "original": "体力が1の間は混乱状態になり、体力が1未満に減少しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が1の間は混乱状態になり、体力が1未満に減少しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 1인 동안 흐트러짐 상태가 되고, 체력이 1 미만으로 감소하지 않는다.\nEN:\nBecome Staggered as long as this unit's HP is at 1. The HP does not drop below 1."
+  },
+  {
+    "key": "817404-name",
+    "original": "引き裂かれた心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "引き裂かれた心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찢긴 마음\nEN:\nBroken Heart"
+  },
+  {
+    "key": "817404-desc",
+    "original": "ターン開始時に体力が2以上の手があるなら、[Protection]10を得て全耐性が0.2に変更される。\nターン開始時に両手の体力が1なら、[Protection]が解除されて耐性が本来の値に戻る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に体力が2以上の手があるなら、[Protection]10を得て全耐性が0.2に変更される。\nターン開始時に両手の体力が1なら、[Protection]が解除されて耐性が本来の値に戻る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력이 2 이상인 손이 있으면, [Protection] 10을 얻고, 모든 내성이 0.2로 변경된다.\n턴 시작 시 양손의 체력이 1이면, [Protection]가 해제되고, 내성이 원래 값으로 돌아온다.\nEN:\nTurn Start: If there is a Hand with 2+ HP, gain 10 [Protection], and all Resistance values become 0.2.\nTurn Start: If both Hands are at 1 HP, [Protection] expires, and all Resistance values revert to default values."
+  },
+  {
+    "key": "817405-name",
+    "original": "全てのヒースクリフのために\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全てのヒースクリフのために\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 히스클리프를 위하여\nEN:\nFor Every Heathcliff"
+  },
+  {
+    "key": "817405-desc",
+    "original": "ヒースクリフとマッチ進行時にマッチ威力 -3, ヒースクリフへの与ダメージ量 -50％\nヒースクリフが死亡すると戦闘にて敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフとマッチ進行時にマッチ威力 -3, ヒースクリフへの与ダメージ量 -50％\nヒースクリフが死亡すると戦闘にて敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프와 합 진행 시 합 위력 -3, 히스클리프에게 가하는 피해량 -50%\n히스클리프가 사망하면 전투 패배\nEN:\nWhen Clashing against Heathcliff, Clash Power -3 and deal -50% damage against Heathcliff\nWins Encounter if Heathcliff dies"
+  },
+  {
+    "key": "816408-name",
+    "original": "復讐の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復讐の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복수의 시간\nEN:\nMoment of Vengeance"
+  },
+  {
+    "key": "816408-desc",
+    "original": "マッチ勝利時、自分の精神力を5回復\nマッチ敗北時に精神力減少10、次のターンに[Binding]2を得る。(1ターンにつき1回)\n1ターンの間攻撃を的中できなかった場合、ターン終了時に精神力減少5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、自分の精神力を5回復\nマッチ敗北時に精神力減少10、次のターンに[Binding]2を得る。(1ターンにつき1回)\n1ターンの間攻撃を的中できなかった場合、ターン終了時に精神力減少5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 자신의 정신력 5 회복\n합 패배 시 정신력 감소 10, 다음 턴에 [Binding] 2를 얻음. (턴 당 1회)\n한 턴 동안 공격을 적중하지 못했으면, 턴 종료 시 정신력 감소 5\nEN:\nClash Win: Heal 5 SP on self\nClash Lose: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit this turn, lose 5 SP at Turn End"
+  },
+  {
+    "key": "9101607-name",
+    "original": "退却不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "退却不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퇴각 불가\nEN:\nCannot Retreat"
+  },
+  {
+    "key": "9101607-desc",
+    "original": "今回の戦闘の間、ヒースクリフ人格の退却関連機能が作動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回の戦闘の間、ヒースクリフ人格の退却関連機能が作動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 전투동안 히스클리프 인격의 퇴각 관련 기능이 작동하지 않음.\nEN:\nFor the duration of this Encounter, Retreat functions will not activate for Heathcliff Identities."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "1-content",
+    "original": "{0}ターン以内にクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}ターン以内にクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}턴 이내 클리어\nEN:\nClear within {0} turns"
+  },
+  {
+    "key": "2-content",
+    "original": "ダンジョンボス制圧完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダンジョンボス制圧完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n던전 보스 제압 완료\nEN:\nSuppress the Dungeon Boss"
+  },
+  {
+    "key": "3-content",
+    "original": "ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 클리어\nEN:\nClear Stage"
+  },
+  {
+    "key": "40000-content",
+    "original": "全味方の体力が50%以上残った状態でクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方の体力が50%以上残った状態でクリア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군의 체력이 50% 이상 남은 상태로 클리어하기\nEN:\nClear Encounter with all allies at 50%+ HP"
+  },
+  {
+    "key": "50000-content",
+    "original": "大罪を制限されたターン内に討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大罪を制限されたターン内に討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄종을 제한된 턴 안에 처리하기\nEN:\nDefeat the Peccatula within the turn limit"
+  },
+  {
+    "key": "60000-content",
+    "original": "敵を自爆させずに討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵を自爆させずに討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적을 자폭하지 못하도록 처리하기\nEN:\nDefeat the enemies before they self-detonate"
+  },
+  {
+    "key": "70000-content",
+    "original": "戦闘の間、人格が10回以上ダメージを受けない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘の間、人格が10回以上ダメージを受けない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투를 진행하는 동안 인격이 10회 이상 피격당하지 않기\nEN:\nDo not take 10+ hits during the Encounter for each Identity"
+  },
+  {
+    "key": "80000-content",
+    "original": "各々が自分の姿をした大罪を1回討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "各々が自分の姿をした大罪を1回討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각자 자신의 모습을 한 죄종 1회 처치\nEN:\nEach unit defeats the Peccatulum that has taken their shape once"
+  }
+]

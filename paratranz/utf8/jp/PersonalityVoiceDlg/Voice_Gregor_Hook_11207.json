@@ -1,0 +1,338 @@
+[
+  {
+    "key": "get_11207_1-desc",
+    "original": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 획득\nEN:\nIdentity Acquisition"
+  },
+  {
+    "key": "get_11207_1-dlg",
+    "original": "ふぅ…あぁ、俺が双鉤海賊団副船長、グレゴールだ。サインでもしてやろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふぅ…あぁ、俺が双鉤海賊団副船長、グレゴールだ。サインでもしてやろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸하… 그래, 내가 쌍갈고리 해적단 부선장, 그레고르다. 사인이라도 해줘?\nEN:\nHooh... Yeah, that's me. The first mate of the Twinhook Pirates. What, want an autograph?"
+  },
+  {
+    "key": "lobby_morning_11207_1-desc",
+    "original": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아침 인사\nEN:\nMorning Greeting"
+  },
+  {
+    "key": "lobby_morning_11207_1-dlg",
+    "original": "お～グッモーニン。あぁ、話はちょっと後でしようか。お～い、今日の副業の回り具合を報告報告してくれって～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お～グッモーニン。あぁ、話はちょっと後でしようか。お～い、今日の副業の回り具合を報告してくれって～。\n<CMT_KR>오식: \"お～グッモーニン。あぁ、話はちょっと後でしようか。お～い、今日の副業の回り具合を報告「報告」してくれって～。\" 정확: \"お～い、今日の副業の回り具合を報告「」してくれって～。\"\n<CMT_EN>Typo: \"お～グッモーニン。あぁ、話はちょっと後でしようか。お～い、今日の副業の回り具合を報告「報告」してくれって～。\" Correction: \"お～い、今日の副業の回り具合を報告「」してくれって～。\"\n<CMT_JP>誤植: \"お～グッモーニン。あぁ、話はちょっと後でしようか。お～い、今日の副業の回り具合を報告「報告」してくれって～。\" 訂正後: \"お～い、今日の副業の回り具合を報告「」してくれって～。\"",
+    "stage": 1,
+    "context": "KR:\n어~ 굿모닝. 아, 얘기는 조금 이따 하자. 야~ 오늘 부업들 돌아가는 것 보고들 좀 해봐라~\nEN:\nHey~ Good morning. Oh, talk'll have to wait.\nRight, lads! I want a report! How are our 'side jobs' doing~?"
+  },
+  {
+    "key": "lobby_noon_11207_1-desc",
+    "original": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점심 인사\nEN:\nAfternoon Greeting"
+  },
+  {
+    "key": "lobby_noon_11207_1-dlg",
+    "original": "船の上でのんびり昼メシを食ってたりしないさ。腹が減ったときが食べ時だ。\nもちろん、許可なく食料倉庫を漁るやつはそのままマストに縛らないと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "船の上でのんびり昼メシを食ってたりしないさ。腹が減ったときが食べ時だ。\nもちろん、許可なく食料倉庫を漁るやつはそのままマストに縛らないと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배 위에서 한가롭게 점심을 챙기고 그러진 않지. 배가 고프다 싶으면 적당히 그 때가 밥 먹을 때인 거야.\n물론, 허락없이 식량창고를 뒤지는 놈은 그대로 돛대에 묶여야지.\nEN:\nLunch? On a ship? Lunch ain't a thing in the life of a sailorman, friend. Just eat when you're starting to feel peckish.\nIf you steal from our food storage, though... Now that's asking to get tied to the mast."
+  },
+  {
+    "key": "lobby_night_11207_1-desc",
+    "original": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저녁 인사\nEN:\nEvening Greeting"
+  },
+  {
+    "key": "lobby_night_11207_1-dlg",
+    "original": "夜か、外で一杯やりに行きたいんだが…フックの野郎が全く戻ってこねぇんだ、チッ。席を外したくても外せねぇよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夜か、外で一杯やりに行きたいんだが…フックの野郎が全く戻ってこねぇんだ、チッ。席を外したくても外せねぇよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n밤도 됐겠다, 나가서 술이나 한 잔 하고 싶은데… 후크 이 놈이 도통 돌아와야지, 쯧. 자리를 비우고 싶어도 비울 수가 없네.\nEN:\nIt's getting late... And I can feel the call of alcohol from outside. Hook, you bastard. Where the hell are you? I'd love to get out for a bit, but I've got responsibilities."
+  },
+  {
+    "key": "smalltalk_11207_1-desc",
+    "original": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 1\nEN:\nChatter #1"
+  },
+  {
+    "key": "smalltalk_11207_1-dlg",
+    "original": "人魚香水はそんなカネにならねぇ。結局あれこれ手広くやればカネが入ってくるもんだ。情報であれ、鯨であれ、…人間でもな！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人魚香水はそんなカネにならねぇ。結局あれこれ手広くやればカネが入ってくるもんだ。情報であれ、鯨であれ、…人間でもな！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인어 향수는 그렇게 돈이 안돼. 결국 이것 저것 손을 벌려야만 돈이 들어오는 법이거든. 정보든, 고래기름이든, …사람이든!\nEN:\nMermaid Perfume ain't such a lucrative venture. Gotta branch out like a kraken. Intel, Whale oil, or even people!"
+  },
+  {
+    "key": "smalltalk_11207_2-desc",
+    "original": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 2\nEN:\nChatter #2"
+  },
+  {
+    "key": "smalltalk_11207_2-dlg",
+    "original": "俺らがあちこちほじくり回してるって？まぁ、海賊なら当然じゃないか？…俺たちには心強い後ろ盾もあるんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "俺らがあちこちほじくり回してるって？まぁ、海賊なら当然じゃないか？…俺たちには心強い後ろ盾もあるんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리가 여기 저기 들쑤시고 다니는 거? 뭐, 해적이라면 당연한 거 아닌가? …우리는 든든한 뒷배도 있다고.\nEN:\nWhat, we're poking too many hornet's nests? Well, that's just the life of a pirate. ... Besides, we've got somebody looking out for us."
+  },
+  {
+    "key": "smalltalk_11207_3-desc",
+    "original": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 3\nEN:\nChatter #3"
+  },
+  {
+    "key": "smalltalk_11207_3-dlg",
+    "original": "おぅ、待った待った。人質だなんて、言い方がキツいなぁ～。俺たちの事業に大事なゲストを迎えただけだって。少し荒っぽく扱ってるだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おぅ、待った待った。人質だなんて、言い方がキツいなぁ～。俺たちの事業に大事なゲストを迎えただけだって。少し荒っぽく扱ってるだけだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어우, 잠깐 잠깐. 인질이라니, 말이 조금 험하네~ 우리 사업에 중요한 손님을 모신 것 뿐이라고. 조금 터프하게 대하는 거 뿐이야.\nEN:\nHey, wait up. Wait up. Hostages? A bit crude to call them that, nah? We're just having... very important guests over for business. And we're just putting up some of that tough guy act."
+  },
+  {
+    "key": "smalltalk_11207_4-desc",
+    "original": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 1\nEN:\nPost-Uptie Chat 1"
+  },
+  {
+    "key": "smalltalk_11207_4-dlg",
+    "original": "あ、そうだそうだ。これは脅迫だ。今俺たちに付いてこねぇなら、ドタマに風穴が空くからな？いやいや、弾丸は高いからこのこのフックで空けてやる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ、そうだそうだ。これは脅迫だ。今俺たちに付いてこねぇなら、ドタマに風穴が空くからな？いやいや、弾丸は高いからこのフックで空けてやる。\n<CMT_KR>오식: \"いやいや、弾丸は高いからこの「この」フックで空けてやる。\" 정확: \"いやいや、弾丸は高いからこの「」フックで空けてやる。\"\n<CMT_EN>Typo: \"いやいや、弾丸は高いからこの「この」フックで空けてやる。\" Correction: \"いやいや、弾丸は高いからこの「」フックで空けてやる。\"\n<CMT_JP>誤植: \"いやいや、弾丸は高いからこの「この」フックで空けてやる。\" 訂正後: \"いやいや、弾丸は高いからこの「」フックで空けてやる。\"",
+    "stage": 1,
+    "context": "KR:\n어, 맞아 맞아. 이건 협박이야. 지금 우리들하고 따라가지 않으면 머리통에 바람구멍이 뚫릴 거라니까? 아니 아니, 총알은 비싸니까 이 갈고리로 뚫지.\nEN:\nUh huh. Yep yep. This is a threat. Come with us, or I'll give your skull a new hole to breathe out of. No, I'm not gonna shoot you. Bullets are pricey, y'know. Instead... lemme introduce you to my hook right here."
+  },
+  {
+    "key": "smalltalk_11207_5-desc",
+    "original": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 2\nEN:\nPost-Uptie Chat 2"
+  },
+  {
+    "key": "smalltalk_11207_5-dlg",
+    "original": "コンテナに少しの間入ってるんだ、ちょ～っとだけな、チッ！何でもうそんなに震えてるんだ？どうせ入ったら寒くて沢山震えるだろうに、体力を無駄遣いするなよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コンテナに少しの間入ってるんだ、ちょ～っとだけな、チッ！何でもうそんなに震えてるんだ？どうせ入ったら寒くて沢山震えるだろうに、体力を無駄遣いするなよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n컨테이너에 잠깐 들어가 있는 거야, 잠깐~ 습! 벌써부터 왜 이렇게 떨어? 어차피 들어가면 추워서 많이 떨건데, 먼저 힘 빼지 말구~\nEN:\nNow just go in ahead and rest up in that shipping container, 'kay?\nWait~ Tsk tsk! Why are you shuddering? You'll have plenty of time for that once we get you situated nicely in that cold storage. Don't waste your strength now~"
+  },
+  {
+    "key": "neglect_11207_1-desc",
+    "original": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방치\nEN:\nIdle"
+  },
+  {
+    "key": "neglect_11207_1-dlg",
+    "original": "ふぅ～港船でぼーっとくだらねぇ仕事しながら待機してると、フックと一緒に湖へ船を浮かべたときが恋しくなるなぁ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふぅ～港船でぼーっとくだらねぇ仕事しながら待機してると、フックと一緒に湖へ船を浮かべたときが恋しくなるなぁ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후~ 항구선에서 멍하니 시덥지 않은 일하면서 대기하고 있다보면, 후크랑 호수에서 배를 털 때가 그리워지네…\nEN:\nSigh~ Doin' this kinda boring desk job on a portship... Makes me miss the days Hook and I used to sail the high Lakes, looting treasures, ships..."
+  },
+  {
+    "key": "gacksung_11207_1-desc",
+    "original": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 진행\nEN:\nUptying"
+  },
+  {
+    "key": "gacksung_11207_1-dlg",
+    "original": "合併したいって？う～ん。そうか、まぁ。お前も色々とサイズが合うみたいだしな。どれ、上手くやっていこうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "合併したいって？う～ん。そうか、まぁ。お前も色々とサイズが合うみたいだしな。どれ、上手くやっていこうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동업하고 싶다고? 음~ 그래, 뭐. 너도 사이즈가 되는 것 같기도 하고. 어디, 잘 해보자고.\nEN:\nYou wanna work together? Hmm~ Well, sure. I think you'll do. Well, then... let's make this work."
+  },
+  {
+    "key": "formation_11207_1-desc",
+    "original": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 편성\nEN:\nDeployment"
+  },
+  {
+    "key": "formation_11207_1-dlg",
+    "original": "副船長が必要か？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "副船長が必要か？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부선장이 필요한가?\nEN:\nNeed a first mate?"
+  },
+  {
+    "key": "battleentry_11207_1-desc",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nStage Entry"
+  },
+  {
+    "key": "battleentry_11207_1-dlg",
+    "original": "直接手ほどきしてやろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "直接手ほどきしてやろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n직접 손 봐주지.\nEN:\nFine, I'll do it myself."
+  },
+  {
+    "key": "battle_select_11207_1-desc",
+    "original": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 인격 선택\nEN:\nViewed in Battle"
+  },
+  {
+    "key": "battle_select_11207_1-dlg",
+    "original": "忙しいんだ、下の奴らに言ってくれ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "忙しいんだ、下の奴らに言ってくれ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바빠, 밑에 애들한테 말해.\nEN:\nI'm busy. Go bother one of my underlings."
+  },
+  {
+    "key": "battle_endcommand_11207_1-desc",
+    "original": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 시작\nEN:\nCommencing Attack"
+  },
+  {
+    "key": "battle_endcommand_11207_1-dlg",
+    "original": "風穴を空けてやる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "風穴を空けてやる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바람 구멍을 내주지.\nEN:\nI'll poke you a new breathing hole."
+  },
+  {
+    "key": "battle_enemy_break_11207_1-desc",
+    "original": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 흐트러질 시 대사\nEN:\nEnemy Stagger"
+  },
+  {
+    "key": "battle_enemy_break_11207_1-dlg",
+    "original": "まるで引き裂かれた旗みたいにふらふらだな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まるで引き裂かれた旗みたいにふらふらだな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꼭 찢어진 돛같이 흐느적거리는구만.\nEN:\nFlapping like a torn sail, huh?"
+  },
+  {
+    "key": "battle_break_11207_1-desc",
+    "original": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러질 시 대사\nEN:\nStaggered"
+  },
+  {
+    "key": "battle_break_11207_1-dlg",
+    "original": "なっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭣…\nEN:\nWhat..."
+  },
+  {
+    "key": "battle_kill_11207_1-desc",
+    "original": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치\nEN:\nEnemy Killed"
+  },
+  {
+    "key": "battle_kill_11207_1-dlg",
+    "original": "へっ、どうってこと無かったか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "へっ、どうってこと無かったか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헹, 별 것도 아니네.\nEN:\nHeh, that was nothing."
+  },
+  {
+    "key": "battle_dead_11207_1-desc",
+    "original": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본인 사망\nEN:\nDeath"
+  },
+  {
+    "key": "battle_dead_11207_1-dlg",
+    "original": "お、俺が…死ぬわけ…。な、中指に…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お、俺が…死ぬわけ…。な、中指に…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내, 내가… 죽을 리가… 주, 중지에게…\nEN:\nI-I can't die like this... The M-Middle will..."
+  },
+  {
+    "key": "choice_success_p_11207_2-desc",
+    "original": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 성공\nEN:\nCheck Passed"
+  },
+  {
+    "key": "choice_success_p_11207_2-dlg",
+    "original": "ふん、宝箱の鍵を開けるのがもっと難しいだろうよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふん、宝箱の鍵を開けるのがもっと難しいだろうよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흥, 보물상자 열쇠 따는 게 더 어렵겠어.\nEN:\nHeh, easier than picking open a treasure chest."
+  },
+  {
+    "key": "choice_fail_n_11207_1-desc",
+    "original": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 실패\nEN:\nCheck Failed"
+  },
+  {
+    "key": "choice_fail_n_11207_1-dlg",
+    "original": "俺は警告したぞ、こんなの上手くやれないって。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "俺は警告したぞ、こんなの上手くやれないって。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나는 경고했어, 이런 거 잘 못한다고.\nEN:\nWhat'd I say? I'm not good with this kinda thing."
+  },
+  {
+    "key": "battle_clear_11207_1-desc",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "battle_clear_11207_1-dlg",
+    "original": "ビジネス成功だ。何人かはゲストに持って帰ろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ビジネス成功だ。何人かはゲストに持って帰ろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성공적인 비즈니스였지. 몇몇은 손님으로 들이자고.\nEN:\nAnother day, another profitable business. Let's take some of 'em as our guests."
+  },
+  {
+    "key": "battle_clear_ex_11207_1-desc",
+    "original": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nEX CLEAR 전투 승리\nEN:\nExtra Conditions Fulfilled"
+  },
+  {
+    "key": "battle_clear_ex_11207_1-dlg",
+    "original": "きれいさっぱり片付けちまったか…。これじゃカネ入りが良くないんだがなぁ。ふむ、こいつらの財布でも見てくか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "きれいさっぱり片付けちまったか…。これじゃカネ入りが良くないんだがなぁ。ふむ、こいつらの財布でも見てくか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싹 다 정리해버렸네… 이러면 돈이 덜 나오는데. 흠, 이놈들 지갑 좀 볼까?\nEN:\nWell, we wiped the floor with them. That doesn't leave much for our... 'business'. Hm, let's check their wallets and see what they've got."
+  },
+  {
+    "key": "battle_defeat_11207_1-desc",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
+  },
+  {
+    "key": "battle_defeat_11207_1-dlg",
+    "original": "はぁ…全部覚えた。顔、名前…末姉がお出ましなったら、テメェらは一巻の終わりだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はぁ…全部覚えた。顔、名前…末姉がお出ましになったら、テメェらは一巻の終わりだ。\n<CMT_KR>오식: \"はぁ…全部覚えた。顔、名前…末姉がお出まし「」なったら、テメェらは一巻の終わりだ。\" 정확: \"はぁ…全部覚えた。顔、名前…末姉がお出まし「に」なったら、テメェらは一巻の終わりだ。\"\n<CMT_EN>Typo: \"はぁ…全部覚えた。顔、名前…末姉がお出まし「」なったら、テメェらは一巻の終わりだ。\" Correction: \"はぁ…全部覚えた。顔、名前…末姉がお出まし「に」なったら、テメェらは一巻の終わりだ。\"\n<CMT_JP>誤植: \"はぁ…全部覚えた。顔、名前…末姉がお出まし「」なったら、テメェらは一巻の終わりだ。\" 訂正後: \"はぁ…全部覚えた。顔、名前…末姉がお出まし「に」なったら、テメェらは一巻の終わりだ。\"",
+    "stage": 1,
+    "context": "KR:\n하… 전부 기억했어. 얼굴, 이름… 작은 누님이 나서면, 너희는 끝장이야.\nEN:\nHaah... I got your faces and names... Once the Big Sister gets here, you're finished. All of you."
+  }
+]

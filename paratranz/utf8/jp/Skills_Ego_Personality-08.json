@@ -1,0 +1,1395 @@
+[
+  {
+    "key": "2080511-levelList[0].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "2080511-levelList[0].abName",
+    "original": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈먹는 탁류\nEN:\nDream-Devouring Siltcurrent"
+  },
+  {
+    "key": "2080511-levelList[0].desc",
+    "original": "[EndSkill] 精神力の最も低い味方4名の精神力が15回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 精神力の最も低い味方4名の精神力が15回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 정신력이 가장 낮은 아군 4명의 정신력 15 회복\nEN:\n[EndSkill] Heal 15 SP for 4 allies with the least SP"
+  },
+  {
+    "key": "2080511-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 自分の充電 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 自分の充電 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 자신의 충전 횟수 3 증가\nEN:\n[OnSucceedAttackHead] Gain +3 Charge Count"
+  },
+  {
+    "key": "2080511-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな味方1名に呼吸 回数1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな味方1名に呼吸 回数1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 아군 1명에게 호흡 횟수 1 부여\nEN:\n[OnSucceedAttack] Give +1 Poise Count to 1 random ally"
+  },
+  {
+    "key": "2080511-levelList[1].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "2080511-levelList[1].abName",
+    "original": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈먹는 탁류\nEN:\nDream-Devouring Siltcurrent"
+  },
+  {
+    "key": "2080511-levelList[1].desc",
+    "original": "[EndSkill] 精神力の最も低い味方4名の精神力が20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 精神力の最も低い味方4名の精神力が20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 정신력이 가장 낮은 아군 4명의 정신력 20 회복\nEN:\n[EndSkill] Heal 20 SP for 4 allies with the least SP"
+  },
+  {
+    "key": "2080511-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 自分の充電 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 自分の充電 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 자신의 충전 횟수 4 증가\nEN:\n[OnSucceedAttackHead] Gain +4 Charge Count"
+  },
+  {
+    "key": "2080511-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな味方1名に呼吸 回数1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな味方1名に呼吸 回数1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 아군 1명에게 호흡 횟수 1 부여\nEN:\n[OnSucceedAttack] Give +1 Poise Count to 1 random ally"
+  },
+  {
+    "key": "2080511-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkillHead] 精神力が最も高い味方4名へ[PenetrateResultUp]1, [AttackDmgUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkillHead] 精神力が最も高い味方4名へ[PenetrateResultUp]1, [AttackDmgUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkillHead] 정신력이 가장 높은 아군 4명에게 [PenetrateResultUp] 1, [AttackDmgUp] 1 부여\nEN:\n[EndSkillHead] Apply 1 [PenetrateResultUp] and 1 [AttackDmgUp] to 4 allies with the highest SP"
+  },
+  {
+    "key": "2080511-levelList[2].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "2080511-levelList[2].abName",
+    "original": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈먹는 탁류\nEN:\nDream-Devouring Siltcurrent"
+  },
+  {
+    "key": "2080511-levelList[2].desc",
+    "original": "[EndSkill] 精神力の最も低い味方4名の精神力が25回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 精神力の最も低い味方4名の精神力が25回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 정신력이 가장 낮은 아군 4명의 정신력 25 회복\nEN:\n[EndSkill] Heal 25 SP for 4 allies with the least SP"
+  },
+  {
+    "key": "2080511-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の充電 回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の充電 回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 충전 횟수 6 증가\nEN:\n[OnSucceedAttack] Gain +6 Charge Count"
+  },
+  {
+    "key": "2080511-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな味方1名に呼吸 回数2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな味方1名に呼吸 回数2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 아군 1명에게 호흡 횟수 2 부여\nEN:\n[OnSucceedAttack] Give +2 Poise Count to 1 random ally"
+  },
+  {
+    "key": "2080511-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[EndSkill] 精神力が最も高い味方4名へ[PenetrateResultUp]2, [AttackDmgUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 精神力が最も高い味方4名へ[PenetrateResultUp]2, [AttackDmgUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 정신력이 가장 높은 아군 4명에게 [PenetrateResultUp] 2, [AttackDmgUp] 2 부여\nEN:\n[EndSkill] Apply 2 [PenetrateResultUp] and 2 [AttackDmgUp] to 4 allies with the highest SP"
+  },
+  {
+    "key": "2080521-levelList[0].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "2080521-levelList[0].abName",
+    "original": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈먹는 탁류\nEN:\nDream-Devouring Siltcurrent"
+  },
+  {
+    "key": "2080521-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
+  },
+  {
+    "key": "2080521-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の呼吸 が1, 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の呼吸 が1, 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 호흡 1, 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain 1 Poise and +1 Poise Count"
+  },
+  {
+    "key": "2080521-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 今回と次のターンに傲慢脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 今回と次のターンに傲慢脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 이번 턴과 다음 턴에 오만 취약 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Pride Fragility this turn and next turn"
+  },
+  {
+    "key": "2080521-levelList[1].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "2080521-levelList[1].abName",
+    "original": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈먹는 탁류\nEN:\nDream-Devouring Siltcurrent"
+  },
+  {
+    "key": "2080521-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
+  },
+  {
+    "key": "2080521-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 自分の体力を最大値の3%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 自分の体力を最大値の3%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 자신의 체력을 최대 체력의 3% 만큼 회복\nEN:\n[OnSucceedAttackTail] Heal 3% of Max HP on self"
+  },
+  {
+    "key": "2080521-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の呼吸 が1, 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の呼吸 が1, 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 호흡 1, 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain 1 Poise and +1 Poise Count"
+  },
+  {
+    "key": "2080521-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 今回と次のターンに傲慢脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 今回と次のターンに傲慢脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 이번 턴과 다음 턴에 오만 취약 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Pride Fragility this turn and next turn"
+  },
+  {
+    "key": "2080521-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "[EndSkillTail] 精神力が最も低い味方4名へ、今回と次のターンにてダメージ量増加 2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkillTail] 精神力が最も低い味方4名へ、今回と次のターンにてダメージ量増加 2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkillTail] 정신력이 가장 낮은 아군 4명에게 이번 턴과 다음 턴에 피해량 증가 2 부여\nEN:\n[EndSkillTail] Apply 2 Damage Up this turn and next turn to 4 allies with the least SP"
+  },
+  {
+    "key": "2080521-levelList[2].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "2080521-levelList[2].abName",
+    "original": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢貪る濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈먹는 탁류\nEN:\nDream-Devouring Siltcurrent"
+  },
+  {
+    "key": "2080521-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
+  },
+  {
+    "key": "2080521-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力を最大値の3%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力を最大値の3%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 최대 체력의 3% 만큼 회복\nEN:\n[OnSucceedAttack] Heal 3% of Max HP on self"
+  },
+  {
+    "key": "2080521-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の呼吸 が1, 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の呼吸 が1, 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 호흡 1, 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain 1 Poise and +1 Poise Count"
+  },
+  {
+    "key": "2080521-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 今回と次のターンに傲慢脆弱 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 今回と次のターンに傲慢脆弱 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 이번 턴과 다음 턴에 오만 취약 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Pride Fragility this turn and next turn"
+  },
+  {
+    "key": "2080521-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "[EndSkill] 精神力が最も低い味方4名へ、今回と次のターンにてダメージ量増加 2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 精神力が最も低い味方4名へ、今回と次のターンにてダメージ量増加 2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 정신력이 가장 낮은 아군 4명에게 이번 턴과 다음 턴에 피해량 증가 2 부여\nEN:\n[EndSkill] Apply 2 Damage Up this turn and next turn to 4 allies with the least SP"
+  },
+  {
+    "key": "2080611-levelList[0].name",
+    "original": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날갯짓\nEN:\nWingbeat"
+  },
+  {
+    "key": "2080611-levelList[0].abName",
+    "original": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정의 축제\nEN:\nFairy Festival"
+  },
+  {
+    "key": "2080611-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力を最大値の15%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力を最大値の15%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 최대 체력의 15%만큼 회복\nEN:\n[OnSucceedAttack] Heal 15% of Max HP on self"
+  },
+  {
+    "key": "2080611-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 精神力が1～2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 精神力が1～2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 정신력 1 ~ 2 감소\nEN:\n[OnSucceedAttackHead] Lose 1~2 SP"
+  },
+  {
+    "key": "2080611-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 이 코인 재사용 (스킬당 최대 5회)\nEN:\n[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)"
+  },
+  {
+    "key": "2080611-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の体力をダメージ量の4～8%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力をダメージ量の4～8%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 피해량의 4 ~ 8%만큼 회복\nEN:\n[OnSucceedAttack] Heal self by 4~8% of damage dealt"
+  },
+  {
+    "key": "2080611-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ShamrockTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]"
+  },
+  {
+    "key": "2080611-levelList[0].coinlist[1].coindescs[4].desc",
+    "original": "[OnSucceedAttack] [Laceration]1～3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]1～3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 1 ~ 3 부여\nEN:\n[OnSucceedAttack] Inflict 1~3 [Laceration]"
+  },
+  {
+    "key": "2080611-levelList[1].name",
+    "original": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날갯짓\nEN:\nWingbeat"
+  },
+  {
+    "key": "2080611-levelList[1].abName",
+    "original": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정의 축제\nEN:\nFairy Festival"
+  },
+  {
+    "key": "2080611-levelList[1].desc",
+    "original": "このスキル効果で自分の体力上限を超えて回復した場合、超えた回復量だけ現体力の比率が最も低い味方1名の体力を回復する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキル効果で自分の体力上限を超えて回復した場合、超えた回復量だけ現体力の比率が最も低い味方1名の体力を回復する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬의 효과로 자신의 체력을 초과하여 회복한 경우, 초과한 회복량만큼 체력 비율이 가장 낮은 아군 1명의 체력을 대신 회복\nEN:\nIf this Skill's healing exceeds this unit's max HP, redirect the excess healing to 1 ally with the least HP percentage instead"
+  },
+  {
+    "key": "2080611-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力を最大値の<style=\"highlight\">18</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力を最大値の<style=\"highlight\">18</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 최대 체력의 &lt;style=\"highlight\"&gt;18&lt;/style&gt;%만큼 회복\nEN:\n[OnSucceedAttack] Heal &lt;style=\"highlight\"&gt;18%&lt;/style&gt; of Max HP on self"
+  },
+  {
+    "key": "2080611-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 精神力が1～2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 精神力が1～2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 정신력 1 ~ 2 감소\nEN:\n[OnSucceedAttackHead] Lose 1~2 SP"
+  },
+  {
+    "key": "2080611-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 이 코인 재사용 (스킬당 최대 5회)\nEN:\n[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)"
+  },
+  {
+    "key": "2080611-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">6～10</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">6～10</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 피해량의 &lt;style=\"highlight\"&gt;6 ~ 10&lt;/style&gt;%만큼 회복\nEN:\n[OnSucceedAttack] Heal self by &lt;style=\"highlight\"&gt;6~10&lt;/style&gt;% of damage dealt"
+  },
+  {
+    "key": "2080611-levelList[1].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ShamrockTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]"
+  },
+  {
+    "key": "2080611-levelList[1].coinlist[1].coindescs[4].desc",
+    "original": "[OnSucceedAttack] [Laceration]1～3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]1～3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 1 ~ 3 부여\nEN:\n[OnSucceedAttack] Inflict 1~3 [Laceration]"
+  },
+  {
+    "key": "2080611-levelList[2].name",
+    "original": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날갯짓\nEN:\nWingbeat"
+  },
+  {
+    "key": "2080611-levelList[2].abName",
+    "original": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정의 축제\nEN:\nFairy Festival"
+  },
+  {
+    "key": "2080611-levelList[2].desc",
+    "original": "このスキル効果で自分の体力上限を超えて回復した場合、超えた回復量だけ現体力の比率が最も低い味方1名の体力を回復する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキル効果で自分の体力上限を超えて回復した場合、超えた回復量だけ現体力の比率が最も低い味方1名の体力を回復する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬의 효과로 자신의 체력을 초과하여 회복한 경우, 초과한 회복량만큼 체력 비율이 가장 낮은 아군 1명의 체력을 대신 회복\nEN:\nIf this Skill's healing exceeds this unit's max HP, redirect the excess healing to 1 ally with the least HP percentage instead"
+  },
+  {
+    "key": "2080611-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力を最大値の<style=\"highlight\">20</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力を最大値の<style=\"highlight\">20</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 최대 체력의 &lt;style=\"highlight\"&gt;20&lt;/style&gt;% 만큼 회복\nEN:\n[OnSucceedAttack] Heal &lt;style=\"highlight\"&gt;20&lt;/style&gt;% of Max HP on self"
+  },
+  {
+    "key": "2080611-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 精神力が1～2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 精神力が1～2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 정신력 1 ~ 2 감소\nEN:\n[OnSucceedAttackHead] Lose 1~2 SP"
+  },
+  {
+    "key": "2080611-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 이 코인 재사용 (스킬당 최대 5회)\nEN:\n[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)"
+  },
+  {
+    "key": "2080611-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">8～12</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力をダメージ量の<style=\"highlight\">8～12</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 피해량의 &lt;style=\"highlight\"&gt;8 ~ 12&lt;/style&gt;%만큼 회복\nEN:\n[OnSucceedAttack] Heal self by &lt;style=\"highlight\"&gt;8~12&lt;/style&gt;% of damage dealt"
+  },
+  {
+    "key": "2080611-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ShamrockTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ShamrockTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]"
+  },
+  {
+    "key": "2080611-levelList[2].coinlist[1].coindescs[4].desc",
+    "original": "[OnSucceedAttack] [Laceration]1～<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]1～<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 1 ~ &lt;style=\"highlight\"&gt;4&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict 1~&lt;style=\"highlight\"&gt;4&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "2080621-levelList[0].name",
+    "original": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날갯짓\nEN:\nWingbeat"
+  },
+  {
+    "key": "2080621-levelList[0].abName",
+    "original": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정의 축제\nEN:\nFairy Festival"
+  },
+  {
+    "key": "2080621-levelList[0].desc",
+    "original": "[CantIdentify]\n本体の体力が最も低い対象を攻撃\n[BeforeAttack] 自分を除いたランダムな味方へ最大5名へ、体力最大値の5%分ダメージ。\n- 味方に与えたダメージの合計だけ、自分の体力を回復。\n- 味方にダメージを与えたなら、このターンに[Enhancement]2, 次のターンに[Agility]2を得る。\n(1ターンにつき1回発動。与ダメージにはバリアを含む。この効果でダメージを受けた味方は死亡し得る。)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n本体の体力が最も低い対象を攻撃\n[BeforeAttack] 自分を除いたランダムな味方最大5名へ、体力最大値の5%分ダメージ。\n- 味方に与えたダメージの合計だけ、自分の体力を回復。\n- 味方にダメージを与えたなら、このターンに[Enhancement]2, 次のターンに[Agility]2を得る。\n(1ターンにつき1回発動。与ダメージにはバリアを含む。この効果でダメージを受けた味方は死亡し得る。)\n<CMT_KR>오식: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" 정확: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"\n<CMT_EN>Typo: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" Correction: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"\n<CMT_JP>誤植: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" 訂正後: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] 자신을 제외한 무작위 아군 최대 5명에게 최대 체력의 5%만큼 체력 피해.\n- 아군에게 입힌 피해의 합만큼 자신의 체력 회복.\n- 아군에게 피해를 주었으면, 이번 턴에 [Enhancement] 2, 다음 턴에 [Agility] 2 얻음.\n(턴 당 1회 발동. 입힌 피해에는 보호막 피해 포함. 이 효과로 피해를 받은 아군이 사망할 수 있음.)\nEN:\n[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] Deal 5% HP damage to at most 5 random other allies\n- Heal HP on self equal to the damage dealt to allies.\n- If this unit dealt damage to an ally, gain 2 [Enhancement] this turn, and gain 2 [Agility] next turn.\n(Once per turn. The 'dealt damage' includes damage dealt to Shield HP. This effect can kill allies.)"
+  },
+  {
+    "key": "2080621-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 自分の体力をダメージ量の10%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 自分の体力をダメージ量の10%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 자신의 체력을 피해량의 10% 만큼 회복\nEN:\n[OnSucceedAttackTail] Heal self by 10% of damage dealt"
+  },
+  {
+    "key": "2080621-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] [Laceration]1～4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Laceration]1～4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Laceration] 1 ~ 4 부여\nEN:\n[OnSucceedAttackTail] Inflict 1~4 [Laceration]"
+  },
+  {
+    "key": "2080621-levelList[1].name",
+    "original": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날갯짓\nEN:\nWingbeat"
+  },
+  {
+    "key": "2080621-levelList[1].abName",
+    "original": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정의 축제\nEN:\nFairy Festival"
+  },
+  {
+    "key": "2080621-levelList[1].desc",
+    "original": "[CantIdentify]\n本体の体力が最も低い対象を攻撃\n<style=\"highlight\">[BeforeAttack] (最も多い共鳴数 -2)だけ攻撃加重値が増加(最大1)</style>\n[BeforeAttack] 自分を除いたランダムな味方へ最大5名へ、体力最大値の5%分ダメージ。\n- 味方に与えたダメージの合計だけ、自分の体力を回復。\n- 味方にダメージを与えたなら、このターンに[Enhancement]2, 次のターンに[Agility]2を得る。\n(1ターンにつき1回発動。与ダメージにはバリアを含む。この効果でダメージを受けた味方は死亡し得る。)\n<style=\"highlight\">[EndSkill] このスキル効果で自分の体力上限を超えて回復した場合、(超えた回復量/自分の体力最大値) × 10だけ次のターンに[AttackUp]を得る。(1ターンの最大増加量: 3)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n本体の体力が最も低い対象を攻撃\n<style=\"highlight\">[BeforeAttack] (最も多い共鳴数 -2)だけ攻撃加重値が増加(最大1)</style>\n[BeforeAttack] 自分を除いたランダムな味方最大5名へ、体力最大値の5%分ダメージ。\n- 味方に与えたダメージの合計だけ、自分の体力を回復。\n- 味方にダメージを与えたなら、このターンに[Enhancement]2, 次のターンに[Agility]2を得る。\n(1ターンにつき1回発動。与ダメージにはバリアを含む。この効果でダメージを受けた味方は死亡し得る。)\n<style=\"highlight\">[EndSkill] このスキル効果で自分の体力上限を超えて回復した場合、(超えた回復量/自分の体力最大値) × 10だけ次のターンに[AttackUp]を得る。(1ターンの最大増加量: 3)</style>\n<CMT_KR>오식: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" 정확: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"\n<CMT_EN>Typo: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" Correction: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"\n<CMT_JP>誤植: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" 訂正後: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n&lt;style=\"highlight\"&gt;[BeforeAttack] (가장 높은 공명 수 -2) 만큼 공격 가중치 증가 (최대 1)&lt;/style&gt;\n[BeforeAttack] 자신을 제외한 무작위 아군 최대 5명에게 최대 체력의 5%만큼 체력 피해.\n- 아군에게 입힌 피해의 합만큼 자신의 체력 회복.\n- 아군에게 피해를 주었으면, 이번 턴에 [Enhancement] 2, 다음 턴에 [Agility] 2 얻음.\n(턴 당 1회 발동. 입힌 피해에는 보호막 피해 포함. 이 효과로 피해를 받은 아군이 사망할 수 있음.)\n&lt;style=\"highlight\"&gt;[EndSkill] 이 스킬의 효과로 자신의 체력을 초과하여 회복한 경우, (초과한 회복량/자신의 최대 체력) x 10만큼 다음 턴에 [AttackUp]를 얻음. (턴 당 최대 증가량: 3)&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets the unit with the least Core HP\n&lt;style=\"highlight\"&gt;[BeforeAttack] Gain (# of highest Reson. -2) Atk Weight (max 1)&lt;/style&gt;\n[BeforeAttack] Deal 5% HP damage to at most 5 random other allies\n- Heal HP on self equal to the damage dealt to allies.\n- If this unit dealt damage to an ally, gain 2 [Enhancement] this turn, and gain 2 [Agility] next turn.\n(Once per turn. The 'dealt damage' includes damage dealt to Shield HP. This effect can kill allies.)\n&lt;style=\"highlight\"&gt;[EndSkill] If this Skill's healing exceeds this unit's max HP, gain (excess heal/max HP) x 10 [AttackUp] next turn. (max 3 per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "2080621-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 自分の体力をダメージ量の<style=\"highlight\">15</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 自分の体力をダメージ量の<style=\"highlight\">15</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 자신의 체력을 피해량의 &lt;style=\"highlight\"&gt;15&lt;/style&gt;% 만큼 회복\nEN:\n[OnSucceedAttackTail] Heal self by &lt;style=\"highlight\"&gt;15&lt;/style&gt;% of damage dealt"
+  },
+  {
+    "key": "2080621-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">2～5</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">2～5</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Laceration] &lt;style=\"highlight\"&gt;2 ~ 5&lt;/style&gt; 부여\nEN:\n[OnSucceedAttackTail] Inflict &lt;style=\"highlight\"&gt;2~5&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "2080621-levelList[2].name",
+    "original": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "羽ばたき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날갯짓\nEN:\nWingbeat"
+  },
+  {
+    "key": "2080621-levelList[2].abName",
+    "original": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の祭典\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정의 축제\nEN:\nFairy Festival"
+  },
+  {
+    "key": "2080621-levelList[2].desc",
+    "original": "[CantIdentify]\n本体の体力が最も低い対象を攻撃\n[BeforeAttack] (最も多い共鳴数 -2)だけ攻撃加重値が増加(最大<style=\"highlight\">2</style>)\n[BeforeAttack] 自分を除いたランダムな味方へ最大5名へ、体力最大値の5%分ダメージ。\n- 味方に与えたダメージの合計だけ、自分の体力を回復。\n- 味方にダメージを与えたなら、このターンに[Enhancement]2, 次のターンに[Agility]2を得る。\n(1ターンにつき1回発動。与ダメージにはバリアを含む。この効果でダメージを受けた味方は死亡し得る。)\n[EndSkill] このスキル効果で自分の体力上限を超えて回復した場合、(超えた回復量/自分の体力最大値) × 10だけ次のターンに[AttackUp]を得る。(1ターンの最大増加量: <style=\"highlight\">6</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n本体の体力が最も低い対象を攻撃\n[BeforeAttack] (最も多い共鳴数 -2)だけ攻撃加重値が増加(最大<style=\"highlight\">2</style>)\n[BeforeAttack] 自分を除いたランダムな味方最大5名へ、体力最大値の5%分ダメージ。\n- 味方に与えたダメージの合計だけ、自分の体力を回復。\n- 味方にダメージを与えたなら、このターンに[Enhancement]2, 次のターンに[Agility]2を得る。\n(1ターンにつき1回発動。与ダメージにはバリアを含む。この効果でダメージを受けた味方は死亡し得る。)\n[EndSkill] このスキル効果で自分の体力上限を超えて回復した場合、(超えた回復量/自分の体力最大値) × 10だけ次のターンに[AttackUp]を得る。(1ターンの最大増加量: <style=\"highlight\">6</style>)\n<CMT_KR>오식: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" 정확: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"\n<CMT_EN>Typo: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" Correction: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"\n<CMT_JP>誤植: \"[BeforeAttack] 自分を除いたランダムな味方「へ」最大5名へ、体力最大値の5%分ダメージ。\" 訂正後: \"[BeforeAttack] 自分を除いたランダムな味方「」最大5名へ、体力最大値の5%分ダメージ。\"",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n본체 체력이 가장 낮은 대상 공격\n[BeforeAttack] (가장 높은 공명 수 -2) 만큼 공격 가중치 증가 (최대 &lt;style=\"highlight\"&gt;2&lt;/style&gt;)\n[BeforeAttack] 자신을 제외한 무작위 아군 최대 5명에게 최대 체력의 5%만큼 체력 피해.\n- 아군에게 입힌 피해의 합만큼 자신의 체력 회복.\n- 아군에게 피해를 주었으면, 이번 턴에 [Enhancement] 2, 다음 턴에 [Agility] 2 얻음.\n(턴 당 1회 발동. 입힌 피해에는 보호막 피해 포함. 이 효과로 피해를 받은 아군이 사망할 수 있음.)\n[EndSkill] 이 스킬의 효과로 자신의 체력을 초과하여 회복한 경우, (초과한 회복량/자신의 최대 체력) x 10만큼 다음 턴에 [AttackUp]를 얻음. (턴 당 최대 증가량: &lt;style=\"highlight\"&gt;6&lt;/style&gt;)\nEN:\n[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] Gain (# of highest Reson. -2) Atk Weight (max &lt;style=\"highlight\"&gt;2&lt;/style&gt;)\n[BeforeAttack] Deal 5% HP damage to at most 5 random other allies\n- Heal HP on self equal to the damage dealt to allies.\n- If this unit dealt damage to an ally, gain 2 [Enhancement] this turn, and gain 2 [Agility] next turn.\n(Once per turn. The 'dealt damage' includes damage dealt to Shield HP. This effect can kill allies.)\n[EndSkill] If this Skill's healing exceeds this unit's max HP, gain (excess heal/max HP) x 10 [AttackUp] next turn. (max &lt;style=\"highlight\"&gt;6&lt;/style&gt; per turn)"
+  },
+  {
+    "key": "2080621-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 自分の体力をダメージ量の<style=\"highlight\">20</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 自分の体力をダメージ量の<style=\"highlight\">20</style>%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 자신의 체력을 피해량의 &lt;style=\"highlight\"&gt;20&lt;/style&gt;% 만큼 회복\nEN:\n[OnSucceedAttackTail] Heal self by &lt;style=\"highlight\"&gt;20&lt;/style&gt;% of damage dealt"
+  },
+  {
+    "key": "2080621-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3～6</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3～6</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Laceration] &lt;style=\"highlight\"&gt;3 ~ 6&lt;/style&gt; 부여\nEN:\n[OnSucceedAttackTail] Inflict &lt;style=\"highlight\"&gt;3~6&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "2080621-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[EnemyKill] 次のターンに[Enhancement]1を得る(最大攻撃威力増加量 : 3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EnemyKill] 次のターンに[Enhancement]1を得る(最大攻撃威力増加量 : 3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EnemyKill] 다음 턴에 [Enhancement] 1 얻음 (최대 공격 위력 증가량 : 3)\nEN:\n[EnemyKill] Gain 1[Enhancement] next turn (max 3)"
+  },
+  {
+    "key": "2080711-levelList[0].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2080711-levelList[0].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2080711-levelList[0].desc",
+    "original": "[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n[EndSkill] 現体力の比率が最も低い味方2名が体力最大値の(5 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大15%回復)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n[EndSkill] 現体力の比率が最も低い味方2名が体力最大値の(5 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大15%回復)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1\n[EndSkill] 현재 체력 비율이 가장 낮은 아군 2명이 최대 체력의 (5 + (메인 공격 대상의 [Sinking]과 [Sinking] 횟수의 합) / 3)%만큼 체력 회복 (최대 15% 회복)\nEN:\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[EndSkill] Heal 2 allies with the lowest HP percentages by (5 + (sum of [Sinking] Potency and Count on the main target)/3)% HP (max 15%)"
+  },
+  {
+    "key": "2080711-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "2080711-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Curse]"
+  },
+  {
+    "key": "2080711-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+  },
+  {
+    "key": "2080711-levelList[1].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2080711-levelList[1].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2080711-levelList[1].desc",
+    "original": "[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が憂鬱共鳴なら、攻撃加重値 +1</style>\n[EndSkill] 現体力の比率が最も低い味方2名が体力最大値の(<style=\"highlight\">10</style> + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大15%回復)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が憂鬱共鳴なら、攻撃加重値 +1</style>\n[EndSkill] 現体力の比率が最も低い味方2名が体力最大値の(<style=\"highlight\">10</style> + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大15%回復)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1\n&lt;style=\"highlight\"&gt;- 해당 공명이 우울 공명이면, 공격 가중치 +1&lt;/style&gt;\n[EndSkill] 현재 체력 비율이 가장 낮은 아군 2명이 최대 체력의 (&lt;style=\"highlight\"&gt;10&lt;/style&gt; + (메인 공격 대상의 [Sinking]과 [Sinking] 횟수의 합) / 3)%만큼 체력 회복 (최대 15% 회복)\nEN:\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Gloom Reson., gain +1 Atk Weight&lt;/style&gt;\n[EndSkill] Heal 2 allies with the lowest HP percentages by (&lt;style=\"highlight\"&gt;10&lt;/style&gt; + (sum of [Sinking] Potency and Count on the main target)/3)% HP (max 15%)"
+  },
+  {
+    "key": "2080711-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080711-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Curse]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Curse]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080711-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 憂鬱共鳴4以上なら、[AzureTakeDamageUp]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 憂鬱共鳴4以上なら、[AzureTakeDamageUp]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 우울 공명 4 이상이면, [AzureTakeDamageUp] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] At 4+ Gloom Reson., inflict 1 [AzureTakeDamageUp]&lt;/style&gt;"
+  },
+  {
+    "key": "2080711-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080711-levelList[2].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2080711-levelList[2].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2080711-levelList[2].desc",
+    "original": "[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n- 該当共鳴が憂鬱共鳴なら、攻撃加重値 +1\n[EndSkill] 現体力の比率が最も低い味方2名が体力最大値の(10 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大<style=\"highlight\">20</style>%回復)\n<style=\"highlight\">- 最大共鳴が憂鬱共鳴4以上なら、回復量が体力最大値の10%だけ増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n- 該当共鳴が憂鬱共鳴なら、攻撃加重値 +1\n[EndSkill] 現体力の比率が最も低い味方2名が体力最大値の(10 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大<style=\"highlight\">20</style>%回復)\n<style=\"highlight\">- 最大共鳴が憂鬱共鳴4以上なら、回復量が体力最大値の10%だけ増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1\n- 해당 공명이 우울 공명이면, 공격 가중치 +1\n[EndSkill] 현재 체력 비율이 가장 낮은 아군 2명이 최대 체력의 (10 + (메인 공격 대상의 [Sinking]과 [Sinking] 횟수의 합) / 3)%만큼 체력 회복 (최대 &lt;style=\"highlight\"&gt;20&lt;/style&gt;% 회복)\n&lt;style=\"highlight\"&gt;- 최대 공명이 우울 공명 4 이상이면, 회복량이 최대 체력의 10%만큼 증가&lt;/style&gt;\nEN:\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n- If the said Reson. was a Gloom Reson., gain +1 Atk Weight\n[EndSkill] Heal 2 allies with the lowest HP percentages by (10 + (sum of [Sinking] Potency and Count on the main target)/3)% HP (max &lt;style=\"highlight\"&gt;20&lt;/style&gt;%)\n&lt;style=\"highlight\"&gt;- If the highest Reson. was a 4+ Gloom Reson., heal 10% more of the max HP&lt;/style&gt;"
+  },
+  {
+    "key": "2080711-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [Sinking] Count"
+  },
+  {
+    "key": "2080711-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Curse]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Curse]"
+  },
+  {
+    "key": "2080711-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 憂鬱共鳴4以上なら、[AzureTakeDamageUp]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 憂鬱共鳴4以上なら、[AzureTakeDamageUp]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 우울 공명 4 이상이면, [AzureTakeDamageUp] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] At 4+ Gloom Reson., inflict 1 [AzureTakeDamageUp]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080711-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080721-levelList[0].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2080721-levelList[0].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2080721-levelList[0].desc",
+    "original": "[CantIdentify]\n[Sinking]が最も多い対象を優先して攻撃\n[BeforeAttack] 体力が最大値の10%だけ減少(この効果で混乱状態にならない)\n[EndSkill] 自分を除く現体力の比率が最も低い味方3名が、体力最大値の(5 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大10%)\n- 最大共鳴数が4以上なら、回復対象 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n[Sinking]が最も多い対象を優先して攻撃\n[BeforeAttack] 体力が最大値の10%だけ減少(この効果で混乱状態にならない)\n[EndSkill] 自分を除く現体力の比率が最も低い味方3名が、体力最大値の(5 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大10%)\n- 最大共鳴数が4以上なら、回復対象 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n[Sinking]이 가장 많은 대상 우선 공격\n[BeforeAttack] 최대 체력의 10%만큼 체력 감소 (이 효과로 흐트러짐 상태가 되지 않음)\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명이 최대 체력의 (5 + (메인 공격 대상의 [Sinking]과 [Sinking] 횟수의 합) / 3)%만큼 체력 회복 (최대 10% 회복)\n- 최대 공명 수가 4 이상이면 , 회복 대상 +1\nEN:\n[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] Lose HP by 10% of Max HP (does not get Staggered due to this effect)\n[EndSkill] Heal 3 other allies with the lowest HP percentages by (5 + (sum of [Sinking] Potency and Count on the main target)/3)% HP (max 10%)\n- At 4+ highest Reson., heal 1 additional ally"
+  },
+  {
+    "key": "2080721-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "2080721-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Curse]"
+  },
+  {
+    "key": "2080721-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 憂鬱共鳴3以上なら、[AzureTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 憂鬱共鳴3以上なら、[AzureTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 우울 공명 3 이상이면, [AzureTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] At 3+ Gloom Reson., inflict 1 [AzureTakeDamageUp]"
+  },
+  {
+    "key": "2080721-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+  },
+  {
+    "key": "2080721-levelList[1].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2080721-levelList[1].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2080721-levelList[1].desc",
+    "original": "[CantIdentify]\n[Sinking]が最も多い対象を優先して攻撃\n[BeforeAttack] 体力が最大値の10%だけ減少(この効果で混乱状態にならない)\n[EndSkill] 自分を除く現体力の比率が最も低い味方3名が、体力最大値の(<style=\"highlight\">10</style> + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大<style=\"highlight\">15</style>%)\n- 最大共鳴数が4以上なら、回復対象 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n[Sinking]が最も多い対象を優先して攻撃\n[BeforeAttack] 体力が最大値の10%だけ減少(この効果で混乱状態にならない)\n[EndSkill] 自分を除く現体力の比率が最も低い味方3名が、体力最大値の(<style=\"highlight\">10</style> + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大<style=\"highlight\">15</style>%)\n- 最大共鳴数が4以上なら、回復対象 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n[Sinking]이 가장 많은 대상 우선 공격\n[BeforeAttack] 최대 체력의 10%만큼 체력 감소 (이 효과로 흐트러짐 상태가 되지 않음)\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명이 최대 체력의 (&lt;style=\"highlight\"&gt;10&lt;/style&gt; + (메인 공격 대상의 [Sinking]과 [Sinking] 횟수의 합) / 3)%만큼 체력 회복 (최대 &lt;style=\"highlight\"&gt;15&lt;/style&gt;% 회복)\n- 최대 공명 수가 4 이상이면 , 회복 대상 +1\nEN:\n[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] Lose HP by 10% of Max HP (does not get Staggered due to this effect)\n[EndSkill] Heal 3 other allies with the lowest HP percentages by (&lt;style=\"highlight\"&gt;10&lt;/style&gt; + (sum of [Sinking] Potency and Count on the main target)/3)% HP (max &lt;style=\"highlight\"&gt;15&lt;/style&gt;%)\n- At 4+ highest Reson., heal 1 additional ally"
+  },
+  {
+    "key": "2080721-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "2080721-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Curse]"
+  },
+  {
+    "key": "2080721-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 憂鬱共鳴3以上なら、[AzureTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 憂鬱共鳴3以上なら、[AzureTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 우울 공명 3 이상이면, [AzureTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] At 3+ Gloom Reson., inflict 1 [AzureTakeDamageUp]"
+  },
+  {
+    "key": "2080721-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+  },
+  {
+    "key": "2080721-levelList[1].coinlist[0].coindescs[4].desc",
+    "original": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [EchoOfMansion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+  },
+  {
+    "key": "2080721-levelList[2].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2080721-levelList[2].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2080721-levelList[2].desc",
+    "original": "[CantIdentify]\n[Sinking]が最も多い対象を優先して攻撃\n[BeforeAttack] 体力が最大値の10%だけ減少(この効果で混乱状態にならない)\n[EndSkill] 自分を除く現体力の比率が最も低い味方3名が、体力最大値の(10 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大15%)\n- 最大共鳴数が4以上なら、回復対象 +1\n<style=\"highlight\">- 該当共鳴が憂鬱共鳴なら、回復量が体力最大値の5%だけ増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n[Sinking]が最も多い対象を優先して攻撃\n[BeforeAttack] 体力が最大値の10%だけ減少(この効果で混乱状態にならない)\n[EndSkill] 自分を除く現体力の比率が最も低い味方3名が、体力最大値の(10 + (メイン攻撃対象の[Sinking]と[Sinking]回数の合計) ÷ 3)%だけ体力を回復(最大15%)\n- 最大共鳴数が4以上なら、回復対象 +1\n<style=\"highlight\">- 該当共鳴が憂鬱共鳴なら、回復量が体力最大値の5%だけ増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n[Sinking]이 가장 많은 대상 우선 공격\n[BeforeAttack] 최대 체력의 10%만큼 체력 감소 (이 효과로 흐트러짐 상태가 되지 않음)\n[EndSkill] 자신을 제외하고 현재 체력 비율이 가장 낮은 아군 3명이 최대 체력의 (10 + (메인 공격 대상의 [Sinking]과 [Sinking] 횟수의 합) / 3)%만큼 체력 회복 (최대 15% 회복)\n- 최대 공명 수가 4 이상이면 , 회복 대상 +1\n&lt;style=\"highlight\"&gt;- 해당 공명이 우울 공명이면, 회복량이 최대 체력의 5%만큼 증가&lt;/style&gt;\nEN:\n[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] Lose HP by 10% of Max HP (does not get Staggered due to this effect)\n[EndSkill] Heal 3 other allies with the lowest HP percentages by (10 + (sum of [Sinking] Potency and Count on the main target)/3)% HP (max 15%)\n- At 4+ highest Reson., heal 1 additional ally\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Gloom Reson., heal an additional 5% HP&lt;/style&gt;"
+  },
+  {
+    "key": "2080721-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [Sinking] Count"
+  },
+  {
+    "key": "2080721-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Curse]"
+  },
+  {
+    "key": "2080721-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 憂鬱共鳴<style=\"highlight\">3につき</style>、[AzureTakeDamageUp]1を付与<style=\"highlight\">(最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 憂鬱共鳴<style=\"highlight\">3につき</style>、[AzureTakeDamageUp]1を付与<style=\"highlight\">(最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 우울 공명 &lt;style=\"highlight\"&gt;3 당&lt;/style&gt;, [AzureTakeDamageUp] 1 부여 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\nEN:\n[OnSucceedAttack] &lt;style=\"highlight\"&gt;For every 3&lt;/style&gt; Gloom Reson., inflict 1 [AzureTakeDamageUp] &lt;style=\"highlight\"&gt;(max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "2080721-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [UninvitedGuestPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [UninvitedGuestPersonality] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+  },
+  {
+    "key": "2080721-levelList[2].coinlist[0].coindescs[4].desc",
+    "original": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [EchoOfMansion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+  },
+  {
+    "key": "2080811-levelList[0].name",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
+  },
+  {
+    "key": "2080811-levelList[0].abName",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
+  },
+  {
+    "key": "2080811-levelList[0].desc",
+    "original": "[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[EndSkill] 攻撃対象に混乱・士気低下・パニック状態の対象がいるなら、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[EndSkill] 攻撃対象に混乱・士気低下・パニック状態の対象がいるなら、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[EndSkill] 공격 대상 중 흐트러짐, 사기저하, 패닉 상태인 대상이 있으면, 정신력 10 회복\nEN:\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP"
+  },
+  {
+    "key": "2080811-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 5 증가\nEN:\n[OnSucceedAttack] Inflict +5 [Vibration] Count"
+  },
+  {
+    "key": "2080811-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2080811-levelList[1].name",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
+  },
+  {
+    "key": "2080811-levelList[1].abName",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
+  },
+  {
+    "key": "2080811-levelList[1].desc",
+    "original": "<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[EndSkill] 攻撃対象に混乱・士気低下・パニック状態の対象がいるなら、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[EndSkill] 攻撃対象に混乱・士気低下・パニック状態の対象がいるなら、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)&lt;/style&gt;\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[EndSkill] 공격 대상 중 흐트러짐, 사기저하, 패닉 상태인 대상이 있으면, 정신력 10 회복\nEN:\n&lt;style=\"highlight\"&gt;If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)&lt;/style&gt;\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP"
+  },
+  {
+    "key": "2080811-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が5増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が5増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 5 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +5 [Vibration] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080811-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking]"
+  },
+  {
+    "key": "2080811-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 2 감소\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 2"
+  },
+  {
+    "key": "2080811-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080811-levelList[2].name",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
+  },
+  {
+    "key": "2080811-levelList[2].abName",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
+  },
+  {
+    "key": "2080811-levelList[2].desc",
+    "original": "対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[EndSkill] 攻撃対象に混乱・士気低下・パニック状態の対象がいるなら、精神力を10回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[EndSkill] 攻撃対象に混乱・士気低下・パニック状態の対象がいるなら、精神力を10回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[EndSkill] 공격 대상 중 흐트러짐, 사기저하, 패닉 상태인 대상이 있으면, 정신력 10 회복&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nIf target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080811-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が5増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が5増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 5 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +5 [Vibration] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080811-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080811-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ<style=\"highlight\">2回</style>[VibrationExplosion]。対象の[Vibration]回数が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ<style=\"highlight\">2回</style>[VibrationExplosion]。対象の[Vibration]回数が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion] &lt;style=\"highlight\"&gt;2회.&lt;/style&gt; 대상의 [Vibration] 횟수 2 감소\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion] &lt;style=\"highlight\"&gt;twice&lt;/style&gt;; then, reduce the target's [Vibration] Count by 2"
+  },
+  {
+    "key": "2080811-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080821-levelList[0].name",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
+  },
+  {
+    "key": "2080821-levelList[0].abName",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
+  },
+  {
+    "key": "2080821-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[BeforeAttack] 自分の体力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[BeforeAttack] 自分の体力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[BeforeAttack] 자신의 체력 10 회복\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[BeforeAttack] Heal 10 HP"
+  },
+  {
+    "key": "2080821-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 5 증가\nEN:\n[OnSucceedAttack] Inflict +5 [Vibration] Count"
+  },
+  {
+    "key": "2080821-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2080821-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2080821-levelList[1].name",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
+  },
+  {
+    "key": "2080821-levelList[1].abName",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
+  },
+  {
+    "key": "2080821-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">メイン攻撃対象が混乱・士気低下・パニック状態なら基本威力 +1</style>\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[BeforeAttack] 自分の体力を10回復\n<style=\"highlight\">[EndSkill] 混乱・士気低下・パニック状態の敵1名につき精神力が5回復</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">メイン攻撃対象が混乱・士気低下・パニック状態なら基本威力 +1</style>\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[BeforeAttack] 自分の体力を10回復\n<style=\"highlight\">[EndSkill] 混乱・士気低下・パニック状態の敵1名につき精神力が5回復</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n&lt;style=\"highlight\"&gt;메인 공격 대상이 흐트러짐, 사기저하, 패닉 상태면, 기본 위력 +1&lt;/style&gt;\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[BeforeAttack] 자신의 체력 10 회복\n&lt;style=\"highlight\"&gt;[EndSkill] 흐트러짐, 사기저하, 패닉 상태인 적 1명 당 정신력 5 회복&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\n&lt;style=\"highlight\"&gt;If the main target is in Staggered, Low Morale, or Panic states, Base Power +1&lt;/style&gt;\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[BeforeAttack] Heal 10 HP\n&lt;style=\"highlight\"&gt;[EndSkill] Heal 5 SP for every enemy that is in Staggered, Low Morale, or Panic states&lt;/style&gt;"
+  },
+  {
+    "key": "2080821-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 5 증가\nEN:\n[OnSucceedAttack] Inflict +5 [Vibration] Count"
+  },
+  {
+    "key": "2080821-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与、[Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与、[Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여, [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking] and +2 [Sinking] Count"
+  },
+  {
+    "key": "2080821-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2080821-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2080821-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080821-levelList[2].name",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
+  },
+  {
+    "key": "2080821-levelList[2].abName",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
+  },
+  {
+    "key": "2080821-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\nメイン攻撃対象が混乱・士気低下・パニック状態なら基本威力 +<style=\"highlight\">2</style>\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 混乱・士気低下・パニック状態の敵1名につき精神力が5回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\nメイン攻撃対象が混乱・士気低下・パニック状態なら基本威力 +<style=\"highlight\">2</style>\n[BeforeAttack] (最大共鳴数 + 5)だけ自分の[Vibration]回数が増加(最大10)\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 混乱・士気低下・パニック状態の敵1名につき精神力が5回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n메인 공격 대상이 흐트러짐, 사기저하, 패닉 상태면, 기본 위력 +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\n[BeforeAttack] (최대 공명 수 + 5) 만큼 자신의 [Vibration] 횟수 증가 (최대 10)\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 흐트러짐, 사기저하, 패닉 상태인 적 1명 당 정신력 5 회복&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\nIf the main target is in Staggered, Low Morale, or Panic states, Base Power +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[BeforeAttack] Heal 10 HP\n[EndSkill] Heal 5 SP for every enemy that is in Staggered, Low Morale, or Panic states&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080821-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 5 증가\nEN:\n[OnSucceedAttack] Inflict +5 [Vibration] Count"
+  },
+  {
+    "key": "2080821-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与、[Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[Sinking]5を付与、[Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [Sinking] 5 부여, [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking] and +2 [Sinking] Count"
+  },
+  {
+    "key": "2080821-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2080821-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080821-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態でなければ[VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태가 아니면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080821-levelList[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2080911-levelList[0].name",
+    "original": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉저살 [蝍蛆殺]\nEN:\nHundred-Footed Death Maggot [蝍蛆殺]"
+  },
+  {
+    "key": "2080911-levelList[0].abName",
+    "original": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지네사도\nEN:\nCentipede Apostle"
+  },
+  {
+    "key": "2080911-levelList[0].desc",
+    "original": "[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신과 메인 타겟의 부정적인 효과 수의 합만큼 [CentipedePoison] 부여 (최대 5)\nEN:\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 5)"
+  },
+  {
+    "key": "2080911-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "2080911-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "2080911-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 탐식 또는 우울 공명이 4 이상이면, 해당 공명 수만큼 [CentipedePoison]을 부여 (최대 4)\nEN:\n[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+  },
+  {
+    "key": "2080911-levelList[1].name",
+    "original": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉저살 [蝍蛆殺]\nEN:\nHundred-Footed Death Maggot [蝍蛆殺]"
+  },
+  {
+    "key": "2080911-levelList[1].abName",
+    "original": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지네사도\nEN:\nCentipede Apostle"
+  },
+  {
+    "key": "2080911-levelList[1].desc",
+    "original": "[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大<style=\"highlight\">8</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大<style=\"highlight\">8</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신과 메인 타겟의 부정적인 효과 수의 합만큼 [CentipedePoison] 부여 (최대 &lt;style=\"highlight\"&gt;8&lt;/style&gt;)\nEN:\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max &lt;style=\"highlight\"&gt;8&lt;/style&gt;)"
+  },
+  {
+    "key": "2080911-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "2080911-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "2080911-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 탐식 또는 우울 공명이 4 이상이면, 해당 공명 수만큼 [CentipedePoison]을 부여 (최대 4)\nEN:\n[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+  },
+  {
+    "key": "2080911-levelList[2].name",
+    "original": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉저살 [蝍蛆殺]\nEN:\nHundred-Footed Death Maggot [蝍蛆殺]"
+  },
+  {
+    "key": "2080911-levelList[2].abName",
+    "original": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지네사도\nEN:\nCentipede Apostle"
+  },
+  {
+    "key": "2080911-levelList[2].desc",
+    "original": "[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신과 메인 타겟의 부정적인 효과 수의 합만큼 [CentipedePoison] 부여 (최대 &lt;style=\"highlight\"&gt;10&lt;/style&gt;)\nEN:\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max &lt;style=\"highlight\"&gt;10&lt;/style&gt;)"
+  },
+  {
+    "key": "2080911-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "2080911-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Burst]"
+  },
+  {
+    "key": "2080911-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 탐식 또는 우울 공명이 4 이상이면, 해당 공명 수만큼 [CentipedePoison]을 부여 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\nEN:\n[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)"
+  },
+  {
+    "key": "2080921-levelList[0].name",
+    "original": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉저살 [蝍蛆殺]\nEN:\nHundred-Footed Death Maggot [蝍蛆殺]"
+  },
+  {
+    "key": "2080921-levelList[0].abName",
+    "original": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지네사도\nEN:\nCentipede Apostle"
+  },
+  {
+    "key": "2080921-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大8)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大8)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신과 메인 타겟의 부정적인 효과 수의 합만큼 [CentipedePoison] 부여 (최대 8)\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 8)"
+  },
+  {
+    "key": "2080921-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "2080921-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "2080921-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 탐식 또는 우울 공명이 4 이상이면, 해당 공명 수만큼 [CentipedePoison]을 부여 (최대 4)\nEN:\n[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+  },
+  {
+    "key": "2080921-levelList[1].name",
+    "original": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉저살 [蝍蛆殺]\nEN:\nHundred-Footed Death Maggot [蝍蛆殺]"
+  },
+  {
+    "key": "2080921-levelList[1].abName",
+    "original": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지네사도\nEN:\nCentipede Apostle"
+  },
+  {
+    "key": "2080921-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신과 메인 타겟의 부정적인 효과 수의 합만큼 [CentipedePoison] 부여 (최대 &lt;style=\"highlight\"&gt;10&lt;/style&gt;)\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max &lt;style=\"highlight\"&gt;10&lt;/style&gt;)"
+  },
+  {
+    "key": "2080921-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "2080921-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "2080921-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 탐식 또는 우울 공명이 4 이상이면, 해당 공명 수만큼 [CentipedePoison]을 부여 (최대 4)\nEN:\n[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+  },
+  {
+    "key": "2080921-levelList[2].name",
+    "original": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蝍蛆殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n즉저살 [蝍蛆殺]\nEN:\nHundred-Footed Death Maggot [蝍蛆殺]"
+  },
+  {
+    "key": "2080921-levelList[2].abName",
+    "original": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "百足の使徒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지네사도\nEN:\nCentipede Apostle"
+  },
+  {
+    "key": "2080921-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大10<style=\"highlight\"></style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 自分とメインターゲットのマイナス効果の種類の合計だけ[CentipedePoison]を付与(最大10<style=\"highlight\"></style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 자신과 메인 타겟의 부정적인 효과 수의 합만큼 [CentipedePoison] 부여 (최대 10&lt;style=\"highlight\"&gt;&lt;/style&gt;)\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 10&lt;style=\"highlight\"&gt;&lt;/style&gt;)"
+  },
+  {
+    "key": "2080921-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "2080921-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "2080921-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 暴食または憂鬱共鳴が4以上なら、該当共鳴数だけ[CentipedePoison]を付与(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 탐식 또는 우울 공명이 4 이상이면, 해당 공명 수만큼 [CentipedePoison]을 부여 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\nEN:\n[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)"
+  }
+]

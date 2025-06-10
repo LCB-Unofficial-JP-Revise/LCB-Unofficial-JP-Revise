@@ -1,0 +1,86 @@
+[
+  {
+    "key": "827701-name",
+    "original": "救済した時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "救済した時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구제한 시간\nEN:\nRescued Time"
+  },
+  {
+    "key": "827701-desc",
+    "original": "戦闘開始時、[LimitedTime]を1000保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[LimitedTime]を1000保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시 [LimitedTime] 1000을 보유함\nEN:\nHave 1000 [LimitedTime] at the start of the Encounter"
+  },
+  {
+    "key": "827702-name",
+    "original": "加速再生修復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加速再生修復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가속 재생 수복\nEN:\nAccelerated Regeneration"
+  },
+  {
+    "key": "827702-desc",
+    "original": "ターン終了時に部位破壊状態なら、該当部位が保有した時間を100消耗して次のターンに部位破壊状態を解除する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に部位破壊状態なら、該当部位が保有した時間を100消耗して次のターンに部位破壊状態を解除する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 부위 파괴 상태면, 해당 부위가 보유한 시간을 100을 소모하여 다음 턴에 부위 파괴 상태를 해제함.\nEN:\nTurn End: If a Part is broken, spend 100 Time from that Part to recover from Part Broken state next turn."
+  },
+  {
+    "key": "827801-name",
+    "original": "皆の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皆の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모두의 시간\nEN:\nEveryone's Time"
+  },
+  {
+    "key": "827801-desc",
+    "original": "体力が75%になるとフェーズ2へ移行。フェーズ移行時に精神力を30まで回復し、[LimitedTime]を[OwnTime]に変換して全部位へ均等に配分。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が75%になるとフェーズ2へ移行。フェーズ移行時に精神力を30まで回復し、[LimitedTime]を[OwnTime]に変換して全部位へ均等に配分。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 75%가 되면 2페이즈로 전환함. 페이즈 전환 시 정신력을 30까지 회복하고, [LimitedTime]을 모든 부위가 [OwnTime]으로 나눠서 보유함.\nEN:\nAt 75% HP, enter the second phase. Upon phase change, recover SP up to 30, and divide the [LimitedTime] between all Parts as [OwnTime]."
+  },
+  {
+    "key": "827802-name",
+    "original": "公平な支出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "公平な支出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공평한 지출\nEN:\nEqual Expense"
+  },
+  {
+    "key": "827802-desc",
+    "original": "毎ターン[EquitableDistribution]を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン[EquitableDistribution]を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴마다 [EquitableDistribution]를 얻음.\nEN:\nTurn End: gain [EquitableDistribution]."
+  },
+  {
+    "key": "827803-name",
+    "original": "時間共同体のため\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間共同体のため\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간 공동체를 위해\nEN:\nFor the Time Community"
+  },
+  {
+    "key": "827803-desc",
+    "original": "ターン開始時、全部位が[Protection]5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全部位が[Protection]5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 모든 부위가 [Protection] 5를 얻음.\nEN:\nTurn Start: All Parts gain 5 [Protection]."
+  },
+  {
+    "key": "827804-name",
+    "original": "あいつの時間から持っていけ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あいつの時間から持っていけ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저 놈 시간부터 가져가!\nEN:\nTake Theirs First!"
+  },
+  {
+    "key": "827804-desc",
+    "original": "体力が60%未満になると、[EquitableDistribution]が[UnfairDistribution]へ変更される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が60%未満になると、[EquitableDistribution]が[UnfairDistribution]へ変更される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 60% 미만이 되면, [EquitableDistribution]이 [UnfairDistribution]로 변경됨.\nEN:\nAt 60%- HP, convert [EquitableDistribution] into [UnfairDistribution]."
+  }
+]

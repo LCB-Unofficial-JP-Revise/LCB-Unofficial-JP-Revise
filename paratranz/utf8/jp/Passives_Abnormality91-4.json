@@ -1,0 +1,72 @@
+[
+  {
+    "key": "806301-name",
+    "original": "凶暴な酸性甲殻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶暴な酸性甲殻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉포한 산성 갑각\nEN:\nFerocious Acidic Crust"
+  },
+  {
+    "key": "806301-desc",
+    "original": "頭部位破壊時、部位スキルの最終威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頭部位破壊時、部位スキルの最終威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n머리 부위 파괴 시 부위 스킬 최종 위력 -2\nEN:\nWhen the head is broken, the part has -2 Skill Final Power"
+  },
+  {
+    "key": "806302-name",
+    "original": "奪った破裂性サザエ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奪った破裂性サザエ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈취한 파열성 소라\nEN:\nStolen Rupturing Shell"
+  },
+  {
+    "key": "806302-desc",
+    "original": "サザエ部位破壊時、部位スキルの最終威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サザエ部位破壊時、部位スキルの最終威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소라 부위 파괴 시 부위 스킬의 최종 위력 -2\nEN:\nWhen the shell is broken, the part has -2 Skill Final Power"
+  },
+  {
+    "key": "806303-name",
+    "original": "緊急養分補給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緊急養分補給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n긴급 영양 보급\nEN:\nEmergency Nutrient Supply"
+  },
+  {
+    "key": "806303-desc",
+    "original": "自分の攻撃で味方討伐時、体力を最大値の5%分回復\nターン終了時、この効果で体力を最大値の15%分回復した場合、次のターンにサザエ部位を再生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の攻撃で味方討伐時、体力を最大値の5%分回復\nターン終了時、この効果で体力を最大値の15%分回復した場合、次のターンにサザエ部位を再生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 공격으로 아군 처치 시 체력을 최대 체력의 5%만큼 회복\n턴 종료 시, 이 효과로 체력을 최대 체력의 15%만큼 회복한 경우, 다음 턴에 소라 부위 재생.\nEN:\nAfter this unit defeats its ally, heal by 5% of Max HP.\nAt the end of the turn, if this unit has healed 15% of Max HP with the above effect, restore the shell."
+  },
+  {
+    "key": "806304-name",
+    "original": "蟹バリズム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蟹バリズム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게판\nEN:\nA Crab-eat-crab World"
+  },
+  {
+    "key": "806304-desc",
+    "original": "自分の体力が70パーセント未満なら、乱々突き、強く！突く、蟹の泡スキルが、現体力が自分を除いて最も低い味方を指定\n味方攻撃時、ダメージ量分体力を回復。\n味方討伐時、ダメージ量の2倍体力を回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の体力が70パーセント未満なら、乱々突き、強く！突く、蟹の泡スキルが、現体力が自分を除いて最も低い味方を指定\n味方攻撃時、ダメージ量分体力を回復。\n味方討伐時、ダメージ量の2倍体力を回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신이 체력이 70% 미만이면, 마구 마구 찍기, 세게! 찍기, 게거품 스킬이 현재 체력이 자신을 제외하고 가장 낮은 아군을 지정함\n아군 공격 시 피해량만큼 체력 회복.\n아군 처치 시 피해량의 2배만큼 체력 회복.\nEN:\nAt less than 70% HP, Brutal Pummelling, Powerful! Pummel, and Foaming skills target another ally with the least current HP.\nWhen attacking an ally, heals HP by the damage dealt.\nWhen defeating an ally, heals HP by double the damage dealt."
+  },
+  {
+    "key": "806305-name",
+    "original": "巨大な威容\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "巨大な威容\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거대한 위용\nEN:\nLooming Presence"
+  },
+  {
+    "key": "806305-desc",
+    "original": "ターン開始時、全ての敵の精神力を-10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全ての敵の精神力を-10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 모든 적의 정신력 -10\nEN:\nTurn Start: All enemies lose 10 SP"
+  }
+]

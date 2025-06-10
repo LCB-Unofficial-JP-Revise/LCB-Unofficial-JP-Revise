@@ -1,0 +1,44 @@
+[
+  {
+    "key": "LoseRatioHpOnly-content",
+    "original": "<color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>体力に{amount}%</color><color=#ebcaa2>ダメージ！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>体力に{amount}%</color><color=#ebcaa2>ダメージ！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ebcaa2&gt;{conditions}{targets}&lt;/color&gt; &lt;color=#e30000&gt;{amount}%만큼 체력&lt;/color&gt; &lt;color=#ebcaa2&gt;피해!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{conditions}{targets}&lt;/color&gt; takes &lt;color=#e30000&gt;{amount}% HP&lt;/color&gt; &lt;color=#ebcaa2&gt;Damage!&lt;/color&gt;"
+  },
+  {
+    "key": "Choice_901070401-content",
+    "original": "<color=#f8c200>憤怒属性E.G.O資源を2つ</color>獲得\n<color=#f8c200>傲慢属性E.G.O資源を2つ</color>獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#f8c200>憤怒属性E.G.O資源を2つ</color>獲得\n<color=#f8c200>傲慢属性E.G.O資源を2つ</color>獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#f8c200&gt;분노 속성 E.G.O 자원을 2개&lt;/color&gt; 획득\n&lt;color=#f8c200&gt;오만 속성 E.G.O 자원을 2개&lt;/color&gt; 획득\nEN:\nGain &lt;color=#f8c200&gt;2 Wrath E.G.O resources&lt;/color&gt;\nGain &lt;color=#f8c200&gt;2 Pride E.G.O resources&lt;/color&gt;"
+  },
+  {
+    "key": "Choice_901070402-content",
+    "original": "<color=#f8c200>色欲属性E.G.O資源を2つ</color>獲得\n<color=#f8c200>暴食属性E.G.O資源を2つ</color>獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#f8c200>色欲属性E.G.O資源を2つ</color>獲得\n<color=#f8c200>暴食属性E.G.O資源を2つ</color>獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#f8c200&gt;색욕 속성 E.G.O 자원을 2개&lt;/color&gt; 획득\n&lt;color=#f8c200&gt;탐식 속성 E.G.O 자원을 2개&lt;/color&gt; 획득\nEN:\nGain &lt;color=#f8c200&gt;2 Lust E.G.O resources&lt;/color&gt;\nGain &lt;color=#f8c200&gt;2 Gluttony E.G.O resources&lt;/color&gt;"
+  },
+  {
+    "key": "Choice_901070403-content",
+    "original": "<color=#f8c200>憂鬱属性E.G.O資源を2つ</color>獲得\n<color=#f8c200>嫉妬属性E.G.O資源を2つ</color>獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#f8c200>憂鬱属性E.G.O資源を2つ</color>獲得\n<color=#f8c200>嫉妬属性E.G.O資源を2つ</color>獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#f8c200&gt;우울 속성 E.G.O 자원을 2개&lt;/color&gt; 획득\n&lt;color=#f8c200&gt;질투 속성 E.G.O 자원을 2개&lt;/color&gt; 획득\nEN:\nGain &lt;color=#f8c200&gt;2 Gloom E.G.O resources&lt;/color&gt;\nGain &lt;color=#f8c200&gt;2 Envy E.G.O resources&lt;/color&gt;"
+  },
+  {
+    "key": "Choice_901070404-content",
+    "original": "全囚人が次の戦闘開始時に<color=#e30000>破裂回数4</color>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人が次の戦闘開始時に<color=#e30000>破裂回数4</color>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자가 다음 전투 시작 시 &lt;color=#e30000&gt;파열 횟수 4&lt;/color&gt; 얻음\nEN:\nAll sinners gain &lt;color=#e30000&gt;+4 Rupture Count&lt;/color&gt; at the next Combat Start"
+  },
+  {
+    "key": "Choice_901070405-content",
+    "original": "全囚人が次の戦闘開始時に<color=#e30000>破裂4, 破裂回数4</color>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人が次の戦闘開始時に<color=#e30000>破裂4, 破裂回数4</color>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자가 다음 전투 시작 시 &lt;color=#e30000&gt;파열 4, 파열 횟수 4&lt;/color&gt; 얻음\nEN:\nAll sinners gain &lt;color=#e30000&gt;4 Rupture and +4 Rupture Count&lt;/color&gt; at the next Combat Start"
+  }
+]

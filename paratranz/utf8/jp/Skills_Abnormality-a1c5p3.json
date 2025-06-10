@@ -1,0 +1,2207 @@
+[
+  {
+    "key": "810001-levelList[0].name",
+    "original": "分裂せよ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "分裂せよ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분열하리라\nEN:\nAll Shall Scatter"
+  },
+  {
+    "key": "810001-levelList[0].desc",
+    "original": "表号 対象を優先して攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "表号 対象を優先して攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n표식 대상 우선 공격\nEN:\nPrioritizes enemies with Marked"
+  },
+  {
+    "key": "810001-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 灯った蝋燭の数だけ精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 灯った蝋燭の数だけ精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 켜진 촛불의 수만큼 정신력 피해\nEN:\n[OnSucceedAttack] Deal SP damage by the number of lit Candles"
+  },
+  {
+    "key": "810001-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 灯った蝋燭の数だけ精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 灯った蝋燭の数だけ精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 켜진 촛불의 수만큼 정신력 피해\nEN:\n[OnSucceedAttack] Deal SP damage by the number of lit Candles"
+  },
+  {
+    "key": "810002-levelList[0].name",
+    "original": "熱望し…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "熱望し…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열망하며...\nEN:\nLonging..."
+  },
+  {
+    "key": "810002-levelList[0].desc",
+    "original": "表号 対象を優先して攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "表号 対象を優先して攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n표식 대상 우선 공격\nEN:\nPrioritizes enemies with Marked"
+  },
+  {
+    "key": "810002-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに憤怒脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに憤怒脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 분노 취약 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Wrath Fragility next turn"
+  },
+  {
+    "key": "810002-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]があれば、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]があれば、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 4 부여\nEN:\n[OnSucceedAttack] If target has [Combustion], inflict 4 Burn"
+  },
+  {
+    "key": "810002-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに憤怒脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに憤怒脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 분노 취약 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Wrath Fragility next turn"
+  },
+  {
+    "key": "810002-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]があれば、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]があれば、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 4 부여\nEN:\n[OnSucceedAttack] If target has [Combustion], inflict 4 Burn"
+  },
+  {
+    "key": "810003-levelList[0].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "810003-levelList[0].desc",
+    "original": "次のターンに全ての蝋燭を消す。\n[AaCePcBa]のある対象へ的中時、体力最大値の5%分追加で減少。\n[DefeatDuel] 火傷 10を付与。対象へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに全ての蝋燭を消す。\n[AaCePcBa]のある対象へ的中時、体力最大値の5%分追加で減少。\n[DefeatDuel] 火傷 10を付与。対象へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 모든 촛불을 끔.\n[AaCePcBa]이 있는 대상에게 적중 시 최대 체력의 5%만큼 추가 감소.\n[DefeatDuel] 화상 10 부여. 대상에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복\nEN:\nSnuffs out all Candles next turn.\nUpon hitting targets with [AaCePcBa], target loses additional 5% of its max HP.\n[DefeatDuel] Inflict 10 Burn. Inflict target with Marked next turn.\n[EndBattle] All Candles heal to max HP."
+  },
+  {
+    "key": "810003-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 최대 체력을 10%만큼 감소.\nEN:\n[OnSucceedAttack] Target's max HP decreases by 10%."
+  },
+  {
+    "key": "810003-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 5付与、火傷 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 5付与、火傷 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 5 부여, 화상 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count"
+  },
+  {
+    "key": "810003-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 최대 체력을 10%만큼 감소.\nEN:\n[OnSucceedAttack] Target's max HP decreases by 10%."
+  },
+  {
+    "key": "810003-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 5付与、火傷 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 5付与、火傷 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 5 부여, 화상 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 Burn and +2 Burn Count"
+  },
+  {
+    "key": "810004-levelList[0].name",
+    "original": "6章5節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6章5節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6장 5절\nEN:\n6:5"
+  },
+  {
+    "key": "810004-levelList[0].desc",
+    "original": "[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel][CantChangeTarget]\n대상의 피해를 자신이 받음. 다음 턴에 흐트러짐.\n[AaCePcBa]이 없는 무작위 적에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복\nEN:\n[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to max HP"
+  },
+  {
+    "key": "810004-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 최대 체력을 10%만큼 감소.\nEN:\n[OnSucceedAttack] This unit's max HP decreases by 10%."
+  },
+  {
+    "key": "810004-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신에게 화상 10 부여\nEN:\n[OnSucceedAttack] Inflict 10 Burn on self"
+  },
+  {
+    "key": "810004-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力最大値を10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 최대 체력을 10%만큼 감소.\nEN:\n[OnSucceedAttack] This unit's max HP decreases by 10%."
+  },
+  {
+    "key": "810004-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신에게 화상 10 부여\nEN:\n[OnSucceedAttack] Inflict 10 Burn on self"
+  },
+  {
+    "key": "810005-levelList[0].name",
+    "original": "露わにならん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "露わにならん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n드러낼지어다\nEN:\nAll Shall be Revealed"
+  },
+  {
+    "key": "810005-levelList[0].desc",
+    "original": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel]\nEN:\n[CantDuel]"
+  },
+  {
+    "key": "810005-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 憤怒脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 憤怒脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 분노 취약 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Wrath Fragility"
+  },
+  {
+    "key": "810006-levelList[0].name",
+    "original": "燃え上がらん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "燃え上がらん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타오를지니\nEN:\nAll Shall Burn"
+  },
+  {
+    "key": "810006-levelList[0].desc",
+    "original": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel]\nEN:\n[CantDuel]"
+  },
+  {
+    "key": "810006-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]があれば、火傷 3を付与.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]があれば、火傷 3を付与.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 있다면, 화상 3 부여.\nEN:\n[OnSucceedAttack] If target has [Combustion], inflict 3 Burn."
+  },
+  {
+    "key": "810701-levelList[0].name",
+    "original": "立ちのぼった火種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "立ちのぼった火種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피워진 불씨\nEN:\nSparked Flame"
+  },
+  {
+    "key": "810701-levelList[0].desc",
+    "original": "[AaCePcBa]のある対象を優先して攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AaCePcBa]のある対象を優先して攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AaCePcBa]이 있는 대상 우선 공격\nEN:\nPrioritizes targets with [AaCePcBa]"
+  },
+  {
+    "key": "810701-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 火傷 6付与、火傷 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 6付与、火傷 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 6 부여, 화상 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 6 Burn and +2 Burn Count"
+  },
+  {
+    "key": "810702-levelList[0].name",
+    "original": "消えぬように\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "消えぬように\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꺼지지 않도록\nEN:\nSo That It Will Burn"
+  },
+  {
+    "key": "810702-levelList[0].desc",
+    "original": "[StartBattle] バリア20を得る\nバリアが全て消耗されると、次のターンに火が消える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] バリア20を得る\nバリアが全て消耗されると、次のターンに火が消える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 보호막 20을 얻음\n보호막이 모두 소진되면, 다음 턴에 불이 꺼진다.\nEN:\n[StartBattle] Gain 20 Shield\nSnuff out the lights next turn when out of Shield"
+  },
+  {
+    "key": "810702-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 火傷 1、火傷 回数1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 1、火傷 回数1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 1, 화상 횟수 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Burn and +1 Burn Count"
+  },
+  {
+    "key": "810101-levelList[0].name",
+    "original": "毒性粘液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毒性粘液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n독성 점액\nEN:\nToxic Fluid"
+  },
+  {
+    "key": "810101-levelList[0].desc",
+    "original": "[StartBattle] 緑色の粘液 が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 緑色の粘液 が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 녹색 점액 1 감소\nEN:\n[StartBattle] Consume 1 Green Slime"
+  },
+  {
+    "key": "810101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 毒 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 毒 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 독 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Poison"
+  },
+  {
+    "key": "810101-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 毒 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 毒 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 독 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Poison"
+  },
+  {
+    "key": "810102-levelList[0].name",
+    "original": "腐食粘液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腐食粘液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부식 점액\nEN:\nCorrosive Fluid"
+  },
+  {
+    "key": "810102-levelList[0].desc",
+    "original": "[StartBattle] 緑色の粘液 が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 緑色の粘液 が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 녹색 점액 1 감소\nEN:\n[StartBattle] Consume 1 Green Slime"
+  },
+  {
+    "key": "810102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Poison]だけ防御レベル減少を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Poison]だけ防御レベル減少を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Poison]만큼 방어 레벨 감소 부여\nEN:\n[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target"
+  },
+  {
+    "key": "810102-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 幼虫 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 幼虫 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 유충 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Larva"
+  },
+  {
+    "key": "810102-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Poison]だけ防御レベル減少を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Poison]だけ防御レベル減少を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Poison]만큼 방어 레벨 감소 부여\nEN:\n[OnSucceedAttack] Inflict Defense Level Down by [Poison] on target"
+  },
+  {
+    "key": "810102-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 幼虫 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 幼虫 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 유충 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Larva"
+  },
+  {
+    "key": "810103-levelList[0].name",
+    "original": "麻痺液体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "麻痺液体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마비 액체\nEN:\nParalytic Fluid"
+  },
+  {
+    "key": "810103-levelList[0].desc",
+    "original": "[StartBattle] 緑色の粘液 が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 緑色の粘液 が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 녹색 점액 1 감소\nEN:\n[StartBattle] Consume 1 Green Slime"
+  },
+  {
+    "key": "810103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Poison]があれば、麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Poison]があれば、麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Poison]이 있다면, 마비 1 부여\nEN:\n[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze"
+  },
+  {
+    "key": "810103-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 幼虫 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 幼虫 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 유충 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Larva"
+  },
+  {
+    "key": "810103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Poison]があれば、麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Poison]があれば、麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Poison]이 있다면, 마비 1 부여\nEN:\n[OnSucceedAttack] If target has [Poison], inflict 1 Paralyze"
+  },
+  {
+    "key": "810103-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 幼虫 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 幼虫 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 유충 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Larva"
+  },
+  {
+    "key": "810104-levelList[0].name",
+    "original": "蚕食液体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蚕食液体\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잠식 액체\nEN:\nDevouring Fluid"
+  },
+  {
+    "key": "810104-levelList[0].desc",
+    "original": "[StartBattle] 緑色の粘液 が2減少\n[WhenUse] 幼虫 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 緑色の粘液 が2減少\n[WhenUse] 幼虫 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 녹색 점액 2 감소\n[WhenUse] 유충 3 부여\nEN:\n[StartBattle] Consume 2 Green Slime\n[WhenUse] Inflict 3 Larva"
+  },
+  {
+    "key": "810104-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 毒 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 毒 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 독 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Poison"
+  },
+  {
+    "key": "810104-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 마비 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+  },
+  {
+    "key": "810104-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 毒 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 毒 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 독 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Poison"
+  },
+  {
+    "key": "810104-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 마비 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Paralyze next turn"
+  },
+  {
+    "key": "810105-levelList[0].name",
+    "original": "沸き立つ緑色の粘液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沸き立つ緑色の粘液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n들끓는 녹색 점액\nEN:\nEffervescent Green Slime"
+  },
+  {
+    "key": "810105-levelList[0].desc",
+    "original": "[StartBattle] [AaCePcBh]だけ攻撃加重値が増加\n[StartBattle] [AaCePcBh]を10得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] [AaCePcBh]だけ攻撃加重値が増加\n[StartBattle] [AaCePcBh]を10得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] [AaCePcBh]만큼 공격 가중치가 증가\n[StartBattle] [AaCePcBh]을 10 얻음.\nEN:\n[StartBattle] Gain Atk Weight by [AaCePcBh]\n[StartBattle] Gain 10 [AaCePcBh]"
+  },
+  {
+    "key": "810105-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 毒 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 毒 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 독 10 부여\nEN:\n[OnSucceedAttack] Inflict 10 Poison"
+  },
+  {
+    "key": "810105-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力が7減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力が7減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 7 감소\nEN:\n[OnSucceedAttack] Lose 7 SP"
+  },
+  {
+    "key": "810105-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 幼虫 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 幼虫 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 유충 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Larva"
+  },
+  {
+    "key": "810105-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに麻痺 1, 防御レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに麻痺 1, 防御レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 마비 1, 방어 레벨 감소 3 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Paralyze and 3 Defense Level Down next turn"
+  },
+  {
+    "key": "810106-levelList[0].name",
+    "original": "捕食\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捕食\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포식\nEN:\nPredation"
+  },
+  {
+    "key": "810106-levelList[0].desc",
+    "original": "[CantDuel][CantChangeTarget]\n緑色の粘液 を優先して攻撃\n緑色の粘液 を攻撃時に倒す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel][CantChangeTarget]\n緑色の粘液 を優先して攻撃\n緑色の粘液 を攻撃時に倒す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel][CantChangeTarget]\n녹색 점액을 우선 공격\n녹색 점액을 공격 시 처치한다.\nEN:\n[CantDuel][CantChangeTarget]\nTargets Green Slime primarily\nDefeats Green Slime upon attacking"
+  },
+  {
+    "key": "810106-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[TargetKill] [AaCePcBh]を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[TargetKill] [AaCePcBh]を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[TargetKill] [AaCePcBh]을 3 얻음.\nEN:\n[TargetKill] Gain 3 [AaCePcBh]."
+  },
+  {
+    "key": "810107-levelList[0].name",
+    "original": "溢れ出した毒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "溢れ出した毒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흘러넘친 독\nEN:\nOverflowing Poison"
+  },
+  {
+    "key": "810107-levelList[0].desc",
+    "original": "[OnSucceedEvade] 対象に毒 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] 対象に毒 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedEvade] 대상에게 독 5 부여\nEN:\n[OnSucceedEvade] Inflict 5 Poison"
+  },
+  {
+    "key": "810201-levelList[0].name",
+    "original": "頭突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頭突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n박치기\nEN:\nHeadbutt"
+  },
+  {
+    "key": "810201-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Sinking"
+  },
+  {
+    "key": "810202-levelList[0].name",
+    "original": "突っ込む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "突っ込む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n들이박기\nEN:\nPound"
+  },
+  {
+    "key": "810202-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Sinking Count"
+  },
+  {
+    "key": "810202-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Sinking Count"
+  },
+  {
+    "key": "810203-levelList[0].name",
+    "original": "推し潰す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "推し潰す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n짓누르기\nEN:\nPress"
+  },
+  {
+    "key": "810203-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "810203-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+  },
+  {
+    "key": "810203-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "810203-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+  },
+  {
+    "key": "810204-levelList[0].name",
+    "original": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹목\nEN:\nBlind Obsession"
+  },
+  {
+    "key": "810204-levelList[0].desc",
+    "original": "[DefeatDuel] 自分の蛍光灯部位が、部位全体体力の34%分減少\n[DefeatDuel] 盲目 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DefeatDuel] 自分の蛍光灯部位が、部位全体体力の34%分減少\n[DefeatDuel] 盲目 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DefeatDuel] 자신의 형광등 부위가 부위 전체 체력의 34%만큼 감소.\n[DefeatDuel] 맹목 1을 얻음\nEN:\n[DefeatDuel] This unit's Fluorescence Part loses 34% of Max HP.\n[DefeatDuel] Gain 1 Blind Obsession"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Sinking Count"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 침잠 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 Sinking"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Sinking Count"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 침잠 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 Sinking"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Sinking"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 침잠 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 Sinking"
+  },
+  {
+    "key": "810204-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜殺到\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜殺到\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠쇄도\nEN:\n[OnSucceedAttack] Sinking Deluge"
+  },
+  {
+    "key": "810205-levelList[0].name",
+    "original": "襲いかかる濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "襲いかかる濁流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덮쳐오는 탁류\nEN:\nCrashing Siltcurrent"
+  },
+  {
+    "key": "810205-levelList[0].desc",
+    "original": "[CantDuel][StartBattle] 地形を変化させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel][StartBattle] 地形を変化させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel][StartBattle] 지형을 변화시킴\nEN:\n[CantDuel][StartBattle] Alters the environment"
+  },
+  {
+    "key": "810205-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 3を付与、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 3を付与、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 3 부여, 침잠 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count"
+  },
+  {
+    "key": "810205-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに精神力減少効率 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに精神力減少効率 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 정신력 감소 효율 -2\nEN:\n[OnSucceedAttackHead] Gain -2 SP Loss Efficiency next turn"
+  },
+  {
+    "key": "810205-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 3を付与、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 3を付与、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 3 부여, 침잠 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 3 Sinking and +2 Sinking Count"
+  },
+  {
+    "key": "810206-levelList[0].name",
+    "original": "彷徨う盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "彷徨う盲目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n길잃은 맹목\nEN:\nWayward Blind Obsession"
+  },
+  {
+    "key": "810206-levelList[0].desc",
+    "original": "[CantDuel][CantChangeTarget] 破壊された漂流物を攻撃\n[EndSkill] 自分の蛍光灯部位が、部位全体体力の34%分減少\n[EndBattle] 盲目 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel][CantChangeTarget] 破壊された漂流物を攻撃\n[EndSkill] 自分の蛍光灯部位が、部位全体体力の34%分減少\n[EndBattle] 盲目 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel][CantChangeTarget] 파괴된 표류물을 공격\n[EndSkill] 자신의 형광등 부위가 부위 전체 체력의 34%만큼 감소.\n[EndBattle] 맹목 1을 얻음.\nEN:\n[CantDuel][CantChangeTarget] Targets destroyed Flotsam\n[EndSkill] Fluorescence Part loses 34% of Max HP.\n[EndBattle] Gain 1 Blind Obsession."
+  },
+  {
+    "key": "810206-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象を破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象を破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상을 파괴함.\nEN:\n[OnSucceedAttack] Destroys target."
+  },
+  {
+    "key": "810207-levelList[0].name",
+    "original": "逆巻く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "逆巻く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휩쓸기\nEN:\nSweep"
+  },
+  {
+    "key": "810207-levelList[0].desc",
+    "original": "[EndBattle] 漂流物を生成する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndBattle] 漂流物を生成する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndBattle] 표류물을 생성함\nEN:\n[EndBattle] Create Flotsam"
+  },
+  {
+    "key": "810207-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Sinking"
+  },
+  {
+    "key": "810207-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+  },
+  {
+    "key": "810207-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Sinking"
+  },
+  {
+    "key": "810207-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AaCePcBb]があれば、沈潜 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [AaCePcBb]이 있다면, 침잠 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 Sinking Count if target has [AaCePcBb]"
+  },
+  {
+    "key": "810208-levelList[0].name",
+    "original": "もがく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もがく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸부림\nEN:\nWriggle"
+  },
+  {
+    "key": "810208-levelList[0].desc",
+    "original": "[StartBattle] 盲目 を全て消耗\n[StartBattle] 全ての漂流物と破壊された漂流物を破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 盲目 を全て消耗\n[StartBattle] 全ての漂流物と破壊された漂流物を破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 맹목 전부 소모\n[StartBattle] 모든 표류물과 파괴된 표류물 파괴\nEN:\n[StartBattle] Spend all Blind Obsession\n[StartBattle] Destroy all Flotsam and destroyed Flotsam"
+  },
+  {
+    "key": "810208-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 沈潜 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 침잠 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Sinking"
+  },
+  {
+    "key": "811001-levelList[0].name",
+    "original": "刺す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찌르기\nEN:\nStab"
+  },
+  {
+    "key": "811001-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 出血 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 出血 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 출혈 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 Bleed"
+  },
+  {
+    "key": "811002-levelList[0].name",
+    "original": "傷口穿ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傷口穿ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상처 헤집기\nEN:\nTear Up Wound"
+  },
+  {
+    "key": "811002-levelList[0].desc",
+    "original": "[WinDuel] 精神力5を回復。\n対象の[Laceration]1につきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 精神力5を回復。\n対象の[Laceration]1につきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%\nEN:\n[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target"
+  },
+  {
+    "key": "811002-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "811002-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "811002-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "811003-levelList[0].name",
+    "original": "町を守れ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "町を守れ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마을을 지켜!\nEN:\nProtect the Town!"
+  },
+  {
+    "key": "811003-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 5를 얻음\nEN:\n[WhenUse] Gain 5 Poise"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811003-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811004-levelList[0].name",
+    "original": "結縛用投槍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "結縛用投槍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결박용 투창\nEN:\nTangling Javelin"
+  },
+  {
+    "key": "811004-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 5, 呼吸 回数2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 5, 呼吸 回数2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 5, 호흡 횟수 2를 얻음\nEN:\n[WhenUse] Gain 5 Poise and +2 Poise Count"
+  },
+  {
+    "key": "811004-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 結縛 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 結縛 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 결박 부여\nEN:\n[OnSucceedAttack] Inflict Tangle"
+  },
+  {
+    "key": "811004-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bind next turn"
+  },
+  {
+    "key": "811005-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "811005-levelList[0].desc",
+    "original": "バリアがある間、被ダメージ時に次のターンにて攻撃レベル増加 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バリアがある間、被ダメージ時に次のターンにて攻撃レベル増加 1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보호막이 있는 동안 피격 시, 다음 턴 공격 레벨 증가 1을 얻음.\nEN:\nWhen attacked while this unit has Shield, gain 1 Offense Level Up next turn"
+  },
+  {
+    "key": "811101-levelList[0].name",
+    "original": "連続突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連続突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연속 찌르기\nEN:\nQuick Jabs"
+  },
+  {
+    "key": "811101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 出血 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 出血 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 출혈 횟수 2 증가\nEN:\n[OnSucceedAttackHead] Inflict +2 Bleed Count"
+  },
+  {
+    "key": "811101-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttackHead] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "811102-levelList[0].name",
+    "original": "傷口抉り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傷口抉り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상처 파고들기\nEN:\nCarve Wound"
+  },
+  {
+    "key": "811102-levelList[0].desc",
+    "original": "[WinDuel] 精神力5を回復。\n対象の[Laceration]1につきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 精神力5を回復。\n対象の[Laceration]1につきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 정신력 5 회복.\n대상의 [Laceration]당 피해량 +5%\nEN:\n[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target"
+  },
+  {
+    "key": "811102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "811102-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "811102-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "811102-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "811103-levelList[0].name",
+    "original": "町を守れ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "町を守れ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마을을 지켜!\nEN:\nProtect the Town!"
+  },
+  {
+    "key": "811103-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 5를 얻음\nEN:\n[WhenUse] Gain 5 Poise"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 呼吸 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 호흡 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 Poise Count"
+  },
+  {
+    "key": "811103-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP"
+  },
+  {
+    "key": "811104-levelList[0].name",
+    "original": "捕獲用投槍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捕獲用投槍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포획용 투창\nEN:\nCapturing Javelin"
+  },
+  {
+    "key": "811104-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 5, 呼吸 回数2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 5, 呼吸 回数2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 5, 호흡 횟수 2를 얻음\nEN:\n[WhenUse] Gain 5 Poise and +2 Poise Count"
+  },
+  {
+    "key": "811104-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 捕獲 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 捕獲 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 포획 부여\nEN:\n[OnSucceedAttack] Inflict Capture"
+  },
+  {
+    "key": "811104-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bind next turn"
+  },
+  {
+    "key": "811105-levelList[0].name",
+    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피\nEN:\nEvade"
+  },
+  {
+    "key": "811105-levelList[0].desc",
+    "original": "[OnSucceedEvade] 次のターンに攻撃レベル増加 1を得る(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] 次のターンに攻撃レベル増加 1を得る(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedEvade] 다음 턴에 공격 레벨 증가 1을 얻음 (최대 3)\nEN:\n[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)"
+  },
+  {
+    "key": "810301-levelList[0].name",
+    "original": "狩りの始まり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狩りの始まり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사냥 시작\nEN:\nStarting Hunt"
+  },
+  {
+    "key": "810301-levelList[0].desc",
+    "original": "[StartBattle] 次のターンに味方4名を召喚\n[WhenUse] 次のターンに獲物の印 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 次のターンに味方4名を召喚\n[WhenUse] 次のターンに獲物の印 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 다음 턴에 아군 4명 소환\n[WhenUse] 다음 턴에 대상에게 사냥감의 징표 부여\nEN:\n[StartBattle] Summon 4 allies next turn\n[WhenUse] Apply Prey Mark next turn"
+  },
+  {
+    "key": "810301-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "810302-levelList[0].name",
+    "original": "銛捌き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "銛捌き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n작살질\nEN:\nHarpooning"
+  },
+  {
+    "key": "810302-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "810303-levelList[0].name",
+    "original": "貫く銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫く銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫는 작살\nEN:\nPiercing Harpoon"
+  },
+  {
+    "key": "810303-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 攻撃レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 攻撃レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 공격 레벨 감소 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Offense Level Down"
+  },
+  {
+    "key": "810303-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bind next turn"
+  },
+  {
+    "key": "810303-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Bleed"
+  },
+  {
+    "key": "810304-levelList[0].name",
+    "original": "深呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심호흡\nEN:\nDeep Breath"
+  },
+  {
+    "key": "810304-levelList[0].desc",
+    "original": "[StartBattle] 呼吸 10, 呼吸 回数5を得る。\nこのスキルでクリティカルが発生すると呼吸 回数が減少しない。\nターン終了時、自分を除く味方の生存数だけ次のターンにて[PlusCoinValueUp]を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 呼吸 10, 呼吸 回数5を得る。\nこのスキルでクリティカルが発生すると呼吸 回数が減少しない。\nターン終了時、自分を除く味方の生存数だけ次のターンにて[PlusCoinValueUp]を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 호흡 10, 호흡 횟수 5을 얻음.\n이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n턴 종료 시 자신을 제외하고 생존한 아군 수만큼 다음 턴에 [PlusCoinValueUp]를 얻음.\nEN:\n[StartBattle] Gain 10 Poise and +10 Poise Count.\nCritical Hits do not consume Poise Count with this Skill.\nTurn End: Gain [PlusCoinValueUp] next turn by the number of surviving other allies."
+  },
+  {
+    "key": "810305-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "810305-levelList[0].desc",
+    "original": "このスキルでクリティカルが発生すると呼吸 回数が減少しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルでクリティカルが発生すると呼吸 回数が減少しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음\nEN:\nCritical Hits do not consume Poise Count with this Skill."
+  },
+  {
+    "key": "810305-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 Bleed Count"
+  },
+  {
+    "key": "810306-levelList[0].name",
+    "original": "獲物追跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "獲物追跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사냥감 추적\nEN:\nStalk Prey"
+  },
+  {
+    "key": "810306-levelList[0].desc",
+    "original": "クリティカル発動時、ダメージ量+30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル発動時、ダメージ量+30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 시 피해량 +30%\nEN:\n+30% Damage on Critical Hit"
+  },
+  {
+    "key": "810306-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810306-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810306-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상\nEN:\n[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+  },
+  {
+    "key": "810306-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 Bleed"
+  },
+  {
+    "key": "810307-levelList[0].name",
+    "original": "息の根を止める\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "息の根を止める\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숨통 끊기\nEN:\nCut Throat"
+  },
+  {
+    "key": "810307-levelList[0].desc",
+    "original": "このスキルでクリティカルが発生すると呼吸 回数が減少しない。\n対象の[Laceration]1につき、ダメージ量+5%\n[WhenUse] 自分に呼吸がない場合、ターン終了時に混乱する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルでクリティカルが発生すると呼吸 回数が減少しない。\n対象の[Laceration]1につき、ダメージ量+5%\n[WhenUse] 自分に呼吸がない場合、ターン終了時に混乱する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n대상의 [Laceration]당 피해량 +5%\n[WhenUse] 자신에게 호흡이 없는 경우, 턴 종료 시 흐트러짐 상태가 됨.\nEN:\nThis Skill does not consume Poise Count upon Critical Hit.\nDeal +5% damage for every [Laceration] on target\n[WhenUse] Staggered at Turn End if this unit does not have Poise on self."
+  },
+  {
+    "key": "810307-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "クリティカル発動時、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル発動時、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 시 피해량 50%\nEN:\n+50% Damage on Critical Hit"
+  },
+  {
+    "key": "810307-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに混乱させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに混乱させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 흐트러짐 상태로 만듦\nEN:\n[OnSucceedAttack] Stagger target next turn"
+  },
+  {
+    "key": "810308-levelList[0].name",
+    "original": "深い呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深い呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깊은 호흡\nEN:\nDeep Breathing"
+  },
+  {
+    "key": "810308-levelList[0].desc",
+    "original": "[StartBattle] 呼吸 3, 呼吸 回数 5を得る。\nこのターンの間、自分の呼吸 威力分最終威力が増加。\nこのターンの間、被ダメージ時に呼吸 回数を1失う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 呼吸 3, 呼吸 回数 5を得る。\nこのターンの間、自分の呼吸 威力分最終威力が増加。\nこのターンの間、被ダメージ時に呼吸 回数を1失う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 호흡 3, 호흡 횟수 5를 얻음.\n이번 턴동안 자신의 호흡 위력만큼 최종 위력이 증가함.\n이번 턴동안 피격 시 호흡 횟수 1 잃음.\nEN:\n[StartBattle] Gain 3 Poise and +5 Poise Count.\nFor this turn, gain Final Power equal to Poise Potency on self.\nFor this turn, lose 1 Poise Count when attacked."
+  },
+  {
+    "key": "810309-levelList[0].name",
+    "original": "生存への意地\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生存への意地\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생존의 오기\nEN:\nTo Survive"
+  },
+  {
+    "key": "810309-levelList[0].desc",
+    "original": "クリティカル発動時、ダメージ量+30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル発動時、ダメージ量+30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 시 피해량 +30%\nEN:\n+30% Damage on Critical Hit"
+  },
+  {
+    "key": "810309-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+  },
+  {
+    "key": "810309-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+  },
+  {
+    "key": "810309-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+  },
+  {
+    "key": "810310-levelList[0].name",
+    "original": "守ら…ないと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守ら…ないと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지켜...야해\nEN:\nMust... Protect"
+  },
+  {
+    "key": "810310-levelList[0].desc",
+    "original": "[TurnStartBattle] このスキルを使用するとき、自分の援護バリア 数値が0より大きければ援護防御が発動\n[StartBattle] 体力最大値の10%だけ援護防御バリア を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[TurnStartBattle] このスキルを使用するとき、自分の援護バリア 数値が0より大きければ援護防御が発動\n[StartBattle] 体力最大値の10%だけ援護防御バリア を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[TurnStartBattle] 이 스킬을 사용할 때 자신의 원호 방어 보호막 수치가 0보다 크면 원호 방어가 발동함.\n[StartBattle] 최대 체력의 10%만큼 원호 방어 보호막 을 얻음.\nEN:\n[TurnStartBattle] Upon using this Skill, if this unit has more than 0 Assist Barrier, activate Assist Defense.\n[StartBattle] Gain 10% of max HP as Assist Barrier."
+  },
+  {
+    "key": "810311-levelList[0].name",
+    "original": "根性の銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "根性の銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n근성의 작살\nEN:\nPersistent Harpoon"
+  },
+  {
+    "key": "810311-levelList[0].desc",
+    "original": "スターバックと同じ対象を攻撃時、最終威力+2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スターバックと同じ対象を攻撃時、最終威力+2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스타벅과 동일한 대상 공격 시 최종 위력 +2\nEN:\nFinal Power +1 when attacking the same target as Starbuck"
+  },
+  {
+    "key": "810311-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+  },
+  {
+    "key": "810311-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 結縛 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 結縛 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 결박 부여\nEN:\n[OnSucceedAttack] Inflict Tangle"
+  },
+  {
+    "key": "810311-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 本体と部位の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 본체와 부위의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal Core and Part HP by 50% of damage dealt"
+  },
+  {
+    "key": "810312-levelList[0].name",
+    "original": "かり…おわらせないと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "かり…おわらせないと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사냥... 끝내야해\nEN:\nMust Finish Hunt..."
+  },
+  {
+    "key": "810312-levelList[0].desc",
+    "original": "このスキルでクリティカルが発生すると呼吸 回数が減少しない。\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルでクリティカルが発生すると呼吸 回数が減少しない。\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬에서 크리티컬이 발생하면 호흡 횟수가 감소하지 않음.\n대상의 [Laceration]당 피해량 +5%\nEN:\nCritical Hits do not consume Poise Count with this Skill.\nDeal +5% damage per [Laceration] on target"
+  },
+  {
+    "key": "810312-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "クリティカル発動時、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル発動時、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 시 피해량 50%\nEN:\n+50% Damage on Critical Hit"
+  },
+  {
+    "key": "810312-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに対象を混乱させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに対象を混乱させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 대상을 흐트러짐 상태로 만듦\nEN:\n[OnSucceedAttack] Stagger target next turn"
+  },
+  {
+    "key": "810401-levelList[0].name",
+    "original": "掘り穿つ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "掘り穿つ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후벼파기\nEN:\nImpale"
+  },
+  {
+    "key": "810401-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 횟수 3 증가\nEN:\n[WhenUse] Gain +3 Poise Count"
+  },
+  {
+    "key": "810401-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810401-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810401-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810402-levelList[0].name",
+    "original": "突き抜く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "突き抜く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뚫어내기\nEN:\nPiercing Thrust"
+  },
+  {
+    "key": "810402-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 5를 얻음\nEN:\n[WhenUse] Gain 5 Poise"
+  },
+  {
+    "key": "810402-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 취약 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Fragile next turn"
+  },
+  {
+    "key": "810402-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 감소 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Defense Level Down next turn"
+  },
+  {
+    "key": "810402-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] このコインを1回再使用(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] このコインを1回再使用(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 이 코인 재사용 1회 (최대 3회)\nEN:\n[OnSucceedAttackHead] Reuse this Coin once (Max 3)"
+  },
+  {
+    "key": "810403-levelList[0].name",
+    "original": "命令に従い…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "命令に従い…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명령을 받들어...\nEN:\nI Follow Orders..."
+  },
+  {
+    "key": "810403-levelList[0].desc",
+    "original": "[TurnStartBattle] クィークェグの援護防御バリア 数値が0寄り大木れば援護攻撃効果が発動する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[TurnStartBattle] クィークェグの援護防御バリア 数値が0より大きければ援護攻撃効果が発動する\n<CMT_KR>오식: \"[TurnStartBattle] クィークェグの援護防御バリア 数値が0「寄り大木れば」援護攻撃効果が発動する\" 정확: \"クィークェグの援護防御バリア 数値が0「より大きければ」援護攻撃効果が発動する\"\n<CMT_EN>Typo: \"[TurnStartBattle] クィークェグの援護防御バリア 数値が0「寄り大木れば」援護攻撃効果が発動する\" Correction: \"クィークェグの援護防御バリア 数値が0「より大きければ」援護攻撃効果が発動する\"\n<CMT_JP>誤植: \"[TurnStartBattle] クィークェグの援護防御バリア 数値が0「寄り大木れば」援護攻撃効果が発動する\" 訂正後: \"クィークェグの援護防御バリア 数値が0「より大きければ」援護攻撃効果が発動する\"",
+    "stage": 1,
+    "context": "KR:\n[TurnStartBattle] 퀴케그의 원호 방어 보호막 수치가 0보다 크면 원호 공격 효과가 발동함\nEN:\n[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Assist Attack"
+  },
+  {
+    "key": "810403-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810404-levelList[0].name",
+    "original": "急襲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "急襲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n급습\nEN:\nAmbush"
+  },
+  {
+    "key": "810404-levelList[0].desc",
+    "original": "クリティカル時、ダメージ量 +50%\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル時、ダメージ量 +50%\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 시 피해량 50%\n대상의 [Laceration]당 피해량 +5%\nEN:\nDeal +50% damage with Critical Hit\nDeal +5% damage per [Laceration] on target"
+  },
+  {
+    "key": "810404-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Bleed Count"
+  },
+  {
+    "key": "810404-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상\nEN:\n[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+  },
+  {
+    "key": "810405-levelList[0].name",
+    "original": "恐れの嘆息\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "恐れの嘆息\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두려움의 탄식\nEN:\nFearful Sigh"
+  },
+  {
+    "key": "810405-levelList[0].desc",
+    "original": "[WhenUse] 呼吸 回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 呼吸 回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 호흡 횟수 6 증가\nEN:\n[WhenUse] Gain +6 Poise Count"
+  },
+  {
+    "key": "810405-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810405-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810405-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Bleed Count"
+  },
+  {
+    "key": "810406-levelList[0].name",
+    "original": "闘志の銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "闘志の銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n투지의 작살\nEN:\nDetermined Harpoon"
+  },
+  {
+    "key": "810406-levelList[0].desc",
+    "original": "クィークェグと同じ対象を攻撃時、最終威力+2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クィークェグと同じ対象を攻撃時、最終威力+2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퀴케그와 동일한 대상 공격 시 최종 위력 +2\nEN:\nFinal Power +2 when attacking the same target as Queequeg"
+  },
+  {
+    "key": "810406-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 捕獲 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 捕獲 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 포획 부여\nEN:\n[OnSucceedAttack] Inflict Capture"
+  },
+  {
+    "key": "810406-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル減少 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル減少 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 감소 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 Defense Level Down next turn"
+  },
+  {
+    "key": "810406-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 취약 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Fragile next turn"
+  },
+  {
+    "key": "810406-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] このコインを1回再使用(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] このコインを1回再使用(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 이 코인 재사용 1회 (최대 3회)\nEN:\n[OnSucceedAttackTail] Reuse this Coin once (Max 3)"
+  },
+  {
+    "key": "810407-levelList[0].name",
+    "original": "出るためなら…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出るためなら…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나가기 위해서라면...\nEN:\nTo Escape..."
+  },
+  {
+    "key": "810407-levelList[0].desc",
+    "original": "クリティカル時、ダメージ量+100%\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル時、ダメージ量+100%\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 시 피해량 100%\n대상의 [Laceration]당 피해량 +5%\nEN:\nDeal +100% damage with Critical Hit\nDeal +5% damage per [Laceration] on target"
+  },
+  {
+    "key": "810407-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Bleed Count"
+  },
+  {
+    "key": "810407-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] ダメージ量の50%分、対象の最初の混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] 피해량의 50%만큼 대상의 첫번째 흐트러짐 구간을 손상\nEN:\n[CriticalOnSucceedAttack] Raise target's first Stagger Threshold by 50% of damage dealt"
+  },
+  {
+    "key": "810501-levelList[0].name",
+    "original": "私の指示に服従しろ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私の指示に服従しろ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 지시에 복종해\nEN:\nObey My Orders"
+  },
+  {
+    "key": "810501-levelList[0].desc",
+    "original": "[WhenUse] 自分と自分を除く精神力の最も低い味方1名の精神力が10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分と自分を除く精神力の最も低い味方1名の精神力が10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신과 자신을 제외하고 정신력이 가장 낮은 아군 1명의 정신력 10 회복\nEN:\n[WhenUse] Heal 10 SP for self and 1 other ally with the least SP"
+  },
+  {
+    "key": "810502-levelList[0].name",
+    "original": "私の周りに立て！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私の周りに立て！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 주위에 서라!\nEN:\nTo Me!"
+  },
+  {
+    "key": "810502-levelList[0].desc",
+    "original": "[StartBattle] クィークェグに次のターンにて援護防御命令を下す。自分が混乱状態になると命令が取り消される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] クィークェグに次のターンにて援護防御命令を下す。自分が混乱状態になると命令が取り消される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 퀴케그에게 다음 턴에 원호 방어 명령을 내림. 자신이 흐트러짐 상태가 되면 명령이 취소됨.\nEN:\n[StartBattle] Order Queequeg to activate Assist Defense next turn. Order is canceled when this unit is Staggered."
+  },
+  {
+    "key": "810503-levelList[0].name",
+    "original": "最後まで追跡しろ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最後まで追跡しろ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끝까지 추적해!\nEN:\nTrack Them to the End!"
+  },
+  {
+    "key": "810503-levelList[0].desc",
+    "original": "[StartBattle] スターバックに次のターンにて援護攻撃命令を下す。自分が混乱状態になると命令が取り消される。\n[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] スターバックに次のターンにて援護攻撃命令を下す。自分が混乱状態になると命令が取り消される。\n[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 스타벅에게 다음 턴에 원호 공격 명령을 내림. 자신이 흐트러짐 상태가 되면 명령이 취소됨.\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여\nEN:\n[StartBattle] Order Starbuck to activate Assist Attack next turn. Order is canceled when this unit is Staggered.\n[WhenUse] Apply 1 Prey Mark next turn"
+  },
+  {
+    "key": "810504-levelList[0].name",
+    "original": "老練の銛捌き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "老練の銛捌き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노련한 작살질\nEN:\nVeteran's Harpoon"
+  },
+  {
+    "key": "810504-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "810504-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Bleed"
+  },
+  {
+    "key": "810505-levelList[0].name",
+    "original": "火が如き銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火が如き銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불 같은 작살\nEN:\nBurning Harpoon"
+  },
+  {
+    "key": "810505-levelList[0].desc",
+    "original": "メインターゲットの保有するマイナス効果1つにつき、最終威力+1(最大5)\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットの保有するマイナス効果1つにつき、最終威力+1(最大5)\n対象の[Laceration]1つにつきダメージ量+5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 공격 대상이 보유한 부정적인 효과 1개당 최종 위력 +1 (최대 5)\n대상의 [Laceration]당 피해량 +5%\nEN:\nFinal Power +1 for every negative effect on main target (Max 5)\nDeal +5% damage per [Laceration] on target"
+  },
+  {
+    "key": "810505-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Bleed"
+  },
+  {
+    "key": "810505-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Bleed"
+  },
+  {
+    "key": "810505-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の出血分、火傷 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の出血分、火傷 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 출혈만큼 화상 부여\nEN:\n[OnSucceedAttack] Inflict Burn by Bleed on target"
+  },
+  {
+    "key": "810506-levelList[0].name",
+    "original": "馬鹿め！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "馬鹿め！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바보 같으니!\nEN:\nFoolishness!"
+  },
+  {
+    "key": "810506-levelList[0].desc",
+    "original": "[WhenUse] 自分の精神力を5回復\n[OnSucceedEvade] 対象の精神力を5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の精神力を5回復\n[OnSucceedEvade] 対象の精神力を5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 정신력 5 회복\n[OnSucceedEvade] 대상의 정신력 5 감소\nEN:\n[WhenUse] Heal 5 SP\n[OnSucceedEvade] Target loses 5 SP"
+  },
+  {
+    "key": "810507-levelList[0].name",
+    "original": "息を吐き出せ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "息を吐き出せ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숨결을 토해내라!\nEN:\nExhale!"
+  },
+  {
+    "key": "810507-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに獲物の印 1を付与\n[WinDuel] 呼吸 4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに獲物の印 1を付与\n[WinDuel] 呼吸 4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여\n[WinDuel] 호흡 4 얻음\nEN:\n[WhenUse] Inflict 1 Prey Mark next turn\n[WinDuel] Gain 4 Poise"
+  },
+  {
+    "key": "810507-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分を除く味方2名へ呼吸 4を付与。\n味方がいない場合は呼吸 回数が 2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分を除く味方2名へ呼吸 4を付与。\n味方がいない場合は呼吸 回数が 2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신을 제외한 아군 2명에게 호흡 4 부여.\n아군이 없는 경우, 대신 호흡 횟수 2 증가\nEN:\n[OnSucceedAttack] Apply 4 Poise to 2 other allies.\nIf there are no other allies, gain 2 Poise Count instead."
+  },
+  {
+    "key": "810508-levelList[0].name",
+    "original": "最後の恐怖を飛ばしてやろう！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最後の恐怖を飛ばしてやろう！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마지막 공포를 날려주마!\nEN:\nBe Fearless!"
+  },
+  {
+    "key": "810508-levelList[0].desc",
+    "original": "[WhenUse] 自分の精神力が10回復。自分を除く精神力が最も高い味方1名の精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の精神力が10回復。自分を除く精神力が最も高い味方1名の精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 정신력 10 회복. 자신을 제외하고 정신력이 가장 높은 아군 1명의 정신력 10 감소\nEN:\n[WhenUse] Heal 10 SP on self. 1 other ally with the highest SP loses 10 SP"
+  },
+  {
+    "key": "810508-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 火傷 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Burn Count"
+  },
+  {
+    "key": "810508-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여\nEN:\n[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+  },
+  {
+    "key": "810508-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 火傷 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Burn Count"
+  },
+  {
+    "key": "810508-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여\nEN:\n[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+  },
+  {
+    "key": "810508-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 火傷 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 Burn Count"
+  },
+  {
+    "key": "810508-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンにて、自分を除くランダムな味方1名へ麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 자신을 제외한 무작위 아군 1명에게 마비 1 부여\nEN:\n[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
+  },
+  {
+    "key": "810509-levelList[0].name",
+    "original": "死の焼き入れ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死の焼き入れ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죽음의 담금질\nEN:\nTempering of Death"
+  },
+  {
+    "key": "810509-levelList[0].desc",
+    "original": "[WhenUse] 精神力が最も低い味方1名へ逆らえぬ命令 を下す\n[DefeatDuel] 精神力が最も低い味方1名の混乱区間を20前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 精神力が最も低い味方1名へ逆らえぬ命令 を下す\n[DefeatDuel] 精神力が最も低い味方1名の混乱区間を20前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 정신력이 가장 낮은 아군 1명에게 거역할 수 없는 명령 을 내림\n[DefeatDuel] 정신력이 가장 낮은 아군 1명 흐트러짐 손상 20\nEN:\n[WhenUse] Apply Undefiable Command to 1 ally with the lowest SP\n[DefeatDuel] Raise Stagger Threshold by 20 for 1 ally with the lowest SP"
+  },
+  {
+    "key": "810509-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 취약 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Fragile"
+  },
+  {
+    "key": "810601-levelList[0].name",
+    "original": "掛かって来い！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "掛かって来い！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덤벼봐라!\nEN:\nStrike Me Down!"
+  },
+  {
+    "key": "810601-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Bleed"
+  },
+  {
+    "key": "810601-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Bleed Count"
+  },
+  {
+    "key": "810601-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Bleed"
+  },
+  {
+    "key": "810601-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Bleed Count"
+  },
+  {
+    "key": "810602-levelList[0].name",
+    "original": "刺し殺す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺し殺す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찔러 죽이기\nEN:\nStab to Kill"
+  },
+  {
+    "key": "810602-levelList[0].desc",
+    "original": "最大体力が最も低い対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力が最も低い対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력이 가장 낮은 대상 공격\nEN:\nTargets the unit with the least Max HP"
+  },
+  {
+    "key": "810602-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 攻撃レベル減少 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 攻撃レベル減少 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 공격 레벨 감소 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 Offense Level Down"
+  },
+  {
+    "key": "810602-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Bleed Count"
+  },
+  {
+    "key": "810603-levelList[0].name",
+    "original": "不滅の魂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不滅の魂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불멸의 영혼\nEN:\nUndying Soul"
+  },
+  {
+    "key": "810603-levelList[0].desc",
+    "original": "回避失敗時にも再使用(最大2回)\n[OnDefeatEvade] ピップの自我 が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避失敗時にも再使用(最大2回)\n[OnDefeatEvade] ピップの自我 が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피 실패 시에도 재사용 (최대 2회)\n[OnDefeatEvade] 핍의 자아 2 감소\nEN:\nRe-use Evade upon Evade failure (Up to 2 times)\n[OnDefeatEvade] Lose 2 Pip's Ego"
+  },
+  {
+    "key": "810604-levelList[0].name",
+    "original": "濁った潔白\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "濁った潔白\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐릿한 결백\nEN:\nMurky Innocence"
+  },
+  {
+    "key": "810604-levelList[0].desc",
+    "original": "[DefeatDuel] 守備威力減少 2を得る。自分の精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DefeatDuel] 守備威力減少 2を得る。自分の精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DefeatDuel] 수비 위력 감소 2 얻음. 자신의 정신력 10 감소\nEN:\n[DefeatDuel] Gain 2 Defense Power Down. Lose 10 SP on self"
+  },
+  {
+    "key": "810604-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 창백한 소음 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+  },
+  {
+    "key": "810604-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 麻痺 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 마비 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Paralyze"
+  },
+  {
+    "key": "810604-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 창백한 소음 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+  },
+  {
+    "key": "810604-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに束縛 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bind next turn"
+  },
+  {
+    "key": "810605-levelList[0].name",
+    "original": "罪悪感の重さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪悪感の重さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄책감의 무게\nEN:\nWeight of Guilt"
+  },
+  {
+    "key": "810605-levelList[0].desc",
+    "original": "体力最大値が最も低い対象3名を攻撃\n[StartBattle] ピップの自我 5につき基本威力+2, 攻撃加重値+1\n[WhenUse] ピップの自我 が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力最大値が最も低い対象3名を攻撃\n[StartBattle] ピップの自我 5につき基本威力+2, 攻撃加重値+1\n[WhenUse] ピップの自我 が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력이 가장 낮은 대상 3명 공격\n[StartBattle] 핍의 자아 5당 기본 위력 +2, 공격 가중치 +1\n[WhenUse] 핍의 자아 3 감소\nEN:\nTargets 3 units with the least Max HP\n[StartBattle] Gain Base Power +2 and Atk Weight +1 for every 5 Pip's Ego\n[WhenUse] Lose 3 Pip's Ego"
+  },
+  {
+    "key": "810605-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 창백한 소음 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Pallid Noise"
+  },
+  {
+    "key": "810605-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 混乱区間を30前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 混乱区間を30前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 흐트러짐 손상 30\nEN:\n[OnSucceedAttack] Raise Stagger Threshold by 30"
+  },
+  {
+    "key": "810605-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackHead] 対象の精神力を10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 対象の精神力を10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 대상의 정신력 10 감소\nEN:\n[OnSucceedAttackHead] Target loses 10 SP"
+  },
+  {
+    "key": "810606-levelList[0].name",
+    "original": "사용하지않는스킬(번역x)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용하지않는스킬(번역x)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용하지않는스킬(번역x)\nEN:\n사용하지않는스킬(번역x)"
+  },
+  {
+    "key": "810607-levelList[0].name",
+    "original": "覆い隠された恐れ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覆い隠された恐れ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒤덮힌 두려움\nEN:\nSwathed Fear"
+  },
+  {
+    "key": "810607-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여\nEN:\n[WhenUse] Inflict 1 Prey Mark next turn"
+  },
+  {
+    "key": "810607-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 창백한 소음 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+  },
+  {
+    "key": "810607-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 出血 3を付与、出血 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 3を付与、出血 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 3 부여, 출혈 횟수 4 증가\nEN:\n[OnSucceedAttack] Inflict 3 Bleed and +4 Bleed Count"
+  },
+  {
+    "key": "810608-levelList[0].name",
+    "original": "貫かれた惰弱さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫かれた惰弱さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫린 나약함\nEN:\nPunctured Weakness"
+  },
+  {
+    "key": "810608-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여\nEN:\n[WhenUse] Inflict 1 Prey Mark next turn"
+  },
+  {
+    "key": "810608-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 창백한 소음 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+  },
+  {
+    "key": "810608-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに攻撃レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに攻撃レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 공격 레벨 감소 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+  },
+  {
+    "key": "810609-levelList[0].name",
+    "original": "木霊する嘆息\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "木霊する嘆息\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탄식의 메아리\nEN:\nEchoing Cry"
+  },
+  {
+    "key": "810609-levelList[0].desc",
+    "original": "対象の出血 1につきダメージ量+5%\n対象に獲物の印 が無いならコイン威力+1\n[DefeatDuel] 精神力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の出血 1につきダメージ量+5%\n対象に獲物の印 が無いならコイン威力+1\n[DefeatDuel] 精神力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 출혈 1 당 피해량 +5%\n대상에게 사냥감의 징표 가 없으면 코인 위력 +1\n[DefeatDuel] 정신력 5 감소\nEN:\nDeal +5% damage for every 1 Bleed on target\nIf target does not have Prey Mark, Coin Power +1\n[DefeatDuel] Lose 5 SP"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3\nEN:\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3\nEN:\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3\nEN:\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3\nEN:\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[4].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムな敵3名に精神力ダメージ3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 무작위 적 3명에게 정신 피해 3\nEN:\n[OnSucceedAttack] Inflict 3 SP damage on 3 random enemies"
+  },
+  {
+    "key": "810609-levelList[0].coinlist[4].coindescs[2].desc",
+    "original": "[OnSucceedAttack] スターバックの自我10につき、最後のコインを1回再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] スターバックの自我10につき、最後のコインを1回再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 스타벅의 자아 10당 마지막 코인 1회 재사용\nEN:\n[OnSucceedAttack] Reuse the final Coin once for every 10 Starbuck's Ego"
+  },
+  {
+    "key": "810610-levelList[0].name",
+    "original": "混濁した軌跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混濁した軌跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혼탁한 궤적\nEN:\nClouded Path"
+  },
+  {
+    "key": "810610-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに獲物の印 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 사냥감의 징표 1 부여\nEN:\n[WhenUse] Inflict 1 Prey Mark next turn"
+  },
+  {
+    "key": "810610-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ダメージ量減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 피해량 감소 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Damage Down"
+  },
+  {
+    "key": "810610-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Bleed Count"
+  },
+  {
+    "key": "810610-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 蒼白な騒音 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 창백한 소음 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Pallid Noise"
+  },
+  {
+    "key": "810610-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 出血 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 Bleed"
+  },
+  {
+    "key": "810611-levelList[0].name",
+    "original": "脱色された懺悔\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脱色された懺悔\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈색된 참회\nEN:\nBleached Atonement"
+  },
+  {
+    "key": "810611-levelList[0].desc",
+    "original": "[WhenUse] クィークェグの自我 が5減少\n[WinDuel] 防御レベル増加 6を得る\n[DefeatDuel] 精神力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] クィークェグの自我 が5減少\n[WinDuel] 防御レベル増加 6を得る\n[DefeatDuel] 精神力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 퀴케그의 자아 5 감소\n[WinDuel] 방어 레벨 증가 6 얻음\n[DefeatDuel] 정신력 5 감소\nEN:\n[WhenUse] Lose 5 Queequeg's Ego\n[WinDuel] Gain 6 Defense Level Up\n[DefeatDuel] Lose 5 SP"
+  },
+  {
+    "key": "810611-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 蒼白な騒音 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 蒼白な騒音 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 창백한 소음 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Pallid Noise"
+  },
+  {
+    "key": "810611-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象を混乱させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象を混乱させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상을 흐트러짐 상태로 만듦\nEN:\n[OnSucceedAttack] Stagger target"
+  },
+  {
+    "key": "810612-levelList[0].name",
+    "original": "広がりゆく白化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "広がりゆく白化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퍼져나오는 백화\nEN:\nInsidious Pallidification"
+  },
+  {
+    "key": "810612-levelList[0].desc",
+    "original": "[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.5%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.5%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 최대 체력의 10%만큼 보호막을 얻음. 퀴케그의 자아 1 당 최대 체력의 0.5%만큼 보호막을 추가로 얻음.\n 보호막이 있는동안 피격 시 대상의 정신력 5 감소.\n피격 시 퀴케그의 자아 10당 스킬 1회 재사용\nEN:\n[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.5% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego"
+  },
+  {
+    "key": "810612-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810612-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
+  },
+  {
+    "key": "810007-levelList[0].name",
+    "original": "予言を蔑視するでない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予言を蔑視するでない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예언을 멸시치 말라\nEN:\nScorn Not the Prophecy"
+  },
+  {
+    "key": "810007-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion] 5 부여, [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Combustion] and 2 [Combustion] Count on target"
+  }
+]

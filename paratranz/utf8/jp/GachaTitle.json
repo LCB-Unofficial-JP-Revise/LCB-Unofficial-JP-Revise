@@ -1,0 +1,961 @@
+[
+  {
+    "key": "1-content",
+    "original": "一般抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 추출\nEN:\nStandard Extraction"
+  },
+  {
+    "key": "2-content",
+    "original": "星3人格 確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星3人格 確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3성 인격 확정 추출\nEN:\nAssured Extraction: 3★ Identity"
+  },
+  {
+    "key": "3-content",
+    "original": "新任管理人 記念抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新任管理人 記念抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신입 관리자 기념 추출\nEN:\nNew Manager’s Welcome Extraction"
+  },
+  {
+    "key": "4-content",
+    "original": "シーズン1 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン1 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 1 - 3성 인격 확정 추출\nEN:\n[Season 1] Assured Extraction: 3★ Identity"
+  },
+  {
+    "key": "101-content",
+    "original": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 그레고르\nEN:\nTarget Extraction: Gregor"
+  },
+  {
+    "key": "102-content",
+    "original": "新規特定抽出 N社-#1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 N社-#1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 N사-#1\nEN:\nNew Target Extraction: N Corp. #1"
+  },
+  {
+    "key": "103-content",
+    "original": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 로쟈\nEN:\nTarget Extraction: Rodion"
+  },
+  {
+    "key": "104-content",
+    "original": "新規特定抽出 N社-#2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 N社-#2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 N사-#2\nEN:\nNew Target Extraction: N Corp. #2"
+  },
+  {
+    "key": "105-content",
+    "original": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 히스클리프\nEN:\nTarget Extraction: Heathcliff"
+  },
+  {
+    "key": "106-content",
+    "original": "新規特定抽出 セブン協会7課部長 ウーティス, リウ協会5課 ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 セブン協会7課部長 ウーティス, リウ協会5課 ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 세븐 협회 6과 부장 오티스, 리우 협회 5과 홍루\nEN:\nNew Target Extraction: Seven S6 Director Outis & Liu S5 Hong Lu"
+  },
+  {
+    "key": "107-content",
+    "original": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 돈키호테\nEN:\nTarget Extraction: Don Quixote"
+  },
+  {
+    "key": "108-content",
+    "original": "新規特定抽出 ヘルズチキン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 ヘルズチキン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 헬스 치킨\nEN:\nNew Target Extraction: Hell’s Chicken"
+  },
+  {
+    "key": "109-content",
+    "original": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 홍루\nEN:\nTarget Extraction: Hong Lu"
+  },
+  {
+    "key": "110-content",
+    "original": "新規特定抽出 N社-#3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 N社-#3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 N사-#3\nEN:\nNew Target Extraction: N Corp. #3"
+  },
+  {
+    "key": "111-content",
+    "original": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 파우스트\nEN:\nTarget Extraction: Faust"
+  },
+  {
+    "key": "112-content",
+    "original": "特定抽出E.G.O 次元裂き イサン・ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出E.G.O 次元裂き イサン・ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 E.G.O 차원찢개 이상 · 홍루\nEN:\nTarget Extraction: Dimension Shredder for Yi Sang & Hong Lu"
+  },
+  {
+    "key": "113-content",
+    "original": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 뫼르소\nEN:\nTarget Extraction: Meursault"
+  },
+  {
+    "key": "114-content",
+    "original": "新規特定抽出 バラのスパナ工房事務所\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 バラのスパナ工房事務所\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 장미스패너 공방 사무소\nEN:\nNew Target Extraction: Rosespanner Workshop"
+  },
+  {
+    "key": "5-content",
+    "original": "シーズン2 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン2 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 2 - 3성 인격 확정 추출\nEN:\n[Season 2] Assured Extraction: 3★ Identity"
+  },
+  {
+    "key": "115-content",
+    "original": "新規特定抽出 技術解放連合・バラのスパナ工房\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 技術解放連合・バラのスパナ工房\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 기술해방연합 · 장미스패너 공방\nEN:\nNew Target Extraction: Technology Liberation Alliance & Rosespanner Workshop"
+  },
+  {
+    "key": "116-content",
+    "original": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 오티스\nEN:\nTarget Extraction: Outis"
+  },
+  {
+    "key": "117-content",
+    "original": "新規特定抽出 技術解放連合#2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 技術解放連合#2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 기술해방연합#2\nEN:\nNew Target Extraction: Technology Liberation Alliance #2"
+  },
+  {
+    "key": "118-content",
+    "original": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 싱클레어\nEN:\nTarget Extraction: Sinclair"
+  },
+  {
+    "key": "119-content",
+    "original": "新規特定抽出 K社・技術解放連合#3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 K社・技術解放連合#3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 K사 · 기술해방연합#3\nEN:\nNew Target Extraction: K Corp & Technology Liberation Alliance #3"
+  },
+  {
+    "key": "120-content",
+    "original": "新規E.G.O特定抽出 赤眼・赤眼(開)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 赤眼・赤眼(開)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 적안 · 적안(開)\nEN:\nTarget Extraction: Red Eyes & Red Eyes (Open)"
+  },
+  {
+    "key": "121-content",
+    "original": "新規特定抽出 南部リウ協会4課 イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部リウ協会4課 イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 리우 협회 4과 이스마엘\nEN:\nNew Target Extraction: Liu South Section 4 Ishmael"
+  },
+  {
+    "key": "122-content",
+    "original": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이상\nEN:\nTarget Extraction: Yi Sang"
+  },
+  {
+    "key": "123-content",
+    "original": "新規特定抽出 R社第4群 サイチーム ムルソー・南部ツヴァイ協会5課 ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 R社第4群 サイチーム ムルソー・南部ツヴァイ協会5課 ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 R사 제 4무리 코뿔소 팀 뫼르소 · 남부 츠바이 협회 5과 로쟈\nEN:\nNew Target Extraction: R Corp. 4th Pack Rhino Meursault & Zwei South Section 5 Rodion"
+  },
+  {
+    "key": "124-content",
+    "original": "新規特定抽出 南部センク協会5課部長 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部センク協会5課部長 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 섕크 협회 5과 부장 돈키호테\nEN:\nNew Target Extraction: Cinq South Section 5 Director Don Quixote"
+  },
+  {
+    "key": "125-content",
+    "original": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 료슈\nEN:\nTarget Extraction: Ryōshū"
+  },
+  {
+    "key": "126-content",
+    "original": "新規人格・E.G.O特定抽出 う・み・ダ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 う・み・ダ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 우.미.다\nEN:\nNew Target Extraction: Identity & E.G.O - S.E.A"
+  },
+  {
+    "key": "127-content",
+    "original": "新規特定抽出 南部ツヴァイ協会4課 グレゴール・ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部ツヴァイ協会4課 グレゴール・ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 츠바이 협회 4과 그레고르 · 파우스트\nEN:\nNew Target Extraction: Zwei South Section 4 Gregor & Faust"
+  },
+  {
+    "key": "128-content",
+    "original": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이스마엘\nEN:\nTarget Extraction: Ishmael"
+  },
+  {
+    "key": "129-content",
+    "original": "新規特定抽出 W社3級整理要員 良秀・2級整理要員 ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 W社3級整理要員 良秀・2級整理要員 ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 W사 3등급 정리요원 료슈 · 2등급 정리요원 홍루\nEN:\nNew Target Extraction: W Corp. L3 Cleanup Agent Ryōshū & L2 Cleanup Agent Hong Lu"
+  },
+  {
+    "key": "130-content",
+    "original": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 돈키호테\nEN:\nTarget Extraction: Don Quixote"
+  },
+  {
+    "key": "131-content",
+    "original": "新規特定抽出 南部セブン協会4課 ファウスト・ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部セブン協会4課 ファウスト・ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 세븐 협회 4과 파우스트 · 히스클리프\nEN:\nNew Target Extraction: Seven South Section 4 Faust & Heathcliff"
+  },
+  {
+    "key": "132-content",
+    "original": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 그레고르\nEN:\nTarget Extraction: Gregor"
+  },
+  {
+    "key": "133-content",
+    "original": "新規特定抽出 南部ディエーチ協会4課 ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部ディエーチ協会4課 ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 디에치 협회 4과 로쟈\nEN:\nNew Target Extraction: Dieci South Section 4 Rodion"
+  },
+  {
+    "key": "134-content",
+    "original": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 홍루\nEN:\nTarget Extraction: Hong Lu"
+  },
+  {
+    "key": "135-content",
+    "original": "新規E.G.O特定抽出 提灯シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 提灯シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 초롱 싱클레어\nEN:\nNew E.G.O Target Extraction: Lantern for Sinclair"
+  },
+  {
+    "key": "136-content",
+    "original": "新規E.G.O特定抽出 空即是色ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 空即是色ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 공즉시색 히스클리프\nEN:\nNew E.G.O Target Extraction: Ya Śūnyatā Tad Rūpam for Heathcliff"
+  },
+  {
+    "key": "137-content",
+    "original": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 로쟈\nEN:\nTarget Extraction: Rodion"
+  },
+  {
+    "key": "138-content",
+    "original": "第1回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "第1回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제1회 발푸르기스의 밤 특정 추출\nEN:\nThe 1st Walpurgis Night Target Extraction"
+  },
+  {
+    "key": "139-content",
+    "original": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 히스클리프\nEN:\nTarget Extraction: Heathcliff"
+  },
+  {
+    "key": "140-content",
+    "original": "新規特定抽出 W社3級整理要員 イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 W社3級整理要員 イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 W사 3등급 정리 요원 이상\nEN:\nNew Target Extraction: W Corp. L3 Cleanup Agent Yi Sang"
+  },
+  {
+    "key": "141-content",
+    "original": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 파우스트\nEN:\nTarget Extraction: Faust"
+  },
+  {
+    "key": "142-content",
+    "original": "新規特定抽出 双鉤海賊団副船長 グレゴール・LCCB係長 良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 双鉤海賊団副船長 グレゴール・LCCB係長 良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 쌍갈고리 해적단 부선장 그레고르 · LCCB 대리 료슈\nEN:\nNew Target Extraction: Twinhook Pirates First mate Gregor & LCCB Assistant Manager Ryōshū"
+  },
+  {
+    "key": "143-content",
+    "original": "新規特定抽出 中指末妹・弟 ドンキホーテ・ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 中指末妹・弟 ドンキホーテ・ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 중지 작은 아우 돈키호테 · 뫼르소\nEN:\nNew Target Extraction: The Middle Little Sister Don Quixote & Little Brother Meursault"
+  },
+  {
+    "key": "6-content",
+    "original": "シーズン3 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン3 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 3 - 3성 인격 확정 추출\nEN:\n[Season 3] Assured Extraction: 3★ Identity"
+  },
+  {
+    "key": "144-content",
+    "original": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 오티스\nEN:\nTarget Extraction: Outis"
+  },
+  {
+    "key": "145-content",
+    "original": "新規特定抽出 ピークォド号銛使い ヒースクリフ・1等航海士 イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 ピークォド号銛使い ヒースクリフ・1等航海士 イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 피쿼드호 작살잡이 히스클리프 · 일등 항해사 이상\nEN:\nNew Target Extraction: The Pequod Harpooneer Heathcliff & First Mate Yi Sang"
+  },
+  {
+    "key": "146-content",
+    "original": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 뫼르소\nEN:\nTarget Extraction: Meursault"
+  },
+  {
+    "key": "147-content",
+    "original": "新規E.G.O特定抽出 執行ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 執行ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 집행 로쟈\nEN:\nNew E.G.O Target Extraction: Pursuance for Rodion"
+  },
+  {
+    "key": "148-content",
+    "original": "新規特定抽出 南部センク協会4課部長シンクレア・4課ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部センク協会4課部長シンクレア・4課ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 섕크 협회 4과 부장 싱클레어 · 4과 오티스\nEN:\nNew Target Extraction: Cinq South S4 Director Sinclair & S4 Outis"
+  },
+  {
+    "key": "149-content",
+    "original": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 료슈\nEN:\nTarget Extraction: Ryōshū"
+  },
+  {
+    "key": "150-content",
+    "original": "新規E.G.O特定抽出 20番区の奇跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 20番区の奇跡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 20번구의 기적\nEN:\nNew E.G.O Target Extraction: Miracle in District 20"
+  },
+  {
+    "key": "151-content",
+    "original": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이상\nEN:\nTarget Extraction: Yi Sang"
+  },
+  {
+    "key": "152-content",
+    "original": "第2回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "第2回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제2회 발푸르기스의 밤 특정 추출\nEN:\nThe 2nd Walpurgis Night Target Extraction"
+  },
+  {
+    "key": "153-content",
+    "original": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 싱클레어\nEN:\nTarget Extraction: Sinclair"
+  },
+  {
+    "key": "154-content",
+    "original": "新規特定抽出 南部ディエーチ協会4課 ホンル・イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部ディエーチ協会4課 ホンル・イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 디에치 협회 4과 홍루 · 이상\nEN:\nNew Target Extraction: Dieci South Section 4 Hong Lu & Yi Sang"
+  },
+  {
+    "key": "155-content",
+    "original": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 그레고르\nEN:\nTarget Extraction: Gregor"
+  },
+  {
+    "key": "156-content",
+    "original": "新規特定抽出 ピークォド号船長イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 ピークォド号船長イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 피쿼드호 선장 이스마엘\nEN:\nNew Target Extraction: The Pequod Captain Ishmael"
+  },
+  {
+    "key": "157-content",
+    "original": "新規E.G.O特定抽出 願いの石ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 願いの石ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 소망석 돈키호테\nEN:\nNew E.G.O Target Extraction: Wishing Cairn for Don Quixote"
+  },
+  {
+    "key": "158-content",
+    "original": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 홍루\nEN:\nTarget Extraction: Hong Lu"
+  },
+  {
+    "key": "159-content",
+    "original": "新規特定抽出 肉斬骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 肉斬骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 육참골단\nEN:\nNew Target Extraction: Yield My Flesh to Claim Their Bones"
+  },
+  {
+    "key": "160-content",
+    "original": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이스마엘\nEN:\nTarget Extraction: Ishmael"
+  },
+  {
+    "key": "161-content",
+    "original": "新規特定抽出 南部リウ協会4課部長ロージャ・4課良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部リウ協会4課部長ロージャ・4課良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 리우 협회 4과 부장 로쟈 · 4과 료슈\nEN:\nNew Target Extraction: Liu South S4 Director Rodion & S4 Ryōshū"
+  },
+  {
+    "key": "162-content",
+    "original": "新規E.G.O特定抽出 茨の花園 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 茨の花園 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 가시 화원 그레고르\nEN:\nNew E.G.O Target Extraction: Garden of Thorns for Gregor"
+  },
+  {
+    "key": "163-content",
+    "original": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 돈키호테\nEN:\nTarget Extraction: Don Quixote"
+  },
+  {
+    "key": "164-content",
+    "original": "新規特定抽出 南部ウーフィ協会3課 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 南部ウーフィ協会3課 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 남부 외우피 협회 3과 히스클리프\nEN:\nNew Target Extraction: Öufi South Section 3 Heathcliff"
+  },
+  {
+    "key": "7-content",
+    "original": "シーズン4 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン4 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 4 - 3성 인격 확정 추출\nEN:\n[Season 4] Assured Extraction: 3★ Identity"
+  },
+  {
+    "key": "165-content",
+    "original": "新規特定抽出 ワザリング・ハイツ チーフバトラー ウーティス・デッドラビッツ ボス ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 ワザリング・ハイツ チーフバトラー ウーティス・デッドラビッツ ボス ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 워더링하이츠 치프 버틀러 오티스 · 데드레빗츠 보스 뫼르소\nEN:\nNew Target Extraction: Wuthering Heights Chief Butler Outis & Dead Rabbits Boss Meursault"
+  },
+  {
+    "key": "166-content",
+    "original": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 로쟈\nEN:\nTarget Extraction: Rodion"
+  },
+  {
+    "key": "167-content",
+    "original": "新規特定抽出 エドガー家継承者 グレゴール・ワザリング・ハイツバトラー ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 エドガー家継承者 グレゴール・ワザリング・ハイツバトラー ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 에드가 가문 승계자 그레고르 · 워더링하이츠 버틀러 파우스트\nEN:\nNew Target Extraction: Edgar Family Heir Gregor & Wuthering Heights Butler Faust"
+  },
+  {
+    "key": "168-content",
+    "original": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 히스클리프\nEN:\nTarget Extraction: Heathcliff"
+  },
+  {
+    "key": "169-content",
+    "original": "新規特定抽出 エドガー家チーフバトラー 良秀・バトラー イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 エドガー家チーフバトラー 良秀・バトラー イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 에드가 가문 치프 버틀러 료슈 · 버틀러 이스마엘\nEN:\nNew Target Extraction: Edgar Family Chief Butler Ryōshū & Butler Ishmael"
+  },
+  {
+    "key": "170-content",
+    "original": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 료슈\nEN:\nTarget Extraction: Ryōshū"
+  },
+  {
+    "key": "171-content",
+    "original": "第3回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "第3回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제3회 발푸르기스의 밤 특정 추출\nEN:\nThe 3rd Walpurgis Night Target Extraction"
+  },
+  {
+    "key": "172-content",
+    "original": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 파우스트\nEN:\nTarget Extraction: Faust"
+  },
+  {
+    "key": "173-content",
+    "original": "新規特定抽出 薬指 点描派スチューデント イサン・ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 薬指 点描派スチューデント イサン・ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 약지 점묘파 스튜던트 이상 · 오티스\nEN:\nNew Target Extraction: The Ring Pointillist Student Yi Sang & Outis"
+  },
+  {
+    "key": "174-content",
+    "original": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 오티스\nEN:\nTarget Extraction: Outis"
+  },
+  {
+    "key": "175-content",
+    "original": "新規E.G.O特定抽出 低いなきごえ ホンル・シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 低いなきごえ ホンル・シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 낮은울음 홍루 · 싱클레어\nEN:\nNew E.G.O Target Extraction: Cavernous Wailing for Hong Lu & Sinclair"
+  },
+  {
+    "key": "176-content",
+    "original": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 뫼르소\nEN:\nTarget Extraction: Meursault"
+  },
+  {
+    "key": "177-content",
+    "original": "新規特定抽出 時間殺人時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 時間殺人時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 시간살인시간\nEN:\nNew Target Extraction: Timekilling Time"
+  },
+  {
+    "key": "178-content",
+    "original": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이상\nEN:\nTarget Extraction: Yi Sang"
+  },
+  {
+    "key": "179-content",
+    "original": "新規特定抽出T社3級徴収職職員ドンキホーテ・2級徴収職職員ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出T社3級徴収職職員ドンキホーテ・2級徴収職職員ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 T사 3등급 징수직 직원 돈키호테 · 2등급 징수직 직원 로쟈\nEN:\nNew Target Extraction: T Corp. Class 3 Collection Staff Don Quixote & Class 2 Collection Staff Rodion"
+  },
+  {
+    "key": "180-content",
+    "original": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 싱클레어\nEN:\nTarget Extraction: Sinclair"
+  },
+  {
+    "key": "181-content",
+    "original": "新規人格・E.G.O特定抽出 南部ディエーチ協会4課部長 ムルソー・軽蔑、畏敬 良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 南部ディエーチ協会4課部長 ムルソー・軽蔑、畏敬 良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 남부 디에치 협회 4과 부장 뫼르소 · 경멸, 경외 료슈\nEN:\nNew Target Extraction: Dieci South S4 Director Meursault & Contempt, Awe Ryōshū"
+  },
+  {
+    "key": "182-content",
+    "original": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 그레고르\nEN:\nTarget Extraction: Gregor"
+  },
+  {
+    "key": "183-content",
+    "original": "新規人格・E.G.O特定抽出 W社3級整理要員チーフ ウーティス・凶弾 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 W社3級整理要員チーフ ウーティス・凶弾 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 W사 3등급 정리 요원 팀장 오티스 · 흉탄 히스클리프\nEN:\nNew Target Extraction: W Corp. L3 Cleanup Captain Outis & Fell Bullet Heathcliff"
+  },
+  {
+    "key": "184-content",
+    "original": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 홍루\nEN:\nTarget Extraction: Hong Lu"
+  },
+  {
+    "key": "185-content",
+    "original": "新規人格・E.G.O特定抽出 マルチクラック事務所代表ファウスト・次元裂きウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 マルチクラック事務所代表ファウスト・次元裂きウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 멀티크랙 사무소 대표 파우스트 · 차원찢개 오티스\nEN:\nNew Target Extraction: MultiCrack Office Rep Faust & Dimension Shredder Outis"
+  },
+  {
+    "key": "186-content",
+    "original": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이스마엘\nEN:\nTarget Extraction: Ishmael"
+  },
+  {
+    "key": "187-content",
+    "original": "新規人格特定抽出 ワイルドハントヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格特定抽出 ワイルドハントヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 특정 추출 와일드헌트 히스클리프\nEN:\nNew Target Extraction: Wild Hunt Heathcliff"
+  },
+  {
+    "key": "188-content",
+    "original": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 돈키호테\nEN:\nTarget Extraction: Don Quixote"
+  },
+  {
+    "key": "189-content",
+    "original": "第4回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "第4回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제4회 발푸르기스의 밤 특정 추출\nEN:\nThe 4th Walpurgis Night Target Extraction"
+  },
+  {
+    "key": "190-content",
+    "original": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 료슈\nEN:\nTarget Extraction: Ryōshū"
+  },
+  {
+    "key": "191-content",
+    "original": "新規人格・E.G.O特定抽出 北部ヂェーヴィチ協会3課 ロージャ・過ぎし日 イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 北部ヂェーヴィチ協会3課 ロージャ・過ぎし日 イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 북부 제바찌 협회 3과 로쟈 · 지난 날 이스마엘\nEN:\nNew Identity & E.G.O Target Extraction: Devyat' North Section 3 Rodion & Bygone Days Ishmael"
+  },
+  {
+    "key": "192-content",
+    "original": "新規人格特定抽出 西部ツヴァイ協会3課 イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格特定抽出 西部ツヴァイ協会3課 イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 특정 추출 서부 츠바이 협회 3과 이스마엘\nEN:\nNew Target Extraction: Zwei West Section 3 Ishmael"
+  },
+  {
+    "key": "193-content",
+    "original": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 파우스트\nEN:\nTarget Extraction: Faust"
+  },
+  {
+    "key": "194-content",
+    "original": "新規人格特定抽出西部センク協会3課 ムルソー・西部ツヴァイ協会3課 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格特定抽出西部センク協会3課 ムルソー・西部ツヴァイ協会3課 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 특정 추출 서부 섕크 협회 3과 뫼르소 · 서부 츠바이 협회 3과 싱클레어\nEN:\nNew Target Extraction: Cinq West Section 3 Meursault & Zwei West Section 3 Sinclair"
+  },
+  {
+    "key": "195-content",
+    "original": "ラ・マンチャランド理髪師 ウーティス・牙狩事務所フィクサー ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド理髪師 ウーティス・牙狩事務所フィクサー ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 특정 추출 라만차랜드 이발사 오티스 · 송곳니 사냥 사무소 해결사 홍루\nEN:\nNew Target Extraction: The Barber of La Manchaland Outis & Fanghunt Office Fixer Hong Lu"
+  },
+  {
+    "key": "8-content",
+    "original": "シーズン5 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン5 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 5 - 3성 인격 확정 추출\nEN:\n[Season 5] Assured Extraction: 3★ Identity"
+  },
+  {
+    "key": "196-content",
+    "original": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 로쟈\nEN:\nTarget Extraction: Rodion"
+  },
+  {
+    "key": "197-content",
+    "original": "新規人格特定抽出 ラマンチャランド神父グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格特定抽出 ラマンチャランド神父グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 특정 추출 라만차랜드 신부 그레고르\nEN:\nNew Target Extraction: The Priest of La Manchaland Gregor"
+  },
+  {
+    "key": "198-content",
+    "original": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 뫼르소\nEN:\nTarget Extraction: Meursault"
+  },
+  {
+    "key": "199-content",
+    "original": "新規人格・E.G.O特定抽出 ラマンチャランドの姫ロージャ・凶弾イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 ラマンチャランドの姫ロージャ・凶弾イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 라만차랜드 공주 로쟈 · 흉탄 이상\nEN:\nNew Identity & E.G.O Target Extraction: The Princess of La Manchaland Rodion & Fell Bullet Yi Sang"
+  },
+  {
+    "key": "200-content",
+    "original": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 오티스\nEN:\nTarget Extraction: Outis"
+  },
+  {
+    "key": "201-content",
+    "original": "新規人格・E.G.O特定抽出 北部ヂェーヴィチ協会3課 シンクレア・偏った慣性 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 北部ヂェーヴィチ協会3課 シンクレア・偏った慣性 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O  특정 추출 북부 제뱌찌 협회 3과 싱클레어 · 쏠린 관성 히스클리프\nEN:\nNew Identity & E.G.O Target Extraction: Devyat' North Section 3 Sinclair & Asymmetrical Inertia Heathcliff"
+  },
+  {
+    "key": "202-content",
+    "original": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イサン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이상\nEN:\nTarget Extraction: Yi Sang"
+  },
+  {
+    "key": "203-content",
+    "original": "新規人格特定抽出 ラマンチャランド室長ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格特定抽出 ラマンチャランド室長ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 특정 추출 라만차랜드 실장 돈키호테\nEN:\nNew Target Extraction: The Manager of La Manchaland Don Quixote"
+  },
+  {
+    "key": "204-content",
+    "original": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 히스클리프\nEN:\nTarget Extraction: Heathcliff"
+  },
+  {
+    "key": "205-content",
+    "original": "新規E.G.O特定抽出 20番区の奇跡 BokGak\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 20番区の奇跡 BokGak\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 20번구의 기적 BokGak\nEN:\nNew E.G.O Target Extraction: Miracle in District 20 BokGak"
+  },
+  {
+    "key": "206-content",
+    "original": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 싱클레어\nEN:\nTarget Extraction: Sinclair"
+  },
+  {
+    "key": "207-content",
+    "original": "第5回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "第5回 ヴァルプルギスの夜 特定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제5회 발푸르기스의 밤 특정 추출\nEN:\nThe 5th Walpurgis Night Target Extraction"
+  },
+  {
+    "key": "208-content",
+    "original": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 그레고르\nEN:\nTarget Extraction: Gregor"
+  },
+  {
+    "key": "209-content",
+    "original": "新規特定抽出 LCB定期検診\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 LCB定期検診\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 LCB 정기검진\nEN:\nNew Target Extraction: LCB Regular Check-up"
+  },
+  {
+    "key": "210-content",
+    "original": "特定抽出剣契・黒雲会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出剣契・黒雲会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 검계 · 흑운회\nEN:\nTarget Extraction: Blade Lineage & Kurokumo Clan"
+  },
+  {
+    "key": "211-content",
+    "original": "新規特定抽出 黒雲会副組長イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 黒雲会副組長イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 흑운회 부조장 이스마엘\nEN:\nNew Target Extraction: Kurokumo Clan Captain Ishmael"
+  },
+  {
+    "key": "212-content",
+    "original": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出良秀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 료슈\nEN:\nTarget Extraction: Ryōshū"
+  },
+  {
+    "key": "213-content",
+    "original": "新規人格・E.G.O特定抽出 南部リウ会3課 イサン・胸痛 ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規人格・E.G.O特定抽出 南部リウ会3課 イサン・胸痛 ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 인격 · E.G.O 특정 추출 남부 리우 협회 3과 이상 · 흉통 파우스트\nEN:\nNew Identity & E.G.O Target Extraction: Liu South Section 3 Yi Sang & Thoracalgia Faust"
+  },
+  {
+    "key": "214-content",
+    "original": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 파우스트\nEN:\nTarget Extraction: Faust"
+  },
+  {
+    "key": "215-content",
+    "original": "新規特定抽出 炎拳事務所生存者 グレゴール・東部センク協会3課 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 炎拳事務所生存者 グレゴール・東部センク協会3課 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 불주먹 사무소 생존자 그레고르 · 동부 섕크 협회 3과 돈키호테\nEN:\nNew Target Extraction: Firefist Office Survivor Gregor & Cinq East Section 3 Don Quixote"
+  },
+  {
+    "key": "216-content",
+    "original": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 홍루\nEN:\nTarget Extraction: Hong Lu"
+  },
+  {
+    "key": "217-content",
+    "original": "新規特定抽出 深夜清掃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 深夜清掃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 심야청소\nEN:\nNew Target Extraction: Nocturnal Sweeping"
+  },
+  {
+    "key": "218-content",
+    "original": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ドンキホーテ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 돈키호테\nEN:\nTarget Extraction: Don Quixote"
+  },
+  {
+    "key": "219-content",
+    "original": "新規特定抽出 中指末弟シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 中指末弟シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 중지 작은 아우 싱클레어\nEN:\nNew Target Extraction: The Middle Little Brother Sinclair"
+  },
+  {
+    "key": "220-content",
+    "original": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 이스마엘\nEN:\nTarget Extraction: Ishmael"
+  },
+  {
+    "key": "221-content",
+    "original": "新規E.G.O特定抽出 指定裁判ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規E.G.O特定抽出 指定裁判ロージャ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 E.G.O 특정 추출 지정 재판 로쟈\nEN:\nNew E.G.O Target Extraction: Indicant's Trial for Rodion"
+  },
+  {
+    "key": "222-content",
+    "original": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 シンクレア\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 싱클레어\nEN:\nTarget Extraction: Sinclair"
+  },
+  {
+    "key": "223-content",
+    "original": "新規特定抽出 R社第4群トナカイチーム ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 R社第4群トナカイチーム ホンル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 R사 제 4무리 순록팀 홍루\nEN:\nNew Target Extraction: R Corp. 4th Pack Reindeer Hong Lu"
+  },
+  {
+    "key": "9-content",
+    "original": "シーズン6 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン6 - 星3人格確定抽出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 6 - 3성 인격 확정 추출\nEN:\n[Season 6] Assured Extraction: 3★ Identity"
+  },
+  {
+    "key": "224-content",
+    "original": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出ウーティス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 오티스\nEN:\nTarget Extraction: Outis"
+  },
+  {
+    "key": "225-content",
+    "original": "新規特定抽出 黒獣 - 巳 ロージャ・グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 黒獣 - 巳 ロージャ・グレゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 흑수 - 사 로쟈 · 그레고르\nEN:\nNew Target Extraction: Heishou Pack - Si Branch Rodion & Gregor"
+  },
+  {
+    "key": "226-content",
+    "original": "新規特定抽出 黒獣 - 卯 筆頭 ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 黒獣 - 卯 筆頭 ファウスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 흑수 - 묘 필두 파우스트\nEN:\nNew Target Extraction: Heishou Pack - Mao Branch Adept Faust"
+  },
+  {
+    "key": "227-content",
+    "original": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定抽出 ヒースクリフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 추출 히스클리프\nEN:\nTarget Extraction: Heathcliff"
+  },
+  {
+    "key": "228-content",
+    "original": "新規特定抽出 家主候補イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新規特定抽出 家主候補イシュメール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신규 특정 추출 가주 후보 이스마엘\nEN:\nNew Target Extraction: Family Hierarch Candidate Ishmael"
+  }
+]

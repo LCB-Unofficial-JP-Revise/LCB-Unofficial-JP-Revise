@@ -1,0 +1,989 @@
+[
+  {
+    "key": "MD511-name",
+    "original": "攻撃レベル強化I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル強化I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 강화 I\nEN:\nOffense Level Up I"
+  },
+  {
+    "key": "MD511-desc",
+    "original": "攻撃レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨+ 1\nEN:\nOffense Level +1"
+  },
+  {
+    "key": "MD512-name",
+    "original": "防御レベル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 강화\nEN:\nDefense Level Up"
+  },
+  {
+    "key": "MD512-desc",
+    "original": "防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +2\nEN:\nDefense Level +2"
+  },
+  {
+    "key": "MD513-name",
+    "original": "強靱I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 I\nEN:\nResilient I"
+  },
+  {
+    "key": "MD513-desc",
+    "original": "防御レベル +1, 最大体力 +2.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +1, 最大体力 +2.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +1, 최대 체력 +2.5%\nEN:\nDefense Level +1, Max HP +2.5%"
+  },
+  {
+    "key": "MD514-name",
+    "original": "成長I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 I\nEN:\nGrowth I"
+  },
+  {
+    "key": "MD514-desc",
+    "original": "最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +5%\nEN:\nMax HP +5%"
+  },
+  {
+    "key": "MD515-name",
+    "original": "守備スキル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備スキル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비 스킬 강화\nEN:\nDefense Skill Up"
+  },
+  {
+    "key": "MD515-desc",
+    "original": "守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비 스킬 최종 위력 +1\nEN:\nDefense Skill Final Power +1"
+  },
+  {
+    "key": "MD516-name",
+    "original": "被ダメージ量減少強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量減少強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 감소 강화\nEN:\nTake Less Damage"
+  },
+  {
+    "key": "MD516-desc",
+    "original": "被ダメージ量 -5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -5%\nEN:\nDamage Taken -5%"
+  },
+  {
+    "key": "MD521-name",
+    "original": "攻撃レベル強化II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル強化II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 강화 II\nEN:\nOffense Level Up II"
+  },
+  {
+    "key": "MD521-desc",
+    "original": "攻撃レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2\nEN:\nOffense Level +2"
+  },
+  {
+    "key": "MD522-name",
+    "original": "肉体強化I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 I\nEN:\nBody Up I"
+  },
+  {
+    "key": "MD522-desc",
+    "original": "攻撃レベル +1, 防御レベル +1, 最大体力 +2.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +1, 防御レベル +1, 最大体力 +2.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +1, 방어 레벨 +1, 최대 체력 +2.5%\nEN:\nOffense Level +1, Defense Level +1, Max HP +2.5%"
+  },
+  {
+    "key": "MD523-name",
+    "original": "鋭利I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 I\nEN:\nKeen I"
+  },
+  {
+    "key": "MD523-desc",
+    "original": "攻撃レベル +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +1, 최대 체력 +5%\nEN:\nOffense Level +1, Max HP +5%"
+  },
+  {
+    "key": "MD524-name",
+    "original": "強靱II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 II\nEN:\nResilient II"
+  },
+  {
+    "key": "MD524-desc",
+    "original": "防御レベル +1, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +1, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +1, 최대 체력 +7.5%\nEN:\nDefense Level +1, Max HP +7.5%"
+  },
+  {
+    "key": "MD525-name",
+    "original": "強靱III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 III\nEN:\nResilient III"
+  },
+  {
+    "key": "MD525-desc",
+    "original": "防御レベル +2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +2, 최대 체력 +5%\nEN:\nDefense Level +2, Max HP +5%"
+  },
+  {
+    "key": "MD526-name",
+    "original": "成長II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 II\nEN:\nGrowth II"
+  },
+  {
+    "key": "MD526-desc",
+    "original": "最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +10%\nEN:\nMax HP +10%"
+  },
+  {
+    "key": "MD527-name",
+    "original": "頑強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頑強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완강함 I\nEN:\nHeadstrong I"
+  },
+  {
+    "key": "MD527-desc",
+    "original": "被ダメージ量 -7.5%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -7.5%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -7.5%, 가하는 피해량 +7.5%\nEN:\nDamage Taken -7.5%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD531-name",
+    "original": "鋭利II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 II\nEN:\nKeen II"
+  },
+  {
+    "key": "MD531-desc",
+    "original": "攻撃レベル +2, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 최대 체력 +7.5%\nEN:\nOffense Level +2, Max HP +7.5%"
+  },
+  {
+    "key": "MD532-name",
+    "original": "鋭利III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 III\nEN:\nKeen III"
+  },
+  {
+    "key": "MD532-desc",
+    "original": "攻撃レベル +3, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 최대 체력 +5%\nEN:\nOffense Level +3, Max HP +5%"
+  },
+  {
+    "key": "MD533-name",
+    "original": "強靱IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 IV\nEN:\nResilient IV"
+  },
+  {
+    "key": "MD533-desc",
+    "original": "防御レベル +3, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +3, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +3, 최대 체력 +7.5%\nEN:\nDefense Level +3, Max HP +7.5%"
+  },
+  {
+    "key": "MD534-name",
+    "original": "強靱V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 V\nEN:\nResilient V"
+  },
+  {
+    "key": "MD534-desc",
+    "original": "防御レベル +4, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +4, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +4, 최대 체력 +5%\nEN:\nDefense Level +4, Max HP +5%"
+  },
+  {
+    "key": "MD535-name",
+    "original": "成長III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 III\nEN:\nGrowth III"
+  },
+  {
+    "key": "MD535-desc",
+    "original": "最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +15%\nEN:\nMax HP +15%"
+  },
+  {
+    "key": "MD536-name",
+    "original": "マッチ威力増幅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増幅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증폭\nEN:\nClash Power Boost"
+  },
+  {
+    "key": "MD536-desc",
+    "original": "マッチ威力 +1, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +1, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1, 최대 체력 +7.5%\nEN:\nClash Power +1, Max HP +7.5%"
+  },
+  {
+    "key": "MD537-name",
+    "original": "最終威力増幅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増幅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증폭\nEN:\nFinal Power Boost"
+  },
+  {
+    "key": "MD537-desc",
+    "original": "最終威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 최대 체력 +5%\nEN:\nFinal Power +1, Max HP +5%"
+  },
+  {
+    "key": "MD538-name",
+    "original": "基本威力増幅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増幅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증폭\nEN:\nBase Power Boost"
+  },
+  {
+    "key": "MD538-desc",
+    "original": "基本威力 +1, 最大体力 +2.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 最大体力 +2.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 최대 체력 +2.5%\nEN:\nBase Power +1, Max HP +2.5"
+  },
+  {
+    "key": "MD541-name",
+    "original": "鋭利IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 IV\nEN:\nKeen IV"
+  },
+  {
+    "key": "MD541-desc",
+    "original": "攻撃レベル +3, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 최대 체력 +15%\nEN:\nOffense Level +3, Max HP +15%"
+  },
+  {
+    "key": "MD542-name",
+    "original": "肉体強化II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 II\nEN:\nBody Up II"
+  },
+  {
+    "key": "MD542-desc",
+    "original": "攻撃レベル +2, 防御レベル +3, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 防御レベル +3, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 방어 레벨 +3, 최대 체력 +10%\nEN:\nOffense Level +2, Defense Level +3, Max HP +10%"
+  },
+  {
+    "key": "MD543-name",
+    "original": "肉体強化III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 III\nEN:\nBody Up III"
+  },
+  {
+    "key": "MD543-desc",
+    "original": "攻撃レベル +3, 防御レベル +2, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 防御レベル +2, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 방어 레벨 +2, 최대 체력 +10%\nEN:\nOffense Level +3, Defense Level +2, Max HP +10%"
+  },
+  {
+    "key": "MD544-name",
+    "original": "成長IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 IV\nEN:\nGrowth IV"
+  },
+  {
+    "key": "MD544-desc",
+    "original": "最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +30%\nEN:\nMax HP +30%"
+  },
+  {
+    "key": "MD545-name",
+    "original": "マッチ威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증강\nEN:\nClash Power Spurt"
+  },
+  {
+    "key": "MD545-desc",
+    "original": "マッチ威力 +1, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +1, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1, 최대 체력 +15%\nEN:\nClash Power +1, Max HP +15%"
+  },
+  {
+    "key": "MD546-name",
+    "original": "最終威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강\nEN:\nFinal Power Spurt"
+  },
+  {
+    "key": "MD546-desc",
+    "original": "最終威力 +1, 最大体力 +12.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 最大体力 +12.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 최대 체력 +12.5%\nEN:\nFinal Power +1, Max HP +12.5%"
+  },
+  {
+    "key": "MD547-name",
+    "original": "基本威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강\nEN:\nBase Power Spurt"
+  },
+  {
+    "key": "MD547-desc",
+    "original": "基本威力 +1, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 최대 체력 +10%\nEN:\nBase Power +1, Max HP +10%"
+  },
+  {
+    "key": "MD548-name",
+    "original": "破壊力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴력\nEN:\nBrutality"
+  },
+  {
+    "key": "MD548-desc",
+    "original": "加算コイン威力 +1, 減算コイン威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +1, 減算コイン威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +1, 빼기 코인 위력 -1\nEN:\nPlus Coin Power +1, Minus Coin Power -1"
+  },
+  {
+    "key": "MD549-name",
+    "original": "頑強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頑強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완강함 II\nEN:\nHeadstrong II"
+  },
+  {
+    "key": "MD549-desc",
+    "original": "被ダメージ量 -25%, 与ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -25%, 与ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -25%, 가하는 피해량 +25%\nEN:\nDamage Taken -25%, Damage Dealt +25%"
+  },
+  {
+    "key": "MD5Base-name",
+    "original": "追加される苦難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "追加される苦難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추가되는 고난\nEN:\nMounting Trials"
+  },
+  {
+    "key": "MD551-name",
+    "original": "鋭利V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 V\nEN:\nKeen V"
+  },
+  {
+    "key": "MD551-desc",
+    "original": "攻撃レベル +4, 体力最大値 +10%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +4, 体力最大値 +10%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +4, 최대 체력 +10%, 가하는 피해량 +5%\nEN:\nOffense Level +4, Max HP +10%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD552-name",
+    "original": "肉体強化IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 IV\nEN:\nBody Up IV"
+  },
+  {
+    "key": "MD552-desc",
+    "original": "攻撃レベル +3, 防御レベル +3, 最大体力 +7.5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 防御レベル +3, 最大体力 +7.5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 방어 레벨 +3, 최대 체력 +7.5%, 가하는 피해량 +5%\nEN:\nOffense Level +3, Defense Level +3, Max HP +7.5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD553-name",
+    "original": "肉体強化V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 V\nEN:\nBody Up V"
+  },
+  {
+    "key": "MD553-desc",
+    "original": "攻撃レベル +4, 防御レベル +2, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +4, 防御レベル +2, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +4, 방어 레벨 +2, 최대 체력 +5%, 가하는 피해량 +5%\nEN:\nOffense Level +4, Defense Level +2, Max HP +5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD554-name",
+    "original": "成長V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 V\nEN:\nGrowth V"
+  },
+  {
+    "key": "MD554-desc",
+    "original": "攻撃レベル +1, 体力最大値 +25%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +1, 体力最大値 +25%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +1, 최대 체력 +25%, 가하는 피해량 +5%\nEN:\nOffense Level +1, Max HP +25%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD555-name",
+    "original": "マッチ威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증강 II\nEN:\nClash Power Up II"
+  },
+  {
+    "key": "MD555-desc",
+    "original": "マッチ威力 +1, 攻撃レベル +1, 最大体力 +10%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +1, 攻撃レベル +1, 最大体力 +10%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1, 공격 레벨 +1, 최대 체력 +10%, 가하는 피해량 +5%\nEN:\nClash Power +1, Offense Level +1, Max HP +10%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD556-name",
+    "original": "最終威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 II\nEN:\nFinal Power Up II"
+  },
+  {
+    "key": "MD556-desc",
+    "original": "最終威力 +1, 攻撃レベル +1, 最大体力 +7.5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 攻撃レベル +1, 最大体力 +7.5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 공격 레벨 +1, 최대 체력 +7.5%, 가하는 피해량 +5%\nEN:\nFinal Power +1, Offense Level +1, Max HP +7.5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD557-name",
+    "original": "基本威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 II\nEN:\nBase Power Up II"
+  },
+  {
+    "key": "MD557-desc",
+    "original": "基本威力 +1, 攻撃レベル +1, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 攻撃レベル +1, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 공격 레벨 +1, 최대 체력 +5%, 가하는 피해량 +5%\nEN:\nBase Power +1, Offense Level +1, Max HP +5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD558-name",
+    "original": "破壊力II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊力II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴력 II\nEN:\nBrutality II"
+  },
+  {
+    "key": "MD558-desc",
+    "original": "加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +1, 빼기 코인 위력 -1, 가하는 피해량 +5%\nEN:\nPlus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%"
+  },
+  {
+    "key": "MD561-name",
+    "original": "鋭利VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 VI\nEN:\nKeen VI"
+  },
+  {
+    "key": "MD561-desc",
+    "original": "攻撃レベル +5, 体力最大値 +10%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +5, 体力最大値 +10%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +5, 최대 체력 +10%, 가하는 피해량 +5%\nEN:\nOffense Level +5, Max HP +10%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD562-name",
+    "original": "強靱VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 VI\nEN:\nResilient VI"
+  },
+  {
+    "key": "MD562-desc",
+    "original": "攻撃レベル +2, 防御レベル +6, 最大体力 +10%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 防御レベル +6, 最大体力 +10%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 방어 레벨 +6, 최대 체력 +10%, 가하는 피해량 +5%\nEN:\nOffense Level +2, Defense Level +6, Max HP +10%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD563-name",
+    "original": "肉体強化VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 VI\nEN:\nBody Up VI"
+  },
+  {
+    "key": "MD563-desc",
+    "original": "攻撃レベル +5, 防御レベル +2, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +5, 防御レベル +2, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +5, 방어 레벨 +2, 최대 체력 +5%, 가하는 피해량 +5%\nEN:\nOffense Level +5, Defense Level +2, Max HP +5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD564-name",
+    "original": "成長VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 VI\nEN:\nGrowth VI"
+  },
+  {
+    "key": "MD564-desc",
+    "original": "攻撃レベル +2, 体力最大値 +25%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 体力最大値 +25%, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 최대 체력 +25%, 가하는 피해량 +5%\nEN:\nOffense Level +2, Max HP +25%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD565-name",
+    "original": "マッチ威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증강 III\nEN:\nClash Power Up III"
+  },
+  {
+    "key": "MD565-desc",
+    "original": "マッチ威力 +1, 攻撃レベル +2, 最大体力 +10%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +1, 攻撃レベル +2, 最大体力 +10%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1, 공격 레벨 +2, 최대 체력 +10%, 가하는 피해량 +5%\nEN:\nClash Power +1, Offense Level +2, Max HP +10%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD566-name",
+    "original": "最終威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 III\nEN:\nFinal Power Up III"
+  },
+  {
+    "key": "MD566-desc",
+    "original": "最終威力 +1, 攻撃レベル +2, 最大体力 +7.5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 攻撃レベル +2, 最大体力 +7.5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 공격 레벨 +2, 최대 체력 +7.5%, 가하는 피해량 +5%\nEN:\nFinal Power +1, Offense Level +2, Max HP +7.5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD567-name",
+    "original": "基本威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 III\nEN:\nBase Power Up III"
+  },
+  {
+    "key": "MD567-desc",
+    "original": "基本威力 +1, 攻撃レベル +2, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 攻撃レベル +2, 最大体力 +5%, 与ダメージ量 +5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 공격 레벨 +2, 최대 체력 +5%, 가하는 피해량 +5%\nEN:\nBase Power +1, Offense Level +2, Max HP +5%, Damage Dealt +5%"
+  },
+  {
+    "key": "MD568-name",
+    "original": "破壊力III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊力III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴력 III\nEN:\nBrutality III"
+  },
+  {
+    "key": "MD568-desc",
+    "original": "加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +1, 빼기 코인 위력 -1, 가하는 피해량 +5%\nEN:\nPlus Coin Power +1, Minus Coin Power -1, Damage Dealt +5%"
+  },
+  {
+    "key": "MD571-name",
+    "original": "鋭利VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 VII\nEN:\nKeen VII"
+  },
+  {
+    "key": "MD571-desc",
+    "original": "攻撃レベル +5, 体力最大値 +20%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +5, 体力最大値 +20%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +5, 최대 체력 +20%, 가하는 피해량 +7.5%\nEN:\nOffense Level +5, Max HP +20%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD572-name",
+    "original": "強靱VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 VII\nEN:\nResilient VII"
+  },
+  {
+    "key": "MD572-desc",
+    "original": "攻撃レベル +2, 防御レベル +6, 最大体力 +20%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 防御レベル +6, 最大体力 +20%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 방어 레벨 +6, 최대 체력 +20%, 가하는 피해량 +7.5%\nEN:\nOffense Level +2, Defense Level +6, Max HP +20%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD573-name",
+    "original": "肉体強化VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 VII\nEN:\nBody Up VII"
+  },
+  {
+    "key": "MD573-desc",
+    "original": "攻撃レベル +5, 防御レベル +2, 最大体力 +15%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +5, 防御レベル +2, 最大体力 +15%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +5, 방어 레벨 +2, 최대 체력 +15%, 가하는 피해량 +7.5%\nEN:\nOffense Level +5, Defense Level +2, Max HP +15%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD574-name",
+    "original": "成長VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 VII\nEN:\nGrowth VII"
+  },
+  {
+    "key": "MD574-desc",
+    "original": "攻撃レベル +2, 体力最大値 +35%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 体力最大値 +35%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 최대 체력 +35%, 가하는 피해량 +7.5%\nEN:\nOffense Level +2, Max HP +35%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD575-name",
+    "original": "マッチ威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증강 IV\nEN:\nClash Power Up IV"
+  },
+  {
+    "key": "MD575-desc",
+    "original": "マッチ威力 +1, 攻撃レベル +2, 最大体力 +20%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +1, 攻撃レベル +2, 最大体力 +20%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1, 공격 레벨 +2, 최대 체력 +20%, 가하는 피해량 +7.5%\nEN:\nClash Power +1, Offense Level +2, Max HP +20%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD576-name",
+    "original": "最終威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 IV\nEN:\nFinal Power Up IV"
+  },
+  {
+    "key": "MD576-desc",
+    "original": "最終威力 +1, 攻撃レベル +2, 最大体力 +17.5%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 攻撃レベル +2, 最大体力 +17.5%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 공격 레벨 +2, 최대 체력 +17.5%, 가하는 피해량 +7.5%\nEN:\nFinal Power +1, Offense Level +2, Max HP +17.5%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD577-name",
+    "original": "基本威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 IV\nEN:\nBase Power Up IV"
+  },
+  {
+    "key": "MD577-desc",
+    "original": "基本威力 +1, 攻撃レベル +2, 最大体力 +15%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 攻撃レベル +2, 最大体力 +15%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 공격 레벨 +2, 최대 체력 +15%, 가하는 피해량 +7.5%\nEN:\nBase Power +1, Offense Level +2, Max HP +15%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD578-name",
+    "original": "破壊力IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊力IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴력 IV\nEN:\nBrutality IV"
+  },
+  {
+    "key": "MD578-desc",
+    "original": "加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +1, 減算コイン威力 -1, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +1, 빼기 코인 위력 -1, 가하는 피해량 +7.5%\nEN:\nPlus Coin Power +1, Minus Coin Power -1, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD581-name",
+    "original": "鋭利VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利VII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 VIII\nEN:\nKeen VIII"
+  },
+  {
+    "key": "MD581-desc",
+    "original": "攻撃レベル +6, 体力最大値 +30%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +6, 体力最大値 +30%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +6, 최대 체력 +30%, 가하는 피해량 +7.5%\nEN:\nOffense Level +6, Max HP +30%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD582-name",
+    "original": "強靱VIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱VIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 VIII\nEN:\nResilient VIII"
+  },
+  {
+    "key": "MD582-desc",
+    "original": "攻撃レベル +3, 防御レベル +6, 最大体力 +30%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 防御レベル +6, 最大体力 +30%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 방어 레벨 +6, 최대 체력 +30%, 가하는 피해량 +7.5%\nEN:\nOffense Level +3, Defense Level +6, Max HP +30%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD583-name",
+    "original": "肉体強化VIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化VIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 VIII\nEN:\nBody Up VIII"
+  },
+  {
+    "key": "MD583-desc",
+    "original": "攻撃レベル +5, 防御レベル +4, 最大体力 +22.5%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +5, 防御レベル +4, 最大体力 +22.5%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +5, 방어 레벨 +4, 최대 체력 +22.5%, 가하는 피해량 +7.5%\nEN:\nOffense Level +5, Defense Level +4, Max HP +22.5%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD584-name",
+    "original": "成長VIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長VIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 VIII\nEN:\nGrowth VIII"
+  },
+  {
+    "key": "MD584-desc",
+    "original": "攻撃レベル +3, 体力最大値 +45%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 体力最大値 +45%, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 최대 체력 +45%, 가하는 피해량 +7.5%\nEN:\nOffense Level +3, Max HP +45%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD585-name",
+    "original": "マッチ威力増強V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増強V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증강 V\nEN:\nClash Power Up V"
+  },
+  {
+    "key": "MD585-desc",
+    "original": "マッチ威力 +2, 攻撃レベル +1, 最大体力 +25%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 攻撃レベル +1, 最大体力 +25%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +2, 공격 레벨 +1, 최대 체력 +25%, 가하는 피해량 +7.5%\nEN:\nClash Power +2, Offense Level +1, Max HP +25%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD586-name",
+    "original": "最終威力増強V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 V\nEN:\nFinal Power Up V"
+  },
+  {
+    "key": "MD586-desc",
+    "original": "最終威力 +2, 攻撃レベル +1, 最大体力 +20%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +2, 攻撃レベル +1, 最大体力 +20%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +2, 공격 레벨 +1, 최대 체력 +20%, 가하는 피해량 +7.5%\nEN:\nFinal Power +2, Offense Level +1, Max HP +20%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD587-name",
+    "original": "基本威力増強V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 V\nEN:\nBase Power Up V"
+  },
+  {
+    "key": "MD587-desc",
+    "original": "基本威力 +2, 攻撃レベル +1, 最大体力 +15%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +2, 攻撃レベル +1, 最大体力 +15%, 与ダメージ量 +7.5％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +2, 공격 레벨 +1, 최대 체력 +15%, 가하는 피해량 +7.5%\nEN:\nBase Power +2, Offense Level +1, Max HP +15%, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD588-name",
+    "original": "破壊力V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊力V\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴력 V\nEN:\nBrutality V"
+  },
+  {
+    "key": "MD588-desc",
+    "original": "加算コイン威力 +2, 減算コイン威力 -2, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +2, 減算コイン威力 -2, 与ダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +2, 빼기 코인 위력 -2, 가하는 피해량 +7.5%\nEN:\nPlus Coin Power +2, Minus Coin Power -2, Damage Dealt +7.5%"
+  },
+  {
+    "key": "MD591-name",
+    "original": "鋭利IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭利IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예리 IX\nEN:\nKeen IX"
+  },
+  {
+    "key": "MD591-desc",
+    "original": "攻撃レベル +8, 体力最大値 +40%, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +8, 体力最大値 +40%, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +8, 최대 체력 +40%, 가하는 피해량 +10%\nEN:\nOffense Level +8, Max HP +40%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD592-name",
+    "original": "強靱IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 IX\nEN:\nResilient IX"
+  },
+  {
+    "key": "MD592-desc",
+    "original": "攻撃レベル +3, 防御レベル +9, 最大体力 +40%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 防御レベル +9, 最大体力 +40%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 방어 레벨 +9, 최대 체력 +40%, 가하는 피해량 +10%\nEN:\nOffense Level +3, Defense Level +9, Max HP +40%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD593-name",
+    "original": "肉体強化IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強化IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강화 IX\nEN:\nBody Up IX"
+  },
+  {
+    "key": "MD593-desc",
+    "original": "攻撃レベル +6, 防御レベル +5, 最大体力 +32.5%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +6, 防御レベル +5, 最大体力 +32.5%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +6, 방어 레벨 +5, 최대 체력 +32.5%, 가하는 피해량 +10%\nEN:\nOffense Level +6, Defense Level +5, Max HP +32.5%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD594-name",
+    "original": "成長IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成長IX\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성장 IX\nEN:\nGrowth IX"
+  },
+  {
+    "key": "MD594-desc",
+    "original": "攻撃レベル +3, 体力最大値 +72.5%, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 体力最大値 +72.5%, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 최대 체력 +72.5%, 가하는 피해량 +10%\nEN:\nOffense Level +3, Max HP +72.5%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD595-name",
+    "original": "マッチ威力増強VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増強VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증강 VI\nEN:\nClash Power Up VI"
+  },
+  {
+    "key": "MD595-desc",
+    "original": "マッチ威力 +2, 攻撃レベル +2, 最大体力 +40%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 攻撃レベル +2, 最大体力 +40%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +2, 공격 레벨 +2, 최대 체력 +40%, 가하는 피해량 +10%\nEN:\nClash Power +2, Offense Level +2, Max HP +40%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD596-name",
+    "original": "最終威力増強VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 VI\nEN:\nFinal Power Up VI"
+  },
+  {
+    "key": "MD596-desc",
+    "original": "最終威力 +2, 攻撃レベル +2, 最大体力 +35%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +2, 攻撃レベル +2, 最大体力 +35%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +2, 공격 레벨 +2, 최대 체력 +35%, 가하는 피해량 +10%\nEN:\nFinal Power +2, Offense Level +2, Max HP +35%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD597-name",
+    "original": "基本威力増強VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 VI\nEN:\nBase Power Up VI"
+  },
+  {
+    "key": "MD597-desc",
+    "original": "基本威力 +2, 攻撃レベル +2, 最大体力 +30%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +2, 攻撃レベル +2, 最大体力 +30%, 与ダメージ量 +10％\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +2, 공격 레벨 +2, 최대 체력 +30%, 가하는 피해량 +10%\nEN:\nBase Power +2, Offense Level +2, Max HP +30%, Damage Dealt +10%"
+  },
+  {
+    "key": "MD598-name",
+    "original": "破壊力VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊力VI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴력 VI\nEN:\nBrutality VI"
+  },
+  {
+    "key": "MD598-desc",
+    "original": "加算コイン威力 +2, 減算コイン威力 -2, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +2, 減算コイン威力 -2, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +2, 빼기 코인 위력 -2, 가하는 피해량 +10%\nEN:\nPlus Coin Power +2, Minus Coin Power -2, Damage Dealt +10%"
+  }
+]

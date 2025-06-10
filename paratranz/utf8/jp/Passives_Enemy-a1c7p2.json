@@ -1,0 +1,184 @@
+[
+  {
+    "key": "9015801-name",
+    "original": "粗雑な吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "粗雑な吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어설픈 흡혈\nEN:\nClumsy Bloodsucking"
+  },
+  {
+    "key": "9015801-desc",
+    "original": "攻撃的中時、対象に[Laceration]があるならダメージ量の5～10%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があるならダメージ量の5～10%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 5 ~ 10% 만큼 체력 회복\nEN:\nOn Hit, if the target has [Laceration], heal by 5~10% of damage dealt"
+  },
+  {
+    "key": "9017501-name",
+    "original": "祝祭の雰囲気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "祝祭の雰囲気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n축제 분위기\nEN:\nFestive Mood"
+  },
+  {
+    "key": "9017501-desc",
+    "original": "スキル効果でプラスのバフ効果を得る度に[FestivalFever]1を得る(種類別に1回)\n\nターン開始時、自分を除く他の味方の数だけ[FestivalFever]を得る(最大3)\nターン終了時、このターンにて死亡した味方の数だけ[FestivalFever]を失う\nターン終了時、自分の[FestivalFever]だけ精神力を回復(精神力が-45のときは発動しない)\n\nターン終了時、[FestivalFever]が8以上なら次のターンに強力なスキルを使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル効果でプラスのバフ効果を得る度に[FestivalFever]1を得る(種類別に1回)\n\nターン開始時、自分を除く他の味方の数だけ[FestivalFever]を得る(最大3)\nターン終了時、このターンにて死亡した味方の数だけ[FestivalFever]を失う\nターン終了時、自分の[FestivalFever]だけ精神力を回復(精神力が-45のときは発動しない)\n\nターン終了時、[FestivalFever]が8以上なら次のターンに強力なスキルを使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 효과로 긍정적 버프 효과를 얻을 때마다 [FestivalFever] 1 얻음 (종류 별로 1회)\n\n턴 시작 시, 자신을 제외한 다른 아군의 수만큼 [FestivalFever]를 얻음 (최대 3)\n턴 종료 시, 이번 턴에 사망한 아군의 수만큼 [FestivalFever]를 잃음\n턴 종료 시, 자신의 [FestivalFever]만큼 정신력을 회복 (정신력이 -45일 때는 발동하지 않음)\n\n턴 종료 시 [FestivalFever]가 8 이상이면 다음 턴에 강력한 스킬을 사용\nEN:\nGain 1 [FestivalFever] every time this unit gains positive buff with Skill effects (once per type of buff)\n\nTurn Start: gain [FestivalFever] equal to the number of other allies (max 3)\nTurn End: lose [FestivalFever] equal to the number of allies that were killed this turn\nTurn End: heal SP equal to [FestivalFever] on self (does not activate at -45 SP)\n\nTurn End: at 8+ [FestivalFever], use a powerful Skill next turn"
+  },
+  {
+    "key": "9017502-name",
+    "original": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흡혈\nEN:\nBloodsucking"
+  },
+  {
+    "key": "9017502-desc",
+    "original": "攻撃的中時、対象に[Laceration]があるならダメージ量の20%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があるならダメージ量の20%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 20%만큼 체력 회복\nEN:\nOn Hit, if the target has [Laceration], heal by 20% of damage dealt"
+  },
+  {
+    "key": "9017503-name",
+    "original": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 경화\nEN:\nBlood Coagulation"
+  },
+  {
+    "key": "9017503-desc",
+    "original": "攻撃終了時、対象の[Laceration]が5以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、対象の[Laceration]が5以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료시 대상의 [Laceration]이 5 이상이면, [HardenedBlood] 1 얻음\nEN:\nAfter Attack: if the target has 5+ [Laceration], gain 1 [HardenedBlood]"
+  },
+  {
+    "key": "9017504-name",
+    "original": "血の渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血の渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피의 갈증\nEN:\nThirst for Blood"
+  },
+  {
+    "key": "9017504-desc",
+    "original": "- [Laceration]が付与された対象を優先して攻撃\n- ターン終了時、このターンにダメージを与えられなかったなら、次のターンに脆弱2, 攻撃レベル増加2を得る\n- ターン終了時、このターンにダメージを与えられたなら精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- [Laceration]が付与された対象を優先して攻撃\n- ターン終了時、このターンにダメージを与えられなかったなら、次のターンに脆弱2, 攻撃レベル増加2を得る\n- ターン終了時、このターンにダメージを与えられたなら精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- [Laceration]이 부여된 대상을 우선적으로 공격\n- 턴 종료 시 이번 턴에 피해를 입히지 못한 경우, 다음 턴에 취약 2, 공격 레벨 증가 2를 얻음\n- 턴 종료 시 이번 턴에 피해를 입혔다면, 정신력 5 회복\nEN:\n- Prioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 Offense Level Up next turn\n- Turn End: if this unit dealt damage this turn, heal 5 SP"
+  },
+  {
+    "key": "9017505-name",
+    "original": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈찬\nEN:\nBloodfeast"
+  },
+  {
+    "key": "9017505-desc",
+    "original": "このキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を顕わにする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このキャラクターが戦闘に登場するか、登場する敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を顕わにする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피를 드러낸다.\nEN:\nIf this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will surface."
+  },
+  {
+    "key": "9017506-name",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
+  },
+  {
+    "key": "9017506-desc",
+    "original": "戦闘開始時、[StarvingDolcineaServant]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[StarvingDolcineaServant]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [StarvingDolcineaServant] 얻음\nEN:\nGain [StarvingDolcineaServant] at the start of the Encounter"
+  },
+  {
+    "key": "9017301-name",
+    "original": "祝祭の音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "祝祭の音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n축제 소리\nEN:\nFestive Sounds"
+  },
+  {
+    "key": "9017301-desc",
+    "original": "スキル効果でプラスのバフ効果を得る度に[FestivalFever]1を得る(種類別に1回)\n\nターン開始時、自分を除く他の味方の数だけ[FestivalFever]を得る(最大3)\nターン終了時、このターンにて死亡した味方の数だけ[FestivalFever]を失う\n\n[FestivalFever]が8以上なら次のターンに強力なスキルを使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル効果でプラスのバフ効果を得る度に[FestivalFever]1を得る(種類別に1回)\n\nターン開始時、自分を除く他の味方の数だけ[FestivalFever]を得る(最大3)\nターン終了時、このターンにて死亡した味方の数だけ[FestivalFever]を失う\n\n[FestivalFever]が8以上なら次のターンに強力なスキルを使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 효과로 긍정적 버프 효과를 얻을 때마다 [FestivalFever] 1 얻음 (종류 별로 1회)\n\n턴 시작 시, 자신을 제외한 다른 아군의 수만큼 [FestivalFever]를 얻음 (최대 3)\n턴 종료 시, 이번 턴에 사망한 아군의 수만큼 [FestivalFever]를 잃음\n\n[FestivalFever]가 8 이상이면 강력한 스킬을 사용\nEN:\nGain 1 [FestivalFever] every time this unit gains positive buff with Skill effects (once per type of buff)\n\nTurn Start: gain [FestivalFever] equal to the number of other allies (max 3)\nTurn End: lose [FestivalFever] equal to the number of allies that were killed this turn\n\nTurn End: at 8+ [FestivalFever], use a powerful Skill next turn"
+  },
+  {
+    "key": "9017302-name",
+    "original": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "吸血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흡혈\nEN:\nBloodsucking"
+  },
+  {
+    "key": "9017302-desc",
+    "original": "攻撃的中時、対象に[Laceration]があるならダメージ量の15%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があるならダメージ量の15%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 피해량의 15%만큼 체력 회복\nEN:\nOn Hit, if the target has [Laceration], heal by 15% of damage dealt"
+  },
+  {
+    "key": "9017303-name",
+    "original": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血液硬化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈액 경화\nEN:\nBlood Coagulation"
+  },
+  {
+    "key": "9017303-desc",
+    "original": "攻撃終了時、対象の[Laceration]が8以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、対象の[Laceration]が8以上なら、[HardenedBlood]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료시 대상의 [Laceration]이 8 이상이면, [HardenedBlood] 1 얻음\nEN:\nAfter Attack: if the target has 8+ [Laceration], gain 1 [HardenedBlood]"
+  },
+  {
+    "key": "9017304-name",
+    "original": "血の渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血の渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피의 갈증\nEN:\nThirst for Blood"
+  },
+  {
+    "key": "9017304-desc",
+    "original": "[Laceration]が付与された対象を優先して攻撃\nターン終了時、このターンにダメージを与えられなかったら次のターンに[Vulnerable]2, [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Laceration]が付与された対象を優先して攻撃\nターン終了時、このターンにダメージを与えられなかったら次のターンに[Vulnerable]2, [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Laceration]이 부여된 대상을 우선적으로 공격\n턴 종료 시 이번 턴에 피해를 입히지 못한 경우, 다음 턴에 [Vulnerable] 2, [AttackUp] 2를 얻음\nEN:\nPrioritizes targets with [Laceration]\nTurn End: if this unit failed to deal any damage this turn, gain 2 [Vulnerable] and 2 [AttackUp] next turn"
+  },
+  {
+    "key": "9017305-name",
+    "original": "血袋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血袋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피주머니\nEN:\nBloodbag"
+  },
+  {
+    "key": "9017305-desc",
+    "original": "被ダメージ時に自分の[Laceration]回数が1増加。\n体力が20%減少するたびに[HardenedBlood]1,[BloomingThorns]2を得る。\n味方または敵に血鬼がいる場合、死亡時に[BloodDinner]が30増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時に自分の[Laceration]回数が1増加。\n体力が20%減少するたびに[HardenedBlood]1,[BloomingThorns]2を得る。\n味方または敵に血鬼がいる場合、死亡時に[BloodDinner]が30増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 자신의 [Laceration] 횟수 1 증가\n체력이 20% 감소할 때마다 [HardenedBlood] 1, [BloomingThorns] 2 얻음.\n아군 또는 적에 혈귀가 있는 경우, 사망 시, [BloodDinner]이 30만큼 증가\nEN:\nWhen hit, gain +1 [Laceration] Count.\nGain 1 [HardenedBlood] and 2 [BloomingThorns] every time this unit loses 20% HP.\nIf there is a Bloodfiend on the field, regardless of whether it is an ally or an enemy, increase [BloodDinner] by 30 upon death"
+  },
+  {
+    "key": "9017101-name",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
+  },
+  {
+    "key": "9017101-desc",
+    "original": "戦闘開始時、[StarvingPriestOne]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、[StarvingPriestOne]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, [StarvingPriestOne] 얻음\nEN:\nGain [StarvingPriestOne] at the start of the Encounter"
+  }
+]

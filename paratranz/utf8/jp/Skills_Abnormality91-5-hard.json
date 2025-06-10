@@ -1,0 +1,86 @@
+[
+  {
+    "key": "107804-levelList[0].name",
+    "original": "ラッピングするぞい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラッピングするぞい\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포장하겠어요\nEN:\nLet's Get Packing"
+  },
+  {
+    "key": "107804-levelList[0].desc",
+    "original": "対象に[AaCeSeBa]があれば、コイン効果へ「次のターンに[Paralysis]1付与」を追加\n最も遅い対象を優先して攻撃\n[EndBattle] [Charge]回数を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[AaCeSeBa]があれば、コイン効果へ「次のターンに[Paralysis]1付与」を追加\n最も遅い対象を優先して攻撃\n[EndBattle] [Charge]回数を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신에게 [AaCeSeBa]가 있다면, 코인 효과에 다음 턴에 [Paralysis] 1 부여 추가\n가장 느린 대상 우선 공격\n[EndBattle] 모든 [Charge] 횟수 소모\nEN:\nIf this unit has [AaCeSeBa], add 'Inflict 1 [Paralysis] next turn' to Coin effects\nTargets the unit with the slowest Speed\n[EndBattle] Spend all [Charge] Count"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath]3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 3 얻음.\nEN:\n[OnSucceedAttack] Gain 3 [Breath]."
+  },
+  {
+    "key": "107804-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath]만큼 추가 피해\nEN:\n[OnSucceedAttack] Deal bonus damage equal to [Breath] on self"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Breath]1を得る、自分の[Breath]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]1を得る、自分の[Breath]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 1 얻음, 자신의 [Breath] 횟수 3 증가\nEN:\n[OnSucceedAttack] Gain 1 [Breath] and +3 [Breath] Count"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis]のうち、ランダムに1つの効果を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis]のうち、ランダムに1つの効果を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack]  [Protection], [Enhancement], [Vulnerable], [Paralysis] 중 무작위 1개 효과를 3 부여\nEN:\n[OnSucceedAttack] Randomly select 1 of 4 effects ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Inflict or apply 3 of the selected effect."
+  },
+  {
+    "key": "107804-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数だけ、対象の精神力を減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数だけ、対象の精神力を減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수만큼 대상의 정신력을 감소\nEN:\n[OnSucceedAttack] Target loses SP equal to [Charge] Count on this unit"
+  },
+  {
+    "key": "107804-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[EnemyKill] 全ての敵の精神力を10減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EnemyKill] 全ての敵の精神力を10減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EnemyKill] 모든 적의 정신력 10 감소.\nEN:\n[EnemyKill] All enemies lose 10 Sp."
+  },
+  {
+    "key": "107804-levelList[0].coinlist[2].coindescs[4].desc",
+    "original": "[EnemyKillFail] 次のターンに[Paralysis]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EnemyKillFail] 次のターンに[Paralysis]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EnemyKillFail] 다음 턴에 [Paralysis] 2 얻음.\nEN:\n[EnemyKillFail] Gain 2 [Paralysis] next turn."
+  }
+]

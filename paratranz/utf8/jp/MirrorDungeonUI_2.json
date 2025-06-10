@@ -1,0 +1,1640 @@
+[
+  {
+    "key": "mirrordungeon_product_list-content",
+    "original": "ショップリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ショップリスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상품 목록\nEN:\nProduct Catalogue"
+  },
+  {
+    "key": "ego_gift_list-content",
+    "original": "保有E.G.Oギフト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有E.G.Oギフト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유 E.G.O 기프트\nEN:\nE.G.O Gifts Owned"
+  },
+  {
+    "key": "normal_difficulty-content",
+    "original": "ノーマル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ノーマル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 난이도\nEN:\nNormal"
+  },
+  {
+    "key": "hard_difficulty-content",
+    "original": "ハード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ハード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도\nEN:\nHard"
+  },
+  {
+    "key": "start_buffs-content",
+    "original": "適用効果リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適用効果リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적용 효과 목록\nEN:\nActive Effects"
+  },
+  {
+    "key": "enter_normal_difficulty-content",
+    "original": "難易度:ノーマル 入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "難易度:ノーマル 入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 난이도 입장\nEN:\nEnter Normal Dungeon"
+  },
+  {
+    "key": "enter_hard_difficulty-content",
+    "original": "難易度:ハード 入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "難易度:ハード 入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도 입장\nEN:\nEnter Hard Dungeon"
+  },
+  {
+    "key": "list_of_applied_effects-content",
+    "original": "適用効果リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適用効果リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적용 효과 목록\nEN:\nActive Effects"
+  },
+  {
+    "key": "activation_complete-content",
+    "original": "活性化完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "活性化完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n활성화 완료\nEN:\nActivated"
+  },
+  {
+    "key": "lack_of_points-content",
+    "original": "星明かりが不足しています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星明かりが不足しています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛이 부족합니다.\nEN:\nNot enough Starlight."
+  },
+  {
+    "key": "require_to_activate_former_buffs-content",
+    "original": "前段階のバフを\n刻星する必要があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前段階のバフを\n刻星する必要があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전 단계 버프를\n별새김해야 합니다.\nEN:\nEngrave Stars on the previous\nstage's Starter Buffs first."
+  },
+  {
+    "key": "weekly_bonus_reward-content",
+    "original": "ウィークリー追加報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウィークリー追加報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주간 추가 보상\nEN:\nWeekly Bonuses"
+  },
+  {
+    "key": "hard_dungeon_reward-content",
+    "original": "難易度:ハード 報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "難易度:ハード 報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도 보상\nEN:\nHard Rewards"
+  },
+  {
+    "key": "dungeon_shop_return_title-content",
+    "original": "購入しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매하지 않는다.\nEN:\nDon't purchase."
+  },
+  {
+    "key": "dungeon_shop_return_desc-content",
+    "original": "ショップに移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ショップに移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상점 화면으로 이동\nEN:\nMove to Shop"
+  },
+  {
+    "key": "dungeon_shop_heal_title_one-content",
+    "original": "高い滋養強壮剤を選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高い滋養強壮剤を選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n값비싼 자양강장제를 선택한다.\nEN:\nChoose the expensive tonic."
+  },
+  {
+    "key": "dungeon_shop_heal_desc_one_hp_perc_mp_int-content",
+    "original": "選択した囚人の体力{0}%, 精神力{1} 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択した囚人の体力{0}%, 精神力{1} 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택한 수감자 체력 {0}%, 정신력 {1} 회복\nEN:\nThe selected Sinner heals {0}% HP and {1} SP"
+  },
+  {
+    "key": "dungeon_shop_heal_title_all-content",
+    "original": "エナジードリンクを選択する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エナジードリンクを選択する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에너지 드링크를 선택한다.\nEN:\nChoose the energy drinks."
+  },
+  {
+    "key": "dungeon_shop_heal_desc_all_hp_perc_mp_int-content",
+    "original": "全囚人の体力{0}%, 精神力{1} 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人の体力{0}%, 精神力{1} 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자 체력 {0}%, 정신력 {1} 회복\nEN:\nAll Sinners heal {0}% HP and {1} SP"
+  },
+  {
+    "key": "dungeon_shop_purchase_title-content",
+    "original": "購入する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매한다.\nEN:\nPurchase."
+  },
+  {
+    "key": "dungeon_shop_change_formation_title-content",
+    "original": "屑の中に見える鏡片を取り上げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屑の中に見える鏡片を取り上げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부스러기 안에 보이는 거울 조각을 집어든다.\nEN:\nPick up a mirror shard amid the crumbs."
+  },
+  {
+    "key": "dungeon_shop_change_formation_desc-content",
+    "original": "現在の編成に新しい人格、あるいはE.G.Oを追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の編成に新しい人格、あるいはE.G.Oを追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 편성에 새로운 인격 또는 E.G.O를 추가\nEN:\nAdd a new Identity or E.G.O to the current team"
+  },
+  {
+    "key": "dungeon_shop_heal_character-content",
+    "original": "囚人を\n回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を\n回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 회복\nEN:\nHeal Sinner"
+  },
+  {
+    "key": "dungeon_shop_change_formation-content",
+    "original": "編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성\nEN:\nTeam"
+  },
+  {
+    "key": "dungeon_shop_upgrade_personality-content",
+    "original": "{0}スキル交換\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}スキル交換\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 스킬 교체\nEN:\nReplace {0}'s Skill"
+  },
+  {
+    "key": "dungeon_shop_upgrade_personality_0_title-content",
+    "original": "適切な対価を払う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適切な対価を払う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적당한 비용을 치룬다.\nEN:\nPay a moderate price."
+  },
+  {
+    "key": "dungeon_shop_upgrade_personality_1_title-content",
+    "original": "大きな対価を払う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大きな対価を払う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큰 값을 치룬다.\nEN:\nPay a large sum."
+  },
+  {
+    "key": "dungeon_shop_upgrade_personality_2_title-content",
+    "original": "莫大な対価を払う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "莫大な対価を払う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어마어마한 값을 치룬다.\nEN:\nPay a tremendous price."
+  },
+  {
+    "key": "dungeon_shop_upgrade_personality_desc-content",
+    "original": "該当人格の保有する[スキル {2} - {0}]の内一つを[スキル {3} - {1}]に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "該当人格の保有する[スキル {2} - {0}]の内一つを[スキル {3} - {1}]に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 인격이 보유한 [스킬 {2} - {0}] 중 하나를 [스킬 {3} - {1}]으로 변경\nEN:\nChange one of the Identity's [skills {2} - {0}] to a [skill {3} - {1}]"
+  },
+  {
+    "key": "dungeon_shop_out-content",
+    "original": "出る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나가기\nEN:\nLeave"
+  },
+  {
+    "key": "mirrordungeon_2_hard_open_at-content",
+    "original": "鏡の鏡 難易度:ノーマル クリア時解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡の鏡 難易度:ノーマル クリア時解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울의 거울 보통 난이도 클리어 시 개방\nEN:\nClear Mirror of Mirrors on Normal to unlock"
+  },
+  {
+    "key": "mirrordungeon_with_number-content",
+    "original": "鏡ダンジョン {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡ダンジョン {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울 던전 {0}\nEN:\nMirror Dungeon {0}"
+  },
+  {
+    "key": "mirrordungeon_select_buffs_title-content",
+    "original": "選択肢効果の選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢効果の選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 효과 선택\nEN:\nSelect Event Effect"
+  },
+  {
+    "key": "acquire_additional_rewards-content",
+    "original": "追加報酬を受け取る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "追加報酬を受け取る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추가 보상 받기\nEN:\nReceive additional rewards"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_using_chance_desc-content",
+    "original": "「ウィークリー追加報酬」チャンスを消耗し、ボーナス報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「ウィークリー追加報酬」チャンスを消耗し、ボーナス報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n「주간 추가 보상」 기회를 소모하여 보너스 보상을 수령하시겠습니까?\nEN:\nSpend your 「Weekly Bonuses」 to claim the bonus rewards?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_not_using_chance_desc-content",
+    "original": "「ウィークリー追加報酬」チャンスが残っています。「ウィークリー追加報酬」チャンスを使用せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「ウィークリー追加報酬」チャンスが残っています。「ウィークリー追加報酬」チャンスを使用せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n「주간 추가 보상」 기회가 남아있습니다. \"주간 추가 보상\" 기회를 사용하지 않고 보상을 수령하시겠습니까?\nEN:\nYou have Weekly Bonus Eligibility remaining. Are you sure you want to claim the current rewards without using the Eligibility?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_no_chance_desc-content",
+    "original": "報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상을 수령하시겠습니까?\nEN:\nClaim the rewards?"
+  },
+  {
+    "key": "mirror_dungeon_start_buffs_chip_name-content",
+    "original": "星明かり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星明かり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛\nEN:\nStarlight"
+  },
+  {
+    "key": "mirror_dungeon_exit_without_acquire_rewards-content",
+    "original": "報酬を受け取らずに探索を終了しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬を受け取らずに探索を終了しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상을 수령하지 않고 탐사를 종료하시겠습니까?\nEN:\nEnd expedition without claiming rewards?"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_1-content",
+    "original": "もう半歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もう半歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반걸음 더\nEN:\nHalf a Step More"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_2-content",
+    "original": "闘志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "闘志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n투지\nEN:\nFighting Spirit"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_3-content",
+    "original": "弱点把握\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弱点把握\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약점 파악\nEN:\nSpotting Vulnerabilities"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_4-content",
+    "original": "進む闘志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "進む闘志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나아갈 투지\nEN:\nSpirit to Push Ahead"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_5-content",
+    "original": "弱点集中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弱点集中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약점 집중\nEN:\nFocusing Vulnerabilities"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_6-content",
+    "original": "体力鍛錬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力鍛錬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력 단련\nEN:\nPhysical Training"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_7-content",
+    "original": "垣間見える切実\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "垣間見える切実\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엿보이는 간절함\nEN:\nGlimpse of Earnestness"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_8-content",
+    "original": "高負荷体力鍛錬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高負荷体力鍛錬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고강도 체력 단련\nEN:\nIntense Training"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_9-content",
+    "original": "自生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자생\nEN:\nAutogenic"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_10-content",
+    "original": "噛み合った可能性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "噛み合った可能性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맞물린 가능성\nEN:\nMeshed Possibilities"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_11-content",
+    "original": "たった一つのポケット\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たった一つのポケット\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단 하나의 주머니\nEN:\nJust One Pocket"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_12-content",
+    "original": "もう一歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もう一歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한걸음 더\nEN:\nOne Step Further"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_13-content",
+    "original": "偶然の取得物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偶然の取得物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우연한 습득물\nEN:\nFortuitous Find"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_14-content",
+    "original": "目立つポケット\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目立つポケット\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돋보이는 주머니\nEN:\nDistinct Pocket"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_15-content",
+    "original": "堅固な守備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "堅固な守備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n견고한 수비\nEN:\nSolid Defense"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_16-content",
+    "original": "素早い足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "素早い足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재빠른 다리\nEN:\nQuick Legs"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_17-content",
+    "original": "俊足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "俊足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n준족\nEN:\nFleet-footed"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_18-content",
+    "original": "掠める攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "掠める攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스쳐가는 공격\nEN:\nGrazing Attack"
+  },
+  {
+    "key": "mirror_dungeon_buffs_title_19-content",
+    "original": "強靱な精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱な精神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳센 정신\nEN:\nStalwart Spirit"
+  },
+  {
+    "key": "mirrordungeon_unable_to_purchase_buffs_when_running_dungeon-content",
+    "original": "ダンジョン進行中は開始バフを購入できません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダンジョン進行中は開始バフを購入できません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n던전 진행 중에는 시작 버프를 구매할 수 없습니다.\nEN:\nYou may not purchase starter buffs while an expedition is in progress."
+  },
+  {
+    "key": "mirrordungeon_resting_open-content",
+    "original": "どうかゆっくり休んで行ってください！\n\nもし出会いを求めるのであれば、机の上にそれを乗せてください。\n\n- 自販機を探して迷路を旅するコンビニ店主より\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうかゆっくり休んで行ってください！\n\nもし出会いを求めるのであれば、机の上にそれを乗せてください。\n\n- 自販機を探して迷路を旅するコンビニ店主より\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부디 편히 쉬었다 가시길!\n\n혹여 원하는 게 만남이라면, 책상 위에 그것을 올려주세요.\n\n- 자판기를 찾아 미로를 여행하는 편의점 주인 올림\nEN:\nFeel free to take a rest here!\n\nIf you'd like a chance meeting, please place that on the desk.\n\n- Convenience store owner exploring the maze for a dispenser"
+  },
+  {
+    "key": "mirrordungeon_shop_open-content",
+    "original": "自販機から流れる振動音が空間を満たす。\n\nそれは私たちが何を望んでいるかを知っている。\n\n私たちもまた、それが望むものが何かを知っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自販機から流れる振動音が空間を満たす。\n\nそれは私たちが何を望んでいるかを知っている。\n\n私たちもまた、それが望むものが何かを知っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자판기에서 흘러나오는 진동음이 공간을 가득 메운다.\n\n그것은 우리가 무엇을 원하는지 알고 있다.\n\n우리 역시 그게 원하는 것이 무엇인지를 알고 있다.\nEN:\nThe dispenser's hum fills the air.\n\nIt knows what we want.\n\nWe also know what it wants."
+  },
+  {
+    "key": "mirrordungeon_resting_heal_title-content",
+    "original": "ゆっくり休む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゆっくり休む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편히 쉰다.\nEN:\nTake a rest."
+  },
+  {
+    "key": "mirrordungeon_resting_heal_desc-content",
+    "original": "囚人を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 회복\nEN:\nSinners heal HP"
+  },
+  {
+    "key": "mirrordungeon_resting_heal_desc_1-content",
+    "original": "選択した囚人の体力{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択した囚人の体力{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택한 수감자 체력 {0}% 회복\nEN:\nThe selected Sinner heals {0}% HP"
+  },
+  {
+    "key": "mirrordungeon_resting_heal_desc_2-content",
+    "original": "全囚人の体力{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人の体力{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자 체력 {0}% 회복\nEN:\nAll Sinners heal {0}% HP"
+  },
+  {
+    "key": "mirrordungeon_resting_change_formation_title-content",
+    "original": "屑をテーブルの上に置く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屑をテーブルの上に置く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부스러기를 테이블 위에 올려둔다.\nEN:\nPlace the crumb on the table."
+  },
+  {
+    "key": "mirrordungeon_resting_change_formation_desc-content",
+    "original": "現在の編成に新しい人格、あるいはE.G.Oを追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の編成に新しい人格、あるいはE.G.Oを追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 편성에 새로운 인격 또는 E.G.O를 추가\nEN:\nAdd a new Identity or E.G.O to the current team"
+  },
+  {
+    "key": "hard_difficulty_en-content",
+    "original": "ハード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ハード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도\nEN:\nHard"
+  },
+  {
+    "key": "mirrordungeon_2_normal_open_at-content",
+    "original": "メインストーリー4-54, 始まりの鏡をクリア時に解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインストーリー4-54, 始まりの鏡をクリア時に解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주요이야기 4-54, 시작의 거울 클리어 시 개방\nEN:\nClear Main Story 4-54 and Mirror of the Beginning to unlock"
+  },
+  {
+    "key": "mirrordungeon_2_shop_stageinfo_title-content",
+    "original": "振動音が太く響く空間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動音が太く響く空間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동음이 굵게 울리는 공간\nEN:\nThick Rumbling Hum"
+  },
+  {
+    "key": "mirrordungeon_2_shop_stageinfo_desc-content",
+    "original": "恐ろしいほどにがらんとした空間が、自販機から流れる振動音で満たされる。\n\nその声は言う。君たちが持っているその屑を捧げるなら、役に立つものに変えてあげると。\n\n正体不明のそれに向かって、取り憑かれたように近づいていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "恐ろしいほどにがらんとした空間が、自販機から流れる振動音で満たされる。\n\nその声は言う。君たちが持っているその屑を捧げるなら、役に立つものに変えてあげると。\n\n正体不明のそれに向かって、取り憑かれたように近づいていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n섬뜩하리만치 텅 빈 공간이 자판기에서 흘러나오는 진동음으로 메워진다.\n\n그 목소리는 말한다. 너희가 가진 그 부스러기를 바친다면 쓸모있는 것으로 바꾸어 주겠다고.\n\n정체를 알 수 없는 그것을 향해 홀린 듯이 다가간다.\nEN:\nThe eerily empty space is occupied by the hum coming from the dispenser.\n\nThe voice speaks: 'Yield that crumb you have, and it'll be exchanged for something useful.'\n\nYou're drawn by the mysterious object."
+  },
+  {
+    "key": "mirrordungeon_2_resting_stageinfo_title-content",
+    "original": "静けさが濃く立ち込めた空間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "静けさが濃く立ち込めた空間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고요함이 짙게 드리운 공간\nEN:\nDense Quietness"
+  },
+  {
+    "key": "mirrordungeon_2_resting_stageinfo_desc-content",
+    "original": "静けさに苦痛を埋めておいたり、\nその中から苦痛を共にする者を掘り出してみよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "静けさに苦痛を埋めておいたり、\nその中から苦痛を共にする者を掘り出してみよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고요함에 고통을 묻어두거나,\n그 속에서 고통을 함께할 자를 꺼내어보자.\nEN:\nYou may bury your pain in the quiet,\nor bring out someone to share the pain with."
+  },
+  {
+    "key": "dungeon_resting_change_formation_title-content",
+    "original": "屑の中に見える鏡片を取り上げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屑の中に見える鏡片を取り上げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부스러기 안에 보이는 거울 조각을 집어든다.\nEN:\nPick up a mirror shard amid the crumbs."
+  },
+  {
+    "key": "dungeon_resting_change_formation_desc-content",
+    "original": "現在の編成に新しい人格、あるいはE.G.Oを追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の編成に新しい人格、あるいはE.G.Oを追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 편성에 새로운 인격 또는 E.G.O를 추가\nEN:\nAdd a new Identity or E.G.O to the current team"
+  },
+  {
+    "key": "dungeon_resting_heal_title_one-content",
+    "original": "最も疲れて見える囚人を椅子に寝かせる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最も疲れて見える囚人を椅子に寝かせる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제일 피곤해보이는 수감자를 의자에 눕힌다.\nEN:\nPlace the most tired Sinner in the chair."
+  },
+  {
+    "key": "dungeon_resting_heal_title_all-content",
+    "original": "囚人全員が椅子に腰掛けて休憩を取る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人全員が椅子に腰掛けて休憩を取る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 전원이 의자에 걸터앉아 휴식을 취한다.\nEN:\nAll Sinners take a seat to rest."
+  },
+  {
+    "key": "ego_gift_info-content",
+    "original": "E.G.Oギフト情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 정보\nEN:\nE.G.O Gift Info"
+  },
+  {
+    "key": "mirrordungeon_shop_gift_entrance-content",
+    "original": "奇異で神秘的なものに、ついつい目が行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇異で神秘的なものに、ついつい目が行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기이하고 신비로운 것에 자꾸만 시선이 간다.\nEN:\nThe bizarre and curious things draw your attention."
+  },
+  {
+    "key": "mirrordungeon_shop_gift_purchase-content",
+    "original": "がちゃんと音を立てて何かが落ちる音が聞こえる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "がちゃんと音を立てて何かが落ちる音が聞こえる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n철컹거리며 무언가가 떨어지는 소리가 들린다.\nEN:\nYou hear something drop with a clang."
+  },
+  {
+    "key": "mirrordungeon_reenter-content",
+    "original": "他に買うものは？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "他に買うものは？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더 살 게 있을까?\nEN:\nAnything else to buy?"
+  },
+  {
+    "key": "mirrordungeon_shop_heal_one_who-content",
+    "original": "残念ながら、この貴重な疲労回復剤は一つだけだ。\n誰が飲むのがいいだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残念ながら、この貴重な疲労回復剤は一つだけだ。\n誰が飲むのがいいだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안타깝게도 이 귀한 피로회복제는 하나 뿐이다.\n누가 마시는 게 좋을까?\nEN:\nUnfortunately, there's only one of this precious restorative drink.\nWho should drink it?"
+  },
+  {
+    "key": "mirrordungeon_shop_heal_one_answer-content",
+    "original": "高いものは高いなりの理由があるみたいだ。\n滋養強壮剤を味わった囚人の顔には疲労どころか、光彩が揺らめく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高いものは高いなりの理由があるみたいだ。\n滋養強壮剤を味わった囚人の顔には疲労どころか、光彩が揺らめく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비싼 물건은 그 값을 하나보다.\n자양강장제를 맛본 수감자의 얼굴에는 피로는 커녕 광채가 어른거린다.\nEN:\nIt looks like the item was well worth the price.\nAfter drinking the tonic, the Sinner is almost glowing with vigor."
+  },
+  {
+    "key": "mirrordungeon_shop_heal_all_answer-content",
+    "original": "囚人の数だけエナジードリンクを出した。\n甘くて酸っぱいものを味わい、皆の顔からやっと疲れが取れたようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人の数だけエナジードリンクを出した。\n甘くて酸っぱいものを味わい、皆の顔からやっと疲れが取れたようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 수만큼 에너지 드링크를 뽑았다.\n달고 시큼한 것을 맛보며, 모두의 얼굴에 이제야 피로가 좀 풀리는 모습이다.\nEN:\nYou bought energy drinks for every Sinner.\nTasting the sweet and sour liquid, fatigue seems to be leaving the Sinners' faces."
+  },
+  {
+    "key": "mirrordungeon_resting_heal_one_answer-content",
+    "original": "しばらく横になって目を閉じてもらった。\n休憩時間が終わる頃に再び様子を見ると、幸いなことに元気を取り戻したようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しばらく横になって目を閉じてもらった。\n休憩時間が終わる頃に再び様子を見ると、幸いなことに元気を取り戻したようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잠시 누워 눈을 붙이도록 했다.\n휴식 시간이 끝날 무렵에 다시 보니 다행히 기운을 차린 듯한 모습이다.\nEN:\nI had the Sinner take a light nap.\nThankfully, the Sinner seems to have recovered their strength when I looked at them by the end of the break."
+  },
+  {
+    "key": "mirrordungeon_resting_heal_all_answer-content",
+    "original": "みんな座るには少し狭かったけど、\n久しぶりの恵みの雨のような休息だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "みんな座るには少し狭かったけど、\n久しぶりの恵みの雨のような休息だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모두 앉으려니 조금 비좁기는 했지만,\n모처럼 단비 같은 휴식이었다.\nEN:\nIt was a bit cramped for everyone to sit,\nBut the rest was blissful to have nonetheless."
+  },
+  {
+    "key": "mirrordungeon_shop_heal_one_after-content",
+    "original": "みんな座るには少し狭かったけど、\n久しぶりの恵みの雨のような休息だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "みんな座るには少し狭かったけど、\n久しぶりの恵みの雨のような休息だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모두 앉으려니 조금 비좁기는 했지만,\n모처럼 단비 같은 휴식이었다.\nEN:\nIt was a bit cramped for everyone to sit,\nBut the rest was blissful to have nonetheless."
+  },
+  {
+    "key": "mirrordungeon_shop_heal_one_who_right-content",
+    "original": "疲れて見える囚人を選択する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "疲れて見える囚人を選択する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피곤해 보이는 수감자를 선택한다.\nEN:\nChoose the Sinner that looks tired."
+  },
+  {
+    "key": "mirrordungeon_shop_upgrade_start_left-content",
+    "original": "この自販機の中には無限の可能性という概念が実在するのだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この自販機の中には無限の可能性という概念が実在するのだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 자판기 안에는 무한한 가능성이라는 개념이 실재하는 것일까.\nEN:\nCould infinite possibilities really reside within this dispenser?"
+  },
+  {
+    "key": "dungeon_encounter_guide_mirror_shop-content",
+    "original": "ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상점\nEN:\nShop"
+  },
+  {
+    "key": "dungeon_encounter_guide_mirror_select_event-content",
+    "original": "憩いの場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憩いの場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉼터\nEN:\nRest Stop"
+  },
+  {
+    "key": "dungeon_explore_floor-content",
+    "original": "{0}階層 探査中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}階層 探査中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}층 탐사 중\nEN:\nExploring Floor {0}"
+  },
+  {
+    "key": "lack_of_point_for_shop-content",
+    "original": "コスト\n不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト\n不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 부족\nEN:\nNot Enough Cost"
+  },
+  {
+    "key": "mirrordungeon_select_less_character_at_start-content",
+    "original": "選択可能な囚人数より少ない数で編成されています。\nこのまま進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択可能な囚人数より少ない数で編成されています。\nこのまま進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택가능한 수감자 수보다 적게 편성되었습니다.\n이대로 진행하시겠습니까?\nEN:\nYou've deployed fewer Sinners than your max for the team.\nAre you sure you want to proceed?"
+  },
+  {
+    "key": "list_of_applied_effects_is_empty-content",
+    "original": "現在適用された効果はありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在適用された効果はありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 적용된 효과가 없습니다.\nEN:\nNo effects active."
+  },
+  {
+    "key": "give_up_rewards-content",
+    "original": "受け取り拒否\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "受け取り拒否\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수령 포기\nEN:\nGive Up Rewards"
+  },
+  {
+    "key": "mirror_dungeon_rewards_back_to_lobby_button-content",
+    "original": "硝子窓へ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硝子窓へ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유리창으로 이동\nEN:\nTo Window"
+  },
+  {
+    "key": "mirror_dungeon_rewards_back_to_lobby_desc-content",
+    "original": "硝子窓へ移動しますか？\n探査終了報酬ウィンドウは、鏡ダンジョンに再入場したときにまた表示されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "硝子窓へ移動しますか？\n探査終了報酬ウィンドウは、鏡ダンジョンに再入場したときにまた表示されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유리창으로 이동하시겠습니까?\n탐사 종료 보상 창은 이후 거울 던전에 다시 입장할 때 재등장합니다.\nEN:\nWould you like to move to the Window?\nThe expedition rewards popup will reappear when you return to the Mirror Dungeons menu."
+  },
+  {
+    "key": "mirror_dungeon_rewards_back_to_lobby_button_lobby-content",
+    "original": "リストへ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リストへ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n목록으로 이동\nEN:\nTo List"
+  },
+  {
+    "key": "mirrordungeon_resting_heal_one_who-content",
+    "original": "席がそこまで広くない。\n誰を休ませるのが良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "席がそこまで広くない。\n誰を休ませるのが良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자리가 그다지 넓진 않다.\n누구를 쉬게 하는 게 좋을까?\nEN:\nThe space isn't all that wide.\nWho should take the rest?"
+  },
+  {
+    "key": "mirrordungeon_resting_heal_one_who_right-content",
+    "original": "疲れて見える囚人を選択する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "疲れて見える囚人を選択する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피곤해 보이는 수감자를 선택한다.\nEN:\nChoose the Sinner that looks tired."
+  },
+  {
+    "key": "mirror_dungeon_change_formation_release_character-content",
+    "original": "選択項目一括キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択項目一括キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 항목 일괄 취소\nEN:\nCancel All Selected"
+  },
+  {
+    "key": "mirrordungeon_exit_shop-content",
+    "original": "ショップから出ますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ショップから出ますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상점에서 나가시겠습니까?\nEN:\nLeave the shop?"
+  },
+  {
+    "key": "mirrordungeon_exit_resting-content",
+    "original": "憩いの場から出ますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憩いの場から出ますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉼터에서 나가시겠습니까?\nEN:\nLeave the rest stop?"
+  },
+  {
+    "key": "mirrordungeon_change_formation_confirm_less_participants-content",
+    "original": "選択回数が残っています。\nこのまま編成しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択回数が残っています。\nこのまま編成しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 횟수가 남았습니다.\n이대로 편성하시겠습니까?\nEN:\nYou have selections remaining.\nAre you sure you want to finish the setup?"
+  },
+  {
+    "key": "mirrordungeon_change_formation_confirm_exact_participants-content",
+    "original": "コストを使用し、選択した人格とE.G.Oを編成しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コストを使用し、選択した人格とE.G.Oを編成しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트를 사용하여 선택한 인격과 E.G.O를 편성하시겠습니까?\nEN:\nSpend the Cost to deploy the selected Identities and E.G.O?"
+  },
+  {
+    "key": "mirror_dungeon_clear_battle_reward_label-content",
+    "original": "クリア報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリア報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n클리어 보상\nEN:\nClear Rewards"
+  },
+  {
+    "key": "mirror_dungeon_start_change_formation_but_button-content",
+    "original": "購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매\nEN:\nBuy"
+  },
+  {
+    "key": "mirror_dungeon_give_up_ego_gift-content",
+    "original": "選択しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택하지 않음\nEN:\nRefuse Gift"
+  },
+  {
+    "key": "mirror_dungeon_give_up_ego_gift_ask-content",
+    "original": "E.G.Oギフトを選択せずに進めますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフトを選択せずに進めますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트를 선택하지 않고 진행하시겠습니까?\nEN:\nContinue without choosing an E.G.O Gift?"
+  },
+  {
+    "key": "mirror_dungeon_challenge_mode_description-content",
+    "original": "チャレンジモードを活性化すると、ランダムに編成が組まれます。\n報酬を受け取るまで編成を変更することはできません。\nチャレンジモード状態でクリア時、報酬が増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チャレンジモードを活性化すると、ランダムに編成が組まれます。\n報酬を受け取るまで編成を変更することはできません。\nチャレンジモード状態でクリア時、報酬が増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도전 모드를 활성화할 경우, 무작위 편성이 진행됩니다.\n조합된 편성은 해당 편성으로 보상을 수령하기 전까지 변경되지 않습니다.\n도전 모드 상태로 클리어 시, 보상이 증가합니다.\nEN:\nWhile Challenge Mode is active, the team will be set up randomly.\nThe setup will not change until you have claimed rewards for an expedition with the team.\nYou can receive more rewards in Challenge Mode clears."
+  },
+  {
+    "key": "mirror_dungeon_challenge_mode_ask-content",
+    "original": "チャレンジモードを活性化しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チャレンジモードを活性化しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도전 모드를 활성화하시겠습니까?\nEN:\nActivate Challenge Mode?"
+  },
+  {
+    "key": "mirror_dungeon_challenge_mode-content",
+    "original": "チャレンジモード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チャレンジモード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도전 모드\nEN:\nChallenge Mode"
+  },
+  {
+    "key": "mirror_dungeon_hard_require_condition_title-content",
+    "original": "推奨条件\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "推奨条件\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n권장 조건\nEN:\nRecommendations"
+  },
+  {
+    "key": "mirror_dungeon_hard_require_condition_level-content",
+    "original": "- 人格レベル45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 人格レベル45\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 인격 레벨 45\nEN:\n- Identity Levels 45"
+  },
+  {
+    "key": "mirror_dungeon_hard_require_condition_ego_gacksung-content",
+    "original": "- E.G.O幻想解析 3段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- E.G.O幻想解析 3段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- E.G.O 환상 해석 3 단계\nEN:\n- E.G.O Threadspin Tier 3"
+  },
+  {
+    "key": "mirror_dungeon_hard_require_condition_personality_gacksung-content",
+    "original": "- 人格同期化 3段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 人格同期化 3段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 인격 동기화 3 단계\nEN:\n- Identity Uptie Tier 3"
+  },
+  {
+    "key": "mirror_dungeon_hard_require_condition_start_buf-content",
+    "original": "- 開始バフ 全解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 開始バフ 全解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 시작 버프 전체 활성화\nEN:\n- All Starter Buffs Active"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_using_hard_using_chance_desc-content",
+    "original": "残った<color=#a16a3b>ウィークリー追加報酬</color>と難易度:Hard報酬</color>を全て消耗しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残った<color=#a16a3b>ウィークリー追加報酬</color>と難易度:Hard報酬</color>を全て消耗しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남은 &lt;color=#a16a3b&gt;주간 추가 보상&lt;/color&gt;과 &lt;color=#ff0000&gt;어려움 난이도 보상&lt;/color&gt;을 전부 소모하여 보상을 수령하시겠습니까?\nEN:\nConsume all of your remaining &lt;color=#a16a3b&gt;Weekly Bonuses&lt;/color&gt; and &lt;color=#ff0000&gt;Hard Difficulty Reward count&lt;/color&gt; to claim the rewards?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_using_hard_not_using_chance_desc-content",
+    "original": "使用可能な<color=#a16a3b>ウィークリー追加報酬</color>があります。\n\n<color=#ff0000>難易度:Hard報酬</color>のみ消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用可能な<color=#a16a3b>ウィークリー追加報酬</color>があります。\n\n<color=#ff0000>難易度:Hard報酬</color>のみ消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능한 &lt;color=#a16a3b&gt;주간 추가 보상&lt;/color&gt;이 있습니다.\n\n&lt;color=#ff0000&gt;어려움 난이도 보상&lt;/color&gt;만 소모하여 보상을 수령하시겠습니까?\nEN:\nYou have remaining &lt;color=#a16a3b&gt;Weekly Bonuses&lt;/color&gt;.\n\nConsume only the &lt;color=#ff0000&gt;Hard Difficulty Reward counts&lt;/color&gt; to unlock the rewards?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_using_hard_no_chance_desc-content",
+    "original": "<color=#ff0000>難易度:Hard報酬</color>を消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ff0000>難易度:Hard報酬</color>を消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ff0000&gt;어려움 난이도 보상&lt;/color&gt;을 소모하여 보상을 수령하시겠습니까?\nEN:\nSpend &lt;color=#ff0000&gt;Hard Difficulty Rewards count&lt;/color&gt; to unlock the rewards?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_not_using_hard_chance_using_chance_desc-content",
+    "original": "使用可能ば<color=#ff0000>難易度:Hard報酬</color>があります。\n\n<color=#a16a3b>ウィークリー追加報酬</color>のみを消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用可能ば<color=#ff0000>難易度:Hard報酬</color>があります。\n\n<color=#a16a3b>ウィークリー追加報酬</color>のみを消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능한 &lt;color=#ff0000&gt;어려움 난이도 보상&lt;/color&gt;이 있습니다.\n\n&lt;color=#a16a3b&gt;주간 추가 보상&lt;/color&gt;만 소모하여 보상을 수령하시겠습니까?\nEN:\nYou have remaining &lt;color=#ff0000&gt;Hard Difficulty Reward counts&lt;/color&gt;.\n\nConsume only the &lt;color=#a16a3b&gt;Weekly Bonuses&lt;/color&gt; to unlock the rewards?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_not_using_hard_chance_not_using_chance_desc-content",
+    "original": "使用可能な<color=#a16a3b>ウィークリー追加報酬</color>と<color=#ff0000>難易度:Hard報酬</color>があります。\n\n消耗せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用可能な<color=#a16a3b>ウィークリー追加報酬</color>と<color=#ff0000>難易度:Hard報酬</color>があります。\n\n消耗せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능한 &lt;color=#a16a3b&gt;주간 추가 보상&lt;/color&gt;과 &lt;color=#ff0000&gt;어려움 난이도 보상&lt;/color&gt;이 있습니다.\n\n이를 소모하지 않고 보상을 수령하시겠습니까?\nEN:\nYou have remaining &lt;color=#a16a3b&gt;Weekly Bonuses&lt;/color&gt; and &lt;color=#ff0000&gt;Hard Difficulty Reward counts&lt;/color&gt;.\n\nUnlock the rewards without spending them?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_not_using_hard_chance_no_chance_desc-content",
+    "original": "使用可能な<color=#ff0000>難易度:Hard報酬</color>があります。\n\n消耗せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用可能な<color=#ff0000>難易度:Hard報酬</color>があります。\n\n消耗せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능한 &lt;color=#ff0000&gt;어려움 난이도 보상&lt;/color&gt;이 있습니다.\n\n이를 소모하지 않고 보상을 수령하시겠습니까?\nEN:\nYou have remaining &lt;color=#ff0000&gt;Hard Difficulty Reward counts&lt;/color&gt;.\n\nUnlock the rewards without spending them?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_no_hard_chance_using_chance_desc-content",
+    "original": "<color=#a16a3b>追加ウィークリー報酬</color>を消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#a16a3b>追加ウィークリー報酬</color>を消耗して報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#a16a3b&gt;주간 추가 보상&lt;/color&gt;을 소모하여 보상을 수령하시겠습니까?\nEN:\nSpend &lt;color=#a16a3b&gt;Weekly Bonuses&lt;/color&gt; to unlock the rewards?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_no_hard_chance_not_using_chance_desc-content",
+    "original": "使用可能な<color=#a16a3b>ウィークリー追加報酬</color>があります。\n\n消耗せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用可能な<color=#a16a3b>ウィークリー追加報酬</color>があります。\n\n消耗せずに報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능한 &lt;color=#a16a3b&gt;주간 추가 보상&lt;/color&gt;이 있습니다.\n\n이를 소모하지 않고 보상을 수령하시겠습니까?\nEN:\nYou have remaining &lt;color=#a16a3b&gt;Weekly Bonuses&lt;/color&gt;.\n\nUnlock the rewards without spending them?"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards_no_hard_chance_no_chance_desc-content",
+    "original": "報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬を受け取りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상을 수령하시겠습니까?\nEN:\nClaim the rewards?"
+  },
+  {
+    "key": "mirrordungeon_hard_no_reward_desc-content",
+    "original": "<color=#ff0000>該当コンテンツの報酬を既に受け取っているので、報酬を獲得することができません。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ff0000>該当コンテンツの報酬を既に受け取っているので、報酬を獲得することができません。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ff0000&gt;해당 콘텐츠 보상을 이미 획득하여, 보상을 획득할 수 없습니다.&lt;/color&gt;\nEN:\n&lt;color=#ff0000&gt;The rewards for this content has already been claimed.&lt;/color&gt;"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_1-content",
+    "original": "旅路の始まり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "旅路の始まり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여정의 시작\nEN:\nA Journey's Start"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_2-content",
+    "original": "チャンスを掴む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チャンスを掴む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기회 잡기\nEN:\nSeize the Opportunity"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_3-content",
+    "original": "備えあれば憂いなし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "備えあれば憂いなし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유비무환\nEN:\nJust in Case"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_4-content",
+    "original": "努力の産物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "努力の産物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노력의 산물\nEN:\nFruits of Labor"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_5-content",
+    "original": "貴い実り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貴い実り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n값진 결실\nEN:\nWorthy Prize"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_6-content",
+    "original": "新たな発見\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新たな発見\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새로운 발견\nEN:\nNew Discovery"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_7-content",
+    "original": "戦利品\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦利品\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전리품\nEN:\nThe Spoils of War"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_8-content",
+    "original": "多多益善\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "多多益善\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다다익선\nEN:\nMore the Better"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_9-content",
+    "original": "確立した信頼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "確立した信頼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다져진 신뢰\nEN:\nEstablished Trust"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_10-content",
+    "original": "切磋琢磨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "切磋琢磨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절차탁마\nEN:\nPerseverance"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_11-content",
+    "original": "名は体を表す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "名は体を表す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이름값\nEN:\nNamesake"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_12-content",
+    "original": "名声と偉業\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "名声と偉業\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명성과 위업\nEN:\nFame and Feats"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_13-content",
+    "original": "権利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "権利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n권리\nEN:\nRights"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_14-content",
+    "original": "衣錦還郷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "衣錦還郷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금의환향\nEN:\nTriumphant Return"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_15-content",
+    "original": "目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n목표\nEN:\nGoals"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_16-content",
+    "original": "備え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "備え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n준비성\nEN:\nReadiness"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_17-content",
+    "original": "進む闘志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "進む闘志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나아갈 투지\nEN:\nSpirit to Push Ahead"
+  },
+  {
+    "key": "mirror_dungeon_3_buffs_title_18-content",
+    "original": "体力鍛錬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力鍛錬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력 단련\nEN:\nPhysical Training"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_101-content",
+    "original": "ランク3ギフト出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク3ギフト出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3등급 기프트 등장\nEN:\nTier 3 Gift Appearance"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1011-content",
+    "original": "火傷ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火傷ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화상 기프트 출현 등급 상승\nEN:\nHigher Tier Burn Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1012-content",
+    "original": "出血ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出血ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출혈 기프트 출현 등급 상승\nEN:\nHigher Tier Bleed Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1013-content",
+    "original": "振動ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 기프트 출현 등급 상승\nEN:\nHigher Tier Tremor Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1014-content",
+    "original": "破裂ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 기프트 출현 등급 상승\nEN:\nHigher Tier Rupture Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1015-content",
+    "original": "沈潜ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침잠 기프트 출현 등급 상승\nEN:\nHigher Tier Sinking Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1016-content",
+    "original": "呼吸ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 기프트 출현 등급 상승\nEN:\nHigher Tier Poise Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1017-content",
+    "original": "充電ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 기프트 출현 등급 상승\nEN:\nHigher Tier Charge Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1018-content",
+    "original": "ランダムなギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムなギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 기프트 출현 등급 상승\nEN:\nHigher Tier Random Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_102-content",
+    "original": "ランク4以上のギフト出現&ギフト出現ランクが上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク4以上のギフト出現&ギフト出現ランクが上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4등급 이상 기프트 등장 및 기프트 출현 등급 상승\nEN:\nTier 4+ Gifts appear & Higher Tier Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1021-content",
+    "original": "ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 출현 등급 상승\nEN:\nHigher Tier Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1022-content",
+    "original": "ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 출현 등급 상승\nEN:\nHigher Tier Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1023-content",
+    "original": "ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト出現ランク上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 출현 등급 상승\nEN:\nHigher Tier Gifts appear"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_103-content",
+    "original": "ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 기프트 수 +1\nEN:\nSelectable E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1031-content",
+    "original": "ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 기프트 수 +1\nEN:\nSelectable E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_104-content",
+    "original": "ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 기프트 수 +1\nEN:\nSelectable E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1041-content",
+    "original": "火傷ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火傷ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 화상 기프트 수 +1\nEN:\nSelectable Burn E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1042-content",
+    "original": "出血ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出血ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 출혈 기프트 수 +1\nEN:\nSelectable Bleed E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1043-content",
+    "original": "振動ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 진동 기프트 수 +1\nEN:\nSelectable Tremor E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1044-content",
+    "original": "破裂ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 파열 기프트 수 +1\nEN:\nSelectable Rupture E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1045-content",
+    "original": "沈潜ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 침잠 기프트 수 +1\nEN:\nSelectable Sinking E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1046-content",
+    "original": "呼吸ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 호흡 기프트 수 +1\nEN:\nSelectable Poise E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1047-content",
+    "original": "充電ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電ギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 충전 기프트 수 +1\nEN:\nSelectable Charge E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1048-content",
+    "original": "ランダムなギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムなギフト出現数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n등장하는 무작위 기프트 수 +1\nEN:\nSelectable Random E.G.O Gift +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_105-content",
+    "original": "開始コスト50を獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始コスト50を獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 코스트 50 획득\nEN:\nGain +50 Starting Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1051-content",
+    "original": "開始コスト +50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始コスト +50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 코스트 +50\nEN:\nStarting Cost +50"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1052-content",
+    "original": "開始コスト +50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始コスト +50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 코스트 +50\nEN:\nStarting Cost +50"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1053-content",
+    "original": "開始コスト +50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始コスト +50\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 코스트 +50\nEN:\nStarting Cost +50"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_106-content",
+    "original": "ギフト3種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト3種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 3종 추가 등장\nEN:\nIntroduce 3 new Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1061-content",
+    "original": "火傷ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火傷ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화상 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Burn Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1062-content",
+    "original": "出血ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出血ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출혈 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Bleed Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1063-content",
+    "original": "振動ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Tremor Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1064-content",
+    "original": "破裂ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Rupture Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1065-content",
+    "original": "沈潜ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침잠 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Sinking Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1066-content",
+    "original": "呼吸ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Poise Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1067-content",
+    "original": "充電ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電ギフトを2種類追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 기프트 2종 추가 등장\nEN:\nIntroduce 2 new Charge Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_107-content",
+    "original": "戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투에서 획득하는 코스트 증가\nEN:\nGain more Cost from Combat Encounters"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1071-content",
+    "original": "一般戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투에서 획득하는 코스트 증가\nEN:\nGain more Cost from Regular Encounters"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1072-content",
+    "original": "集中戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "集中戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집중 전투에서 획득하는 코스트 증가\nEN:\nGain more Cost from Focused Encounters"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1073-content",
+    "original": "危険戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "危険戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위험 전투에서 획득하는 코스트 증가\nEN:\nGain more Cost from Risky Encounters"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1074-content",
+    "original": "階層ボス戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "階層ボス戦闘で獲得するコストが増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n층 보스 전투에서 획득하는 코스트 증가\nEN:\nGain more Cost from Floor Boss Encounters"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_108-content",
+    "original": "ギフト選択数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト選択数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 선택 수 +1\nEN:\nGift Choice +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_109-content",
+    "original": "更新コストが減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "更新コストが減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새로고침 비용 감소\nEN:\nCheaper Refresh Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1091-content",
+    "original": "更新コストが減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "更新コストが減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새로고침 비용 감소\nEN:\nCheaper Refresh Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1092-content",
+    "original": "低確率で更新コスト消耗量が0\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低確率で更新コスト消耗量が0\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은 확률로 새로 고침 비용 소모 없음\nEN:\nSmall chance for a free Refresh"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1093-content",
+    "original": "スキル交換費用が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル交換費用が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 교체 비용 감소\nEN:\n[Shops] Cheaper Skill Replacement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1094-content",
+    "original": "スキル交換費用が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル交換費用が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 교체 비용 감소\nEN:\n[Shops] Cheaper Skill Replacement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_110-content",
+    "original": "強化コストが減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化コストが減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 비용 감소\nEN:\nCheaper Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1101-content",
+    "original": "低確率で強化コスト消耗量が0\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低確率で強化コスト消耗量が0\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은 확률로 강화 비용 소모 없음\nEN:\nSmall chance for a free Enhance"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1102-content",
+    "original": "火傷ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火傷ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화상 기프트 강화 비용 감소\nEN:\nCheaper Burn Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1103-content",
+    "original": "出血ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出血ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출혈 기프트 강화 비용 감소\nEN:\nCheaper Bleed Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1104-content",
+    "original": "振動ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 기프트 강화 비용 감소\nEN:\nCheaper Tremor Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1105-content",
+    "original": "破裂ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 기프트 강화 비용 감소\nEN:\nCheaper Rupture Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1106-content",
+    "original": "沈潜ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침잠 기프트 강화 비용 감소\nEN:\nCheaper Sinking Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1107-content",
+    "original": "呼吸ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 기프트 강화 비용 감소\nEN:\nCheaper Poise Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1108-content",
+    "original": "充電ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電ギフト強化コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 기프트 강화 비용 감소\nEN:\nCheaper Charge Gift Enhancement Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_111-content",
+    "original": "ギフト売却コスト増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト売却コスト増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 판매 비용 증가\nEN:\nGain more Cost from selling Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1111-content",
+    "original": "ギフト売却コスト増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト売却コスト増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 판매 비용 증가\nEN:\nGain more Cost from selling Gifts"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_112-content",
+    "original": "ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 구매 비용 감소\nEN:\nCheaper Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1121-content",
+    "original": "火傷ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火傷ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화상 기프트 구매 비용 감소\nEN:\nCheaper Burn Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1122-content",
+    "original": "出血ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出血ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출혈 기프트 구매 비용 감소\nEN:\nCheaper Bleed Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1123-content",
+    "original": "振動ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 기프트 구매 비용 감소\nEN:\nCheaper Tremor Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1124-content",
+    "original": "破裂ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 기프트 구매 비용 감소\nEN:\nCheaper Rupture Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1125-content",
+    "original": "沈潜ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침잠 기프트 구매 비용 감소\nEN:\nCheaper Sinking Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1126-content",
+    "original": "呼吸ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 기프트 구매 비용 감소\nEN:\nCheaper Poise Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1127-content",
+    "original": "充電ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 기프트 구매 비용 감소\nEN:\nCheaper Charge Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1128-content",
+    "original": "汎用ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汎用ギフト購入コスト減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n범용 기프트 구매 비용 감소\nEN:\nCheaper Keywordless Gift Purchase Cost"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_151-content",
+    "original": "E.G.Oギフト選択数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト選択数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 선택 수 +1\nEN:\nE.G.O Gift Selection +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_152-content",
+    "original": "開始コスト +250\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始コスト +250\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 코스트 + 250\nEN:\nStarting Cost +250"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_153-content",
+    "original": "開始時点で選択したカテゴリの、ランク4のE.G.Oギフトをランダムで追加獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始時点で選択したカテゴリの、ランク4のE.G.Oギフトをランダムで追加獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 단계에서 선택한 항목의 4등급 무작위 E.G.O 기프트를 추가로 획득\nEN:\nAfter selecting a Starting E.G.O Gift, receive a random Tier 4 E.G.O Gift"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_121-content",
+    "original": "全スキル属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全スキル属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 속성 E.G.O 자원 +1\nEN:\n+1 E.G.O resource for all Affinities"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1211-content",
+    "original": "全スキル属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全スキル属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 속성 E.G.O 자원 +1\nEN:\n+1 E.G.O resource for all Affinities"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1212-content",
+    "original": "速度の最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度の最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최댓값 +1\nEN:\nMax Speed +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1213-content",
+    "original": "速度の最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度の最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최댓값 +1\nEN:\nMax Speed +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_122-content",
+    "original": "与ダメージ量が3%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量が3%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 피해량 3% 증가\nEN:\nDeal +3% damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1221-content",
+    "original": "与ダメージ量が3%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量が3%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 피해량 3% 증가\nEN:\nDeal +3% damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1222-content",
+    "original": "攻撃レベルが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベルが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 1 증가\nEN:\nOffense Level +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1223-content",
+    "original": "攻撃レベルが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベルが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 1 증가\nEN:\nOffense Level +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1224-content",
+    "original": "斬撃与ダメージ量が4%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃与ダメージ量が4%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 참격 피해량 4% 증가\nEN:\nDeal +4% Slash Damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1225-content",
+    "original": "貫通与ダメージ量が4%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫通与ダメージ量が4%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 관통 피해량 4% 증가\nEN:\nDeal +4% Pierce Damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1226-content",
+    "original": "打撃与ダメージ量が4%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃与ダメージ量が4%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 타격 피해량 4% 증가\nEN:\nDeal +4% Blunt Damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_123-content",
+    "original": "被ダメージ量が3%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量が3%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 3% 감소\nEN:\nTake -3% damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1231-content",
+    "original": "被ダメージ量が3%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量が3%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 3% 감소\nEN:\nTake -3% damage"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1232-content",
+    "original": "防御レベルが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベルが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 1 증가\nEN:\nDefense Level +1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1233-content",
+    "original": "防御レベルが2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベルが2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 2 증가\nEN:\nDefense Level +2"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1234-content",
+    "original": "斬撃耐性が0.1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃耐性が0.1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격 내성 0.1만큼 감소\nEN:\nSlash Resistance -0.1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1235-content",
+    "original": "貫通耐性が0.1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫通耐性が0.1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관통 내성 0.1만큼 감소\nEN:\nPierce Resistance -0.1"
+  },
+  {
+    "key": "md3_buffs_summaryDesc_1236-content",
+    "original": "打撃耐性が0.1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃耐性が0.1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격 내성 0.1만큼 감소\nEN:\nBlunt Resistance -0.1"
+  }
+]

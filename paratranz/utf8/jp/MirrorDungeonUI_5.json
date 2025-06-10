@@ -1,0 +1,954 @@
+[
+  {
+    "key": "mirror_dungeon_get_ego_gift_with_enemy_buff_less_count-content",
+    "original": "E.G.Oギフト選択可能回数が残っています。\n\nE.G.Oギフトを選択せずにこのまま進行しますか？\n\n(※E.G.Oギフトを選択しない場合、残り回数だけランダムな苦難を獲得します)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト選択可能回数が残っています。\n\nE.G.Oギフトを選択せずにこのまま進行しますか？\n\n(※E.G.Oギフトを選択しない場合、残り回数だけランダムな苦難を獲得します)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 선택 가능 횟수가 남았습니다.\n\nE.G.O 기프트를 선택하지 않고 이대로 진행하시겠습니까?\n\n(※ E.G.O 기프트를 선택하지 않을 경우, 남은 횟수만큼 무작위 고난을 획득합니다)\nEN:\nYou have remaining E.G.O Gift choices.\n\nWill you proceed without selecting an E.G.O Gift?\n\n(※ You will gain random Trials equal to the number of your remaining choices)"
+  },
+  {
+    "key": "mirror_dungeon_easy_difficulty-content",
+    "original": "Normal\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Normal\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nNormal\nEN:\nNormal"
+  },
+  {
+    "key": "mirror_dungeon_hard_difficulty-content",
+    "original": "Hard\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Hard\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nHard\nEN:\nHard"
+  },
+  {
+    "key": "mirror_dungeon_start_bonus_formation_rest_point-content",
+    "original": "休息ボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스\nEN:\nRest Bonus"
+  },
+  {
+    "key": "mirror_dungeon_start_bonus_formation_total-content",
+    "original": "休息\nボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息\nボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식\n보너스\nEN:\nRest\nBonus"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_reset_selection-content",
+    "original": "選択効果を初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択効果を初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 효과 초기화\nEN:\nClear Effect Selection"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_applied_effect-content",
+    "original": "適用中の効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適用中の効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적용한 효과\nEN:\nActivated Effects"
+  },
+  {
+    "key": "mirror_dungeon_reward_popup_rest_bonus_guide-content",
+    "original": "編成しない人格の休息ボーナスが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成しない人格の休息ボーナスが1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성하지 않은 인격의 휴식 보너스 1 증가\nEN:\nAll Identities outside the current Team gain 1 Rest Bonus"
+  },
+  {
+    "key": "mirror_user_start_buff-content",
+    "original": "休息ボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스\nEN:\nRest Bonus"
+  },
+  {
+    "key": "mirror_enemy_buff-content",
+    "original": "苦難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고난\nEN:\nTrials"
+  },
+  {
+    "key": "mirror_enemy_addenemylevel_desc-content",
+    "original": "敵レベル増加 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵レベル増加 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 레벨 증가 +{0}\nEN:\nEnemy Level Up +{0}"
+  },
+  {
+    "key": "mirror_card_pack-content",
+    "original": "テーマパック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "テーマパック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n테마팩\nEN:\nTheme Pack"
+  },
+  {
+    "key": "mirror_acquired_random_enemy_buff_popup_title-content",
+    "original": "苦難の追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦難の追加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고난 추가\nEN:\nTrial Gained"
+  },
+  {
+    "key": "mirror_acquired_enemy_buff_popup_desc-content",
+    "original": "苦難が追加されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦難が追加されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고난이 추가되었습니다.\nEN:\nA Trial has been added."
+  },
+  {
+    "key": "mirror_start_buff_purchase_complete_modal_title-content",
+    "original": "星の加護 選択完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護 選択完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 선택 완료\nEN:\nGrace of Stars Selected"
+  },
+  {
+    "key": "mirror_start_buff_purchase_complete_modal_desc-content",
+    "original": "星の加護の選択が完了しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護の選択が完了しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 선택을 완료하였습니다.\nEN:\nGrace of Stars has been selected."
+  },
+  {
+    "key": "mirror_recovered_unit_status-content",
+    "original": "死亡した味方が復活し、全味方が回復しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡した味方が復活し、全味方が回復しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망한 아군이 부활하고 모든 아군이 회복되었습니다\nEN:\nAll allies have been fully healed, and defeated allies have been revived"
+  },
+  {
+    "key": "mirror_start_buff_cannot_purchase_side_popup_title-content",
+    "original": "進行不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "進行不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진행 불가\nEN:\nCannot Progress"
+  },
+  {
+    "key": "mirror_start_buff_cannot_purchase_side_popup_desc-content",
+    "original": "休息ボーナス不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 부족\nEN:\nNot Enough Rest Bonus"
+  },
+  {
+    "key": "user_enemy_buff_empty_list-content",
+    "original": "保有中の効果 なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有中の効果 なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유 중인 효과 없음\nEN:\nNo Active Effects"
+  },
+  {
+    "key": "mirror_start_set_buff_type-content",
+    "original": "星の加護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호\nEN:\nGrace of Stars"
+  },
+  {
+    "key": "mirror_start_buff_type-content",
+    "original": "星群の恩寵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星群の恩寵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별무리의 은총\nEN:\nGrace of Star Clusters"
+  },
+  {
+    "key": "mirror_start_buff_purchase_button-content",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nEnter"
+  },
+  {
+    "key": "user_enemy_buff_select_event_buff-content",
+    "original": "選択肢効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 효과\nEN:\nChoice Effects"
+  },
+  {
+    "key": "dungeon_shop_heal_desc_one_revive-content",
+    "original": "選択した囚人を復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択した囚人を復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택한 수감자 부활\nEN:\nRevive Selected Sinner"
+  },
+  {
+    "key": "dungeon_shop_heal_desc_all_revive-content",
+    "original": "全囚人を復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人を復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자 부활\nEN:\nRevive All Sinners"
+  },
+  {
+    "key": "dungeon_encounter_guide_mirror_hard_ab_battle-content",
+    "original": "幻想体戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "幻想体戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n환상체 전투\nEN:\nAbnormality Encounter"
+  },
+  {
+    "key": "dungeon_shop_heal_enter-content",
+    "original": "囚人を回復させたり復活させたりできる。\nどうしよう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を回復させたり復活させたりできる。\nどうしよう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자를 회복시키거나 부활시킬 수 있다.\n어떻게 할까?\nEN:\nWe can heal or revive a Sinner here.\nWhat should we do?"
+  },
+  {
+    "key": "dungeon_shop_heal_select_one-content",
+    "original": "囚人{0}の体力と精神力が回復した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}の体力と精神力が回復した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자의 체력과 정신력이 회복되었다.\nEN:\nHP and SP healed for {0}."
+  },
+  {
+    "key": "dungeon_shop_heal_all-content",
+    "original": "全囚人の体力と精神力が回復した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人の体力と精神力が回復した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자의 체력과 정신력이 회복되었다.\nEN:\nAll Sinners' HP and SP have been healed."
+  },
+  {
+    "key": "dungeon_shop_heal_revive_select_one-content",
+    "original": "囚人{0}が復活して戦闘に復帰した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{0}が復活して戦闘に復帰した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 부활하여 전투에 복귀하였다.\nEN:\n{0}, revived, returns to battle."
+  },
+  {
+    "key": "mirrordungeon_revive_log-content",
+    "original": "星の加護効果発動\n囚人[{0}]が復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護効果発動\n囚人[{0}]が復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 효과 발동\n[{0}] 수감자 부활\nEN:\nGrace of Stars Activated\n[{0}] Revived"
+  },
+  {
+    "key": "mirror_start_buff_unlock_condition_needs_held_buff_points-content",
+    "original": "休息ボーナス {0}以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス {0}以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 {0}이상\nEN:\nAt {0}+ Rest Bonus"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_after_selected_bonus-content",
+    "original": "残り休息ボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り休息ボーナス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔여 휴식 보너스\nEN:\nRemaining Rest Bonus"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_exchanged_cost-content",
+    "original": "コスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트\nEN:\nCost"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_title-content",
+    "original": "星の加護の選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護の選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 선택\nEN:\nSelect Grace of Stars"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_description-content",
+    "original": "この効果を選択しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この効果を選択しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 효과를 선택하시겠습니까?\nEN:\nWill you select these effects?"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_purchase_description-content",
+    "original": "残った休息ボーナスはコストに変換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残った休息ボーナスはコストに変換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남은 휴식 보너스는 코스트로 전환됩니다\nEN:\nRemaining Rest Bonus will be converted to Cost"
+  },
+  {
+    "key": "mirror_start_buff_applied_passive-content",
+    "original": "星の加護パッシブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護パッシブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 패시브\nEN:\nGrace of Stars Passive"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_title-content",
+    "original": "夢心地の星の加護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢心地の星の加護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈결 별의 가호\nEN:\nGrace of the Dreaming Star"
+  },
+  {
+    "key": "mirror_shop_purchase_complete-content",
+    "original": "購入完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매 완료\nEN:\nPurchased"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_not_selected_any_buff-content",
+    "original": "選択しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택하지 않음\nEN:\nDon't Select Any"
+  },
+  {
+    "key": "dungeon_shop_heal_title_all_season5-content",
+    "original": "全囚人を少しずつ回復させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全囚人を少しずつ回復させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 수감자를 조금씩 회복시킨다.\nEN:\nModerately heal every Sinner."
+  },
+  {
+    "key": "dungeon_shop_heal_title_one_season5-content",
+    "original": "囚人1名を大幅に回復させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人1名を大幅に回復させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 한 명을 크게 회복시킨다.\nEN:\nGreatly heal a single Sinner."
+  },
+  {
+    "key": "dungeon_shop_revive_title_one_season5-content",
+    "original": "囚人1名を復活させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人1名を復活させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 한 명을 부활시킨다.\nEN:\nRevive a single Sinner."
+  },
+  {
+    "key": "dungeon_shop_revive_one_select_ask-content",
+    "original": "復活させる囚人を選んでください\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復活させる囚人を選んでください\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부활시킬 수감자를 선택하세요\nEN:\nSelect the Sinner to revive."
+  },
+  {
+    "key": "mirror_dungeon_block_to_click_hard_theme_list-content",
+    "original": "メインストーリー6章\nクリア時に解放されます\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインストーリー6章\nクリア時に解放されます\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주요 이야기 6장\n클리어 시 개방됩니다\nEN:\nClear Canto 6\nto Unlock"
+  },
+  {
+    "key": "mirrordungeon_theme_hard_blocked-content",
+    "original": "メインストーリー6章\nクリア時に解放されます\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインストーリー6章\nクリア時に解放されます\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주요 이야기 6장\n클리어 시 개방됩니다\nEN:\nClear Canto 6\nto Unlock"
+  },
+  {
+    "key": "mirrordungeon_shop_heal_title-content",
+    "original": "囚人を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 회복\nEN:\nHeal Sinners"
+  },
+  {
+    "key": "mirrordungeon_shop_title-content",
+    "original": "ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상점\nEN:\nShop"
+  },
+  {
+    "key": "mirror_dungeon_progress_text_5-content",
+    "original": "夢心地の鏡 {0}階層\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夢心地の鏡 {0}階層\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈결의 거울 {0}층\nEN:\nMirror of the Dreaming - F{0}"
+  },
+  {
+    "key": "mirror_dungeon_progress_awaiting_reward_claim-content",
+    "original": "報酬受取待機中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬受取待機中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상 수령 대기 중\nEN:\nUnclaimed Rewards"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_bonus_gift-content",
+    "original": "星の加護効果発動\n合成・売却用ギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護効果発動\n合成・売却用ギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 효과 발동\n합성·판매용 기프트 획득\nEN:\nGrace of Stars Activated\nFor Fusion & Sale Gifts obtained"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_0_1-content",
+    "original": "難易度NORMAL\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "難易度NORMAL\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nNORMAL 난이도\nEN:\nNORMAL"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_0_2-content",
+    "original": "難易度HARD\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "難易度HARD\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nHARD 난이도\nEN:\nHARD"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_1_1-content",
+    "original": "一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 7.5%\n집중 전투 : -\n정예 전투 : -\n환상체 전투 : -\n보스 전투 : 100%\nEN:\nRegular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nAbno. Encounter: -\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_1_2-content",
+    "original": "一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 7.5%\n集中戦闘 : -\n精鋭戦闘 : -\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 7.5%\n집중 전투 : -\n정예 전투 : -\n환상체 전투 : -\n보스 전투 : 100%\nEN:\nRegular Encounter : 7.5%\nFocused Encounter : -\nElite Encounter : -\nAbno. Encounter: -\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_2_1-content",
+    "original": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : -\n보스 전투 : 100%\nEN:\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: -\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_2_2-content",
+    "original": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : -\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : -\n보스 전투 : 100%\nEN:\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: -\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_3_1-content",
+    "original": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : 100%\n보스 전투 : 100%\nEN:\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_3_2-content",
+    "original": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 10%\n集中戦闘 : 20%\n精鋭戦闘 : 33%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 10%\n집중 전투 : 20%\n정예 전투 : 33%\n환상체 전투 : 100%\n보스 전투 : 100%\nEN:\nRegular Encounter : 10%\nFocused Encounter : 20%\nElite Encounter : 33%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_4_1-content",
+    "original": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : 100%\nEN:\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_4_2-content",
+    "original": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : 100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : 100%\nEN:\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : 100%"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_5_1-content",
+    "original": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : -\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : -\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : -\nEN:\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : -"
+  },
+  {
+    "key": "mirror_5_battle_reward_card_guide_table_1_desc_5_2-content",
+    "original": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : -\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘 : 12.5%\n集中戦闘 : 25%\n精鋭戦闘 : 50%\n幻想体戦闘 : 100%\nボス戦闘 : -\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투 : 12.5%\n집중 전투 : 25%\n정예 전투 : 50%\n환상체 전투 : 100%\n보스 전투 : -\nEN:\nRegular Encounter : 12.5%\nFocused Encounter : 25%\nElite Encounter : 50%\nAbno. Encounter: 100%\nBoss Encounter : -"
+  },
+  {
+    "key": "mirrordungeon_additional_cost_by_start_bonus-content",
+    "original": "星の加護効果発動\nコスト獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星の加護効果発動\nコスト獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 효과 발동\n코스트 획득\nEN:\nGrace of Stars Activated\nCost gained"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_desc-content",
+    "original": "E.G.Oギフト合成材料として使われるときの、ランク別の点数は以下の通りです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト合成材料として使われるときの、ランク別の点数は以下の通りです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트의 등급에 따라, 합성 재료로 사용될 때의 점수는 다음과 같습니다.\nEN:\nEach E.G.O Gift has varying 'Points' for Fusion depending on their Tier."
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_header-content",
+    "original": "E.G.Oギフトランク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフトランク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 등급\nEN:\nE.G.O Gift Tiers"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_score_header-content",
+    "original": "点数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "点数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점수\nEN:\nPoints"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_1-content",
+    "original": "ランク1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1등급\nEN:\nTier 1"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_1_score-content",
+    "original": "3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3\nEN:\n3"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_2-content",
+    "original": "ランク2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2등급\nEN:\nTier 2"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_2_score-content",
+    "original": "6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6\nEN:\n6"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_3-content",
+    "original": "ランク3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3등급\nEN:\nTier 3"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_3_score-content",
+    "original": "10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n10\nEN:\n10"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_4-content",
+    "original": "ランク4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4등급\nEN:\nTier 4"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_4_score-content",
+    "original": "15\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "15\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n15\nEN:\n15"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_5-content",
+    "original": "ランク5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5등급\nEN:\nTier 5"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_score_tier_5_score-content",
+    "original": "30\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "30\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n30\nEN:\n30"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_label-content",
+    "original": "合成時、合成材料点数の合計によって作られるE.G.Oギフトのランクが以下の通り決定されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "合成時、合成材料点数の合計によって作られるE.G.Oギフトのランクが以下の通り決定されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합성 시, 합성 재료 점수의 총합에 따라 만들어지는 E.G.O 기프트의 등급이 다음과 같이 결정됩니다.\nEN:\nThe Fusion E.G.O Gift Tier is determined by the tally of Points from each ingredient."
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_header-content",
+    "original": "点数の総計\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "点数の総計\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점수 총합\nEN:\nPoint Tally"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_header-content",
+    "original": "合成E.G.Oギフトランク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "合成E.G.Oギフトランク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합성 E.G.O 기프트 등급\nEN:\nFusion E.G.O Gift Tier"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_1-content",
+    "original": "10点以下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "10点以下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n10점 이하\nEN:\n10- Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_1-content",
+    "original": "ランク1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1등급\nEN:\nTier 1"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_2-content",
+    "original": "11～16点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "11～16点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n11 ~ 16점\nEN:\n11~16 Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_2-content",
+    "original": "ランク2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2등급\nEN:\nTier 2"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_3-content",
+    "original": "17～24点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "17～24点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n17 ~ 24점\nEN:\n17 ~ 24 Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_3-content",
+    "original": "ランク3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3등급\nEN:\nTier 3"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_4-content",
+    "original": "25点以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "25点以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n25점 이상\nEN:\n25+ Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_tier_4-content",
+    "original": "ランク4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランク4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4등급\nEN:\nTier 4"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_1-content",
+    "original": "※現在保有しているE.G.Oギフトは合成を通じて獲得できるE.G.Oギフトから除外されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※現在保有しているE.G.Oギフトは合成を通じて獲得できるE.G.Oギフトから除外されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 현재 보유 중인 E.G.O 기프트는 합성을 통해 얻을 수 있는 E.G.O 기프트에서 제외됩니다.\nEN:\n※ Any E.G.O Gifts currently in your possession cannot be obtained as a Fusion result."
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_2-content",
+    "original": "※合成の材料として使用されたE.G.Oギフトは、その合成結果物に出てきません。ただし、以前の合成材料に使ったE.G.Oギフトは合成の結果物として出てくることがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※合成の材料として使用されたE.G.Oギフトは、その合成結果物に出てきません。ただし、以前の合成材料に使ったE.G.Oギフトは合成の結果物として出てくることがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 합성의 재료로 사용된 E.G.O 기프트는 해당 합성의 결과물로 등장하지 않습니다. 단, 이전에 재료로 사용한 E.G.O 기프트는 합성의 결과물로 등장할 수 있습니다.\nEN:\n※ E.G.O Gifts consumed as ingredients for a Fusion cannot be obtained from that Fusion. However, E.G.O Gifts that have already been consumed as ingredients in previous Fusions can be obtained as a Fusion result."
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_3-content",
+    "original": "※特定ランクの特定キーワードに該当するE.G.Oギフトを追加で獲得できない場合は、同じランクの別キーワードE.G.Oギフトを獲得します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※特定ランクの特定キーワードに該当するE.G.Oギフトを追加で獲得できない場合は、同じランクの別キーワードE.G.Oギフトを獲得します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 특정 등급의 특정 키워드에 해당하는 E.G.O 기프트를 추가로 얻을 수 없는 경우에는 동일한 등급의 다른 키워드 E.G.O 기프트를 획득합니다.\nEN:\n※ If you have obtained every possible E.G.O Gift obtainable in that specific Tier + Keyword combination, you will receive an E.G.O Gift of a different Keyword in the same Tier."
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_season_5_etc_4-content",
+    "original": "※特定ランクに該当するE.G.Oギフトを追加で獲得できない場合は、同じランク合成・売却用E.G.Oギフトを獲得します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※特定ランクに該当するE.G.Oギフトを追加で獲得できない場合は、同じランク合成・売却用E.G.Oギフトを獲得します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 특정 등급에 해당하는 E.G.O 기프트를 추가로 얻을 수 없는 경우에는 동일한 등급의 합성 · 판매용 E.G.O 기프트를 획득합니다.\nEN:\n※ If you have obtained every possible E.G.O Gift obtainable from the resultant Tier, you will receive a Fusion & Sale Only E.G.O Gift."
+  },
+  {
+    "key": "mirrordungeon_upgrade_shop_title-content",
+    "original": "<color=#990000>特別なショップ</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#990000>特別なショップ</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#990000&gt;특별한 상점&lt;/color&gt;\nEN:\n&lt;color=#990000&gt;Super Shop&lt;/color&gt;"
+  },
+  {
+    "key": "mirrordungeon_upgrade_shop_rate_in_next_floor-content",
+    "original": "次の階層での\n特別なショップ出現率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次の階層での\n特別なショップ出現率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 층에서\n특별한 상점 등장 확률\nEN:\nSuper Shop\nOn Next Floor?"
+  },
+  {
+    "key": "mirror_start_buff_unlock_condition_lack_of_current_point-content",
+    "original": "休息ボーナス不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 부족\nEN:\nNot Enough Rest Bonus"
+  },
+  {
+    "key": "mirror_theme_pack_baton-content",
+    "original": "長期戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "長期戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장기 전투\nEN:\nLong Battle"
+  },
+  {
+    "key": "mirrordungeon_theme_hard_no_pool-content",
+    "original": "難易度Hardの解放条件を達成しました。次の階層テーマパック選択ウィンドウから難易度を変更できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "難易度Hardの解放条件を達成しました。次の階層テーマパック選択ウィンドウから難易度を変更できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nHard 난이도 개방 조건을 달성하였습니다. 다음 층 테마팩 선택 창부터 난이도를 전환할 수 있습니다.\nEN:\nYou now meet the conditions to unlock the Hard difficulty. You can switch difficulties starting from next Floor Theme Pack menu."
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_3_0-content",
+    "original": "4つ以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4つ以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4개 이상\nEN:\n4+ Gifts"
+  },
+  {
+    "key": "new_ego_gift_combine_guide_table_1_desc_3_1-content",
+    "original": "99%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "99%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n99%\nEN:\n99%"
+  },
+  {
+    "key": "mirrordungeon_level_up_by_long_battle_theme-content",
+    "original": "長期戦闘報酬獲得\n人格レベル +3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "長期戦闘報酬獲得\n人格レベル +3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장기 전투 보상 획득\n인격 레벨 +3\nEN:\nLong Battle Reward Gained\nIdentity Levels +3"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_100-content",
+    "original": "始まりの星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "始まりの星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작의 별\nEN:\nStar of the Beginning"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_101-content",
+    "original": "積もりゆく星群\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "積もりゆく星群\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쌓여가는 별무리\nEN:\nCumulating Starcloud"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_102-content",
+    "original": "星間旅行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星間旅行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성간여행\nEN:\nInterstellar Travel"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_103-content",
+    "original": "降り注ぐ流星雨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "降り注ぐ流星雨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏟아지는 유성우\nEN:\nStar-shower"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_104-content",
+    "original": "連星系ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連星系ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쌍성계 상점\nEN:\nBinary Star-shop"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_105-content",
+    "original": "衛星系ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "衛星系ショップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위성계 상점\nEN:\nMoon Star-shop"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_106-content",
+    "original": "星雲の寵愛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星雲の寵愛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성운의 총애\nEN:\nFavor of the Nebulae"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_107-content",
+    "original": "星明かりの導き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星明かりの導き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛의 인도\nEN:\nStarlight Guidance"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_108-content",
+    "original": "偶然の彗星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偶然の彗星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우연한 혜성\nEN:\nChance Comet"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_title_109-content",
+    "original": "完全なる可能性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完全なる可能性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완전한 가능성\nEN:\nPerfected Possibility"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over10-content",
+    "original": "休息ボーナスを[10]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナスを[10]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 [10] 이상 보유\nEN:\nAt [10]+ Rest Bonus"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over20-content",
+    "original": "休息ボーナスを[20]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナスを[20]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 [20] 이상 보유\nEN:\nAt [20]+ Rest Bonus"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over30-content",
+    "original": "休息ボーナスを[30]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナスを[30]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 [30] 이상 보유\nEN:\nAt [30]+ Rest Bonus"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs_over40-content",
+    "original": "休息ボーナスを[40]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナスを[40]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 [40] 이상 보유\nEN:\nAt [40]+ Rest Bonus"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs__over50-content",
+    "original": "休息ボーナスを[50]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナスを[50]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 [50] 이상 보유\nEN:\nAt [50]+ Rest Bonus"
+  },
+  {
+    "key": "mirror_dungeon_5_buffs__over60-content",
+    "original": "休息ボーナスを[60]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナスを[60]以上保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 [60] 이상 보유\nEN:\nAt [60]+ Rest Bonus"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_label_upgrade-content",
+    "original": "特別なショップで合成を実施する場合は点数の合計に補正値が適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特別なショップで合成を実施する場合は点数の合計に補正値が適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특별한 상점에서 합성을 진행하는 경우에는 점수 총합에 보정치가 적용됩니다.\nEN:\nFusing in a Super Shop adds a special modifier to the required tally of the Points from each ingredient."
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_1_upgrade-content",
+    "original": "9点以下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9点以下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9점 이하\nEN:\n9- Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_2_upgrade-content",
+    "original": "10～14点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "10～14点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n10 ~ 14점\nEN:\n10 ~ 14 Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_3_upgrade-content",
+    "original": "15～21点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "15～21点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n15 ~ 21점\nEN:\n15 ~ 21 Points"
+  },
+  {
+    "key": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade-content",
+    "original": "22点以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "22点以上\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n22점 이상\nEN:\n22+ Points"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_title-content",
+    "original": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 보존 대상\nEN:\nRest Bonus Retention Units"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_desc-content",
+    "original": "休息ボーナス保存期間中、該当人格で鏡ダンジョンクリア時に休息ボーナスが消耗されません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス保存期間中、該当人格で鏡ダンジョンクリア時に休息ボーナスが消耗されません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 보존 기간 동안 해당 인격으로 거울 던전 클리어 시 휴식 보너스가 소모되지 않습니다.\nEN:\nFor the retention duration, these units' Rest Bonuses will not be spent upon clearing a Mirror Dungeon run."
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_label-content",
+    "original": "適用対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適用対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적용 대상\nEN:\nAffected Units"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_button_label-content",
+    "original": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 보너스 보존 대상\nEN:\nRest Bonus Retention Units"
+  },
+  {
+    "key": "mirrordungeon_start_bonus_personality_period-content",
+    "original": "{0}まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}까지\nEN:\nUntil {0}"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_level_using_lunacy_desc-content",
+    "original": "※アチーブメント経験時{0}購入時、有償狂気を{1}消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※アチーブメント経験時{0}購入時、有償狂気を{1}消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 업적 경험치 {0} 구매 시, 유료 광기 {1} 소모\nEN:\n※ Purchasing {0} Achievement EXP costs {1} Paid Lunacy."
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_level_ask_using_lunacy-content",
+    "original": "有償狂気{0}を消耗し、経験値を購入しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有償狂気{0}を消耗し、経験値を購入しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유료 광기 {0}개를 소모하여 경험치를 구매하시겠습니까?\nEN:\nSpend {0} Paid Lunacy to purchase Achievements EXP?"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_title-content",
+    "original": "アチーブメント経験値購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アチーブメント経験値購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n업적 경험치 구매\nEN:\nPurchase Achievement EXP"
+  },
+  {
+    "key": "mirrordungeon_achievement_progress-content",
+    "original": "アチーブメント進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アチーブメント進行度\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n업적 진행도\nEN:\nProgress"
+  },
+  {
+    "key": "mirrordungeon_purchase_achievement_block_by_max_level-content",
+    "original": "購入可能なアチーブメントレベル超過\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入可能なアチーブメントレベル超過\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매 가능한 업적 레벨 초과\nEN:\nExceeded purchasable Achievement Level"
+  },
+  {
+    "key": "mirrordungeon_achievement_max_level-content",
+    "original": "アチーブメントレベル最大値達成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アチーブメントレベル最大値達成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n업적 레벨 최대 달성\nEN:\nAchievement Level maxed out"
+  },
+  {
+    "key": "lack_of_point_for_shop_without_new_line-content",
+    "original": "コスト不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コスト不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 부족\nEN:\nNot Enough Cost"
+  },
+  {
+    "key": "mirror_dungeon_give_up_ego_gift_ask_with_random_category-content",
+    "original": "E.G.Oギフトを選択せずに進行しますか？\n\nその場合、開始E.G.Oギフトのキーワードは\nランダムに選択されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフトを選択せずに進行しますか？\n\nその場合、開始E.G.Oギフトのキーワードは\nランダムに選択されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트를 선택하지 않고 진행하시겠습니까?\n\n진행할 경우 시작 E.G.O 기프트의 키워드는\n무작위로 선택됩니다.\nEN:\nContinue without selecting an E.G.O Gift?\n\nIf you continue without selecting an E.G.O Gift,\nthe Keywords of your Starting E.G.O Gift will be\nselected at random."
+  }
+]

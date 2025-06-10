@@ -1,0 +1,695 @@
+[
+  {
+    "key": "2010611-levelList[0].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2010611-levelList[0].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2010611-levelList[0].desc",
+    "original": "[EndSkill] [Sinking]6 + (憂鬱共鳴数)を、ランダムに攻撃対象へ分けて付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] [Sinking]6 + (憂鬱共鳴数)を、ランダムに攻撃対象へ分けて付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] [Sinking] 6 + (우울 공명 수)을 무작위로 공격 대상에게 나눠서 부여\nEN:\n[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets"
+  },
+  {
+    "key": "2010611-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "2010611-levelList[1].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2010611-levelList[1].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2010611-levelList[1].desc",
+    "original": "[EndSkill] [Sinking]6 + (憂鬱共鳴数)を、ランダムに攻撃対象へ分けて付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] [Sinking]6 + (憂鬱共鳴数)を、ランダムに攻撃対象へ分けて付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] [Sinking] 6 + (우울 공명 수)을 무작위로 공격 대상에게 나눠서 부여\nEN:\n[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets"
+  },
+  {
+    "key": "2010611-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "2010611-levelList[2].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2010611-levelList[2].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2010611-levelList[2].desc",
+    "original": "[EndSkill] [Sinking]6 + (憂鬱共鳴数 × <style=\"highlight\">1.5</style>)を、ランダムに攻撃対象へ分けて付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] [Sinking]6 + (憂鬱共鳴数 × <style=\"highlight\">1.5</style>)を、ランダムに攻撃対象へ分けて付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] [Sinking] 6 + (우울 공명 수 &lt;style=\"highlight\"&gt;x 1.5&lt;/style&gt;)을 무작위로 공격 대상에게 나눠서 부여\nEN:\n[EndSkill] Randomly inflict (6 + (&lt;style=\"highlight\"&gt;Gloom Reson. x1.5&lt;/style&gt;)) [Sinking] between targets"
+  },
+  {
+    "key": "2010611-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "2010621-levelList[0].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2010621-levelList[0].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2010621-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
+  },
+  {
+    "key": "2010621-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "2010621-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "2010621-levelList[1].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2010621-levelList[1].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2010621-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 憂鬱共鳴数が3以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 憂鬱共鳴数が3以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 우울 공명 수가 3 이상이면 공격 가중치 +1\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1"
+  },
+  {
+    "key": "2010621-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "2010621-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "2010621-levelList[2].name",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지난 날\nEN:\nBygone Days"
+  },
+  {
+    "key": "2010621-levelList[2].abName",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
+  },
+  {
+    "key": "2010621-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 憂鬱共鳴数が3以上なら、攻撃加重値 +1\n[BeforeAttack] 憂鬱共鳴数が5以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 憂鬱共鳴数が3以上なら、攻撃加重値 +1\n[BeforeAttack] 憂鬱共鳴数が5以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 우울 공명 수가 3 이상이면 공격 가중치 +1\n[BeforeAttack] 우울 공명 수가 5 이상이면 공격 가중치 +1\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] At 5+ (Gloom Reson.), additional Atk Weight +1"
+  },
+  {
+    "key": "2010621-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与。次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여. 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "2010621-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이면, 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "2010711-levelList[0].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2010711-levelList[0].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2010711-levelList[0].desc",
+    "original": "体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음.\nEN:\nThis Coin deals damage only against the main target."
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +8%(最大56%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +8%(最大56%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, [BoseProjektil]당 피해량 +8% (최대 56%)\nEN:\nIf the main target is an ally, deal +8% damage for every [BoseProjektil] (max 56%)"
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[AllyKill] 自分とランダムな味方2名へ[Breath]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 自分とランダムな味方2名へ[Breath]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 2 부여\nEN:\n[AllyKill] Apply 2 [Breath] to self and 2 random allies"
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "[AllyKillFail] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKillFail] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKillFail] [Breath] 1 얻음\nEN:\n[AllyKillFail] Gain 1 [Breath]"
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음\nEN:\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 +2%(最大14%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 +2%(最大14%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 +2% (최대 14%)\nEN:\n+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)"
+  },
+  {
+    "key": "2010711-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] 2 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "2010711-levelList[1].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2010711-levelList[1].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2010711-levelList[1].desc",
+    "original": "体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음.&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the main target.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+10%(最大70%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+10%(最大70%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+10% (최대 70%)&lt;/style&gt;\nEN:\nIf the main target is an ally, deal &lt;style=\"highlight\"&gt;+10%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;70%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[AllyKill] 自分とランダムな味方2名へ[Breath]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 自分とランダムな味方2名へ[Breath]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[AllyKill] Apply 3 [Breath] to self and 2 random allies&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1属性のE.G.O資源 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1属性のE.G.O資源 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[AllyKill] 처치한 아군의 스킬 1 속성의 E.G.O 자원 +1&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKillFail] [Breath] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 얻음\nEN:\n[AllyKillFail] Gain &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Breath]"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+5%(最大35%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+5%(最大35%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 &lt;style=\"highlight\"&gt;+5% (최대 35%)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;+5%&lt;/style&gt; Damage on Critical Hit for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;35%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010711-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CriticalOnSucceedAttack] Inflict 2 [Laceration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[2].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2010711-levelList[2].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2010711-levelList[2].desc",
+    "original": "体力が最も低い味方を優先して攻撃(味方優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が最も低い味方を優先して攻撃(味方優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오식: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 정확: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"\n<CMT_EN>Typo: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" Correction: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"\n<CMT_JP>誤植: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 訂正後: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"",
+    "stage": 1,
+    "context": "KR:\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n&lt;style=\"highlight\"&gt;- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)&lt;/style&gt;\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음.&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the main target.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+15%(最大105%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+15%(最大105%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+15% (최대 105%)&lt;/style&gt;\nEN:\nIf the main target is an ally, deal &lt;style=\"highlight\"&gt;+15%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;105%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[AllyKill] 自分とランダムな味方2名へ[Breath]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 自分とランダムな味方2名へ[Breath]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 자신과 무작위 아군 2명에게 [Breath] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[AllyKill] Apply 3 [Breath] to self and 2 random allies&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2属性のE.G.O資源 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2属性のE.G.O資源 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKillFail] [Breath] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 얻음\nEN:\n[AllyKillFail] Gain &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Breath]"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+9%(最大63%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+9%(最大63%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 &lt;style=\"highlight\"&gt;+9% (최대 63%)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;+9%&lt;/style&gt; Damage on Critical Hit for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;63%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010711-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[CriticalOnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "2010721-levelList[0].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2010721-levelList[0].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2010721-levelList[0].desc",
+    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1ダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오식: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 +2%(最大14%)\" 정확: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 +2%(最大14%)\"\n<CMT_EN>Typo: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 +2%(最大14%)\" Correction: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 +2%(最大14%)\"\n<CMT_JP>誤植: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 +2%(最大14%)\" 訂正後: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 +2%(最大14%)\"",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음.\nEN:\nThis Coin deals damage only against the main target."
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +10%(最大70%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +10%(最大70%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, [BoseProjektil]당 피해량 +10% (최대 70%)\nEN:\nIf the main target is an ally, deal +10% damage for every [BoseProjektil] (max 70%)"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)\nEN:\nIf the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "[AllyKill] 自分とランダムな味方3名へ[Breath]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 自分とランダムな味方3名へ[Breath]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 자신과 무작위 아군 3명에게 [Breath] 2 부여\nEN:\n[AllyKill] Apply 2 [Breath] to self and 3 random allies"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 +2%(最大14%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 +2%(最大14%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] [BoseProjektil]당 다음 코인의 피해량 +2% (최대 14%)\nEN:\n[AllyKill] The next Coin deals +2% damage for every [BoseProjektil] (max 14%)"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[5].desc",
+    "original": "[AllyKill] 倒した味方のスキル1, 2属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 倒した味方のスキル1, 2属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 처치한 아군의 스킬 1, 2 속성의 E.G.O 자원 +1\nEN:\n[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[0].coindescs[6].desc",
+    "original": "[AllyKillFail] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKillFail] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKillFail] [Breath] 1 얻음\nEN:\n[AllyKillFail] Gain 1 [Breath]"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음\nEN:\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 +2%(最大14%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 +2%(最大14%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 +2% (최대 14%)\nEN:\n+2% Damage on Critical Hit for every [BoseProjektil] (max 14%)"
+  },
+  {
+    "key": "2010721-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] 3 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "2010721-levelList[1].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2010721-levelList[1].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2010721-levelList[1].desc",
+    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오식: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\" 정확: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\"\n<CMT_EN>Typo: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\" Correction: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\"\n<CMT_JP>誤植: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\" 訂正後: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\"",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+3% (최대 21%)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal &lt;style=\"highlight\"&gt;+3%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;21%&lt;/style&gt;)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음.&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the main target.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+12%(最大84%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 <style=\"highlight\">+12%(最大84%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+12% (최대 84%)&lt;/style&gt;\nEN:\nIf the main target is an ally, deal &lt;style=\"highlight\"&gt;+12%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;84%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nIf the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "[AllyKill] 自分とランダムな味方3名へ[Breath]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 自分とランダムな味方3名へ[Breath]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 자신과 무작위 아군 3명에게 [Breath] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[AllyKill] Apply 3 [Breath] to self and &lt;style=\"highlight\"&gt;3&lt;/style&gt; random allies"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+5%(最大35%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+5%(最大35%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] [BoseProjektil]당 다음 코인의 피해량 &lt;style=\"highlight\"&gt;+5% (최대 35%)&lt;/style&gt;\nEN:\n[AllyKill] The next Coin deals &lt;style=\"highlight\"&gt;+5%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;35%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[5].desc",
+    "original": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2,3属性のE.G.O資源 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[AllyKill] 倒した味方のスキル1,2,3属性のE.G.O資源 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[0].coindescs[6].desc",
+    "original": "[AllyKillFail] [Breath]<style=\"highlight\">2</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKillFail] [Breath]<style=\"highlight\">2</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKillFail] [Breath] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 얻음\nEN:\n[AllyKillFail] Gain &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Breath]"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 &lt;style=\"highlight\"&gt;+3% (최대 21%)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;+3%&lt;/style&gt; Damage on Critical Hit for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;21%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010721-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] &lt;style=\"highlight\"&gt;4&lt;/style&gt; 부여\nEN:\n[CriticalOnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;4&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "2010721-levelList[2].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2010721-levelList[2].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2010721-levelList[2].desc",
+    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오식: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 정확: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"\n<CMT_EN>Typo: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" Correction: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"\n<CMT_JP>誤植: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 訂正後: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n&lt;style=\"highlight\"&gt;- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+4% (최대 28%)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)&lt;/style&gt;\n[BeforeAttack] Deal &lt;style=\"highlight\"&gt;+4%&lt;/style&gt; damage for every [BoseProjektil] (max 28%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음.&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the main target.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +15%(最大105%)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、[BoseProjektil]1につきダメージ量 +15%(最大105%)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, [BoseProjektil]당 피해량 +15% (최대 105%)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nIf the main target is an ally, deal +15% damage for every [BoseProjektil] (max 105%)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、自分の[Breath]1につきダメージ量 +2%(最大50%)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, 자신의 [Breath]당 피해량 +2% (최대 50%)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nIf the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "<style=\"highlight\">クリティカルダメージ量 +30%</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">クリティカルダメージ量 +30%</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;크리티컬 피해량 +30%&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;+30% Damage on Critical Hit&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[4].desc",
+    "original": "[AllyKill] 自分とランダムな味方3名へ[Breath]<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 自分とランダムな味方3名へ[Breath]<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 자신과 무작위 아군 3명에게 [Breath] &lt;style=\"highlight\"&gt;4&lt;/style&gt; 부여\nEN:\n[AllyKill] Apply 3 [Breath] to self and &lt;style=\"highlight\"&gt;4&lt;/style&gt; random allies"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[5].desc",
+    "original": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+7%(最大49%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] [BoseProjektil]1につき次のコインのダメージ量 <style=\"highlight\">+7%(最大49%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] [BoseProjektil]당 다음 코인의 피해량 &lt;style=\"highlight\"&gt;+7% (최대 49%)&lt;/style&gt;\nEN:\n[AllyKill] The next Coin deals &lt;style=\"highlight\"&gt;+7%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;49%&lt;/style&gt;)"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[6].desc",
+    "original": "[AllyKill] 倒した味方のスキル1,2,3属性のE.G.O資源 +1<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKill] 倒した味方のスキル1,2,3属性のE.G.O資源 +1<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKill] 처치한 아군의 스킬 1, 2, 3 속성의 E.G.O 자원 +1&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[0].coindescs[7].desc",
+    "original": "[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AllyKillFail] [Breath]<style=\"highlight\">3</style>を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AllyKillFail] [Breath] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 얻음\nEN:\n[AllyKillFail] Gain &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Breath]"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n- 最初のコインで味方を倒せなかった場合、サブターゲットのうちランダムな1名がダメージを受ける<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\n- 첫번째 코인에서 아군을 처치하지 못했다면, 서브 타겟 중 무작위 1명이 피해를 입음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nThis Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[BoseProjektil]1につき、クリティカルダメージ量 +4%(最大28%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[BoseProjektil]1につき、クリティカルダメージ量 +4%(最大28%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[BoseProjektil]당 크리티컬 피해량 +4% (최대 28%)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;+4% Damage on Critical Hit for every [BoseProjektil] (max 28%)&lt;/style&gt;"
+  },
+  {
+    "key": "2010721-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">5</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">5</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] &lt;style=\"highlight\"&gt;5&lt;/style&gt; 부여\nEN:\n[CriticalOnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;5&lt;/style&gt; [Laceration]"
+  }
+]

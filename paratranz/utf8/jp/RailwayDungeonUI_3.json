@@ -1,0 +1,86 @@
+[
+  {
+    "key": "railway_dungeon_save_formation-content",
+    "original": "編成を保存\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成を保存\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 저장\nEN:\nSave Team"
+  },
+  {
+    "key": "railway_dungeon_init_saved_stage_data-content",
+    "original": "初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초기화\nEN:\nReset"
+  },
+  {
+    "key": "railway_dungeon_init_saved_stage_data_desc-content",
+    "original": "戦闘中の駅の進行状況を初期化し、\n入場直前へ戻りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の駅の進行状況を初期化し、\n入場直前へ戻りますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중인 역의 진행 상황을 초기화하고\n입장 직전으로 되돌아가시겠습니까?\nEN:\nReset the current Station progress\nand return to the state immediately before entry?"
+  },
+  {
+    "key": "railway_dungeon_3_reward_condition_special_ticket-content",
+    "original": "※ <color=#003c3e>シーズン3 ボンヴォヤージ</color>期間内に累計ターン数<color=#cd5e00>{0}</color>以下で鏡屈折鉄道3号線の終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※ <color=#003c3e>シーズン3 ボンヴォヤージ</color>期間内に累計ターン数<color=#cd5e00>{0}</color>以下で鏡屈折鉄道3号線の終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ &lt;color=#003c3e&gt;시즌 3 본 보야지&lt;/color&gt; 기간 내에 누적 턴 수 &lt;color=#cd5e00&gt;{0}&lt;/color&gt;턴 이하로 거울굴절철도 3호선 종착역 클리어 시 획득\nEN:\n※ Obtained by clearing the Terminus of Line 3 with &lt;color=#cd5e00&gt;{0}&lt;/color&gt; Turns or less Total Turns before\n&lt;color=#003c3e&gt;Season 3: Bon Voyage&lt;/color&gt; ends"
+  },
+  {
+    "key": "railway_dungeon_3_banner_reward_condition_1-content",
+    "original": "鏡屈折鉄道3号線 終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡屈折鉄道3号線 終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울굴절철도 3호선 종착역 클리어 시 획득\nEN:\nObtained by clearing the Terminus of Refraction Railway Line 3"
+  },
+  {
+    "key": "railway_dungeon_3_banner_reward_condition_2-content",
+    "original": "シーズン3 ボンヴォヤージ期間内に累計ターン数{0}以下で鏡屈折鉄道3号線の終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン3 ボンヴォヤージ期間内に累計ターン数{0}以下で鏡屈折鉄道3号線の終着駅クリア時に獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 3 본 보야지 기간 내에 누적 턴 수 {0}턴 이하로 거울굴절철도 3호선 종착역 클리어 시 획득\nEN:\nObtained by clearing the Terminus of Line 3 with {0} Turns or less Total Turns before Season 3: Bon Voyage ends"
+  },
+  {
+    "key": "railway_dungeon_before_enter_past_node_change_formation-content",
+    "original": "編成保存時、選択した休憩駅以降の\n編成記録が完全に初期化されます。\n\n編成を保存しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成保存時、選択した休憩駅以降の\n編成記録が完全に初期化されます。\n\n編成を保存しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 저장 시, 선택한 휴게역 이후의\n진행 기록이 완전히 초기화됩니다.\n\n편성을 저장하시겠습니까?\nEN:\nSaving your Team Loadout will completely reset any progress\nmade after your selected Rest Station.\n\nSave your Team Loadout anyway?"
+  },
+  {
+    "key": "railway_dungeon_3_retry_popup_init-content",
+    "original": "戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌아가기\nEN:\nReturn"
+  },
+  {
+    "key": "railway_dungeon_3_boss_accumulated_turn-content",
+    "original": "最終累計ターン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終累計ターン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 누적 턴\nEN:\nTotal Turns"
+  },
+  {
+    "key": "railway_dungeon_3_unit_recovered-content",
+    "original": "体力、精神力が回復しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力、精神力が回復しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력, 정신력이 회복되었습니다.\nEN:\nHP and SP have been restored."
+  },
+  {
+    "key": "railway_dungeon_3_formation_saved-content",
+    "original": "編成が保存されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成が保存されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성이 저장되었습니다.\nEN:\nYour Team Loadout has been saved."
+  },
+  {
+    "key": "railway_dungeon_before_enter_past_node_battle-content",
+    "original": "クリアした駅に再挑戦する場合、\n選択した駅以降の進行\n記録が完全に初期化されます。\n\n選択した駅に再挑戦しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリアした駅に再挑戦する場合、\n選択した駅以降の進行\n記録が完全に初期化されます。\n\n選択した駅に再挑戦しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n클리어한 역을 다시 도전할 경우,\n선택한 역 이후의 진행\n기록이 완전히 초기화됩니다.\n\n선택한 역을 다시 도전하시겠습니까?\nEN:\nRetrying an already-cleared Station\nwill completely reset any progress\nyou have made since that Station.\n\nRetry the Station anyway?"
+  }
+]

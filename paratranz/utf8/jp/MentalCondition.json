@@ -1,0 +1,226 @@
+[
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercent-add",
+    "original": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 합 횟수에 비례하여 증가\n&lt;size=95%&gt;(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)&lt;/size&gt;\nEN:\nIncreases after winning a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by {1}% per Clash count after 1)&lt;/size&gt;"
+  },
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercent-min",
+    "original": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 합 횟수에 비례하여 감소\n&lt;size=95%&gt;(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)&lt;/size&gt;\nEN:\nDecreases after winning a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by {1}% per Clash count after 1)&lt;/size&gt;"
+  },
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax-add",
+    "original": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加、最大{2}%)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加、最大{2}%)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 합 횟수에 비례하여 증가\n&lt;size=95%&gt;(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가, 최대 {2}%)&lt;/size&gt;\nEN:\nIncreases after winning a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by {1}% per Clash count after 1; max {2}%)&lt;/size&gt;"
+  },
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax-min",
+    "original": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ減少、最大{2}%)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ減少、最大{2}%)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 합 횟수에 비례하여 감소\n&lt;size=95%&gt;(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가, 최대 {2}%)&lt;/size&gt;\nEN:\nDecreases after winning a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by {1}% per Clash count after 1; max {2}%)&lt;/size&gt;"
+  },
+  {
+    "key": "OnKillEnemyAsLevelRatioMultiply-add",
+    "original": "敵討伐時、倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐時、倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 증가\nEN:\nIncrease by {0} after this unit defeats an enemy whose level was higher than or equal to this unit’s"
+  },
+  {
+    "key": "OnKillEnemyAsLevelRatioMultiply-min",
+    "original": "敵討伐時、倒した敵のレベルが自分のレベル以上の場合、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐時、倒した敵のレベルが自分のレベル以上の場合、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소\nEN:\nDecrease by {0} after this unit defeats an enemy whose level was higher than or equal to this unit’s"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyAsLevelRatioMultiply-add",
+    "original": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 증가\nEN:\nIncrease by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyAsLevelRatioMultiply-min",
+    "original": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소\nEN:\nDecrease by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s"
+  },
+  {
+    "key": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent-add",
+    "original": "マッチ敗北時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、マッチ回数に比例して増加\n<size=95%>(増加量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배 시 합 횟수에 비례하여 증가\n&lt;size=95%&gt;(증가량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)&lt;/size&gt;\nEN:\nIncreases after losing a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by {1}% per Clash count after 1)&lt;/size&gt;"
+  },
+  {
+    "key": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent-min",
+    "original": "マッチ敗北時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき{1}%ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배 시 합 횟수에 비례하여 감소\n&lt;size=95%&gt;(감소량: 기본 값 {0}, 2합부터 1합당 {1}%씩 증가)&lt;/size&gt;\nEN:\nDecreases after losing a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by {1}% per Clash count after 1)&lt;/size&gt;"
+  },
+  {
+    "key": "OnDieAllyAsLevelRatio-add",
+    "original": "味方死亡時、死亡した味方のレベルが自分のレベル以上の場合、\nレベル差によって増加\n<size=95%>(増加量: 基本値{0}, レベル差につき{0}ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時、死亡した味方のレベルが自分のレベル以上の場合、\nレベル差によって増加\n<size=95%>(増加量: 基本値{0}, レベル差につき{0}ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 사망한 아군의 레벨이 자신의 레벨 이상인 경우,\n 레벨 차에 따라 증가\n&lt;size=95%&gt;(증가량: 기본 값 {0}, 레벨 차이당 {0}씩 증가)&lt;/size&gt;\nEN:\nIf the level of the defeated ally was higher than or equal to the unit’s,\nincrease based on the level difference\n&lt;size=95%&gt;(Base Value is {0}, raised by {0} per level)&lt;/size&gt;"
+  },
+  {
+    "key": "OnDieAllyAsLevelRatio-min",
+    "original": "味方死亡時、死亡した味方のレベルが自分のレベル以上の場合、\nレベル差によって減少\n<size=95%>(減少量: 基本値{0}, レベル差につき{0}ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時、死亡した味方のレベルが自分のレベル以上の場合、\nレベル差によって減少\n<size=95%>(減少量: 基本値{0}, レベル差につき{0}ずつ増加)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 사망한 아군의 레벨이 자신의 레벨 이상인 경우,\n 레벨 차에 따라 감소\n&lt;size=95%&gt;(감소량: 기본 값 {0}, 레벨 차이당 {0}씩 증가)&lt;/size&gt;\nEN:\nIf the level of the defeated ally was higher than or equal to the unit’s,\ndecrease based on the level difference\n&lt;size=95%&gt;(Base Value is {0}, raised by {0} per level)&lt;/size&gt;"
+  },
+  {
+    "key": "OnRoundStartAfterEvent-add",
+    "original": "ターン開始時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 {0} 증가\nEN:\nIncreased by {0} at the start of the turn"
+  },
+  {
+    "key": "OnRoundStartAfterEvent-min",
+    "original": "ターン開始時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 {0} 감소\nEN:\nDecreased by {0} at the start of the turn"
+  },
+  {
+    "key": "OnKillEnemyMp-add",
+    "original": "敵討伐時、倒した敵のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐時、倒した敵のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시 처치한 적의 레벨에 관계 없이 {0} 증가\nEN:\nIncrease by {0} after this unit defeats an enemy regardless of their level"
+  },
+  {
+    "key": "OnKillEnemyMp-min",
+    "original": "敵討伐時、倒した敵のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐時、倒した敵のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시 처치한 적의 레벨에 관계 없이 {0} 감소\nEN:\nDecrease by {0} after this unit defeats an enemy regardless of their level"
+  },
+  {
+    "key": "OnDieAllyMp-add",
+    "original": "味方死亡時、死亡した味方のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時、死亡した味方のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 사망한 아군의 레벨에 관계 없이 {0} 증가\nEN:\nIf an ally is defeated, increase by {0} regardless of the ally's level"
+  },
+  {
+    "key": "OnDieAllyMp-min",
+    "original": "味方死亡時、死亡した味方のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時、死亡した味方のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 사망한 아군의 레벨에 관계 없이 {0} 감소\nEN:\nIf an ally is defeated, decrease by {0} regardless of the ally's level"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyExceptSupportiveAction-add",
+    "original": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 증가\nEN:\nIncrease by {0} after an ally defeats an enemy whose level was higher than or equal to the unit’s"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyExceptSupportiveAction-min",
+    "original": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒された場合は減少しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒した場合は減少しない。\n<CMT_KR>오식: \"味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が「倒された」場合は減少しない。\" 정확: \"援護攻撃が付与された味方が「倒した」場合は減少しない。\"\n<CMT_EN>Typo: \"味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が「倒された」場合は減少しない。\" Correction: \"援護攻撃が付与された味方が「倒した」場合は減少しない。\"\n<CMT_JP>誤植: \"味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が「倒された」場合は減少しない。\" 訂正後: \"援護攻撃が付与された味方が「倒した」場合は減少しない。\"",
+    "stage": 1,
+    "context": "KR:\n아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소. 원호 공격이 부여된 아군이 처치한 경우에는 감소하지 않음.\nEN:\nDecrease by {0} after an ally defeats an enemy whose level was higher than or equal to this unit’s. Does not decrease when the enemy was defeated by an Assist Attack."
+  },
+  {
+    "key": "OnDieBladeLineageAlly-add",
+    "original": "剣契組織員死亡時、死亡した味方のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契組織員死亡時、死亡した味方のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 조직원 사망시 사망한 아군의 레벨에 관계 없이 {0} 증가\nEN:\nIf a Blade Lineage ally is defeated, gain {0} regardless of the ally's level"
+  },
+  {
+    "key": "OnDieBladeLineageAlly-min",
+    "original": "剣契組織員死亡時、死亡した味方のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契組織員死亡時、死亡した味方のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 조직원 사망시 사망한 아군의 레벨에 관계 없이 {0} 감소\nEN:\nIf a Blade Lineage ally is defeated, lose {0} regardless of the ally's level"
+  },
+  {
+    "key": "OnWinDuelLessMpTarget-add",
+    "original": "精神力が自分より低い対象とマッチ勝利時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が自分より低い対象とマッチ勝利時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 자신보다 낮은 대상과의 합에서 승리 시 {0} 증가\nEN:\nIncreases by {0} after winning a Clash against an enemy with SP lower than this unit's"
+  },
+  {
+    "key": "OnWinDuelLessMpTarget-min",
+    "original": "精神力が自分より低い対象とマッチ勝利時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が自分より低い対象とマッチ勝利時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 자신보다 낮은 대상과의 합에서 승리 시 {0} 감소\nEN:\nDecreases by {0} after winning a Clash against an enemy with SP lower than this unit's"
+  },
+  {
+    "key": "OnLoseDuelLessMpTarget-add",
+    "original": "精神力が自分より低い対象とマッチ敗北時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が自分より低い対象とマッチ敗北時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 자신보다 낮은 대상과의 합에서 패배 시 {0} 증가\nEN:\nIncreases by {0} after losing a Clash against an enemy with SP lower than this unit's"
+  },
+  {
+    "key": "OnLoseDuelLessMpTarget-min",
+    "original": "精神力が自分より低い対象とマッチ敗北時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が自分より低い対象とマッチ敗北時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 자신보다 낮은 대상과의 합에서 패배 시 {0} 감소\nEN:\nDecreases by {0} after losing a Clash against an enemy with SP lower than this unit's"
+  },
+  {
+    "key": "OnKillEnemyByOtherAlly-add",
+    "original": "味方の倒した敵のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方の倒した敵のレベルに関係なく{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 처치한 적의 레벨에 관계 없이 {0} 증가\nEN:\nIncrease by {0} after an ally defeats an enemy regardless of their level"
+  },
+  {
+    "key": "OnKillEnemyByOtherAlly-min",
+    "original": "味方の倒した敵のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方の倒した敵のレベルに関係なく{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 처치한 적의 레벨에 관계 없이 {0} 감소\nEN:\nDecrease by {0} after an ally defeats an enemy regardless of their level"
+  },
+  {
+    "key": "OnWinDuelAnyTarget-add",
+    "original": "マッチ勝利時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 {0} 증가\nEN:\nIncreased by {0} on Clash Win"
+  },
+  {
+    "key": "OnWinDuelAnyTarget-min",
+    "original": "マッチ勝利時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 {0} 감소\nEN:\nDecreased by {0} on Clash Lose"
+  },
+  {
+    "key": "OnLoseDuelAnyTarget-add",
+    "original": "マッチ敗北時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、{0}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배 시 {0} 증가\nEN:\nIncreased by {0} on Clash Lose"
+  },
+  {
+    "key": "OnLoseDuelAnyTarget-min",
+    "original": "マッチ敗北時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배 시 {0} 감소\nEN:\nDecreased by {0} on Clash Lose"
+  }
+]

@@ -1,0 +1,919 @@
+[
+  {
+    "key": "0-place",
+    "original": "審査場1階 実験室廃墟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審査場1階 実験室廃墟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심사장 1층 실험실 폐허\nEN:\nEvaluation Arena 1F - Lab Ruins"
+  },
+  {
+    "key": "0-content",
+    "original": "さあ…持っている銅銭を残らず差し出すように。\n残らず、というほどの数でもないだろうがな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さあ…持っている銅銭を残らず差し出すように。\n残らず、というほどの数でもないだろうがな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자… 있는 동전들을 남김없이 내놓도록. 남김없이, 라고 하기에도 얼마 안 되는 개수일 테지만.\nEN:\nNow... hand over your entire coin bundle. Cough it up, I know you don't have many."
+  },
+  {
+    "key": "1-content",
+    "original": "うぅ…でも、これを全部奪われたら…\n即脱落だってのに…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うぅ…でも、これを全部奪われたら…\n即脱落だってのに…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n으… 하지만 이걸 다 빼앗기면… 바로 탈락인데…\nEN:\nBut... if you take all my coins, I'll be eliminated..."
+  },
+  {
+    "key": "2-content",
+    "original": "そうか、丁度良かったな。\nここの脱落者達は即決処刑か？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうか、丁度良かったな。\nここの脱落者達は即決処刑か？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래, 마침 잘 되었군. 이곳의 탈락자들은 즉결 처형인가?\nEN:\nYes, exactly. Are eliminated candidates subject to summary execution here?"
+  },
+  {
+    "key": "3-content",
+    "original": "そ…そんな規則はなかった…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そ…そんな規則はなかった…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그… 그런 규칙은 없었어…\nEN:\nT-that wasn't a rule..."
+  },
+  {
+    "key": "4-content",
+    "original": "さぁ、いくつかの候補者たちがついに熱い邂逅を果たしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、いくつかの候補者たちがついに熱い邂逅を果たしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 몇몇 후보자들이 드디어 뜨거운 만남을 가지게 되었습니다.\nEN:\nLooks like some candidates have finally had some exciting run-ins with one another!"
+  },
+  {
+    "key": "5-content",
+    "original": "今回の大戦の核心は、制限時間内に\nできる限り多くの銅銭を集めることです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今回の大戦の核心は、制限時間内に\nできる限り多くの銅銭を集めることです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 대전의 핵심은 제한 시간 내에 최대한 많은 동전을 모으는 것이죠.\nEN:\nAs a reminder, the goal of this game is to collect as many coins as possible within the given time limit."
+  },
+  {
+    "key": "6-content",
+    "original": "候補者間の協力や取り込みも良いですが、\n円満な対話がなされなかった場合は\n武力が良い答えとなってくれるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "候補者間の協力や取り込みも良いですが、\n円満な対話がなされなかった場合は\n武力が良い答えとなってくれるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후보자 간의 협력이나 포섭도 좋지만, 원만한 대화가 이루어지지 않을 때는 무력이 좋은 답이 되어줄 겁니다.\nEN:\nSure, cooperation and alliances are all well and good, but when negotiations go up in smoke, might becomes a pretty reliable fallback plan."
+  },
+  {
+    "key": "7-content",
+    "original": "それでもご安心を！銅銭を全て奪われた候補者は、\n建物中に潜む鴻園の影たちが退場を手伝ってくれますから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それでもご安心を！銅銭を全て奪われた候補者は、\n建物中に潜む鴻園の影たちが退場を手伝ってくれますから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래도 안심하세요! 동전을 모두 빼앗긴 후보자는 건물 곳곳에 숨어있는 홍원의 그림자들이 퇴장을 도와줄 테니까요.\nEN:\nDon't you worry, though! The shadows of Hongyuan hiding in the corners of the arena will safely guide any coinless candidate out of the building."
+  },
+  {
+    "key": "8-content",
+    "original": "あぁ、反抗しないことをお勧めいたします。\n口より行動が速い方々だと聞いていますので。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ、反抗しないことをお勧めいたします。\n口より行動が速い方々だと聞いていますので。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아, 반항은 하지 않는 걸 추천드립니다. 말보다는 행동이 빠르신 분들이라고 들었거든요.\nEN:\nOh, by the way—resisting them is kind of a terrible idea. I heard they're faster to act than to talk."
+  },
+  {
+    "key": "9-content",
+    "original": "黒獣を配置したようですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒獣を配置したようですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑수를 배치한 모양이군요.\nEN:\nThey must have placed the Heishou here."
+  },
+  {
+    "key": "10-content",
+    "original": "そ、そんなの聞いてないぞ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そ、そんなの聞いてないぞ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그, 그딴 게 어딨어!\nEN:\nW-what the hell, that's bullshit!"
+  },
+  {
+    "key": "11-content",
+    "original": "もちろん銅銭だけでなく命まで奪われた場合は…\n遺体の退場をお手伝いすることになりそうですけどね、ははは！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もちろん銅銭だけでなく命まで奪われた場合は…\n遺体の退場をお手伝いすることになりそうですけどね、ははは！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n물론 동전뿐만 아니라 목숨까지 빼앗기셨다면… 시체의 퇴장을 도와드리게 되겠지만요, 하하하!\nEN:\nOf course, if you've lost more than your coins... your life, for example... I suppose the Heishou'll be escorting your corpse out of here instead. Ha ha ha!"
+  },
+  {
+    "key": "12-content",
+    "original": "…だそうだ。死体で退場したいか、\nそれともその身一つだけでも守りたいか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…だそうだ。死体で退場したいか、\nそれともその身一つだけでも守りたいか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그렇다는군. 시체로 퇴장하길 바라나, 아니면 그 몸뚱어리라도 건사하는 걸 원하나?\nEN:\n... You heard her. Would you like to have your corpse escorted out, or would you rather leave on your own accord?"
+  },
+  {
+    "key": "13-content",
+    "original": "全部…差し上げます…存分にかっぱらってくださいませ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全部…差し上げます…存分にかっぱらってくださいませ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전부… 드리겠습니다… 마음껏 털어가십쇼…\nEN:\nFine... my coins are yours. Take them all..."
+  },
+  {
+    "key": "14-content",
+    "original": "さぁ、シー家の候補者お一方が脱落しました。\n迫力満点の相手の家門の勢いに押し潰されましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、シー家の候補者お一方が脱落しました。\n迫力満点の相手の家門の勢いに押し潰されましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 사씨 가문의 후보자 한 분이 탈락했습니다. 박력 있는 상대 세가의 기세에 짓눌렸군요.\nEN:\nAha, a candidate from the Shi family has been eliminated from the game. What an overwhelmingly dominating display of charisma from the opposing candidate's clan member!"
+  },
+  {
+    "key": "15-content",
+    "original": "脱落者は廊下に出て、武器を捨てて待機してください。\n脱落した候補者は家主審査に対する全ての機会と権限を剥奪され―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脱落者は廊下に出て、武器を捨てて待機してください。\n脱落した候補者は家主審査に対する全ての機会と権限を剥奪され―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탈락자는 복도로 나가 무기를 버리고 대기하시면 됩니다. 탈락한 후보자는 가주 심사에 대한 모든 기회와 권한을 박탈당하며…\nEN:\nIf you've been eliminated, please come out to the hallways, forfeit your weapons, and wait for further instructions. Please note that any eliminated candidate loses all rights and privileges appertaining to candidates of Family Hierarch Evaluations, and..."
+  },
+  {
+    "key": "16-content",
+    "original": "あ、思い出しました。\nシー・ファジェンという方でしたね～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ、思い出しました。\nシー・ファジェンという方でしたね～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아 기억났어요, 사화정이라는 분이셨네요~\nEN:\nOhh, I remember now. His name's Shi Huazhen~"
+  },
+  {
+    "key": "17-content",
+    "original": "じゃあ私たち、もう銅銭を7つも集めたってこと？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "じゃあ私たち、もう銅銭を7つも集めたってこと？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럼 우리 벌써 동전 7개나 모은 거야?\nEN:\nWe're already up to seven coins, huh?"
+  },
+  {
+    "key": "18-content",
+    "original": "悪くない収穫じゃない？\n早く終わらせてこの陰気な空間から出たいなぁ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "悪くない収穫じゃない？\n早く終わらせてこの陰気な空間から出たいなぁ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나쁘지 않은 수확인데? 얼른 끝내고 이 기분 나쁜 공간에서 나가면 좋겠다~\nEN:\nHey, that's not bad! Let's wrap this up asap and get the heck outta this creephouse~"
+  },
+  {
+    "key": "19-content",
+    "original": "四方に陰鬱さ濃く立ち込めたり。\nこれはある種の実験室を設えたるものと見ゆるが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "四方に陰鬱さ濃く立ち込めたり。\nこれはある種の実験室を設えたるものと見ゆるが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사방에 음울함이 짙게 깔려있소. 이는 모종의 실험실을 꾸민 것으로 보이오만…\nEN:\nWe are beset in all directions by sorrow and tragedy. This appears to have been a laboratory for an unknown purpose..."
+  },
+  {
+    "key": "20-content",
+    "original": "イサンの視線が、散乱する数々の器具へと注がれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサンの視線が、散乱する数々の器具へと注がれた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상의 눈이 어지럽게 흩어져 있는 각종 기구를 향했다.\nEN:\nYi Sang's eyes scan over the various machines that are messily strewn about the room."
+  },
+  {
+    "key": "21-content",
+    "original": "コン家の実験室だったんだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コン家の実験室だったんだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공씨 가문의 실험실이었겠지.\nEN:\nKong family's laboratory, most likely."
+  },
+  {
+    "key": "22-content",
+    "original": "あぁ…札を見たよ。\n禁忌を犯したのか家門自体が滅亡したって話だっけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…札を見たよ。\n禁忌を犯したのか家門自体が滅亡したって話だっけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 팻말 봤어. 금기를 어겼는지 가문 자체가 멸망했다던데.\nEN:\nYeah... saw the plaque earlier. Apparently their entire family got completely annihilated after presumably breaking a taboo or something."
+  },
+  {
+    "key": "23-content",
+    "original": "ホンルさんの話や…コン家に関する噂を聞く限り\nほ、本当に全員死んだみたいですね…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンルさんの話や…コン家に関する噂を聞く限り\nほ、本当に全員死んだみたいですね…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루 씨의 말이나… 공 씨 가문에 대해 들려오는 걸 보면 저, 정말로 다 죽은 것 같았죠…\nEN:\nGoing by what Hong Lu said earlier... and gathering from everything we've heard about the Kong family so far... i-it sure sounds like they're all dead..."
+  },
+  {
+    "key": "24-content",
+    "original": "ジア家が今のように隆盛を極める前の出来事さ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ジア家が今のように隆盛を極める前の出来事さ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가씨 가문이 지금처럼 대단한 위세를 가지기 전의 일이었지…\nEN:\nIt was in the time before the Jia family wielded as much power as it does now..."
+  },
+  {
+    "key": "25-content",
+    "original": "あのときのコン家は実に偉大な家門だったんだが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あのときのコン家は実に偉大な家門だったんだが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그때의 공씨 가는 실로 대단한 가문이었는데.\nEN:\nBoy, the Kong family really was something back then."
+  },
+  {
+    "key": "26-content",
+    "original": "画期的かつ斬新な力を持つ丸を絶えず生み出すのは\n容易ではなかったはずだが、彼らはやってのけたからな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "画期的かつ斬新な力を持つ丸を絶えず生み出すのは\n容易ではなかったはずだが、彼らはやってのけたからな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n획기적이면서도 참신한 능력을 지닌 환을 끊임없이 만들어내는 것은 쉬운 일이 아니었을 텐데, 그들은 그걸 해냈거든.\nEN:\nOutputting a constant stream of new, groundbreaking Boluses with all kinds of unique qualities can't have been easy. But they somehow managed it back then."
+  },
+  {
+    "key": "27-content",
+    "original": "コン家が鴻園を越え、都市にも寄与した功績は素晴らしかったから…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コン家が鴻園を越え、都市にも寄与した功績は素晴らしかったから…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공씨 가문이 홍원을 넘어 도시에 이바지한 공이 대단했기 때문에…\nEN:\nBecause the Kong family had made such impressive contribution to the City as a whole, even past the boundaries of Hongyuan itself..."
+  },
+  {
+    "key": "28-content",
+    "original": "他の家門は、ただ仰ぎ見るしかないほどの\n遥かな隔たりがあったのさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "他の家門は、ただ仰ぎ見るしかないほどの\n遥かな隔たりがあったのさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다른 가문들은 그저 우러러볼 수밖에 없을 정도로 까마득한 격차가 있었지.\nEN:\n... the other families had no choice but to watch in awe as it stood like a mountain so far above them."
+  },
+  {
+    "key": "29-content",
+    "original": "はい、様々な研究をたくさんしてきたと聞きました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はい、様々な研究をたくさんしてきたと聞きました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네, 다양한 연구를 많이 해왔다고 들었어요.\nEN:\nYes, I heard that they delved into various research subjects here."
+  },
+  {
+    "key": "30-content",
+    "original": "まぁ。もっとも、終わりは良くなかったけどな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まぁ。もっとも、終わりは良くなかったけどな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭐, 비록 끝은 좋지 않았지만 말이야.\nEN:\nWell. Despite all that glory, what awaited them at the end was a tragedy."
+  },
+  {
+    "key": "31-content",
+    "original": "じゃあ、どんな実験をしていたかも\n全く残っていないということですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "じゃあ、どんな実験をしていたかも\n全く残っていないということですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럼 어떤 종류의 실험을 했는지도 전혀 남아있지 않다는 건가요?\nEN:\nSo there's no record or evidence of any kind left that could tell us what kind of experiments they carried out down here?"
+  },
+  {
+    "key": "32-content",
+    "original": "そうだ。この都市にある関連資料は全て消失。実験の情報が\n入っているものなら足爪が塵一つ残さなかっただろうから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだ。この都市にある関連資料は全て消失。実験の情報が\n入っているものなら足爪が塵一つ残さなかっただろうから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇지. 이 도시에 있는 관련 자료들은 전부 소실. 실험의 정보가 담겨있는 거라면 발톱이 작은 부스러기 하나 남기지 않았을 테니까.\nEN:\nNope. It all got purged. Anything to do with their experiment has been practically atomized by the Claws that came here."
+  },
+  {
+    "key": "33-content",
+    "original": "……新しきを求めんとして、欲深くなり過ぎたるやも知れぬな。\n研究者らには、ありふれたることにあらん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……新しきを求めんとして、欲深くなり過ぎたるやも知れぬな。\n研究者らには、ありふれたることにあらん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…새로움을 추구하다 욕심이 과해졌을 수도 있겠구료. 연구자들에겐 흔하다면 흔한 일이지 않은가.\nEN:\n... Perhaps, in search of the novel, they failed to notice the avarice spiraling out of control; a recurring development among those whose passion is research."
+  },
+  {
+    "key": "34-content",
+    "original": "鴻園の名望高い家門の人々は、しばらくの間\nこの建物がある方角には見向きもしなかった。\n不敬だとしてな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鴻園の名望高い家門の人々は、しばらくの間\nこの建物がある方角には見向きもしなかった。\n不敬だとしてな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍원의 명망 높은 가문 사람들은 한동안 이 건물이 있는 쪽으로는 고개도 돌리지 않았어. 불경스럽다고 말이지.\nEN:\nFor a while, people from the high-and-mighty families of Hongyuan refused to even look in the general direction of this building. They thought it was heretical, that it would bring them misfortune."
+  },
+  {
+    "key": "35-content",
+    "original": "その当時俺は幼くて…大人たちから聞いただけの話だがな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その当時俺は幼くて…大人たちから聞いただけの話だがな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그때 당시 난 어려서… 어른들께 전해 들었을 뿐이지만 말이야.\nEN:\nOf course, I was pretty young then, so all this is just what the adults told me."
+  },
+  {
+    "key": "36-content",
+    "original": "ホンル君は…あの折のことを覚えておいでか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル君は…あの折のことを覚えておいでか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루 군은… 그때를 기억하시는가?\nEN:\nDo you recall aught from then... Hong Lu?"
+  },
+  {
+    "key": "37-content",
+    "original": "僕も十歳そこそこでしたから、はっきりとではないですけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕も十歳そこそこでしたから、はっきりとではないですけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저도 열 살 남짓했던 나이였기에 또렷하진 않지만…\nEN:\nI was also very young, only ten years old, so my memories aren't very clear..."
+  },
+  {
+    "key": "38-content",
+    "original": "はい、覚えています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はい、覚えています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네, 기억하고 있답니다.\nEN:\nBut I do. I recall."
+  },
+  {
+    "key": "39-content",
+    "original": "…欲が手に余るほど重くなり、コン家の空が崩れて地が沈んだ日。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…欲が手に余るほど重くなり、コン家の空が崩れて地が沈んだ日。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…욕심이 감당할 수 없이 무거워져, 공가의 하늘이 무너지고 땅이 꺼진 날.\nEN:\n... I recall the day when the weight of avarice broke both the heavens above and the earth beneath the Kong family and smote them."
+  },
+  {
+    "key": "40-content",
+    "original": "<……。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<……。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;…….&gt;\nEN:\n&lt;…….&gt;"
+  },
+  {
+    "key": "41-content",
+    "original": "けれど結局、僕たちもいつかは紙片のように\n消えるものに過ぎないでしょうから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "けれど結局、僕たちもいつかは紙片のように\n消えるものに過ぎないでしょうから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 결국 우리도 언젠가는 종잇장처럼 사라질 것에 불과할 테니.\nEN:\nBut our existence is as fragile as paper, bound to fade away into nothingness just as they have."
+  },
+  {
+    "key": "42-content",
+    "original": "だから……何事も行き過ぎないように\n空にしておくことが大事なんでしょうね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だから……何事も行き過ぎないように\n空にしておくことが大事なんでしょうね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래서… 무엇이든 과하지 않도록 비워내는 것이 중요한가 봐요.\nEN:\nSo... I guess that's why we should always be mindful of excess, to empty ourselves that we will not overflow."
+  },
+  {
+    "key": "43-content",
+    "original": "数多の人命が一瞬にして消えた日のことを、\nホンルは淡々と語った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "数多の人命が一瞬にして消えた日のことを、\nホンルは淡々と語った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수많은 사람의 목숨이 한순간에 꺼진 날에 대해 홍루는 담담하게 이야기했다.\nEN:\nHong Lu spoke so calmly and clinically about the day when countless lives were lost."
+  },
+  {
+    "key": "44-teller",
+    "original": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방송음\nEN:\nAnnouncement"
+  },
+  {
+    "key": "44-title",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "44-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "45-teller",
+    "original": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방송음\nEN:\nAnnouncement"
+  },
+  {
+    "key": "45-title",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "45-content",
+    "original": "本日も…コン家と…鴻園の無限なる繁栄のために…\nお越しの…皆様…ありがとうございます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本日も…コン家と…鴻園の無限なる繁栄のために…\nお越しの…皆様…ありがとうございます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오늘도… 공씨 가문과… 홍원의 무한한 번영을 위해서… 오신… 모든… 감사합니다.\nEN:\nThank... you so... much again... everyone... who is here today... for the Kong family and Hongyuan's... eternal... prosperity."
+  },
+  {
+    "key": "46-content",
+    "original": "これは…コン家が滅門する前に録音された声だろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "これは…コン家が滅門する前に録音された声だろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이건… 공씨 가문이 멸문하기 전에 녹음되었던 목소리일까.\nEN:\nThis... must be a recording from before the Kong family's complete annihilation."
+  },
+  {
+    "key": "47-teller",
+    "original": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방송음\nEN:\nAnnouncement"
+  },
+  {
+    "key": "47-title",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "47-content",
+    "original": "いつものように…今回の実験も…成功し…\n鴻園の全員が…永久の…命に近づけるよう…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いつものように…今回の実験も…成功し…\n鴻園の全員が…永久の…命に近づけるよう…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n언제나 그랬듯… 이번의 실험도… 성공하여… 홍원의 모두가… 영원한… 삶에 가까워질 수 있도록…\nEN:\nLet this... experiment... be another resounding success for us... so that everyone... in Hongyuan... will be a step closer... to achieving... immortal life..."
+  },
+  {
+    "key": "48-teller",
+    "original": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방송음\nEN:\nAnnouncement"
+  },
+  {
+    "key": "48-title",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "48-content",
+    "original": "必ず…成し遂げ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必ず…成し遂げ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반드시… 해낼 수…\nEN:\nDo... know that our success... is..."
+  },
+  {
+    "key": "49-place",
+    "original": "過去、鴻園の実験室\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過去、鴻園の実験室\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n과거, 홍원의 실험실\nEN:\nHongyuan's Laboratory, Past"
+  },
+  {
+    "key": "49-teller",
+    "original": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放送音\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방송음\nEN:\nAnnouncement"
+  },
+  {
+    "key": "49-title",
+    "original": "鴻園の実験室\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鴻園の実験室\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍원의 실험실\nEN:\nHongyuan's Laboratory"
+  },
+  {
+    "key": "49-content",
+    "original": "必ず成し遂げられますので、全ての実験関係者各位は\n最善を尽くして望むようお願い申し上げます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必ず成し遂げられますので、全ての実験関係者各位は\n最善を尽くして臨むようお願い申し上げます。\n<CMT_KR>오식: \"最善を尽くして「望む」ようお願い申し上げます。\" 정확: \"最善を尽くして「臨む」ようお願い申し上げます。\"\n<CMT_EN>Typo: \"最善を尽くして「望む」ようお願い申し上げます。\" Correction: \"最善を尽くして「臨む」ようお願い申し上げます。\"\n<CMT_JP>誤植: \"最善を尽くして「望む」ようお願い申し上げます。\" 訂正後: \"最善を尽くして「臨む」ようお願い申し上げます。\"",
+    "stage": 1,
+    "context": "KR:\n반드시 해낼 수 있으니, 모든 실험 관계자분은 최선을 다해 임해주시길 바랍니다.\nEN:\nDo know that our success is a guarantee, so we would like to ask all research personnel to put their best into every project."
+  },
+  {
+    "key": "50-content",
+    "original": "分かったかね？前の丸がきちんと効き目を現さなかったのは、\n調合の順序が間違っておったからじゃ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "分かったかね？前の丸がきちんと効き目を現さなかったのは、\n調合の順序が間違っておったからじゃ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알겠는가? 이전 환이 제대로 효과를 보이지 않았던 것은 조합의 순서가 어긋나기 때문이네.\nEN:\nDo you see now? It was not a matter of formula but rather the process, the order of formulation that diminished the efficacy of your previous Bolus."
+  },
+  {
+    "key": "51-content",
+    "original": "たとえば、火の性質を持つ紅花と水の性質を持つ何首烏は\n元来双極をなしてての、ただ混ぜ合わせれば反発作用が起こるのだよ。\nこういうとき、コン家ではどうする？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たとえば、火の性質を持つ紅花と水の性質を持つ何首烏は\n元来双極をなしてての、ただ混ぜ合わせれば反発作用が起こるのだよ。\nこういうとき、コン家ではどうする？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가령 불의 성질을 가진 홍화(紅花)와 물의 성질을 가진 하수오(何首烏)는 원래 상극이라, 그냥 섞으면 반발 작용이 일어나지. 이러면 공씨 가에선 어떻게 하겠나?\nEN:\nLet me demonstrate by example. Directly mixing two diametrically opposed ingredients—safflower (紅花), which carries an element of fire, with fleeceflower (何首烏), which carries an element of water—will cause a repelling reaction. What does the Kong family do in such a case?"
+  },
+  {
+    "key": "52-content",
+    "original": "ふむ。鉄の気をもつ黄金や白芍薬を中間に挟めば、\n材料の気がお互いに相生して調合が可能となるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふむ。鉄の気をもつ黄金や白芍薬を中間に挟めば、\n材料の気がお互いに相生して調合が可能となるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음. 쇠의 기운을 가진 황금이나 백작약(白芍藥)을 중간에 넣으면, 재료의 기운이 서로 상생하여 조합이 가능해질 것이오.\nEN:\nMm. Use white peony (白芍藥) or gold in between the addition of either ingredient so that they may coexist."
+  },
+  {
+    "key": "53-content",
+    "original": "そうだ。基本的な丸の調合方法だ。だが実は…我らが使う材料は、\n単に五行八卦の法則に従うだけではないのだよ。五行を整えたとしても、\n六十甲子の性質を持つ材料は、実際にはまた違う効能を発揮していたからの…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだ。基本的な丸の調合方法だ。だが実は…我らが使う材料は、\n単に五行八卦の法則に従うだけではないのだよ。五行を整えたとしても、\n六十甲子の性質を持つ材料は、実際にはまた違う効能を発揮していたからの…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래. 기본적인 환의 조합 방식이지. 하지만 사실… 우리가 사용하는 재료들은 단순히 오행팔괘만을 따르는 게 아니라네. 오행을 맞췄다 해도, 육십갑자의 성질을 가진 재료들은 실상 다른 효능을 가지더군.\nEN:\nYes, a rudimentary application of the Bolus production methodology. However, one thing we must know is that the law followed by our ingredients is not defined solely by the five phases and eight trigrams. Though the five phases are correctly aligned, ingredients each imbued with elements of the sexagenary cycle—distinguished by both the heavenly stems and the earthly branches—all exhibit different effects."
+  },
+  {
+    "key": "54-content",
+    "original": "ましてや時間と空間によって陰陽の理が変わるがゆえに、\n同じ調合法でも何時、何分、何秒に作られたかによって、\n丸の特性や質に影響を及ぼすのだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ましてや時間と空間によって陰陽の理が変わるがゆえに、\n同じ調合法でも何時、何分、何秒に作られたかによって、\n丸の特性や質に影響を及ぼすのだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하물며 시간과 공간에 따라 음양의 이치가 바뀌니, 같은 조합법이라도 몇 시, 몇 분, 몇 초에 만들어졌는가에 따라 환의 특성과 질에 영향을 주지.\nEN:\nAnother aspect of this art to consider is that spacetime itself is a variable that modifies the laws by which yin and yang operate; thus, even if the same recipe were to be followed to the letter, the hour, the minute, and the second during which the Bolus is combined affects its quality and characteristics."
+  },
+  {
+    "key": "55-content",
+    "original": "だから…我が家門が過去に試した配合法にそのまま従ったのにもかかわらず、\n効果が異なる丸が出来たことがあったのですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だから…我が家門が過去に試した配合法にそのまま従ったのにもかかわらず、\n効果が異なる丸が出来たことがあったのですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래서… 저희 가문이 과거에 만든 조합법을 그대로 따랐는데도, 효과가 다른 환이 제조되곤 했던 거군요.\nEN:\nSo that's why following the same family recipes could yield Boluses of varying effects."
+  },
+  {
+    "key": "56-content",
+    "original": "調合された丸をどこに保管し、いつ陰から出すかでも変わるものである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "調合された丸をどこに保管し、いつ陰から出すかでも変わるものである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조합된 환을 어디에 보관하고, 언제 응달에서 꺼낼지에 따라서도 변하는 법일세.\nEN:\nYou must also remain wary of where one stores the Boluses once they are completed, and when to remove them from shade."
+  },
+  {
+    "key": "57-content",
+    "original": "丸薬師なら常に素材間の調和と反発を\n洞察せねばならぬこと…気を付けるが良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "丸薬師なら常に素材間の調和と反発を\n洞察せねばならぬこと…気を付けるが良い。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n환약사라면 항상 재료 사이의 조화와 반발을 통찰해야 한다는 점… 유의하시게.\nEN:\nDo keep in mind that a wise forger of Boluses always remains acutely aware of the harmony and discord that exists between ingredients."
+  },
+  {
+    "key": "58-content",
+    "original": "いつもながら、丸に関しては専門性が並外れているな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いつもながら、丸に関しては専門性が並外れているな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n언제나처럼 환에 있어서는 전문성이 남다르군.\nEN:\nYou certainly have an exceptionally high degree of expertise when it comes to Boluses."
+  },
+  {
+    "key": "59-content",
+    "original": "心強いな。配合をこういうふうに試みようなどと考えるのは、\nやはりそなたしかいないであろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心強いな。配合をこういうふうに試みようなどと考えるのは、\nやはりそなたしかいないであろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n든든하오. 배합을 이런 식으로 시도해 볼 생각을 가지는 건 역시 그대밖에는 없을 걸세.\nEN:\nI cannot help but always depend on you so. You're the only person who would ever come up with such innovative ways to forge these boluses."
+  },
+  {
+    "key": "60-content",
+    "original": "副作用を克服する解決策が何ヶ月も見つからなかったというのに、\nこんなにも簡単に解決されるとは、かえって私たちの面目が立ちません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "副作用を克服する解決策が何ヶ月も見つからなかったというのに、\nこんなにも簡単に解決されるとは、かえって私たちの面目が立ちません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부작용을 극복할 만한 해결법이 몇 달째 마땅치 않았는데 이리도 간단하게 풀어버리시다니요, 저희가 도리어 면목이 없어요.\nEN:\nYou've managed to untangle this side effect in a matter of moments, when we've struggled with it for months. We cannot help but feel a tinge of shame before your skill."
+  },
+  {
+    "key": "61-content",
+    "original": "…そなたたちの度量が深く広いおかげで、\nこのように返ってくるのだよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…そなたたちの度量が深く広いおかげで、\nこのように返ってくるのだよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그대들의 아량이 깊고 넓은 덕에 이리 돌려받는 것이지.\nEN:\n... Consider this boon good karma for your vast and profound generosity."
+  },
+  {
+    "key": "62-content",
+    "original": "ジア・ムー様の能力と手腕が良いおかげです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ジア・ムー様の能力と手腕が良いおかげです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가모님의 능력과 수완이 좋은 덕택이지요.\nEN:\nIt is all thanks to your wisdom and acumen, venerable Jia Mu."
+  },
+  {
+    "key": "63-content",
+    "original": "ただ実力と慧眼だけでこの地位まで至られたこと、\n多くの人々が末永く畏敬すべきだと存じます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ただ実力と慧眼だけでこの地位まで至られたこと、\n多くの人々が末永く畏敬すべきだと存じます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오직 실력과 혜안 만으로 이 자리까지 온 것을, 많은 사람들이 두고두고 우러러보아야 한다고 생각합니다.\nEN:\nYou deserve every reverence and admiration for coming this far, armed with nothing but your skill and wit."
+  },
+  {
+    "key": "64-content",
+    "original": "そうすることでジア・ムー様を通じ、\n皆が希望を抱いて生きられると思いませんか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうすることでジア・ムー様を通じ、\n皆が希望を抱いて生きられると思いませんか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래야지 가모님을 통해 모두가 희망을 가지고 살아가지 않겠나요?\nEN:\nAnd as they admire your achievements, they'll find hope as well."
+  },
+  {
+    "key": "65-content",
+    "original": "…正しい意見だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…正しい意見だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…옳은 말이지.\nEN:\n... Of course."
+  },
+  {
+    "key": "66-content",
+    "original": "立場が弱まっていたシー家から\nろくに勢家もないまま家主の座を得るなどと、誰が想像できただろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "立場が弱まっていたシー家から\nろくに勢家もないまま家主の座を得るなどと、誰が想像できただろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입지가 얄팍해졌던 사씨 가에서 마땅한 세가도 없이 가주 자리를 차지하리라곤 누구도 상상하지 못한 일 아니었겠는가.\nEN:\nNo one could have possibly foreseen that the declining Shi family would produce the next Hierarch, after all. Especially someone without a proper clan."
+  },
+  {
+    "key": "67-content",
+    "original": "あぁ…！そんなつもりではありませんでした。\nもしわたくしの発言でご不快になられたのであれば―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…！そんなつもりではありませんでした。\nもしわたくしの発言でご不快になられたのであれば―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아…! 그렇게 생각하진 않았답니다. 혹시 제 말에 기분이 상하신 거라면…\nEN:\nOh...! That is not what I had intended to convey, venerable Jia Mu. If I had offended you, by any chance—"
+  },
+  {
+    "key": "68-content",
+    "original": "いいや、間違いなど一つもない正しい言葉だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いいや、間違いなど一つもない正しい言葉だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아닐세, 틀린 거 하나 없이 옳은 말이었으니.\nEN:\nWorry not, for you have spoken true."
+  },
+  {
+    "key": "69-content",
+    "original": "コン家の度量が深いおかげだということ、誰よりも私自身がよく分かっているさ。\nそなたらがその気になれば、私が家主の座につく前に簡単に押しのけられたこともな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コン家の度量が深いおかげだということ、誰よりも私自身がよく分かっているさ。\nそなたらがその気になれば、私が家主の座につく前に簡単に押しのけられたこともな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공씨 가문의 도량이 깊은 덕분인 것, 누구보다 내 잘 아네. 자네들이 마음만 먹었다면 내가 가주 자리에 앉기 전부터 쉽사리 밀어낼 수 있었다는 걸 알아.\nEN:\nI understand that it was all thanks to the Kong family's generosity that I could rise. I know better than anyone that you could have easily eliminated me before I had the chance to ascend to the seat of the Family Hierarch."
+  },
+  {
+    "key": "70-content",
+    "original": "公家の立場をより盤石にしたければ、十分そうしたはずさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "公家の立場をより盤石にしたければ、十分そうしたはずさ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공가의 입지를 더 돈독히 다지고 싶었다면 충분히 그랬을 걸세.\nEN:\nAnd you would have done so, had you wished to further solidify the Kong family's position here."
+  },
+  {
+    "key": "71-content",
+    "original": "むしろ我々は、家主大戦の思わぬ結末に感服したのだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "むしろ我々は、家主大戦の思わぬ結末に感服したのだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오히려 우리는 가주 대전의 예상치 못한 결과에 감복하였소.\nEN:\nIn fact, our hearts were truly stirred by the most unexpected outcome of the Family Hierarch war."
+  },
+  {
+    "key": "72-content",
+    "original": "あの公平とは言えなかったであろう環境で、\n賢明な戦略を立てて1位を勝ち取られたのだから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あの公平とは言えなかったであろう環境で、\n賢明な戦略を立てて1位を勝ち取られたのだから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 공정하지 않았을 환경에서 지혜로운 전략을 세워 1등을 쟁취하였으니.\nEN:\nYou have clutched victory with nothing but wisdom when all odds were against you."
+  },
+  {
+    "key": "73-content",
+    "original": "それに、今回も我々を物心両面で支えてくれて\n感謝の気持ちが大きいのだよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それに、今回も我々を物心両面で支えてくれて\n感謝の気持ちが大きいのだよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더불어 이번에도 우리를 물심양면으로 도와주어 고마운 마음이 크네.\nEN:\nNot to mention that we are greatly appreciative of all the assistance you have so graciously provided us."
+  },
+  {
+    "key": "74-content",
+    "original": "そう言うでない、わしこそ\nこの冴えぬ才能なりとも分かちあえて幸いなのだから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そう言うでない、わしこそ\nこの冴えぬ才能なりとも分かちあえて幸いなのだから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런 말 마시게, 나야말로 이 변변치 못한 재주나마 나눌 수 있어서 다행이지.\nEN:\nSave your compliments, please. I am only honored that you saw any use for my insignificant tricks."
+  },
+  {
+    "key": "75-content",
+    "original": "鴻園の無窮なる繁栄を願うのは、皆同じであろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鴻園の無窮なる繁栄を願うのは、皆同じであろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍원의 무궁한 번영을 바라는 건 이곳의 모두가 매한가지 아닌가?\nEN:\nAfter all, our collective pursuit is to prolong the eternal prosperity of Hongyuan, is it not?"
+  },
+  {
+    "key": "76-content",
+    "original": "…お婆さん、また新しい丸を作るんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…お婆さん、また新しい丸を作るんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…할머니, 이번에도 새로운 환을 만드는 건가요?\nEN:\n... Grandma, are you making new Boluses again?"
+  },
+  {
+    "key": "77-content",
+    "original": "そうだ、バオユや。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだ、バオユや。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래, 보옥아.\nEN:\nIndeed, little Baoyu."
+  },
+  {
+    "key": "78-content",
+    "original": "受けた業を返さねばならんからな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "受けた業を返さねばならんからな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받은 업을 갚아야 하니 말이다.\nEN:\nThere is karma to be repaid."
+  },
+  {
+    "key": "79-content",
+    "original": "僕も…ずっと一緒に行かなきゃいけないんですか？お婆さんと？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕も…ずっと一緒に行かなきゃいけないんですか？お婆さんと？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저도… 계속 같이 와야 하는 거예요? 할머니랑?\nEN:\nAnd do I have to... keep coming here with you, grandma?"
+  },
+  {
+    "key": "80-content",
+    "original": "ああ、これは…お前がこの先\nずっと見届けてこそ完成する絶景であろうから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ああ、これは…お前がこの先\nずっと見届けてこそ完成する絶景であろうから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래, 이건… 네가 앞으로 계속 지켜봐야 완성되는 절경일 테니.\nEN:\nYes. This beautiful scenery will not be complete without you as its witness."
+  },
+  {
+    "key": "81-place",
+    "original": "審査場1階 実験室廃墟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審査場1階 実験室廃墟\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심사장 1층 실험실 폐허\nEN:\nEvaluation Arena 1F - Lab Ruins"
+  },
+  {
+    "key": "81-content",
+    "original": "ホンル君、ここへ足繁く…通いたりしや？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル君、ここへ足繁く…通いたりしや？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루 군, 이곳에 꾸준하게… 걸음 했던 것인가?\nEN:\nYou have frequented this place… with regularity, Hong Lu?"
+  },
+  {
+    "key": "82-content",
+    "original": "…はい。お婆さんが僕の手を引いて、\nここへよく遊びに来させたんですよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…はい。お婆さんが僕の手を引いて、\nここへよく遊びに来させたんですよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…네. 할머니가 제 손을 이끌고 이곳으로 놀러 오게 하셨거든요.\nEN:\n... Yes. Grandmother often brought me here to play, hand-in-hand."
+  },
+  {
+    "key": "83-content",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "84-content",
+    "original": "あぁ、君たちがぼんやりしている間に\n俺もまた考えを巡らせてみたんだけどな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ、君たちがぼんやりしている間に\n俺もまた考えを巡らせてみたんだけどな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아, 너희가 잠깐 멍때리는 동안 내가 또다시 생각을 해보았는데 말이야.\nEN:\nOh, are you guys done collectively spacing out? I've been thinking while you were gone."
+  },
+  {
+    "key": "85-content",
+    "original": "結構興味深い想像をしたんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "結構興味深い想像をしたんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꽤 흥미로운 상상을 떠올렸어.\nEN:\nAnd I've come up with something quite interesting."
+  },
+  {
+    "key": "86-content",
+    "original": "制限時間が終わったとき、順位を決定づけることが\nこの家主選抜2次戦の核心だが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "制限時間が終わったとき、順位を決定づけることが\nこの家主選抜2次戦の核心だが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제한 시간이 끝났을 때 순위를 결정짓는 게 이 가주 선발 2차전의 핵심이니…\nEN:\nSo, since the results of the second round are decided only when the time's up..."
+  },
+  {
+    "key": "87-content",
+    "original": "きっとこう考える候補者もいるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "きっとこう考える候補者もいるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분명 이렇게 생각하는 후보자도 있을 거야.\nEN:\n... I'm sure there are candidates out there coming up with strategies like..."
+  },
+  {
+    "key": "88-content",
+    "original": "適当な量の銅銭さえ集めて、同じ場所でじっと潜んでいれば…\nかなり高い順位を狙えるんじゃ…と。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "適当な量の銅銭さえ集めて、同じ場所でじっと潜んでいれば…\nかなり高い順位を狙えるんじゃ…と。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적당한 양의 동전만 모은 후에 같은 장소에서 가만히 숨어있으면… 꽤 높은 순위를 노려볼 수 있는 게 아닌가… 하고.\nEN:\n\"Collect a moderate amount of coins, find a nice, hidden corner to lie low, wait until everything blows over, and we just might walk away with a decent rank.\" Know what I mean?"
+  },
+  {
+    "key": "89-content",
+    "original": "不安要素は多いが…戦闘に自信が無い候補者たちには有効な戦略だろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安要素は多いが…戦闘に自信が無い候補者たちには有効な戦略だろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안한 요소는 많지만… 전투에 자신 없는 후보자들에겐 유효한 전략이겠군.\nEN:\nThere are many points of failure to that plan, but... it would indeed be an appropriate strategy for candidates who are not so confident about their odds in open combat."
+  },
+  {
+    "key": "90-content",
+    "original": "そうだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러니까 말이야.\nEN:\nRight?"
+  },
+  {
+    "key": "91-content",
+    "original": "だけど、せっかく観客まで呼んで中継しているのに、\nそんな候補者ばかりじゃ、見ている人たちは\nさぞかしつまらないんじゃないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だけど、せっかく観客まで呼んで中継しているのに、\nそんな候補者ばかりじゃ、見ている人たちは\nさぞかしつまらないんじゃないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 기껏 관객들을 불러 모아 중계까지 하고 있는데, 그런 후보자들만 있으면, 보는 사람들이 퍽 재미없지 않을까?\nEN:\nBut here's the thing. Wouldn't it make for such a boring show if most of the candidates are just hiding and doing nothing for the majority of the game? I mean, they even made the show of gathering an audience for this song and dance."
+  },
+  {
+    "key": "92-content",
+    "original": "恐らくきっと…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "恐らくきっと…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아마 분명…\nEN:\nThere must be—"
+  },
+  {
+    "key": "93-place",
+    "original": "審査場内部 1階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審査場内部 1階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심사장 내부 1층\nEN:\nEvaluation Arena 1F"
+  },
+  {
+    "key": "93-content",
+    "original": "実験室から出て他の廊下に入った瞬間、\n小さな振動を感じた気がした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "実験室から出て他の廊下に入った瞬間、\n小さな振動を感じた気がした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n실험실에서 나와 다른 복도에 들어온 순간, 자그마한 흔들림이 느껴진 것 같았다.\nEN:\nI sensed a very subtle vibration the moment we walked out of the lab and into the hallways."
+  },
+  {
+    "key": "94-content",
+    "original": "ワン・ジャオという者もそれを感じたのか、\n口を噤んでどこかを見つめている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ワン・ジャオという者もそれを感じたのか、\n口を噤んでどこかを見つめている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n왕자우라는 자도 그걸 느낀 것인지, 말을 하다 말고 멈추어 어딘가를 바라보고 있다.\nEN:\nWang Zhao must've felt it, too. He stopped in his tracks and looked around."
+  },
+  {
+    "key": "95-content",
+    "original": "おい。なんか聞こえないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おい。なんか聞こえないか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어이. 무슨 소리 안 들려?\nEN:\nHold on. Do you guys hear that?"
+  },
+  {
+    "key": "96-content",
+    "original": "さぁ…それでは同行はここまでだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ…それでは同行はここまでだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자… 그럼 동행은 여기까지로.\nEN:\nWell... looks like this is where our brief fellowship comes to an end."
+  },
+  {
+    "key": "97-content",
+    "original": "短い間だったけども楽しい会話だったよ、ジア・バオユ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "短い間だったけども楽しい会話だったよ、ジア・バオユ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잠깐뿐이지만 즐거운 대화였어, 가보옥.\nEN:\nThat was a short but sweet exchange, Jia Baoyu."
+  },
+  {
+    "key": "98-content",
+    "original": "でも…ここで銅銭を最も多く持つべき人ではないみたいだな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でも…ここで銅銭を最も多く持つべき人ではないみたいだな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만… 이곳에서 동전을 가장 많이 가져야 할 사람은 아닌 것 같아.\nEN:\nBut... I don't think you're the one who should hold the most coins."
+  },
+  {
+    "key": "99-content",
+    "original": "<それってどういう…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<それってどういう…。>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;그게 무슨…&gt;\nEN:\n&lt;What...?&gt;"
+  },
+  {
+    "key": "100-content",
+    "original": "大戦が終わったとき、互いに望むものを得られるように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大戦が終わったとき、互いに望むものを得られるように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대전이 끝났을 때, 서로 원하는 걸 얻을 수 있기를.\nEN:\nOnce the games end, I hope we'll all find what we came here for."
+  },
+  {
+    "key": "101-content",
+    "original": "そもそも、途中まで共にする者ではあったが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そもそも、途中まで共にする者ではあったが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n애초부터 중도까지만 함께 할 자이긴 했지만…\nEN:\nWe weren't planning on sticking with him through the entire round, but..."
+  },
+  {
+    "key": "102-content",
+    "original": "ちょっと突然ではありますね…それでも、\n後ろからナイフで刺されるよりはマシではありますけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ちょっと突然ではありますね…それでも、\n後ろからナイフで刺されるよりはマシではありますけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n좀 갑작스럽긴 하네요… 그래도, 뒤에서 칼로 찌르는 것보단 낫긴 하죠.\nEN:\nYeah, it's a bit sudden, huh? I guess it's better than a full-on betrayal."
+  },
+  {
+    "key": "103-content",
+    "original": "こ、このまま別れてもいいんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こ、このまま別れてもいいんですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이, 이대로 헤어져도 괜찮은 걸까요?\nEN:\nW-we're going our separate ways, just like that...?"
+  },
+  {
+    "key": "104-content",
+    "original": "…あの者を気にしている時間はなさそうですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…あの者を気にしている時間はなさそうですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…저자를 신경 쓸 시간은 없을 것 같군요.\nEN:\n... There is no time to spare worrying about him."
+  },
+  {
+    "key": "105-content",
+    "original": "…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…!\nEN:\n...!"
+  },
+  {
+    "key": "106-content",
+    "original": "全員！3時の方向へ全力疾走する！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全員！3時の方向へ全力疾走する！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전원! 세 시 방향으로 전력 질주한다!\nEN:\nAtten-tion! Full-speed sprint toward the 3'O clock direction! Go, go, go!"
+  },
+  {
+    "key": "107-content",
+    "original": "え？な、なんだよ！\n理由くらい教えてから走れって言えよ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "え？な、なんだよ！\n理由くらい教えてから走れって言えよ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어? 뭐, 뭔데! 이유는 알려주고 뛰라고 시켜야지!\nEN:\nHuh? W-what?! Oi, at least tell us what's going on!"
+  },
+  {
+    "key": "108-content",
+    "original": "前を見ろ！地面から…壁がせり上がってきている！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前を見ろ！地面から…壁がせり上がってきている！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앞을 봐라! 바닥에서부터… 벽이 올라오고 있다!\nEN:\nEyes forward! The walls are... rising from the floor!"
+  },
+  {
+    "key": "109-content",
+    "original": "今になって、その状況を解説するかのように\n司会者の熱のこもった声が聞こえてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今になって、その状況を解説するかのように\n司会者の熱のこもった声が聞こえてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이제서야 그 상황에 대한 현상을 설명해 주듯 사회자의 열띤 목소리가 들려왔다.\nEN:\nThat's when the host's cheerful voice began booming from the speakers, excitedly explaining the situation."
+  },
+  {
+    "key": "110-content",
+    "original": "さぁ、このあたりでぇ～新たな規則です！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、このあたりでぇ～新たな規則です！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 이쯤에서~ 새로운 규칙입니다!\nEN:\nLet's keep things interesting with... a new rule!"
+  },
+  {
+    "key": "111-content",
+    "original": "候補者たちが慎重に動き過ぎて退屈していた観客の皆様のため…\n今から一定時間ごとに、候補者たちが留まれる空間が狭まっていきます！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "候補者たちが慎重に動き過ぎて退屈していた観客の皆様のため…\n今から一定時間ごとに、候補者たちが留まれる空間が狭まっていきます！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후보자들이 너무 신중하게 움직여서 지루하셨을 관객분들을 위해… 지금부터 일정 시간마다 후보자들이 머물 수 있는 공간이 계속 줄어들어 갑니다!\nEN:\nAnd this one's for you, dear viewers who must've been bored outta your minds with how safe the candidates were playing things! Starting now, walls are gonna start closing off rooms and corralling our candidates every set interval, shrinking the arena!"
+  },
+  {
+    "key": "112-content",
+    "original": "もしも縮小した空間に入れず、外で壁に塞がれたら…？\n当然失格です！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もしも縮小した空間に入れず、外で壁に塞がれたら…？\n当然失格です！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혹시라도 줄어든 공간에 들어가지 못하고, 바깥에서 벽에 막혔다면…? 당연히 실격입니다!\nEN:\nIf you somehow end up trapped in a room, if you fail to make it into the shrinking arena...? Well, that's an elimination, of course!"
+  },
+  {
+    "key": "113-content",
+    "original": "やはり…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "やはり…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n역시…\nEN:\nOf course..."
+  },
+  {
+    "key": "114-content",
+    "original": "あ～、現在候補者の皆さんが大混乱に陥っていますね！\n無理をして壁に挟まれると、掃除が大変になりますので\n素早く行動されたほうが良いですよ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ～、現在候補者の皆さんが大混乱に陥っていますね！\n無理をして壁に挟まれると、掃除が大変になりますので\n素早く行動されたほうが良いですよ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아~ 지금 후보자분들이 혼비백산하고 계시군요! 괜히 무리하다가 벽에 끼여 돌아가시면, 청소가 어려워지니 빨리빨리 행동하시는 게 좋겠네요!\nEN:\nAha~ Looks like it's real chaotic out there! Now, let's try not to push your luck and get yourselves stuck between walls, mmkay? It'll be one hell of a clean-up job to have to scrape and scrub your bits off the walls. Better get moving!"
+  },
+  {
+    "key": "115-content",
+    "original": "思いっきり煽ってくるような司会者の言葉を聞きながら、\n私たちは少しずつ壁がせり上がってくる場所に向かって全力で駆け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "思いっきり煽ってくるような司会者の言葉を聞きながら、\n私たちは少しずつ壁がせり上がってくる場所に向かって全力で駆け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔뜩 약 올리는 것 같은 사회자의 말을 들으며 우리는 조금씩 벽이 올라오는 장소를 향해 전력으로 달려갔다.\nEN:\nWe began sprinting full-speed to where the walls were starting to rise from the floor, the host's snidely chipper tone taunting us the whole time."
+  },
+  {
+    "key": "116-content",
+    "original": "おっと、間一髪で転んで壁を越え損ねた候補者もいますね。\nおやおや…勢家が四散したせいで独り残された候補者も見受けられます。\nおぉ？銅銭は落とさないようにしっかり管理するべきでしたね！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おっと、間一髪で転んで壁を越え損ねた候補者もいますね。\nおやおや…勢家が四散したせいで独り残された候補者も見受けられます。\nおぉ？銅銭は落とさないようにしっかり管理するべきでしたね！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아이쿠, 간발의 차로 넘어져서 벽을 넘지 못한 후보자도 있군요. 어이쿠… 세가들이 뿔뿔이 흩어지는 바람에 혼자 남겨진 후보자도 보입니다. 어어, 동전은 안 흘리게 잘 간수하셔야죠!\nEN:\nOof! Looks like some of you didn't make it! You were so close, too... And... ouch, I spy a candidate who's been separated from her clan in the chaos. Whoa, try not to lose your coins in the chaos!"
+  }
+]

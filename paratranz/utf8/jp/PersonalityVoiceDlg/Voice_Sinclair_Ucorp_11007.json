@@ -1,0 +1,338 @@
+[
+  {
+    "key": "get_11007_1-desc",
+    "original": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 획득\nEN:\nIdentity Acquisition"
+  },
+  {
+    "key": "get_11007_1-dlg",
+    "original": "うーん…ボートを任せにきたお客さんですか？よろしくお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うーん…ボートを任せにきたお客さんですか？よろしくお願いします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음… 보트 맡기러 온 고객 분이신가요? 잘 부탁드릴게요.\nEN:\nMm... Are you here to get your boat fixed up? We'll take good care of it."
+  },
+  {
+    "key": "lobby_morning_11007_1-desc",
+    "original": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아침 인사\nEN:\nMorning Greeting"
+  },
+  {
+    "key": "lobby_morning_11007_1-dlg",
+    "original": "まだ店開けてないんですけど…。あぁ、代わりに椅子を持ってきますから座って休んでてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まだ店開けてないんですけど…。あぁ、代わりに椅子を持ってきますから座って休んでてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아직 가게 문은 열지 않았는데요… 아, 대신 의자라도 갖다 드릴테니 앉아서 쉬고 계세요.\nEN:\nThe shop isn't open yet... Oh, I'll get you a chair so you can sit and rest while you wait."
+  },
+  {
+    "key": "lobby_noon_11007_1-desc",
+    "original": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점심 인사\nEN:\nAfternoon Greeting"
+  },
+  {
+    "key": "lobby_noon_11007_1-dlg",
+    "original": "うぅ…そろそろお昼に別のものを食べたいです…。あの生臭いクラップ蟹で蒸し、姿煮、焼き、スープ…いろんな調理方法を試してみたんですけど、煮ても焼いても不味いです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うぅ…そろそろお昼に別のものを食べたいです…。あの生臭いクラップ蟹で蒸し、姿煮、焼き、スープ…いろんな調理方法を試してみたんですけど、煮ても焼いても不味いです！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우으… 이젠 점심으로 다른 것 좀 먹고 싶어요… 저 비린내 나는 크랲게로 찜, 탕, 구이, 수프… 온갖 종류로 요리를 해봤지만, 어떻게 해도 맛이 없었어요!\nEN:\nMmgh... I wanna eat something else for once... We've made all kinds of dishes out of those trash crabs—steamed, stewed, roasted, souped, you name it... but none of them ever taste any good!"
+  },
+  {
+    "key": "lobby_night_11007_1-desc",
+    "original": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저녁 인사\nEN:\nEvening Greeting"
+  },
+  {
+    "key": "lobby_night_11007_1-dlg",
+    "original": "あっ！溶接の火花のせいで眩しかったですか？すみません…閉店しても合間合間に作業しないといけなくて。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あっ！溶接の火花のせいで眩しかったですか？すみません…閉店しても合間合間に作業しないといけなくて。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아! 용접 불꽃 때문에 눈이 좀 부시셨나요? 죄송해요… 가게 문 닫고 나서도 틈틈이 작업해놔야 해서요.\nEN:\nAh! Did the flash from the welding rod hurt your eyes? Sorry about that... There's work to be done even after the shop's closed."
+  },
+  {
+    "key": "smalltalk_11007_1-desc",
+    "original": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 1\nEN:\nChatter #1"
+  },
+  {
+    "key": "smalltalk_11007_1-dlg",
+    "original": "最初ここで目覚めたときは本当に何が何だか分からなくて…ただ行く当てもなく彷徨って飢え死にするところでした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初ここで目覚めたときは本当に何が何だか分からなくて…ただ行く当てもなく彷徨って飢え死にするところでした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음 여기서 깨어났을 때는 정말 뭐가 뭔지 몰라서… 그저 정처없이 돌아다니다가 굶어 죽을 뻔했었죠.\nEN:\nWhen I first got up and found myself here, I had no idea what to make of anything... I almost starved to death wandering around."
+  },
+  {
+    "key": "smalltalk_11007_2-desc",
+    "original": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 2\nEN:\nChatter #2"
+  },
+  {
+    "key": "smalltalk_11007_2-dlg",
+    "original": "機械の扱いには余り慣れてないですけど…前住んでた場所に帰るためにも頑張って練習しないとですね。\nもしかすると、帰ったときにこの経験が役に立つかもしれませんし。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "機械の扱いには余り慣れてないですけど…前住んでた場所に帰るためにも頑張って練習しないとですね。\nもしかすると、帰ったときにこの経験が役に立つかもしれませんし。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기계를 다루는 건 그렇게 익숙하지 않지만… 전에 살던 곳으로 돌아가기 위해서라도 열심히 연습해야죠.\n어쩌면, 이 경험이 돌아갔을 때 도움을 주게 될지도 모르고요.\nEN:\nI'm not all too used to handling machinery...but I've got to practice hard if I want to get back to where I used to live. And who knows, this experience might be pretty handy in the future."
+  },
+  {
+    "key": "smalltalk_11007_3-desc",
+    "original": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 3\nEN:\nChatter #3"
+  },
+  {
+    "key": "smalltalk_11007_3-dlg",
+    "original": "今は日常的に使ってはいますが、U社のこの特異点は最初見たときから不思議だったと言うべきでしょうか…。これを通じてくっ付けておけば、まるでこの部品が最初から一体だったかのようにくっ付くんですよね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今は日常的に使ってはいますが、U社のこの特異点は最初見たときから不思議だったと言うべきでしょうか…。これを通じてくっ付けておけば、まるでこの部品が最初から一体だったかのようにくっ付くんですよね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지금은 일상적으로 쓰고 있긴 하지만, U사의 이 특이점은 처음 볼 때부터 신기했다고 해야할까요… 이걸 통해서 붙여두면, 마치 이 부품이 처음부터 한 몸이었던 것처럼 붙게 되니까요.\nEN:\nI'm used to it now, but U Corp's Singularity was always so fascinating to me... Attaching parts with this thing melds them together, as though they were made this way from the start."
+  },
+  {
+    "key": "smalltalk_11007_4-desc",
+    "original": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 1\nEN:\nPost-Uptie Chat 1"
+  },
+  {
+    "key": "smalltalk_11007_4-dlg",
+    "original": "この武器も、ここで学んだ溶接や機械の知識を通じて直接付け加えて改造、修理したものです。ちょっと粗雑には見えますけど…それでも結構悪くないですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この武器も、ここで学んだ溶接や機械の知識を通じて直接付け加えて改造、修理したものです。ちょっと粗雑には見えますけど…それでも結構悪くないですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 무기도, 여기서 배운 용접이나 기계 지식을 통해서 직접 덧대어 개조, 수리한 거예요. 살짝 조잡해 보이긴 하지만… 그래도 꽤 괜찮죠?\nEN:\nThis weapon too, was made from mechanical knowledge and welding skills I learned here. It doesn't look very sophisticated, but... Not bad, right?"
+  },
+  {
+    "key": "smalltalk_11007_5-desc",
+    "original": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 2\nEN:\nPost-Uptie Chat 2"
+  },
+  {
+    "key": "smalltalk_11007_5-dlg",
+    "original": "近くにいらっしゃった他のボートセンターの方々が手伝ってくれたおかげでここまで来れたんです。\n…もういらっしゃらない方々ですけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "近くにいらっしゃった他のボートセンターの方々が手伝ってくれたおかげでここまで来れたんです。\n…もういらっしゃらない方々ですけど。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n근처에 계셨던 다른 보트 센터 분들이 도와주신 덕에 여기까지 오게 된 거죠.\n…이젠 안 계시는 분들이지만요.\nEN:\nWe could come this far thanks to all the help from people in other boat shops here.\n...They're no longer around, though."
+  },
+  {
+    "key": "neglect_11007_1-desc",
+    "original": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방치\nEN:\nIdle"
+  },
+  {
+    "key": "neglect_11007_1-dlg",
+    "original": "うーん…この隙に整備の本でも読んでおかないとですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うーん…この隙に整備の本でも読んでおかないとですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음… 이 틈에 정비 책이라도 읽어 둬야겠어요.\nEN:\nHmm... I should read more books on maintenance in the meantime."
+  },
+  {
+    "key": "gacksung_11007_1-desc",
+    "original": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 진행\nEN:\nUptying"
+  },
+  {
+    "key": "gacksung_11007_1-dlg",
+    "original": "改造したら出力は良くなりましたけど…未だに蟹甲羅ばっかり捕まえてますし、無駄だったかなって気分になりますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "改造したら出力は良くなりましたけど…未だに蟹甲羅ばっかり捕まえてますし、無駄だったかなって気分になりますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n개조를 했더니 출력은 나아졌는데… 여전히 게 딱지나 잡고 있다니, 괜히 했나 싶네요.\nEN:\nThe upgrade certainly improved the output... but it kinda feels redundant if all I'm doing with it is catching more crabs."
+  },
+  {
+    "key": "formation_11007_1-desc",
+    "original": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 편성\nEN:\nDeployment"
+  },
+  {
+    "key": "formation_11007_1-dlg",
+    "original": "装備のエンジン掛けました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "装備のエンジン掛けました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장비 시동 걸었습니다.\nEN:\nThe gears are in motion."
+  },
+  {
+    "key": "battleentry_11007_1-desc",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nStage Entry"
+  },
+  {
+    "key": "battleentry_11007_1-dlg",
+    "original": "あれれ？なんで出力がこんな…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あれれ？なんで出力がこんな…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어어어? 출력이 왜 이러지…?\nEN:\nHäää? What's wrong with the power output...?"
+  },
+  {
+    "key": "battle_select_11007_1-desc",
+    "original": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 인격 선택\nEN:\nViewed in Battle"
+  },
+  {
+    "key": "battle_select_11007_1-dlg",
+    "original": "修理のお問い合わせですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "修理のお問い合わせですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수리 문의신가요?\nEN:\nNeed something repaired?"
+  },
+  {
+    "key": "battle_endcommand_11007_1-desc",
+    "original": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 시작\nEN:\nCommencing Attack"
+  },
+  {
+    "key": "battle_endcommand_11007_1-dlg",
+    "original": "出力安定化…した！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出力安定化…した！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출력 안정화… 됐다!\nEN:\nStabilizing output... There!"
+  },
+  {
+    "key": "battle_enemy_break_11007_1-desc",
+    "original": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 흐트러질 시 대사\nEN:\nEnemy Stagger"
+  },
+  {
+    "key": "battle_enemy_break_11007_1-dlg",
+    "original": "性能よし…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "性能よし…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성능 좋고…!\nEN:\nGood going...!"
+  },
+  {
+    "key": "battle_break_11007_1-desc",
+    "original": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러질 시 대사\nEN:\nStaggered"
+  },
+  {
+    "key": "battle_break_11007_1-dlg",
+    "original": "うっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n윽…\nEN:\nNgh…"
+  },
+  {
+    "key": "battle_kill_11007_1-desc",
+    "original": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치\nEN:\nEnemy Killed"
+  },
+  {
+    "key": "battle_kill_11007_1-dlg",
+    "original": "ふぅ、片付きましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふぅ、片付きましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후, 해치웠네요.\nEN:\nPhew, took care of that one."
+  },
+  {
+    "key": "battle_dead_11007_1-desc",
+    "original": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본인 사망\nEN:\nDeath"
+  },
+  {
+    "key": "battle_dead_11007_1-dlg",
+    "original": "あぁ…みんな…待っていらっしゃる…のに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…みんな…待っていらっしゃる…のに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 다들… 기다리실… 텐데.\nEN:\nNo... They're... waiting... for me."
+  },
+  {
+    "key": "choice_success_p_11007_2-desc",
+    "original": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 성공\nEN:\nCheck Passed"
+  },
+  {
+    "key": "choice_success_p_11007_2-dlg",
+    "original": "正解でしたね！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "正解でしたね！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정답이었군요!\nEN:\nThat was the right answer!"
+  },
+  {
+    "key": "choice_fail_n_11007_1-desc",
+    "original": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 실패\nEN:\nCheck Failed"
+  },
+  {
+    "key": "choice_fail_n_11007_1-dlg",
+    "original": "あ…これじゃないのに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ…これじゃないのに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 이게 아닌데.\nEN:\nThis... wasn't quite it."
+  },
+  {
+    "key": "battle_clear_11007_1-desc",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "battle_clear_11007_1-dlg",
+    "original": "そろそろ戻って、押してる作業を終わらせないとですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そろそろ戻って、押してる作業を終わらせないとですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이제 돌아가서 밀린 작업이나 마저 해야겠어요.\nEN:\nI should go back and deal with the remaining work."
+  },
+  {
+    "key": "battle_clear_ex_11007_1-desc",
+    "original": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nEX CLEAR 전투 승리\nEN:\nExtra Conditions Fulfilled"
+  },
+  {
+    "key": "battle_clear_ex_11007_1-dlg",
+    "original": "綺麗に終わりましたね？我ながら誇らしいくらいにです。あれ、でも武器が…なっ、なんでこんな…？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "綺麗に終わりましたね？我ながら誇らしいくらいです。あれ、でも武器が…なっ、なんでこんな…？\n<CMT_KR>오식: \"綺麗に終わりましたね？我ながら誇らしいくらい「に」です。\" 정확: \"綺麗に終わりましたね？我ながら誇らしいくらい「」です。\"\n<CMT_EN>Typo: \"綺麗に終わりましたね？我ながら誇らしいくらい「に」です。\" Correction: \"綺麗に終わりましたね？我ながら誇らしいくらい「」です。\"\n<CMT_JP>誤植: \"綺麗に終わりましたね？我ながら誇らしいくらい「に」です。\" 訂正後: \"綺麗に終わりましたね？我ながら誇らしいくらい「」です。\"",
+    "stage": 1,
+    "context": "KR:\n깔끔했죠? 제가 봐도 뿌듯할 정도네요. 어, 근데 무기가… 왜, 왜 이러지?\nEN:\nThat was clean, wasn't it? I'm pretty proud of it if I do say so myself. Huh, my weapon's going... Wha, what's wrong with it?"
+  },
+  {
+    "key": "battle_defeat_11007_1-desc",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
+  },
+  {
+    "key": "battle_defeat_11007_1-dlg",
+    "original": "いや…こうなるとは…何かが足りなかったんですかね…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いや…こうなるとは…何かが足りなかったんですかね…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니… 이렇게 될 줄은… 뭔가 부족했던 걸까요…\nEN:\nNoo... I didn't think it'd go this way... What was I missing..."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "key": "get_11106_1-desc",
+    "original": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 획득\nEN:\nIdentity Acquisition"
+  },
+  {
+    "key": "get_11106_1-dlg",
+    "original": "さぁ、決闘を受け入れろ。或いは卑しく逃げるか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、決闘を受け入れろ。或いは卑しく逃げるか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 결투를 받아들여라. 혹은 추하게 도망치거나.\nEN:\nNow, accept the duel. Or flee like the dirty coward you are."
+  },
+  {
+    "key": "lobby_morning_11106_1-desc",
+    "original": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아침 인사\nEN:\nMorning Greeting"
+  },
+  {
+    "key": "lobby_morning_11106_1-dlg",
+    "original": "昨夜はいかがお過ごしになられましたでしょうか。挨拶が手短になってしまい申し訳ありません。すぐに次の予定がありますので。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昨夜はいかがお過ごしになられましたでしょうか。挨拶が手短になってしまい申し訳ありません。すぐに次の予定がありますので。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n간밤 동안에는 안녕하셨습니까. 인사를 짧게 드려 죄송하군요. 금방 다음 일정이 있기 때문에.\nEN:\nI hope you had a pleasant night. I must apologize for my curt greeting. I have business to attend to."
+  },
+  {
+    "key": "lobby_noon_11106_1-desc",
+    "original": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점심 인사\nEN:\nAfternoon Greeting"
+  },
+  {
+    "key": "lobby_noon_11106_1-dlg",
+    "original": "なるほど、お昼はこちらで召し上がる予定でしたか。簡単で素早く、高級感ある逸品が魅力ですよね。それでは、わたくしはお先に戻らせていただきます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "なるほど、お昼はこちらで召し上がる予定でしたか。簡単で素早く、高級感ある逸品が魅力ですよね。それでは、わたくしはお先に戻らせていただきます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아하, 점심은 이쪽에서 드실 예정이셨군요. 간단하고 빠르지만, 고급스러운 일품 식사가 매력적이죠. 그럼, 저는 먼저 일어나보겠습니다.\nEN:\nAha, so you plan to dine here. This place is well known for its simple, quick, yet high-quality à la carte meals. Now, if you will excuse me, I must take my leave."
+  },
+  {
+    "key": "lobby_night_11106_1-desc",
+    "original": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저녁 인사\nEN:\nEvening Greeting"
+  },
+  {
+    "key": "lobby_night_11106_1-dlg",
+    "original": "上がられるのですね、ゆっくりお休みくださいませ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "上がられるのですね、ゆっくりお休みくださいませ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이만 들어가시는군요. 편안히 쉬십시오.\nEN:\nTurning in for the night, I see. Rest well."
+  },
+  {
+    "key": "smalltalk_11106_1-desc",
+    "original": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 1\nEN:\nChatter #1"
+  },
+  {
+    "key": "smalltalk_11106_1-dlg",
+    "original": "巡察…ではありません。路地ではいつであれ代理決闘を望む者たちがおりますので、営業を兼ねて回っているだけです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "巡察…ではありません。路地ではいつであれ代理決闘を望む者たちがおりますので、営業を兼ねて回っているだけです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순찰… 은 아닙니다. 골목가에는 꼭 대리 결투를 바라는 자들이 있기에, 영업 차원으로 돌아다닐 뿐이죠.\nEN:\nI wouldn't call this a patrol... no. The alleys are rife with those who seek us to duel in their stead. I am simply in search of potential clients."
+  },
+  {
+    "key": "smalltalk_11106_2-desc",
+    "original": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 2\nEN:\nChatter #2"
+  },
+  {
+    "key": "smalltalk_11106_2-dlg",
+    "original": "戦闘では全ての動きが重要ですが…私はその中でも、最初の「応じ」が重要だと考えております。\n必ず相手を貫こうとする…真剣さが込められた一戟です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘では全ての動きが重要ですが…私はその中でも、最初の「応じ」が重要だと考えております。\n必ず相手を貫こうとする…真剣さが込められた一戟です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 전투의 움직임이 중요하겠지만… 저는 그 중에서도 딱 한 합이 중요하다고 생각합니다.\n반드시 상대를 꿰뚫고 말겠다는… 진정함을 담은 한 합 말입니다.\nEN:\nIn combat, every move is critical indeed... But I am of the opinion that there is one move that holds paramount importance.\nA single clash, a determined thrust to impale my opponent."
+  },
+  {
+    "key": "smalltalk_11106_3-desc",
+    "original": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 3\nEN:\nChatter #3"
+  },
+  {
+    "key": "smalltalk_11106_3-dlg",
+    "original": "確かに、多数の敵を相手することは我々の戦闘方式と縁遠くはあります。\nしかし、彼らが狭い路地へ列をなして来るのであればいくらでも対応してやれますよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "確かに、多数の敵を相手することは我々の戦闘方式と縁遠くはあります。\nしかし、彼らが狭い路地へ列をなして来るのであればいくらでも対応してやれますよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무래도, 다수의 적을 상대하는 건 저희의 전투 방식과는 거리가 멀긴 합니다.\n하지만, 그들이 좁은 골목에서 줄지어 온다면 얼마든지 대응해 줄 수 있습니다.\nEN:\nFighting multiple enemies at once is antithetical to the way we duel, yes.\nBut if they were to be corralled into a narrow alleyway, I am rather confident that I should have no trouble making short work of them."
+  },
+  {
+    "key": "smalltalk_11106_4-desc",
+    "original": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 1\nEN:\nPost-Uptie Chat 1"
+  },
+  {
+    "key": "smalltalk_11106_4-dlg",
+    "original": "剣先を遊ばせされる状況が常というわけではありません。長い剣が邪魔になるほどの近距離で敵を相手することも多いです。\nそういうときに備えたとっておきの技を一つくらいは、習得しておくべきですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣先を遊ばせる状況が常というわけではありません。長い剣が邪魔になるほどの近距離で敵を相手することも多いです。\nそういうときに備えたとっておきの技を一つくらいは、習得しておくべきですね。\n<CMT_KR>오식: \"剣先を遊ばせ「され」る状況が常というわけではありません。\" 정확: \"剣先を遊ばせ「」る状況が常というわけではありません。\"\n<CMT_EN>Typo: \"剣先を遊ばせ「され」る状況が常というわけではありません。\" Correction: \"剣先を遊ばせ「」る状況が常というわけではありません。\"\n<CMT_JP>誤植: \"剣先を遊ばせ「され」る状況が常というわけではありません。\" 訂正後: \"剣先を遊ばせ「」る状況が常というわけではありません。\"",
+    "stage": 1,
+    "context": "KR:\n검을 놀리는 것만이 예사는 아닙니다. 기다란 검날이 거치적 거릴 정도로 가까운 거리의 적을 상대할 경우도 많습니다.\n그럴 때를 대비한 비장의 기술 하나 정도는, 갖추어야 겠지요.\nEN:\nOne cannot twirl their sword through every battle. Sometimes we face foes that prefer close-quarters combat, so close that our blades become unwieldy.\nI would need to keep a trick up my sleeve in case of such instances."
+  },
+  {
+    "key": "smalltalk_11106_5-desc",
+    "original": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 2\nEN:\nPost-Uptie Chat 2"
+  },
+  {
+    "key": "smalltalk_11106_5-dlg",
+    "original": "酷く興奮した敵が襲いかかってくるときこそ、本当に大きなチャンスです。\nその力をそのまま利用して敵へ返せるからです。なんの力も入れずに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "酷く興奮した敵が襲いかかってくるときこそ、本当に大きなチャンスです。\nその力をそのまま利用して敵へ返せるからです。なんの力も入れずに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔뜩 흥분한 적이 달려들어오는 때야 말로, 가장 커다란 기회입니다.\n그 힘을 그대로 이용해 적에게 돌려줄 수 있기 때문이죠. 아무 힘을 들이지도 않고 말입니다.\nEN:\nA duelist's greatest opportunity is when the opponent attempts a furious charge.\nI can redirect that very force against them without spending much of my own energy."
+  },
+  {
+    "key": "neglect_11106_1-desc",
+    "original": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방치\nEN:\nIdle"
+  },
+  {
+    "key": "neglect_11106_1-dlg",
+    "original": "特にご用件が無ければ…暫し席を外します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特にご用件が無ければ…暫し席を外します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특별한 용건이 없다면… 잠시 자리를 비우겠습니다.\nEN:\nI will take my leave, if you have no further business to discuss."
+  },
+  {
+    "key": "gacksung_11106_1-desc",
+    "original": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 진행\nEN:\nUptying"
+  },
+  {
+    "key": "gacksung_11106_1-dlg",
+    "original": "はい、認めていただけるのであれば光栄でございます。引き続き失望させず、たゆまぬ姿勢をご覧に入れます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はい、認めていただけるのであれば光栄でございます。引き続き失望させず、たゆまぬ姿勢をご覧に入れます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예, 인정해 주신다면 영광일 따름입니다. 계속해서 실망스럽지 않은 모습을 보여드리겠습니다.\nEN:\nYes, it is an honor to be acknowledged by you. I will not disappoint."
+  },
+  {
+    "key": "formation_11106_1-desc",
+    "original": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 편성\nEN:\nDeployment"
+  },
+  {
+    "key": "formation_11106_1-dlg",
+    "original": "いつでも準備できている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いつでも準備できている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n언제나 준비되어있다.\nEN:\nI'm always ready."
+  },
+  {
+    "key": "battleentry_11106_1-desc",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nStage Entry"
+  },
+  {
+    "key": "battleentry_11106_1-dlg",
+    "original": "私の相手は、どこにいる！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私の相手は、どこにいる！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나의 상대는, 어디 있는가!\nEN:\nStep forth, my opponent!"
+  },
+  {
+    "key": "battle_select_11106_1-desc",
+    "original": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 인격 선택\nEN:\nViewed in Battle"
+  },
+  {
+    "key": "battle_select_11106_1-dlg",
+    "original": "…今は忙しいです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…今は忙しいです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…지금은 바쁩니다.\nEN:\n... I'm a bit preoccupied at the moment."
+  },
+  {
+    "key": "battle_endcommand_11106_1-desc",
+    "original": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 시작\nEN:\nCommencing Attack"
+  },
+  {
+    "key": "battle_endcommand_11106_1-dlg",
+    "original": "完璧な距離だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完璧な距離だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완벽한 거리군.\nEN:\nA perfect distance."
+  },
+  {
+    "key": "battle_enemy_break_11106_1-desc",
+    "original": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 흐트러질 시 대사\nEN:\nEnemy Stagger"
+  },
+  {
+    "key": "battle_enemy_break_11106_1-dlg",
+    "original": "ふん、明け透けだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふん、明け透けだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흥, 뻔하지.\nEN:\nHmph, predictable."
+  },
+  {
+    "key": "battle_break_11106_1-desc",
+    "original": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러질 시 대사\nEN:\nStaggered"
+  },
+  {
+    "key": "battle_break_11106_1-dlg",
+    "original": "うっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うっ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n윽…\nEN:\nAgh..."
+  },
+  {
+    "key": "battle_kill_11106_1-desc",
+    "original": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치\nEN:\nEnemy Killed"
+  },
+  {
+    "key": "battle_kill_11106_1-dlg",
+    "original": "さぁ、私の勝利だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "さぁ、私の勝利だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자, 나의 승리다.\nEN:\nAh, my victory."
+  },
+  {
+    "key": "battle_dead_11106_1-desc",
+    "original": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본인 사망\nEN:\nDeath"
+  },
+  {
+    "key": "battle_dead_11106_1-dlg",
+    "original": "ぐっ…こんな…羞恥…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぐっ…こんな…羞恥…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크윽… 이런… 수치가…\nEN:\nGah... what... a shame..."
+  },
+  {
+    "key": "choice_success_p_11106_2-desc",
+    "original": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 성공\nEN:\nCheck Passed"
+  },
+  {
+    "key": "choice_success_p_11106_2-dlg",
+    "original": "ふん、ややこしい技ではなかったな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふん、ややこしい技ではなかったな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흠, 어려운 수법은 아니더군.\nEN:\nHm, that was rather straightforward."
+  },
+  {
+    "key": "choice_fail_n_11106_1-desc",
+    "original": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 실패\nEN:\nCheck Failed"
+  },
+  {
+    "key": "choice_fail_n_11106_1-dlg",
+    "original": "こんな決闘は、予想に…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こんな決闘は、予想に…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…이런 결투는 예상에 없던…\nEN:\n... I wasn't expecting to duel something like this..."
+  },
+  {
+    "key": "battle_clear_11106_1-desc",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "battle_clear_11106_1-dlg",
+    "original": "潔い決闘でした。皆がこの剣の前に沈黙しましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "潔い決闘でした。皆がこの剣の前に沈黙しましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깔끔한 결투였습니다. 모두가 이 검 앞에 침묵했군요.\nEN:\nA fair duel. All fell silent before this blade."
+  },
+  {
+    "key": "battle_clear_ex_11106_1-desc",
+    "original": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nEX CLEAR 전투 승리\nEN:\nExtra Conditions Fulfilled"
+  },
+  {
+    "key": "battle_clear_ex_11106_1-dlg",
+    "original": "先ほどの決闘を絵にするなら、きっとそれは傑作となるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "先ほどの決闘を絵にするなら、きっとそれは傑作となるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방금의 결투를 그림으로 그려냈다면, 분명 이것은 걸작이었을 것입니다.\nEN:\nI can say with certainty that a painting of this duel would become nothing short of a masterpiece."
+  },
+  {
+    "key": "battle_defeat_11106_1-desc",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
+  },
+  {
+    "key": "battle_defeat_11106_1-dlg",
+    "original": "結果に承服することも決闘者の礼法…でしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "結果に承服することも決闘者の礼法…でしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결과에 승복하는 것도 결투자의 예법… 이겠죠.\nEN:\nI suppose a proper duelist must accept when she is... beaten."
+  }
+]

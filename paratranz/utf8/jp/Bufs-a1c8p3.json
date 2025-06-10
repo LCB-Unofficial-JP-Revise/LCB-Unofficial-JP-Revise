@@ -1,0 +1,744 @@
+[
+  {
+    "key": "Bothersome-name",
+    "original": "切斬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "切斬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절참 [切斬]\nEN:\nSevering Slash [切斬]"
+  },
+  {
+    "key": "Bothersome-desc",
+    "original": "- 対象の斬撃耐性の弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 対象の斬撃耐性を弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>오식: \"- 対象の斬撃耐性「の」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\" 정확: \"- 対象の斬撃耐性「を」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\"\n<CMT_EN>Typo: \"- 対象の斬撃耐性「の」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\" Correction: \"- 対象の斬撃耐性「を」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\"\n<CMT_JP>誤植: \"- 対象の斬撃耐性「の」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\" 訂正後: \"- 対象の斬撃耐性「を」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\"",
+    "stage": 1,
+    "context": "KR:\n- 대상의 참격 내성을 약점(1.5)으로 취급함 (대상의 참격 내성이 1.5 이상인 경우에는 적용되지 않음)\n- 턴 종료 시, 사라짐\nEN:\n- The target's Slash Resistance counts as 'Weak'(1.5). (does not activate against targets with 1.5 or higher Slash Resistance)\n- Expires at Turn End"
+  },
+  {
+    "key": "VibrationIgnition-name",
+    "original": "振動 - 灼熱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動 - 灼熱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 - 작열\nEN:\nTremor - Scorch"
+  },
+  {
+    "key": "VibrationIgnition-desc",
+    "original": "- 振動 爆発時、(振動 威力と火傷 威力の合計 ÷ 2)だけ憤怒ダメージを受けて回数が1減少\n- 振動 爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 振動 爆発時、(振動 威力と火傷 威力の合計 ÷ 2)だけ憤怒ダメージを受けて回数が1減少\n- 振動 爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 진동 폭발 시 (진동 위력과 화상 위력의 합/2)만큼 분노 피해를 입고 화상 횟수 1 감소\n- 진동 폭발 스킬로 피격 시, 효과 위력만큼 흐트러짐 손상\n- 턴 종료 후 횟수 1 감소\n(진동 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)\nEN:\n- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold equal by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)"
+  },
+  {
+    "key": "BulletPropellant-name",
+    "original": "虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호표탄\nEN:\nTigermark Round"
+  },
+  {
+    "key": "BulletPropellant-desc",
+    "original": "- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 最大値 : 6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 最大値 : 6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 특수 탄환\n- 특정 스킬 사용 시 소모\n- 최댓값 : 6\nEN:\n- Unique Ammo\n- Spent by certain Skills\n- Max Stack: 6"
+  },
+  {
+    "key": "BulletPropellantSpecial-name",
+    "original": "猛虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹호표탄\nEN:\nSavage Tigermark Round"
+  },
+  {
+    "key": "BulletPropellantSpecial-desc",
+    "original": "- 特殊弾丸\n- 特定スキル使用時に消耗 (虎標弾の効果が適用される)\n- 装着した弾丸と、残った弾丸がこの効果の威力と回数として表記される\n· 威力最大値(装着した弾丸) : 6\n- この弾丸を消耗したコインのダメージ量が30%だけ増加し、付与する火傷 威力、火傷 回数の付与値が2倍に増加\n- 装着した弾丸と残った弾丸を全て消耗したなら、虎標弾に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 特殊弾丸\n- 特定スキル使用時に消耗 (虎標弾の効果が適用される)\n- 装着した弾丸と、残った弾丸がこの効果の威力と回数として表記される\n· 威力最大値(装着した弾丸) : 6\n- この弾丸を消耗したコインのダメージ量が30%だけ増加し、付与する火傷 威力、火傷 回数の付与値が2倍に増加\n- 装着した弾丸と残った弾丸を全て消耗したなら、虎標弾に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 특수 탄환\n- 특정 스킬 사용 시 소모 (호표탄의 효과가 적용됨)\n- 장착한 탄환과 남은 탄환이 이 효과의 위력과 횟수로 표기됨\n· 위력 최댓값 (장착한 탄환) : 6\n- 이 탄환을 소모한 코인의 피해량이 30%만큼 증가하고, 부여하는 화상 위력, 화상 횟수의 부여값이 2배로 증가\n- 장착한 탄환과 남은 탄환을 전부 소모하면 호표탄으로 변경\nEN:\n- Unique Ammo\n- Spent by certain Skills (actives the same way as Tigermark Round does)\n- The Potency and the Count of this effect are \"Loaded Ammo\" and \"Remaining Ammo\", respectively\n· Max Potency (Loaded Ammo): 6\n- Coins that spent this Ammo deal +30% damage, and inflict double the normal amount of Burn Potency and Count\n- When all Loaded Ammo and Remaining Ammo are spent, converts back to Tigermark Round"
+  },
+  {
+    "key": "Prey-name",
+    "original": "獲物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "獲物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사냥감\nEN:\nPrey"
+  },
+  {
+    "key": "Prey-desc",
+    "original": "- 敵とマッチ進行時、マッチ威力 - 5\n- 戦闘開始時、\n· 攻撃スキルを装着したなら、攻撃スキルでレイホンへの与ダメージ量が50%だけ減少\n· 守備スキルを装着したなら、レイホンからの被ダメージ量が75%だけ減少\n- この効果を保有した状態でレイホンとマッチして勝利時、保有量が最も少ないE.G.O資源を3個獲得\n- ターン終了時に消滅し、自分の精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 敵とマッチ進行時、マッチ威力 - 5\n- 戦闘開始時、\n· 攻撃スキルを装着したなら、攻撃スキルでレイホンへの与ダメージ量が50%だけ減少\n· 守備スキルを装着したなら、レイホンからの被ダメージ量が75%だけ減少\n- この効果を保有した状態でレイホンとマッチして勝利時、保有量が最も少ないE.G.O資源を3個獲得\n- ターン終了時に消滅し、自分の精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 적과 합 진행 시, 합 위력 - 5\n- 전투 시작 시,\n· 공격 스킬을 장착하였다면 공격 스킬로 뇌횡에게 가하는 피해량이 50%만큼 감소\n· 수비 스킬을 장착하였다면 뇌횡에게 받는 피해량이 75%만큼 감소\n- 이 효과를 보유한 상태에서 뇌횡과 합하여 승리 시, 제일 적게 보유한 E.G.O 자원 3개 획득\n- 턴 종료 시 사라지고, 자신의 정신력 10 회복\nEN:\n- In a Clash with an enemy, Clash Power -5\n- Combat Start:\n· If this unit equipped an Attack Skill, deal -50% damage against Lei Heng with Attack Skills\n· If this unit equipped a Defense Skill, take -75% damage from Lei Heng\n- If this unit wins a Clash against Lei Heng while under this effect, gain 3 of the least-owned E.G.O Resources\n- Expires at Turn End; this unit heals 10 SP"
+  },
+  {
+    "key": "Complacency-name",
+    "original": "オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오버히트\nEN:\nOverheat"
+  },
+  {
+    "key": "Complacency-desc",
+    "original": "- 最大値 : 5\n- ターン開始時、数値だけマッチ威力減少、脆弱を得る\n- ターン終了時に減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 5\n- ターン開始時、数値だけマッチ威力減少、脆弱を得る\n- ターン終了時に減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 5\n- 턴 시작 시, 수치만큼 합 위력 감소, 취약 얻음\n- 턴 종료 시, 사라짐\nEN:\n- Max Stack: 5\n- Turn Start: gain Clash Power Down and Fragile equal to the Stack\n- Expires at Turn End"
+  },
+  {
+    "key": "BattleSense-name",
+    "original": "底力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "底力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저력 [底力]\nEN:\nInner Strength [底力]"
+  },
+  {
+    "key": "BattleSense-desc",
+    "original": "- 最大値 : 25\n- 特定スキル使用時に消耗し、該当ターン終了時に消耗した数値だけ精神力を回復\n- マッチを進行する度に1増加(スキルごとに最大5)。マッチ敗北時、該当ターンにてマッチで得たスタックを失う\n- 一方攻撃で的中時、2増加 (スキルごとに最大10)\n- 累計消耗数値に比例して、ターン終了時に次のターンにてクイックを得る (数値25につきクイック1, 最大2)\n- 特定パターン時、バフが変更される\n\n- 累計消耗量 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 25\n- 特定スキル使用時に消耗し、該当ターン終了時に消耗した数値だけ精神力を回復\n- マッチを進行する度に1増加(スキルごとに最大5)。マッチ敗北時、該当ターンにてマッチで得たスタックを失う\n- 一方攻撃で的中時、2増加 (スキルごとに最大10)\n- 累計消耗数値に比例して、ターン終了時に次のターンにてクイックを得る (数値25につきクイック1, 最大2)\n- 特定パターン時、バフが変更される\n\n- 累計消耗量 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 25\n- 특정 스킬 사용 시 소모하며, 해당 턴 종료 시 소모한 수치만큼 정신력을 회복\n- 합을 진행할 때마다 1 증가 (스킬당 최대 5). 합 패배 시, 해당 합에서 얻은 스택을 잃음\n- 일방 공격으로 적중 시 2 증가 (스킬당 최대 10)\n- 누적 소모한 수치에 비례하여 턴 종료 시 다음 턴에 신속 얻음 (수치 25당 신속 1, 최대 2)\n- 특정 패턴 시, 버프가 변경됨\n\n- 누적 소모량 : {0}\nEN:\n- Max Stack: 25\n- Consumed by certain Skills; at Turn End, heal SP equal to the Stack consumed by the end of the turn\n- Gain 1 Stack with every Clash (max 5 per Skill). On Clash Lose, lose the Stacks gained from the said Clash\n- Gain 2 Stack when hitting with an Unopposed Attack (max 10 per Skill)\n- Turn End: next turn, gain Haste based on the total Stack consumed this turn (1 Haste per 25 Stack; max 2)\n- Gains a different buff when using a specific pattern\n\n- Total Stacks Consumed: {0}"
+  },
+  {
+    "key": "RestoredBattleSense-name",
+    "original": "極力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "極力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n극력 [極力]\nEN:\nExtreme Strength [極力]"
+  },
+  {
+    "key": "RestoredBattleSense-desc",
+    "original": "- 最大値 : 50\n- 底力 として扱う。特定スキル使用時に消耗し、該当ターン終了時に消耗した数値だけ精神力を回復\n- マッチを進行する度に2増加(スキルごとに最大10)。マッチ敗北時、該当ターンにてマッチで得たスタックを失う\n- 一方攻撃で的中時、3増加 (スキルごとに最大15)\n- 累計消耗数値に比例して、ターン終了時に次のターンにてクイックを得る (数値25につきクイック1, 最大5)\n\n- 累計消耗量 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 50\n- 底力 として扱う。特定スキル使用時に消耗し、該当ターン終了時に消耗した数値だけ精神力を回復\n- マッチを進行する度に2増加(スキルごとに最大10)。マッチ敗北時、該当ターンにてマッチで得たスタックを失う\n- 一方攻撃で的中時、3増加 (スキルごとに最大15)\n- 累計消耗数値に比例して、ターン終了時に次のターンにてクイックを得る (数値25につきクイック1, 最大5)\n\n- 累計消耗量 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 50\n- 저력으로 취급함. 특정 스킬 사용 시 소모하며, 해당 턴 종료 시 소모한 수치만큼 정신력을 회복\n- 합을 진행할 때마다 2 증가 (스킬당 최대 10). 합 패배 시, 해당 합에서 얻은 스택을 잃음\n- 일방 공격으로 적중 시 3 증가 (스킬당 최대 15)\n- 누적 소모한 수치에 비례하여 턴 종료 시 다음 턴에 신속 얻음 (수치 25당 신속 1, 최대 5)\n\n- 누적 소모량 : {0}\nEN:\n- Max Stack: 50\n- Counts as \"Inner Strength\". Consumed by certain Skills; at Turn End, heal SP equal to the Stack consumed by the end of the turn.\n- Gain 2 Stack with every Clash (max 10 per Skill). On Clash Lose, lose the Stacks gained from the said Clash\n- Gain 3 Stack when hitting with an Unopposed Attack (max 15 per Skill)\n- Turn End: next turn, gain Haste based on the total Stack consumed this turn (1 Haste per 25 Stack, max 5)\n\n- Total Stacks Consumed: {0}"
+  },
+  {
+    "key": "Irritation-name",
+    "original": "剛気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剛気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강기 [剛氣]\nEN:\nUnrelenting Spirit [剛氣]"
+  },
+  {
+    "key": "Irritation-desc",
+    "original": "- ターン開始時、失った体力20%につきダメージ量増加 1, 威力増加 1を得る(それぞれ最大3)\n- スキルで敵へ付与する振動 威力付与量 +2\n- 自分の速度が対象の速度より3以上高ければ、ダメージ量 +(対象との速度差 × 5)% (最大20%)\n- 「三連撃 - 爆」の最終コインが破壊不能コインになる\n- 特定パターン時、このバフが「剛気 - 心」に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン開始時、失った体力20%につきダメージ量増加 1, 威力増加 1を得る(それぞれ最大3)\n- スキルで敵へ付与する振動 威力付与量 +2\n- 自分の速度が対象の速度より3以上高ければ、ダメージ量 +(対象との速度差 × 5)% (最大20%)\n- 「三連撃 - 爆」の最終コインが破壊不能コインになる\n- 特定パターン時、このバフが「剛気 - 心」に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시, 잃은 체력 20%당 피해량 증가 1, 위력 증가 1 얻음 (각각 최대 3)\n- 적에게 스킬로 부여하는 진동 위력 부여량 +2\n- 자신의 속도가 대상의 속도보다 3 이상 높으면, 피해량 +(대상과의 속도 차이 x 5)% (최대 20%)\n- '삼연격-폭'의 마지막 코인이 파괴 불가 코인으로 변경\n- 특정 패턴 시, 이 버프가 '강기-신'으로 변경\nEN:\n- Turn Start: gain 1 Damage Up and 1 Power Up for every 20% missing HP on self (max 3 each)\n- Inflict +2 more Tremor Potency with this unit's Skills\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 20%)\n- Convert the final Coin of 'Triple Slash - Burst' to an Unbreakable Coin\n- This buff changes into Unrelenting Spirit - Shin when using a specific pattern"
+  },
+  {
+    "key": "HugeIrritation-name",
+    "original": "剛気-心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剛気-心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강기-신 [剛氣-心]\nEN:\nUnrelenting Spirit - Shin [剛氣-心]"
+  },
+  {
+    "key": "HugeIrritation-desc",
+    "original": "- ターン開始時、失った体力15%につきダメージ量増加 1, 威力増加 1を得る(それぞれ最大5)\n- スキルで敵へ付与する振動 威力付与量 +3, 振動 回数の増加量 +1\n- 自分の速度が対象の速度より3以上高ければ、ダメージ量 +(対象との速度差 × 5)% (最大20%)\n- 「二連撃-爆」「三連撃 - 爆」の最終コインが破壊不能コインになる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン開始時、失った体力15%につきダメージ量増加 1, 威力増加 1を得る(それぞれ最大5)\n- スキルで敵へ付与する振動 威力付与量 +3, 振動 回数の増加量 +1\n- 自分の速度が対象の速度より3以上高ければ、ダメージ量 +(対象との速度差 × 5)% (最大20%)\n- 「二連撃-爆」「三連撃 - 爆」の最終コインが破壊不能コインになる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시, 잃은 체력 15%당 피해량 증가 1, 위력 증가 1 얻음 (각각 최대 5)\n- 적에게 스킬로 부여하는 진동 위력 부여량 +3, 진동 횟수 증가량 +1\n- 자신의 속도가 대상의 속도보다 3 이상 높으면, 피해량 +(대상과의 속도 차이 x 5)% (최대 20%)\n- '이연참-폭', '삼연격-폭'의 마지막 코인이 파괴 불가 코인으로 변경\nEN:\n- Turn Start: gain 1 Damage Up and 1 Power Up for every 15% missing HP on self (max 5 each)\n- Inflict +3 more Tremor Potency and +1 more Tremor Count with this unit's Skills\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 20%)\n- Convert the final Coins of 'Double Slash - Blast' and 'Triple Slash - Burst' to Unbreakable Coins"
+  },
+  {
+    "key": "ReloadKeepAmmo-name",
+    "original": "再装填 - 残弾維持\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再装填 - 残弾維持\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재장전 - 잔탄 유지\nEN:\nReload - Tactical"
+  },
+  {
+    "key": "ReloadKeepAmmo-desc",
+    "original": "- 弾丸を獲得可能な最大数値だけ再び得る (ただし、保有している弾丸を捨てない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 弾丸を獲得可能な最大数値だけ再び得る (ただし、保有している弾丸を捨てない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 탄환을 획득 가능한 최대 수치만큼 다시 얻음 (단, 보유한 탄환을 버리지 않음)\nEN:\n- Restore this unit's Ammo to its maximum capacity (does not discard any remaining Ammo)"
+  },
+  {
+    "key": "BeastEyes_LowMorale-name",
+    "original": "猛獣の本能 - 士気低下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛獣の本能 - 士気低下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹수의 본능 - 사기저하\nEN:\nBeastly Instinct - Low Morale"
+  },
+  {
+    "key": "BeastEyes_LowMorale-desc",
+    "original": "- 自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差 ÷ 2)%だけ増加 (最大10%)\n- ターン開始時、最終威力増加1, ダメージ量増加1, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差 ÷ 2)%だけ増加 (最大10%)\n- ターン開始時、最終威力増加1, ダメージ量増加1, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신보다 남은 체력 비율이 더 높은 대상에게 입히는 피해량이 (체력 비율 차이/2)%만큼 증가 (최대 10%)\n- 턴 시작 시, 최종 위력 증가 1, 피해량 증가 1, 취약 1 얻음\nEN:\n- Deals +(HP percentage difference / 2)% damage to targets with higher HP percentages that this unit's (max 10%)\n- Turn Start: gain 1 Final Power Up, 1 Damage Up, and 1 Fragile"
+  },
+  {
+    "key": "BeastEyes_Panic-name",
+    "original": "猛獣の本能 - パニック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛獣の本能 - パニック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹수의 본능 - 패닉\nEN:\nBeastly Instinct - Panic"
+  },
+  {
+    "key": "BeastEyes_Panic-desc",
+    "original": "- 自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差)%だけ増加 (最大25%)\n- ターン開始時、コイン威力増加1, ダメージ量増加2, 脆弱2を得る\n- 次のターン開始時、自分の失った体力の比率の数値だけ精神力を回復(最大25)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差)%だけ増加 (最大25%)\n- ターン開始時、コイン威力増加1, ダメージ量増加2, 脆弱2を得る\n- 次のターン開始時、自分の失った体力の比率の数値だけ精神力を回復(最大25)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신보다 남은 체력 비율이 더 높은 대상에게 입히는 피해량이 (체력 비율 차이)%만큼 증가 (최대 25%)\n- 턴 시작 시, 코인 위력 증가 1, 피해량 증가 2, 취약 2 얻음\n- 다음 턴 시작 시, 자신의 잃은 체력 비율 수치만큼 정신력 회복 (최대 25)\nEN:\n- Deals +(HP percentage difference)% damage to targets with higher HP percentages that this unit's (max 25%)\n- Turn Start: gain 1 Coin Power Up, 2 Damage Up, and 2 Fragile\n- Next Turn Start: heal SP equal to this unit's missing HP percentage (max 25)"
+  },
+  {
+    "key": "DisengageCombat-name",
+    "original": "戦闘離脱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘離脱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 이탈\nEN:\nEscape Battle"
+  },
+  {
+    "key": "DisengageCombat-desc",
+    "original": "- ターン終了時、混乱状態を解除して戦闘から離脱する(強制混乱を除く、死亡として処理されない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン終了時、混乱状態を解除して戦闘から離脱する(強制混乱を除く、死亡として処理されない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 종료 시 흐트러짐 상태를 해제하고 전투에서 이탈함 (강제 흐트러짐 제외, 사망으로 처리되지 않음)\nEN:\n- Turn End: recover from Stagger and escape from the Encounter (unless it's a forced Stagger; does not count as death)"
+  },
+  {
+    "key": "Chesed_Mercy-name",
+    "original": "ケセドの慈悲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ケセドの慈悲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헤세드의 자비\nEN:\nChesed's Mercy"
+  },
+  {
+    "key": "Chesed_Mercy-desc",
+    "original": "- 全キャラクターの攻撃・防御レベルが平均化される\n- 味方人格はケセド効果が適用されてから攻撃レベル3, 防御レベル6を追加で得る\n- [初回解放効果] ケセドの慈悲が今回の戦闘中、持続する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 全キャラクターの攻撃・防御レベルが平均化される\n- 味方人格はケセド効果が適用されてから攻撃レベル3, 防御レベル6を追加で得る\n- [初回解放効果] ケセドの慈悲が今回の戦闘中、持続する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 모든 캐릭터의 공격 레벨, 방어 레벨이 평균으로 조정됨\n- 아군 인격은 헤세드 효과가 적용된 후 공격 레벨 3, 방어 레벨 6을 추가로 얻음\n- [최초 개방 효과] 헤세드의 자비가 이번 전투 동안 지속됨\nEN:\n- Averages the Offense Level and Defense Level of all units\n- After the Chesed effect activates, allied Identities gain 3 Offense Levels and 6 Defense Levels\n- [First-time Unleashing Effect]: \"Chesed's Mercy\" lasts for the duration of this Encounter"
+  },
+  {
+    "key": "Ryoshu_Attackup-name",
+    "original": "滅多斬りにされた記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "滅多斬りにされた記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n난도질당한 기억\nEN:\nMutilated Memory"
+  },
+  {
+    "key": "Ryoshu_Attackup-desc",
+    "original": "[良秀特殊効果]\n- 今回の戦闘にて、レイホンからの被ダメージ量 +(現ターン数 × 2.5)% (最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[良秀特殊効果]\n- 今回の戦闘にて、レイホンからの被ダメージ量 +(現ターン数 × 2.5)% (最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[료슈 특수 효과]\n- 이번 전투에서 뇌횡에게 입히는 피해량 +(현재 턴 수 x 2.5)% (최대 30%)\nEN:\n[Ryōshū Exclusive Effect]\n- Deal +(Current Turn Count x 2.5)% damage against Lei Heng in this Encounter (max 30%)"
+  },
+  {
+    "key": "Honglu_EGOResourceup-name",
+    "original": "僕の心と考え…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕の心と考え…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나의 마음과 생각...\nEN:\nMy Heart, My Own Thoughts..."
+  },
+  {
+    "key": "Honglu_EGOResourceup-desc",
+    "original": "[ホンル特殊効果]\n- 今回の戦闘にて、自分のスキル攻撃終了時に該当属性のE.G.O資源2個を追加で獲得する(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ホンル特殊効果]\n- 今回の戦闘にて、自分のスキル攻撃終了時に該当属性のE.G.O資源2個を追加で獲得する(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[홍루 특수 효과]\n- 이번 전투에서 자신의 스킬 공격 종료 시 해당 속성의 E.G.O 자원 2개를 추가로 얻음 (턴당 1회)\nEN:\n[Hong Lu Exclusive Effect]\n- For this Encounter: after using a Skill Attack, gain 2 additional E.G.O resources of the Skill's Affinity (once per turn)"
+  },
+  {
+    "key": "BudgetBulletPropellant-name",
+    "original": "推進弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "推進弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추진탄\nEN:\nPropellant Ammo"
+  },
+  {
+    "key": "BudgetBulletPropellant-desc",
+    "original": "- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 最大値 : 4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 最大値 : 4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 특수 탄환\n- 특정 스킬 사용 시 소모\n- 최댓값 : 4\nEN:\n- Unique Ammo\n- Spent by certain Skills\n- Max Stack: 4"
+  },
+  {
+    "key": "NEgoFleshSpatula_LowMorale-name",
+    "original": "肉片のへら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉片のへら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살점 주걱\nEN:\nFlesh Scoop"
+  },
+  {
+    "key": "NEgoFleshSpatula_LowMorale-desc",
+    "original": "- 士気低下\n- ターン開始時に出血5を得る、攻撃威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ターン開始時に出血5を得る、攻撃威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 턴 시작시 출혈 5 획득, 공격 위력 증가 1 얻음\nEN:\n- Low Morale\nTurn Start: Gain 5 Bleed and 1 Attack Power Up"
+  },
+  {
+    "key": "NEgoFleshSpatula_Panic-name",
+    "original": "肉片のへら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉片のへら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살점 주걱\nEN:\nFlesh Scoop"
+  },
+  {
+    "key": "NEgoFleshSpatula_Panic-desc",
+    "original": "- パニック\n- ターン開始時に出血10を得る、攻撃威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- ターン開始時に出血10を得る、攻撃威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 턴 시작시 출혈 10 획득, 공격 위력 증가 2 얻음\nEN:\n- Low Morale\nTurn Start: Gain 10 Bleed and 2 Attack Power Up"
+  },
+  {
+    "key": "LeRegole_LowMorale-name",
+    "original": "規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규율\nEN:\nLe Regole"
+  },
+  {
+    "key": "LeRegole_LowMorale-desc",
+    "original": "- 士気低下\n- 前のターンに振動 を2以上付与したなら、怠惰ダメージ量増加1を得る\n- 前のターンに火傷 を2以上付与したなら、憤怒ダメージ量増加1を得る\n- 何も付与できなければ、防御レベル減少2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 前のターンに振動 を2以上付与したなら、怠惰ダメージ量増加1を得る\n- 前のターンに火傷 を2以上付与したなら、憤怒ダメージ量増加1を得る\n- 何も付与できなければ、防御レベル減少2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 전 턴에 진동을 2 이상 부여 했다면, 나태 피해량 증가 1 획득,\n- 전 턴에 화상을 2 이상 부여 했다면, 분노 피해량 증가 1 획득,\n- 아무것도 부여하지 못했으면, 방어 레벨 감소 2 얻음\nEN:\n- Low Morale\n- If this unit inflicted 2+ Tremor last turn, gain 1 Sloth DMG Up\n- If this unit inflicted 2+ Burn last turn, gain 1 Wrath DMG Up\n- If this unit failed to inflict anything, gain 2 Defense Level Down"
+  },
+  {
+    "key": "LeRegole_Panic-name",
+    "original": "規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규율\nEN:\nLe Regole"
+  },
+  {
+    "key": "LeRegole_Panic-desc",
+    "original": "- パニック\n- 前のターンに振動 を2以上付与したなら、怠惰ダメージ量増加2を得る\n- 前のターンに火傷 を2以上付与したなら、憤怒ダメージ量増加2を得る\n- 何も付与できなければ、防御レベル減少3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- 前のターンに振動 を2以上付与したなら、怠惰ダメージ量増加2を得る\n- 前のターンに火傷 を2以上付与したなら、憤怒ダメージ量増加2を得る\n- 何も付与できなければ、防御レベル減少3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 전 턴에 진동을 2 이상 부여 했다면, 나태 피해량 증가 2 획득,\n- 전 턴에 화상을 2 이상 부여 했다면, 분노 피해량 증가 2 획득,\n- 아무것도 부여하지 못했으면, 방어 레벨 감소 3 얻음\nEN:\n- Low Morale\n- If this unit inflicted 2+ Tremor last turn, gain 2 Sloth DMG Up\n- If this unit inflicted 2+ Burn last turn, gain 2 Wrath DMG Up\n- If this unit failed to inflict anything, gain 3 Defense Level Down"
+  },
+  {
+    "key": "GazeReplica-name",
+    "original": "視線\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "視線\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시선\nEN:\nGaze"
+  },
+  {
+    "key": "GazeReplica-desc",
+    "original": "- 最大値 : 7\n- 数値1につき、ジア・ファンからの被・与ダメージ量が両方 +10%\n- 数値が7になると軽蔑 に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 7\n- 数値1につき、ジア・ファンからの被・与ダメージ量が両方 +10%\n- 数値が7になると軽蔑 に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대치 : 7\n- 수치 1당 가환에게 받는 피해량과 가하는 피해량 모두 +10%\n- 수치가 7이 되면 경멸로 변경됨\nEN:\n- Max Stack: 7\n- Take and deal +10% damage from and against Jia Huan\n- At 7 Stack, converts to Contempt"
+  },
+  {
+    "key": "ContemptReplica-name",
+    "original": "軽蔑\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "軽蔑\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경멸\nEN:\nContempt"
+  },
+  {
+    "key": "ContemptReplica-desc",
+    "original": "- 最大値 : 1\n- ジア・ファンへの被・与ダメージ量 -50%\n- 軽蔑 を持つ対象は視線 を得られない\n- ターン終了時に消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 1\n- ジア・ファンへの被・与ダメージ量 -50%\n- 軽蔑 を持つ対象は視線 を得られない\n- ターン終了時に消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대치 : 1\n- 가환에게 받는 피해량과 가하는 피해량 -50%\n- 경멸이 있는 대상은 시선을 얻을 수 없음\n- 턴 종료시 소멸\nEN:\n- Max Stack: 1\n- Take and deal -50% damage from and against Jia Huan\n- Targets with Contempt cannot gain Gaze\n- Expires at Turn End"
+  },
+  {
+    "key": "GraspReplica-name",
+    "original": "掌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "掌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n손아귀\nEN:\nGrasp"
+  },
+  {
+    "key": "GraspReplica-desc",
+    "original": "- 最大値: 4\n- ターン終了時、次のターンに束縛10を得る\n- ターン終了時に数値が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 4\n- ターン終了時、次のターンに束縛10を得る\n- ターン終了時に数値が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대치 : 4\n- 턴 종료시 다음 턴에 속박 10 얻음\n- 턴 종료시 수치 1 감소\nEN:\n- Max Stack: 4\n- Turn End: gain 10 Bind next turn\n- Turn End: lose 1 Stack"
+  },
+  {
+    "key": "EgoErodeReplica-name",
+    "original": "E.G.O侵蝕 - N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O侵蝕 - N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 침식 - N사\nEN:\nE.G.O Corrosion - N Corp."
+  },
+  {
+    "key": "EgoErodeReplica-desc",
+    "original": "- 最大値 : 10\n- ターンが開始する度に下記の効果を適用\n· 数値だけ精神力が減少\n· 数値3につき攻撃威力増加1を得る\n- 数値が最大値なら、ターン終了時に体力最大値の5%だけダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 10\n- ターンが開始する度に下記の効果を適用\n· 数値だけ精神力が減少\n· 数値3につき攻撃威力増加1を得る\n- 数値が最大値なら、ターン終了時に体力最大値の5%だけダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대치 : 10\n- 턴 시작시마다 아래 효과 적용\n· 수치만큼 정신력 감소\n· 수치 3당 공격 위력 증가 1 얻음\n- 수치가 최대치면 턴 종료시 최대 체력의 5%만큼 피해\nEN:\n- Max Stack: 10\n- The following effects activate at every Turn Start:\n· Lose SP by the effect's Stack\n· Gain 1 Attack Power Up for every 3 Stack\n- At Max Stack, take 5% HP damage at Turn End"
+  },
+  {
+    "key": "BoseProjektilReplica-name",
+    "original": "引き裂かれた追憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "引き裂かれた追憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찢어진 추억\nEN:\nTorn Memory"
+  },
+  {
+    "key": "BoseProjektilReplica-desc",
+    "original": "最大値: 7\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大値: 7\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대치: 7\nEN:\nMax Stack: 7"
+  },
+  {
+    "key": "EgoErodeContempt_LowMorale-name",
+    "original": "脆い金で鋳造した心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脆い金で鋳造した心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여린 금으로 주조한 마음\nEN:\nSoft Goldcasted Heart"
+  },
+  {
+    "key": "EgoErodeContempt_LowMorale-desc",
+    "original": "- 士気低下\n- ターン開始時に攻撃威力増加1, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ターン開始時に攻撃威力増加1, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 턴 시작시 공격 위력 증가 1, 취약 1 얻음\nEN:\n- Low Morale\n- Turn Start: Gain 1 Attack Power Up and 1 Fragile"
+  },
+  {
+    "key": "EgoErodeContempt_Panic-name",
+    "original": "脆い金で鋳造した心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脆い金で鋳造した心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여린 금으로 주조한 마음\nEN:\nSoft Goldcasted Heart"
+  },
+  {
+    "key": "EgoErodeContempt_Panic-desc",
+    "original": "- パニック\n- ターン開始時に攻撃威力増加2, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- ターン開始時に攻撃威力増加2, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 턴 시작시 공격 위력 증가 2, 취약 2 얻음\nEN:\n- Panic\n- Turn Start: Gain 2 Attack Power Up and 2 Fragile"
+  },
+  {
+    "key": "EgoErodeMemory_LowMorale-name",
+    "original": "新時代へと向かう心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新時代へと向かう心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새 시대로 향하는 마음\nEN:\nHeart Toward the New Era"
+  },
+  {
+    "key": "EgoErodeMemory_LowMorale-desc",
+    "original": "- 士気低下\n- 攻撃的中時に自分の精神力を3消耗、沈潜2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 攻撃的中時に自分の精神力を3消耗、沈潜2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 공격 적중시 자신의 정신력 3 소모, 침잠 2 부여\nEN:\n- Low Morale\n- On Hit, consume 3 SP on self to inflict 2 Sinking"
+  },
+  {
+    "key": "EgoErodeMemory_Panic-name",
+    "original": "新時代へと向かう心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新時代へと向かう心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새 시대로 향하는 마음\nEN:\nHeart Toward the New Era"
+  },
+  {
+    "key": "EgoErodeMemory_Panic-desc",
+    "original": "- パニック\n- 攻撃的中時に沈潜3を付与、沈潜1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- 攻撃的中時に沈潜3を付与、沈潜1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 공격 적중시 침잠 3 부여, 침잠 1 얻음\nEN:\n- Low Morale\n- On Hit, inflict 3 Sinking and gain 1 Sinking"
+  },
+  {
+    "key": "PileObedient-name",
+    "original": "積み上がる従順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "積み上がる従順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쌓이는 순종\nEN:\nHeaping Obedience"
+  },
+  {
+    "key": "PileObedient-desc",
+    "original": "- ターン終了時に数値が3なら、次のターンにこの効果が空虚な従順 に変更される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン終了時に数値が3なら、次のターンにこの効果が空虚な従順 に変更される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 종료 시 수치가 3이면, 다음 턴에 이 효과가 공허한 순종으로 변경됨\nEN:\n- Turn End: at 3 Stack, convert this effect to Hollow Obedience next turn"
+  },
+  {
+    "key": "Obedient-name",
+    "original": "空虚な従順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "空虚な従順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공허한 순종\nEN:\nHollow Obedience"
+  },
+  {
+    "key": "Obedient-desc",
+    "original": "- ジア・ムーとマッチ侵攻時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ジア・ムーとマッチ進行時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>오식: \"- ジア・ムーとマッチ「侵攻」時、マッチ威力 -2\" 정확: \"- ジア・ムーとマッチ「進行」時、マッチ威力 -2\"\n<CMT_EN>Typo: \"- ジア・ムーとマッチ「侵攻」時、マッチ威力 -2\" Correction: \"- ジア・ムーとマッチ「進行」時、マッチ威力 -2\"\n<CMT_JP>誤植: \"- ジア・ムーとマッチ「侵攻」時、マッチ威力 -2\" 訂正後: \"- ジア・ムーとマッチ「進行」時、マッチ威力 -2\"",
+    "stage": 1,
+    "context": "KR:\n- 가모와 합 진행 시 합 위력 -2\n- 이 캐릭터의 정신력이 45가 되거나 수치가 0이 되면 해제됨\n- 턴 종료 시 1 감소\nEN:\n- Clash Power -2 in Clashes against Jia Mu\n- Expires when this unit's SP reaches 45, or when the Stack drops to 0\n- Turn End: lose 1 Stack"
+  },
+  {
+    "key": "ExpensiveJade-name",
+    "original": "宝玉揺籃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "宝玉揺籃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보옥요람\nEN:\nPrecious Jade's Cradle"
+  },
+  {
+    "key": "ExpensiveJade-desc",
+    "original": "- バフ・体力・精神力が更新されない行動不能状態になり、このキャラクターと繋がった宝玉が生成される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- バフ・体力・精神力が更新されない行動不能状態になり、このキャラクターと繋がった宝玉が生成される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 버프, 체력, 정신력이 갱신되지 않는 행동 불가능 상태가 되고, 이 캐릭터와 연결된 보옥이 생성됨\nEN:\n- Enter an 'Immobilized' state where this unit's buffs, HP, and SP cannot be changed. Forms a Precious Jade connected to this unit"
+  },
+  {
+    "key": "FamilyTreasure-name",
+    "original": "爆発遊戯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "爆発遊戯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n폭발유희\nEN:\nExplosive Amusement"
+  },
+  {
+    "key": "FamilyTreasure-desc",
+    "original": "- ターン終了時\n· 基本値 : 1\n· このユニットと繋がったキャラクターの体力が最大値の25%だけ回復、精神力が20減少\n· 数値が1増加\n· 数値が3なら、自爆スキルを使用する。このキャラクターが自爆で死亡したなら、閉じ込められていたキャラクターへ次のターンに空虚な従順 3を付与する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン終了時\n· 基本値 : 1\n· このユニットと繋がったキャラクターの体力が最大値の25%だけ回復、精神力が20減少\n· 数値が1増加\n· 数値が3なら、自爆スキルを使用する。このキャラクターが自爆で死亡したなら、閉じ込められていたキャラクターへ次のターンに空虚な従順 3を付与する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 종료 시\n· 기본 값 : 1\n· 이 유닛과 연결된 캐릭터의 체력이 최대 체력의 25%만큼 회복, 정신력 20 감소\n· 수치 1 증가\n· 수치가 3이면, 자폭 스킬을 사용함. 이 캐릭터가 자폭으로 사망한 경우, 갇혀있던 캐릭터에게 다음 턴에 공허한 순종 3을 부여함\nEN:\n- On Turn End:\n· Base Stack: 1\n· The unit connected to this unit heals 25% HP and loses 20 SP\n· Gain 1 Stack\n· At 3 Stack, use a self-detonation Skill. If this unit is killed by self-detonation, inflict the caged character with 3 Hollow Obedience next turn"
+  },
+  {
+    "key": "OutpouringAnger-name",
+    "original": "足掻く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "足掻く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n발악\nEN:\nRampage"
+  },
+  {
+    "key": "OutpouringAnger-desc",
+    "original": "- スキル「お前たちはその瞳の力と特別さを、まだ何も分かっていないのだな」のメインターゲットがホンルなら、該当スキルの全コインが、スキル効果を無視して破壊不能コインになる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- スキル「お前たちはその瞳の力と特別さを、まだ何も分かっていないのだな」のメインターゲットがホンルなら、該当スキルの全コインが、スキル効果を無視して破壊不能コインになる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- ‘너희는 그 눈의 힘과 특별함을 아직도 한참을 모르고 있구나’ 스킬의 메인 공격 대상이 홍루면, 해당 스킬의 모든 코인이 스킬 효과를 무시하고 파괴 불가 코인이 됨\nEN:\n- If the 'You do not know the fathoms of the eye's powers, its special nature' Skill's main target is Hong Lu, ignore all Skill effects and convert all Coins on that Skill to Unbreakable Coins"
+  },
+  {
+    "key": "Honglu_Xi-name",
+    "original": "喜び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喜び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨\nEN:\nHappiness"
+  },
+  {
+    "key": "Honglu_Xi-desc",
+    "original": "- ホンルのマッチ威力 +1\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\n- 今回のフェーズにて1回だけ宝玉状態にならない。宝玉状態にするスキルとマッチ進行時、マッチ威力 +5, 該当スキルにてマッチにて勝利した場合、宝玉状態にならず自分の混乱を解除、ジア・ムーの精神力が10減少、ジア・ムーへ脆弱2を付与\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ホンルのマッチ威力 +1\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\n- 今回のフェーズにて1回だけ宝玉状態にならない。宝玉状態にするスキルとマッチ進行時、マッチ威力 +5, 該当スキルにてマッチにて勝利した場合、宝玉状態にならず自分の混乱を解除、ジア・ムーの精神力が10減少、ジア・ムーへ脆弱2を付与\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 홍루의 합 위력 +1\n- 이번 전투에서 다른 아군이 1명 이상 살아있는 경우, 홍루의 체력이 1이 되는 피해를 받았을 때, 사망하지 않고 최대 체력의 50%만큼 체력을 회복함\n- 이번 페이즈에서 1회 보옥 상태가 되지 않음. 보옥 상태로 만드는 스킬과 합 진행 시 합 위력 +5, 해당 스킬과 합에서 승리한 경우, 보옥 상태가 되지 않고 자신의 흐트러짐 해제, 가모의 정신력 10 감소, 가모에게 취약 2 부여\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Hong Lu's Clash Power +1\n- When there are 1 or more surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die and heals 50% HP instead\n- Nullfies the effect that turns this unit into a Precious Jade once. When clashing against Skills that turns this unit into a Precious Jade, Clash Power +5; if this unit wins that Clash, this unit does not become a Precious Jade, recovers from Stagger, reduces Jia Mu's SP by 10, and inflicts 2 Fragile against Jia Mu\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "Honglu_Le-name",
+    "original": "喜び、楽しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喜び、楽しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨, 즐거움\nEN:\nHappiness, Joy"
+  },
+  {
+    "key": "Honglu_Le-desc",
+    "original": "- ホンルの最終威力 +1\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ホンルの最終威力 +1\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 홍루의 최종 위력 +1\n- 합 승리 시, 정신력이 가장 낮은 아군 정신력 5 회복 (자신 포함)\n- 이번 전투에서 다른 아군이 1명 이상 살아있는 경우, 홍루의 체력이 1이 되는 피해를 받았을 때, 사망하지 않고 최대 체력의 50%만큼 체력을 회복함\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Hong Lu's Final Power +1\n- On Clash Win, heal 5 SP for 1 ally with the least SP (including this unit)\n- When there are 1 or more surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die and heals 50% HP instead\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "Honglu_Ai-name",
+    "original": "喜び、楽しみ、哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喜び、楽しみ、哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨, 즐거움, 슬픔\nEN:\nHappiness, Joy, Sorrow"
+  },
+  {
+    "key": "Honglu_Ai-desc",
+    "original": "- ホンルの最終威力 +3\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ホンルの最終威力 +3\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 홍루의 최종 위력 +3\n- 합 승리 시, 정신력이 가장 낮은 아군 정신력 5 회복 (자신 포함)\n- 아군이 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 공격 위력 증가 1을 얻음 (턴 당 1회)\n- 이번 전투에서 다른 아군이 1명 이상 살아있는 경우, 홍루의 체력이 1이 되는 피해를 받았을 때, 사망하지 않고 최대 체력의 50%만큼 체력을 회복함\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Hong Lu's Final Power +3\n- On Clash Win, heal 5 SP for 1 ally with the least SP (including this unit)\n- When an ally is killed, the remaining allies at Turn End gain 1 Attack Power Up next turn (once per turn)\n- When there are 1 or more surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die and heals 50% HP instead\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "Honglu_Nu-name",
+    "original": "喜び、楽しみ、哀しみ、怒り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喜び、楽しみ、哀しみ、怒り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨, 즐거움, 슬픔, 분노\nEN:\nHappiness, Joy, Sorrow, Wrath"
+  },
+  {
+    "key": "Honglu_Nu-desc",
+    "original": "- ホンルの最終威力 +5\n- 毎ターン開始時、全味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\n- 今回の戦闘にて累計で失った体力比率の30%だけダメージ量が増加 (最大100%)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ホンルの最終威力 +5\n- 毎ターン開始時、全味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\n- 今回の戦闘にて他に味方が1名以上生きている場合、ホンルの体力が1になるダメージを受けたとき、死亡せず体力の最大値の50%だけ体力を回復する\n- 今回の戦闘にて累計で失った体力比率の30%だけダメージ量が増加 (最大100%)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 홍루의 최종 위력 +5\n- 매 턴 시작 시 모든 아군의 정신력 5 회복 (자신 포함)\n- 아군이 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 공격 위력 증가 1을 얻음 (턴 당 1회)\n- 이번 전투에서 다른 아군이 1명 이상 살아있는 경우, 홍루의 체력이 1이 되는 피해를 받았을 때, 사망하지 않고 최대 체력의 50%만큼 체력을 회복함\n- 이번 전투에서 누적으로 잃은 체력 비율의 30%만큼 피해량 증가 (최대 100%)\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Hong Lu's Final Power +5\n- Allies heal 5 SP at every Turn Start (including this unit)\n- When an ally is killed, the remaining allies at Turn End gain 1 Attack Power Up next turn (once per turn)\n- When there are 1 or more surviving allies in this Encounter: upon taking fatal damage, Hong Lu does not die and heals 50% HP instead\n- Increases damage dealt by 30% of the total HP percentage this unit has cumulatively lost during this Encounter (max 100%)\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "SupremeEternalLife-name",
+    "original": "至高なる不死\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "至高なる不死\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지고한 불사\nEN:\nSublime Immortality"
+  },
+  {
+    "key": "SupremeEternalLife-desc",
+    "original": "- ターン開始時、ジア・ムーの本体と全部位へ各最大体力の5%だけバリアを付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン開始時、ジア・ムーの本体と全部位へ各最大体力の5%だけバリアを付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시 가모의 본체와 모든 부위에 각 최대 체력의 5%만큼 보호막 부여\nEN:\n- Turn Start: Jia Mu's Core and every Part gain 5% of each of their max HP as Shield"
+  },
+  {
+    "key": "ImperfectEternalLife-name",
+    "original": "不完全な不死\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不完全な不死\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불완전한 불사\nEN:\nImperfect Immortality"
+  },
+  {
+    "key": "ImperfectEternalLife-desc",
+    "original": "- ジア・ムーの特定スキルに被ダメージ時に吸収される\n- この効果がジア・ムーに付与される場合、数値1につき脆弱1を得て、数値が5なら混乱状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ジア・ムーの特定スキルに被ダメージ時に吸収される\n- この効果がジア・ムーに付与される場合、数値1につき脆弱1を得て、数値が5なら混乱状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 가모의 특정 스킬에 피격 시 흡수 당함\n- 이 효과가 가모에게 부여된 경우, 수치당 취약 1 얻고, 수치가 5면, 흐트러짐 상태가 됨\nEN:\n- Absorbed when struck by certain Skills of Jia Mu\n- If this effect was inflicted against Jia Mu, gain 1 Fragile per Stack; at 5 Stack, become Staggered"
+  },
+  {
+    "key": "GoldenBoughSync-name",
+    "original": "不感応\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不感応\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부감응\nEN:\nMalattunement"
+  },
+  {
+    "key": "GoldenBoughSync-desc",
+    "original": "- 基本攻撃レベル +2, 基本防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本攻撃レベル +2, 基本防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본 공격 레벨 +2, 기본 방어 레벨 +2\nEN:\n- Base Offense Level +2, Base Defense Level +2"
+  },
+  {
+    "key": "GoldenBoughSyncDistorted-name",
+    "original": "怪力乱神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怪力乱神\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n괴력난신\nEN:\nSupernatural, Strength, Chaos, and Spirits"
+  },
+  {
+    "key": "GoldenBoughSyncDistorted-desc",
+    "original": "- 基本攻撃レベル +4, 基本防御レベル +4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本攻撃レベル +4, 基本防御レベル +4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본 공격 레벨 +4, 기본 방어 레벨 +4\nEN:\n- Base Offense Level +4, Base Defense Level +4"
+  },
+  {
+    "key": "LastingHongwonWill_LowMorale-name",
+    "original": "継承された鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "継承された鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계승된 홍원의 뜻\nEN:\nInherited Will of Hongyuan"
+  },
+  {
+    "key": "LastingHongwonWill_LowMorale-desc",
+    "original": "- 士気低下\n- 攻撃威力増加2, 束縛1を得る\n- ホンルに胴体部位がマッチ敗北時、次のターンに胴体部位がダメージ量増加1, 脆弱1を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 攻撃威力増加2, 束縛1を得る\n- ホンルに胴体部位がマッチ敗北時、次のターンに胴体部位がダメージ量増加1, 脆弱1を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기저하\n- 공격 위력 증가 2, 속박 1 얻음\n- 홍루에게 몸통 부위가 합 패배 시 다음 턴에 몸통 부위가 피해량 증가 1, 취약 1 얻음 (턴 당 1회)\nEN:\n- Low Morale\n- Gain 2 Attack Power Up and 1 Bind\n- When the Body Part loses a Clash against Hong Lu: the Body Part gains 1 Damage Up and 1 Fragile next turn (once per turn)"
+  },
+  {
+    "key": "LastingHongwonWill_Panic-name",
+    "original": "継承された鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "継承された鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계승된 홍원의 뜻\nEN:\nInherited Will of Hongyuan"
+  },
+  {
+    "key": "LastingHongwonWill_Panic-desc",
+    "original": "- パニック\n- 攻撃威力増加2, 束縛2を得る\n- ホンルに胴体部位がマッチ敗北時、次のターンに胴体部位がダメージ量増加2, 脆弱2を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- 攻撃威力増加2, 束縛2を得る\n- ホンルに胴体部位がマッチ敗北時、次のターンに胴体部位がダメージ量増加2, 脆弱2を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 공격 위력 증가 2, 속박 2 얻음\n- 홍루에게 몸통 부위가 합 패배 시 다음 턴에 몸통 부위가 피해량 증가 2, 취약 2 얻음 (턴 당 1회)\nEN:\n- Panic\n- Gain 2 Attack Power Up and 2 Bind\n- When the Body Part loses a Clash against Hong Lu: the Body Part gains 2 Damage Up and 2 Fragile next turn (once per turn)"
+  },
+  {
+    "key": "LongLastingHongwonWill_LowMorale-name",
+    "original": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유구히 계승될 홍원의 뜻\nEN:\nInfinitely Bequeathing Will of Hongyuan"
+  },
+  {
+    "key": "LongLastingHongwonWill_LowMorale-desc",
+    "original": "- 士気低下\n- 攻撃威力増加2, 脆弱1を得る\n- 自分が生成したユニットが、防御レベル減少3を得る\n- 与ダメージ量が20%増加。輿部位の体力が0なら、代わりに与ダメージ量が10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 攻撃威力増加2, 脆弱1を得る\n- 自分が生成したユニットが、防御レベル減少3を得る\n- 与ダメージ量が20%増加。輿部位の体力が0なら、代わりに与ダメージ量が10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기저하\n- 공격 위력 증가 2, 취약 1 얻음\n- 자신이 생성한 유닛이 방어 레벨 감소 3 얻음\n- 가하는 피해량 20% 증가. 가마 부위의 체력이 0이면, 대신 가하는 피해량 10% 감소\nEN:\n- Low Morale\n- Gain 2 Attack Power Up and 1 Fragile\n- Units generated by this unit gain 3 Defense Level Down\n- Deal +20% damage. If the Palanquin Part's HP drops to 0, deal -10% damage instead"
+  },
+  {
+    "key": "LongLastingHongwonWill_Panic-name",
+    "original": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유구히 계승될 홍원의 뜻\nEN:\nInfinitely Bequeathing Will of Hongyuan"
+  },
+  {
+    "key": "LongLastingHongwonWill_Panic-desc",
+    "original": "- パニック\n- 攻撃威力増加2, 脆弱2を得る\n- 自分が生成したユニットが、防御レベル減少6を得る\n- 与ダメージ量が30%増加。輿部位の体力が0なら、代わりに与ダメージ量が15%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- 攻撃威力増加2, 脆弱2を得る\n- 自分が生成したユニットが、防御レベル減少6を得る\n- 与ダメージ量が30%増加。輿部位の体力が0なら、代わりに与ダメージ量が15%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 공격 위력 증가 2, 취약 2 얻음\n- 자신이 생성한 유닛이 방어 레벨 감소 6 얻음\n- 가하는 피해량 30% 증가. 가마 부위의 체력이 0이면, 대신 가하는 피해량 15% 감소\nEN:\n- Panic\n- Gain 2 Attack Power Up and 2 Fragile\n- Units generated by this unit gain 6 Defense Level Down\n- Deal +30% damage. If the Palanquin Part's HP drops to 0, deal -15% damage instead"
+  },
+  {
+    "key": "YisangParryGubo-name",
+    "original": "責任感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "責任感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n책임감\nEN:\nResponsibility"
+  },
+  {
+    "key": "YisangParryGubo-desc",
+    "original": "クボとマッチを進行時、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クボとマッチを進行時、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구보와 합을 진행할 때, 합 위력 +2\nEN:\nIn Clashes against Gubo, Clash Power +2"
+  },
+  {
+    "key": "HongluParryGahwan-name",
+    "original": "向き合わんとする意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "向き合わんとする意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마주하려는 의지\nEN:\nThe Will to Confront"
+  },
+  {
+    "key": "HongluParryGahwan-desc",
+    "original": "ジア・ファンとマッチを進行時、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ジア・ファンとマッチを進行時、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가환과 합을 진행할 때, 합 위력 +2\nEN:\nIn Clashes against Jia Huan, Clash Power +2"
+  },
+  {
+    "key": "GahwanEgoContempt-name",
+    "original": "不安定E.G.O感応 - 軽蔑\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定E.G.O感応 - 軽蔑\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정 E.G.O 감응 - 경멸\nEN:\nVolatile E.G.O Attunement - Contempt"
+  },
+  {
+    "key": "GahwanEgoContempt-desc",
+    "original": "- N社にて抽出したE.G.O装備。適性は合っているが経験が少なく、まだ慣れていない。\n- 最大値 : 5\n- 攻撃レベル、防御レベル -7\n- マッチ勝利時、数値が1増加\n- 数値1につき攻撃レベル1減少、防御レベル1増加\n- 数値が最大値なら、次のターンに保護2を得て数値0に初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- N社にて抽出したE.G.O装備。適性は合っているが経験が少なく、まだ慣れていない。\n- 最大値 : 5\n- 攻撃レベル、防御レベル -7\n- マッチ勝利時、数値が1増加\n- 数値1につき攻撃レベル1減少、防御レベル1増加\n- 数値が最大値なら、次のターンに保護2を得て数値0に初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- N사에서 추출한 E.G.O 장비. 적성에는 맞으나 경험은 적어 아직 사용에 익숙하지 않다.\n- 최대값 : 5\n- 공격 레벨, 방어 레벨 -7\n- 합 승리 시 수치 1 증가\n- 수치 1 당 공격 레벨 1 감소, 방어 레벨 1 증가\n- 수치가 최대치면, 다음 턴에 보호 2를 얻고 수치 0으로 초기화\nEN:\n- E.G.O Gear extracted by N Corp. While the user meets the aptitude requirements, the lack of experience may cause issues.\n- Max Stack: 5\n- Offense Level, Defense Level -7\n- On Clash Win, gain 1 Stack\n- Lose 1 Offense Level and gain 1 Defense Level for every Stack\n- At Max Stack: next turn, gain 2 Protection and reset the Stack to 0"
+  },
+  {
+    "key": "GuboEgoShooter-name",
+    "original": "不安定E.G.O感応 - 凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定E.G.O感応 - 凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정 E.G.O 감응 - 흉탄\nEN:\nVolatile E.G.O Attunement - Fell Bullet"
+  },
+  {
+    "key": "GuboEgoShooter-desc",
+    "original": "- N社にて抽出したE.G.O装備。適性は合っているが経験が少なく、まだ慣れていない。\n- 最大値 : 5\n- 攻撃レベル、防御レベル -2\n- マッチ敗北時、数値が1増加\n- 数値1につき攻撃レベル1増加、防御レベル1増加\n- 数値が最大値なら、次のターンにダメージ量増加2を得て数値0に初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- N社にて抽出したE.G.O装備。適性は合っているが経験が少なく、まだ慣れていない。\n- 最大値 : 5\n- 攻撃レベル、防御レベル -2\n- マッチ敗北時、数値が1増加\n- 数値1につき攻撃レベル1増加、防御レベル1増加\n- 数値が最大値なら、次のターンにダメージ量増加2を得て数値0に初期化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- N사에서 추출한 E.G.O 장비. 적성에는 맞으나 경험은 적어 아직 사용에 익숙하지 않다.\n- 최대값 : 5\n- 공격 레벨, 방어 레벨  -2\n- 합 패배 시 수치 1 증가\n- 수치 1 당 공격 레벨 1 증가, 방어 레벨 1 감소\n- 수치가 최대치면, 다음 턴에 피해량 증가 2를 얻고 수치 0으로 초기화\nEN:\n- E.G.O Gear extracted by N Corp. While the user meets the aptitude requirements, the lack of experience may cause issues.\n- Max Stack: 5\n- Offense Level, Defense Level -2\n- On Clash Lose, gain 1 Stack\n- Gain 1 Offense Level and lose 1 Defense Level for every Stack\n- At Max Stack: next turn, gain 2 Damage Up and reset the Stack to 0"
+  },
+  {
+    "key": "FellBulletMarkReplica-name",
+    "original": "マーク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マーク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n징표\nEN:\nStigmatized"
+  },
+  {
+    "key": "FellBulletMarkReplica-desc",
+    "original": "- クボの標的になる\n- ターン終了時に除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- クボの標的になる\n- ターン終了時に除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 구보의 표적이 됨\n- 턴 종료시 제거됨\nEN:\n- Tageted by Gubo\n- Expires at Turn End"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "key": "9021701-name",
+    "original": "規律執行 - 準備段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規律執行 - 準備段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규율 집행 - 준비 단계\nEN:\nEsecuzione della Regola - Preparation Stage"
+  },
+  {
+    "key": "9021701-desc",
+    "original": "前のターンに[VibrationExplosion]させたなら、次のターンに[Enhancement]1, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前のターンに[VibrationExplosion]させたなら、次のターンに[Enhancement]1, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전 턴에 [VibrationExplosion]을 시켰다면, 다음 턴에 [Enhancement] 1, [AttackDmgUp] 1 얻음\nEN:\nIf this unit triggered [VibrationExplosion] last turn, gain 1 [Enhancement] and 1 [AttackDmgUp] next turn"
+  },
+  {
+    "key": "9021702-name",
+    "original": "規律執行 - 下顎砕き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規律執行 - 下顎砕き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규율 집행 - 아랫턱 부수기\nEN:\nEsecuzione della Regola - Crush the Lower Jaw"
+  },
+  {
+    "key": "9021702-desc",
+    "original": "混乱した敵への与ダメージ量 +10%\n前のターンに敵を混乱させたなら、次のターンにマッチ勝利後にスキル的中時、[Vibration]2を付与(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱した敵への与ダメージ量 +10%\n前のターンに敵を混乱させたなら、次のターンにてマッチ勝利後にスキル的中時、[Vibration]2を付与(1ターンにつき2回)\n<CMT_KR>표현 개선: \"일본어 문법의 조사 사용('てにをは')이 자연스럽도록 수정함.\"\n<CMT_EN>Wording fix: \"Fixed to make the Japanese grammatical particles ('てにをは') sound natural.\"\n<CMT_JP>表現改善: \"「てにをは」が自然になるよう修正\"",
+    "stage": 1,
+    "context": "KR:\n흐트러진 적에게 피해량 +10%\n전 턴에 적을 흐트러뜨렸다면, 다음 턴에 합 승리 후 스킬 적중시 [Vibration] 2 부여 (턴 당 2회)\nEN:\nDeal +10% damage against Staggered enemies\nIf an enemy was Staggered in the last turn: for the next turn, inflict 2 [Vibration] On Hit with a Skill after Clash Win (2 times per turn)"
+  },
+  {
+    "key": "9021703-name",
+    "original": "乱れた規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "乱れた規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어긋난 규율\nEN:\nRegola Infranta"
+  },
+  {
+    "key": "9021703-desc",
+    "original": "死んだ味方が1名以上なら、次のターンから[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死んだ味方が1名以上なら、次のターンから[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죽은 아군이 1명 이상이라면, 다음 턴부터 [ParryingResultUp] 1 얻음\nEN:\nIf 1 or more ally has been defeated, gain 1 [ParryingResultUp] starting next turn"
+  },
+  {
+    "key": "9021301-name",
+    "original": "四つ葉のクローバー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "四つ葉のクローバー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네잎클로버\nEN:\nFour-leaf Clover"
+  },
+  {
+    "key": "9021301-desc",
+    "original": "ターン開始時に[Breath]5を獲得、[Breath]回数が2増加\n戦闘開始段階で、[Breath]状態の味方がスキルを使用して敵にクリティカルダメージを与えたなら、次のターン開始時にランダムな味方へ[Breath]威力5を付与、[Breath]回数が2増加。 (1ターンにつき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に[Breath]5を獲得、[Breath]回数が2増加\n戦闘開始段階で、[Breath]状態の味方がスキルを使用して敵にクリティカルダメージを与えたなら、次のターン開始時にランダムな味方へ[Breath]威力5を付与、[Breath]回数が2増加。 (1ターンにつき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, [Breath] 5 획득, [Breath] 횟수 2 증가\n전투 시작 단계에서 [Breath] 상태인 아군이 스킬을 사용하여 적에게 치명타 피해를 입힐 경우, 다음 턴 시작 시 랜덤 아군에게 [Breath] 위력 5 부여, [Breath] 횟수 2 증가. (턴 당 1회 발동)\nEN:\nTurn Start: gain 5 [Breath] and +2 [Breath] Count\nCombat Start: if an ally with [Breath] Critically Hits an enemy with a Skill, apply 5 [Breath] Potency and +2 [Breath] Potency to a random ally at the next Turn Start (once per turn)"
+  },
+  {
+    "key": "9021302-name",
+    "original": "旨い肉片\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "旨い肉片\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맛있는 살점\nEN:\nTasty Flesh"
+  },
+  {
+    "key": "9021302-desc",
+    "original": "体力が50%以下のとき、[Laceration]を持つ敵へ攻撃的中時、相手の[Laceration]1につき自分の全体力の1%だけ回復(最大10 %, 戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が50%以下のとき、[Laceration]を持つ敵へ攻撃的中時、相手の[Laceration]1につき自分の全体力の1%だけ回復(最大10 %, 戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력 50% 이하일 시, [Laceration]이 있는 적에게 공격 적중 시, 상대의 [Laceration] 당 자신의 전체 체력의 1% 만큼 회복 (최대 10 %, 전투 당 1회 발동)\nEN:\nAt 50%- HP: On Hit against enemies with [Laceration], heal 1% HP for every [Laceration] on target (max 10%; once per Encounter)"
+  }
+]

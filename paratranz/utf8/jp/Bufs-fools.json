@@ -1,0 +1,72 @@
+[
+  {
+    "key": "CandyForCharon-name",
+    "original": "キャンディー？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャンディー？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사탕?\nEN:\nCandy?"
+  },
+  {
+    "key": "CandyForCharon-desc",
+    "original": "- 最大値: 1\n- キャンディーもってる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 1\n- キャンディーもってる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 1\n- 사탕을 가지고 있을까?\nEN:\n- Max Value: 1\n- Where's the candy?"
+  },
+  {
+    "key": "TickTockTickTock-name",
+    "original": "チクタク！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チクタク！？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n째깍째깍?!\nEN:\nTick-Tock?!"
+  },
+  {
+    "key": "TickTockTickTock-desc",
+    "original": "- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 종료 시, 정신력을 10 회복\nEN:\n- Heal 10 SP at Turn End"
+  },
+  {
+    "key": "CandyForCharon_LowMoral-name",
+    "original": "キャンディー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャンディー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사탕\nEN:\nCandy"
+  },
+  {
+    "key": "CandyForCharon_LowMoral-desc",
+    "original": "- 士気低下\n- キャンディーを持つ人格とマッチ進行時、マッチ威力 +3, それ以外の人格とマッチ進行時、マッチ威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- キャンディーを持つ人格とマッチ進行時、マッチ威力 +3, それ以外の人格とマッチ進行時、マッチ威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 사탕을 가지고 있는 인격과 합 진행 시, 합 위력 +3, 그 외의 인격과 합 진행시, 합 위력 -1\nEN:\n- Low Morale\n- When Clashing against Identities with , Clash Power +3; when clashing against other Identities, Clash Power -1"
+  },
+  {
+    "key": "CandyForCharon_LowMoral-summary",
+    "original": "条件によってマッチ威力が増減\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "条件によってマッチ威力が増減\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조건에 따라 합위력 증감\nEN:\nConditional Clash Power increase"
+  },
+  {
+    "key": "CandyForCharon_Panic-name",
+    "original": "キャンディー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャンディー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사탕\nEN:\nCandy"
+  },
+  {
+    "key": "CandyForCharon_Panic-desc",
+    "original": "- パニック\n- キャンディーを持つ人格とマッチ進行時、マッチ威力 +5, それ以外の人格とマッチ進行時、マッチ威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- キャンディーを持つ人格とマッチ進行時、マッチ威力 +5, それ以外の人格とマッチ進行時、マッチ威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 사탕을 가지고 있는 인격과 합 진행 시, 합 위력 +5, 그 외의 인격과 합 진행시, 합 위력 -2\nEN:\n- Panic\n- When Clashing against Identities with , Clash Power +5; when clashing against other Identities, Clash Power -2"
+  },
+  {
+    "key": "CandyForCharon_Panic-summary",
+    "original": "条件によってマッチ威力が増減\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "条件によってマッチ威力が増減\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조건에 따라 합위력 증감\nEN:\nConditional Clash Power increase"
+  }
+]

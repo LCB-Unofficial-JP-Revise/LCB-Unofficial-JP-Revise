@@ -1,0 +1,345 @@
+[
+  {
+    "key": "112204-levelList[0].name",
+    "original": "殺主\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "殺主\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살주\nEN:\nOverthrow"
+  },
+  {
+    "key": "112204-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Breath]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 횟수 3 증가\nEN:\n[WhenUse] Gain +3 [Breath] Count"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 10 감소\nEN:\nIf this Coin is Cracked, lose 10 Final Power"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Breath]3を得る、[Breath]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]3を得る、[Breath]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 3 얻음, [Breath] 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 10 감소\nEN:\nIf this Coin is Cracked, lose 10 Final Power"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 次のターンに[SlashDamageUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[SlashDamageUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [SlashDamageUp] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [SlashResistDown] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [SlashResistDown]"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 10 감소\nEN:\nIf this Coin is Cracked, lose 10 Final Power"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Laceration] 5 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis] next turn"
+  },
+  {
+    "key": "112204-levelList[0].coinlist[2].coindescs[4].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Laceration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Laceration] 횟수 3 증가\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+  },
+  {
+    "key": "112205-levelList[0].name",
+    "original": "骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n골단\nEN:\nTo Claim Their Bones"
+  },
+  {
+    "key": "112205-levelList[0].desc",
+    "original": "[StartBattle] バリアを100得る\n[WhenUse] バリアが全て消耗されなかったら、マッチ威力 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] バリアを100得る\n[WhenUse] バリアが全て消耗されなかったら、マッチ威力 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 보호막 100 얻음\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +5\nEN:\n[StartBattle] Gain 100 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 20 감소\nEN:\nIf this Coin is Cracked, lose 20 Final Power"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [SlashResistDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [SlashResistDown] 3 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 3 [SlashResistDown]"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 20 감소\nEN:\nIf this Coin is Cracked, lose 20 Final Power"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%\nEN:\n[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 20 감소\nEN:\nIf this Coin is Cracked, lose 20 Final Power"
+  },
+  {
+    "key": "112205-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] バリアが全て消耗されなかったら、[Grudge]を攻撃加重値で割った数値をそれぞれ固定ダメージとして付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] バリアが全て消耗されなかったら、[Grudge]を攻撃加重値で割った数値をそれぞれ固定ダメージとして付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함.\nEN:\n[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+  },
+  {
+    "key": "112305-levelList[0].name",
+    "original": "骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n골단\nEN:\nTo Claim Their Bones"
+  },
+  {
+    "key": "112305-levelList[0].desc",
+    "original": "[StartBattle] バリアを250得る\n[WhenUse] 自分の[Breath]回数が3増加\n[WhenUse] バリアが全て消耗されなかったら、マッチ威力 +10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] バリアを250得る\n[WhenUse] 自分の[Breath]回数が3増加\n[WhenUse] バリアが全て消耗されなかったら、マッチ威力 +10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 보호막 250 얻음\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] 보호막이 전부 소모되지 않았다면, 합 위력 +10\nEN:\n[StartBattle] Gain 250 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が23減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が23減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 23 감소\nEN:\nIf this Coin is Cracked, lose 23 Final Power"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [SlashResistDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SlashResistDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [SlashResistDown] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が23減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が23減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 23 감소\nEN:\nIf this Coin is Cracked, lose 23 Final Power"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 크리티컬 피해량 +100%\nEN:\n[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 次のターンに[Paralysis]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 次のターンに[Paralysis]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 다음 턴에 [Paralysis] 5 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 5 [Paralysis] next turn"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[1].coindescs[4].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が23減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が23減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 23 감소\nEN:\nIf this Coin is Cracked, lose 23 Final Power"
+  },
+  {
+    "key": "112305-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] バリアが全て消耗されなかったら、[Grudge]を攻撃加重値で割った数値をそれぞれ固定ダメージとして付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] バリアが全て消耗されなかったら、[Grudge]を攻撃加重値で割った数値をそれぞれ固定ダメージとして付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 보호막이 전부 소모되지 않았다면, 공격 가중치만큼 [Grudge] 수치를 나눠 고정 피해로 부여함.\nEN:\n[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+  },
+  {
+    "key": "112309-levelList[0].name",
+    "original": "骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "骨断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n골단\nEN:\nTo Claim Their Bones"
+  },
+  {
+    "key": "112309-levelList[0].desc",
+    "original": "[CantChangeTarget]\n体力が最も低い対象を優先して攻撃\n[EnemyKill] [Grudge]が2倍になる\n[EnemyKill] [Grudge]だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantChangeTarget]\n体力が最も低い対象を優先して攻撃\n[EnemyKill] [Grudge]が2倍になる\n[EnemyKill] [Grudge]だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantChangeTarget]\n체력이 가장 없는 대상 우선 공격\n[EnemyKill] [Grudge]가 2배가 됨.\n[EnemyKill] [Grudge]만큼 체력 회복\nEN:\n[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 25 감소\nEN:\nIf this Coin is Cracked, lose 25 Final Power"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 25 감소\nEN:\nIf this Coin is Cracked, lose 25 Final Power"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "破壊されたコインなら、最終威力が25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたコインなら、最終威力が25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 코인이면, 최종 위력 25 감소\nEN:\nIf this Coin is Cracked, lose 25 Final Power"
+  },
+  {
+    "key": "112309-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Grudge]数値だけ固定ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Grudge]数値だけ固定ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Grudge] 수치만큼 고정 피해.\nEN:\n[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+  }
+]

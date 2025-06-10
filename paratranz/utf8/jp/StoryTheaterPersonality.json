@@ -1,0 +1,2046 @@
+[
+  {
+    "key": "acheive-content",
+    "original": "獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n획득\nEN:\nAcquisition"
+  },
+  {
+    "key": "dialog01-content",
+    "original": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 1\nEN:\nChatter #1"
+  },
+  {
+    "key": "dialog02-content",
+    "original": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 2\nEN:\nChatter #2"
+  },
+  {
+    "key": "dialog03-content",
+    "original": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 3\nEN:\nChatter #3"
+  },
+  {
+    "key": "sync_dialog01-content",
+    "original": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 1\nEN:\nPost-Uptie Chat 1"
+  },
+  {
+    "key": "sync_dialog02-content",
+    "original": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 2\nEN:\nPost-Uptie Chat 2"
+  },
+  {
+    "key": "morning_dialog-content",
+    "original": "朝ロビー対話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朝ロビー対話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아침 로비 대화\nEN:\nMorning Lobby Chat"
+  },
+  {
+    "key": "lunch_dialog-content",
+    "original": "昼ロビー対話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昼ロビー対話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점심 로비 대화\nEN:\nAfternoon Lobby Chat"
+  },
+  {
+    "key": "dinner_dialog-content",
+    "original": "夜ロビー対話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夜ロビー対話\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저녁 로비 대화\nEN:\nEvening Lobby Chat"
+  },
+  {
+    "key": "alone_dialog-content",
+    "original": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방치\nEN:\nIdle"
+  },
+  {
+    "key": "synchronization-content",
+    "original": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 진행\nEN:\nUptying"
+  },
+  {
+    "key": "organization-content",
+    "original": "人格変性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格変性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 편성\nEN:\nDeployment"
+  },
+  {
+    "key": "success-content",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "ex_success-content",
+    "original": "Exclear 戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Exclear 戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nExclear 전투 승리\nEN:\nExtra Objectives Met"
+  },
+  {
+    "key": "failure-content",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
+  },
+  {
+    "key": "P10102-content",
+    "original": "南部セブン協会6課, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部セブン協会6課, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 세븐 협회 6과, 이상 이야기\nEN:\nSeven South Section 6: Yi Sang’s Story"
+  },
+  {
+    "key": "P10103-content",
+    "original": "剣契殺手, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契殺手, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 살수, 이상 이야기\nEN:\nBlade Lineage Salsu: Yi Sang’s Story"
+  },
+  {
+    "key": "seven_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\n이상\n남\n9월 23일\nA\n176CM\n70KG"
+  },
+  {
+    "key": "seven_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "blade_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\n이상\n남\n9월 23일\nA\n176CM\n70KG"
+  },
+  {
+    "key": "blade_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P10202-content",
+    "original": "W社2級整理要員, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "W社2級整理要員, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nW사 2등급 정리 요원, 파우스트 이야기\nEN:\nW Corp. L2 Cleanup Agent: Faust’s Story"
+  },
+  {
+    "key": "P10203-content",
+    "original": "生き残ったロボトミー職員, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生き残ったロボトミー職員, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살아남은 로보토미 직원, 파우스트 이야기\nEN:\nLobotomy Corp. Remnant: Faust’s Story"
+  },
+  {
+    "key": "wcorp_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG"
+  },
+  {
+    "key": "wcorp_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "lcorp_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG"
+  },
+  {
+    "key": "lcorp_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P10302-content",
+    "original": "W社3級整理要員, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "W社3級整理要員, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nW사 3등급 정리 요원, 돈키호테 이야기\nEN:\nW Corp. L3 Cleanup Agent: Don Quixote’s Story"
+  },
+  {
+    "key": "P10303-content",
+    "original": "南部シ協会5課部長, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部シ協会5課部長, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 시 협회 5과 부장, 돈키호테 이야기\nEN:\nShi South Section 5 Director: Don Quixote’s Story"
+  },
+  {
+    "key": "wcorp_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG"
+  },
+  {
+    "key": "wcorp_donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "shi_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG"
+  },
+  {
+    "key": "shi_donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "P10402-content",
+    "original": "南部セブン協会6課, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部セブン協会6課, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 세븐 협회 6과, 료슈 이야기\nEN:\nSeven South Section 6: Ryōshū’s Story"
+  },
+  {
+    "key": "P10403-content",
+    "original": "黒雲会若衆, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒雲会若衆, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑운회 와카슈, 료슈 이야기\nEN:\nKurokumo Wakashu: Ryōshū’s Story"
+  },
+  {
+    "key": "seven_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\n료슈\n여\n9월 23일\nA\n171CM\n58KG"
+  },
+  {
+    "key": "seven_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "kurokumo_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\n료슈\n여\n9월 23일\nA\n171CM\n58KG"
+  },
+  {
+    "key": "kurokumo_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "P10502-content",
+    "original": "南部リウ協会6課, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部リウ協会6課, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 리우 협회 6과, 뫼르소 이야기\nEN:\nLiu South Section 6: Meursault’s Story"
+  },
+  {
+    "key": "P10503-content",
+    "original": "W社2級整理要員, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "W社2級整理要員, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nW사 2등급 정리 요원, 뫼르소 이야기\nEN:\nW Corp. L2 Cleanup Agent: Meursault’s Story"
+  },
+  {
+    "key": "liu_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG"
+  },
+  {
+    "key": "liu_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "wcorp_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG"
+  },
+  {
+    "key": "wcorp_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P10602-content",
+    "original": "黒雲会若衆, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒雲会若衆, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑운회 와카슈, 홍루 이야기\nEN:\nKurokumo Wakashu: Hong Lu’s Story"
+  },
+  {
+    "key": "P10603-content",
+    "original": "ぽんぽん派, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぽんぽん派, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n콩콩이파 보스, 홍루 이야기\nEN:\nTingtang Boss: Hong Lu’s Story"
+  },
+  {
+    "key": "kurokumo_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\n홍루\n남\n9월 23일\nA\n178CM\n74KG"
+  },
+  {
+    "key": "kurokumo_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "cong_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\n홍루\n남\n9월 23일\nA\n178CM\n74KG"
+  },
+  {
+    "key": "cong_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P10702-content",
+    "original": "南部シ協会5課, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部シ協会5課, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 시 협회 5과, 히스클리프 이야기\nEN:\nShi South Section 5: Heathcliff’s Story"
+  },
+  {
+    "key": "P10703-content",
+    "original": "R社第4群ウサギチーム, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "R社第4群ウサギチーム, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nR사 제 4무리 토끼팀, 히스클리프 이야기\nEN:\nR Corp. 4th Pack Rabbit: Heathcliff’s Story"
+  },
+  {
+    "key": "shi_heathcliff_profile-content",
+    "original": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG"
+  },
+  {
+    "key": "shi_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "rcorp_heathcliff_profile-content",
+    "original": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG"
+  },
+  {
+    "key": "rcorp_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "P10802-content",
+    "original": "R社第4群トナカイチーム, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "R社第4群トナカイチーム, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nR사 제 4무리 순록팀, 이스마엘 이야기\nEN:\nR Corp. 4th Pack Reindeer: Ishmael’s Story"
+  },
+  {
+    "key": "P10803-content",
+    "original": "南部シ協会5課, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部シ協会5課, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 시 협회 5과, 이스마엘 이야기\nEN:\nShi South Section 5: Ishmael’s Story"
+  },
+  {
+    "key": "P10804-content",
+    "original": "LCCB係長, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "LCCB係長, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLCCB 대리, 이스마엘 이야기\nEN:\nLCCB Assistant Manager: Ishmael’s Story"
+  },
+  {
+    "key": "rcorp_ishmael_profile-content",
+    "original": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG"
+  },
+  {
+    "key": "rcorp_ishmael_analysis-content",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "shi_ishmael_profile-content",
+    "original": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG"
+  },
+  {
+    "key": "shi_ishmael_analysis-content",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "P10902-content",
+    "original": "黒雲会若衆, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒雲会若衆, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑운회 와카슈, 로쟈 이야기\nEN:\nKurokumo Wakashu: Rodion’s Story"
+  },
+  {
+    "key": "P10903-content",
+    "original": "LCCB係長, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "LCCB係長, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLCCB 대리, 로쟈 이야기\nEN:\nLCCB Assistant Manager: Rodion’s Story"
+  },
+  {
+    "key": "kurokumo_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG"
+  },
+  {
+    "key": "kurokumo_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>오역 의심: \"'되도 않는 윙크'를 'できもしないウィンク'로 번역하면 로쟈(로디온)가 윙크를 서툴게(어색하게, 양쪽 눈을 감아버리는 등) 한다는 인상으로 읽힐 수 있으나, 실제로 5-13에서는 자연스럽게 윙크를 하고 있습니다. 문맥상 '場違いな(어울리지 않는) 윙크'를 의미한다면 'ろくでもないウィンク~', 'ふざけたウィンク~' 등으로, 지시를 수행하지 못하면서 윙크로 답하는 뉘앙스를 살리려면 'できもせずウィンクで~' 등으로 번역하는 것이 더 적절할 것으로 보입니다.\"\n<CMT_EN>Possible mistranslation: \"The translation of '되도 않는 윙크' as 'できもしないウィンク' (an impossible or unskilled wink) may give the impression that Rodion is bad at winking (awkward, or closing both eyes, etc.), but in fact, in scene 5-13, she winks naturally. If the original meaning is that she gives a disrespectful and inappropriate wink, a translation like 'ろくでもないウィンク', 'ふざけたウィンク' (worthless wink) would be better. If the original intent is that she responds with a wink despite not following orders, then something like 'できもせずウィンクで~' would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"'되도 않는 윙크'への「できもしないウィンク」という翻訳は、ロージャのウィンクが下手（ぎこちない、両目をつぶってしまう？）だと読み取れるものですが、実際には5-13において彼女は自然とウィンクをしています。場違いなウィンクをするという原意ならば「ろくでもないウィンク, ふざけたウィンク」や、指示をこなせないのにウィンクで応えるという原意ならば「できもせずウィンクで～」、などと翻訳したほうが適切であると思われます。\"",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "lcb_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG"
+  },
+  {
+    "key": "lcb_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "P11002-content",
+    "original": "剣契殺手, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契殺手, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 살수, 싱클레어 이야기\nEN:\nBlade Lineage Salsu: Sinclair’s Story"
+  },
+  {
+    "key": "P11003-content",
+    "original": "南部ツヴァイ協会6課, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ツヴァイ協会6課, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 츠바이 협회 6과, 싱클레어 이야기\nEN:\nZwei South Section 6: Sinclair’s Story"
+  },
+  {
+    "key": "P11004-content",
+    "original": "マリアッチボス, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マリアッチボス, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마리아치 보스, 싱클레어 이야기\nEN:\nJefe de Los Mariachis: Sinclair’s Story"
+  },
+  {
+    "key": "blade_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG"
+  },
+  {
+    "key": "blade_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "zwei_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG"
+  },
+  {
+    "key": "zwei_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "mariachi_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG"
+  },
+  {
+    "key": "mariachi_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "P11102-content",
+    "original": "剣契殺手, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契殺手, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 살수, 오티스 이야기\nEN:\nBlade Lineage Salsu: Outis’s Story"
+  },
+  {
+    "key": "P11103-content",
+    "original": "G社部長, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "G社部長, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nG사 부장, 오티스 이야기\nEN:\nG Corp. Head Manager: Outis’s Story"
+  },
+  {
+    "key": "blade_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\n오티스\n여\n9월 23일\nA\n177CM\n64KG"
+  },
+  {
+    "key": "blade_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "gcorp_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\n오티스\n여\n9월 23일\nA\n177CM\n64KG"
+  },
+  {
+    "key": "gcorp_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P11202-content",
+    "original": "南部リウ協会6課, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部リウ協会6課, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 리우 협회 6과, 그레고르 이야기\nEN:\nLiu South Section 6: Gregor’s Story"
+  },
+  {
+    "key": "P11203-content",
+    "original": "G社課長代理, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "G社課長代理, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nG사 일등대리, 그레고르 이야기\nEN:\nG Corp. Manager Corporal: Gregor’s Story"
+  },
+  {
+    "key": "liu_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG"
+  },
+  {
+    "key": "liu_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "gcorp_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG"
+  },
+  {
+    "key": "gcorp_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P10504-content",
+    "original": "N社大鎚, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社大鎚, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사 큰 망치, 뫼르소 이야기\nEN:\nN Corp. Großhammer: Meursault’s Story"
+  },
+  {
+    "key": "ncorp_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG"
+  },
+  {
+    "key": "ncorp_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P10904-content",
+    "original": "N社中鎚, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社中鎚, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사 중간 망치, 로쟈 이야기\nEN:\nN Corp. Mittelhammer: Rodion’s Story"
+  },
+  {
+    "key": "ncorp_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG"
+  },
+  {
+    "key": "ncorp_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "P10704-content",
+    "original": "N社小鎚, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社小鎚, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사 작은 망치, 히스클리프 이야기\nEN:\nN Corp. Kleinhammer: Heathcliff’s Story"
+  },
+  {
+    "key": "ncorp_heathcliff_profile-content",
+    "original": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG"
+  },
+  {
+    "key": "ncorp_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "P10204-content",
+    "original": "握る者, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "握る者, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쥐는 자, 파우스트 이야기\nEN:\nThe One Who Grips: Faust’s Story"
+  },
+  {
+    "key": "ncorp_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG"
+  },
+  {
+    "key": "ncorp_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P11104-content",
+    "original": "南部セブン協会6課部長, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部セブン協会6課部長, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 세븐 협회 6과 부장, 오티스 이야기\nEN:\nSeven South Section 6 Director: Outis’s Story"
+  },
+  {
+    "key": "SevenAsso6_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\n오티스\n여\n9월 23일\nA\n177CM\n64KG"
+  },
+  {
+    "key": "SevenAsso6_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P10604-content",
+    "original": "南部リウ協会5課, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部リウ協会5課, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 리우 협회 5과, 홍루 이야기\nEN:\nLiu South Section 5: Hong Lu’s Story"
+  },
+  {
+    "key": "LiuAsso5_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\n홍루\n남\n9월 23일\nA\n178CM\n74KG"
+  },
+  {
+    "key": "LiuAsso5_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P10404-content",
+    "original": "りょ・ミ・パ厨房長, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "りょ・ミ・パ厨房長, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료. 고. 파. 주방장, 료슈 이야기\nEN:\nR.B. Chef de Cuisine: Ryōshū’s Story"
+  },
+  {
+    "key": "23GuCooker_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\n료슈\n여\n9월 23일\nA\n171CM\n58KG"
+  },
+  {
+    "key": "23GuCooker_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "P11204-content",
+    "original": "りょ・ミ・パ助手, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "りょ・ミ・パ助手, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료. 고. 파. 조수, 그레고르 이야기\nEN:\nR.B. Sous-chef: Gregor’s Story"
+  },
+  {
+    "key": "23GuCooker_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG"
+  },
+  {
+    "key": "23GuCooker_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P11005-content",
+    "original": "握らんとする者, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "握らんとする者, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쥐어들 자, 싱클레어 이야기\nEN:\nThe One Who Shall Grip: Sinclair’s Story"
+  },
+  {
+    "key": "ncorp_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG"
+  },
+  {
+    "key": "ncorp_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "P10304-content",
+    "original": "N社中鎚, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社中鎚, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사 중간 망치, 돈키호테 이야기\nEN:\nN Corp. Mittelhammer: Don Quixote’s Story"
+  },
+  {
+    "key": "ncorp_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG"
+  },
+  {
+    "key": "ncorp_donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "P10905-content",
+    "original": "バラのスパナ工房代表, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バラのスパナ工房代表, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미스패너 공방 대표, 로쟈 이야기\nEN:\nRosespanner Workshop Rep: Rodion's Story"
+  },
+  {
+    "key": "kcorp_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG"
+  },
+  {
+    "key": "kcorp_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "P10505-content",
+    "original": "バラのスパナ工房フィクサー, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バラのスパナ工房フィクサー, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미스패너 공방 해결사, 뫼르소 이야기\nEN:\nRosespanner Workshop Fixer: Meursault's Story"
+  },
+  {
+    "key": "kcorp_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG"
+  },
+  {
+    "key": "kcorp_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P10705-content",
+    "original": "ロボトミーE.G.O 狐雨, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロボトミーE.G.O 狐雨, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로보토미 E.G.O 여우비, 히스클리프 이야기\nEN:\nLobotomy E.G.O Sunshower: Heathcliff's Story"
+  },
+  {
+    "key": "lego_heathcliff_profile-content",
+    "original": "히스클리프\n남\n9월 23일\nA\n180CM\n78KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "히스클리프\n남\n9월 23일\nA\n180CM\n78KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG"
+  },
+  {
+    "key": "lego_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "P11205-content",
+    "original": "バラのスパナ工房フィクサー, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バラのスパナ工房フィクサー, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미스패너 공방 해결사, 그레고르 이야기\nEN:\nRosespanner Workshop Fixer: Gregor's Story"
+  },
+  {
+    "key": "kcorp_gregor_profile-content",
+    "original": "그레고르\n남\n9월 23일\nA\n167CM\n68KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "그레고르\n남\n9월 23일\nA\n167CM\n68KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG"
+  },
+  {
+    "key": "kcorp_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P10104-content",
+    "original": "開花E.G.O 壇香梅, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開花E.G.O 壇香梅, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n개화 E.G.O 동백, 이상 이야기\nEN:\nEffloresced E.G.O Spicebush: Yi Sang's Story"
+  },
+  {
+    "key": "lego_yisang_profile-content",
+    "original": "이상\n남\n9월 23일\nA\n176CM\n70KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "이상\n남\n9월 23일\nA\n176CM\n70KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\n이상\n남\n9월 23일\nA\n176CM\n70KG"
+  },
+  {
+    "key": "lego_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P10805-content",
+    "original": "ロボトミーE.G.Oたぷつき, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロボトミーE.G.Oたぷつき, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로보토미 E.G.O 출렁임, 이스마엘 이야기\nEN:\nLobotomy E.G.O Sloshing: Ishmael's Story"
+  },
+  {
+    "key": "lego_ishmael_profile-content",
+    "original": "이스마엘\n여\n9월 23일\nA\n171CM\n57KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "이스마엘\n여\n9월 23일\nA\n171CM\n57KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG"
+  },
+  {
+    "key": "lego_ishmael_analysis-content",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "P10605-content",
+    "original": "K社3級摘出職職員, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社3級摘出職職員, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사 3등급 적출직 직원, 홍루 이야기\nEN:\nK Corp. Class 3 Excision Staff: Hong Lu's Story"
+  },
+  {
+    "key": "kcorp_honglu_profile-content",
+    "original": "홍루\n남\n9월 23일\nA\n178CM\n74KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "홍루\n남\n9월 23일\nA\n178CM\n74KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\n홍루\n남\n9월 23일\nA\n178CM\n74KG"
+  },
+  {
+    "key": "kcorp_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P11006-content",
+    "original": "ロボトミーE.G.O::紅籍, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロボトミーE.G.O::紅籍, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로보토미 E.G.O 홍적, 싱클레어 이야기\nEN:\nLobotomy E.G.O Red Sheet: Sinclair's Story"
+  },
+  {
+    "key": "lego_sinclair_profile-content",
+    "original": "싱클레어\n남\n9월 23일\nA\n163CM\n54KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "싱클레어\n남\n9월 23일\nA\n163CM\n54KG\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG"
+  },
+  {
+    "key": "lego_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "P10806-content",
+    "original": "南部リウ協会4課, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部リウ協会4課, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 리우 협회 4과, 이스마엘 이야기\nEN:\nLiu South Section 4: Ishmael's Story"
+  },
+  {
+    "key": "liu_ishmael_profile-content",
+    "original": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG"
+  },
+  {
+    "key": "liu_ishmael_analysis-content",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "P10506-content",
+    "original": "R社第4群サイチーム, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "R社第4群サイチーム, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nR사 제 4무리 코뿔소팀, 뫼르소 이야기\nEN:\nR Corp. 4th Pack Rhino: Meursault's Story"
+  },
+  {
+    "key": "rcorp_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\nMeursault\nM\nSeptember 23rd\nA\n188CM (6'2\")\n82KG (180lbs)"
+  },
+  {
+    "key": "rcorp_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P10906-content",
+    "original": "南部ツヴァイ協会5課, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ツヴァイ協会5課, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 츠바이 협회 5과, 로쟈 이야기\nEN:\nZwei South Section 5: Rodion's Story"
+  },
+  {
+    "key": "zwei_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\nRodion\nF\nSeptember 23rd\nA\n182CM (5'11\")\n65KG (143.3lbs)"
+  },
+  {
+    "key": "zwei_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "P10305-content",
+    "original": "南部センク協会5課部長, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部センク協会5課部長, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 섕크 협회 5과 부장, 돈키호테 이야기\nEN:\nCinq South Section 5 Director: Don Quixote’s Story"
+  },
+  {
+    "key": "cinq_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\nDon Quixote\nF\nSeptember 23rd\nA\n163CM (5'3\")\n52KG (114.64lbs)"
+  },
+  {
+    "key": "cinq_donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "P10807-content",
+    "original": "奥歯ボートセンターフィクサー, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奥歯ボートセンターフィクサー, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어금니 보트 센터 해결사, 이스마엘 이야기\nEN:\nMolar Boatworks Fixer: Ishmael's Story"
+  },
+  {
+    "key": "ucorp_ishmael_profile-content",
+    "original": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\nIshmael\nF\nSeptember 23rd\nA\n171CM (5'7\")\n57KG (125.66lbs)"
+  },
+  {
+    "key": "ucorp_ishmael_analysis-content",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "P11007-content",
+    "original": "奥歯ボートセンターフィクサー, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奥歯ボートセンターフィクサー, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어금니 보트 센터 해결사, 싱클레어 이야기\nEN:\nMolar Boatworks Fixer: Sinclair's Story"
+  },
+  {
+    "key": "ucorp_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\nSinclair\nM\nSeptember 23rd\nA\n163CM (5'4\")\n54KG (119.05lbs)"
+  },
+  {
+    "key": "ucorp_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "P11206-content",
+    "original": "南部ツヴァイ協会4課, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ツヴァイ協会4課, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 츠바이 협회 4과, 그레고르 이야기\nEN:\nZwei South Section 4: Gregor’s Story"
+  },
+  {
+    "key": "zwei_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\nGregor\nM\nSeptember 23rd\nA\n167CM (5'6\")\n68KG (149.914lbs)"
+  },
+  {
+    "key": "zwei_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P10205-content",
+    "original": "南部ツヴァイ協会4課, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ツヴァイ協会4課, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 츠바이 협회 4과, 파우스트 이야기\nEN:\nZwei South Section 4: Faust's Story"
+  },
+  {
+    "key": "zwei_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\nFaust\nF\nSeptember 23rd\nA\n174CM (5'9\")\n57KG (130.07lbs)"
+  },
+  {
+    "key": "zwei_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P10405-content",
+    "original": "W社3級整理要員, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "W社3級整理要員, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nW사 3등급 정리 요원, 료슈 이야기\nEN:\nW Corp. L3 Cleanup Agent: Ryōshū's Story"
+  },
+  {
+    "key": "Wcorp_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\nRyōshū\nF\nSeptember 23rd\nA\n171CM (5'7\")\n58KG (127.87lbs)"
+  },
+  {
+    "key": "Wcorp_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "P10606-content",
+    "original": "W社2級整理要員, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "W社2級整理要員, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nW사 2등급 정리 요원, 홍루 이야기\nEN:\nW Corp. L2 Cleanup Agent: Hong Lu's Story"
+  },
+  {
+    "key": "Wcorp_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\nHong Lu\nM\nSeptember 23rd\nA\n178CM (5'10\")\n74KG (163.14lbs)"
+  },
+  {
+    "key": "Wcorp_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P10206-content",
+    "original": "南部セブン協会4課, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部セブン協会4課, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 세븐 협회 4과, 파우스트 이야기\nEN:\nSeven South Section 4: Faust's Story"
+  },
+  {
+    "key": "seven_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\nFaust\nF\nSeptember 23rd\nA\n174CM (5'9\")\n57KG (130.07lbs)"
+  },
+  {
+    "key": "seven_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P10706-content",
+    "original": "南部セブン協会4課, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部セブン協会4課, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 세븐 협회 4과, 히스클리프 이야기\nEN:\nSeven South Section 4: Heathcliff’s Story"
+  },
+  {
+    "key": "seven_heathcliff_profile-content",
+    "original": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\nHeathcliff\nM\nSeptember 23rd\nA\n180CM (5'11\")\n54KG (171.96lbs)"
+  },
+  {
+    "key": "seven_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "P10105-content",
+    "original": "奥歯事務所フィクサー, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奥歯事務所フィクサー, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어금니 사무소 해결사, 이상 이야기\nEN:\nMolar Office Fixer: Yi Sang's Story"
+  },
+  {
+    "key": "molar_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\nYi Sang\nM\nSep. 23\nA\n176cm (5'9\")\n70kg (154.3lbs)"
+  },
+  {
+    "key": "molar_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P11105-content",
+    "original": "奥歯事務所フィクサー, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奥歯事務所フィクサー, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어금니 사무소 해결사, 오티스 이야기\nEN:\nMolar Office Fixer: Outis's Story"
+  },
+  {
+    "key": "molar_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\nOutis\nF\nSeptember 23rd\nA\n177CM (5'9\")\n64KG (141.1lbs)"
+  },
+  {
+    "key": "molar_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P10907-content",
+    "original": "南部ディエーチ協会4課, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ディエーチ協会4課, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 디에치 협회 4과, 로쟈 이야기\nEN:\nDieci South Section 4: Rodion's Story"
+  },
+  {
+    "key": "dieci_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\nRodion\nF\nSeptember 23rd\nA\n182CM (5'11\")\n65KG (143.3lbs)"
+  },
+  {
+    "key": "dieci_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "P10207-content",
+    "original": "ロボトミーE.G.O::後悔, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロボトミーE.G.O::後悔, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로보토미 E.G.O 후회, 파우스트 이야기\nEN:\nLobotomy E.G.O Regret: Faust's Story"
+  },
+  {
+    "key": "lego_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\nFaust\nF\nSeptember 23rd\nA\n174CM (5'9\")\n57KG (130.07lbs)"
+  },
+  {
+    "key": "lego_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P10607-content",
+    "original": "鈎事務所フィクサー, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鈎事務所フィクサー, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n갈고리 사무소 해결사, 홍루 이야기\nEN:\nHook Office Fixer: Hong Lu's Story"
+  },
+  {
+    "key": "hook_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\nHong Lu\nM\nSeptember 23rd\nA\n178CM (5'10\")\n74KG (163.14lbs)"
+  },
+  {
+    "key": "hook_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P10106-content",
+    "original": "W社3級整理要員, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "W社3級整理要員, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nW사 3등급 정리 요원, 이상 이야기\nEN:\nW Corp. L3 Cleanup Agent: Yi Sang's Story"
+  },
+  {
+    "key": "wcorp_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\nYi Sang\nM\nSep. 23\nA\n176cm (5'9\")\n70kg (154.3lbs)"
+  },
+  {
+    "key": "wcorp_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P11207-content",
+    "original": "双鉤海賊団 副船長, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "双鉤海賊団 副船長, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쌍갈고리 해적단 부선장, 그레고르 이야기\nEN:\nTwinhook Pirates First Mate: Gregor's Story"
+  },
+  {
+    "key": "hook_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\nGregor\nM\nSeptember 23rd\nA\n167CM (5'6\")\n68KG (149.914lbs)"
+  },
+  {
+    "key": "hook_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P10406-content",
+    "original": "LCCB係長, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "LCCB係長, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLCCB 대리, 료슈 이야기\nEN:\nLCCB Assistant Manager: Ryōshū’s Story"
+  },
+  {
+    "key": "lccb_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\nRyōshū\nF\nSeptember 23rd\nA\n171CM (5'7\")\n58KG (127.87lbs)"
+  },
+  {
+    "key": "lccb_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "P10306-content",
+    "original": "中指 末妹, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "中指 末妹, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중지 작은 아우, 돈키호테 이야기\nEN:\nThe Middle Little Sister: Don Quixote's Story"
+  },
+  {
+    "key": "middlefinger_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\nDon Quixote\nF\nSeptember 23rd\nA\n163CM (5'3\")\n52KG (114.64lbs)"
+  },
+  {
+    "key": "middlefinger_donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "P10507-content",
+    "original": "中指 末弟, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "中指 末弟, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중지 작은 아우, 뫼르소 이야기\nEN:\nThe Middle Little Brother: Meursault's Story"
+  },
+  {
+    "key": "middlefinger_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\nMeursault\nM\nSeptember 23rd\nA\n188CM (6'2\")\n82KG (180lbs)"
+  },
+  {
+    "key": "middlefinger_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P10707-content",
+    "original": "ピークォド号 銛使い, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ピークォド号 銛使い, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피쿼드호 작살잡이, 히스클리프 이야기\nEN:\nThe Pequod Harpooneer: Heathcliff's Story"
+  },
+  {
+    "key": "qui_heathcliff_profile-content",
+    "original": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\nHeathcliff\nM\nSeptember 23rd\nA\n180CM (5'11\")\n54KG (171.96lbs)"
+  },
+  {
+    "key": "qui_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "P10107-content",
+    "original": "ピークォド号 1等航海士, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ピークォド号 1等航海士, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피쿼드호 일등 항해사, 이상 이야기\nEN:\nThe Pequod First Mate: Yi Sang's Story"
+  },
+  {
+    "key": "starb_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\nYi Sang\nM\nSep. 23\nA\n176cm (5'9\")\n70kg (154.3lbs)"
+  },
+  {
+    "key": "starb_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P11008-content",
+    "original": "南部センク協会4課部長, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部センク協会4課部長, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 섕크 협회 4과 부장, 싱클레어 이야기\nEN:\nCinq South Section 4 Director: Sinclair's Story"
+  },
+  {
+    "key": "cinq_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\nSinclair\nM\nSeptember 23rd\nA\n163CM (5'4\")\n54KG (119.05lbs)"
+  },
+  {
+    "key": "cinq_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "P11106-content",
+    "original": "南部センク協会4課, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部センク協会4課, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 섕크 협회 4과, 오티스 이야기\nEN:\nCinq South Section 4: Outis's Story"
+  },
+  {
+    "key": "cinq_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\nOutis\nF\nSeptember 23rd\nA\n177CM (5'9\")\n64KG (141.1lbs)"
+  },
+  {
+    "key": "cinq_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P11107-content",
+    "original": "ロボトミーE.G.O::魔弾, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロボトミーE.G.O::魔弾, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로보토미 E.G.O 마탄, 오티스 이야기\nEN:\nLobotomy E.G.O Magic Bullet Outis's Story"
+  },
+  {
+    "key": "lego_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\nOutis\nF\nSeptember 23rd\nA\n177CM (5'9\")\n64KG (141.1lbs)"
+  },
+  {
+    "key": "lego_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P10307-content",
+    "original": "ロボトミーE.G.O::提灯, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロボトミーE.G.O::提灯, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로보토미 E.G.O 초롱, 돈키호테 이야기\nEN:\nLobotomy E.G.O Lantern Don Quixote's Story"
+  },
+  {
+    "key": "lego_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\nDon Quixote\nF\nSeptember 23rd\nA\n163CM (5'3\")\n52KG (114.64lbs)"
+  },
+  {
+    "key": "lego_donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "P10608-content",
+    "original": "南部ディエーチ協会4課, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ディエーチ協会4課, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 디에치 협회 4과, 홍루 이야기\nEN:\nDieci South Section 4: Hong Lu's Story"
+  },
+  {
+    "key": "dieci_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\nHong Lu\nM\nSeptember 23rd\nA\n178CM (5'10\")\n74KG (163.14lbs)"
+  },
+  {
+    "key": "dieci_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P10108-content",
+    "original": "南部ディエーチ協会4課, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ディエーチ協会4課, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 디에치 협회 4과, 이상 이야기\nEN:\nDieci South Section 4: Yi Sang's Story"
+  },
+  {
+    "key": "dieci_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\nYi Sang\nM\nSep. 23\nA\n176cm (5'9\")\n70kg (154.3lbs)"
+  },
+  {
+    "key": "dieci_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P10808-content",
+    "original": "ピークォド号船長, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ピークォド号船長, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피쿼드호 선장, 이스마엘 이야기\nEN:\nThe Pequod Captain: Ishmael’s Story"
+  },
+  {
+    "key": "ahab_ishmael_profile-content",
+    "original": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\nIshmael\nF\nSeptember 23rd\nA\n171CM (5'7\")\n57KG (125.66lbs)"
+  },
+  {
+    "key": "ahab_ishmael_profile-content-dup1",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "P10508-content",
+    "original": "剣契頭目, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契頭目, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 우두머리, 뫼르소 이야기\nEN:\nBlade Lineage Mentor: Meursault's Story"
+  },
+  {
+    "key": "blade_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\nMeursault\nM\nSeptember 23rd\nA\n188CM (6'2\")\n82KG (180lbs)"
+  },
+  {
+    "key": "blade_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P10208-content",
+    "original": "剣契殺手, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契殺手, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 살수, 파우스트 이야기\nEN:\nBlade Lineage Salsu: Faust's Story"
+  },
+  {
+    "key": "blade_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\nFaust\nF\nSeptember 23rd\nA\n174CM (5'9\")\n57KG (130.07lbs)"
+  },
+  {
+    "key": "blade_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P11208-content",
+    "original": "黒雲会副組長, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒雲会副組長, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑운회 부조장, 그레고르 이야기\nEN:\nKurokumo Clan Captain: Gregor's Story"
+  },
+  {
+    "key": "kurokumo_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\nGregor\nM\nSeptember 23rd\nA\n167CM (5'6\")\n68KG (149.914lbs)"
+  },
+  {
+    "key": "kurokumo_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P10308-content",
+    "original": "剣契殺手, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣契殺手, ドンキホーテの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검계 살수, 돈키호테 이야기\nEN:\nBlade Lineage Salsu: Don Quixote's Story"
+  },
+  {
+    "key": "blade_donquixote_profile-content",
+    "original": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンキホーテ\n女\n9月23日\nA\n163cm\n52Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돈키호테\n여\n9월 23일\nA\n163CM\n52KG\nEN:\nDon Quixote\nF\nSeptember 23rd\nA\n163CM (5'3\")\n52KG (114.64lbs)"
+  },
+  {
+    "key": "blade__donquixote_analysis-content",
+    "original": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "情熱だけで囚人の質を測るのであれば、最高点を叩き出すであろう囚人でしょう。フィクサーというモノに対しての大変なコレクターであり、熱心なファンでもあるため、全身にジャラジャラとフィクサーのグッズを身に付けていたりします。戦闘にはこれといった影響を与えないようなので、必ずしも制裁を与える必要はありません。本人もまた、正義のフィクサーという（そんなものが存在していたことなんてあったのでしょうか？）役割にどっぷりと心酔しているがゆえ、俳優でもあるかのような大げさな立ち居振る舞いをします。円滑な任務のために調子を合わせてあげた方がよろしいかと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열정으로만 수감자들의 질을 다시 측량한다면 최고의 점수를 받을 수감자일 것입니다. 해결사라는 것들에 관해서는 대단한 수집가이자 열성적인 팬이므로 온몸에 주렁주렁 해결사 기념품을 지니곤 합니다. 전투에 딱히 영향을 주진 않을 테니 굳이 제재를 가하실 필요는 없습니다. 본인 또한 정의의 해결사라는(그런 게 존재했던 적이나 있었을까요?) 역할에 잔뜩 심취해 있으므로 삼류 배우와도 같은 과장된 행동거지를 합니다. 원활한 임무를 위해선 장단에 같이 맞춰주는 편이 좋습니다.\nEN:\nThere is no Sinner that can outmatch this one's level of passion if we were to measure it. An avid aficionada of all things Fixer, she adorns herself with a variety of Fixer-related merchandise. They won't affect her performance in combat one way or another, so there is no need for you to restrict her from keeping her decorations. She is deeply immersed in the role of a righteous Fixer (Has such a thing ever existed, really?), hence the exaggerated mannerisms akin to those of an actor. It's advised to play along with her for a smooth mission."
+  },
+  {
+    "key": "P10908-content",
+    "original": "南部リウ協会4課部長, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部リウ協会4課部長, ロージャの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 리우 협회 4과 부장, 로쟈 이야기\nEN:\nLiu South Section 4 Director: Rodion's Story"
+  },
+  {
+    "key": "liu_rodion_profile-content",
+    "original": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャ\n女\n9月23日\nA\n182cm\n65Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈\n여\n9월 23일\nA\n182CM\n65KG\nEN:\nRodion\nF\nSeptember 23rd\nA\n182CM (5'11\")\n65KG (143.3lbs)"
+  },
+  {
+    "key": "liu_rodion_analysis-content",
+    "original": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生まれが裏路地という残念な特徴が露骨に現れる囚人です。金に目が無く、ギャンブルと賭け事を楽しむので管理人様による細心の注意が必要です。指示を出せど、できもしないウィンクで応えたり、冗談で返したりする傾向を見せるため、時には管理人として厳格な姿勢を見せることをお勧めします。沈んだ状態が非周期的に現れることがありますが、管理人様の方でできることは無いので黙ってお待ちいただくのが効率的です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒷골목 태생이라는 안타까운 특징이 노골적으로 드러나는 수감자입니다. 돈을 밝히며 도박과 내기를 즐겨하므로 관리자의 세심한 주의가 필요합니다. 지시를 내릴 때 되도 않는 윙크로 화답하거나 실없는 농담으로 맞받아치는 경향을 보이므로 때론 관리자로서 엄한 자세를 보이는 것을 추천합니다. 가라앉은 상태가 비주기적으로 나타날 때가 있는데 관리자님 측에서 해줄 수 있는 방법은 없으니 조용히 기다리는 것이 효율적입니다.\nEN:\nThe unfortunate traits of being Backstreets-born are apparent in this Sinner. She loves money, gambling, and betting—so it is advised to pay close attention to her as the manager. She tends to deflect orders with an unimpressive wink or a silly joke; we recommend taking a stern stance at times to remind her that you are her superior. Her mood may be down at irregular intervals. There is nothing you can do to aid her in that state, so we recommend waiting for it to pass."
+  },
+  {
+    "key": "P10407-content",
+    "original": "南部リウ協会4課, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部リウ協会4課, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 리우 협회 4과, 료슈 이야기\nEN:\nLiu South Section 4: Ryōshū’s Story"
+  },
+  {
+    "key": "liu_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\nRyōshū\nF\nSeptember 23rd\nA\n171CM (5'7\")\n58KG (127.87lbs)"
+  },
+  {
+    "key": "liu_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "P10708-content",
+    "original": "南部ウーフィ協会3課, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "南部ウーフィ協会3課, ヒースクリフの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남부 외우피 협회 3과, 히스클리프 이야기\nEN:\nÖufi South Section 3: Heathcliff's Story"
+  },
+  {
+    "key": "oufi_heathcliff_profile-content",
+    "original": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ヒースクリフ\n男\n9月23日\nA\n180cm\n78Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스클리프\n남\n9월 23일\nA\n180CM\n78KG\nEN:\nHeathcliff\nM\nSeptember 23rd\nA\n180CM (5'11\")\n54KG (171.96lbs)"
+  },
+  {
+    "key": "oufi_heathcliff_analysis-content",
+    "original": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "論理的な思考よりは行動で実行することをより好む囚人です。考えていることや感情が表情と言葉に全て表れ、隠そうとする努力もしないため、管理人様との人間関係を形成していくのに頭痛を（あるいは物理的外傷まで……）誘発することもあります。囚人の思考体系に深刻な問題があるわけではないことを熟知していただけると幸いです。万が一、長時間にわたっても怒りが鎮まらない場合は人事部までお問い合わせください。しかし、こんなタイプであるほど考え方が馬鹿で単純だということさえ把握していれば扱いやすいものです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n논리적인 사고보다는 행동으로 실행하는 것을 더 선호하는 수감자입니다. 생각과 감정이 표정과 말에서 다 드러나며 숨길 노력도 하지 않으므로 관리자님과의 관계 형성에서 두통을(또는 물리적인 외상까지...) 유발할 수도 있습니다. 수감자의 사고 체계에 심각한 문제가 있는 것은 아님을 숙지해 주시길 바랍니다. 만일 장시간 동안 분노가 가라앉지 않는다면 인사 부서에 문의주세요. 하지만 이런 유형일수록 생각이 멍청하고 단순하다는 것만 익힌다면 다루기 쉬운 법이죠.\nEN:\nThis Sinner prefers to take action rather than wait for logic to dictate his course. His thoughts and feelings are blatantly visible in his demeanor, and he has no intention of hiding them; his brashness may cause headaches (or physical injury leading to a headache) in the process of forming a relationship. Please do note that this is not an indication of serious damage to the Sinner's thought process. If his fit of rage persists, please contact the human resources department. Once you realize that he is the type that tends to be simple-minded, you'll have an easier time handling him."
+  },
+  {
+    "key": "P11108-content",
+    "original": "ワザリング・ハイツ チーフバトラー, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ワザリング・ハイツ チーフバトラー, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n워더링하이츠 치프 버틀러, 오티스 이야기\nEN:\nWuthering Heights Chief Butler: Outis's Story"
+  },
+  {
+    "key": "butler_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\nOutis\nF\nSeptember 23rd\nA\n177CM (5'9\")\n64KG (141.1lbs)"
+  },
+  {
+    "key": "butler_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P10509-content",
+    "original": "デッドラビッツ ボス, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "デッドラビッツ ボス, ムルソーの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n데드레빗츠 보스, 뫼르소 이야기\nEN:\nDead Rabbits Boss: Meursault's Story"
+  },
+  {
+    "key": "deadrabbit_meursault_profile-content",
+    "original": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ムルソー\n男\n9月23日\nA\n188cm\n82Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뫼르소\n남\n9월 23일\nA\n188CM\n82KG\nEN:\nMeursault\nM\nSeptember 23rd\nA\n188CM (6'2\")\n82KG (180lbs)"
+  },
+  {
+    "key": "deadrabbit_meursault_analysis-content",
+    "original": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "明確かつ短い指示を、つまり個人に判断を任せない命令を要する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n명확하며 짧은 지시를, 즉 개인의 판단을 맡기지 않는 명령을 요함.\nEN:\nWants clear and concise commands, requiring no judgement on his part."
+  },
+  {
+    "key": "P11209-content",
+    "original": "エドガー家継承者, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エドガー家継承者, グレゴールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에드가 가문 승계자, 그레고르 이야기\nEN:\nEdgar Family Heir: Gregor's Story"
+  },
+  {
+    "key": "wuthering_gregor_profile-content",
+    "original": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴール\n男\n9月23日\nA\n167cm\n68Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르\n남\n9월 23일\nA\n167CM\n68KG\nEN:\nGregor\nM\nSeptember 23rd\nA\n167CM (5'6\")\n68KG (149.914lbs)"
+  },
+  {
+    "key": "wuthering_gregor_analysis-content",
+    "original": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本囚人は他の囚人に比べて、人格的な意味では無難に扱えはします。しかし感情の高まりや、環境の急激な変化によって身体の一部、場合によっては全部が虫（甲虫類の一部、■■■■と類似）の組織に変化します。嫌な顔をしないようにポーカーフェイスを徹底することをお勧めします。シニカルな口調をたまに使用しますが、コツさえ掴めば円満な意思疎通が可能な囚人であるので、それほど困難を要することはありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본 수감자는 다른 수감자에 비해 인격적인 면에선 다루기가 무난한 편입니다. 하지만 감정 고조나 환경의 갑작스러운 변화에 따라서 신체의 일부, 간혹 가다가는 전부가 벌레 (갑각 충의 일부, ■■■■와 유사함)의 조직으로 변합니다. 무례한 관리자가 되고 싶지 않다면(그럴 필요는 물론 없지만) 역겨움을 드러내지 않도록 표정 관리는 철저히 하는 것을 권장합니다. 냉소적인 어조를 일부 사용하지만 요령만 안다면 원만한 의사소통이 가능한 수감자이므로 크게 어려움을 요하진 않습니다.\nEN:\nThis Sinner is relatively easy to handle in terms of personality. However, an upsurge of emotion or a sudden change of environment may cause parts or the whole of his body to transform into insectile (notably akin to a carapace, resembling that of the _________) tissues. If you do not wish to be a rude manager (not that you're obligated to be nice), we recommend keeping your facial expression in check so that your disgust is not visible to him. He sometimes uses cynical language, but he can still be reasoned with, and you can get around him without much difficulty as long as you learn the knack of it."
+  },
+  {
+    "key": "P10209-content",
+    "original": "ワザリング・ハイツ バトラー, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ワザリング・ハイツ バトラー, ファウストの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n워더링하이츠 버틀러, 파우스트 이야기\nEN:\nWuthering Heights Butler: Faust's Story"
+  },
+  {
+    "key": "wuthering_faust_profile-content",
+    "original": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウスト\n女\n9月23日\nA\n174cm\n59Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트\n여\n9월 23일\nA\n174CM\n59KG\nEN:\nFaust\nF\nSeptember 23rd\nA\n174CM (5'9\")\n57KG (130.07lbs)"
+  },
+  {
+    "key": "wuthering_faust_analysis-content",
+    "original": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Limbus Companyのバスであるメフィストフェレスのエンジンを開発した囚人です。都市内には対等に知識と知恵を競うことができる者は無いだろうと主張していますが、あながち間違ってもいません。管理人様に接するときは仕方なく言葉を交わすのみ、という囚人の態度に気分を害されることもあるでしょう。誰にもそれとは気づかれないように傲慢な行動をするため、改善の可能性はありません。なので適当に頷く事をお勧めします。誰よりも天才的ではありますが、我々にはこれの使用方法が分かりません。もしかしたら管理人様が見出すかもしれませんね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nLimbus Company의 버스인 메피스토펠레스의 엔진을 개발한 수감자입니다. 도시 내에 대등히 지식과 지혜를 겨룰 수 있는 자는 없을 거라고 스스로 주장하지만, 틀린 말도 아닙니다. 관리자님을 대할 때 어쩔 수 없이 말을 섞는 것뿐이라는 수감자의 태도가 기분 나쁠 수도 있습니다. 모든 사람에게도 드러나지 않는 거만한 행동을 취하기에 개선의 가능성은 없으므로 대충 고개 끄덕이는 것을 권장합니다. 그 누구보다도 천재적이지만 우리는 이것의 사용법을 모릅니다. 어쩌면 관리자님이 알아낼 수도 있을지도요?\nEN:\nThe Sinner who developed the engine of Mephistopheles, the bus operated by Limbus Company. She claims that there is no one in the City who could rival her library of knowledge and wisdom, and she isn't necessarily wrong. You might find her high and mighty attitude when she allows you to converse with her displeasing, but as seen with how she treats everyone with subtle gestures of arrogance, there is no hope of her parting with it, ever. We recommend simply nodding once and getting over it. Even though she has an unparalleled genius, we can't quite figure out how to use this one. Perhaps you could be the one to find out?"
+  },
+  {
+    "key": "P10408-content",
+    "original": "エドガー家チーフバトラー, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エドガー家チーフバトラー, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에드가 가문 치프 버틀러, 료슈 이야기\nEN:\nEdgar Family Chief Butler: Ryōshū's Story"
+  },
+  {
+    "key": "butler_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\nRyōshū\nF\nSeptember 23rd\nA\n171CM (5'7\")\n58KG (127.87lbs)"
+  },
+  {
+    "key": "butler_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  },
+  {
+    "key": "P10809-content",
+    "original": "エドガー家バトラー, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エドガー家バトラー, イシュメールの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에드가 가문 버틀러, 이스마엘 이야기\nEN:\nEdgar Family Butler: Ishmael's Story"
+  },
+  {
+    "key": "butler_ishmael_profile-content",
+    "original": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イシュメール\n女\n9月23日\nA\n171cm\n57Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이스마엘\n여\n9월 23일\nA\n171CM\n57KG\nEN:\nIshmael\nF\nSeptember 23rd\nA\n171CM (5'7\")\n57KG (125.66lbs)"
+  },
+  {
+    "key": "butler_ishmael_profile-content-dup1",
+    "original": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人様は欠点の多そうな囚人たちを見ながら、途方に暮れているかもしれませんね。でもご安心ください。本囚人は比較的無駄口を叩かず仕事をこなしていくことのできる、数少ないタイプです。合理的な意思決定を下す可能性が高いタイプでもありますので、アドバイスが欲しいときは当囚人の方を見ながら話題を切り出すのも良い方法です。しかし、忘れてはなりません。遠くも巨大な水溜まりで、途方もないあの航海を経て生き残った囚人である分、忍耐力は強いと思われますが、一度関係が拗れると修復するのは難しいと思われます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님이 하자가 많아 보이는 여러 수감자들을 보며 막막해 하고 있을지도 모르겠습니다. 안심하세요. 본 수감자는 비교적 군말 없이 일을 처리해 나갈 수 있는 몇 안 되는 유형입니다. 합리적인 의사결정을 내릴 가능성이 높은 유형이므로 조언을 구하고 싶을 땐 해당 수감자 쪽을 바라보며 화두를 꺼내는 것도 좋은 방법입니다. 하지만 잊지 마세요. 멀고도 거대한 물웅덩이에서 말도 안 되는 그 항해를 겪고 살아남은 수감자이니만큼 인내심은 길겠지만, 한 번 관계가 틀어지기 시작하면 회복하기 어려울 것입니다.\nEN:\nYou may be disheartened by the defective state of many of your Sinners, but do not worry; this Sinner is one of the few who can carry out most missions without much complaint. She is likely to make reasonable judgements, so it is a good idea to start conversations while looking her way if you're seeking sound advice. However, you mustn't forget: this Sinner has survived an absurd voyage in a far and wide body of water. Her patience may run deep, but once you take a wrong turn with her, it will be a difficult task to regain her trust."
+  },
+  {
+    "key": "P11009-content",
+    "original": "夜明事務所フィクサー, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夜明事務所フィクサー, シンクレアの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새벽 사무소 해결사, 싱클레어 이야기\nEN:\nDawn Office Fixer: Sinclair's Story"
+  },
+  {
+    "key": "dawn_sinclair_profile-content",
+    "original": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレア\n男\n9月23日\nA\n163cm\n54Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어\n남\n9월 23일\nA\n163CM\n54KG\nEN:\nSinclair\nM\nSeptember 23rd\nA\n163CM (5'4\")\n54KG (119.05lbs)"
+  },
+  {
+    "key": "dawn_sinclair_analysis-content",
+    "original": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定な成長時期的特徴を考慮しても、話し掛けると非常に驚いたり、しかめっ面をしたりするなどの行動が目立つ囚人です。戦闘にも不慣れなので、最初は内臓を直視するのにも苦悩すると思われます。囚人の中には暴力的な傾向を見せる者もいると思いますので、管理人様は本囚人に鞭よりかは飴を与えることをお勧めします。本人も認識することができない殺気を放ってはいますが、我が社の事業分野に対する潜在能力があるという意味なので、適切な刺激さえ与えれば立派に成長することが期待されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정한 성장 시기적 특징을 감안하여도 말을 걸 때 유독 놀라거나 인상을 구기는 행동이 두드러지는 수감자입니다. 전투에도 익숙하지 못하여 처음에는 내장을 보는 것도 힘겨워할 것입니다. 수감자 중엔 폭력적인 성향을 띄는 이도 있을 것이므로 관리자님은 본 수감자에게 채찍보다는 당근을 건네는 것이 권장됩니다. 본인도 인지 못 하는 살기를 띠고 있기도 합니다만, 우리 회사의 사업분야에 대한 잠재성이 있다는 뜻이므로 적절한 자극만 주어진다면 훌륭히 성장할 것으로 기대합니다.\nEN:\nEven with the volatile nature of human growth around his age taken into consideration, this Sinner seems to get particularly startled or frown when spoken to. He isn't used to real combat at the moment, meaning that he may struggle to keep himself together at the sight of something as mild as spilt innards at first. As there may be those with violent tendencies among your crew, we recommend taking an approach focused on positive reinforcement with this sinner. He appears to possess a murderous gaze that he himself isn't aware of; this is a hopeful sign that he has the potential to grow into an expert of our company's profession with the right stimuli."
+  },
+  {
+    "key": "P10109-content",
+    "original": "薬指点描派スチューデント, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薬指点描派スチューデント, イサンの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약지 점묘파 스튜던트, 이상 이야기\nEN:\nThe Ring Pointillist Student: Yi Sang's Story"
+  },
+  {
+    "key": "rings_yisang_profile-content",
+    "original": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イサン\n男\n9月23日\nA\n176cm\n70Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상\n남\n9월 23일\nA\n176CM\n70KG\nEN:\nYi Sang\nM\nSep. 23\nA\n176cm (5'9\")\n70kg (154.3lbs)"
+  },
+  {
+    "key": "rings_yisang_analysis-content",
+    "original": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[検閲済]翼所属の最年少主席研究員出身で、他の囚人に比べて優秀な知能を持っています。日常的なコミュニケーションは、恐らく我々が選別した管理人様の物差しから考えると難しいと思われます。とはいえ、露骨に会話を避けるのもまた不安要素が残ります。たまに本囚人の沈黙状態が長いことがありますが、一連の思考を脳内で処理している最中ですので、広い心で待っていただくことをお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[보안 검열] 날개 소속 최연소 수석 연구원 출신으로 타 수감자들에 비해 우수한 지능을 가지고 있습니다. 일상적인 소통은 아마 우리가 뽑은 관리자님의 수준에선 힘들 것으로 판단됩니다. 그렇다고 노골적으로 대화를 피하는 것 또한 불안 요소가 있습니다. 간혹 본 수감자의 침묵 상태가 길더라도 일련의 사고들을 뇌 속에서 처리 중이므로 너그럽게 기다려 주시는 걸 권장합니다.\nEN:\nFormerly the youngest chief researcher at the [REDACTED] Wing, this Sinner possesses higher intelligence compared to most others. We estimate that everyday conversation with this Sinner will prove difficult for managers selected by our current screening process. Avoiding communication altogether will pose a risk on its own, however. If the Sinner remains silent for a long time, that means he is currently processing a line of deliberate thought; we recommend waiting patiently for him."
+  },
+  {
+    "key": "P11109-content",
+    "original": "薬指点描派スチューデント, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薬指点描派スチューデント, ウーティスの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약지 점묘파 스튜던트, 오티스 이야기\nEN:\nThe Ring Pointillist Student: Outis's Story"
+  },
+  {
+    "key": "rings_outis_profile-content",
+    "original": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウーティス\n女\n9月23日\nA\n177cm\n64Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오티스\n여\n9월 23일\nA\n177CM\n64KG\nEN:\nOutis\nF\nSeptember 23rd\nA\n177CM (5'9\")\n64KG (141.1lbs)"
+  },
+  {
+    "key": "rings_outis_analysis-content",
+    "original": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人の力量によって立派な助言者になることもある囚人です。しかし、過度なお節介を焼く囚人でもあるので適度に相槌を打つことをお勧めします。戦術を含めた様々な技術において熟達しているので助言を求めるのが効率的です。加えて工房技術に関する幅広い知識を持っているので、バスの簡単な修理くらいは任せても良いでしょう。[注意] - 他の囚人とは違って過去の記録の閲覧は許可されません。[注意] - 任務以外で頭を捻らせないように監督願います。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자의 역량에 따라 훌륭한 조언자가 되어줄 수도 있는 수감자입니다. 하지만 오지랖이 과한 수감자이기도 하므로 적당히 맞장구를 쳐주는 것을 권장합니다. 전술을 포함한 여러 경험에 있어서는 숙련자이므로 조언을 구하는 편이 효율적입니다. 덤으로 공방 기술들에 대한 해박한 지식도 있으니 버스의 간단한 수리 정도는 맡겨도 될 것입니다. [주의] - 다른 수감자들과는 달리 과거 사의 열람이 허락되지 않습니다. [주의] - 임무외에 머리굴러가는 소리가 나지 않도록 감독하십시오.\nEN:\nThis Sinner could serve as an excellent advisor depending on your capability. However, she also has a meddlesome tendency, so it is recommended to keep her satisfied with short replies of agreement. She is an expert when it comes to tactics and various pearls of wisdom about life, making her advice all the more valuable for your mission. In addition, she possesses a vast knowledge of workshop technologies; you could trust her with simple repairs of the bus. \nNOTICE: Unlike the other Sinners, accessing records pertaining to the past of this Sinner is not permitted.\nWARNING: Keep an eye on this Sinner and beware that she does not exercise her cunning intellect for purposes other than completing our company's mission."
+  },
+  {
+    "key": "P10609-content",
+    "original": "20区ユロージヴィ, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区ユロージヴィ, ホンルの物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비, 홍루 이야기\nEN:\nDistrict 20 Yurodivy: Hong Lu's Story"
+  },
+  {
+    "key": "yuro_honglu_profile-content",
+    "original": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンル\n男\n9月23日\nA\n178cm\n74Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍루\n남\n9월 23일\nA\n178CM\n74KG\nEN:\nHong Lu\nM\nSeptember 23rd\nA\n178CM (5'10\")\n74KG (163.14lbs)"
+  },
+  {
+    "key": "yuro_honglu_analysis-content",
+    "original": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "我が社の資産になるまで何不自由なく生きてきた囚人です。それゆえ自由を求めようとしますが、たまに他の囚人の製造した食べ物を見て低級文化に対する無知さを露呈し、侮蔑的な質問をするなど他人の地雷を踏むような状況が起こり得ます。ただ、当て擦っている訳ではなく、純粋な好奇心から湧き出た質問なので、お互いに刃物を取り出させるのはあまり良い解決方法ではありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리 회사의 자산이 되기 전까지 부족함 없이 살아왔던 수감자입니다. 그러므로 자유로움을 추구하려고 하지만 간혹, 타 수감자가 제조한 음식을 보고 하위 저급문화에 대한 무지함을 드러냄과 모멸적인 질문을 하는 등 다른 수감자들의 속을 뒤집어지게 만드는 상황이 있을 수 있습니다. 하지만 비꼬는 것이 아닌 순수한 호기심에 불과하므로 서로 날붙이를 꺼내 들게 하는 건 썩 좋은 방법이 아닙니다.\nEN:\nA Sinner who had lived an affluent life before becoming our company's asset. As such, he has a certain admiration for a free life; but occasionally, he may make ignorant and unsavory questions in regards to the food cooked by a certain other Sinner or other aspects of the low-lives' lowly culture. This can cause significant irritation for the other sinners. However, it is important to note that no sarcastic undertones are contained in his curiosity-driven inquiries, so it is ill-advised to let them get physical over it."
+  },
+  {
+    "key": "P10409-content",
+    "original": "20区ユロージヴィ, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "20区ユロージヴィ, 良秀の物語\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n20구 유로지비, 료슈 이야기\nEN:\nDistrict 20 Yurodivy: Ryōshū's story"
+  },
+  {
+    "key": "yuro_ryoshu_profile-content",
+    "original": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "良秀\n女\n9月23日\nA\n171cm\n58Kg\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n료슈\n여\n9월 23일\nA\n171CM\n58KG\nEN:\nRyōshū\nF\nSeptember 23rd\nA\n171CM (5'7\")\n58KG (127.87lbs)"
+  },
+  {
+    "key": "yuro_ryoshu_analysis-content",
+    "original": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人ごとにそれぞれの信条がありますし、それを尊重することが管理人としての当然の責務ではあるとはいいますが、場合によっては理解するフリすら難しいこともあると思われます。当囚人は普段からタバコばかり吸って寡黙な状態を維持していますが、戦闘をするときだけは目つきが恍惚としてチラつくという事実にお気づきですよね。戦闘中に無策で相手の頭を潰してばかりいることは、美を退歩させる教養の無い行動だと思います。[警告] - 当囚人は我が社でも手に負えない背景を持っているので、できるだけ私的な恨みを作らないようにしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자마다 그들만의 신조가 있는 법이고 그걸 존중해 주는 것이 마땅한 관리자의 소관이라고들 하겠지만 어떤 건 이해해 주는 시늉조차 힘들 때도 있을 겁니다. 해당 수감자는 평소에 담배만 태우며 과묵한 상태를 유지하지만 전투를 할 때만큼은 눈빛이 황홀함으로 아른거린다는 사실을 눈치챘을 테죠. 전투 중에 대책 없이 상대의 머리통을 으깨기만 하는 건 미를 퇴보시키는 무식한 행위라고 생각합니다. [경고] - 본 수감자는 우리 회사로도 감당이 어려운 뒷배경을 가졌으니 가능한 사적인 원한을 만들지 않도록 하십시오.\nEN:\nAs they say, every person has their own creed—and it’s only right to respect it as the Executive Manager. But with some creeds, you will have difficulty in even simply pretending to sympathize. You will have noticed that the sinner in question is a silent chain-smoker whose eyes shine with a euphoric gleam only during battle. She believes that senselessly destroying the enemy's heads is an uncultured act and a step backward for art. CAUTION: This sinner's background is one that even our company may have trouble handling; it is advised against making her breed personal resentment towards you."
+  }
+]

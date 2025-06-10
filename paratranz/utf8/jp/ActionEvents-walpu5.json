@@ -1,0 +1,128 @@
+[
+  {
+    "key": "971038-desc",
+    "original": "青い光で満ち満ちた場所、揺らめく黒い何かが私たちに手を差し伸べた。\n\nそれの手には不吉な感じが漂う弾丸がある。\n\n「これはどんな人間も当てられる魔法の弾丸だ。」\n\n「しかし…最後の弾丸を使用するとき、弾丸はお前の愛する人に向かってしまう。」\n\n「それでもこの弾丸で撃ちたい人間がいるなら…始末してやろう。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い光で満ち満ちた場所、揺らめく黒い何かが私たちに手を差し伸べた。\n\nそれの手には不吉な感じが漂う弾丸がある。\n\n「これはどんな人間も当てられる魔法の弾丸だ。」\n\n「しかし…最後の弾丸を使用するとき、弾丸はお前の愛する人に向かってしまう。」\n\n「それでもこの弾丸で撃ちたい人間がいるなら…始末してやろう。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n푸른 불빛이 가득한 곳, 일렁이는 검은 무언가가 우리에게 손을 내밀었다.\n\n그것의 손에는 불길한 기운이 넘실거리는 탄환이 있다.\n\n'이건 어떤 사람이라도 맞출 수 있는 마법의 탄환이다.'\n\n'하지만... 마지막 탄환을 사용할 때, 탄환은 네가 사랑하는 사람에게 향하고 말지.'\n\n'그럼에도 이 탄환으로 쏘고 싶은 사람이 있다면… 처리해주마.'\nEN:\nAmidst this blue-aura filled place, a shadowy being approaches us and holds out his hand.\n\nIn the palm of the being is a bullet. It pulsates with a foreboding aura.\n\n'This is a magic bullet that will never miss, no matter what.'\n\n'But... it has one condition. The final bullet will always fly toward the one you love most.'\n\n'If you are still willing to fire this bullet, or have someone you would like to shoot... I can grant you that.'"
+  },
+  {
+    "key": "971038-options[0].message",
+    "original": "信じられないと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "信じられないと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n믿을 수 없다고 말한다.\nEN:\nExpress doubt."
+  },
+  {
+    "key": "971038-options[0].messageDesc",
+    "original": "傲慢・嫉妬有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傲慢・嫉妬有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 · 질투 유리 판정 진행 시, 범용 E.G.O GIFT 획득\nEN:\nRun a Pride & Envy Advantage check to gain a Keywordless E.G.O Gift."
+  },
+  {
+    "key": "971038-options[1].message",
+    "original": "自分で撃ってみたいと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分で撃ってみたいと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n직접 쏘고 싶다고 말한다.\nEN:\nExpress willingness to shoot the bullet myself."
+  },
+  {
+    "key": "971038-options[1].messageDesc",
+    "original": "憤怒・傲慢有利判定進行時、貫通E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒・傲慢有利判定進行時、貫通E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 · 오만 유리 판정 진행 시, 관통 E.G.O GIFT 획득\nEN:\nRun a Wrath & Pride Advantage check to gain a Pierce E.G.O Gift."
+  },
+  {
+    "key": "971039-desc",
+    "original": "遠くない場所から銃声が聞こえてくる。\n\n近寄ると、そこには血に塗れた戦闘の痕跡が残っている。\n\n戦っている者たちは既にどこか別の場所へ行ったのか、静かだ。\n\nこれ以上回らない歯車が、血に塗れた床にいくつも転がっている。\n\nその中央に、無傷の椅子がひとつある。\n\n椅子には、回り続けている歯車がひとつある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "遠くない場所から銃声が聞こえてくる。\n\n近寄ると、そこには血に塗れた戦闘の痕跡が残っている。\n\n戦っている者たちは既にどこか別の場所へ行ったのか、静かだ。\n\nこれ以上回らない歯車が、血に塗れた床にいくつも転がっている。\n\nその中央に、無傷の椅子がひとつある。\n\n椅子には、回り続けている歯車がひとつある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n멀지 않은 곳에서 총성이 들려온다.\n\n가까이 다가가면, 그곳에는 피로 뒤덮인 전투의 흔적이 남아있다.\n\n싸우던 이들은 이미 다른 곳으로 갔는지 잠잠하다.\n\n더 이상 돌아가지 않는 톱니가 피로 뒤덮인 바닥에 여럿 늘어져있다.\n\n그런 가운데 멀쩡한 의자가 하나 보인다.\n\n의자에는 톱니 하나가 계속해서 회전하고 있다.\nEN:\nGunfire echoes from a close distance.\n\nWhen we sought out the sound, we only found ourselves the bloody remains of a battle.\n\nThe combatants must've already left the scene; it is quiet here.\n\nSeveral gears, now inert, litter the bloodied floor.\n\nAmidst them is an intact chair.\n\nThere's a gear on the chair that's still turning."
+  },
+  {
+    "key": "971039-options[0].message",
+    "original": "椅子に座ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "椅子に座ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의자에 앉아본다.\nEN:\nTake a seat."
+  },
+  {
+    "key": "971039-options[0].messageDesc",
+    "original": "傲慢・嫉妬有利判定進行時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傲慢・嫉妬有利判定進行時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 · 질투 유리 판정 진행 시, 호흡 E.G.O GIFT 획득\nEN:\nRun a Pride & Envy Advantage check to gain a Poise E.G.O Gift."
+  },
+  {
+    "key": "971039-options[1].message",
+    "original": "通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지나간다.\nEN:\nWalk past it."
+  },
+  {
+    "key": "971040-desc",
+    "original": "人気(ひとけ)のない事務所のように見える場所に入った。\n\n中では数人のフィクサーたちが依頼について話しているのが見える。\n\n「じゃあ、今回の依頼はスナイパーライフルを2丁だけ持って行くことにしよう。」\n\n「予備としてアサルトライフルも持って行ったほうがよくないか？」\n\n「じゃあ、それも持って行くことにしよう。」\n\n彼らは会話が終わるとすぐに荷物をたくさん抱えて外へ出て行った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人気(ひとけ)のない事務所のように見える場所に入った。\n\n中では数人のフィクサーたちが依頼について話しているのが見える。\n\n「じゃあ、今回の依頼はスナイパーライフルを2丁だけ持って行くことにしよう。」\n\n「予備としてアサルトライフルも持って行ったほうがよくないか？」\n\n「じゃあ、それも持って行くことにしよう。」\n\n彼らは会話が終わるとすぐに荷物をたくさん抱えて外へ出て行った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한적한 사무실처럼 보이는 곳으로 들어왔다.\n\n안에서는 몇몇 해결사들이 의뢰에 관한 이야기를 하는 것이 보인다.\n\n'그럼 이번 의뢰는 저격소총 두 정만 들고 가는 걸로 하지.'\n\n'예비용으로 돌격소총도 가져가는 게 낫지 않아?'\n\n'그럼 그것까지 챙기는 걸로.'\n\n그들은 대화가 끝나자마자 짐을 가득 챙기고 밖으로 나가버렸다.\nEN:\nWe found ourselves in what appeared to be a rather empty office building.\n\nThere were Fixers here, discussing the details of their upcoming contract.\n\n'Got it. We'll bring just two sniper rifles for this contract.'\n\n'I'd say we need an assault rifle just in case.'\n\n'Fine by me.'\n\nAs soon as the discussion was over, the Fixers picked up their packs and left the room."
+  },
+  {
+    "key": "971040-options[0].message",
+    "original": "テーブルを調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "テーブルを調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n테이블을 살펴본다.\nEN:\nObserve the desk."
+  },
+  {
+    "key": "971040-options[0].messageDesc",
+    "original": "傲慢・嫉妬有利判定進行時、貫通E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傲慢・嫉妬有利判定進行時、貫通E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 · 질투 유리 판정 진행 시, 관통 E.G.O GIFT 획득\nEN:\nRun a Pride & Envy Advantage check to gain a Pierce E.G.O Gift."
+  },
+  {
+    "key": "971040-options[1].message",
+    "original": "フィクサーたちに付いて行って出る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フィクサーたちに付いて行って出る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사람들을 따라 나간다.\nEN:\nFollow them outside."
+  },
+  {
+    "key": "971041-desc",
+    "original": "銃が組み立てられる音と、本のページをめくる音が満ちた空間。\n\n少し厳かな雰囲気の中で人々が何かを教え、また学んでいる。\n\n囚人たちも教官のように見える人物から、何かを学べそうだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "銃が組み立てられる音と、本のページをめくる音が満ちた空間。\n\n少し厳かな雰囲気の中で人々が何かを教え、また学んでいる。\n\n囚人たちも教官のように見える人物から、何かを学べそうだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총기가 조립되는 소리와 책장 넘어가는 소리로 가득한 공간.\n\n조금은 엄숙한 분위기에서 사람들이 무언가를 가르치고, 또 배우고 있다.\n\n수감자들도 교관처럼 보이는 사람에게 무언가를 배울 수 있을 것 같다.\nEN:\nI can hear the sounds of gun assembly and flipping book pages.\n\nThis place seems to be an educational facility of sorts. Rather serious, too.\n\nMaybe the Sinners can learn something from one of the instructors."
+  },
+  {
+    "key": "971041-options[0].message",
+    "original": "CQBを習得する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "CQBを習得する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nCQB를 익힌다.\nEN:\nLearn CQB."
+  },
+  {
+    "key": "971041-options[0].messageDesc",
+    "original": "憤怒・色欲有利判定進行時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒・色欲有利判定進行時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 · 색욕 유리 판정 진행 시, 호흡 E.G.O GIFT 획득\nEN:\nRun a Wrath & Lust Advantage check to gain a Poise E.G.O Gift."
+  },
+  {
+    "key": "971041-options[1].message",
+    "original": "指揮術を習得する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "指揮術を習得する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지휘술을 익힌다.\nEN:\nLearn the art of war."
+  },
+  {
+    "key": "971041-options[1].messageDesc",
+    "original": "憤怒・嫉妬有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒・嫉妬有利判定進行時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 · 질투 유리 판정 진행 시, 범용 E.G.O GIFT 획득\nEN:\nRun a Wrath & Envy Advantage check to gain a Keywordless E.G.O Gift."
+  }
+]

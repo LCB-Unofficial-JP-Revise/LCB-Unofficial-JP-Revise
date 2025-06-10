@@ -1,0 +1,2949 @@
+[
+  {
+    "key": "101001-name",
+    "original": "人間という贄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人間という贄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사람이라는 제물\nEN:\nHuman Offering"
+  },
+  {
+    "key": "101001-subDesc",
+    "original": "遠くに土偶が見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "遠くに土偶が見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저 멀리 토우들이 보인다.\nEN:\nYou see clay dolls in the distance."
+  },
+  {
+    "key": "101001-desc",
+    "original": "土偶たちが何か探しているかのように、死体を漁っている。\n贄を捧げよという叫びが絶えず聞こえる。\n彼らは今にも私たちに襲いかかりそうな様子だ。\n\nちょうど、近くで息を荒らげながら死にゆく人が見える。\nこの人を贄に捧げようか？\nあるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "土偶たちが何か探しているかのように、死体を漁っている。\n贄を捧げよという叫びが絶えず聞こえる。\n彼らは今にも私たちに襲いかかりそうな様子だ。\n\nちょうど、近くで息を荒らげながら死にゆく人が見える。\nこの人を贄に捧げようか？\nあるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n토우들이 무언가를 찾고 있는 듯 시체를 뒤지고 있다.\n제물을 바치라는 외침이 끊이지 않는다.\n그들의 모습은 당장이라도 우리를 덮칠 것 만 같다.\n\n마침, 근처에 숨을 헐떡이며 죽어가는 사람이 보인다.\n이 사람을 제물로 바칠까?\n아니면…\nEN:\nThey’re rummaging through corpses, looking for something.\nRelentless demands for an offering ring in the ears.\nThey look like they might jump us at any second.\n\nYou see a dying person nearby, gasping for air.\nShould you offer this person up?\nOr…"
+  },
+  {
+    "key": "101001-options[0].message",
+    "original": "捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바친다.\nEN:\nOffer the person."
+  },
+  {
+    "key": "101001-options[0].messageDesc",
+    "original": "全味方の精神力減少。E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方の精神力減少。E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군 정신력 감소. E.G.O GIFT 획득\nEN:\nAll allies lose SP. Gain an E.G.O Gift."
+  },
+  {
+    "key": "101001-options[0].result[0]",
+    "original": "満足した土偶は死体になりゆく人を担いでどこかへ消えていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "満足した土偶は死体になりゆく人を担いでどこかへ消えていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n만족한 토우들은 시체가 되어가는 사람을 들쳐 메고 어디론 가로 사라졌다.\nEN:\nSatisfied, the clay dolls carried the corpse-to-be off into the distance."
+  },
+  {
+    "key": "101001-options[1].message",
+    "original": "捧げない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捧げない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바치지 않는다.\nEN:\nDon’t offer the person."
+  },
+  {
+    "key": "101001-options[1].messageDesc",
+    "original": "戦闘発生。勝利時により強力なE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生。勝利時により強力なE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생. 승리 시 더욱 강한 E.G.O GIFT 획득\nEN:\nBegin a combat encounter. Win to gain a stronger E.G.O Gift."
+  },
+  {
+    "key": "101001-options[1].result[0]",
+    "original": "何も行動を取らずにいると、怒った土偶たちが襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も行動を取らずにいると、怒った土偶たちが襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무런 행동을 하지 않자, 분노한 토우들이 덮쳐 들었다.\nEN:\nAngered by your inaction, the clay dolls attacked you."
+  },
+  {
+    "key": "101001-options[2].message",
+    "original": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자를 바친다.\nEN:\nOffer a Sinner."
+  },
+  {
+    "key": "101001-options[2].messageDesc",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n......\nEN:\n……"
+  },
+  {
+    "key": "101001-options[2].result[0]",
+    "original": "「管理人、気でも狂ったか？」\n\n囚人が怒りながら問い詰めてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「管理人、気でも狂ったか？」\n\n囚人が怒りながら問い詰めてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'관리자, 미쳤어?'\n\n수감자들이 분노하며 따진다.\nEN:\n“Are your screws loose, Manager?”\n\nThe Sinners seem upset by your decision."
+  },
+  {
+    "key": "10100101-name",
+    "original": "人間という贄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人間という贄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사람이라는 제물\nEN:\nHuman Offering"
+  },
+  {
+    "key": "10100101-subDesc",
+    "original": "遠くに土偶が見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "遠くに土偶が見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저 멀리 토우들이 보인다.\nEN:\nYou see clay dolls in the distance."
+  },
+  {
+    "key": "10100101-desc",
+    "original": "囚人は捧げられないようだ。\n\nやはり死にゆく人を贄に捧げようか？\nあるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人は捧げられないようだ。\n\nやはり死にゆく人を贄に捧げようか？\nあるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자는 바칠 수 없을 것 같다.\n\n역시 죽어가는 사람을 제물로 바칠까?\n아니면…\nEN:\nLooks like the Sinners are out of the question.\n\nShould you offer up this dying person?\nOr…"
+  },
+  {
+    "key": "10100101-options[0].message",
+    "original": "捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바친다.\nEN:\nOffer the person."
+  },
+  {
+    "key": "10100101-options[0].messageDesc",
+    "original": "全味方の精神力減少。E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方の精神力減少。E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군 정신력 감소. E.G.O GIFT 획득\nEN:\nAll allies lose SP. Gain an E.G.O Gift."
+  },
+  {
+    "key": "10100101-options[0].result[0]",
+    "original": "満足した土偶は死体になりゆく人を担いでどこかへ消えていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "満足した土偶は死体になりゆく人を担いでどこかへ消えていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n만족한 토우들은 시체가 되어가는 사람을 들쳐 메고 어디론 가로 사라졌다.\nEN:\nSatisfied, the clay dolls carried the corpse-to-be off into the distance."
+  },
+  {
+    "key": "10100101-options[1].message",
+    "original": "捧げない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捧げない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바치지 않는다.\nEN:\nDon’t offer the person."
+  },
+  {
+    "key": "10100101-options[1].messageDesc",
+    "original": "戦闘発生。勝利時により強力なE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生。勝利時により強力なE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생. 승리 시 더욱 강한 E.G.O GIFT 획득\nEN:\nBegin a combat encounter. Win to gain a stronger E.G.O Gift."
+  },
+  {
+    "key": "10100101-options[1].result[0]",
+    "original": "何も行動を取らずにいると、怒った土偶たちが襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も行動を取らずにいると、怒った土偶たちが襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무런 행동을 하지 않자, 분노한 토우들이 덮쳐 들었다.\nEN:\nAngered by your inaction, the clay dolls attacked you."
+  },
+  {
+    "key": "101002-name",
+    "original": "永遠の解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "永遠の解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영원한 해방\nEN:\nEternal Rest"
+  },
+  {
+    "key": "101002-desc",
+    "original": "どこからか微かな声が聞こえてくる。\n\n「助けてください…。」\n\n声のする方へ行きますか？あるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どこからか微かな声が聞こえてくる。\n\n「助けてください…。」\n\n声のする方へ行きますか？あるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어디선가 기어 들어가는 소리가 들려온다.\n\n도와주세요...\n\n소리를 따라가 볼까? 아니면…\nEN:\nYou hear a faint voice.\n\n“Please, help…”\n\nDo you follow the sound? Or…"
+  },
+  {
+    "key": "101002-options[0].message",
+    "original": "声のする方へ行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "声のする方へ行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소리가 들리는 곳으로 가본다.\nEN:\nCheck out the source of the voice."
+  },
+  {
+    "key": "101002-options[0].messageDesc",
+    "original": "傲慢判定進行。判定進行後、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傲慢判定進行。判定進行後、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 판정 진행. 판정 진행 후 E.G.O GIFT 획득\nEN:\nRun a Pride check. Gain an E.G.O Gift."
+  },
+  {
+    "key": "101002-options[0].result[0]",
+    "original": "兵士一名が爆発した残骸の下敷きになって、呻き声をあげている。\n\n「どうか殺してください…とても痛いんです。」\n\nこの人を置いて行くことはできなさそうだ。\nどんな囚人が彼に安息をもたらすだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "兵士一名が爆発した残骸の下敷きになって、呻き声をあげている。\n\n「どうか殺してください…とても痛いんです。」\n\nこの人を置いて行くことはできなさそうだ。\nどんな囚人が彼に安息をもたらすだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n군인 한 명이 폭발한 잔해에 깔려서 신음 하고 있다.\n\n\"제발 죽여주세요… 너무 아파요.\"\n\n이자를 그냥 두고 갈 수는 없을 것 같다.\n어떤 수감자가 그에게 안식을 전해줄 수 있을까?\nEN:\nA soldier was crushed under rubble, gasping in agony.\n\n“Please just kill me… It hurts too much.”\n\nYou can’t ignore this person.\nWho will be ordered to bring this soldier to peace?"
+  },
+  {
+    "key": "101002-options[1].message",
+    "original": "声を無視する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "声を無視する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소리를 무시한다.\nEN:\nIgnore the voice."
+  },
+  {
+    "key": "101002-options[1].result[0]",
+    "original": "もしかしたら聞き違いかもしれない。\n風の音が人間の声に聞こえるのは良くあることだ。\n\n私たちは足を速めることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もしかしたら聞き違いかもしれない。\n風の音が人間の声に聞こえるのは良くあることだ。\n\n私たちは足を速めることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어쩌면 잘못 들었을 수도 있다.\n바람 소리가 사람의 목소리와 비슷하게 들리는 건 꽤 흔한 일이다.\n\n우리는 발걸음을 재촉하기로 했다.\nEN:\nIt could just have been your senses playing tricks on you.\nIt’s not uncommon for howling wind to be mistaken for a human voice.\n\nYou decided to hurry along."
+  },
+  {
+    "key": "101003-name",
+    "original": "耐え難い存在との出逢い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "耐え難い存在との出逢い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참을 수 없는 존재와의 만남\nEN:\nAn Encounter with the Unbearable"
+  },
+  {
+    "key": "101003-subDesc",
+    "original": "カサッという音が耳を掠める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カサッという音が耳を掠める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n바스락 소리가 귀를 긁는다.\nEN:\nCrunching sounds jar on your nerves."
+  },
+  {
+    "key": "101003-desc",
+    "original": "狭い路地を進んでいると、ゴキブリがうじゃうじゃと飛び出してきた。\nカサカサという音と姿が吐き気を催してくる。\n\nこれを避けて通るべきだろうか？あるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狭い路地を進んでいると、ゴキブリがうじゃうじゃと飛び出してきた。\nカサカサという音と姿が吐き気を催してくる。\n\nこれを避けて通るべきだろうか？あるいは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n좁은 골목을 지나가던 중 바퀴벌레들이 우르르 튀어나왔다.\n바삭바삭 거리는 소리와 모습이 헛구역질을 불러일으킨다.\n\n이것을 피해서 지나가야 할까? 아니면…\nEN:\nWhile traversing a narrow passage, a swarm of cockroaches crawled into the way.\nThe rustling visage is almost revolting.\n\nDo you walk past them? Or…"
+  },
+  {
+    "key": "101003-options[0].message",
+    "original": "物凄く気持ち悪いが、何が起こるか分からないから注意深く通り抜ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "物凄く気持ち悪いが、何が起こるか分からないから注意深く通り抜ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n너무나 징그럽지만 무슨 일이 일어날지 모르니 조심스럽게 지나간다.\nEN:\nCarefully move past the gross swarm."
+  },
+  {
+    "key": "101003-options[0].messageDesc",
+    "original": "全味方の精神力減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方の精神力減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군 정신력 감소.\nEN:\nAll allies lose SP"
+  },
+  {
+    "key": "101003-options[0].result[0]",
+    "original": "「うぅぅ…足から登ってきた！」\n\n皆が無事に路地を通り過ぎたが、不快な表情は隠せずにいた。\n精神的に疲れたようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「うぅぅ…足から登ってきた！」\n\n皆が無事に路地を通り過ぎたが、不快な表情は隠せずにいた。\n精神的に疲れたようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'으으윽… 다리에 타고 올라왔어!'\n\n모두가 무사히 골목을 지나왔지만, 불쾌한 표정을 숨기지 못하고 있다.\n정신적으로 지친 듯 하다.\nEN:\n“Ewwww… One got on my leg!”\n\nEveryone managed to get through the passage, but their disgust is clearly visible.\nThey seem fatigued by the experience."
+  },
+  {
+    "key": "101003-options[1].message",
+    "original": "耐えられない。囚人と共に手…足当たり次第ゴキブリを踏み潰した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "耐えられない。囚人と共に手…足当たり次第ゴキブリを踏み潰した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참을 수 없다. 수감자와 함께 바퀴벌레를 마구 밟는다.\nEN:\nEnough is enough. Crush the cockroaches with the Sinners."
+  },
+  {
+    "key": "101003-options[1].messageDesc",
+    "original": "グレゴールの精神力が大幅減少。戦闘発生。勝利時E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "グレゴールの精神力が大幅減少。戦闘発生。勝利時E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그레고르 정신력 크게 감소. 전투 발생. 승리 시 E.G.O GIFT 획득\nEN:\nGregor loses a lot of SP. Begin a combat encounter. Win to gain an E.G.O Gift."
+  },
+  {
+    "key": "101003-options[1].result[0]",
+    "original": "「チッ…。」\n\nグレゴールが居心地悪そうに顔を背けた。\nすると、怒った虫軍人たちが襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「チッ…。」\n\nグレゴールが居心地悪そうに顔を背けた。\nすると、怒った虫軍人たちが襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'쯧...'\n\n그레고르가 불편한 듯 고개를 돌렸다.\n그러자 분노한 벌레 군인들이 덤벼들었다.\nEN:\n“Tsk…”\n\nGregor turned away from the carnage, discontent.\nSoon after, a crowd of angry bug-soldiers came charging for us."
+  },
+  {
+    "key": "102001-name",
+    "original": "怪しく輝く自販機\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怪しく輝く自販機\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수상하게 반짝거리는 자판기\nEN:\nSuspiciously Sparkly Vending Machine"
+  },
+  {
+    "key": "102001-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "102001-desc",
+    "original": "工場のど真ん中に、大きなボタンが付いている自販機がある。\n\nカラフルでかわいらしい形のボタン…。\nなんだか、押さなければならないような気がする。\n\nどんなボタンを押してみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "工場のど真ん中に、大きなボタンが付いている自販機がある。\n\nカラフルでかわいらしい形のボタン…。\nなんだか、押さなければならないような気がする。\n\nどんなボタンを押してみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공장의 한 가운데, 큼지막한 버튼이 붙어 있는 자판기가 있다.\n\n알록달록하고 귀여운 모양의 버튼…\n마치 누르지 않으면 안될 것만 같은 기분이 든다.\n\n어떤 버튼을 눌러볼까?\nEN:\nIn the middle of the factory, you find a vending machine with large buttons.\n\nThey’re colorful and fancy…\nYou feel a strong compulsion to press them.\n\nWhich one will you press?"
+  },
+  {
+    "key": "102001-options[0].message",
+    "original": "拳が描かれた赤いボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拳が描かれた赤いボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주먹이 그려진 빨간 버튼을 누른다.\nEN:\nPress the red button with a fist icon."
+  },
+  {
+    "key": "102001-options[0].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift"
+  },
+  {
+    "key": "102001-options[0].result[0]",
+    "original": "「おめでと！おめでと！」\n\nガタンと音がして排出口に何かが落ちた。\n\nおもちゃの拳のようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「おめでと！おめでと！」\n\nガタンと音がして排出口に何かが落ちた。\n\nおもちゃの拳のようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'축하! 축하!'\n\n달카당 거리며 배출구에 무언가가 떨어졌다.\n\n장난감 주먹인 것 같다.\nEN:\n“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy fist."
+  },
+  {
+    "key": "102001-options[1].message",
+    "original": "足が描かれた黄色いボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "足が描かれた黄色いボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n발이 그려진 노랑 버튼을 누른다.\nEN:\nPress the yellow button with a foot icon."
+  },
+  {
+    "key": "102001-options[1].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift"
+  },
+  {
+    "key": "102001-options[1].result[0]",
+    "original": "「おめでと！おめでと！」\n\nガタンと音がして排出口に何かが落ちた。\n\nおもちゃの足のようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「おめでと！おめでと！」\n\nガタンと音がして排出口に何かが落ちた。\n\nおもちゃの足のようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'축하! 축하!'\n\n달카당 거리며 배출구에 무언가가 떨어졌다.\n\n장난감 발인 것 같다.\nEN:\n“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy foot."
+  },
+  {
+    "key": "102001-options[2].message",
+    "original": "ハートが描かれた緑のボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ハートが描かれた緑のボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하트가 그려진 초록 버튼을 누른다.\nEN:\nPress the green button with a heart icon."
+  },
+  {
+    "key": "102001-options[2].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift"
+  },
+  {
+    "key": "102001-options[2].result[0]",
+    "original": "「おめでと！おめでと！」\n\nガタンと音がして排出口に何かが落ちた。\n\nおもちゃのネジのようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「おめでと！おめでと！」\n\nガタンと音がして排出口に何かが落ちた。\n\nおもちゃのネジのようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'축하! 축하!'\n\n달카당 거리며 배출구에 무언가가 떨어졌다.\n\n장난감 나사인 것 같다.\nEN:\n“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy screw."
+  },
+  {
+    "key": "102001-options[3].message",
+    "original": "全部のボタンを1回ずつ全部押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全部のボタンを1回ずつ全部押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 버튼을 1번씩 다 누른다.\nEN:\nPress all the buttons at once."
+  },
+  {
+    "key": "102001-options[3].messageDesc",
+    "original": "E.G.O GIFT 3種獲得。ただし…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT 3種獲得。ただし…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 3종 획득. 다만...\nEN:\nGain 3 E.G.O Gifts. But…"
+  },
+  {
+    "key": "102001-options[3].result[0]",
+    "original": "「エラー発生！エラー発生！」\n\n自販機が急に騒がしく揺れ始めた。\n\n「な、なんだよこれ？」\n\n「はぁ、だから欲張るなって言…。」\n\n囚人の言葉が終わるのを待たずに、機械は無数のおもちゃの部品を吐き出しながら爆発してしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「エラー発生！エラー発生！」\n\n自販機が急に騒がしく揺れ始めた。\n\n「な、なんだよこれ？」\n\n「はぁ、だから欲張るなって言…。」\n\n囚人の言葉が終わるのを待たずに、機械は無数のおもちゃの部品を吐き出しながら爆発してしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'오류 발생! 오류 발생!'\n\n자판기가 갑자기 요란스레 떨어댔다.\n\n'이, 이거 왜 이러는건데?'\n\n'하아, 그러니까 욕심 부리지 말…'\n\n수감자의 말이 채 끝나기도 전에, 기계는 무수한 장난감 부품들을 뱉어내며 폭발해버렸다.\nEN:\n“Error! Error!”\n\nThe vending machine began to rattle.\n\n“H-Hey, what’s wrong with this thing?”\n\n“Sigh, you should’ve known better than to get gre—”\n\nBefore the Sinner could finish, the machine exploded, spewing a slew of toy parts into the air."
+  },
+  {
+    "key": "102001-options[4].message",
+    "original": "ボタンを押さない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ボタンを押さない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버튼을 누르지 않는다.\nEN:\nDon’t press anything."
+  },
+  {
+    "key": "102001-options[4].result[0]",
+    "original": "このような奇妙な気配に逆らうことが重要だ。\n正体不明のものに触れたところで、良いことはないだろう。\n\n何の行動も取らず、自動販売機の前を去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このような奇妙な気配に逆らうことが重要だ。\n正体不明のものに触れたところで、良いことはないだろう。\n\n何の行動も取らず、自動販売機の前を去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이런 기이한 기운을 뿌리치는 것이 중요하다.\n정체 모를 것을 건드려 봤자, 좋을 일은 없을 것이다.\n\n아무런 행동도 취하지 않고 자판기 앞을 떠나갔다.\nEN:\nYou should resist odd impulses like this.\nMeddling with the unknown is surely a bad idea.\n\nYou left the vending machine without touching a thing."
+  },
+  {
+    "key": "102002-name",
+    "original": "ぶたれながら学ぶ楽しいゲーム！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぶたれながら学ぶ楽しいゲーム！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맞으면서 배우는 재미난 게임!\nEN:\nExhilarating Edutainment Featuring Excess Violence!"
+  },
+  {
+    "key": "102002-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "102002-desc",
+    "original": "通路を抜けると、その前には巨大なルーレットと強化人間の群れがいた。\n\n「あぁ。うれ。しい。たの。しい。\nザ・ゲーム・オブ・デ。ス！」\n\n分かりづらいリズムで言葉を発し続け、こちらに近づいてくる。\nルーレットでゲームをしようということらしい。どうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通路を抜けると、その前には巨大なルーレットと強化人間の群れがいた。\n\n「あぁ。うれ。しい。たの。しい。\nザ・ゲーム・オブ・デ。ス！」\n\n分かりづらいリズムで言葉を発し続け、こちらに近づいてくる。\nルーレットでゲームをしようということらしい。どうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n통로를 벗어나자, 그 앞에는 거대한 룰렛과 강화 인간의 무리가 있었다.\n\n'아. 신이. 난다. 재미. 난다.\n더 게임 오브 데. 쓰!'\n\n이해하기 어려운 운율을 가진 말을 연신 읊어대며 이리로 다가온다.\n룰렛으로 게임을 하자는 것 같다. 어떻게 해야 할까?\nEN:\nExiting the passage, you see a group of cyborgs gathered around a huge roulette.\n\n“Oh. Highly. Excited. Thoroughly. Amusing.”\n“Da GAME of DE—ATH!”\n\nThey approach you, chanting in strange beats.\nIt looks like they want you to play a game of roulette. What should you do?"
+  },
+  {
+    "key": "102002-options[0].message",
+    "original": "挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도전한다.\nEN:\nTake on the challenge."
+  },
+  {
+    "key": "102002-options[0].messageDesc",
+    "original": "ロージャの精神力回復。憤怒、怠惰、憂鬱判定を進行。判定成功時、全味方の精神力回復、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャの精神力回復。憤怒、怠惰、憂鬱判定を進行。判定成功時、全味方の精神力回復、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈의 정신력 회복. 분노, 나태, 우울 판정 진행. 판정 성공 시 모든 아군의 정신력 회복, E.G.O GIFT 획득\nEN:\nRodion gains SP. Run Wrath, Sloth, and Gloom checks. Pass to heal all allies’ SP and gain an E.G.O Gift."
+  },
+  {
+    "key": "102002-options[0].result[0]",
+    "original": "「ゲームは私の専門分野でしょ！」\n\nロージャが意気揚々と声を出して前へ出た。\n妙な期待と興奮が顔に出ている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「ゲームは私の専門分野でしょ！」\n\nロージャが意気揚々と声を出して前へ出た。\n妙な期待と興奮が顔に出ている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'게임은 내 전문이지!'\n\n로쟈가 의기양양하게 소리치며 앞으로 나섰다.\n묘한 기대와 흥분이 표정에 자리한 모습이다.\nEN:\n“You know this is where I shine!”\n\nRodya proudly proclaimed as she stepped forward.\nYou can see a mixture of anticipation and excitement on her face."
+  },
+  {
+    "key": "102002-options[1].message",
+    "original": "何がゲームだ！今すぐ片付ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何がゲームだ！今すぐ片付ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임은 무슨! 당장 해치운다.\nEN:\nForget games! Crush them in battle."
+  },
+  {
+    "key": "102002-options[1].messageDesc",
+    "original": "ロージャの精神力が減少。戦闘発生。勝利時E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ロージャの精神力が減少。戦闘発生。勝利時E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n로쟈의 정신력 감소. 전투 발생. 승리 시 E.G.O GIFT 획득\nEN:\nRodion loses SP. Begin a combat encounter. Win to gain an E.G.O Gift."
+  },
+  {
+    "key": "102002-options[1].result[0]",
+    "original": "ゲームなんかしている場合ではない。\nあのイカれた強化人間の群れを倒して進もう。\n\n「…はぁ。」\n\nロージャが軽く溜め息を吐く音が聞こえたが、いちいち気にしてやれるような状況ではない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲームなんかしている場合ではない。\nあのイカれた強化人間の群れを倒して進もう。\n\n「…はぁ。」\n\nロージャが軽く溜め息を吐く音が聞こえたが、いちいち気にしてやれるような状況ではない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임 같은 것을 하고 있을 때가 아니다.\n저 정신 나간 강화 인간 무리를 해치우고 지나가자.\n\n'…쩝.'\n\n로쟈가 입맛을 다시는 소리가 들렸지만, 일일이 돌봐줄 상황은 아니다.\nEN:\nThis is not the time for gaming of all things.\nLet’s just deal with those crazed cyborgs and move on.\n\n“…Psh.”\n\nRodya smacked her lips in dissatisfaction, but you know you can’t always afford to give every Sinner what they want."
+  },
+  {
+    "key": "102003-name",
+    "original": "あなたは幸せですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あなたは幸せですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n당신은 행복하십니까?\nEN:\nAre You Happy?"
+  },
+  {
+    "key": "102003-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "102003-desc",
+    "original": "桃色に塗られたドア枠の前には、固く閉ざされた分厚いガラス扉があった。\nその上の電光掲示板が突然光り、質問を投げかけてきた。\n「あなたは幸せですか？」\n何と答えるべきだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "桃色に塗られたドア枠の前には、固く閉ざされた分厚いガラス扉があった。\nその上の電光掲示板が突然光り、質問を投げかけてきた。\n「あなたは幸せですか？」\n何と答えるべきだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분홍색으로 칠해진 문틀 앞에는, 두껍고 굳게 닫힌 유리문이 있었다.\n그 위에 달린 전광판이 갑작스레 번쩍거리며 질문을 던졌다.\n'당신은 행복하십니까?'\n무어라 답해야 할까.\nEN:\nA thick glass door stood strongly in the pink frame.\nThe electronic display above suddenly flashed to life, offering a question.\n\n“Are you happy?”\n\nWhat will be your answer?"
+  },
+  {
+    "key": "102003-options[0].message",
+    "original": "幸せだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "幸せだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n행복하다.\nEN:\nI sure am."
+  },
+  {
+    "key": "102003-options[0].result[0]",
+    "original": "「素晴らしいですね！」\n\n電光掲示板が緑色に光ると、扉がガチャンと開いた。\nそのまま通れば良さそうだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「素晴らしいですね！」\n\n電光掲示板が緑色に光ると、扉がガチャンと開いた。\nそのまま通れば良さそうだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'훌륭하네요!'\n\n전광판이 초록색으로 번쩍거리더니, 문이 덜컥하고 열렸다.\n그대로 지나가면 될 것 같다.\nEN:\n“How wonderful!”\n\nThe display emitted a green flash, and the door opened for us.\nLooks like we can proceed."
+  },
+  {
+    "key": "102003-options[1].message",
+    "original": "幸せではない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "幸せではない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니다.\nEN:\nI’m not."
+  },
+  {
+    "key": "10200301-name",
+    "original": "あなたは幸せですか？2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あなたは幸せですか？2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n당신은 행복하십니까?2\nEN:\nAre You Happy? 2"
+  },
+  {
+    "key": "10200301-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10200301-desc",
+    "original": "「あなたを幸せな場所に連れて行ってくれる桃色の靴があります。」\n\n電光掲示板が赤く光りながら言った。\n\n「履いてみますか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「あなたを幸せな場所に連れて行ってくれる桃色の靴があります。」\n\n電光掲示板が赤く光りながら言った。\n\n「履いてみますか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'당신을 행복한 곳으로 데려다 줄 분홍신이 있습니다.'\n\n전광판이 붉게 번쩍이며 말했다.\n\n'신어보시겠습니까?'\nEN:\n“There’s a pair of pink shoes that can bring you to happiness.”\n\nThe display glowed red.\n\n“Would you like to try them on?”"
+  },
+  {
+    "key": "10200301-options[0].message",
+    "original": "履く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "履く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신는다.\nEN:\nTry the shoes on."
+  },
+  {
+    "key": "10200301-options[0].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift"
+  },
+  {
+    "key": "10200301-options[0].result[0]",
+    "original": "ガラス扉が開くと、その中に桃色の靴が置かれていた。\n\n靴を履くと、足から上へリボンが巻きついてくるのが感じられた。\n全身が締め付けられるが、悪い気はしない。\n\nどこへでも行けちゃいそうな…そんな気持ち。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガラス扉が開くと、その中に桃色の靴が置かれていた。\n\n靴を履くと、足から上へリボンが巻きついてくるのが感じられた。\n全身が締め付けられるが、悪い気はしない。\n\nどこへでも行けちゃいそうな…そんな気持ち。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유리문이 열리자, 그 안에 분홍빛 구두가 놓여 있었다.\n\n구두를 신자, 다리부터 리본이 휘감아 올라오는 것을 느낄 수 있었다.\n온몸이 조여오지만, 그 감각이 나쁘지는 않다.\n\n어디로든 갈 수 있을 것만 같은… 그런 기분.\nEN:\nThe glass door opened, revealing said pair of pink shoes.\n\nWhen you put them on, you could feel strands of ribbons wrap around your legs.\nThey’re tightening around your body, but it’s not an unpleasant feeling.\n\nYou feel as though you can now go… anywhere."
+  },
+  {
+    "key": "10200301-options[1].message",
+    "original": "履かない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "履かない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신지 않는다.\nEN:\nDon’t wear the shoes."
+  },
+  {
+    "key": "10200301-options[1].messageDesc",
+    "original": "戦闘発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생.\nEN:\nBegin a combat encounter."
+  },
+  {
+    "key": "10200301-options[1].result[0]",
+    "original": "「桃色の靴の素晴らしさから逃げないでください！」\n\n嫌な予感がして後ずさると、ドアの内側の明かりがガタっと音と共に消えた。\n\n「それはあなたをお望みの場所に連れて行ってくれます！」\n\n電光掲示板が狂ったように光り、\n桃色のリボンに巻かれた人々が、ドアの後ろからよろよろと歩いてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「桃色の靴の素晴らしさから逃げないでください！」\n\n嫌な予感がして後ずさると、ドアの内側の明かりがガタっと音と共に消えた。\n\n「それはあなたをお望みの場所に連れて行ってくれます！」\n\n電光掲示板が狂ったように光り、\n桃色のリボンに巻かれた人々が、ドアの後ろからよろよろと歩いてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'분홍신의 멋짐을 피하지 마세요!'\n\n불길한 기분이 들어 뒷걸음질을 치자, 문 안쪽의 불빛이 덜컹, 하고 꺼졌다.\n\n'그것은 당신을 원하는 곳으로 데려다 줄 겁니다!'\n\n전광판이 미친 듯이 반짝거리고,\n분홍 리본에 휘감긴 사람들이 문 뒤에서 흐느적거리며 걸어 나왔다.\nEN:\n“Don’t shy away from the majesty of the pink shoes!”\n\nThe light over the shoes shut off as you backed away.\n\n“They will take you wherever you want to go!”\n\nThe display began to flicker frantically,\nand a group of people wrapped in pink ribbons shambled through the door."
+  },
+  {
+    "key": "10301-name",
+    "original": "ゼンマイ仕掛けの装置が置かれたみすぼらしい部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ仕掛けの装置が置かれたみすぼらしい部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기계 태엽 장치가 놓인 허름한 방\nEN:\nAn Old Room with a Clockwork Mechanism"
+  },
+  {
+    "key": "10301-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10301-desc",
+    "original": "みすぼらしい部屋の中には機械が置かれている。\n大小様々なぜんまいがついている装置の真ん中には、大きくて長いレバーがついていた。\nすごく、引っ張って、みたい。\n\nどうするべきか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "みすぼらしい部屋の中には機械が置かれている。\n大小様々なぜんまいがついている装置の真ん中には、大きくて長いレバーがついていた。\nすごく、引っ張って、みたい。\n\nどうするべきか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n허름한 방 안에는 기계장치가 놓여 있었다.\n이리저리 크고 작은 태엽이 달려있는 장치의 정중앙에는, 크고 길다란 레버가 달려있었다.\n굉장히, 당겨보고 싶은, 생각이, 든다.\n\n어떻게 할까.\nEN:\nThere’s a machine in this dilapidated room.\nA long, bulky lever is at the center of the machine adorned with springs.\n\nThe urge… to pull it… is growing… stronger… and stronger.\n\nWhat will you do?"
+  },
+  {
+    "key": "10301-options[0].message",
+    "original": "機械を動かす。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "機械を動かす。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기계 장치를 조작한다.\nEN:\nUse the machine."
+  },
+  {
+    "key": "10301-options[0].messageDesc",
+    "original": "50%の確率でプラス効果、あるいはマイナス効果を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率でプラス効果、あるいはマイナス効果を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50% 확률로 이로운 효과 또는 부정적 효과를 얻음\nEN:\n50% chance for a positive effect; 50% chance for a negative effect"
+  },
+  {
+    "key": "10301-options[1].message",
+    "original": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방을 떠난다.\nEN:\nLeave the room."
+  },
+  {
+    "key": "10301-options[1].result[0]",
+    "original": "私は子供でもないし、衝動を押さえられる位の忍耐力も持っている。\n目の前の誘惑を、あるがままに受け入れるのは良くない。\n\n「うん、それで良し。」\n\n囚人たちと一緒に部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私は子供でもないし、衝動を押さえられる位の忍耐力も持っている。\n目の前の誘惑を、あるがままに受け入れるのは良くない。\n\n「うん、それで良し。」\n\n囚人たちと一緒に部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나는 아이도 아닐 뿐더러, 충동을 참을 정도의 인내심도 갖고 있다.\n눈 앞의 유혹을 있는 그대로만 받아들이는 건 좋지 않다.\n\n'그래, 잘 생각했어.'\n\n수감자들과 함께 방을 떠났다.\nEN:\nYou’re not a child anymore. You can resist simple impulses like this.\nIt’s never a good idea to fall for temptation without a second thought.\n\n“Yeah, good thinking.”\n\nYou and the Sinners left the room."
+  },
+  {
+    "key": "1030101-name",
+    "original": "ゼンマイ仕掛けの装置が置かれたみすぼらしい部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ仕掛けの装置が置かれたみすぼらしい部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기계 태엽 장치가 놓인 허름한 방\nEN:\nAn Old Room with a Clockwork Mechanism"
+  },
+  {
+    "key": "1030101-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "1030101-desc",
+    "original": "考えを行動に移すのはマシュマロの前の小さな子供のように、衝動的で甘いことだ。\n\nレバーを勢いよく下に引くと、ガチャガチャという音が聞こえてくる。\nゆっくり、時には速くぜんまいが動き出す。\nあるものは時計回りに、また別のものは反時計回りに。\n\nだんだん動きが荒くなっていく機械を見つめながら、胸が締め付けられるような感覚を味わった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えを行動に移すのはマシュマロの前の小さな子供のように、衝動的で甘いことだ。\n\nレバーを勢いよく下に引くと、ガチャガチャという音が聞こえてくる。\nゆっくり、時には速くぜんまいが動き出す。\nあるものは時計回りに、また別のものは反時計回りに。\n\nだんだん動きが荒くなっていく機械を見つめながら、胸が締め付けられるような感覚を味わった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각을 행동으로 옮기는 것은 마시멜로 앞의 어린 아이처럼 충동적이고 달콤한 일이다.\n\n레버를 힘차게 아래로 당기자, 짜그락거리는 소리가 함께 딸려 들려온다.\n느릿하게, 또는 빠르게 태엽들이 움직이기 시작한다.\n어떤 것은 시계 방향, 또 어떤 것은 시계 반대 방향.\n\n점점 움직임이 사나워지는 것만 같은 장치를 쳐다보며, 가슴이 졸아 드는 듯한 감각을 느꼈다.\nEN:\nPutting a spontaneous thought into action is as impulsive and uninhibited as a child reaching for off-limits marshmallows.\n\nWhen you pull down the lever, a clack follows soon after.\nThe springs begin to turn, some slow, some quick.\nSome clockwise, others counter-clockwise.\n\nWatching the machine’s rumble grow wilder, you feel anxious."
+  },
+  {
+    "key": "1030101-options[0].message",
+    "original": "レバーを引く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "レバーを引く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n레버를 당긴다.\nEN:\nPull the lever."
+  },
+  {
+    "key": "1030101-options[0].messageDesc",
+    "original": "50%の確率でE.G.O GIFT獲得。判定失敗時は体力、精神力ダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率でE.G.O GIFT獲得。判定失敗時は体力、精神力ダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50% 확률로 E.G.O GIFT 획득. 판정 실패 시 체력, 정신력 피해를 받음\nEN:\n50% chance to gain an E.G.O Gift. Failure results in HP and SP damage."
+  },
+  {
+    "key": "1030101-options[0].result[0]",
+    "original": "ついに機械は止まった。\n\n「あ…これ！」\n\n床の真ん中からキリキリという音と共に、小さな木箱が上がってきた。\n注意深く箱を開けると、松明の山が入っていた。\n\n沢山あるわけではないが、暗い場所で少しの間安らぎを与えてくれそうではある。\n松明を持って、部屋を出ることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ついに機械は止まった。\n\n「あ…これ！」\n\n床の真ん中からキリキリという音と共に、小さな木箱が上がってきた。\n注意深く箱を開けると、松明の山が入っていた。\n\n沢山あるわけではないが、暗い場所で少しの間安らぎを与えてくれそうではある。\n松明を持って、部屋を出ることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마침내 장치는 멈췄다.\n\n'어… 이거!'\n\n바닥 한 가운데에서 끼리릭 거리는 소리와 함께 조그마한 나무 상자가 밑에서부터 올라왔다.\n조심스레 그 상자를 열어보니, 횃불 더미가 그 안에 들어있었다.\n\n많은 양은 아니지만, 어두운 곳에서 잠시 나마 위안을 줄 정도는 될 것 같다.\n챙겨서 방을 나서기로 했다.\nEN:\nThe machine stopped at last.\n\n“Huh… Would you look at that!”\n\nA small wooden chest rose from the floor.\nYou carefully open it to find a bundle of torches.\n\nIt’s not much, but they should give you momentary relief in the dark.\nYou take the torches out of the room."
+  },
+  {
+    "key": "1030101-options[0].result[1]",
+    "original": "ついに機械は止まった。\n\n「へ、部屋が！？」\n\n止まった機械に代わるように、部屋全体がガタガタと震え始めた。\nやがて天井が裂けるように開き、数万本の釘が床に向かって落ちた。\n\n「外へ走れ！」\n\n「おい、触るなって言っただろ！」\n\n囚人たちと共に急いで飛び出したが、無事というわけにはいかなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ついに機械は止まった。\n\n「へ、部屋が！？」\n\n止まった機械に代わるように、部屋全体がガタガタと震え始めた。\nやがて天井が裂けるように開き、数万本の釘が床に向かって落ちた。\n\n「外へ走れ！」\n\n「おい、触るなって言っただろ！」\n\n囚人たちと共に急いで飛び出したが、無事というわけにはいかなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마침내 장치는 멈췄다.\n\n'바, 방이?!'\n\n마치 움직임을 대신한다는 듯, 방 전체가 덜걱거리며 떨리기 시작했다.\n이윽고, 천장이 쪼개지듯 열리며 수만 개의 못이 바닥을 향해 떨어졌다.\n\n'밖으로 뛰어!'\n\n'아이씨, 내가 건들지 말랬지!'\n\n수감자들과 함께 다급히 뛰쳐나왔지만, 피해를 피하지는 못한 것 같다.\nEN:\nThe machine stopped at last.\n\n“W-What’s happening?!”\n\nIn the machine’s stead, the room now began to tremble and crack.\nA moment later, the ceiling split open, giving way for thousands of nails diving downward.\n\n“Outside, now!”\n\n“Dammit, I told you it was a bad idea to mess with it!”\n\nYou and the Sinners quickly evacuated the room, but not without harm."
+  },
+  {
+    "key": "10302-name",
+    "original": "固く閉ざされた扉の前で\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "固く閉ざされた扉の前で\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳게 닫힌 문의 앞에서\nEN:\nBefore a Sealed Door"
+  },
+  {
+    "key": "10302-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10302-desc",
+    "original": "部屋の中には鉄の扉があった。\n一目見ても分かるように、壊したり破ったりするには難しい、ものすごい厚さの鉄だ。\n\n「ここまでしっかり戸締まりしてるってことは、この中に凄いものがありそうだね～。」\n\nその言葉の通り、扉の後ろには大きな報酬が隠れているかもしれない。\nどうすればいいだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋の中には鉄の扉があった。\n一目見ても分かるように、壊したり破ったりするには難しい、ものすごい厚さの鉄だ。\n\n「ここまでしっかり戸締まりしてるってことは、この中に凄いものがありそうだね～。」\n\nその言葉の通り、扉の後ろには大きな報酬が隠れているかもしれない。\nどうすればいいだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방 안에는 철문이 있었다.\n한 눈에 보아도 부수거나 뚫기는 어려울, 엄청난 두께의 강철이다.\n\n'이렇게 까지 꽁꽁 싸맬 정도면, 뒤에는 어마어마한게 있겠는걸~'\n\n그 말대로, 문 뒤에는 커다란 보상이 숨어 있을지도 모른다.\n어떻게 해야할까?\nEN:\nA steel door rests on one side of the room.\nIt looks too thick to be easily broken or breached with force.\n\n“There’s gotta be something totally valuable through here if it’s guarded this tight~!”\n\nThe Sinner might be right, treasure might be waiting behind the door.\nWhat should you do?"
+  },
+  {
+    "key": "10302-options[0].message",
+    "original": "力で扉を開けてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "力で扉を開けてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n힘으로 문을 열어본다.\nEN:\nOpen it with force."
+  },
+  {
+    "key": "10302-options[0].messageDesc",
+    "original": "憤怒判定を進行。判定成功時、新しい道がマップに追加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒判定を進行。判定成功時、新しい道がマップに追加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 판정 진행. 판정 성공 시 새로운 길이 맵에 추가됨.\nEN:\nRun a Wrath check. Pass to open a new path on the map."
+  },
+  {
+    "key": "10302-options[1].message",
+    "original": "周囲を調べ、他に方法を探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "周囲を調べ、他に方法を探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주위를 살펴 다른 방법을 찾아본다.\nEN:\nLook around for a solution."
+  },
+  {
+    "key": "10302-options[1].messageDesc",
+    "original": "怠惰判定を進行。判定成功時、新しい道がマップに追加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怠惰判定を進行。判定成功時、新しい道がマップに追加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나태 판정 진행. 판정 성공 시 새로운 길이 맵에 추가됨.\nEN:\nRun a Sloth check. Pass to open a new path on the map."
+  },
+  {
+    "key": "10302-options[2].message",
+    "original": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방을 떠난다.\nEN:\nLeave the room."
+  },
+  {
+    "key": "10302-options[2].result[0]",
+    "original": "わざわざ無理するより、元々行こうとしてた道へ進むのが安全だろう。\n\n「あ～あそこに絶っ対何かあるはずなのに！！」\n\n囚人数名がぶつくさ言い始めたが、なんとか激励しつつ部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わざわざ無理するより、元々行こうとしてた道へ進むのが安全だろう。\n\n「あ～あそこに絶っ対何かあるはずなのに！！」\n\n囚人数名がぶつくさ言い始めたが、なんとか激励しつつ部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳이 무리하는 것 보다는 원래 알고 있던 길로 가는 게 안전할 것이다.\n\n'아~ 저기에 분명히 뭐 있을텐데!!'\n\n수감자 몇몇이 툴툴대긴 했지만, 잘 독려해서 방을 빠져나왔다.\nEN:\nIt should be safer to stick to the known path rather than take unnecessary risks.\n\n“Aww~ I swear that something’s gotta be in there!”\n\nThough some Sinners complained, you persuaded them into letting it go."
+  },
+  {
+    "key": "10303-name",
+    "original": "第1の関門\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "第1の関門\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제 1의 관문\nEN:\nThe First Gate"
+  },
+  {
+    "key": "10303-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10303-desc",
+    "original": "はるか遠くに、巨大な関門が見える。\n鋭い格子と石で積み上げられた壁は、奇妙な雰囲気を醸し出している。\n\nあそこがこの区域を抜けられる唯一の道のようだが、素通りするには審問官の数が多すぎる。\n良い方法はないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はるか遠くに、巨大な関門が見える。\n鋭い格子と石で積み上げられた壁は、奇妙な雰囲気を醸し出している。\n\nあそこがこの区域を抜けられる唯一の道のようだが、素通りするには審問官の数が多すぎる。\n良い方法はないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저 멀리, 거대한 관문이 보인다.\n날카로운 창살과 돌로 쌓아 올려진 벽은 기묘한 분위기를 자아낸다.\n\n저곳이 이 구역을 통과할 수 있는 유일한 길인 것 같지만,바로 지나가기에는 심문관의 수가 너무 많은 것 같다.\n방법이 없을까?\nEN:\nYou see a large gate in the distance.\nThere’s something eerie about the pointed fences and stone walls.\n\nIt looks to be the only way through this area, but it’s guarded by a large number of Inquisitors.\nIs there anything we can do about them?"
+  },
+  {
+    "key": "10303-options[0].message",
+    "original": "後ろから奇襲する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "後ろから奇襲する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뒤로 돌아가 기습한다.\nEN:\nStrike them from behind."
+  },
+  {
+    "key": "10303-options[0].messageDesc",
+    "original": "傲慢判定進行後に戦闘が発生。判定成功時、全味方が強化を得て、敵のウェーブ数が1減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "傲慢判定進行後に戦闘が発生。判定成功時、全味方が強化を得て、敵のウェーブ数が1減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 판정 진행 후 전투 발생. 판정 성공 시 모든 아군이 강화를 얻고, 적의 웨이브가 1 감소.\nEN:\nRun a Pride check, then begin a combat encounter. Pass to buff all allies and reduce the number of waves by 1."
+  },
+  {
+    "key": "10303-options[1].message",
+    "original": "騒ぎを起こして気を逸らす。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "騒ぎを起こして気を逸らす。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소란을 피워 주의를 돌린다.\nEN:\nDistract them."
+  },
+  {
+    "key": "10303-options[1].messageDesc",
+    "original": "色欲判定進行後に戦闘が発生。判定成功時、敵のウェーブ数が2減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色欲判定進行後に戦闘が発生。判定成功時、敵のウェーブ数が2減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 판정 진행 후 전투 발생. 판정 성공 시 적의 웨이브가 2 감소.\nEN:\nRun a Lust check, then begin a combat encounter. Pass to reduce the number of waves by 2."
+  },
+  {
+    "key": "10303-options[2].message",
+    "original": "正面突破する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "正面突破する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정면 돌파한다.\nEN:\nConfront them directly."
+  },
+  {
+    "key": "10303-options[2].messageDesc",
+    "original": "特に何もないまま、3ウェーブの戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特に何もないまま、3ウェーブの戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 효과 없이 3웨이브 전투 발생.\nEN:\nBegin a combat encounter with all 3 waves."
+  },
+  {
+    "key": "10303-options[2].result[0]",
+    "original": "必ずしも迂回することだけが良い戦略ではない。\n戦略だの何だの言って囚人を送ったばかりに、より不利な状況に陥るかもしれないから。\n\n正面から突破しよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必ずしも迂回することだけが良い戦略ではない。\n戦略だの何だの言って囚人を送ったばかりに、より不利な状況に陥るかもしれないから。\n\n正面から突破しよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꼭 우회하는 것만이 묘수는 아니다.\n전략이랍시고 괜히 수감자를 보냈다가 더 불리한 상황을 맞이하게 될지도 모르는 일이니까.\n\n정면으로 돌파하자.\nEN:\nSometimes, the simplest solution is best.\nSeparating a Sinner from our group to attempt some silly trick might end up putting us at a disadvantage.\n\nLet’s face them head-on."
+  },
+  {
+    "key": "10304-name",
+    "original": "箱でいっぱいの部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "箱でいっぱいの部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상자가 가득한 방\nEN:\nA Room Full of Crates"
+  },
+  {
+    "key": "10304-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10304-desc",
+    "original": "部屋の中には、古びて壊れた箱が数十個は転がっていた。\n\n「ううっ、蜘蛛の巣…。」\n\nそれらをざっくり片付けると、その下には大きな箱が3つも置かれていた。\n\n「これ、全部閉まってるんだけど。」\n\n「鍵の穴は全部同じ気がします！」\n\n「……しかし鍵の材質が脆し。一つ開けらば再び抜きて使うことあたわず。」\n\n結局のところ、チャンスは一回だけみたいだ。\nどれを開けるべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋の中には、古びて壊れた箱が数十個は転がっていた。\n\n「ううっ、蜘蛛の巣…。」\n\nそれらをざっくり片付けると、その下には大きな箱が3つも置かれていた。\n\n「これ、全部閉まってるんだけど。」\n\n「鍵の穴は全部同じ気がします！」\n\n「……しかし鍵の材質が脆し。一つ開けらば再び抜きて使うことあたわず。」\n\n結局のところ、チャンスは一回だけみたいだ。\nどれを開けるべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방 안에는 낡고 부서진 상자들이 수십 개가 굴러다니고 있었다.\n\n'으윽, 거미줄…'\n\n그것들을 대강 치워내고 보니, 그 밑에는 커다란 상자가 세 개나 놓여있었다.\n\n'이것들, 다 잠겨 있는데.'\n\n'열쇠 구멍은 다 똑같은 것 같아요!'\n\n'…하지만 열쇠의 재질이 무르구료. 하나를 열면 다시 빼서 사용할 수는 없겠소.'\n\n결국 한 번의 기회만 있는 것 같다.\n어떤 걸 열어봐야 하지?\nEN:\nDozens of old, broken crates littered the floor.\n\n“Eyuck, cobwebs…”\n\nClearing things away, you found three particularly large crates buried underneath.\n\n“These are all locked.”\n\n“Looks like the keyholes have the same shape!”\n\n“…Alas, the key is of a soft constitution. It won’t be feasible to use it again once it has been inserted into a lock.”\n\nSounds like you get only one try.\nWhich one should you open?"
+  },
+  {
+    "key": "10304-options[0].message",
+    "original": "一つ目の箱を開ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一つ目の箱を開ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫번째 상자를 연다.\nEN:\nOpen the first crate."
+  },
+  {
+    "key": "10304-options[0].messageDesc",
+    "original": "守備を強化するE.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備を強化するE.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비를 강화하는 E.G.O GIFT 획득.\nEN:\nGain an E.G.O Gift that boosts defense."
+  },
+  {
+    "key": "10304-options[0].result[0]",
+    "original": "「これは…。」\n\n箱の中からは、古い兜が出てきた。\n\n「おぉっ！？これは騎士を象徴する兜ではないか！？」\n\n囚人の一人が激しく反応し、兜を撫でつけている。\n悪くない収穫だったかもしれない。\nその兜を持って(正確に言うと、兜を手に入れたことによって半狂乱になっている囚人を持って)\n私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「これは…。」\n\n箱の中からは、古い兜が出てきた。\n\n「おぉっ！？これは騎士を象徴する兜ではないか！？」\n\n囚人の一人が激しく反応し、兜を撫でつけている。\n悪くない収穫だったかもしれない。\nその兜を持って(正確に言うと、兜を手に入れたことによって半狂乱になっている囚人を持って)\n私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'이건…'\n\n상자 안에서는 낡은 투구가 나왔다.\n\n'오옷?! 이것은 기사를 상징하는 투구 아니오?!'\n\n수감자 하나가 격렬하게 반응을 하며 투구를 매만진다.\n나쁘지 않은 수확이었을지도 모르겠다.\n그 투구를 챙기고(정확히는 투구를 챙기고 정신이 나가있는 수감자를 챙기고)\n우리는 방을 떠났다.\nEN:\n“This is…”\n\nThe crate contained a worn helm.\n\n“Oho?! ‘Tis the proper equipment of a knight, is it not?!”\n\nOne Sinner excitedly rubs the helm clean.\nNot a bad haul, all things considered.\nWe carried the helm (and our Sinner infatuated by it) and left the room."
+  },
+  {
+    "key": "10304-options[1].message",
+    "original": "二つ目の箱を開ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二つ目の箱を開ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두번째 상자를 연다.\nEN:\nOpen the second crate."
+  },
+  {
+    "key": "10304-options[1].messageDesc",
+    "original": "50%の確率で振動を強化するE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率で振動を強化するE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50% 확률로 진동을 강화하는 E.G.O GIFT 획득.\nEN:\n50% chance to gain an E.G.O Gift that boosts Tremor attacks."
+  },
+  {
+    "key": "10304-options[1].result[0]",
+    "original": "「これは…。」\n\n箱の中には古びた金鎚があった。\n持ち手のひび割れも激しく、本来の用途に使えるかも微妙だ。\n\n「こんなもん、どこに使えってんだよ！」\n\n囚人はたちは口々に別のを選ぶべきだったと言い、溜め息を吐いた。\nでも、なんと言うべきかは難しいけど。\n金鎚から感じられるオーラが、自分を持って行けと語りかけてるような気がする。\n\n「何だよ、それ持ってくのか？」\n\n囚人たちはどうしてゴミをわざわざ持って行くのかという口調だったが、\n私は金鎚を持って部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「これは…。」\n\n箱の中には古びた金鎚があった。\n持ち手のひび割れも激しく、本来の用途に使えるかも微妙だ。\n\n「こんなもん、どこに使えってんだよ！」\n\n囚人はたちは口々に別のを選ぶべきだったと言い、溜め息を吐いた。\nでも、なんと言うべきかは難しいけど。\n金鎚から感じられるオーラが、自分を持って行けと語りかけてるような気がする。\n\n「何だよ、それ持ってくのか？」\n\n囚人たちはどうしてゴミをわざわざ持って行くのかという口調だったが、\n私は金鎚を持って部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'이건…'\n\n상자 안에는 낡은 망치가 있었다.\n손잡이 부분에 갈라짐도 심한 것이, 본래의 용도로 사용할 수 있을지도 확실치가 않다.\n\n'이런걸 어디에 써먹으라는 거야!'\n\n수감자들은 저마다 다른 걸 골랐어야 했다며 탄식을 뱉어냈다.\n하지만, 뭐라고 표현하기는 어렵지만.\n망치에서 느껴지는 기운은 자신을 가지고 가라고 말하는 듯 하다.\n\n'뭐야, 그거 가져가려고?'\n\n수감자들은 쓰레기를 굳이 왜 챙기냐는 듯 말했지만,\n나는 망치를 챙기고 방을 떠났다.\nEN:\n“This is…”\n\nThe crate contained an old mallet.\nThe cracks on its handle raised further questions about its usability.\n\n“This thing looks positively useless!”\n\nThe Sinners expressed disappointment over this seemingly regrettable choice.\nBut, you feel as if the mallet is talking to you,\ncompelling you to take it.\n\n“What, you’re gonna take that with you?”\n\nThough the Sinners saw it as junk,\nit seemed good to bring the mallet along."
+  },
+  {
+    "key": "10304-options[1].result[1]",
+    "original": "「…無い。」\n\n箱の中には何も無かった。\nただ、ほこり数片が久しぶりに外の空気に触れられたことを喜びながら転がっているだけだ。\n\n「だから私があれ選べって言ったでしょ～。」\n\n「否、あれもきっと空であろう。」\n\n囚人たちが不満を漏らすのをなんとか無視し、部屋を出た.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「…無い。」\n\n箱の中には何も無かった。\nただ、ほこり数片が久しぶりに外の空気に触れられたことを喜びながら転がっているだけだ。\n\n「だから私があれ選べって言ったでしょ～。」\n\n「否、あれもきっと空であろう。」\n\n囚人たちが不満を漏らすのをなんとか無視し、部屋を出た。\n<CMT_KR>오식: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「.」\"  정확: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「。」\"\n<CMT_EN>Typo: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「.」\"  Correction: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「。」\"\n<CMT_JP>誤植: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「.」\"  訂正後: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「。」\"",
+    "stage": 1,
+    "context": "KR:\n'…없잖아?'\n\n상자 안에는 아무것도 없었다.\n그저 먼지 몇 톨이 오래간만에 만난 바깥 공기에 신나 굴러다니고 있을 뿐.\n\n'그러니까 내가 저거 고르라고 했잖아~'\n\n'아니, 저것도 비었을 것이다.'\n\n수감자들이 볼멘소리를 내는 것을 애써 무시하며, 방을 떠났다.\nEN:\n“…Empty?”\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n“I told you we shoulda gone with that one~”\n\n“No, in all likelihood it would have been empty too.”\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
+  },
+  {
+    "key": "10304-options[2].message",
+    "original": "三つ目の箱を開ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三つ目の箱を開ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n세번째 상자를 연다.\nEN:\nOpen the third crate."
+  },
+  {
+    "key": "10304-options[2].messageDesc",
+    "original": "50%の確率で出血を強化するE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率で出血を強化するE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50% 확률로 출혈을 강화하는 E.G.O GIFT 획득.\nEN:\n50% chance to gain an E.G.O Gift that boosts Bleed attacks."
+  },
+  {
+    "key": "10304-options[2].result[0]",
+    "original": "「これは…。」\n\n箱の中には古びた釘があった。\n釘が一束あるわけでもなく、ちょっと大きめの釘が一本置かれているだけだ。完全に錆び付いてもいる。\n\n「なんでこんな…。」\n\n囚人はたちは嫌そうな顔をしながら、一つしか無い鍵をこんな風に浪費したことに対する不満を吐露した。\n\n「だけど手に入れたものを捨てるのもなんか勿体ないから、使わないならちょうだい。」\n\nしかし、その中にも興味を示す囚人がいたので釘を渡し、部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「これは…。」\n\n箱の中には古びた釘があった。\n釘が一束あるわけでもなく、ちょっと大きめの釘が一本置かれているだけだ。完全に錆び付いてもいる。\n\n「なんでこんな…。」\n\n囚人はたちは嫌そうな顔をしながら、一つしか無い鍵をこんな風に浪費したことに対する不満を吐露した。\n\n「だけど手に入れたものを捨てるのもなんか勿体ないから、使わないならちょうだい。」\n\nしかし、その中にも興味を示す囚人がいたので釘を渡し、部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'이건…'\n상자 안에는 낡은 못이 있었다.\n못 한 뭉치가 있는 것도 아니고, 조금 크기가 큰 못이 하나 놓여있을 뿐이었다. 녹도 잔뜩 슬어있다.\n'무슨 이딴…'\n수감자들은 질색하며 하나 밖에 없는 열쇠를 이렇게 소모했다는 데에 불만을 토로했다.\n'그렇다고 얻은 것을 버리기도 좀 아까우니까, 안 쓸 거면 나를 줘.'\n하지만 그 중에 관심을 보이는 수감자도 있었기에, 그에게 못을 넘겨주고 방을 떠났다.\nEN:\n“This is…”\n\nThe crate contained a browned nail.\nNot a bundle of nails; just a slightly large one, covered in rust and dust.\n\n“The heck…”\n\nThe Sinners looked devastated by the fact that the key was wasted on this.\n\n“Can’t just throw away loot. If you aren’t gonna use it, then hand it over.”\n\nOne Sinner was showing interest in the item, so you gave it to them and went on your way."
+  },
+  {
+    "key": "10304-options[2].result[1]",
+    "original": "「…無い。」\n\n箱の中には何も無かった。\nただ、ほこり数片が久しぶりに外の空気に触れられたことを喜びながら転がっているだけだ。\n\n「だから私があれ選べって言ったでしょ～。」\n\n「否、あれもきっと空であろう。」\n\n囚人たちが不満を漏らすのをなんとか無視し、部屋を出た.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「…無い。」\n\n箱の中には何も無かった。\nただ、ほこり数片が久しぶりに外の空気に触れられたことを喜びながら転がっているだけだ。\n\n「だから私があれ選べって言ったでしょ～。」\n\n「否、あれもきっと空であろう。」\n\n囚人たちが不満を漏らすのをなんとか無視し、部屋を出た。\n<CMT_KR>오식: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「.」\"  정확: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「。」\"\n<CMT_EN>Typo: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「.」\"  Correction: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「。」\"\n<CMT_JP>誤植: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「.」\"  訂正後: \"囚人たちが不満を漏らすのをなんとか無視し、部屋を出た「。」\"",
+    "stage": 1,
+    "context": "KR:\n'…없잖아?'\n상자 안에는 아무것도 없었다. 그저 먼지 몇 톨이 오래간만에 만난 바깥 공기에 신나 굴러다니고 있을 뿐.\n'그러니까 내가 저거 고르라고 했잖아~'\n'아니, 저것도 비었을 것이다.'\n수감자들이 볼멘소리를 내는 것을 애써 무시하며, 방을 떠났다.\nEN:\n“…Empty?”\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n“I told you we shoulda gone with that one~”\n\n“No, in all likelihood it would have been empty too.”\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
+  },
+  {
+    "key": "10305-name",
+    "original": "審判する者を審判する者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審判する者を審判する者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심판하는 자를 심판하는 자\nEN:\nWho Judges the Judge"
+  },
+  {
+    "key": "10305-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10305-desc",
+    "original": "N社の審問官たちは、拷問の真っ盛りであった。\n\n「ぐぁあぁっ！」\n\n変調した声が狭い部屋を満たす。義体を体に付けた人間たちを拷問している。\n\n「……。」\n\nシンクレアは口を開かなかったが、恐怖と怒りをはらんでいるかのような目で彼らを睨んでいた。\n時折ゼーゼーと不規則に上がる息の音と震える身体が、今すぐにでも彼らへと飛びかかっていきそうだった。\n\nシンクレアを止めるべきだろうか？\nそれとも…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社の審問官たちは、拷問の真っ盛りであった。\n\n「ぐぁあぁっ！」\n\n変調した声が狭い部屋を満たす。義体を体に付けた人間たちを拷問している。\n\n「……。」\n\nシンクレアは口を開かなかったが、恐怖と怒りをはらんでいるかのような目で彼らを睨んでいた。\n時折ゼーゼーと不規則に上がる息の音と震える身体が、今すぐにでも彼らへと飛びかかっていきそうだった。\n\nシンクレアを止めるべきだろうか？\nそれとも…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사 심문관들은 고문이 한창이었다.\n\n'끄아아악!'\n\n변조된 목소리가 좁은 방을 메운다. 의체를 몸에 달은 인간들을 고문하고 있다.\n\n'…….'\n\n싱클레어는 입을 열진 않았지만, 공포와 분노가 서려있는 듯한 눈동자로 그들을 노려보고 있었다.\n가끔씩 쌕쌕거리며 불규칙하게 올라오는 숨소리와 떨리는 몸이, 당장이라도 그들을 향해 뛰쳐나갈 것만 같다.\n\n싱클레어를 막아야 할까?\n아니면…\nEN:\nThe N Corp. Inquisitors were busy torturing someone.\n\n“GIAAAAH!”\n\nA filtered scream fills the cramped room.\nTheir victims are people with prosthetic bodies.\n\n“……”\n\nSinclair didn’t utter a word, but his eyes full of wrath and fear were fixed on the torturers.\nHe breathed heavily at irregular intervals, his body shaking; he looks like he might charge forth at any second.\n\nDo you stop him?\nOr…"
+  },
+  {
+    "key": "10305-options[0].message",
+    "original": "拷問が終わるまで待つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拷問が終わるまで待つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고문이 끝나길 기다린다.\nEN:\nWait for the torture to end."
+  },
+  {
+    "key": "10305-options[0].messageDesc",
+    "original": "特定人格の精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特定人格の精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특정 인격의 정신력 감소\nEN:\nCertain Identities lose SP"
+  },
+  {
+    "key": "10305-options[0].result[0]",
+    "original": "あの光景は酷いが、私たちは正義の騎士ではない。\n一度の衝動で囚人全員を失うのは賢明な管理人の行動ではないだろう。\nそれなら…。\n\n「…分かりました。」\n\nシンクレアは肩に手をのせた私を悔しそうに見つめると、すぐに頭を下げて答えた。\n…これで良いのだろうか。\nまずは拷問が終わるまで待たなければ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あの光景は酷いが、私たちは正義の騎士ではない。\n一度の衝動で囚人全員を失うのは賢明な管理人の行動ではないだろう。\nそれなら…。\n\n「…分かりました。」\n\nシンクレアは肩に手をのせた私を悔しそうに見つめると、すぐに頭を下げて答えた。\n…これで良いのだろうか。\nまずは拷問が終わるまで待たなければ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저 장면은 끔찍하지만, 우리가 정의의 기사는 아니다.\n한 번의 치기로 모든 수감자를 잃는건 현명한 관리자의 행동은 아닐 것이다.\n그렇다면…\n\n'…알겠습니다.'\n\n싱클레어는 어깨에 손을 얹는 나를 억울하다는 듯 바라보다가, 이내 고개를 푹 숙이며 대답했다.\n…잘한게 맞는걸까.\n우선은 고문이 끝나기를 기다려봐야겠다.\nEN:\nWhile the scene is horrible to behold, we are no valiant knights.\nA wise manager wouldn’t risk losing all their Sinners over some juvenile impulse.\nIn that case…\n\n“…Understood.”\n\nSinclair gave you a vexing glare as you placed a hand on his shoulder, but he soon hung his head low and assented.\n\n…Hopefully, this was the right call.\nYou decided to watch and wait until the torture was over."
+  },
+  {
+    "key": "10305-options[1].message",
+    "original": "拷問を止める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拷問を止める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고문을 막는다.\nEN:\nStop the torture."
+  },
+  {
+    "key": "10305-options[1].messageDesc",
+    "original": "憤怒判定進行後に戦闘発生。シンクレアを判定に使用時、とある印を獲得。判定成功時に全ての敵が弱体化。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒判定進行後に戦闘発生。シンクレアを判定に使用時、とある印を獲得。判定成功時に全ての敵が弱体化。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 판정 진행 후 전투 발생. 싱클레어를 판정에 사용 시 어느 표지 획득. 판정 성공 시 모든 적이 약화됨.\nEN:\nRun a Wrath check, then begin a combat encounter. Use Sinclair for the check to gain ‘A Sign’. Pass to weaken all enemies."
+  },
+  {
+    "key": "10305-options[1].result[0]",
+    "original": "私たちは正義の騎士ではない。\nしかしそれをさておいても、どの道あの者たちと戦わなければ次へ進めないだろう。\n\n「…本当ですか？」\n\nシンクレアにじっくり作戦を説明すると、彼は驚いた目で私を見てきた。\n\n「絶対に止められると思ったんですけど…。」\n\n不安そうな声だったが、シンクレアは内心嬉しそうに見えた。\n\n「分かりました。僕がやってみせます。」\n\n囚人たちと共に、シンクレアは審問官のいる場所へ素早く駆け寄った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私たちは正義の騎士ではない。\nしかしそれをさておいても、どの道あの者たちと戦わなければ次へ進めないだろう。\n\n「…本当ですか？」\n\nシンクレアにじっくり作戦を説明すると、彼は驚いた目で私を見てきた。\n\n「絶対に止められると思ったんですけど…。」\n\n不安そうな声だったが、シンクレアは内心嬉しそうに見えた。\n\n「分かりました。僕がやってみせます。」\n\n囚人たちと共に、シンクレアは審問官のいる場所へ素早く駆け寄った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우리는 정의의 기사가 아니다.\n하지만 그걸 떼어놓고 보더라도, 어차피 저들과 싸워야 다음으로 나아갈 수 있을 것이다.\n\n'…정말인가요?'\n\n싱클레어에게 차분히 작전을 설명하자, 그는 놀란 눈으로 나를 쳐다보았다.\n\n'당연히 막으실 줄 알았는데요…'\n\n불안한듯한 목소리로 말하지만, 싱클레어는 내심 기뻐보이는 모습이었다.\n\n'알겠습니다. 제가 해낼게요.'\n\n수감자들과 함께, 싱클레어는 심문관들이 있는 곳으로 빠르게 달려나갔다.\nEN:\nWe may not be valiant knights.\nYet, even casting morals aside, we will have to fight them to move on.\n\n“…Do you really mean it?”\n\nWhen you explain your plan to Sinclair, he looks back at you with surprise.\n\n“I thought you would stop me…”\n\nHe spoke anxiously, but he seemed nevertheless happy with the decision.\n\n“Got it. I’ll do it.”\n\nSinclair sprinted to where the Inquisitors were alongside the other Sinners."
+  },
+  {
+    "key": "10306-name",
+    "original": "腐った死体が遺したものは\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腐った死体が遺したものは\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n썩은 시체가 남긴 것은\nEN:\nA Rotting Corpse’s Memento"
+  },
+  {
+    "key": "10306-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10306-desc",
+    "original": "「くっ、なんだこの臭い…。」\n\n囚人たちはそれぞれの鼻を摘まんで顔をしかめた。\n彼らの顔が向く方を見ると、隅で倒れている審問官が見えた。\n\n「死んでるな…。」\n\n死体から腐敗臭が漂っているようだ。\n皆それに近づくのを嫌がっていたそのとき、私は何かきらめくものを見た。\n\nうねるたてがみの隙間に何かがあるようだが…。\nどうするべきだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「くっ、なんだこの臭い…。」\n\n囚人たちはそれぞれの鼻を摘まんで顔をしかめた。\n彼らの顔が向く方を見ると、隅で倒れている審問官が見えた。\n\n「死んでるな…。」\n\n死体から腐敗臭が漂っているようだ。\n皆それに近づくのを嫌がっていたそのとき、私は何かきらめくものを見た。\n\nうねるたてがみの隙間に何かがあるようだが…。\nどうするべきだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'큭, 무슨 냄새가…'\n\n수감자들이 저마다 코를 쥐고 얼굴을 찡그렸다.\n그들의 고개가 돌아가는 쪽을 바라보니, 구석에 쓰러져있는 심문관이 보인다.\n\n'죽었군…'\n\n시체가 썩는 냄새가 나는 모양이다.\n다들 그것에 다가가는 걸 꺼리는 그 때, 내게 무언가 반짝이는 것이 보였다.\n\n꿈틀거리는 갈기 틈새에 무언가 있는 것 같은데…\n어떻게 할까?\nEN:\n“Gehk, what’s this odor…”\n\nThe Sinners frowned at the olfactory assault.\nFollowing their eyes, you find an Inquisitor collapsed on the floor.\n\n“Definitely dead…”\n\nThe smell must be coming from the rotting corpse.\nWhile everyone was hesitant to approach, you see something sparkle.\n\nThere seems to be something amidst the writhing manes…\nWhat will you do?"
+  },
+  {
+    "key": "10306-options[0].message",
+    "original": "倒れた審問官を調査する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "倒れた審問官を調査する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쓰러진 심문관을 조사한다.\nEN:\nExamine the dead Inquisitor."
+  },
+  {
+    "key": "10306-options[0].messageDesc",
+    "original": "暴食判定を進行。判定成功時、E.G.Oギフトを獲得。判定失敗時、体力と精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "暴食判定を進行。判定成功時、E.G.Oギフトを獲得。判定失敗時、体力と精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐식 판정 진행. 판정 성공 시 에고 기프트 획득. 판정 실패 시 체력, 정신력 감소.\nEN:\nRun a Gluttony check. Pass to gain an E.G.O Gift. Fail to lose HP and SP."
+  },
+  {
+    "key": "10306-options[1].message",
+    "original": "触らずに部屋を出る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "触らずに部屋を出る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n건드리지 않고 방을 떠난다.\nEN:\nLeave without touching it."
+  },
+  {
+    "key": "10306-options[1].result[0]",
+    "original": "大したものではないだろう。\n必要なものであれば、後で戻って手に入れれば良いだろう。\n\n不確定要素が多い状態で、あえて囚人の精神を揺さぶるようなことはしたくない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大したものではないだろう。\n必要なものであれば、後で戻って手に入れれば良いだろう。\n\n不確定要素が多い状態で、あえて囚人の精神を揺さぶるようなことはしたくない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별건 아닐 것이다.\n필요한 것이었다면, 도중에 돌아와서 얻어가도 될 것이다.\n\n불확실한 상태에서, 굳이 수감자들의 정신을 흔들어 놓고 싶지는 않다.\nEN:\nSurely it’s nothing.\nIf we really need it, we can always recover it later.\n\nYou’d rather not damage the psyches of your Sinners for something so uncertain."
+  },
+  {
+    "key": "10307-name",
+    "original": "[たす。ケ。てく。ダさ。た。す。]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[たす。ケ。てく。ダさ。た。す。]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[살려. 주. 세요. 살. 려.]\nEN:\n[Hel. P. Me. He. Lp.]"
+  },
+  {
+    "key": "10307-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10307-desc",
+    "original": "閉ざされた部屋の中からプツプツ途切れる機械の音が聞こえてくる。\n\n「助けてほしいみたいだけど…。」\n\nその音をよく聞いていると、後ろから誰かが歩いてくる音が聞こえる。\n\n「鉄…鉄のぶつかる音です…。」\n\nシンクレアの表情が固まった。\nどうやら審問官が来るようだ。\nどうすればいいだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "閉ざされた部屋の中からプツプツ途切れる機械の音が聞こえてくる。\n\n「助けてほしいみたいだけど…。」\n\nその音をよく聞いていると、後ろから誰かが歩いてくる音が聞こえる。\n\n「鉄…鉄のぶつかる音です…。」\n\nシンクレアの表情が固まった。\nどうやら審問官が来るようだ。\nどうすればいいだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닫힌 방 안에서 뚝뚝 끊어지는 기계 소리가 들려오고 있다.\n\n'살려달라는 것 같은데…'\n\n그 소리를 자세히 듣고 있자니, 뒤에서 누군가가 걸어오는 소리가 들린다.\n\n'철… 철이 부딪히는 소리예요…'\n\n싱클레어의 표정이 굳었다.\n아무래도 심문관이 오는 모양이다.\n어떻게 해야 할까?\nEN:\nYou hear snappy mechanical noises through the closed door.\n\n“Sounds like a cry for help…”\n\nAs you focus your attention, you begin to hear footsteps.\n\n“Steel… Those are clangs of steel…”\n\nSinclair froze.\nIt looks like an Inquisitor is coming for them.\nWhat will you do?"
+  },
+  {
+    "key": "10307-options[0].message",
+    "original": "義体人間を解放する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "義体人間を解放する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의체 인간을 풀어준다.\nEN:\nFree the prosthetic."
+  },
+  {
+    "key": "10307-options[0].messageDesc",
+    "original": "シンクレアの精神力が回復。戦闘発生。勝利時E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレアの精神力が回復。戦闘発生。勝利時E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어의 정신력 회복. 전투 발생. 승리 시 E.G.O GIFT 획득.\nEN:\nSinclair heals SP. Begin a combat encounter. Win to gain an E.G.O Gift."
+  },
+  {
+    "key": "10307-options[0].result[0]",
+    "original": "「…はい、信じてました。」\n\nシンクレアは私の答えを聞くとすぐに飛んでいった。\n予想通り、義体人間が縄などで縛られていた。\n\n「早く逃げてください！」\n\nシンクレアがロープを切るやいなや、彼らは振り向きもせずに急いで部屋を出た。\n\n「くっ…異端なり！」\n\n少し遅れたのか、審問官たちが部屋に入ってきて叫んだ。\n戦闘は避けられそうにない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「…はい、信じてました。」\n\nシンクレアは私の答えを聞くとすぐに飛んでいった。\n予想通り、義体人間が縄などで縛られていた。\n\n「早く逃げてください！」\n\nシンクレアがロープを切るやいなや、彼らは振り向きもせずに急いで部屋を出た。\n\n「くっ…異端なり！」\n\n少し遅れたのか、審問官たちが部屋に入ってきて叫んだ。\n戦闘は避けられそうにない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'…역시, 믿고 있었어요.'\n\n싱클레어는 나의 대답을 들은 즉시 뛰어 들어갔다.\n예상대로 의체 인간들이 밧줄 따위로 묶여있었다.\n\n'빨리 도망가세요!'\n\n싱클레어가 밧줄을 끊자마자, 그들은 뒤도 돌아보지 않고 황급하게 방을 빠져나갔다.\n\n'큭… 이단이다!'\n\n조금 늦은 모양인지, 심문관들이 방 안으로 들어오며 외쳤다.\n전투를 피할 수는 없을 것 같다.\nEN:\n“…I knew I could count on you.”\n\nSinclair jumped in as soon as you told him what to do.\nAs you expected, a number of prosthetic people were bound by ropes.\n\n“Get out of here, quickly!”\n\nAs soon as he untied them, they hurriedly ran out of the room.\n\n“Tch… The heretics!”\n\nWe were a little late to leave; the Inquisitors shouted as they entered the room.\nIt seems conflict is unavoidable."
+  },
+  {
+    "key": "10307-options[0].result[1]",
+    "original": "「…はい、信じてました。」\n\nシンクレアは私の答えを聞くとすぐに飛んでいった。\n予想通り、義体人間が縄などで縛られていた。\n\n「早く逃げてください！」\n\nシンクレアがロープを切るやいなや、彼らは振り向きもせずに急いで部屋を出た。\n\n「ありがとうも言えないのか、クソが。」\n\n何人かの囚人はわけもなく悪口を吐いたが、\nシンクレアはどうってこと無いような満足げな顔をしていた。\n\n騒がしくなった彼らを落ち着かせ、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「…はい、信じてました。」\n\nシンクレアは私の答えを聞くとすぐに飛んでいった。\n予想通り、義体人間が縄などで縛られていた。\n\n「早く逃げてください！」\n\nシンクレアがロープを切るやいなや、彼らは振り向きもせずに急いで部屋を出た。\n\n「ありがとうも言えないのか、クソが。」\n\n何人かの囚人はわけもなく悪口を吐いたが、\nシンクレアはどうってこと無いような満足げな顔をしていた。\n\n騒がしくなった彼らを落ち着かせ、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'…역시, 믿고 있었어요.'\n\n싱클레어는 나의 대답을 들은 즉시 뛰어 들어갔다.\n예상대로 의체 인간들이 밧줄 따위로 묶여있었다.\n\n'빨리 도망가세요!'\n\n싱클레어가 밧줄을 끊자마자, 그들은 뒤도 돌아보지 않고 황급하게 방을 빠져나갔다.\n\n'고맙다는 말도 없네, 개 같은 것들.'\n\n몇 수감자들은 괜히 욕지거리를 뱉었지만,\n싱클레어는 아무렇지 않다는 듯 만족스러운 얼굴이었다.\n\n어수선해진 분위기를 추스리고, 우리는 방을 떠났다.\nEN:\n“…I knew I could count on you.”\n\nSinclair jumped in as soon as you told him what to do.\nAs you expected, a number of prosthetic people were bound by ropes.\n\n“Get out of here, quickly!”\n\nAs soon as he untied them, they hurriedly ran out of the room.\n\n“Bastards, not even a simple thank you.”\n\nSome of the Sinners complained,\nbut Sinclair looked satisfied with the deed.\n\nCalming them down, we left the room."
+  },
+  {
+    "key": "10307-options[1].message",
+    "original": "義体人間を見捨てて過ぎ去る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "義体人間を見捨てて過ぎ去る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의체 인간을 내버려두고 지나간다.\nEN:\nLeave the prosthetic."
+  },
+  {
+    "key": "10307-options[1].messageDesc",
+    "original": "シンクレアの精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シンクレアの精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n싱클레어의 정신력 감소.\nEN:\nSinclair loses SP."
+  },
+  {
+    "key": "10307-options[1].result[0]",
+    "original": "「え、いや…なんで…。」\n\n返事を聞いたシンクレアはショックを受けたようだった。\nしかし、彼らを救おうとして囚人を失うと、その後の戦闘に大きな支障をきたすことは明らかだった。\n\n[た、タす。たすけ。たす。たす…。]\n\n鳴り止まない機械の悲鳴を背に、私たちは急いで立ち去った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「え、いや…なんで…。」\n\n返事を聞いたシンクレアはショックを受けたようだった。\nしかし、彼らを救おうとして囚人を失うと、その後の戦闘に大きな支障をきたすことは明らかだった。\n\n[た、タす。たすけ。たす。たす…。]\n\n鳴り止まない機械の悲鳴を背に、私たちは急いで立ち去った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'아, 아니… 어떻게…'\n\n대답을 들은 싱클레어는 충격에 빠진 모양이었다.\n하지만, 저들을 구하다가 수감자들을 잃으면 이후 전투에 치명적일 것이 자명하다.\n\n[사, 살. 살려. 살. 살…]\n\n이어지는 기계 비명 소리를 뒤로 하며, 우리는 황급히 떠났다.\nEN:\n“N—No… How could…”\n\nSinclair seems to be shocked by your answer.\nAs unfortunate as this is, losing manpower while trying to save those people would be a fatal detriment for the coming engagements.\n\n[H. He. Help. H. Hel…]\n\nWe left in a hurry, leaving behind their plaintive cries."
+  },
+  {
+    "key": "10308-name",
+    "original": "爛れの儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "爛れの儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n짓무름의 의식\nEN:\nRite of Suppuration"
+  },
+  {
+    "key": "10308-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10308-desc",
+    "original": "道は赤く熱されていた。\n\n「うっ、靴が溶けちゃいそう！」\n\n囚人たちは注意深く近寄ったが、熱すぎたのかすぐに戻ってきた。\n道の前方に刺さっている立て札にはこう書かれていた。\n\n「惰弱さと爛れで人間性を証明せよ。\n灼かれた足跡で道を作れ。」\n\nその言葉が何を意味しているかは、あまり考えずとも分かった。\n…どうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "道は赤く熱されていた。\n\n「うっ、靴が溶けちゃいそう！」\n\n囚人たちは注意深く近寄ったが、熱すぎたのかすぐに戻ってきた。\n道の前方に刺さっている立て札にはこう書かれていた。\n\n「惰弱さと爛れで人間性を証明せよ。\n灼かれた足跡で道を作れ。」\n\nその言葉が何を意味しているかは、あまり考えずとも分かった。\n…どうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n길은 빨갛게 달궈져 있었다.\n\n'윽, 신발이 녹겠는데!'\n\n수감자들이 근처까지 조심스레 가보았지만, 너무나 뜨거웠는지 금방 다시 돌아왔다.\n길 앞 쪽에 박혀있는 팻말에는 문구가 적혀 있었다.\n\n'나약함과 짓무름으로 인간성을 증명하라.\n그을린 발자국으로 길을 만들어라.'\n\n그 말이 무얼 뜻하는지는, 그다지 오래 고민하지 않아도 알 수 있었다.\n…어떻게 해야하지?\nEN:\nThe passage was red-hot.\n\n“Yeesh, that’d melt my shoes.”\n\nThe Sinners carefully approached the road, only to retreat from the overwhelming heat.\nSomething was written on the sign in front of the passage:\n\nProve your humanity \nAnd through weakness and suppuration\nSear a path with mobilization\n\nIt took no time at all to figure out what that meant.\n…What will you do?"
+  },
+  {
+    "key": "10308-options[0].message",
+    "original": "N社の印章を見せる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社の印章を見せる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사의 인장을 보인다.\nEN:\nPresent the N Corp. Seal."
+  },
+  {
+    "key": "10308-options[0].messageDesc",
+    "original": "E.G.O GIFTのN社の印章がある場合にのみ選択可能。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFTのN社の印章がある場合にのみ選択可能。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT N사의 인장이 있는 경우에만 선택 가능.\nEN:\nOnly available if the E.G.O Gift [N Corp. Seal] is in possession."
+  },
+  {
+    "key": "10308-options[0].result[0]",
+    "original": "「既に証明してるなら問題無いんじゃないですか？」\n\n囚人の一人がそう言った。\nそういえば、私たちは証明した者の物品を持っていた。\n\n「あっ…N社の印章！」\n\n立て札に印章を当ててみると、あっという間に赤く熱されていた道が冷めていった。\n無事に渡ることができた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「既に証明してるなら問題無いんじゃないですか？」\n\n囚人の一人がそう言った。\nそういえば、私たちは証明した者の物品を持っていた。\n\n「あっ…N社の印章！」\n\n立て札に印章を当ててみると、あっという間に赤く熱されていた道が冷めていった。\n無事に渡ることができた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'이미 증명한 경우에는 문제가 없지 않을까요?'\n\n수감자 하나가 그런 이야기를 꺼냈다.\n그러고 보니, 우리는 증명한 자의 물건을 갖고 있었다.\n\n'아… N사의 인장!'\n\n팻말에 인장을 대어보았더니, 순식간에 빨갛게 달궈졌던 길이 식어버렸다.\n무사히 건널 수 있었다.\nEN:\n“We’ve proved ourselves already, haven’t we?”\n\nA Sinner suggested.\nIt reminded you that you bore proof.\n\n“Right… The seal!”\n\nTagging the seal on the sign caused the passage to cool in an instant.\nWe were able to tread without a problem."
+  },
+  {
+    "key": "10308-options[1].message",
+    "original": "熱された道を渡る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "熱された道を渡る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달궈진 길을 건넌다.\nEN:\nTread the heated path."
+  },
+  {
+    "key": "10308-options[1].messageDesc",
+    "original": "憤怒判定を進行。判定成功時、E.G.O GIFTを獲得。判定失敗時、3ウェーブの戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒判定を進行。判定成功時、E.G.O GIFTを獲得。判定失敗時、3ウェーブの戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 판정 진행. 판정 성공 시 E.G.O GIFT 획득. 판정 실패 시 3웨이브 전투 발생.\nEN:\nRun a Wrath check. Pass to gain an E.G.O Gift. Failing begins a 3-wave combat encounter."
+  },
+  {
+    "key": "10308-options[2].message",
+    "original": "他の道を探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "他の道を探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다른 길을 찾아본다.\nEN:\nLook for another way."
+  },
+  {
+    "key": "10308-options[2].messageDesc",
+    "original": "50%の確率で3ウェーブの戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率で3ウェーブの戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50% 확률로 3웨이브 전투 발생.\nEN:\n50% chance for a 3-wave combat encounter."
+  },
+  {
+    "key": "10308-options[2].result[0]",
+    "original": "熱された道を苦しみながら渡るのは危ないだろう。\nもちろん、通ったからといってこの道が渡りやすくなるという保証も無いし。\n審問官を上手いこと避けて通れば、他の道でも無理なく通れるかもしれない。\n\n残念ながら、巡回中の尋問官たちの目に留まってしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "熱された道を苦しみながら渡るのは危ないだろう。\nもちろん、通ったからといってこの道が渡りやすくなるという保証も無いし。\n審問官を上手いこと避けて通れば、他の道でも無理なく通れるかもしれない。\n\n残念ながら、巡回中の尋問官たちの目に留まってしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뜨겁게 달궈진 길을 고통스러워해가며 건너게 하는 건 위험한 일인 것 같다.\n물론, 지나갔다고 해서 이 길이 건너기 쉬워진다는 보장도 없고.\n심문관들을 잘 피해서 넘어가면, 다른 길로도 무리없이 지나갈 수 있을지도 모른다.\n\n아쉽게도, 지나다니는 심문관들의 눈에 띄어버렸다.\nEN:\nIt seems too dangerous to make any Sinner cross this searing passage.\n\nNot to mention that you don’t know if there’s anything to make the trip easier for the rest, even if someone managed to cross it.\nYou figure you might be able to take another route as long as you’re careful not to get spotted.\n\nUnfortunately, a group of patrolling Inquisitors noticed you."
+  },
+  {
+    "key": "10308-options[2].result[1]",
+    "original": "熱された道を苦しみながら渡るのは危ないだろう。\nもちろん、通ったからといってこの道が渡りやすくなるという保証も無いし。\n審問官を上手いこと避けて通れば、他の道でも無理なく通れるかもしれない。\n\n幸いなことに、巡回中の尋問官たちを避けて無事通過することが出来た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "熱された道を苦しみながら渡るのは危ないだろう。\nもちろん、通ったからといってこの道が渡りやすくなるという保証も無いし。\n審問官を上手いこと避けて通れば、他の道でも無理なく通れるかもしれない。\n\n幸いなことに、巡回中の尋問官たちを避けて無事通過することが出来た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뜨겁게 달궈진 길을 고통스러워해가며 건너게 하는 건 위험한 일인 것 같다.\n물론, 지나갔다고 해서 이 길이 건너기 쉬워진다는 보장도 없고.\n심문관들을 잘 피해서 넘어가면, 다른 길로도 무리없이 지나갈 수 있을지도 모른다.\n\n다행히, 지나다니는 심문관들을 피해 무사히 통과할 수 있었다.\nEN:\nIt seems too dangerous to make any Sinner cross this searing passage.\n\nNot to mention that you don’t know if there’s anything to make the trip easier for the rest, even if someone managed to cross it.\nYou figure you might be able to take another route as long as you’re careful not to get spotted.\n\nFortunately, you managed to get through without being noticed."
+  },
+  {
+    "key": "10309-name",
+    "original": "狂的な信心の込められたもの\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狂的な信心の込められたもの\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n광적인 믿음을 담은 것\nEN:\nA Vessel of Zeal"
+  },
+  {
+    "key": "10309-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10309-desc",
+    "original": "釘と金鎚で飾られた講壇が見える。\n\n「N社と関係がありそうだ。」\n\n囚人がそう呟いた。私もそう思う。\nN社に関する情報をもっと得た方が良いだろうか？それとも…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "釘と金鎚で飾られた講壇が見える。\n\n「N社と関係がありそうだ。」\n\n囚人がそう呟いた。私もそう思う。\nN社に関する情報をもっと得た方が良いだろうか？それとも…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n못과 망치가 장식된 단상이 보인다.\n\n'N사와 관련이 있겠군.'\n\n수감자가 그렇게 읊조렸다. 나 또한 그렇게 생각한다.\nN사와 관련한 정보를 더 얻는 것이 좋을까? 아니면…\nEN:\nYou see a pedestal adorned with the engravings of a nail and hammer.\n\n“Must have something to do with N Corp.”\n\nA Sinner mutters, and you agree.\nShould you try to get some info on N Corp? Or…"
+  },
+  {
+    "key": "10309-options[0].message",
+    "original": "近寄って本を調べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "近寄って本を調べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가까이 가서 책을 확인해본다.\nEN:\nExamine the book on the pedestal."
+  },
+  {
+    "key": "10309-options[0].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift"
+  },
+  {
+    "key": "10309-options[0].result[0]",
+    "original": "講壇の上にはN社の審問官たちが持ち歩いている本があった。\n読む機会がなかったので、何枚かページをめくってみたが…。\n\n「うぅっ…。」\n\nわけの分からない内容に頭が痛くなるばかりだった。\nとりあえず持っていくことにして、後で読むことにしよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "講壇の上にはN社の審問官たちが持ち歩いている本があった。\n読む機会がなかったので、何枚かページをめくってみたが…。\n\n「うぅっ…。」\n\nわけの分からない内容に頭が痛くなるばかりだった。\nとりあえず持っていくことにして、後で読むことにしよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n교단 위에는 N사 심문관들이 들고 다니는 책이 있었다.\n직접 읽어볼 기회가 없었기에, 몇 장을 들춰보았지만…\n\n'으윽…'\n\n알 수 없는 내용에 머리만 더 아파질 뿐이었다.\n우선 챙겨놓고, 다음에 읽는 것을 기약해야겠다.\nEN:\nUpon the pedestal was a tome N Corp. Inquisitors were often seen carrying.\nYou take this chance to peek at a few pages of it…\n\n“Ugh…”\n\nThe indecipherable content only gave you a headache.\nYou decide to hold onto it for now and read it later."
+  },
+  {
+    "key": "10309-options[1].message",
+    "original": "音を避けて部屋から出る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "音を避けて部屋から出る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소리를 피해 방을 떠난다.\nEN:\nStay away from the noise and leave."
+  },
+  {
+    "key": "10309-options[1].result[0]",
+    "original": "既に情報は十分だ。\nあえて怪しい場所に入る必要は無いと思う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "既に情報は十分だ。\nあえて怪しい場所に入る必要は無いと思う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 정보는 충분하다.\n굳이 수상쩍은 곳을 방문하지는 않는게 좋을 것 같다.\nEN:\nWe know enough already.\nIt’s not worth snooping around suspicious areas."
+  },
+  {
+    "key": "10310-name",
+    "original": "直面の儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "直面の儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n직면의 의식\nEN:\nRite of Confrontation"
+  },
+  {
+    "key": "10310-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10310-desc",
+    "original": "固く閉ざされた扉の上にはこう書かれている。\n\n「畏れと恐怖に直面し、感情を証明せよ。」\n\n「涙で器を満たせ。」\n\n周囲を見回すと不気味な形をした椅子と、涙で満たすべきであろう器が一緒に置かれていた。\n\nどうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "固く閉ざされた扉の上にはこう書かれている。\n\n「畏れと恐怖に直面し、感情を証明せよ。」\n\n「涙で器を満たせ。」\n\n周囲を見回すと不気味な形をした椅子と、涙で満たすべきであろう器が一緒に置かれていた。\n\nどうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳게 닫힌 문 위에 이런 문구가 적혀있다.\n\n'두려움과 공포에 직면하여, 감정을 증명하라.'\n\n'눈물로 그릇을 모두 채워라.'\n\n주변을 둘러보니 불쾌한 모양의 의자와, 눈물을 채워야 하는 듯한 그릇이 함께 놓여져 있었다.\n어떻게 해야 할까?\nEN:\nAn inscription above the closed gate reads:\n\nProve your terror and fears\nFill this vessel with tears\n\nLooking around, you find the supposed vessel next to an unpleasant-looking chair.\nWhat will you do?"
+  },
+  {
+    "key": "10310-options[0].message",
+    "original": "儀式を行う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "儀式を行う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의식을 치룬다.\nEN:\nPerform the rite."
+  },
+  {
+    "key": "10310-options[0].messageDesc",
+    "original": "憂鬱判定が進行。選択した人格の精神力が減少。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憂鬱判定が進行。選択した人格の精神力が減少。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우울 판정 진행. 선택한 인격 정신력 감소. 판정 성공 시 E.G.O GIFT 획득\nEN:\nRun a Gloom check. Selected Identity loses SP. Pass to gain an E.G.O Gift."
+  },
+  {
+    "key": "10310-options[1].message",
+    "original": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방을 떠난다.\nEN:\nLeave the room."
+  },
+  {
+    "key": "10310-options[1].result[0]",
+    "original": "儀式が一体どのように行われるのか見当もつかない状態で、無理な試みをするのは危険だ。\n私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "儀式が一体どのように行われるのか見当もつかない状態で、無理な試みをするのは危険だ。\n私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의식이 도대체 어떤 형태로 이루어지는지 갈피도 안잡히는 상태에서, 무리한 시도를 하는 건 위험하다.\n우리는 방을 떠났다.\nEN:\nIt’s too dangerous to attempt a rite when you aren’t even sure of how it works.\nWe left the room."
+  },
+  {
+    "key": "10311-name",
+    "original": "人間の破片の入った棺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人間の破片の入った棺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사람의 파편이 들어있는 관\nEN:\nExhibit of Human Parts"
+  },
+  {
+    "key": "10311-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10311-desc",
+    "original": "中央区域の片隅でガラスの棺を発見した。\nそのガラス棺の中には、明らかに干からびてはいるが、未だに生き生きと動いている生命体の一部が沢山浮かんでいた。\n\n「悲劇的な展示なり…。」\n\n棺は開けやすい構造になっていた。欲しいなら、一つくらい持っていけそうだ。\n今度はどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "中央区域の片隅でガラスの棺を発見した。\nそのガラス棺の中には、明らかに干からびてはいるが、未だに生き生きと動いている生命体の一部が沢山浮かんでいた。\n\n「悲劇的な展示なり…。」\n\n棺は開けやすい構造になっていた。欲しいなら、一つくらい持っていけそうだ。\n今度はどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙 구역 한 켠에서 유리관을 발견했다.\n그 유리관의 안에는, 분명히 말라 붙었지만 아직도 생동감 있게 움직이고 있는 생명체의 일부분 들이 둥둥 떠다니고 있었다.\n\n'비극적인 전시로군…'\n\n관은 쉽게 열 수 있게 되어있었다. 원한다면, 하나 쯤 가져갈 수도 있을 것 같다.\n이번엔 어떻게 할까?\nEN:\nYou find a row of glass containers in a corner of the main area.\nInside them are dried organs and pieces of life showing active movement.\n\n“A tragic display…”\n\nThe containers can be opened easily. You could take one of the pieces if you want to.\nWhat will you do?"
+  },
+  {
+    "key": "10311-options[0].message",
+    "original": "光る頭蓋骨を持って行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "光る頭蓋骨を持って行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛나는 두개골을 챙긴다.\nEN:\nTake the glowing skull."
+  },
+  {
+    "key": "10311-options[0].messageDesc",
+    "original": "体力が低いときに回復効果を与えるE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が低いときに回復効果を与えるE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 낮을 때 회복 효과를 주는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift that provides healing at low health."
+  },
+  {
+    "key": "10311-options[0].result[0]",
+    "original": "光る頭蓋骨を取り出した。\n仄かに光る上、なんだか温かい気がしたので妙な気分になった。\n\n他の棺は開かない。持っていけるのは一つだけのようだ。\n私たちは頭蓋骨を持って、棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "光る頭蓋骨を取り出した。\n仄かに光る上、なんだか温かい気がしたので妙な気分になった。\n\n他の棺は開かない。持っていけるのは一つだけのようだ。\n私たちは頭蓋骨を持って、棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛나는 두개골을 챙겼다.\n은은하게 빛이 나는 데다가, 왠지 모를 따스함까지 느껴져서 기분이 묘하다.\n\n다른 관은 열리지 않는다. 하나만 가져갈 수 있는 모양이다.\n우리는 두개골을 챙기고, 관 앞을 떠나갔다.\nEN:\nYou took the glowing skull.\nIt radiates gently, and you feel a strange warmth from it.\n\nThe other containers won’t open. It seems that you can take only one.\nYou took your leave with the item you chose."
+  },
+  {
+    "key": "10311-options[1].message",
+    "original": "血を流す手を持って行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血を流す手を持って行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피를 흘리는 손을 챙긴다.\nEN:\nTake the bleeding hand."
+  },
+  {
+    "key": "10311-options[1].messageDesc",
+    "original": "体力が低いときに強化効果を与えるE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が低いときに強化効果を与えるE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 낮을 때 강화 효과를 주는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift that provides power-ups at low health."
+  },
+  {
+    "key": "10311-options[1].result[0]",
+    "original": "血を流す指が目に留まった。\n棺を開けてそれを握ると、切断面から血がポタポタと流れ落ち続けた。\n痛みを感じているのか、ビクビクと動き続ける指を持ち出した。\n\n他の棺は開かない。持っていけるのは一つだけのようだ。\n私たちは指を持って、棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血を流す指が目に留まった。\n棺を開けてそれを握ると、切断面から血がポタポタと流れ落ち続けた。\n痛みを感じているのか、ビクビクと動き続ける指を持ち出した。\n\n他の棺は開かない。持っていけるのは一つだけのようだ。\n私たちは指を持って、棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피를 흘리는 손가락이 눈에 띄었다.\n관을 열어 그걸 쥐니, 절단면에서 계속해서 피가 뚝뚝 떨어지고 있었다.\n고통스러운지 계속해서 움찔거리는 손가락을 챙겼다.\n\n다른 관은 열리지 않는다. 하나만 가져갈 수 있는 모양이다.\n우리는 손가락을 챙기고, 관 앞을 떠나갔다.\nEN:\nThe bloody fingers caught your attention.\nWhen you open the container to hold it, you notice that blood continues to drip from the section.\nYou pick it up by a perpetually flinching digit.\n\nThe other containers won’t open. It seems that you can take only one.\nYou took your leave with the item you chose."
+  },
+  {
+    "key": "10311-options[2].message",
+    "original": "蠢く舌を持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蠢く舌を持っていく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈틀거리는 혓바닥을 챙긴다.\nEN:\nTake the wriggling tongue."
+  },
+  {
+    "key": "10311-options[2].messageDesc",
+    "original": "マッチ勝利時に効果を与えるE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ勝利時に効果を与えるE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 승리 시 효과를 주는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift that provides benefits after winning a Clash."
+  },
+  {
+    "key": "10311-options[2].result[0]",
+    "original": "蠢く舌が、視線を刺激し続ける。\n棺を開けてそれを掴むと、手のひらの中でぺちゃぺちゃしながら動き続ける。\n\nなんだかこの舌がしきりにあざ笑ってくるような気がして、他のを選ぼうとしたけど…。\n他の棺は開かない。持っていけるのは一つだけのようだ。\n私たちは指を持って、棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蠢く舌が、視線を刺激し続ける。\n棺を開けてそれを掴むと、手のひらの中でぺちゃぺちゃしながら動き続ける。\n\nなんだかこの舌がしきりにあざ笑ってくるような気がして、他のを選ぼうとしたけど…。\n他の棺は開かない。持っていけるのは一つだけのようだ。\n私たちは指を持って、棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿈틀거리는 혓바닥이 시선을 계속 자극한다.\n관을 열어 그걸 잡아보니, 손바닥 안에서 자꾸 찰딱거리며 움직인다.\n\n자꾸 이 혓바닥이 조롱하는 듯한 기분이 들어, 다른 걸 고르려고 했지만…\n다른 관은 열리지 않는다. 하나만 가져갈 수 있는 모양이다.\n우리는 혓바닥을 챙기고, 관 앞을 떠나갔다.\nEN:\nThe slithering tongue attracts your eyes.\nWhen you open the container and grab it, it flaps in your palm.\n\nYou feel as though the tongue is mocking you, so you try to pick another one, but…\n\nThe other containers won’t open. It seems that you can take only one.\nYou have to take your leave with the item you chose."
+  },
+  {
+    "key": "10311-options[3].message",
+    "original": "何も持って行かない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も持って行かない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 것도 가져가지 않는다.\nEN:\nDon’t take anything."
+  },
+  {
+    "key": "10311-options[3].result[0]",
+    "original": "何も持って行かないコトン強いた。\n気持ち悪い臓器にあえて触る理由はない。\n私たちは棺の前を過ぎ去っていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も持って行かないことにした。\n気持ち悪い臓器にあえて触る理由はない。\n私たちは棺の前を過ぎ去っていった。\n<CMT_KR>오식: \"何も持って行かない「コトン強い」た。\"  정확: \"何も持って行かない「ことにし」た。\"\n<CMT_EN>Typo: \"何も持って行かない「コトン強い」た。\"  Correction: \"何も持って行かない「ことにし」た。\"\n<CMT_JP>誤植: \"何も持って行かない「コトン強い」た。\"  訂正後: \"何も持って行かない「ことにし」た。\"",
+    "stage": 1,
+    "context": "KR:\n아무것도 챙기지 않기로 했다.\n기분 나쁜 신체기관을 굳이 건드리지 않는게 좋을 것 같다.\n우리는 관 앞을 떠나갔다.\nEN:\nYou decide not to take anything.\n\nYou’d rather not bother with touching creepy organs.\nLike that, we left the place."
+  },
+  {
+    "key": "10312-name",
+    "original": "懺悔の儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "懺悔の儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참회의 의식\nEN:\nRite of Penance"
+  },
+  {
+    "key": "10312-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10312-desc",
+    "original": "巨大な扉の上にはこう書かれている。\n\n「棘で身体を刺し、苦痛で自らを懺悔せよ。」\n\n今度は身体を刺せということか。\nどうするべきだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "巨大な扉の上にはこう書かれている。\n\n「棘で身体を刺し、苦痛で自らを懺悔せよ。」\n\n今度は身体を刺せということか。\nどうするべきだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거대한 문 위에 이런 문구가 적혀 있었다.\n\n'가시로 몸을 찔러 고통으로 스스로를 참회하라.'\n\n이번에는 몸을 찌르라는 걸까.\n어떻게 해야 할까.\nEN:\nA passage is written above the large gate:\n\nOnly those who repent may find motion\nThorn yourself, atone through flagellation\n\nIt looks like it wants us to impale ourselves on spikes.\nWhat will you do?"
+  },
+  {
+    "key": "10312-options[0].message",
+    "original": "儀式を行う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "儀式を行う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의식을 치룬다.\nEN:\nPerform the rite."
+  },
+  {
+    "key": "10312-options[0].messageDesc",
+    "original": "憤怒判定が進行。選択した人格の体力が減少。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憤怒判定が進行。選択した人格の体力が減少。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 판정 진행. 선택한 인격 체력 감소. 판정 성공 시 E.G.O GIFT 획득\nEN:\nRun a Wrath check. Selected Identity loses HP. Pass to gain an E.G.O Gift."
+  },
+  {
+    "key": "10312-options[1].message",
+    "original": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部屋を離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방을 떠난다\nEN:\nLeave the room."
+  },
+  {
+    "key": "10312-options[1].result[0]",
+    "original": "やっぱり、無理な試みをするのは危険だ。\nわざわざ棘の中へ飛び込めという無意味な命令を出したくもない。\n\n私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "やっぱり、無理な試みをするのは危険だ。\nわざわざ棘の中へ飛び込めという無意味な命令を出したくもない。\n\n私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n역시, 무리한 시도를 하는 건 위험하다.\n굳이 가시 속으로 뛰어들라는 무의미한 명령을 내리고 싶지도 않다.\n\n우리는 방을 떠났다.\nEN:\nThere’s simply too much risk involved.\nYou don’t see a point in giving the order to fling someone onto the spikes.\n\nWe left the room."
+  },
+  {
+    "key": "10314-name",
+    "original": "最終儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終儀式\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 의식\nEN:\nRite of Conclusion"
+  },
+  {
+    "key": "10314-subDesc",
+    "original": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "subDesc가 뭘까?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nsubDesc가 뭘까?\nEN:\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10314-desc",
+    "original": "奇妙な外見のN社の審問官たちが扉を守っていた。\n攻撃しようとしたが、彼らには一切の戦意がないように見えた。\n\n「こ。こは。特別…。な。者達のみ入れ、る、場所だ。」\n\n「通って…行くには。 資格、を。見せよ。」\n\n資格を見せろというのが、どういう意味なのか全く思い浮かばない。\nどうすれば良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇妙な外見のN社の審問官たちが扉を守っていた。\n攻撃しようとしたが、彼らには一切の戦意がないように見えた。\n\n「こ。こは。特別…。な。者達のみ入れ、る、場所だ。」\n\n「通って…行くには。 資格、を。見せよ。」\n\n資格を見せろというのが、どういう意味なのか全く思い浮かばない。\nどうすれば良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기이한 외형을 한 N사의 심문관들이 문 앞을 지키고 있었다.\n공격하려 했지만, 그들에게는 일체의 전의가 없는 것 같았다.\n\n'이. 곳은. 특별… 한. 이들만 들어, 갈, 수 있는 곳이다.'\n\n'지나… 가려면. 자격, 을. 보여라.'\n\n자격을 보이라는 것이 무슨 뜻인지 좀 처럼 떠오르지 않는다.\n어떻게 하는 것이 좋을까?\nEN:\nHideously transformed N Corp. Inquisitors stood guard at the gate.\nYou moved to attack, but they don’t appear to be hostile in any capacity.\n\n“Only. Exceptional… ones. Are allowed. In, this place.”\n\n“To… pass. You, will. Prove yourself. Worthy.”\n\nYou aren’t exactly sure what they mean by “proving yourself”.\nWhat should you do?"
+  },
+  {
+    "key": "10314-options[0].message",
+    "original": "儀式に通過した証を見せる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "儀式に通過した証を見せる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의식에 통과한 증표를 보여준다.\nEN:\nPresent proof of passing the rites."
+  },
+  {
+    "key": "10314-options[0].messageDesc",
+    "original": "E.G.O GIFT N社の印章、または純粋さの証、涙の証、贖罪の証がある場合にのみ選択可能。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT N社の印章、または純粋さの証、涙の証、贖罪の証がある場合にのみ選択可能。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 순수함의 증표, 눈물의 증표, 속죄의 증표가 전부 있는 경우에만 선택 가능.\nEN:\nOnly available if the E.G.O Gift [N Corp. Seal] or all three Tokens of Innocence, Tears, and Atonement are in possession."
+  },
+  {
+    "key": "10314-options[0].result[0]",
+    "original": "今まで手に入れた印章が頭に思い浮かんだ。\n印象を得るために行ってきたことが「試験」であるなら、印章はその「資格」を意味するに違いない。\n\n「…通っても、良い。」\n\n審問官が泣き叫ぶような奇妙な声で喋り、扉を開けてくれた。\n\n「これを、持って。行…け。」\n\n渡してくれたものを受け取り、私たちは扉の中へ進んだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今まで手に入れた印章が頭に思い浮かんだ。\n印象を得るために行ってきたことが「試験」であるなら、印章はその「資格」を意味するに違いない。\n\n「…通っても、良い。」\n\n審問官が泣き叫ぶような奇妙な声で喋り、扉を開けてくれた。\n\n「これを、持って。行…け。」\n\n渡してくれたものを受け取り、私たちは扉の中へ進んだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그동안 얻었던 인장들이 떠올랐다.\n인장을 얻기 위해 했던 것들이 ‘시험’이라면, 인장은 그 ‘자격’을 의미할 것이 틀림 없다.\n\n'…지나가도, 좋다.'\n\n심문관은 기이한 울부짖음으로 말하며, 문을 열어주었다.\n\n'이것을, 가져. 가… 라.'\n\n무언가 쥐여주는 것을 받아들고, 우리는 문 안으로 건너갔다.\nEN:\nYou remembered what you’ve been collecting.\nIf the things your group went through were tests, then what you received must be the proof of your “worth”.\n\n“…You may, pass.”\n\nThe Inquisitors opened the gate, wailing in bizarre voices.\n\n“Take, this. With… you.”\n\nReceiving the item, we walked through the door."
+  },
+  {
+    "key": "10314-options[1].message",
+    "original": "話術で勝負する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "話術で勝負する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화술로 승부한다.\nEN:\nUse words."
+  },
+  {
+    "key": "10314-options[1].messageDesc",
+    "original": "色欲判定を進行。判定成功時に通過。判定失敗時、高難易度の戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色欲判定を進行。判定成功時に通過。判定失敗時、高難易度の戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 판정 진행. 판정 성공 시 통과. 판정 실패 시 어려운 전투 발생\nEN:\nRun a Lust check. Pass to proceed. Fail to begin a difficult combat encounter."
+  },
+  {
+    "key": "10314-options[2].message",
+    "original": "暴力で解決する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "暴力で解決する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무력으로 해결한다.\nEN:\nUse violence."
+  },
+  {
+    "key": "10314-options[2].messageDesc",
+    "original": "とある印を獲得。高難易度の戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "とある印を獲得。高難易度の戦闘が発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느 표지 획득. 어려운 전투 발생.\nEN:\nGain ‘A Sign’. Begin a difficult combat encounter."
+  },
+  {
+    "key": "10314-options[2].result[0]",
+    "original": "最も円満な解決方法は、やはり暴力だろうか。\n\n「…異、端。」\n\n震える下顎から流れ出るあの声色には、敵対心が込められているだろう。\n\n「僕も手伝います…管理人さん。」\n\nシンクレアは武器を握り、静かな意志を瞳に宿らせた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最も円満な解決方法は、やはり暴力だろうか。\n\n「…異、端。」\n\n震える下顎から流れ出るあの声色には、敵対心が込められているだろう。\n\n「僕も手伝います…管理人さん。」\n\nシンクレアは武器を握り、静かな意志を瞳に宿らせた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가장 원만한 해결책은 역시 무력인가.\n\n'…이, 단.'\n\n부들거리는 아래턱 에서 흘러나오는 저 소리는 분명 적개심일테다.\n\n'저도 돕겠습니다… 관리자님.'\n\n싱클레어는 무기를 쥐고 조용한 의지를 눈동자에 담았다.\nEN:\nIt seems violence will be our most straightforward solution.\n\n“…Here-tic.”\n\nThe voice spilling out of that shaking jaw must be one of pure hostility.\n\n“Allow me to help… Manager.”\n\nSinclair tightened the grip on his weapon, determination burning quietly in his eyes."
+  },
+  {
+    "key": "103001-name",
+    "original": "異端審問\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異端審問\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이단 심문\nEN:\nInquisition"
+  },
+  {
+    "key": "103001-subDesc",
+    "original": "사용 안하는 선택지\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 선택지\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 선택지\nEN:\n사용 안하는 선택지"
+  },
+  {
+    "key": "103001-desc",
+    "original": "N社の審問官に出くわした。\n尋問官は攻撃をせずに突然義体を嫌悪するのかと尋ねる。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社の審問官に出くわした。\n尋問官は攻撃をせずに突然義体を嫌悪するのかと尋ねる。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nN사 심문관과 마주쳤다.\n심문관이 공격을 하지 않고 돌연 의체를 혐오하냐고 묻는다.\n어떻게 해야할까?\nEN:\nYou met an N Corp. Inquisitor.\n\nInstead of attacking, they ask us if we loathe prosthetics.\nWhat should you say?"
+  },
+  {
+    "key": "103001-options[0].message",
+    "original": "審問官の言葉に同調する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審問官の言葉に同調する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문관의 말에 동조한다.\nEN:\nAgree with the Inquisitor."
+  },
+  {
+    "key": "103001-options[0].result[0]",
+    "original": "審問官の言葉に同調した。\n審問官が笑いながら立ち去った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審問官の言葉に同調した。\n審問官が笑いながら立ち去った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문관의 말에 동조했다.\n심문관이 웃으며 떠나갔다.\nEN:\nYou agreed with the Inquisitor.\nThey laughed and walked away."
+  },
+  {
+    "key": "103001-options[1].message",
+    "original": "審問官の言葉を否定する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審問官の言葉を否定する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문관의 말에 부정한다.\nEN:\nRefuse the Inquisitor’s claim."
+  },
+  {
+    "key": "103001-options[1].result[0]",
+    "original": "審問官の言葉を否定した。\nシンクレアは静かにうなずいた。\n審問官は怒りながら部下を呼び集めた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審問官の言葉を否定した。\nシンクレアは静かにうなずいた。\n審問官は怒りながら部下を呼び集めた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문관의 말을 부정했다.\n싱클레어가 조용히 고개를 끄덕였다.\n심문관이 분노하며 부하들을 불러 모았다.\nEN:\nYou disagreed with the Inquisitor.\nSinclair quietly nodded to you.\nThe angered Inquisitor called their subordinates."
+  },
+  {
+    "key": "103001-options[2].message",
+    "original": "沈黙する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈黙する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침묵한다.\nEN:\nKeep quiet."
+  },
+  {
+    "key": "103001-options[2].result[0]",
+    "original": "審問官を見つめながら沈黙した。\n尋問官はすぐに興味を失ったかのようにその場から離れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "審問官を見つめながら沈黙した。\n尋問官はすぐに興味を失ったかのようにその場から離れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문관을 바라보며 침묵했다.\n심문관이 이내 흥미를 잃은 듯 자리를 떠났다.\nEN:\nYou gave the Inquisitor a silent glare.\nThey lost interest in you and walked away."
+  },
+  {
+    "key": "103002-name",
+    "original": "狂信\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狂信\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n광신\nEN:\nFanaticism"
+  },
+  {
+    "key": "103002-subDesc",
+    "original": "사용 안하는 선택지\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 선택지\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 선택지\nEN:\n사용 안하는 선택지"
+  },
+  {
+    "key": "103002-desc",
+    "original": "N社の審問官が擬体人間たちを拷問している。\nシンクレアが怒りと恐怖で震えているのが感じられる。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "N社の審問官が義体人間たちを拷問している。\nシンクレアが怒りと恐怖で震えているのが感じられる。\nどうすればいいかな？\n<CMT_KR>오식: \"N社の審問官が「擬」体人間たちを拷問している。\"  정확: \"N社の審問官が「義」体人間たちを拷問している。\"\n<CMT_EN>Typo: \"N社の審問官が「擬」体人間たちを拷問している。\"  Correction: \"N社の審問官が「義」体人間たちを拷問している。\"\n<CMT_JP>誤植: \"N社の審問官が「擬」体人間たちを拷問している。\"  訂正後: \"N社の審問官が「義」体人間たちを拷問している。\"",
+    "stage": 1,
+    "context": "KR:\nN사 심문관이 의체 인간들을 고문하고 있다.\n싱클레어가 분노와 공포로 떠는 것이 느껴진다.\n어떻게 해야 할까?\nEN:\nN Corp. Inquisitors are torturing prosthetic people.\nYou see Sinclair tremble with fear and anger.\nWhat will you do?"
+  },
+  {
+    "key": "103002-options[0].message",
+    "original": "拷問が終わるまで待つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拷問が終わるまで待つ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고문이 끝나길 기다린다.\nEN:\nWait for the torture to end."
+  },
+  {
+    "key": "103002-options[0].result[0]",
+    "original": "苦しいだろうが、彼らを妨害すると無駄な戦闘が起こりそうだ。\n拷問が終わるのを待とう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦しいだろうが、彼らを妨害すると無駄な戦闘が起こりそうだ。\n拷問が終わるのを待とう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n괴롭겠지만 저들을 막으면 불필요한 싸움이 생길 것 같다.\n고문이 끝나길 기다리자.\nEN:\nAs painful as it is to watch, it might cause unnecessary conflict.\nWe should wait for them to finish."
+  },
+  {
+    "key": "103002-options[1].message",
+    "original": "拷問を止める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拷問を止める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고문을 막는다.\nEN:\nStop the torture."
+  },
+  {
+    "key": "103002-options[1].result[0]",
+    "original": "不必要な戦いが起こったとしても見過ごすわけにはいかないだろう。\nシンクレアは決意を固め，武器を握った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不必要な戦いが起こったとしても見過ごすわけにはいかないだろう。\nシンクレアは決意を固め、武器を握った。\n<CMT_KR>오식: \"シンクレアは決意を固め「，」武器を握った。\" 정확: \"シンクレアは決意を固め「、」武器を握った。\"\n<CMT_EN>Typo: \"シンクレアは決意を固め「，」武器を握った。\" Correction: \"シンクレアは決意を固め「、」武器を握った。\"\n<CMT_JP>誤植: \"シンクレアは決意を固め「，」武器を握った。\" 訂正後: \"シンクレアは決意を固め「、」武器を握った。\"",
+    "stage": 1,
+    "context": "KR:\n불필요한 싸움이 생기더라도 지켜볼 수 만은 없겠지.\n싱클레어가 결의를 다지며 무기를 쥐었다.\nEN:\nWe can’t just sit back and watch, even if it means getting into a fight we could avoid.\nDetermined, Sinclair gripped his weapon."
+  },
+  {
+    "key": "103006-name",
+    "original": "資格試練\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "資格試練\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자격 시험\nEN:\nTest of Worthiness"
+  },
+  {
+    "key": "103006-subDesc",
+    "original": "사용 안하는 선택지\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 선택지\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 선택지\nEN:\n사용 안하는 선택지"
+  },
+  {
+    "key": "103006-desc",
+    "original": "奇怪な見た目のN社の尋問官たちが門を守っている。\n\n「ここは…特別な者のみが… 入れる場所だ。」\n\n「通り過ぎるには…資格…を見せろ。」\n\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇怪な見た目のN社の尋問官たちが門を守っている。\n\n「ここは…特別な者のみが… 入れる場所だ。」\n\n「通り過ぎるには…資格…を見せろ。」\n\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기이한 외형의 N사의 심문관들이 문 앞을 지키고 있다.\n\n'이 곳은….특별한 이들만…. 들어갈 수 있는 곳이다.'\n\n'지나가려면….. 자격…..을 보여라.'\n\n어떻게 해야 할까?\nEN:\nStrangely shaped N Corp. Inquisitors guard the gate.\n\n“Only… those with worth… may enter.”\n\n“To pass… you will show… your worth.”\n\nWhat will you do?"
+  },
+  {
+    "key": "103006-options[0].message",
+    "original": "儀式に通過した証を見せる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "儀式に通過した証を見せる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의식에 통과한 증표를 보여준다.\nEN:\nPresent proof of passing the rites."
+  },
+  {
+    "key": "103006-options[0].result[0]",
+    "original": "尋問官に儀式に通過した証を見せた。\n尋問官たちは静かに門を開けた。\n門をくぐる私たちに何かを渡した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "尋問官に儀式に通過した証を見せた。\n尋問官たちは静かに門を開けた。\n門をくぐる私たちに何かを渡した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n심문관에게 의식에 통과한 증표들을 보여주었다.\n심문관들이 조용히 문을 열었다.\n문을 건너는 우리에게 무언가를 건네주었다.\nEN:\nYou showed the Inquisitors the tokens you got from those rituals.\n\nThey silently opened the door.\nAs you passed through, they gave you something."
+  },
+  {
+    "key": "103006-options[1].message",
+    "original": "話術で勝負する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "話術で勝負する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화술로 승부한다.\nEN:\nUse words."
+  },
+  {
+    "key": "103006-options[2].message",
+    "original": "暴力で解決する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "暴力で解決する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무력으로 해결한다.\nEN:\nUse violence."
+  },
+  {
+    "key": "103006-options[2].result[0]",
+    "original": "できることは戦うことのみ。\n武力で解決しよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "できることは戦うことのみ。\n武力で解決しよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해볼 수 있는 건 싸우는 것 뿐이다.\n무력으로 해결하자.\nEN:\nAll we can do is fight.\nLet’s handle this with violence."
+  },
+  {
+    "key": "800201-name",
+    "original": "아즈텍원판 선택지1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "아즈텍원판 선택지1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아즈텍원판 선택지1\nEN:\n아즈텍원판 선택지1"
+  },
+  {
+    "key": "800201-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "800201-desc",
+    "original": "怒りを静める方法は沢山あるけど、\nこの幻想体は贈り物が一番好きみたい。\n搾りたての血液をあげれば怒りが収まるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怒りを静める方法は沢山あるけど、\nこの幻想体は贈り物が一番好きみたい。\n搾りたての血液をあげれば怒りが収まるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n화를 가라 앉히는 방법은 많지만,\n이 환상체는 선물을 가장 좋아하는 것 같아.\n갓짜낸 혈액을 주면 화가 풀릴지도 몰라.\nEN:\nThere are many ways to calm one down,\nbut this Abnormality seems to like gifts the most.\nA fresh batch of blood might be able to appease it."
+  },
+  {
+    "key": "800201-options[0].message",
+    "original": "土偶を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "土偶を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n토우를 바친다.\nEN:\nOffer a clay doll."
+  },
+  {
+    "key": "800201-options[0].result[0]",
+    "original": "生きてる土偶を幻想体に贈った。\nつかの間ではあるけど大人しくなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生きてる土偶を幻想体に贈った。\nつかの間ではあるけど大人しくなった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살아있는 토우를 환상체에게 선물로 줬어.\n만족한 환상체가 잠시 나마 온순해졌어.\nEN:\nYou gave a living clay doll as tribute.\nSatiated, the Abnormality calmed down for a moment."
+  },
+  {
+    "key": "800201-options[1].message",
+    "original": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자를 바친다.\nEN:\nOffer a Sinner."
+  },
+  {
+    "key": "800203-name",
+    "original": "아즈텍원판 선택지3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "아즈텍원판 선택지3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아즈텍원판 선택지3\nEN:\n아즈텍원판 선택지3"
+  },
+  {
+    "key": "800203-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "800203-desc",
+    "original": "炎の力を削ぐには冷たい水が要るだろう。\n私たちには水がないから、冷たい人を贈ってあげよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "炎の力を削ぐには冷たい水が要るだろう。\n私たちには水がないから、冷たい人を贈ってあげよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불꽃의 힘을 꺾으려면 차가운 물이 필요할 거야.\n우리는 물이 없으니까, 차가운 사람을 선물로 주자.\nEN:\nTo weaken the flame, you’ll need cool water.\nSince we aren’t carrying any buckets of water, we should offer up someone cool instead."
+  },
+  {
+    "key": "800203-options[0].message",
+    "original": "土偶を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "土偶を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n토우를 바친다.\nEN:\nOffer a clay doll."
+  },
+  {
+    "key": "800203-options[0].result[0]",
+    "original": "生きてる土偶を幻想体に贈った。\n炎が小さくしぼんでいった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生きてる土偶を幻想体に贈った。\n炎が小さくしぼんでいった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살아있는 토우를 환상체에게 선물로 줬어.\n불꽃이 자그맣게 사그라들었어.\nEN:\nYou gave a living clay doll as tribute.\nThe flame shrunk to a flicker."
+  },
+  {
+    "key": "800203-options[1].message",
+    "original": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자를 바친다.\nEN:\nOffer a Sinner."
+  },
+  {
+    "key": "800205-name",
+    "original": "아즈텍원판 선택지5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "아즈텍원판 선택지5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아즈텍원판 선택지5\nEN:\n아즈텍원판 선택지5"
+  },
+  {
+    "key": "800205-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "800205-desc",
+    "original": "星たちがきらめいている。\n星たちがきらめくと皆の目を灼いてしまうだろう。\n星たちはどんな贈り物が好きなんだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "星たちがきらめいている。\n星たちがきらめくと皆の目を灼いてしまうだろう。\n星たちはどんな贈り物が好きなんだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별들이 반짝이고 있어.\n별빛이 반짝이면 모두의 눈을 앗아가 버릴 거야.\n별들은 어떤 선물을 좋아할까?\nEN:\nThe stars are twinkling.\nWhen they shine, they’ll rob us all of our sight.\nWhat gift would the stars like?"
+  },
+  {
+    "key": "800205-options[0].message",
+    "original": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人を捧げる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자를 바친다.\nEN:\nOffer a Sinner."
+  },
+  {
+    "key": "801201-name",
+    "original": "강화인간 선택지1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "강화인간 선택지1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화인간 선택지1\nEN:\n강화인간 선택지1"
+  },
+  {
+    "key": "801201-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801201-desc",
+    "original": "強化人間が復活する理由はなんだろう？\n囚人はひそひそと喋り始めた。\n\n「よもや命無きにあらじ。\nされば、むなしくなることも無し。」\n\n「いや、そんな哲学的な話じゃないですよ。」\n\n「うぅ～ん、崩れたレンガが再び積み上がるみたいな感じがするね。」\n\n「…後ろの方にある工場から、何か聞こえてくるような気がします。」\n\n最後の囚人の言葉に、全員が強化人間の向こうを眺めた。\nさっきまでは何も聞こえなかった工場から、鉄のぶつかる音がしていた。\n\nあの怪しい工場を調査してみる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化人間が復活する理由はなんだろう？\n囚人はひそひそと喋り始めた。\n\n「よもや命無きにあらじ。\nされば、むなしくなることも無し。」\n\n「いや、そんな哲学的な話じゃないですよ。」\n\n「うぅ～ん、崩れたレンガが再び積み上がるみたいな感じがするね。」\n\n「…後ろの方にある工場から、何か聞こえてくるような気がします。」\n\n最後の囚人の言葉に、全員が強化人間の向こうを眺めた。\nさっきまでは何も聞こえなかった工場から、鉄のぶつかる音がしていた。\n\nあの怪しい工場を調査してみる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 인간이 다시 살아나는 이유가 뭘까?\n수감자들은 수군거렸어.\n\n'어쩌면 살아있지 않은 것은 아니겠소.\n그러니 죽지도 않는 것이겠지.'\n\n'아니, 그런 철학적인 이야기가 아니잖아요.'\n\n'으음~ 무너진 벽돌이 다시 쌓아지는 느낌인 것 같은데.'\n\n'…뒷 쪽에 있는 공장에서 무슨 소리가 들리는 것 같아요.'\n\n마지막 수감자의 말에 모두가 강화 인간의 너머를 바라 보았어.\n방금 까지 아무런 소리도 들리지 않았던 공장에서, 철이 부딪히는 소리가 나고 있었지.\n\n저 수상한 공장을 조사해볼까?\nEN:\nHow do those cyborgs keep coming back?\nThe Sinners were discussing.\n\n“Perhaps those beings are not alive.\nThat way, they would not be able to die.”\n\n“No, we’re not getting philosophical here.”\n\n“Hmm~ To me, it looked like rebuilding a brick wall.”\n\n“…I think I’m hearing something from that factory in the back.”\n\nThe group turned their gaze to the factory behind the cyborgs.\nMetallic clanking could be heard from the place that was quiet until moments ago.\n\nMaybe you should take a look at that shady facility?"
+  },
+  {
+    "key": "801201-options[0].message",
+    "original": "工場を調査する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "工場を調査する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공장을 조사한다.\nEN:\nInvestigate the factory."
+  },
+  {
+    "key": "801201-options[0].result[0]",
+    "original": "工場を調査することにした。\nでも強化人間を放置して通り過ぎるには、危険すぎる気がする。\n\nあの中にいる一番大きな強化人間を無力化することができれば、通り抜ける隙ができないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "工場を調査することにした。\nでも強化人間を放置して通り過ぎるには、危険すぎる気がする。\n\nあの中にいる一番大きな強化人間を無力化することができれば、通り抜ける隙ができないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공장을 조사하기로 했어.\n하지만 강화 인간을 그냥 무시하고 지나가기에는 너무 위험한 것 같아.\n\n저 중에 가장 큰 강화 인간을 무력화 시키면 지나갈 틈을 만들 수 있지 않을까?\nEN:\nYou decided to check out the factory.\nBut, you might want to do something about the cyborgs first, just to be safe.\n\nPerhaps you could earn enough time to get through by incapacitating the biggest one?"
+  },
+  {
+    "key": "801201-options[1].message",
+    "original": "危険な場所には行けない。このまま戦う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "危険な場所には行けない。このまま戦う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위험한 곳을 갈 수 없다. 이대로 싸운다.\nEN:\nWe can’t walk into unknown danger like that. Keep fighting them."
+  },
+  {
+    "key": "801201-options[1].result[0]",
+    "original": "「わざわざあんな場所に這い進む必要ってあるの？」\n\n囚人の内一人がぶっきらぼうに言った。\nその通りだ。あえて危険を冒す必要はないな。\n\n何度も復活するのなら、復活できなくなるまで倒せば良い話だろうし。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「わざわざあんな場所に這い進む必要ってあるの？」\n\n囚人の内一人がぶっきらぼうに言った。\nその通りだ。あえて危険を冒す必要はないな。\n\n何度も復活するのなら、復活できなくなるまで倒せば良い話だろうし。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'굳이 그런 데를 기어들어 가야겠어?'\n\n수감자 중 하나가 퉁명스럽게 말했어.\n그 말 대로야. 굳이 위험을 감수할 필요는 없지.\n\n계속 부활한다면, 부활할 수 없을 때까지 해치우면 그만일테니까.\nEN:\n“Do we really have to crawl into a place like that?”\n\nOne Sinner spoke bluntly.\nThey make a good point. No need to take risks.\n\nIf they keep coming back, we’ll just keep on beating them until they don’t."
+  },
+  {
+    "key": "801202-name",
+    "original": "강화인간 선택지2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "강화인간 선택지2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화인간 선택지2\nEN:\n강화인간 선택지2"
+  },
+  {
+    "key": "801202-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801202-desc",
+    "original": "計画通り、一番大きな強化人間を無力化すると隙ができた。\n\n「あ、ここは…。」\n\n「おもちゃ工場みたいだな。」\n\n目の前にある巨大な機械を見ながら、囚人達は一言ずつ喋っている。\n\n「あっ！これを見よ！」\n\n囚人が指差した場所には、いくつかのボタンが付いている操作装置があった。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "計画通り、一番大きな強化人間を無力化すると隙ができた。\n\n「あ、ここは…。」\n\n「おもちゃ工場みたいだな。」\n\n目の前にある巨大な機械を見ながら、囚人達は一言ずつ喋っている。\n\n「あっ！これを見よ！」\n\n囚人が指差した場所には、いくつかのボタンが付いている操作装置があった。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계획한 대로, 가장 거대한 강화 인간을 무력화 하자 틈이 생겼어.\n\n'여, 여기는…'\n\n'장난감 공장 같이 생겼군.'\n\n눈 앞에 있는 거대한 기계를 보며 수감자들은 다들 한 마디씩 꺼내고 있어.\n\n'아! 이것 좀 보게나!'\n\n수감자가 가리킨 곳에는 여러 버튼이 있는 조작 장치가 있었어.\n\n&lt;당신은 당신이 서 있는 도시를 사랑합니까?&gt;\n\n무얼 누르는 게 좋을까?\nEN:\nPinning down the largest cyborg as planned, you got to the factory in time.\n\n“Huh, this is…”\n\n“Looks like some kind of toy plant.”\n\nThe Sinners comment on the huge mechanism.\n\n“Ah! Come behold this curiosity!”\n\nThe Sinner pointed to a control panel with several buttons attached to it.\n\n&lt;DO YOU LOVE THE CITY YOU LIVE IN?&gt;\n\nWhat should you press?"
+  },
+  {
+    "key": "801202-options[0].message",
+    "original": "そうである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇다.\nEN:\nYes."
+  },
+  {
+    "key": "801202-options[0].messageDesc",
+    "original": "強化を進行するボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化を進行するボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 진행하는 버튼을 누른다.\nEN:\nPress the button to proceed."
+  },
+  {
+    "key": "801202-options[0].result[1]",
+    "original": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 입력입니다.\n\n''뭐야? 버튼이 하나도 안 눌리는데…'\n\n시설 매몰을 시작합니다. 3, 2…\n\n'뒤로 뛰어!!'\n\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\n\n우선은 여기를 벗어나는게 급선무인 것 같지?\nEN:\nAbnormal input.\n\n“Huh? Now I can’t press any of these…”\n\nCommencing site burial in 3, 2…\n\n“Outta here!!”\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+  },
+  {
+    "key": "801202-options[1].message",
+    "original": "そうでない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうでない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니다.\nEN:\nNo."
+  },
+  {
+    "key": "801202-options[1].messageDesc",
+    "original": "強化を止めるボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化を止めるボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 멈추는 버튼을 누른다.\nEN:\nPress the button to stop."
+  },
+  {
+    "key": "801202-options[1].result[1]",
+    "original": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 입력입니다.\n\n''뭐야? 버튼이 하나도 안 눌리는데…'\n\n시설 매몰을 시작합니다. 3, 2…\n\n'뒤로 뛰어!!'\n\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\n\n우선은 여기를 벗어나는게 급선무인 것 같지?\nEN:\nAbnormal input.\n\n“Huh? Now I can’t press any of these…”\n\nCommencing site burial in 3, 2…\n\n“Outta here!!”\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+  },
+  {
+    "key": "801202-options[1].result[2]",
+    "original": "三回の入力を確認しました。\n非常規則3号、施設稼働が中止されます。\n\n「止まったみたいだ。」\n\n機械はギュインと音を立てると、間もなく動作を止めた。\nこれ以降、強化人間たちは生き返らないだろう。\nそれじゃあ、工場の外に出てみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三回の入力を確認しました。\n非常規則3号、施設稼働が中止されます。\n\n「止まったみたいだ。」\n\n機械はギュインと音を立てると、間もなく動作を止めた。\nこれ以降、強化人間たちは生き返らないだろう。\nそれじゃあ、工場の外に出てみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3회 입력을 확인하였습니다.\n비상 규칙 3호, 시설 가동이 중지됩니다.\n\n''멈춘 모양이군.'\n\n기계들은 기이잉 거리는 소리를 내더니, 이내 움직임을 멈췄어.\n앞으로는 더 이상, 강화 인간들이 되살아 나진 않겠지.\n다시 공장 밖으로 나가볼까?\nEN:\nDetected three inputs.\nOperating Emergency Protocol #3: Facility Shutdown.\n\n“Looks like it’s stopped.”\n\nThe machines whirred for a short while before stopping.\nWith that, the cyborgs should no longer revive.\n\nLet’s step outside the factory, shall we?"
+  },
+  {
+    "key": "801203-name",
+    "original": "강화인간 선택지2-그렇다\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "강화인간 선택지2-그렇다\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화인간 선택지2-그렇다\nEN:\n강화인간 선택지2-그렇다"
+  },
+  {
+    "key": "801203-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801203-desc",
+    "original": "誤った入力です。\n\nあなたは\n強くならねば\nなりません。\n\n入力を追加で実行してください。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n\n何を押せば良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誤った入力です。\n\nあなたは\n強くならねば\nなりません。\n\n入力を追加で実行してください。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n\n何を押せば良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 진행합니다.\n\n당신은\n강해져야\n합니다.\n\n추가 입력을 진행해주십시오.\n\n&lt;당신은 당신이 서 있는 도시를 사랑합니까?&gt;\n\n무얼 누르는 게 좋을까?\nEN:\nContinuing augmentation.\n\nYou\nmust\nbecome\nstrong.\n\nPlease proceed with the input.\n\n&lt;DO YOU LOVE THE CITY YOU LIVE IN?&gt;\n\nWhat should you press?"
+  },
+  {
+    "key": "801203-options[0].message",
+    "original": "そうである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇다.\nEN:\nYes."
+  },
+  {
+    "key": "801203-options[0].messageDesc",
+    "original": "強化を進行するボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化を進行するボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 진행하는 버튼을 누른다.\nEN:\nPress the button to proceed."
+  },
+  {
+    "key": "801203-options[0].result[1]",
+    "original": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 입력입니다.\n\n''뭐야? 버튼이 하나도 안 눌리는데…'\n\n시설 매몰을 시작합니다. 3, 2…\n\n'뒤로 뛰어!!'\n\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\n\n우선은 여기를 벗어나는게 급선무인 것 같지?\nEN:\nAbnormal input.\n\n“Huh? Now I can’t press any of these…”\n\nCommencing site burial in 3, 2…\n\n“Outta here!!”\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+  },
+  {
+    "key": "801203-options[1].message",
+    "original": "そうでない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうでない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니다.\nEN:\nNo."
+  },
+  {
+    "key": "801203-options[1].messageDesc",
+    "original": "強化を止めるボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化を止めるボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 멈추는 버튼을 누른다.\nEN:\nPress the button to stop."
+  },
+  {
+    "key": "801203-options[1].result[1]",
+    "original": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 입력입니다.\n\n''뭐야? 버튼이 하나도 안 눌리는데…'\n\n시설 매몰을 시작합니다. 3, 2…\n\n'뒤로 뛰어!!'\n\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\n\n우선은 여기를 벗어나는게 급선무인 것 같지?\nEN:\nAbnormal input.\n\n“Huh? Now I can’t press any of these…”\n\nCommencing site burial in 3, 2…\n\n“Outta here!!”\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+  },
+  {
+    "key": "801203-options[1].result[2]",
+    "original": "三回の入力を確認しました。\n非常規則3号、施設稼働が中止されます。\n\n「止まったみたいだ。」\n\n機械はギュインと音を立てると、間もなく動作を止めた。\nこれ以降、強化人間たちは生き返らないだろう。\nそれじゃあ、工場の外に出てみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三回の入力を確認しました。\n非常規則3号、施設稼働が中止されます。\n\n「止まったみたいだ。」\n\n機械はギュインと音を立てると、間もなく動作を止めた。\nこれ以降、強化人間たちは生き返らないだろう。\nそれじゃあ、工場の外に出てみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3회 입력을 확인하였습니다.\n비상 규칙 3호, 시설 가동이 중지됩니다.\n\n''멈춘 모양이군.'\n\n기계들은 기이잉 거리는 소리를 내더니, 이내 움직임을 멈췄어.\n앞으로는 더 이상, 강화 인간들이 되살아 나진 않겠지.\n다시 공장 밖으로 나가볼까?\nEN:\nDetected three inputs.\nOperating Emergency Protocol #3: Facility Shutdown.\n\n“Looks like it’s stopped.”\n\nThe machines whirred for a short while before stopping.\nWith that, the cyborgs should no longer revive.\n\nLet’s step outside the factory, shall we?"
+  },
+  {
+    "key": "801204-name",
+    "original": "강화인간 선택지2-아니다\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "강화인간 선택지2-아니다\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화인간 선택지2-아니다\nEN:\n강화인간 선택지2-아니다"
+  },
+  {
+    "key": "801204-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801204-desc",
+    "original": "誤った入力です。\n\nあなたは\n強くならねば\nなりません。\n\nもう一度入力を実行してください。\n\n注意！該当するボタンが3回入力された場合、施設の稼働が中止されることをお知らせします。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n\n何を押せば良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誤った入力です。\n\nあなたは\n強くならねば\nなりません。\n\nもう一度入力を実行してください。\n\n注意！該当するボタンが3回入力された場合、施設の稼働が中止されることをお知らせします。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n\n何を押せば良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잘못된 입력입니다.\n\n당신은\n강해져야\n합니다.\n\n다시 입력을 진행해주십시오.\n\n주의! 해당 버튼이 3회 입력될 경우, 시설 가동이 중지됨을 고지합니다.\n\n&lt;당신은 당신이 서 있는 도시를 사랑합니까?&gt;\n\n무얼 누르는 게 좋을까?\nEN:\nIncorrect input.\n\nYou\nmust\nbecome\nstrong.\n\nPlease input your answer again.\n\nWARNING: Pressing the button three times will cause the facility to shut down.\n\n&lt;DO YOU LOVE THE CITY YOU LIVE IN?&gt;\n\nWhat should you press?"
+  },
+  {
+    "key": "801204-options[0].message",
+    "original": "そうである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうである。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇다.\nEN:\nYes."
+  },
+  {
+    "key": "801204-options[0].messageDesc",
+    "original": "強化を進行するボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化を進行するボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 진행하는 버튼을 누른다.\nEN:\nPress the button to proceed."
+  },
+  {
+    "key": "801204-options[0].result[1]",
+    "original": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 입력입니다.\n\n''뭐야? 버튼이 하나도 안 눌리는데…'\n\n시설 매몰을 시작합니다. 3, 2…\n\n'뒤로 뛰어!!'\n\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\n\n우선은 여기를 벗어나는게 급선무인 것 같지?\nEN:\nAbnormal input.\n\n“Huh? Now I can’t press any of these…”\n\nCommencing site burial in 3, 2…\n\n“Outta here!!”\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+  },
+  {
+    "key": "801204-options[1].message",
+    "original": "そうでない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうでない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니다.\nEN:\nNo."
+  },
+  {
+    "key": "801204-options[1].messageDesc",
+    "original": "強化を止めるボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化を止めるボタンを押す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화를 멈추는 버튼을 누른다.\nEN:\nPress the button to stop."
+  },
+  {
+    "key": "801204-options[1].result[1]",
+    "original": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常な入力です。\n\n「なんだ？ボタンが一つも押せな…。」\n\n施設埋没を開始します。3、2…。\n\n「後ろに走れ！！」\n\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\n\nとりあえずは、ここを抜け出すのが急務だろうね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 입력입니다.\n\n''뭐야? 버튼이 하나도 안 눌리는데…'\n\n시설 매몰을 시작합니다. 3, 2…\n\n'뒤로 뛰어!!'\n\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\n\n우선은 여기를 벗어나는게 급선무인 것 같지?\nEN:\nAbnormal input.\n\n“Huh? Now I can’t press any of these…”\n\nCommencing site burial in 3, 2…\n\n“Outta here!!”\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+  },
+  {
+    "key": "801204-options[1].result[2]",
+    "original": "三回の入力を確認しました。\n非常規則3号、施設稼働が中止されます。\n\n「止まったみたいだ。」\n\n機械はギュインと音を立てると、間もなく動作を止めた。\nこれ以降、強化人間たちは生き返らないだろう。\nそれじゃあ、工場の外に出てみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三回の入力を確認しました。\n非常規則3号、施設稼働が中止されます。\n\n「止まったみたいだ。」\n\n機械はギュインと音を立てると、間もなく動作を止めた。\nこれ以降、強化人間たちは生き返らないだろう。\nそれじゃあ、工場の外に出てみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3회 입력을 확인하였습니다.\n비상 규칙 3호, 시설 가동이 중지됩니다.\n\n'멈춘 모양이군.'\n\n기계들은 기이잉 거리는 소리를 내더니, 이내 움직임을 멈췄어.\n앞으로는 더 이상, 강화 인간들이 되살아 나진 않겠지.\n다시 공장 밖으로 나가볼까?\nEN:\nDetected three inputs.\nOperating Emergency Protocol #3: Facility Shutdown.\n\n“Looks like it’s stopped.”\n\nThe machines whirred for a short while before stopping.\nWith that, the cyborgs should no longer revive.\n\nLet’s step outside the factory, shall we?"
+  },
+  {
+    "key": "801501-name",
+    "original": "분홍신 선택지1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "분홍신 선택지1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분홍신 선택지1\nEN:\n분홍신 선택지1"
+  },
+  {
+    "key": "801501-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801501-desc",
+    "original": "揺らめくリボンの間から、声が行き交っている。\n\n「君が望む欲望はなんだい？」\n\n「私を履いて。」\n\n「君の望む場所に連れて行ってあげる。」\n\nどこからどう考えても怪しい話だが、囚人はどうしてだか簡単に決定を下せない雰囲気だ。\n\nじゃあ、どうするべきだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揺らめくリボンの間から、声が行き交っている。\n\n「君が望む欲望はなんだい？」\n\n「私を履いて。」\n\n「君の望む場所に連れて行ってあげる。」\n\nどこからどう考えても怪しい話だが、囚人はどうしてだか簡単に決定を下せない雰囲気だ。\n\nじゃあ、どうするべきだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흔들리는 리본 사이 사이에는 목소리가 지나다니고 있어.\n\n'네가 바라는 욕망은 뭐니?'\n\n'나를 신어.'\n\n'네가 원하는 곳으로 데려다 줄게.'\n\n어떻게 들어도 수상쩍은 이야기지만, 수감자들은 어째서 인지 쉽게 결정을 내리지 못하는 분위기야.\n\n그럼, 어떻게 해야할까?\nEN:\nA voice travels between the fluttering ribbons.\n\n“What is your desire?”\n\n“Put me on.”\n\n“I’ll carry you wherever you wish to go.”\n\nThe suggestions are incredibly suspicious, but for some reason, the Sinners are struggling to decide what to do.\n\nWhat do you say?"
+  },
+  {
+    "key": "801501-options[0].message",
+    "original": "桃色の靴を履く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "桃色の靴を履く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분홍신을 신는다,\nEN:\nPut on the shoes."
+  },
+  {
+    "key": "801501-options[0].result[0]",
+    "original": "「あぁ…良いねこれ。」\n\n「足触りがつやつやだ。」\n\n囚人達はそれぞれ恍惚した様子で言葉をはきだした。\nそのリボンはいつしか輝く桃色の靴に変わってしまった。\n\nこれで皆が望む場所に行けるだろう。\n\nきっと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「あぁ…良いねこれ。」\n\n「足触りがつやつやだ。」\n\n囚人達はそれぞれ恍惚した様子で言葉をはきだした。\nそのリボンはいつしか輝く桃色の靴に変わってしまった。\n\nこれで皆が望む場所に行けるだろう。\n\nきっと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'아… 좋은데.'\n\n'감촉이 매끈매끈해.'\n\n수감자들은 저마다 황홀하다는 투로 말을 내뱉었어.\n그 리본들은 어느새 반짝이는 분홍색 구두로 변해버렸지.\n\n이제 모두가 바라는 곳으로 갈 수 있을 거야.\n\n아마도.\nEN:\n“Yeah… This is good.”\n\n“It’s all smooth.”\n\nThe Sinners expressed their fascination.\nThose ribbons had turned into shiny pairs of pink shoes.\n\nNow, everyone will be able to go wherever they want.\n\nProbably."
+  },
+  {
+    "key": "801501-options[1].message",
+    "original": "拒否する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拒否する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거절한다.\nEN:\nRefuse."
+  },
+  {
+    "key": "201001-name",
+    "original": "波音が聞こえてくる自販機\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "波音が聞こえてくる自販機\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파도소리가 들려오는 자판기\nEN:\nVending Machine and Oceanic Waves"
+  },
+  {
+    "key": "201001-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "201001-desc",
+    "original": "ちょうど、前はきれいな空き地なので、ここで 囚人たちを休ませても良さそうだ。 \n\n自動販売機の前に立ってみると、 色んなボタンが並んでいた。\n飲み物のラベルも見えるが、どれもこれも正体不明の絵柄しか無かった。\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ちょうど、前はきれいな空き地なので、ここで 囚人たちを休ませても良さそうだ。 \n\n自動販売機の前に立ってみると、 色んなボタンが並んでいた。\n飲み物のラベルも見えるが、どれもこれも正体不明の絵柄しか無かった。\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마침, 앞은 깔끔한 공터라 이곳에서 수감자들을 쉬어가게 해도 좋을 것 같다.\n\n자판기 앞에 서 보니 여러가지 버튼들이 늘어서 있다.\n음료의 모습도 보이기는 하지만, 하나 같이 정체를 알 수가 없는 그림들 뿐이다.\n어떻게 할까?\nEN:\nYou see an empty lot ahead where the Sinners can take a rest.\n\nThere, you find a vending machine with a number of buttons on it.\nYou see drinks as well, but you can’t recognize what they’re supposed to depict.\nWhat will you do?"
+  },
+  {
+    "key": "201001-options[0].message",
+    "original": "危険を冒す必要はない。普通に囚人を休ませないと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "危険を冒す必要はない。普通に囚人を休ませないと。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위험 감수를 할 필요는 없다. 그냥 수감자들을 쉬게 해야겠다.\nEN:\nNo need to take risks. Just rest here with the Sinners."
+  },
+  {
+    "key": "201001-options[0].result[0]",
+    "original": "ある程度時間が流れた。\n\nしっかり休めたおかげだろうか、\n皆すっきりとした顔をしている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ある程度時間が流れた。\n\nしっかり休めたおかげだろうか、\n皆すっきりとした顔をしている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적당한 시간이 흘렀다.\n\n푹 쉰 덕분일까,\n다들 개운한 표정이다.\nEN:\nSome time passed.\n\nThanks to the respite, the group seems to have some energy back."
+  },
+  {
+    "key": "201001-options[1].message",
+    "original": "みんな苦労したんだし、心を込めて好きそうなものを選んでいこう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "みんな苦労したんだし、心を込めて好きそうなものを選んでいこう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다들 고생했으니, 성심껏 좋아할만한 걸 골라 뽑아가자.\nEN:\nGet some drinks they might like, as a treat."
+  },
+  {
+    "key": "201001-options[1].result[0]",
+    "original": "運良く、選んだ飲み物が全員の口に合ったようだ。\n\n休んで立上がった囚人達の姿は活気に満ちていた。\nどうやら変な飲み物を選んでしまったようだ。\n思いっきり顔をしかめながら、みんな飲み物を吐き出している。\n休んで起きた囚人達もぐったりしていた。\n腹まで壊さなくてよかった…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "運良く、選んだ飲み物が全員の口に合ったようだ。\n\n休んで立上がった囚人達の姿は活気に満ちていた。\nどうやら変な飲み物を選んでしまったようだ。\n思いっきり顔をしかめながら、みんな飲み物を吐き出している。\n休んで起きた囚人達もぐったりしていた。\n腹まで壊さなくてよかった…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n운이 좋게도,\n골라갔던 음료가 모두의 입에 맞은 모양이다.\n\n쉬고 일어난 수감자들의 모습에 활력이 넘치는 것 같다.\n아무래도 괴상한 음료를 뽑은 것 같다.\n표정을 잔뜩 구기면서 저마다 음료를 내뱉거나 하고 있다. \n쉬고 일어난 수감자들의 모습도 무언가 찌뿌둥해보인다. \n탈이라도 안나서 다행이야...\nEN:\nWith just a single press,\nthe machine ejected one can after another.\n\nAll the cans are purple.\n\nYou can’t fathom the meaning of the ships and grapes doodled on them,\nbut they somehow feel familiar, and well… cheery.\n\nThey should be okay to drink.\n\nYou passed the cans out to the Sinners."
+  },
+  {
+    "key": "201002-name",
+    "original": "鏡の部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡の部屋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울의 방\nEN:\nMirror Room"
+  },
+  {
+    "key": "201002-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "201003-name",
+    "original": "強化アンプル交換挿入所\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化アンプル交換挿入所\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화앰플교환삽입소\nEN:\n강화앰플교환삽입소"
+  },
+  {
+    "key": "201003-subDesc",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 안하는 텍스트\nEN:\n사용 안하는 텍스트"
+  },
+  {
+    "key": "910301-name",
+    "original": "チキン派\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "チキン派\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n치킨파\nEN:\nThe Chicken Strife"
+  },
+  {
+    "key": "910301-desc",
+    "original": "道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n길을 막고 있는 자들이 눈에 띈다.\n책상에 마주 앉아 서로에게 고함을 치고 있다.\n\"이 풍부한 육즙을 봐! 줄줄 흘러내리면서 강조되는 살코기 결... 이게 참 치킨이지!\"\n\"틀렸다. 기름기 한톨 찾아볼 수 없는 담백한 이 맛. 이게 진짜 치킨이지.\"\n둘은 동시에 이쪽을 바라보며 말한다.\n\"거기 너! 둘 중 뭐가 더 맛있나!\"\nEN:\nSome folks are blocking the way.\nThey’re sitting on a deck, yelling at each other.\n“Look at this succulent piece! The rich juice running down the fibers of luscious meat… This is what chicken is about!”\n“Wrong. This piece has a clean taste, with not an ounce of grease tainting the tongue. This is the real deal.”\nThe two turn around at the same time to face you.\n“You there! Tell us which is better!”"
+  },
+  {
+    "key": "910301-options[0].message",
+    "original": "全部同じチキンだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全部同じチキンだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모두 같은 치킨이다.\nEN:\nChicken’s chicken, duh."
+  },
+  {
+    "key": "910301-options[0].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "910301-options[0].result[0]",
+    "original": "「それは…そうだな。」\n「反論できない正論である。」\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\n「変なことで戦っていたな、うん。」\n「そうだな…チキンがいつも正しいというのが真理なのに。」\n彼らは熱い握手を交わし、真ん中のチキンをバケツごと私たちにくれた。\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「それは…そうだな。」\n「反論できない正論である。」\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\n「変なことで戦っていたな、うん。」\n「そうだな…チキンがいつも正しいというのが真理なのに。」\n彼らは熱い握手を交わし、真ん中のチキンをバケツごと私たちにくれた。\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"그건... 그렇지.\"\n\"반박할 수 없는 정론이로군.\"\n그들은 삿대질 하던 손을 내리고 흥분을 가라앉혔다.\n\"이상한걸로 싸우고 있었군, 그래.\"\n\"그래... 진리는 치킨이 언제나 옳다는 것인데.\"\n그들은 뜨거운 악수를 나누더니, 가운데 놓인 치킨을 버켓 째로 우리에게 주었다.\n\"현명한 자는 둘 다 먹을 자격이 있지. 받아주길 바란다.\"\nEN:\n“That’s… true.”\n“An irrefutable point.”\nThey lowered their hands and settled down.\n“What a strange thing we were fighting over.”\n“They’re right… The one truth is that the chicken is always right.”\nAfter a passionate handshake, the two gave you their bucket of chicken.\n“A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.”"
+  },
+  {
+    "key": "910301-options[1].message",
+    "original": "肉汁の饗宴、もも肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉汁の饗宴、もも肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육즙의 향연, 다리살이다.\nEN:\nGotta be the drumsticks, all rich and juicy."
+  },
+  {
+    "key": "910301-options[1].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "910301-options[1].result[0]",
+    "original": "「ほれみろ！もも肉が美味しいって言ってるだろ！」\n「味が分からない者だな。」\n胸肉を握った者は呆れたように溜め息をついた。\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\n「これからも、もも肉をよろしく！」\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「ほれみろ！もも肉が美味しいって言ってるだろ！」\n「味が分からない者だな。」\n胸肉を握った者は呆れたように溜め息をついた。\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\n「これからも、もも肉をよろしく！」\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"거봐! 다리살이 맛있다잖아!\"\n\"맛을 알지 못하는 자로군.\"\n가슴살을 쥔 자는 어이가 없다는 듯 한숨을 푹 쉬었다.\n\"어이! 상이다. 네게도 다리를 하나 가질 자격이 있어.\"\n다리살을 쥔 자는 흡족하다는 듯 치킨이 담긴 버켓에서 다리살을 하나 꺼내 주었다.\n\"앞으로도 다리살을 잘 부탁한다고!\"\n뭘 부탁한다는 지는 모르겠지만, 꺼내 준 다리살을 받아들고 나왔다.\nEN:\n“You see! The drumsticks are better!”\n“You don’t know what good taste is.”\nThe person holding a chicken breast let out a baffled sigh.\n“Ey! Here’s your reward. You deserve a drumstick of your own.”\nSatisfied, the one with a drumstick handed you another from the bucket.\n“I’m counting on you to keep that leg up!”\nUnsure of what you’re being trusted with, you left the table with the drumstick."
+  },
+  {
+    "key": "910301-options[2].message",
+    "original": "淡泊なその味、胸肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "淡泊なその味、胸肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n담백한 그 맛, 가슴살이다.\nEN:\nThe breast, of course, unsullied and spotless."
+  },
+  {
+    "key": "910301-options[2].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "910301-options[2].result[0]",
+    "original": "「んなバカな！この肉汁の饗宴を手放すのか…？」\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\n胸肉を握った者は満足そうに呟いた。\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\n「増筋なされ、お元気で。」\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「んなバカな！この肉汁の饗宴を手放すのか…？」\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\n胸肉を握った者は満足そうに呟いた。\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\n「増筋なされ、お元気で。」\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"말도 안돼! 이 육즙의 향연을 포기한다고...?\"\n\"육즙이 아니라 지방이다. 건강하고 담백하며, 양도 많은데다 먹기도 편한 가슴살을 선택하는 것이 합리적인 선택이지.\"\n가슴살을 쥔 자는 흡족하다는 듯 그렇게 읊조렸다.\n\"자, 자네에게 상일세. 이 가슴살을 받게나.\"\n치킨이 담긴 버켓에서 커다란 가슴살이 하나 꺼내어졌다.\n\"득근하시게. 건강하시고.\"\n득근이 무슨 말인 지는 모르겠지만, 꺼내 준 가슴살을 받아들고 나왔다.\nEN:\n“There ain’t no way! You’d give up this banquet of juiciness…?”\n“It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat—it’s obviously the reasonable choice.”\nThe person holding a piece of chicken breast pleasantly remarked.\n“Here, a reward for you. Take this breast.”\nA sizable piece was brought out of the bucket.\n“Best of luck with your gains. I hope you stay healthy.”\nUnsure of what you’re supposed to gain, you left the table with the chicken breast."
+  },
+  {
+    "key": "910302-name",
+    "original": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닭의 열정적인 탱고\nEN:\nTango of Poultry Passion"
+  },
+  {
+    "key": "910302-desc",
+    "original": "にぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "にぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시끌벅적한 공간에 조명 하나가 그 곳을 강렬하게 비추고 있다.\n마치 닭들의 무도회... 가 열리고 있는 것 같다.\n\"저건 탱고로군요.\"\n춤인지 씨름인지 모를 무언가를 쳐다보고 있자니, 하나의 닭에게서 양념이 새어나오는 것이 보였다.\n정작 본계는 모르는 듯 한데...\nEN:\nA bright spotlight shines on a portion of the noisy area.\nIt seems as though the chickens are attending a… ball.\n“That’s the tango.”\nLooking at their movements which might be a dance or a tussle, you notice sauce leaking from one of them.\nIt doesn’t seem to be aware of this…"
+  },
+  {
+    "key": "910302-options[0].message",
+    "original": "そのまま話す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そのまま話す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사실대로 이야기해준다.\nEN:\nAlert it truthfully."
+  },
+  {
+    "key": "910302-options[0].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "910302-options[0].result[0]",
+    "original": "「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\n「大声出すなよ、アホ…。」\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\n「キエ、キエエエッ…。」\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてたそれは、手(あるいは羽)に糸と針を握っていた。\n縫ってほしいという意味だろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\n「大声出すなよ、アホ…。」\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\n「キエ、キエエエッ…。」\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてきたそれは、手(あるいは羽)に糸と針を握っていた。\n縫ってほしいという意味だろうか？\n<CMT_KR>오식: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  정확: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"\n<CMT_EN>Typo: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  Correction: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"\n<CMT_JP>誤植: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  訂正後: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"",
+    "stage": 1,
+    "context": "KR:\n\"그대!!!!! 양념이 새어나오고 있소!!!!!!\"\n\"크게 말하지 마, 바보야...\"\n지적받은 닭은 황급히 자신의 등(이라고 생각되는 곳)을 만지작 거렸다.\n서글프게도, 그것에게 촘촘하게 매어져야 할 실매듭이 헐거워진 상태였다.\n\"끼에, 끼이에엡...\"\n자신은 도저히 할 수 없다는 것일까. 양념을 뚝뚝 흘리며 다가온 그것은 손(혹은 날개)에 실과 바늘을 쥐고 있었다.\n꿰메어 달라는 뜻일까?\nEN:\n“Heed me!!!!! Sauce is leaking from thy body!!!!!!”\n“Don’t shout it that loud, you dummy…”\nNotified of its leakage, the chicken quickly ran its wings over its back—or what appeared to be its back, rather.\nSadly, the knot had loosened on its stitching.\n“Kieegh, kiiierg…”\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\nDoes it want you to stitch its back?"
+  },
+  {
+    "key": "910302-options[1].message",
+    "original": "知らんぷりをする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "知らんぷりをする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모른척 한다.\nEN:\nYou saw nothing."
+  },
+  {
+    "key": "910302-options[1].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "910302-options[1].result[0]",
+    "original": "「言うべきなりや？」\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\n「タレが全部抜けたらどうしよう。」\n「ただ味付けが薄い鶏になるんじゃないですかね。」\nやがて、タレが流れ出なくなった。\n「キエッ！」\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\n「驚きだ。」\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\nそれらは胴上げをしながら照明の外に消えた。\n残ったのは…こぼれたタレだけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「言うべきなりや？」\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\n「タレが全部抜けたらどうしよう。」\n「ただ味付けが薄い鶏になるんじゃないですかね。」\nやがて、タレが流れ出なくなった。\n「キエッ！」\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\n「驚きだ。」\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\nそれらは胴上げをしながら照明の外に消えた。\n残ったのは…こぼれたタレだけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"말해줘야 하지 않겠는가?\"\n\"하지만 말이야~ 지금 꽤 행복해보이지 않아? 좀 더 지켜보는건 어때?\"\n\"양념이 다 빠지면 어떻게 하지.\"\n\"그냥 양념이 덜 배어든 닭이 되는 거 아닐까요.\"\n이윽고, 양념이 더 이상 흘러나오지 않게 되었다.\n\"끼엣!\"\n몸이 가벼워진 걸 눈치챈 것일까? 그것은 갑작스레 고난이도 동작을 선보였다.\n\"놀랍군.\"\n주변에서 춤을 추던 닭들 마저 넋을 놓고 그것을 바라보더니, 이내 기묘한 함성소리 같은 것을 내며 그것에게 다가갔다.\n그것들은 헹가래를 치면서 조명 밖으로 사라져갔다.\n남은 것은... 흐른 양념뿐.\nEN:\n“Should we not inform them?”\n“Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?”\n“What will become of it when it loses all its sauce?”\n“Maybe it’ll just become an underseasoned chicken.”\nIn time, the leakage ceased.\n“Kiehg!”\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\n“Astonishing.”\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\nThey walked out of the light, tossing the special one up and down as a celebration.\nAll that remained… was the spilled sauce."
+  },
+  {
+    "key": "910302-options[2].message",
+    "original": "こっそりヒントを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こっそりヒントを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n은근슬쩍 힌트를 준다.\nEN:\nGive a few subtle hints."
+  },
+  {
+    "key": "910302-options[2].messageDesc",
+    "original": "50%の確率でE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率でE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50% 확률로 E.G.O GIFT 획득.\nEN:\n50% chance to gain an E.G.O Gift."
+  },
+  {
+    "key": "910302-options[2].result[0]",
+    "original": "「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\n「…もうちょっとそれっぽい演技はできないんですかね。」\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\n「キエ、キエッ。」\n「ギエ。」\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\nその様子は手慣れており、隙が無かった。\n縫合が終わると，それらは照明の外へと姿を消していった。\n残ったのはそれらが使っていた糸と針だけだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\n「…もうちょっとそれっぽい演技はできないんですかね。」\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\n「キエ、キエッ。」\n「ギエ。」\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\nその様子は手慣れており、隙が無かった。\n縫合が終わると、それらは照明の外へと姿を消していった。\n残ったのはそれらが使っていた糸と針だけだった。\n<CMT_KR>오식: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" 정확: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"\n<CMT_EN>Typo: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" Correction: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"\n<CMT_JP>誤植: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" 訂正後: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"",
+    "stage": 1,
+    "context": "KR:\n\"으음~ 맛있는 향기가 나는데, 어~디~서 나는 것인지 모르겠네?!\"\n\"...좀 더 그럴 듯한 연기는 안되나 보네요.\"\n수감자의 외침 덕인지, 격렬하게 춤을 추던 닭들이 동시에 멈춰섰다.\n서로의 등을 살펴보던 닭들은, 곧이어 양념이 새어나오는 진원지를 찾았다.\n\"끼에, 끼엡.\"\n\"기에.\"\n그들은 당황하지 않고 실과 바늘로 그것의 등(이라고 생각되는 곳)을 봉합했다.\n그 모습은 능숙하며 빈틈이 없었다.\n봉합이 끝나자, 그들은 조명 밖으로 총총총 사라져 갔다.\n남은 것은 그들이 쓰던 실과 바늘 뿐이었다.\nEN:\n“Mm-mmm~ Boy, I smell something tasty! I sure wonder where this smell’s coooming frooom~?!”\n“…I suppose it would be foolish of me to expect more believable acting.”\nThe Sinner’s voice caused the chickens to stop their passionate dance at once.\nExamining each other’s backs, they soon found the source of the leakage.\n“Kieh, kierg.”\n“Giiegh.”\nWithout panicking, they brought some thread and a needle to sew up its back—or what appears to be its back.\nThey were unsullied in their expertise.\nOnce the stitching was done, they scuttled into the dark.\nAll that remained was the thread and needle they used."
+  },
+  {
+    "key": "10401-name",
+    "original": "ドローンを探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドローンを探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n드론을 찾다.\nEN:\nLooking for a Drone"
+  },
+  {
+    "key": "10401-desc",
+    "original": "K社のドローンが壊れた状態で地面を転がっている。\n次の星を見られるまで、囚人たちを生き返らせることもできないし…。\nこれをよくよく探せば、使えそうなアンプルが手に入るんじゃないかな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社のドローンが壊れた状態で地面を転がっている。\n次の星を見られるまで、囚人たちを生き返らせることもできないし…。\nこれをよくよく探せば、使えそうなアンプルが手に入るんじゃないかな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사의 드론이 부서진 채 땅을 구르고 있다.\n다음 별을 볼 수 있을 때 까지, 수감자들을 되살릴 수도 없으니…\n이걸 잘 뒤지면 쓸만한 앰플을 구할 수 있지 않을까.\nEN:\nA broken K Corp. drone is tumbling on the floor.\nI can only revive Sinners where I can see the star, so in the meantime...\nWe might be able to find an ampule to use if we search through it."
+  },
+  {
+    "key": "10401-options[0].message",
+    "original": "ドローンを漁ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドローンを漁ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n드론을 뒤져본다.\nEN:\nRummage through the drone."
+  },
+  {
+    "key": "10401-options[1].message",
+    "original": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자리를 떠난다.\nEN:\nLeave."
+  },
+  {
+    "key": "10401-options[1].messageDesc",
+    "original": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않는다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "10401-options[1].result[0]",
+    "original": "「なに黙って座ってんだ。なんも無いって、見ても分かんねぇのか。」\n…詳しく探ってみたら何かを見つけられるかもしれないが、壊れた部品の破片が鋭すぎるせいで余計怪我を負いかねない。\n私たちは静かに部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「なに黙って座ってんだ。なんも無いって、見ても分かんねぇのか。」\n…詳しく探ってみたら何かを見つけられるかもしれないが、壊れた部品の破片が鋭すぎるせいで余計怪我を負いかねない。\n私たちは静かに部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"뭘 죽치고 앉아있어. 딱 봐도 아무것도 없잖아.\"\n…자세히 들여다보면 뭔가 찾을 수 있을지도 모르겠지만, 부서진 부품 조각들이 너무 날카로운 게 잘못하다가 필요 없는 부상을 일으킬 수도 있을 것 같다.\n우리는 조용히 방을 떠났다.\nEN:\n\"What're you looking at? There's clearly nothing to grab.\"\n...A closer look could find something useful, but the sharp pieces and debris look like they might cause injury we could've avoided.\nWe quietly left the room."
+  },
+  {
+    "key": "1040102-name",
+    "original": "ドローンを探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドローンを探す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n드론을 찾다.\nEN:\nLooking for a Drone"
+  },
+  {
+    "key": "1040102-desc",
+    "original": "もう一度探してみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もう一度探してみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 한번 찾아볼까?\nEN:\nGive the drone another try?"
+  },
+  {
+    "key": "1040102-options[0].message",
+    "original": "ドローンを漁ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドローンを漁ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n드론을 뒤져본다.\nEN:\nRummage through the drone."
+  },
+  {
+    "key": "1040102-options[1].message",
+    "original": "やっぱりその場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "やっぱりその場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n역시 자리를 떠난다.\nEN:\nLeave again."
+  },
+  {
+    "key": "1040102-options[1].messageDesc",
+    "original": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않는다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "1040102-options[1].result[0]",
+    "original": "あえてもう一度血を見る必要はないだろう。\n私たちは小さなぼやきと共に部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あえてもう一度血を見る必要はないだろう。\n私たちは小さなぼやきと共に部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳이 한 번 더 피를 봐야 할 필요는 없겠지.\n우리는 작은 투덜거림과 함께 방을 떠났다.\nEN:\nThere wouldn't be a point in risking another injury.\nWe left the room, complaining about the misfortune."
+  },
+  {
+    "key": "10402-name",
+    "original": "アンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앰플을 사용하다.\nEN:\nAn Ampule to Use"
+  },
+  {
+    "key": "10402-desc",
+    "original": "K社のアンプルがぎっしり詰まっていた。\n「お～いいね！ダンテ、あれ一個くらい持って行ってもいいんじゃない？」\n「不可能だ。アンプル注入器がここにしかないので、この部屋以外では使うことは出来ないだろう。」\n…どうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "K社のアンプルがぎっしり詰まっていた。\n「お～いいね！ダンテ、あれ一個くらい持って行ってもいいんじゃない？」\n「不可能だ。アンプル注入器がここにしかないので、この部屋以外では使うことは出来ないだろう。」\n…どうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nK사의 앰플이 빼곡하게 들어 차 있다.\n\"오~ 잘 됐다! 단테, 저거 하나 쯤은 갖고 가도 좋지 않겠어?\"\n\"불가하다. 앰플 주입기가 이곳에만 있기 때문에, 이 방 외에서 사용할 수 없을 것이다.\"\n…어떻게 할까?\nEN:\nIt's filled with K Corp's ampules.\n\"Ooh~ Good for us! Hey Dante, can't we take at least one of those?\"\n\"Negative. The ampule injector is only in this room, so it will not be possible to use them outside of this place.\"\n...What will we do?"
+  },
+  {
+    "key": "10402-options[0].message",
+    "original": "アンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앰플을 사용한다.\nEN:\nUse the ampule."
+  },
+  {
+    "key": "10402-options[1].message",
+    "original": "アンプルを使用しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アンプルを使用しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앰플을 사용하지 않는다.\nEN:\nDon't use the ampule."
+  },
+  {
+    "key": "10402-options[1].messageDesc",
+    "original": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않는다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "10402-options[1].result[0]",
+    "original": "投与方法もよく分からない薬を、囚人で実験するにはどうしても気が引ける。\n私たちは部屋を出ることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "投与方法もよく分からない薬を、囚人で実験するにはどうしても気が引ける。\n私たちは部屋を出ることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n투여 방법도 잘 모르는 약을 수감자들에게 실험하기에는 아무래도 꺼려지는 것 같다.\n우리는 그냥 방을 떠나기로 결정했다.\nEN:\nI'm not sure if it's a good idea to test these things I don't even know well enough on the Sinners.\nWe just decided to leave the room."
+  },
+  {
+    "key": "1040201-name",
+    "original": "アンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앰플을 사용하다.\nEN:\nAn Ampule to Use"
+  },
+  {
+    "key": "1040201-desc",
+    "original": "「アンプルに注意事項が書かれておりまする！」\nガラス瓶の付近に目を通すと、小さな注意事項が書かれていた。\nしかし、あまりにもびっちりと刻まれていて正確に読むことは難しかった。\n「損失部位…不足…中止？一体なんて書かれてるんだろ？」\n「管理人殿！この装置、個人用と集団用に分かれておりまする！」\n確かに、注入機のボタンを私が選ばなければならないようだ。\nどうしようかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「アンプルに注意事項が書かれておりまする！」\nガラス瓶の付近に目を通すと、小さな注意事項が書かれていた。\nしかし、あまりにもびっちりと刻まれていて正確に読むことは難しかった。\n「損失部位…不足…中止？一体なんて書かれてるんだろ？」\n「管理人殿！この装置、個人用と集団用に分かれておりまする！」\n確かに、注入機のボタンを私が選ばなければならないようだ。\nどうしようかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"앰플에 주의 사항이 적혀있소!\"\n유리병 근처를 훑어 내려가니, 자그마하게 주의사항들이 적혀있었다.\n하지만, 너무 빼곡한 터라 정확히 읽기는 어려웠다.\n\"손실 부위… 부족… 중지? 대체 뭐라고 적혀있는 거람.\"\n\"관리자 나리! 이 장치, 개인용과 단체용으로 나누어져 있소!\"\n확실히, 주입기의 버튼을 내가 선택해야만 하는 것 같다.\n어떻게 할까?\nEN:\n\"Lo, warnings are written on the ampules!\"\nSkimming through the glass bottles, I could see tiny notices attached to them.\nHowever, the text was too dense to read properly.\n\"Missing parts… insufficient… stop? I have no idea what this is saying.\"\n\"Manager Esquire! It would appear that this device has two modes: single and group!\"\nIt certainly looks like it's up to me to choose.\nWhat will we do?"
+  },
+  {
+    "key": "1040201-options[0].message",
+    "original": "みんなのためにアンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "みんなのためにアンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모두를 위해 앰플을 사용한다.\nEN:\nUse the ampule for everyone."
+  },
+  {
+    "key": "1040201-options[0].messageDesc",
+    "original": "体力が消耗した味方全快。\n消耗していない味方の体力と精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が消耗した味方全快。\n消耗していない味方の体力と精神力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 소모된 아군 전부 회복.\n소모되지 않은 아군 체력과 정신력 감소\nEN:\nAll allies that lost HP fully heal.\nAllies with full HP lose HP and SP."
+  },
+  {
+    "key": "1040201-options[0].result[0]",
+    "original": "囚人全員が恩恵を受けれたら良いんじゃないかな。\n「……うっ！」\n「変だな…急に気分が悪くなったよ。」\n囚人の中には苦痛を訴える人もいる。\nそんな囚人たちの共通点を考えてみると…全員が負傷していなかった囚人だった。\n「健康なる者に注入すべからじ。」\n…次からは気を付けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人全員が恩恵を受けれたら良いんじゃないかな。\n「……うっ！」\n「変だな…急に気分が悪くなったよ。」\n囚人の中には苦痛を訴える人もいる。\nそんな囚人たちの共通点を考えてみると…全員が負傷していなかった囚人だった。\n「健康なる者に注入すべからじ。」\n…次からは気を付けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자들 모두가 혜택을 받으면 좋지 않을까.\n단체용 버튼을 눌렀다.\n\"…윽!\"\n\"이상한데… 갑자기 속이 안 좋아졌어.\"\n일부 수감자들이 고통을 호소한다.\n그런 수감자들의 공통점을 생각해보니… 모두가 부상을 당하지 않았던 수감자였다.\n\"건강한 자에게 주입하면 안되는 것인가보오.\"\n…다음에는 주의하자.\nEN:\nShouldn't hurt to let all the Sinners benefit from it.\nI pressed the 'group' button.\n\"Ngh!\"\n\"This is weird... I'm feeling sick all of a sudden.\"\nA number of Sinners groaned in pain.\nThinking about what they had in common... I realized that they were all uninjured.\n\"This must not be something you may administer to healthy individuals.\"\n...Better be careful next time."
+  },
+  {
+    "key": "1040201-options[1].message",
+    "original": "最も状態の悪い味方にアンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最も状態の悪い味方にアンプルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제일 상태가 나쁜 아군에게 앰플을 사용한다.\nEN:\nUse the ampule on the Sinner in the worst state."
+  },
+  {
+    "key": "1040201-options[1].messageDesc",
+    "original": "体力が最も低い味方1名の体力を全快。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力が最も低い味方1名の体力を全快。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 가장 낮은 아군 1명의 체력 최대로 회복.\nEN:\nThe ally with the least HP heals to full HP."
+  },
+  {
+    "key": "1040201-options[1].result[0]",
+    "original": "囚人{affectedTarget}が一番状態が悪そうに見えたので、注入器の隣に立たせて個人用ボタンを押した。\n…状態がかなり良くなったように見える！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人{affectedTarget}が一番状態が悪そうに見えたので、注入器の隣に立たせて個人用ボタンを押した。\n…状態がかなり良くなったように見える！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{affectedTarget} 수감자가 제일 상태가 좋지 않아 보였기에, 주입기 옆에 세우고 개인용 버튼을 눌렀다.\n…상태가 상당히 호전된 것처럼 보인다!\nEN:\n{affectedTarget} looked like the Sinner in the sorriest state, so we stood them at the injector and pressed the 'single' button.\n...The Sinner seems to have gotten much better!"
+  },
+  {
+    "key": "10403-name",
+    "original": "卵に触る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "卵に触る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알 건드리기\nEN:\nPoking at the Egg"
+  },
+  {
+    "key": "10403-desc",
+    "original": "「これは…卵？」\n「ご注意ください。幻想体かもしれません。」\n思い返してみると、K社の地下研究所では旧L社支部の幻想体の卵も管理していたと聞いた気がする。\n「あっ、えっと…これビクビクしてるんだけど？」\nこの言葉通り、急に卵一つがビクビク動き始める。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「これは…卵？」\n「ご注意ください。幻想体かもしれません。」\n思い返してみると、K社の地下研究所では旧L社支部の幻想体の卵も管理していたと聞いた気がする。\n「あっ、えっと…これビクビクしてるんだけど？」\nこの言葉通り、急に卵一つがビクビク動き始める。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"이건… 알?\"\n\"주의하세요. 환상체일지도 모릅니다.\"\n생각해보니, K사의 지하 연구소에서는 구 L사 지부의 환상체의 알도 관리했다고 들었던 것 같다.\n\"어, 어… 이거 꿈틀거리는데?\"\n말마따나, 갑자기 알 하나가 움찔거리기 시작한다.\n어떻게 해야할까?\nEN:\n\"Are these... eggs?\"\n\"Please be careful. It might be an Abnormality.\"\nCome to think of it, I was told that the underground lab K Corp. set up also managed eggs from the L Corp. branch.\n\"Whoa, hey... Is this thing twitching?\"\nAs the Sinner observed, an egg begins to move.\nWhat will we do?"
+  },
+  {
+    "key": "10403-options[0].message",
+    "original": "卵に触ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "卵に触ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알을 건드려본다.\nEN:\nTouch the eggs."
+  },
+  {
+    "key": "10403-options[1].message",
+    "original": "卵に触らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "卵に触らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알을 만지지 않는다\nEN:\nDon't touch the eggs."
+  },
+  {
+    "key": "10403-options[1].messageDesc",
+    "original": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않는다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "10403-options[1].result[0]",
+    "original": "「どうするかって？早く逃げろ！」その言葉は絶対に正しい。私たちはあわてて部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「どうするかって？早く逃げろ！」その言葉は絶対に正しい。私たちはあわてて部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"뭘 어째, 빨리 튀어!\"그 말이 백 번 옳다. 우리는 황급히 그 방을 빠져나왔다.\nEN:\n\"What else do we do? We gotta run!\"\nIt couldn't be more true. We quickly escaped the room."
+  },
+  {
+    "key": "10404-name",
+    "original": "列と行選び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "列と行選び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n줄과칸고르기\nEN:\nPickingRowAndColumn"
+  },
+  {
+    "key": "10404-desc",
+    "original": "空間が歪むと棚が現れた。\n棚の中にいろんな物体が見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "空間が歪むと棚が現れた。\n棚の中にいろんな物体が見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공간이 일그러지며 선반이 나타났다.\n선반 안에 어떤 물체들이 보인다.\nEN:\nThe area twisted, and a cabinet appeared from it.\nYou see some items in its drawers."
+  },
+  {
+    "key": "10404-options[0].message",
+    "original": "より詳しく調べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "より詳しく調べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n좀 더 자세히 살펴본다.\nEN:\nTake a closer look."
+  },
+  {
+    "key": "10405-name",
+    "original": "願いごと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "願いごと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소원 빌기\nEN:\nMake a Wish"
+  },
+  {
+    "key": "10405-desc",
+    "original": "「あれは…星？」\n顔を上げて上を見ると、亀裂の隙間から夜空のようなものが垣間見えた。\n「流れ星にありまする！」\n流れ星が通り過ぎるときに願い事をすると、叶うんだったっけ。\n私たちも願ってみたらどうだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「あれは…星？」\n顔を上げて上を見ると、亀裂の隙間から夜空のようなものが垣間見えた。\n「流れ星にありまする！」\n流れ星が通り過ぎるときに願い事をすると、叶うんだったっけ。\n私たちも願ってみたらどうだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"저건… 별인가?\"\n고개를 들어 위를 올려다보니, 균열 틈새로 밤하늘 같은 것이 들여다 보였다.\n\"별똥별이오!!\"\n별똥별이 지나갈 때 소원을 빌면, 이룰 수 있다고 했던가.\n우리도 한 번 소원을 빌어보면 어떨까?\nEN:\n\"Are those... stars up there?\"\nLooking up, we saw a scenery that looks like a night sky through a crack.\n\"Lo, a shooting star!!\"\nI heard that making a wish while a shooting star falls can make it true.\nMaybe we'll try it?"
+  },
+  {
+    "key": "10405-options[0].message",
+    "original": "願い事をする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "願い事をする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소원을 빈다.\nEN:\nMake a wish."
+  },
+  {
+    "key": "10405-options[0].messageDesc",
+    "original": "50%の確率でE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "50%の確率でE.G.O GIFTを獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n50%확률로 E.G.O GIFT 획득\nEN:\n50% chance to gain an E.G.O Gift"
+  },
+  {
+    "key": "10405-options[0].result[0]",
+    "original": "「ロメンティックなり。」\nみんな目を閉じて静かに願い事をした。\nその中のどれかに反応でもしたのだろうか？\n閉じてた目を開けると、きらめく欠片が地面にぽつんと置かれていた。\n「ふむ、誰がこんな願いごとをしたんだ？」\n各々があれこれ話したが、どうやら願いとは関係がなかったみたいだ。\n私たちはその欠片を拾って部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「ロメンティックなり。」\nみんな目を閉じて静かに願い事をした。\nその中のどれかに反応でもしたのだろうか？\n閉じてた目を開けると、きらめく欠片が地面にぽつんと置かれていた。\n「ふむ、誰がこんな願いごとをしたんだ？」\n各々があれこれ話したが、どうやら願いとは関係がなかったみたいだ。\n私たちはその欠片を拾って部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"로맨틱하구료.\"\n모두가 눈을 감고 조용히 소원을 빌었다.\n그 중 무언가에 반응이라도 한 것일까?\n감았던 눈을 뜨니, 반짝이는 조각이 땅에 덩그러니 놓여져 있었다.\n\"흠, 누가 이런 소원을 빌었을까?\"\n저마다 무어라 이야기를 했지만, 아무래도 소원과는 관련이 없었던 것 같다.\n우리는 그 조각을 챙기고 방을 떠났다.\nEN:\n\"Romantic.\"\nEveryone quietly made a wish with their eyes closed.\nCould it have evoked a response?\nWhen the eyes were open, a sparkling shard was on the ground. \n\"Hmm, I wonder who wished for this?\"\nThe Sinners commented, but it might not have been related to the wishes after all.\nWe took the shard and left the place."
+  },
+  {
+    "key": "10405-options[0].result[1]",
+    "original": "「ロメンティックなり。」\nみんな目を閉じて静かに願い事をした。\n…でも何も起こらなかった。\n「誰でござりまするか！誰かが目を開けていたに違いありませぬ！」\n地団駄を踏みながら暴れる囚人をあやしながら、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「ロメンティックなり。」\nみんな目を閉じて静かに願い事をした。\n…でも何も起こらなかった。\n「誰でござりまするか！誰かが目を開けていたに違いありませぬ！」\n地団駄を踏みながら暴れる囚人をあやしながら、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"로맨틱하구료.\"\n모두가 눈을 감고 조용히 소원을 빌었다.\n…하지만 아무 일도 일어나지 않았다.\n\"누구요! 누군가 눈을 떴을 것이 분명하오!\"\n길길이 날뛰는 한 수감자를 어르며, 우리는 방을 떠났다.\nEN:\n\"Romantic.\"\nEveryone quietly made a wish with their eyes closed.\n...However, nothing happened.\n\"Who was it! One of you must have opened your eyes in the middle of it!\"\nCoaxing one infuriated Sinner, we left the room."
+  },
+  {
+    "key": "10405-options[1].message",
+    "original": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자리를 떠난다.\nEN:\nLeave."
+  },
+  {
+    "key": "10405-options[1].messageDesc",
+    "original": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何も起こらない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않는다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "10405-options[1].result[0]",
+    "original": "そんな夢のような話が通用するなら、私もとっくに時計頭ではなく本来の頭を取り戻していただろう。\n時間を無駄にするよりも効率的な選択をしたと思いながら、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そんな夢のような話が通用するなら、私もとっくに時計頭ではなく本来の頭を取り戻していただろう。\n時間を無駄にするよりも効率的な選択をしたと思いながら、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그런 꿈 같은 소리가 먹혔다면, 진작 내 시계 대가리도 본래의 머리통을 되찾았을 것이다.\n시간 낭비를 하는 것 보다 효율적인 선택을 했다고 생각하며, 우리는 방을 떠났다.\nEN:\nIf that fanciful tale really was true, I would've gotten my real head back a while ago.\nWe left the room, believing this choice to be better than wasting our time."
+  },
+  {
+    "key": "10406-name",
+    "original": "花に近寄る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "花に近寄る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꽃에게다가가기\nEN:\nApproachingTheFlower"
+  },
+  {
+    "key": "10406-desc",
+    "original": "<i>野原ノ真ン中ニ花木一ツアリ。\n近処ニハ花木ガ一ツモアラヌ。\n花木ハ己ガ思ウ花木ヲ\n熱心ニ考エルヨウニ\n熱心デ花ヲ咲カセテ立チケリ。</i>\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<i>野原ノ真ン中ニ花木一ツアリ。\n近処ニハ花木ガ一ツモアラヌ。\n花木ハ己ガ思ウ花木ヲ\n熱心ニ考エルヨウニ\n熱心デ花ヲ咲カセテ立チケリ。</i>\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n<i>벌판한복판에 꽃나무하나가있소.\n근처(近處)에는꽃나무가하나도없소.\n꽃나무는제가생각하는꽃나무를\n열심(熱心)으로생각하는것처럼\n열심으로꽃을피워가지고섰소.</i>\n\n어떻게 할까?\nEN:\n<i>AFloweringTreestands inthemiddleofthePlain.\nNootherFloweringTreesarenearby(近處).\nTheFloweringTreestood\nWithFlowersbloomedinEarnest(熱心)\nMuchlikehowitthinksofFloweringTreesinitsThoughtsinEarnest.</i>\n\nWhat will you do?"
+  },
+  {
+    "key": "10406-options[0].message",
+    "original": "花に近寄る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "花に近寄る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꽃에게 다가간다.\nEN:\nApproach the flower."
+  },
+  {
+    "key": "10406-options[0].result[0]",
+    "original": "<i>花木ハ己の考エル花木ヘト行ケヌ。\n\n強い波動が近寄るなという風に、皆を押し出した。</i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<i>花木ハ己の考エル花木ヘト行ケヌ。\n\n強い波動が近寄るなという風に、皆を押し出した。</i>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n<i>꽃나무는제가생각하는꽃나무에게갈수없소.\n\n강한 파동이 다가오지 말라는 듯 모두를 밀쳐냈다.</i>\nEN:\n<i>TheFloweringTreecannotreachtheFloweringTreeinitsThoughts.</i>\n\nA strong shockwave pushed everyone away, denying our approach."
+  },
+  {
+    "key": "10406-options[1].message",
+    "original": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자리를 떠난다.\nEN:\nLeave."
+  },
+  {
+    "key": "10406-options[1].result[0]",
+    "original": "<i>花木ハ己ノ考ウ花木ヘト行ケヌ。\n私ハ今シガタ逃ゲキ。\n一ツノ花木ノ為ニソウスルヨウ、私ハ実ニソノヨウナ見ルカラニ異常ナル真似ヲセリ。</i>\n\nその場を離れようとした刹那、花木が散りながら消えた。\n花木があった場所に残された枝を拾った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<i>花木ハ己ノ考ウ花木ヘト行ケヌ。\n私ハ今シガタ逃ゲキ。\n一ツノ花木ノ為ニソウスルヨウ、私ハ実ニソノヨウナ見ルカラニ異常ナル真似ヲセリ。</i>\n\nその場を離れようとした刹那、花木が散りながら消えた。\n花木があった場所に残された枝を拾った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n<i>꽃나무는제가생각하는꽃나무에게갈수없소.\n나는막달아났소.\n한꽃나무를위(爲)하여 그러는것처럼 나는참그런이상스러운흉내를내었소.</i>\n\n자리를 떠나려는 찰나 꽃나무가 흩어지며 사라졌다.\n꽃나무가 있던 자리에 남겨진 가지를 챙겼다.\nEN:\n<i>ThefloweringTreecannotreachtheFloweringTreeinitsThoughts.\nIranwildly.\nAsthoughIwasdoingit for(爲)asingleFloweringTree, IdidsuchaPeculiarImitation.</i>\n\nRight when you were about to leave, the tree scattered away.\nYou took the branch left in its place."
+  },
+  {
+    "key": "10407-name",
+    "original": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달린다\nEN:\nRun"
+  },
+  {
+    "key": "10407-desc",
+    "original": "空間がねじ曲がる。\n同時に、聞き慣れた鳴き声が追いかけてくる。\nどういうわけか、私たちが卵に戻した幻想体の鳴き声のようだ。\n「とりあえず走れ！」\n十三人の囚人たちは、とにかく疾走した。\n「あの中に！」\n\n「い、行き止まりに見えますけど…。」囚人たちは怖がっているようだ…それでもあの中に入るべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "空間がねじ曲がる。\n同時に、聞き慣れた鳴き声が追いかけてくる。\nどういうわけか、私たちが卵に戻した幻想体の鳴き声のようだ。\n「とりあえず走れ！」\n十三人の囚人たちは、とにかく疾走した。\n「あの中に！」\n\n「い、行き止まりに見えますけど…。」囚人たちは怖がっているようだ…それでもあの中に入るべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공간이 뒤틀린다.\n동시에, 낯익은 울음소리가 뒤쫓아온다.\n무슨 일인지, 우리가 알로 돌려보냈던 환상체의 울음 같다.\n\"일단 뛰어!!\"\n열 셋의 수감자들이 마구 질주했다.\n\"저 안으로!\"\n\n\"마, 막다른 골목 같은데요…\"수감자들은 무서워 하는 것 같다… 그래도 저 안으로 들어가야 할까?\nEN:\nThe space twists.\nAt the same time, a familiar cry is heard from behind.\nIt somehow bears resemblance to the cry of an Abnormality we reduced to an egg earlier.\n\"Start running!!\"\nThirteen Sinners haphazardly rushed down the path.\n\"In there!\"\n\"T-That looks like a dead end...\"\nThe Sinners seem scared... Do we still go in there?"
+  },
+  {
+    "key": "10407-options[0].message",
+    "original": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달린다\nEN:\nRun."
+  },
+  {
+    "key": "10407-options[1].message",
+    "original": "走らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달리지 않는다\nEN:\nDon't run."
+  },
+  {
+    "key": "10407-options[1].messageDesc",
+    "original": "戦闘発生。勝利時にE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生。勝利時にE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생. 승리 시 E.G.O GIFT 획득\nEN:\nBegin a combat encounter. Win to gain an E.G.O Gift."
+  },
+  {
+    "key": "10407-options[1].result[0]",
+    "original": "行き止まりの場所に入ったとしても、どうせ結果は定まっている。\n「くぅっ！」\n走り掛かってくる幻想体に、囚人たちがそのままぶち当たった。\n「この駄牛め…。」\nどうしようもない、また卵に戻すしかないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "行き止まりの場所に入ったとしても、どうせ結果は定まっている。\n「くぅっ！」\n走り掛かってくる幻想体に、囚人たちがそのままぶち当たった。\n「この駄牛め…。」\nどうしようもない、また卵に戻すしかないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막다른 곳으로 들어가야 어차피 결과는 정해져 있다.\n\"크윽!\"\n달려드는 환상체에게 수감자들이 그대로 들이받혔다.\n\"이 황소 새끼…\"\n어쩔 수 없다, 다시 알로 돌려놓는 수 밖에.\nEN:\nRunning into a dead end could obviously end in one way.\n\"Kgh!\"\nThe Abnormality rammed the Sinners.\n\"You stubborn bull...\"\nWe have no choice. It has to be suppressed once more."
+  },
+  {
+    "key": "1040701-name",
+    "original": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달린다\nEN:\nRun."
+  },
+  {
+    "key": "1040701-desc",
+    "original": "行き止まりに向かって疾走し続ける。\n「こ、このままじゃ結局突っ込まれるだろ！」\n「あの雄牛のスピードが上がるだけじゃないですか…。」\nそれぞれ不安な様子を隠せずにいる。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "行き止まりに向かって疾走し続ける。\n「こ、このままじゃ結局突っ込まれるだろ！」\n「あの雄牛のスピードが上がるだけじゃないですか…。」\nそれぞれ不安な様子を隠せずにいる。\nどうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막다른 골목을 계속해서 질주한다.\n\"이, 이대로면 결국 들이 받히잖아!\"\n\"저 황소, 속도가 더 붙기만 할 텐데요…\"\n저마다 불안한 기색을 숨기지 않는다.\n어떻게 해야 할까?\nEN:\nWe keep running down the closed street.\n\"W-We'll get hit by that thing if we keep up!\"\n\"That bull will only grow faster as the chase goes on...\"\nThe unease is palpable.\nWhat should we do?"
+  },
+  {
+    "key": "1040701-options[0].message",
+    "original": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달린다\nEN:\nRun."
+  },
+  {
+    "key": "1040701-options[1].message",
+    "original": "走らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달리지 않는다\nEN:\nDon't run."
+  },
+  {
+    "key": "1040701-options[1].messageDesc",
+    "original": "戦闘発生。勝利時にE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生。勝利時にE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생. 승리 시 E.G.O GIFT 획득\nEN:\nBegin a combat encounter. Win to gain an E.G.O Gift."
+  },
+  {
+    "key": "1040701-options[1].result[0]",
+    "original": "どうしようもない。\nいっそ走るのを止めて、戦う体力を温存するしか…。\n「くぅっ！」\n走り掛かってくる幻想体に、囚人たちがそのままぶち当たった。\n「この駄牛め…。」\nどうしようもない、また卵に戻すしかないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうしようもない。\nいっそ走るのを止めて、戦う体力を温存するしか…。\n「くぅっ！」\n走り掛かってくる幻想体に、囚人たちがそのままぶち当たった。\n「この駄牛め…。」\nどうしようもない、また卵に戻すしかないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방법이 없다.\n차라리 뛰는 걸 그만두고 싸울 체력이라도 보존하는 수 밖에…\n\"크윽!\"\n달려드는 환상체에게 수감자들이 그대로 들이 받혔다.\n\"이 황소 새끼…\"\n어쩔 수 없다, 다시 알로 돌려놓는 수 밖에.\nEN:\nThere's no other way.\nWe might as well stop running and save ourselves a little energy for the inevitable fight...\n\"Kgh!\"\nThe Abnormality rammed the Sinners.\n\"You stubborn bull...\"\nWe have no choice. It has to be suppressed once more."
+  },
+  {
+    "key": "1040702-name",
+    "original": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달린다\nEN:\nRun."
+  },
+  {
+    "key": "1040702-desc",
+    "original": "それでも走り続ける。\n「他の理由はいっそ、なくてありなん。」\n囚人一人が急にわけの分からないことを言った。\n「え！？」\nすると目の前を塞いでいた壁が、広い空間に変わってしまった。\n今、どうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それでも走り続ける。\n「他の理由はいっそ、なくてありなん。」\n囚人一人が急にわけの分からないことを言った。\n「え！？」\nすると目の前を塞いでいた壁が、広い空間に変わってしまった。\n今、どうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래도 계속해서 질주한다.\n\"다른 사정은 차라리 없는 것이 낫겠소.\"\n수감자 하나가 불현듯 이해하기 힘든 말을 꺼냈다.\n\"어?!\"\n그러자 눈 앞을 가로막던 막다른 벽이, 너른 공간으로 변해버렸다.\n이제는, 어떻게 해야 할까?\nEN:\nWe keep running anyway.\n\"It would be preferable if there were no other circumstances to worry about.\nA Sinner muttered a peculiar remark.\n\"Huh?!\"\nJust then, the wall ahead of us morphed into a wide area.\nWhat will we do now?"
+  },
+  {
+    "key": "1040702-options[0].message",
+    "original": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달린다\nEN:\nRun."
+  },
+  {
+    "key": "1040702-options[0].messageDesc",
+    "original": "戦闘発生。勝利時にE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生。勝利時にE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생. 승리 시 E.G.O GIFT 획득\nEN:\nBegin a combat encounter. Win to gain an E.G.O Gift."
+  },
+  {
+    "key": "1040702-options[0].result[0]",
+    "original": "それでも、そのまま空間に向かって疾走する。\nその空間がどこへ繋がっているかは全然分からないけど…。\n「おぉっ？」\nどれくらい走っただろうか。\n走り抜けて着いた空間は、何故か幻想体と戦闘するのにおあつらえ向きの空間に変わっていた。\n「この駄牛め…。」\nどうしようもない、また卵に戻すしかないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それでも、そのまま空間に向かって疾走する。\nその空間がどこへ繋がっているかは全然分からないけど…。\n「おぉっ？」\nどれくらい走っただろうか。\n走り抜けて着いた空間は、何故か幻想体と戦闘するのにおあつらえ向きの空間に変わっていた。\n「この駄牛め…。」\nどうしようもない、また卵に戻すしかないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n역시나 그대로 공간을 향해 질주한다.\n그 공간이 어디로 이어지는지는 전혀 알 수 없지만…\n\"어엇?\"\n얼만큼 달렸을까.\n달려나온 공간에는, 어째서인지 환상체 와의 전투를 하기 알맞은 공간으로 바뀌어져 있었다.\n\"이 황소 새끼…\"\n어쩔 수 없다, 다시 알로 돌려놓는 수 밖에.\nEN:\nWe kept running through the passage.\nEven though we had no idea where it could lead to...\n\"What?\"\nHow long did we run?\nWe ended up in an arena fit for a battle with the Abnormality.\n\"You stubborn bull...\"\nWe have no choice. It has to be suppressed once more."
+  },
+  {
+    "key": "1040702-options[1].message",
+    "original": "走らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "走らない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n달리지 않는다\nEN:\nDon't run."
+  },
+  {
+    "key": "1040702-options[1].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "1040702-options[1].result[0]",
+    "original": "疾走はここまでだ。\nあの怖いものが突っ込んでくるだろうけど、またあんな風になると思うと怖いけど。\nでも、大丈夫だろうという気が何故かした。\n「あ…。」\n幻想体は、私たちをスッと通り抜けてわけの分からない空間へと疾走していった。\nそしてそれが過ぎ去ったところから、青い液体を手に入れることができた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "疾走はここまでだ。\nあの怖いものが突っ込んでくるだろうけど、またあんな風になると思うと怖いけど。\nでも、大丈夫だろうという気が何故かした。\n「あ…。」\n幻想体は、私たちをスッと通り抜けてわけの分からない空間へと疾走していった。\nそしてそれが過ぎ去ったところから、青い液体を手に入れることができた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n질주는 여기까지다.\n저 무서운 것이 달려들겠지만, 또 그럴 것이라는 걸 알아서 무섭지만.\n그래도, 괜찮을 것이라는 생각이 어째서인지 들었다.\n\"아…\"\n환상체는, 우리를 스르륵 통과해 알 수 없는 공간으로 질주해 버렸다.\n그리고 그것이 지나간 자리에서, 푸른 액체를 얻을 수 있었다.\nEN:\nThis is where the run ends.\nThat scary thing will charge at us, and knowing that makes it doubly scary.\nBut still, I somehow had the feeling that we'll be alright.\n\"Ah...\"\nThe Abnormality passed through us and disappeared into the unknown.\nWe found a blue fluid in its trail."
+  },
+  {
+    "key": "10408-name",
+    "original": "話しかけてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "話しかけてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말을 건네본다\nEN:\nTry Talking"
+  },
+  {
+    "key": "10408-desc",
+    "original": "窓に得体の知れない形が揺らめいている。\n何かするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "窓に得体の知れない形が揺らめいている。\n何かするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n창문에 알 수 없는 형체가 어른거리고 있다.\n무언가를 해야 할까?\nEN:\nMysterious figures glimmer in the window.\nShould we do something?"
+  },
+  {
+    "key": "10408-options[0].message",
+    "original": "話しかけてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "話しかけてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말을 건네본다.\nEN:\nTry Talking."
+  },
+  {
+    "key": "10408-options[1].message",
+    "original": "沈黙する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈黙する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침묵한다.\nEN:\nKeep quiet."
+  },
+  {
+    "key": "10408-options[1].result[0]",
+    "original": "沈黙ヲ打撲シテ呉レレバ良イノニ。\n天体ヲ引キ裂カバ音クライハ出デン。\n突然窓が割れ、破片があちこちに散乱した。\n囚人全員が負傷した。\n「…物理的に痛かりけり。」\nまだ全部取り除けていない窓の破片とともに、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈黙ヲ打撲シテ呉レレバ良イノニ。\n天体ヲ引キ裂カバ音クライハ出デン。\n突然窓が割れ、破片があちこちに散乱した。\n囚人全員が負傷した。\n「…物理的に痛かりけり。」\nまだ全部取り除けていない窓の破片とともに、私たちは部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침묵을 타박하여 주면 좋겠다.\n천체를잡아찢는다면소리쯤은나겠지.\n별안간 창문이 깨어지며 조각이 사방으로 산발했다.\n수감자들 모두가 다쳤다.\n\"…물리적으로 아팠소.\"\n아직 전부 제거하지 못한 창문의 조각과 함께, 우리는 방을 떠났다.\nEN:\nI wish that silence was scolded.\nItwouldatleastmakesomenoiseifyoutoreacelestialbodyapart.\nThe window shattered all of a sudden, and its fragments fell on the Sinners.\nAll the Sinners were hurt.\n\"...It hurt physically.\"\nWe left the room, some shards still stuck on our bodies."
+  },
+  {
+    "key": "805001-name",
+    "original": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막아선다.\nEN:\nStand in his way."
+  },
+  {
+    "key": "805001-desc",
+    "original": "ドンランは、これ以上実験されるものたちを可哀想に思わない。\n\n自分の技術が認められなくても…。\n故郷に残されたヌロンイのことを考えても…。\nもう悲しくないんだ。\n\n「過去は全部役に立たない。全部燃やして消すんだ。」\n\n「イサン、君もその程度にして消えてほしいな。」\n\nドンランはイサンへ向かって疾走し始める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ドンランは、これ以上実験されるものたちを可哀想に思わない。\n\n自分の技術が認められなくても…。\n故郷に残されたヌロンイのことを考えても…。\nもう悲しくないんだ。\n\n「過去は全部役に立たない。全部燃やして消すんだ。」\n\n「イサン、君もその程度にして消えてほしいな。」\n\nドンランはイサンへ向かって疾走し始める。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동랑은 더 이상 실험 당하는 것들을 가여워 하지 않아.\n\n자신의 기술이 인정받지 못해도…\n고향에 남겨진 누렁이를 생각해도…\n더는 슬프지 않지.\n\n\"과거는 전부 쓸모 없어. 모두 태워 없애겠어.\"\n\n\"이상, 너도 그만 사라져 줬으면 좋겠어.\"\n\n동랑은 이상을 향해 질주하기 시작해.\nEN:\nDongrang no longer feels pity for test subjects.\n\nEven if his technology isn't recognized...\nEven when he thinks of the yellow calf in his hometown...\nHe isn't sad anymore.\n\n\"The past is all useless. I'll burn it all.\"\n\n\"And Yi Sang, I'd like you gone as well.\"\n\nDongrang begins to rush at Yi Sang."
+  },
+  {
+    "key": "805001-options[0].message",
+    "original": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막아선다.\nEN:\nStand in his way."
+  },
+  {
+    "key": "805003-name",
+    "original": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막아선다.\nEN:\nStand in his way."
+  },
+  {
+    "key": "805003-desc",
+    "original": "「僕は…過去を消し去ることを決心しました。」\n\n「つまり、イサンさえ消えれば、あなたたちには用がないということです。」\n\nドンランは、とても不愉快そうに顔をうんと顰めた。\n\n「ところで…どうしてずっと邪魔するんだ？」\n\nドンランは強力な一撃を準備しているようだ。もしかしたら、その隙を狙えるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「僕は…過去を消し去ることを決心しました。」\n\n「つまり、イサンさえ消えれば、あなたたちには用がないということです。」\n\nドンランは、とても不愉快そうに顔をうんと顰めた。\n\n「ところで…どうしてずっと邪魔するんだ？」\n\nドンランは強力な一撃を準備しているようだ。もしかしたら、その隙を狙えるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"저는… 과거를 전부 지워버리기로 마음 먹었어요.\"\n\n\"그러니, 이상만 사라진다면 당신들에게는 볼일이 없다는 말입니다.\"\n\n동랑은, 사뭇 불쾌한 듯 잔뜩 얼굴을 찡그렸어.\n\n\"그런데… 왜 자꾸 방해하는 거지?\"\n\n동랑은 강력한 일격을 준비하는 것 같아. 어쩌면, 그 빈틈을 잘 노려볼 수 있을지도 모르지.\nEN:\n\"I've... decided to erase all of the past.\"\n\n\"In other words, I will have no business left with you once Yi Sang is gone.\"\n\nDongrang frowned, seeming quite displeased.\n\n\"And yet... Why do you keep interrupting?\"\n\nDongrang seems to be preparing for a powerful attack. Maybe this gap could be exploited."
+  },
+  {
+    "key": "805003-options[0].message",
+    "original": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막아선다.\nEN:\nStand in his way."
+  },
+  {
+    "key": "805005-name",
+    "original": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막아선다.\nEN:\nStand in his way."
+  },
+  {
+    "key": "805005-desc",
+    "original": "「こんな風に時間を浪費している場合じゃないのに。」\n\nドンランはふと気づいたかのように、その場で立ち止まった。\nそしてまるで、空の星でも見上げるように天井を眺めたんだ。\n\n「今この時にも…あれが泣いてくれない分だけ損をしている。」\n\n「世の中を変えられる機会と時間が…散り失せてるんだ。」\n\nドンランは血眼で睨み付けてきた。\n\n「イサン…お前さえ、お前さえ消えればそれで終わりじゃないか！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「こんな風に時間を浪費している場合じゃないのに。」\n\nドンランはふと気づいたかのように、その場で立ち止まった。\nそしてまるで、空の星でも見上げるように天井を眺めたんだ。\n\n「今この時にも…あれが泣いてくれない分だけ損をしている。」\n\n「世の中を変えられる機会と時間が…散り失せてるんだ。」\n\nドンランは血眼で睨み付けてきた。\n\n「イサン…お前さえ、お前さえ消えればそれで終わりじゃないか！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"이렇게 시간 낭비하고 있을 때가 아닌데.\"\n\n동랑은 문득 깨달았다는 듯, 그 자리에 우뚝 멈춰섰어.\n그리고 마치, 하늘의 별이라도 올려다 보듯 천장을 바라보았지.\n\n\"지금 이 시간에도… 저것이 울어주지 않는 만큼 손해를 보고 있어.\"\n\n\"세상을 바꿀 수 있는 기회와 시간이… 흩어지고 있다고.\"\n\n동랑은 핏발 선 눈으로 노려보았지.\n\n\"이상… 너만, 너만 사라지면 끝날 일이잖아?!\"\nEN:\n\"I really shouldn't be wasting my time like this.\"\n\nComing to a sudden realization, Dongrang stopped in place.\nAnd he looked at the ceiling as though he was looking up at stars in the sky.\n\n\"At this very moment... I'm losing out for each second it spends without crying.\"\n\n\"The opportunities and time to change the world... are scattering.\"\n\nDongrang then glared with bloodshot eyes.\n\n\"Yi Sang... It's you, you're the only one who needs to go for this to be over!\""
+  },
+  {
+    "key": "805005-options[0].message",
+    "original": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "阻む。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n막아선다.\nEN:\nStand in his way."
+  },
+  {
+    "key": "1040402-name",
+    "original": "番目の列と番目のマス選び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "番目の列と番目のマス選び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n번째 줄 번째 칸 고르기\nEN:\nPicking a Row and Column"
+  },
+  {
+    "key": "1040402-desc",
+    "original": "隠されたスペースからいろんなものが現れた。\n持って行けばこの先の戦闘で役に立つのではないだろうか。\nそれなら、何を持って行くべきかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "隠されたスペースからいろんなものが現れた。\n持って行けばこの先の戦闘で役に立つのではないだろうか。\nそれなら、何を持って行くべきかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숨겨진 칸에서 여러 물건들이 나타났다.\n챙겨 둔다면 앞으로의 전투에 도움이 되지 않을까.\n그렇다면, 무얼 가져가야 할까?\nEN:\nMany objects appeared in the hidden compartment.\nThey might be useful for the coming encounters.\nWhat should we take?"
+  },
+  {
+    "key": "1040402-options[0].message",
+    "original": "2列目、5番目のものを選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2列目、5番目のものを選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2번째 줄 5번째 칸의 것을 고른다.\nEN:\nPick the drawer on the second row, fifth column."
+  },
+  {
+    "key": "1040402-options[0].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "1040402-options[0].result[0]",
+    "original": "2列目、5番目のものを取り出した。\n緑色の得体の知れない塊だ。\n一見すると仮面のように見えなくもない。\nやがて空間がぼやけ、棚が消えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2列目、5番目のものを取り出した。\n緑色の得体の知れない塊だ。\n一見すると仮面のように見えなくもない。\nやがて空間がぼやけ、棚が消えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2번째 줄 5번째 칸의 물건을 꺼냈다.\n초록색 알 수 없는 덩어리이다.\n얼핏 가면처럼 보이는 거 같기도 하다.\n이윽고 공간이 흐려지며 선반이 사라졌다.\nEN:\nYou took the item out of the drawer on the second row, fifth column.\nIt's a mysterious green mass.\nWhen you look at it, it kind of resembles a mask.\nSoon, the area began to blur, and the cabinet disappeared."
+  },
+  {
+    "key": "1040402-options[1].message",
+    "original": "5列目、8番目のものを選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5列目、8番目のものを選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5번째 줄 8번째 칸의 것을 고른다.\nEN:\nPick the drawer on the fifth row, eighth column."
+  },
+  {
+    "key": "1040402-options[1].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "1040402-options[1].result[0]",
+    "original": "5列目、8番目のものを取り出した。\n青色の得体の知れない塊だ。\n一見すると剣のように見えなくもない。\nやがて空間がぼやけ、棚が消えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5列目、8番目のものを取り出した。\n青色の得体の知れない塊だ。\n一見すると剣のように見えなくもない。\nやがて空間がぼやけ、棚が消えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5번째 줄 8번째 칸의 물건을 꺼냈다.\n파란색 알 수 없는 덩어리이다.\n얼핏 칼처럼 보이는 거 같기도 하다.\n이윽고 공간이 흐려지며 선반이 사라졌다.\nEN:\nYou took the item out of the drawer on the fifth row, eighth column.\nIt's a mysterious blue mass.\nWhen you look at it, it kind of resembles a knife.\nSoon, the area began to blur, and the cabinet disappeared."
+  },
+  {
+    "key": "1040402-options[2].message",
+    "original": "6列目、1番目のものを選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6列目、1番目のものを選ぶ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6번째 줄 1번째 칸의 것을 고른다.\nEN:\nPick the drawer on the sixth row, first column."
+  },
+  {
+    "key": "1040402-options[2].messageDesc",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O GIFT 획득\nEN:\nGain an E.G.O Gift."
+  },
+  {
+    "key": "1040402-options[2].result[0]",
+    "original": "6列目、1番目のものを取り出した。\n黄色の得体の知れない塊だ。\n一見すると花のように見えなくもない。\nやがて空間がぼやけ、棚が消えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6列目、1番目のものを取り出した。\n黄色の得体の知れない塊だ。\n一見すると花のように見えなくもない。\nやがて空間がぼやけ、棚が消えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6번째 줄 1번째 칸의 물건을 꺼냈다.\n노란색 알 수 없는 덩어리이다.\n얼핏 꽃처럼 보이는 거 같기도 하다.\n이윽고 공간이 흐려지며 선반이 사라졌다.\nEN:\nYou took the item out of the drawer on the sixth row, first column.\nIt's a mysterious yellow mass.\nWhen you look at it, it kind of resembles a flower.\nSoon, the area began to blur, and the cabinet disappeared."
+  }
+]

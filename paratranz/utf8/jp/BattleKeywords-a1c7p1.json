@@ -1,0 +1,366 @@
+[
+  {
+    "key": "BloodScissor-name",
+    "original": "血染めの鋏の刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血染めの鋏の刃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n핏빛 가위날\nEN:\nBlood-tinged Scissorblades"
+  },
+  {
+    "key": "BloodScissor-desc",
+    "original": "- 最大値 : 10\n- 血染めの鋏の刃 1段階\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 10\n- 血染めの鋏の刃 1段階\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 10\n- 핏빛 가위날 1단계\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- Used for special skills"
+  },
+  {
+    "key": "BloodScissorTwo-name",
+    "original": "血染めの鋏の刃II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血染めの鋏の刃II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n핏빛 가위날 II\nEN:\nBlood-tinged Scissorblades II"
+  },
+  {
+    "key": "BloodScissorTwo-desc",
+    "original": "- 最大値 : 20\n- 血染めの鋏の刃 2段階\n- ターン開始時、数値5につき攻撃レベル増加1, 防御レベル減少1を得る\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 20\n- 血染めの鋏の刃 2段階\n- ターン開始時、数値5につき攻撃レベル増加1, 防御レベル減少1を得る\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 20\n- 핏빛 가위날 2단계\n- 턴 시작시 수치 5당 공격 레벨 증가 1, 방어 레벨 감소 1 얻음\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- Used for certain Skills"
+  },
+  {
+    "key": "BloodScissorThree-name",
+    "original": "血染めの鋏の刃III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血染めの鋏の刃III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n핏빛 가위날 III\nEN:\nBlood-tinged Scissorblades III"
+  },
+  {
+    "key": "BloodScissorThree-desc",
+    "original": "- 最大値 : 30\n- 血染めの鋏の刃 3段階\n- ターン開始時、数値5につき攻撃レベル増加2, 防御レベル減少1を得る\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 30\n- 血染めの鋏の刃 3段階\n- ターン開始時、数値5につき攻撃レベル増加2, 防御レベル減少1を得る\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 30\n- 핏빛 가위날 3단계\n- 턴 시작시 수치 5당 공격 레벨 증가 2, 방어 레벨 감소 1 얻음\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Turn Start: gain 2 Offense Level Up and 1 Defense Level Down for every 5 Stack\n- Used for certain Skills"
+  },
+  {
+    "key": "BloodDinner-name",
+    "original": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈찬\nEN:\nBloodfeast"
+  },
+  {
+    "key": "BloodDinner-desc",
+    "original": "- 最大値 : 999\n- その場所にて発生した出血ダメージをストック\n- 戦闘場所が変更されると初期化\n- この数値は全キャラクターで共有される\n- 味方の中で同じターンに血餐を消耗する上位眷属がいれば、そのキャラクターが血餐を消耗するまで血餐を消耗することはできない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 999\n- その場所にて発生した出血ダメージをストック\n- 戦闘場所が変更されると初期化\n- この数値は全キャラクターで共有される\n- 味方の中で同じターンに血餐を消耗する上位眷属がいれば、そのキャラクターが血餐を消耗するまで血餐を消耗することはできない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 999\n- 해당 장소에서 발생한 출혈 피해를 저장함\n- 전투 장소가 변경되면, 초기화됨\n- 이 수치는 모든 캐릭터가 공유함\n- 아군 중 같은 턴에 혈찬을 소모하는 상위 권속이 있으면, 해당 캐릭터가 혈찬을 소모할 때까지 혈찬을 소모할 수 없음\nEN:\n- Max Value: 999\n- Stores all Bleed damage dealt in this zone\n- Resets when moving to a different zone\n- This value is shared by all characters\n- If there is a higher Kindred among the allies who also consumes Bloodfeast, this unit cannot consume Bloodfeast until that ally consumes it first."
+  },
+  {
+    "key": "BloodDinner_Accumulation-name",
+    "original": "累積消耗血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "累積消耗血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누적 소모 혈찬\nEN:\nBloodfeast Consumed"
+  },
+  {
+    "key": "BloodDinner_Accumulation-desc",
+    "original": "- 最大値 : 999\n- 今回の戦闘中に累計で消耗した血餐が表示される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 999\n- 今回の戦闘中に累計で消耗した血餐が表示される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 999\n- 이번 전투 동안 누적 소모한 혈찬이 표시됨\nEN:\n- Max Value: 999\n- Displays the total amount of Bloodfeast consumed in this Encounter"
+  },
+  {
+    "key": "FamineBlood_LowMorale-name",
+    "original": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림\nEN:\nHunger"
+  },
+  {
+    "key": "FamineBlood_LowMorale-desc",
+    "original": "- 士気低下\nターン開始時、束縛1, 攻撃威力増加2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\nターン開始時、束縛1, 攻撃威力増加2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n턴 시작 시, 속박 1, 공격 위력 증가 2 얻음.\nEN:\n- Low Morale\nTurn Start: Gain 1 Bind and 2 Attack Power Up."
+  },
+  {
+    "key": "FamineBlood_Panic-name",
+    "original": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굶주림\nEN:\nHunger"
+  },
+  {
+    "key": "FamineBlood_Panic-desc",
+    "original": "- パニック\nターン開始時、束縛2, 攻撃威力増加4を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\nターン開始時、束縛2, 攻撃威力増加4を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n턴 시작 시, 속박 2, 공격 위력 증가 4 얻음.\nEN:\n- Panic\nTurn Start: Gain 2 Bind and 4 Attack Power Up."
+  },
+  {
+    "key": "DuelDeclaration_Camille-name",
+    "original": "決闘宣布 - カミーユ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "決闘宣布 - カミーユ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결투 선포 - 까미유\nEN:\nDeclared Duel - Camille"
+  },
+  {
+    "key": "DuelDeclaration_Camille-desc",
+    "original": "決闘宣布を付与したキャラクターが付与したキャラクターをマッチ進行時、マッチ威力 +1\n攻撃的中時に次のターンにてクイック 1を得る。(1ターンにつき最大4回)\n付与したキャラクターが他の対象にこの効果を付与すれば消滅。\n他のキャラクターの決闘宣布が付与される場合、交代する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "決闘宣布を付与したキャラクターが付与したキャラクターをマッチ進行時、マッチ威力 +1\n攻撃的中時に次のターンにてクイック 1を得る。(1ターンにつき最大4回)\n付与したキャラクターが他の対象にこの効果を付与すれば消滅。\n他のキャラクターの決闘宣布が付与される場合、交代する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결투 선포를 부여한 캐릭터가 부여된 캐릭터와 합 진행 시 합 위력 +1\n공격 적중 시 다음 턴에 신속 1을 얻음. (턴 당 최대 4회)\n부여한 캐릭터가 다른 대상에게 이 효과를 부여하면 소멸.\n다른 캐릭터의 결투 선포가 부여될 경우 교체됨.\nEN:\n- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. \n- Replaced when another unit inflicts Declared Duel on the same target."
+  },
+  {
+    "key": "RecklessDuel-name",
+    "original": "無謀な決闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無謀な決闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무모한 결투\nEN:\nFoolhardy Duel"
+  },
+  {
+    "key": "RecklessDuel-desc",
+    "original": "ターン終了時、戦闘中に失った全体力の10%につき次のターンにてマッチ威力増加を得る(最大5)\nターン終了時、戦闘中に失った全体力の10%につき次のターンにて束縛を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、戦闘中に失った全体力の10%につき次のターンにてマッチ威力増加を得る(最大5)\nターン終了時、戦闘中に失った全体力の10%につき次のターンにて束縛を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 전투 중 전체 체력의 잃어버린 체력 10%당 다음 턴에 합 위력 증가를 얻음. (최대 5)\n턴 종료시 전투 중 전체 체력의 잃어버린 체력 10%당 다음 턴에 속박을 얻음. (최대 5)\nEN:\nTurn End: gain 1 Clash Power Up next turn for every 10% of the missing HP. (max 5)\nTurn End: gain 1 Bind next turn for every 10% of the missing HP. (max 5)"
+  },
+  {
+    "key": "ConcentratedAttack-name",
+    "original": "集中攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "集中攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집중 공격\nEN:\nFocused Attack"
+  },
+  {
+    "key": "ConcentratedAttack-desc",
+    "original": "前のターンに攻撃成功したスロットにスキル使用時、累計攻撃ターン数によって下記の効果を得る。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前のターンに攻撃成功したスロットにスキル使用時、累計攻撃ターン数によって下記の効果を得る。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전 턴에 공격 성공한 슬롯에 스킬 사용시 누적된 공격 성공 턴 수에 따라 다음과 같은 효과를 얻음.\n- 공격 성공 누적 1턴: 합 위력 +1\n- 공격 성공 누적 2턴: 기본 위력 + 1\n- 공격 성공 누적 3턴: 기본 위력 + 1, 코인 위력 + 1\nEN:\nWhen using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
+  },
+  {
+    "key": "TrulyWeak-name",
+    "original": "弱者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弱者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n약자\nEN:\nThe Weak"
+  },
+  {
+    "key": "TrulyWeak-desc",
+    "original": "- 与ダメージ量 -10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 与ダメージ量 -10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 가하는 피해량 -10%\nEN:\n- Damage Dealt -10%"
+  },
+  {
+    "key": "RealPaperBear-name",
+    "original": "ホンモノのクマ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホンモノのクマ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진짜 곰\nEN:\nAn Actual Bear"
+  },
+  {
+    "key": "RealPaperBear-desc",
+    "original": "- 人間も食べちゃう恐ろしいクマ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 人間も食べちゃう恐ろしいクマ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사람까지 잡아먹는 무시무시한 곰\nEN:\n- It eats people. How fearsome!"
+  },
+  {
+    "key": "BloodScissorScars-name",
+    "original": "深く斬られた傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深く斬られた傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깊게 베인 상처\nEN:\nDeep Laceration"
+  },
+  {
+    "key": "BloodScissorScars-desc",
+    "original": "- 出血回数が3増加し、自分の出血が発動する。以降、出血回数が1減少。\n- ターン終了時に除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 出血回数が3増加し、自分の出血が発動する。以降、出血回数が1減少。\n- ターン終了時に除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 출혈 횟수가 3 증가하고, 자신의 출혈이 발동됨. 이후  출혈 횟수 1 감소.\n- 턴 종료 시 제거\nEN:\n- Gain +3 Bleed Count and trigger Bleed on self. Then, lose 1 Bleed Count.\n- Expires at Turn End"
+  },
+  {
+    "key": "LineCutting-name",
+    "original": "裁縫対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "裁縫対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재봉 대상\nEN:\nSewing Target"
+  },
+  {
+    "key": "LineCutting-desc",
+    "original": "- ???の優先攻撃対象になる\n- ターン終了時に除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ???の優先攻撃対象になる\n- ターン終了時に除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- ???의 우선 공격 대상이 됨.\n- 턴 종료 시 제거\nEN:\n- Prioritized by ???.\n- Expires at Turn End"
+  },
+  {
+    "key": "StarvingBarberOne-name",
+    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노쇠\nEN:\nWithered"
+  },
+  {
+    "key": "StarvingBarberOne-desc",
+    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 오랫동안 피를 마시지 못했다.\n- 기본 공격 레벨 15 감소\n- 기본 방어 레벨 15 감소\nEN:\n- Starved for blood for a long, long time.\n- Lose 15 Base Offense Level\n- Lose 15 Base Defense Level"
+  },
+  {
+    "key": "StarvingBarberTwo-name",
+    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노쇠\nEN:\nWithered"
+  },
+  {
+    "key": "StarvingBarberTwo-desc",
+    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル25減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 오랫동안 피를 마시지 못했다.\n- 기본 공격 레벨 25 감소\n- 기본 방어 레벨 25 감소\nEN:\n- Starved for blood for a long, long time.\n- Lose 25 Base Offense Level\n- Lose 25 Base Defense Level"
+  },
+  {
+    "key": "BloodShooting-name",
+    "original": "ブラッドシューティング！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ブラッドシューティング！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n블러드슈팅!!\nEN:\nBlood-shooting!!"
+  },
+  {
+    "key": "BloodShooting-desc",
+    "original": "死亡時\n -血餐が30増加\n- 最も数量が少ないE.G.O資源が2増加\n- 次のターンに自分と同じチームのキャラクターの全物理態勢が0.1増加。この効果は重畳する(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡時\n -血餐が30増加\n- 最も数量が少ないE.G.O資源が2増加\n- 次のターンに自分と同じチームのキャラクターの全物理態勢が0.1増加。この効果は耐性する(最大5)\n<CMT_KR>오식: \"- 次のターンに自分と同じチームのキャラクターの全物理「態勢」が0.1増加。この効果は重畳する(最大5)\"  정확: \"次のターンに自分と同じチームのキャラクターの全物理「耐性」が0.1増加。\"\n<CMT_EN>Typo: \"- 次のターンに自分と同じチームのキャラクターの全物理「態勢」が0.1増加。この効果は重畳する(最大5)\"  Correction: \"次のターンに自分と同じチームのキャラクターの全物理「耐性」が0.1増加。\"\n<CMT_JP>誤植: \"- 次のターンに自分と同じチームのキャラクターの全物理「態勢」が0.1増加。この効果は重畳する(最大5)\"  訂正後: \"次のターンに自分と同じチームのキャラクターの全物理「耐性」が0.1増加。\"",
+    "stage": 1,
+    "context": "KR:\n사망 시\n- 혈찬 30 증가\n- 가장 수량이 적은 E.G.O 자원 2 증가\n- 다음 턴에 자신과 같은 팀의 캐릭터의 모든 물리 내성이 0.1 증가. 이 효과는 중첩됨. (최대 5)\nEN:\nOn Death:\n- Bloodfeast +30\n- gain 2 E.G.O resource for the least-owned E.G.O resource\n- Next turn: all allies gain 0.1 to all Phys. Resistances. This effect can stack. (max 5)"
+  },
+  {
+    "key": "RighteousFeeling-name",
+    "original": "正義溢れる気分である！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "正義溢れる気分である！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의로운 기분이라네!!\nEN:\nHOW RIGHTEOUS!!"
+  },
+  {
+    "key": "RighteousFeeling-desc",
+    "original": "- 毎ターン終了時、次のターンにクイック1, 攻撃レベル増加3, 防御レベル減少3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 毎ターン終了時、次のターンにクイック1, 攻撃レベル増加3, 防御レベル減少3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 매 턴 종료 시, 다음 턴에 신속 1, 공격 레벨 증가 3, 방어 레벨 감소 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)\nEN:\n- At every Turn End: gain 1 Haste, 3 Offense Level Up, and 3 Defense Level Down next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)"
+  },
+  {
+    "key": "DuelDeclarationMeursault-name",
+    "original": "決闘宣布 - ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "決闘宣布 - ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결투 선포 - 뫼르소\nEN:\nDeclared Duel - Meursault"
+  },
+  {
+    "key": "DuelDeclarationMeursault-desc",
+    "original": "決闘宣布を付与したキャラクターが付与したキャラクターをマッチ進行時、マッチ威力 +1\n攻撃的中時に次のターンにてクイック 1を得る。(1ターンにつき最大4回)\n付与したキャラクターが他の対象にこの効果を付与すれば消滅。\n他のキャラクターの決闘宣布が付与される場合、交代する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "決闘宣布を付与したキャラクターが付与したキャラクターをマッチ進行時、マッチ威力 +1\n攻撃的中時に次のターンにてクイック 1を得る。(1ターンにつき最大4回)\n付与したキャラクターが他の対象にこの効果を付与すれば消滅。\n他のキャラクターの決闘宣布が付与される場合、交代する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결투 선포를 부여한 캐릭터가 부여된 캐릭터와 합 진행 시 합 위력 +1\n공격 적중 시 다음 턴에 신속 1을 얻음. (턴 당 최대 4회)\n부여한 캐릭터가 다른 대상에게 이 효과를 부여하면 소멸.\n다른 캐릭터의 결투 선포가 부여될 경우 교체됨.\nEN:\n- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. \n- Replaced when another unit inflicts Declared Duel on the same target."
+  },
+  {
+    "key": "ConcentratedAttackMeursault-name",
+    "original": "集中攻撃 - ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "集中攻撃 - ムルソー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집중 공격 - 뫼르소\nEN:\nFocused Attack - Meursault"
+  },
+  {
+    "key": "ConcentratedAttackMeursault-desc",
+    "original": "<集中戦闘専用>\n集中攻撃を付与したキャラクターが、前のターンに攻撃成功したスロットへスキル使用時、累計攻撃成功ターン数によって下記の効果を得る。\n集中攻撃1スタック: マッチ威力 +1\n集中戦闘2スタック: 基本威力 +1\n集中攻撃3スタック: 基本威力 +1, コイン威力 +1\n- 付与したキャラクターが1ターンの間、集中攻撃の付与されたスロットに攻撃を成功させることができなければ消滅\n- 付与したキャラクターが他のスロットにこの効果を付与したら消滅\n- 付与されたスロットに他のキャラクターの集中攻撃が付与されたなら入れ替わる\n- 次のターン開始時、除去されたスロットに集中攻撃が付与されているなら、該当部位の全スロットに付与された集中攻撃を編成順に再配置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<集中戦闘専用>\n集中攻撃を付与したキャラクターが、前のターンに攻撃成功したスロットへスキル使用時、累計攻撃成功ターン数によって下記の効果を得る。\n集中攻撃1スタック: マッチ威力 +1\n集中戦闘2スタック: 基本威力 +1\n集中攻撃3スタック: 基本威力 +1, コイン威力 +1\n- 付与したキャラクターが1ターンの間、集中攻撃の付与されたスロットに攻撃を成功させることができなければ消滅\n- 付与したキャラクターが他のスロットにこの効果を付与したら消滅\n- 付与されたスロットに他のキャラクターの集中攻撃が付与されたなら入れ替わる\n- 次のターン開始時、除去されたスロットに集中攻撃が付与されているなら、該当部位の全スロットに付与された集中攻撃を編成順に再配置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;집중 전투 전용&gt;\n집중 공격을 부여한 캐릭터가 대상 슬롯의 집중 공격 수치에 따라 다음 효과를 얻음\n1스택: 합 위력 +1\n2스택: 기본 위력 + 1\n3스택: 기본 위력 + 1, 코인 위력 + 1\n- 부여한 캐릭터가 한 턴 동안 집중 공격이 부여된 슬롯에 공격을 성공하지 못하면, 소멸.\n- 부여한 캐릭터가 다른 슬롯에 이 효과를 부여하면 소멸.\n- 부여된 슬롯에 다른 캐릭터의 집중 공격이 부여될 경우, 교체됨.\n- 다음 턴 시작시 제거된 슬롯에 집중 공격이 있었다면, 해당 부위의 모든 슬롯에 부여된 집중 공격을 편성 순서 순으로 재배치함.\nEN:\n&lt;Focused Encounters Only&gt;\nThe unit that inflicted this Focused Attack gains the following effects based on the target Slot's Focused Attack Stack.\n  · 1x Stack: Gain Clash Power +1\n  · 2x Stack: Gain Base Power +1\n  · 3x Stack: Gain Base Power +1 and Coin Power +1\n- Expires if, for a turn, the unit that inflicted it fails to hit the Slot inflicted with their Focused Attack.\n- Expires if the unit that inflicted Focused Attack inflicts it on a different Slot.\n- Replaced if a different unit inflicts Focused Attack on a Slot already inflicted with Focused Attack.\n- At the start of the next turn, if a Slot inflicted with Focused Attack is no longer present, rearrange all Focused Attacks inflicted against the Slots of that Part in the order of Deployment"
+  },
+  {
+    "key": "Duello_LowMorale-name",
+    "original": "1対1の戦力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1対1の戦力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1:1 전력\nEN:\nDuel Specialist"
+  },
+  {
+    "key": "Duello_LowMorale-desc",
+    "original": "- 士気低下\n- ターン開始時、攻撃レベル増加2を得る。マッチ敗北時、防御レベル減少1を得る(1ターンにつき最大3)速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ターン開始時、攻撃レベル増加2を得る。マッチ敗北時、防御レベル減少1を得る(1ターンにつき最大3)速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 턴 시작 시, 공격 레벨 증가 2 얻음. 합 패배 시 방어 레벨 감소 1얻음 (턴 당 최대 3). 속도 최솟값 -1\nEN:\n- Low Morale\n- Turn Start: Gain 2 Offense Level Up. On Clash Lose, gain 1 Defense Level Down(max 3 per turn). Min. Speed -1"
+  },
+  {
+    "key": "Duello_Panic-name",
+    "original": "1対1の戦力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1対1の戦力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1:1 전력\nEN:\nDuel Specialist"
+  },
+  {
+    "key": "Duello_Panic-desc",
+    "original": "- パニック\n- ターン開始時、攻撃レベル増加4を得る。マッチ敗北時、防御レベル減少2を得る(1ターンにつき最大6)速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- ターン開始時、攻撃レベル増加4を得る。マッチ敗北時、防御レベル減少2を得る(1ターンにつき最大6)速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 턴 시작 시, 공격 레벨 증가 4 얻음. 합 패배 시 방어 레벨 감소 2얻음 (턴 당 최대 6). 속도 최솟값 -1\nEN:\n- Panic\n- Turn Start: Gain 4 Offense Level Up. On Clash Lose, gain 2 Defense Level Down(max 6 per turn). Min. Speed -1"
+  },
+  {
+    "key": "RighteousFeelingSancho-name",
+    "original": "血の涙を呑み、吾が適任を負おう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血の涙を呑み、吾が適任を負おう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피눈물을 머금고, 내가 책임지겠다.\nEN:\nI will take responsibility, through my bloody tears."
+  },
+  {
+    "key": "RighteousFeelingSancho-desc",
+    "original": "- 硬血を得るたび、硬血を1追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 硬血を得るたび、硬血を1追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 경혈을 얻을 때마다, 경혈을 1 추가로 얻음. (턴 당 최대 5회)\n- 매 턴 종료 시, 다음 턴에 신속 2, 공격 레벨 증가 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)\nEN:\n- Gain 1 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)"
+  },
+  {
+    "key": "UnfinishedDreamSancho-name",
+    "original": "水より濃い血から解き放たれることはできず、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "水より濃い血から解き放たれることはできず、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n물보다 진한 피에서 벗어나지 못하여,\nEN:\nIn which is recounted the thralldom to blood thicker than water."
+  },
+  {
+    "key": "UnfinishedDreamSancho-desc",
+    "original": "- 硬血を得るたび、硬血を2追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 硬血を得るたび、硬血を2追加で得る。(1ターンにつき最大5回)\n- 毎ターン終了時、次のターンにクイック2, 攻撃レベル増加3を得る\n- 累計3ターンにつき、攻撃レベル増加を追加で2得る(最大6)\n- マッチ勝利時、精神力を3回復\n- 敵討伐時、次のターンにマッチ威力増加1を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 경혈을 얻을 때마다, 경혈을 2 추가로 얻음. (턴 당 최대 5회)\n- 매 턴 종료 시, 다음 턴에 신속 2, 공격 레벨 증가 3 얻음\n- 누적된 턴 3 당, 공격 레벨 증가 2 추가로 얻음 (최대 6)\n- 합 승리 시 정신력 3 회복\n- 적 처치 시 다음 턴에 합 위력 증가 1 얻음 (턴 당 1회)\nEN:\n- Gain 2 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 2 Clash Power Up next turn (once per turn)"
+  },
+  {
+    "key": "FragmentOfHopeSancho-name",
+    "original": "苦痛を受けた家族達のために晩餐を開き、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "苦痛を受けた家族達のために晩餐を開き、\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고통 받은 가족들을 위해 피의 만찬을 열고,\nEN:\nWhich treats the banquet of blood for the Family's suffering."
+  },
+  {
+    "key": "FragmentOfHopeSancho-desc",
+    "original": "数値だけマッチ威力増加\n与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "数値だけマッチ威力増加\n与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수치만큼 합 위력 증가\n가하는 피해량 +10%\nEN:\nGain Clash Power Up equal to Stack\nDeal +10% damage"
+  },
+  {
+    "key": "FragmentOfHopeTwoSancho-name",
+    "original": "子供に背を向けた父上を処断し、全ての罪悪感を背負ったとある血鬼について\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "子供に背を向けた父上を処断し、全ての罪悪感を背負ったとある血鬼について\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자식을 등진 어버이를 처단하여 모든 죄악감을 짊어진 어느 혈귀에 대하여\nEN:\nOf how a certain Bloodfiend came to bear the guilt of patricide alone."
+  },
+  {
+    "key": "FragmentOfHopeTwoSancho-desc",
+    "original": "- 数値1につきマッチ威力 +4\n- 戦闘開始時、自分と味方にバリア付与\n- 与ダメージ量 +20%\n- 的中するたびに固定ダメージを1与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 数値1につきマッチ威力 +4\n- 戦闘開始時、自分と味方にバリア付与\n- 与ダメージ量 +20%\n- 的中するたびに固定ダメージを1与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 수치당 합 위력 +4\n- 전투 시작 시 자신과 아군에게 보호막 부여\n- 가하는 피해량 +20%\n- 적중시마다 고정 피해 1 입힘\nEN:\n- Clash Power +4 for every value\n- Apply Shield to self and all allies at Combat Start\n- Deal +20% damage\n- On Hit, deal 1 fixed damage as well"
+  }
+]

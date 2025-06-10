@@ -1,0 +1,23 @@
+[
+  {
+    "key": "HealHpMaxForSelected-content",
+    "original": "選択人格の体力を全快\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択人格の体力を全快\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택한 인격 체력 최대로 회복\nEN:\nFully heal selected Identity"
+  },
+  {
+    "key": "HealHpPercentageForAll-content",
+    "original": "全人格の体力{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全人格の体力{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 인격 체력 {0}% 회복\nEN:\nAll Identities heal {0}% HP"
+  },
+  {
+    "key": "ResurrectForSelected-content",
+    "original": "死亡した人格1名の体力を全快で復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡した人格1名の体力を全快で復活\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망한 인격 1명 최대 체력 상태로 부활\nEN:\nRevive an Identity with fully healed HP"
+  }
+]

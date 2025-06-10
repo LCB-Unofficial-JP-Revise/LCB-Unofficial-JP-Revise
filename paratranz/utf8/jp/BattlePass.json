@@ -1,0 +1,464 @@
+[
+  {
+    "key": "battlepass_battlepass-content",
+    "original": "バトルパス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バトルパス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배틀 패스\nEN:\nBattle Pass"
+  },
+  {
+    "key": "battlepass_passmission-content",
+    "original": "パスミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 미션\nEN:\nPass Missions"
+  },
+  {
+    "key": "battlepass_dailymission-content",
+    "original": "デイリーミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "デイリーミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일일미션\nEN:\nDaily"
+  },
+  {
+    "key": "battlepass_weeklymission-content",
+    "original": "ウィークリーミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウィークリーミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주간미션\nEN:\nWeekly"
+  },
+  {
+    "key": "battlepass_seasonmission-content",
+    "original": "シーズンミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズンミッション\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌미션\nEN:\nSeasonal"
+  },
+  {
+    "key": "battlepass_freeandpaid-content",
+    "original": "有償{0} 無償{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有償{0} 無償{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유료 {0} 무료 {1}\nEN:\nPaid {0} Free {1}"
+  },
+  {
+    "key": "battlepass_mission_tag_normal-content",
+    "original": "一般\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반\nEN:\nRegular"
+  },
+  {
+    "key": "battlepass_mission_tag_battle-content",
+    "original": "戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투\nEN:\nCombat"
+  },
+  {
+    "key": "battlepass_remain_time-content",
+    "original": "残り {0}日 {1}時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り {0}日 {1}時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}일 {1}시간 남음\nEN:\n{0} days {1} hours left"
+  },
+  {
+    "key": "battlepass_ask_purchase_limbus_pass-content",
+    "original": "リンバスパス購入時、{0}の間\n以下の特典が提供されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバスパス購入時、{0}の間\n以下の特典が提供されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 패스 구매 시,\n{0} 기간 동안 다음과 같은 혜택이 제공됩니다.\nEN:\nPurchasing the Limbus Pass will give you the following benefits during {0}:"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_reward-content",
+    "original": "リンバスパス 報酬獲得可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバスパス 報酬獲得可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 패스 보상 획득 가능\nEN:\nLimbus Pass Rewards Available"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_reward-content",
+    "original": "パスレベル超過 報酬強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベル超過 報酬強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 초과 보상 강화\nEN:\nMax Pass Level Reward Upgraded"
+  },
+  {
+    "key": "battlepass_level_up-content",
+    "original": "パスレベルアップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベルアップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 업\nEN:\nPass Level-up"
+  },
+  {
+    "key": "battlepass_level_up_ask-content",
+    "original": "[有償狂気]を消耗し、パスをレベルアップしますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[有償狂気]を消耗し、パスをレベルアップしますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[유료 광기]를 소모하여 패스 레벨 업 하시겠습니까?\nEN:\nLevel up the Pass using [Paid Lunacy]?"
+  },
+  {
+    "key": "battlepass_level_upgrade-content",
+    "original": "パスレベル上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベル上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 상승\nEN:\nPass Level Up"
+  },
+  {
+    "key": "battlepass_level_max-content",
+    "original": "パス <color=#f8c200>最大レベル</color>達成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パス <color=#f8c200>最大レベル</color>達成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 &lt;color=#f8c200&gt;최대 레벨&lt;/color&gt; 달성\nEN:\n&lt;color=#f8c200&gt;Max Pass Level&lt;/color&gt; reached."
+  },
+  {
+    "key": "battlepass_purchase_level_up_failed-content",
+    "original": "パスレベル購入不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベル購入不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 구매 불가\nEN:\nCannot Purchase Pass Level"
+  },
+  {
+    "key": "lack_if_paid_lunacy-content",
+    "original": "有償狂気不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有償狂気不足\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유료 광기 부족\nEN:\nInsufficient Paid Lunacy"
+  },
+  {
+    "key": "remain_days_with_label-content",
+    "original": "残り {0}日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り {0}日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}일 남음\nEN:\n{0}d left"
+  },
+  {
+    "key": "remain_hours_with_label-content",
+    "original": "残り {0}時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り {0}時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}시간 남음\nEN:\n{0}h left"
+  },
+  {
+    "key": "remain_minutes_with_label-content",
+    "original": "残り {0}分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り {0}分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}분 남음\nEN:\n{0}m left"
+  },
+  {
+    "key": "update_progress-content",
+    "original": "進行度更新\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "進行度更新\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진행도 갱신\nEN:\nProgress Updated"
+  },
+  {
+    "key": "able_to_acquire_ex_pass_level_reward-content",
+    "original": "パスレベル超過報酬 受け取り可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベル超過報酬 受け取り可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 초과 보상 수령 가능\nEN:\nEligible for Max Pass Level rewards"
+  },
+  {
+    "key": "ask_to_use_paid_lunacy_to_level_up_pass-content",
+    "original": "有償狂気{0}つを消耗し、パスレベルを購入しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有償狂気{0}つを消耗し、パスレベルを購入しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유료 광기 {0}개를 소모하여 패스 레벨을 구매하시겠습니까?\nEN:\nSpend {0} Paid Lunacy to purchase Pass Levels?"
+  },
+  {
+    "key": "battlepass_purchase_level_up-content",
+    "original": "パスレベルを購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベルを購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 구매\nEN:\nBuy Pass Levels"
+  },
+  {
+    "key": "lack_of_paid_lunacy-content",
+    "original": "有償狂気が足りません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有償狂気が足りません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유료 광기가 부족합니다.\nEN:\nYou don’t have enough paid Lunacy."
+  },
+  {
+    "key": "only_paid_lunacy_for_battlepass_levelup-content",
+    "original": "※バトルパスレベルを購入時、有償狂気300を消耗します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※バトルパスレベルを購入時、有償狂気300を消耗します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※배틀 패스 레벨 구매 시, 유료 광기 300을 소모합니다.\nEN:\n※ Purchasing Battle Pass Levels costs 300 Paid Lunacy."
+  },
+  {
+    "key": "buy_battlepass_word-content",
+    "original": "購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매\nEN:\nBuy"
+  },
+  {
+    "key": "battlepass_level_ex_reward-content",
+    "original": "パスレベル超過報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベル超過報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 초과 보상\nEN:\nMax Pass Level Reward"
+  },
+  {
+    "key": "battlepass_progress-content",
+    "original": "パス経験値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パス経験値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 경험치\nEN:\nBattle Pass XP"
+  },
+  {
+    "key": "battlepass_free-content",
+    "original": "無償\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無償\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무료\nEN:\nFree"
+  },
+  {
+    "key": "battlepass_limbuspass-content",
+    "original": "リンバスパス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバスパス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스패스\nEN:\nLimbus Pass"
+  },
+  {
+    "key": "battlepass_unable_levelup_by_level-content",
+    "original": "最大レベル 到達\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大レベル 到達\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 레벨 도달\nEN:\nMax Level Reached"
+  },
+  {
+    "key": "battlepass_reward_opened_at-content",
+    "original": "{0} アップデート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0} アップデート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 업데이트\nEN:\n{0} Update"
+  },
+  {
+    "key": "battlepass_package_purchase-content",
+    "original": "<font=\"BebasKai SDF\">LIMBUS PASS</style>パッケージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<font=\"BebasKai SDF\">LIMBUS PASS</style>パッケージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;font=\"BebasKai SDF\"&gt;LIMBUS PASS&lt;/style&gt; 패키지\nEN:\n&lt;font=\"BebasKai SDF\"&gt;LIMBUS PASS&lt;/style&gt; Package"
+  },
+  {
+    "key": "battlepass_package_desc_level-content",
+    "original": "「リンバスパスパッケージ 特別バナー」を含む各種報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「リンバスパスパッケージ 特別バナー」を含む各種報酬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n「림버스 패키지 특별 배너」 포함 각종 보상\nEN:\nContains various rewards including the 「Limbus Pass Package Special Banner」"
+  },
+  {
+    "key": "battlepass_package_desc_banner-content",
+    "original": "+ [LIMBUS PASS] 贈呈\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "+ [LIMBUS PASS] 贈呈\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n+ [LIMBUS PASS] 증정\nEN:\n+ [LIMBUS PASS] Activation"
+  },
+  {
+    "key": "battlepass_package_ask_purchase-content",
+    "original": "有償狂気{0}を消耗し、パッケージを購入しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "有償狂気{0}を消耗し、パッケージを購入しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유료 광기 {0}를 소모하여 패키지를 구매하시겠습니까?\nEN:\nSpend {0} Paid Lunacy to purchase this Package?"
+  },
+  {
+    "key": "battlepass_package_warning-content",
+    "original": "※購入すると即時使用される商品です、請約撤回が制限される商品です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※購入すると即時使用される商品です、請約撤回が制限される商品です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 구매 즉시 사용되는 상품으로, 청약 철회가 제한되는 상품입니다.\nEN:\n※ This item will be immediately used upon purchase; refund may be restricted."
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_box_reward-content",
+    "original": "購入時、次のパスレベル超過報酬を獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入時、次のパスレベル超過報酬を獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매 시, 다음 패스 레벨 초과 보상 획득\nEN:\nReceive the following Max Pass Level EX Rewards upon purchase"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_box_reward_count-content",
+    "original": "<size=75%>(購入時、現在のパスレベル基準で\nシーズン{0} 自我の破片セレクトボックス<style=\"highlightConverted\">{1}</style>個獲得可能)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<size=75%>(購入時、現在のパスレベル基準で\nシーズン{0} 自我の破片セレクトボックス<style=\"highlightConverted\">{1}</style>個獲得可能)</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;size=75%&gt;(구매 시, 현재 패스 레벨 기준으로\n시즌 {0} 자아 파편 선택 상자 &lt;style=\"highlightConverted\"&gt;{1}&lt;/style&gt;개 획득 가능)&lt;/size&gt;\nEN:\n&lt;size=75%&gt;(At your Pass Level, you can obtain &lt;style=\"highlightConverted\"&gt;{1}&lt;/style&gt; Season {0} Nominable Egoshard Crates upon purchase)&lt;/size&gt;"
+  },
+  {
+    "key": "battlepass_select_product_popup_title-content",
+    "original": "パス/パッケージ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パス/パッケージ選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스/패키지 선택\nEN:\nSelect Pass/Package"
+  },
+  {
+    "key": "only_paid_lunacy_for_battlepass_levelup_with_number-content",
+    "original": "※パスレベル1購入時、有償狂気{0}消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※パスレベル1購入時、有償狂気{0}消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 패스 레벨 1 구매 시, 유료 광기 {0} 소모\nEN:\n※ Purchasing a Pass Level costs {0} Paid Lunacy."
+  },
+  {
+    "key": "battle_pass_package_button_desc-content",
+    "original": "特別バナー同梱\n各種報酬獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特別バナー同梱\n各種報酬獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특별 배너 포함\n각종 보상 획득\nEN:\nVarious Rewards\nIncluding the Special Banner"
+  },
+  {
+    "key": "battle_pass_select_popup_package_desc-content",
+    "original": "特別バナー同梱\n各種報酬獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特別バナー同梱\n各種報酬獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특별 배너 포함\n각종 보상 획득\nEN:\nVarious Rewards\nIncluding the Special Banner"
+  },
+  {
+    "key": "battle_pass_select_popup_limbus_desc-content",
+    "original": "◆ リンバスパス報酬 獲得可能\n◆ パスレベル超過報酬 強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ リンバスパス報酬 獲得可能\n◆ パスレベル超過報酬 強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 림버스 패스 보상 획득 가능\n◆ 패스 레벨 초과 보상 강화\nEN:\n◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards"
+  },
+  {
+    "key": "battle_pass_package_purchase_popup_desc-content",
+    "original": "◆ 購入するとパスレベルが即10増加します。\n◆ 以下のアイテムが含まれています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ 購入するとパスレベルが即10増加します。\n◆ 以下のアイテムが含まれています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 구매 즉시 패스 레벨이 10만큼 증가합니다.\n◆ 다음 구성품이 포함되어 있습니다.\nEN:\n◆ Gain 10 Pass Levels immediately upon purchase.\n◆ Includes the following contents."
+  },
+  {
+    "key": "battle_pass_limbus_purchase_popup_desc-content",
+    "original": "◆ リンバスパスに含まれる各種報酬を獲得できます。\n◆ パスレベル超過報酬で獲得できるシーズン3 自我の破片セレクトボックスの数量が1から3つに増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ リンバスパスに含まれる各種報酬を獲得できます。\n◆ パスレベル超過報酬で獲得できるシーズン3 自我の破片セレクトボックスの数量が1から3つに増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 림버스 패스에 포함된 각종 보상을 획득할 수 있습니다.\n◆ 패스 레벨 초과 보상으로 획득할 수 있는 시즌 3 자아 파편 선택 상자의 수량이 1개에서 3개로 증가합니다.\nEN:\n◆ Receive various rewards from the Limbus Pass.\n◆ Receive 3 [Season 3] Nominable Egoshard Crates instead of 1 from the Max Pass Level EX Rewards."
+  },
+  {
+    "key": "battle_pass_package_button_desc_with_limbus-content",
+    "original": "特別バナー同梱\n各種報酬獲得\n+ [LIMBUS PASS] 贈呈\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "特別バナー同梱\n各種報酬獲得\n+ [LIMBUS PASS] 贈呈\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특별 배너 포함\n각종 보상 획득\n+[LIMBUS PASS] 증정\nEN:\nVarious Rewards\nIncluding the Special Banner\n+ [LIMBUS PASS]"
+  },
+  {
+    "key": "battle_pass_package_purchase_popup_desc_in_box-content",
+    "original": "- リンバスパッケージ 特別バナー\n- 人格特殊強化チケット IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- リンバスパッケージ 特別バナー\n- 人格特殊強化チケット IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 림버스 패키지 특별 배너\n- 인격 특수 강화 티켓 IV\nEN:\n- Limbus Pass Package Special Banner\n- Level Boost Ticket IV"
+  },
+  {
+    "key": "until_season_4_start-content",
+    "original": "~ シーズン4アップデート前まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "~ シーズン4アップデート前まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n~ 시즌 4 업데이트 전까지\nEN:\n~ Until Season 4 Update"
+  },
+  {
+    "key": "until_season_5_start-content",
+    "original": "シーズン6アップデート前まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "シーズン6アップデート前まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시즌 6 업데이트 전까지\nEN:\nUntil Season 6 Update"
+  },
+  {
+    "key": "battlepass_ask_purchase_limbus_pass_package-content",
+    "original": "リンバスパスパッケージ購入時、\n{0}の間以下の特典が提供されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバスパスパッケージ購入時、\n{0}の間以下の特典が提供されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 패스 패키지 구매 시,\n{0} 기간 동안 다음과 같은 혜택이 제공됩니다.\nEN:\nPurchasing the Limbus Pass Package will\ngive you the following benefits during {0}:"
+  },
+  {
+    "key": "battlepass_purchase_desc_pass-content",
+    "original": "リンバスパスに含まれる各種報酬獲得可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバスパスに含まれる各種報酬獲得可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 패스에 포함된 각종 보상 획득 가능\nEN:\nVarious rewards included in the Limbus Pass"
+  },
+  {
+    "key": "battlepass_purchase_desc_ex-content",
+    "original": "パスレベル超過報酬で獲得できるシーズン6自我の破片セレクトボックスの数量が<style=\"highlightConverted\">{0}</style>個から<style=\"highlightConverted\">{1}</style>個に増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パスレベル超過報酬で獲得できるシーズン6自我の破片セレクトボックスの数量が<style=\"highlightConverted\">{0}</style>個から<style=\"highlightConverted\">{1}</style>個に増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패스 레벨 초과 보상으로 획득할 수 있는 시즌 6 자아 파편 선택 상자의 수량이 &lt;style=\"highlightConverted\"&gt;{0}&lt;/style&gt;개에서 &lt;style=\"highlightConverted\"&gt;{1}&lt;/style&gt;개로 증가\nEN:\nReceive &lt;style=\"highlightConverted\"&gt;{1}&lt;/style&gt; Season 6 Nominable Egoshard Crates from Max Pass Level+ Rewards instead of &lt;style=\"highlightConverted\"&gt;{0}&lt;/style&gt;"
+  },
+  {
+    "key": "battlepass_purchase_desc_pass_level-content",
+    "original": "購入で即時パスレベルが10増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "購入で即時パスレベルが10増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구매 즉시 패스 레벨 10 증가\nEN:\nImmediately gain 10 Pass Levels upon purchase"
+  },
+  {
+    "key": "battlepass_purchase_desc_level_ticket-content",
+    "original": "人格特殊強化チケットV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格特殊強化チケットV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 특수 강화 티켓 V\nEN:\nLevel Boost Ticket V"
+  },
+  {
+    "key": "battlepass_purchase_desc_special_banner-content",
+    "original": "リンバスパッケージ特別バナー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバスパッケージ特別バナー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 패키지 특별 배너\nEN:\nLimbus Pass Package Special Banner"
+  },
+  {
+    "key": "battlepass_purchase_desc_policy-content",
+    "original": "※ 購入すると即時使用される商品で、請約撤回が制限されます。\n\n※ バトルパスは[シーズン開始日から最低90日以上の期間]が保証されます。\nバトルパス利用終了日の正確な日付は、[次のシーズンを案内する告知が公開される時点]で、告知よりご案内いたします。\nバトルパスの購入日は利用可能日数に影響を与えませんので、この点に留意しつつ購入の際はお気を付けください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※ 購入すると即時使用される商品で、請約撤回が制限されます。\n\n※ バトルパスは[シーズン開始日から最低90日以上の期間]が保証されます。\nバトルパス利用終了日の正確な日付は、[次のシーズンを案内する告知が公開される時点]で、告知よりご案内いたします。\nバトルパスの購入日は利用可能日数に影響を与えませんので、この点に留意しつつ購入の際はお気を付けください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 구매 즉시 사용되는 상품으로, 청약 철회가 제한되는 상품입니다.\n\n※ 배틀 패스는 [시즌 시작일로부터 최소 90일 이상의 기간]이 보장됩니다.\n배틀 패스 이용 종료일의 정확한 날짜는 [다음 시즌을 안내하는 공지 사항이 공개되는 시점]에 공지 사항을 통해 안내해 드립니다.\n배틀 패스 구매 일자는 이용할 수 있는 일수에 영향을 주지 않으니, 이 점을 유의하여 구매 과정에서 반드시 참고해 주시길 바랍니다.\nEN:\n※ This item will be used immediately upon purchase; refund will be restricted.\n\n※ The Battle Pass is guaranteed to last [at least 90 days from the start of the Season].\nThe exact end date of the Battle Pass will be notified when the next [Guide for the upcoming Season] is posted.\nPlease note that your Battle Pass purchase date has no effect on the active duration of the Battle Pass."
+  },
+  {
+    "key": "owned_count-content",
+    "original": "所持 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "所持 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소지 {0}\nEN:\n{0} Owned"
+  },
+  {
+    "key": "battle_pass_package_button_desc_with_limbus_2-content",
+    "original": "◆ 購入時に即パスLV10上昇\n◆ 追加特別バナー進呈\n◆ 人格特殊強化チケットV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ 購入時に即パスLV10上昇\n◆ 追加特別バナー進呈\n◆ 人格特殊強化チケットV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 구매 즉시 패스 LV 10 상승\n◆ 추가 특별 배너 증정\n◆ 인격 특수 강화 티켓 V\nEN:\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Receive a Special Banner\n◆ Level Boost Ticket V"
+  },
+  {
+    "key": "battle_pass_product_limbus_desc_summary-content",
+    "original": "◆ リンバスパス報酬 獲得可能\n◆ パスレベル超過報酬 強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ リンバスパス報酬 獲得可能\n◆ パスレベル超過報酬 強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 림버스 패스 보상 획득 가능\n◆ 패스 레벨 초과 보상 강화\nEN:\n◆ Unlocks Limbus Pass Rewards\n◆ Upgrades Max Pass Level EX Rewards"
+  },
+  {
+    "key": "battle_pass_product_package_with_limbus_desc_summary-content",
+    "original": "◆ シーズン6 リンバスパス\n◆ 購入時にパスLV10 即時上昇\n◆ 人格特殊強化チケットV\n◆ リンバスパッケージ特別バナー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ シーズン6 リンバスパス\n◆ 購入時にパスLV10 即時上昇\n◆ 人格特殊強化チケットV\n◆ リンバスパッケージ特別バナー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 시즌 6 림버스 패스\n◆ 구매 즉시 패스 레벨 10 상승\n◆ 인격 특수 강화 티켓 V\n◆ 림버스 패키지 특별 배너\nEN:\n◆ Season 6 Limbus Pass\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Level Boost Ticket V\n◆ Limbus Package Special Banner"
+  },
+  {
+    "key": "battle_pass_product_package_without_limbus_desc_summary-content",
+    "original": "◆ 購入時にパスLV10 即時上昇\n◆ 人格特殊強化チケットV\n◆ リンバスパッケージ特別バナー2種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "◆ 購入時にパスLV10 即時上昇\n◆ 人格特殊強化チケットV\n◆ リンバスパッケージ特別バナー2種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n◆ 구매 즉시 패스 레벨 10 상승\n◆ 인격 특수 강화 티켓 V\n◆ 림버스 패키지 특별 배너 2종\nEN:\n◆ Immediately gain 10 Pass LV upon purchase\n◆ Level Boost Ticket V\n◆ Limbus Package Special Banner x2"
+  },
+  {
+    "key": "battle_pass_sale_10-content",
+    "original": "従来比10%割引\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "従来比10%割引\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기존 대비 10% 할인\nEN:\n10% Discount"
+  },
+  {
+    "key": "until_season_6_start-content",
+    "original": "- シーズン7アップデート前まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- シーズン7アップデート前まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 시즌 7 업데이트 전까지\nEN:\n- Until Season 7 Update"
+  }
+]

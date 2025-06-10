@@ -1,0 +1,1332 @@
+[
+  {
+    "key": "9012801-levelList[0].name",
+    "original": "違反者阻止\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違反者阻止\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위반자 저지\nEN:\nDeter Rulebreakers"
+  },
+  {
+    "key": "9012801-levelList[0].desc",
+    "original": "[WhenUse] 対象に[Laceration]があるなら、精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Laceration]があるなら、精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [Laceration]이 있다면, 정신력 4 회복\nEN:\n[WhenUse] If target has [Laceration], heal 4 SP"
+  },
+  {
+    "key": "9012801-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9012801-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9012802-levelList[0].name",
+    "original": "規約執行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規約執行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규약 집행\nEN:\nRule Execution"
+  },
+  {
+    "key": "9012802-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Laceration]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Laceration]이 5 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 5+ [Laceration], Coin Power +1"
+  },
+  {
+    "key": "9012802-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9012802-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9012802-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9012802-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9012803-levelList[0].name",
+    "original": "違反者執行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違反者執行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위반자 집행\nEN:\nExecute Rulebreakers"
+  },
+  {
+    "key": "9012803-levelList[0].desc",
+    "original": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음\nEN:\n[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9012803-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9012803-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9012803-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9012803-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9012804-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9012804-levelList[0].desc",
+    "original": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackDmgUp] 2 얻음\nEN:\nIf this unit has remaining Shield HP at Turn End, gain 2 [AttackDmgUp] next turn"
+  },
+  {
+    "key": "9012901-levelList[0].name",
+    "original": "違反者処理\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違反者処理\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위반자 처리\nEN:\nDispose Rulebreakers"
+  },
+  {
+    "key": "9012901-levelList[0].desc",
+    "original": "[WhenUse] 対象に[Laceration]があるなら、精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Laceration]があるなら、精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [Laceration]이 있다면, 정신력 4 회복\nEN:\n[WhenUse] If target has [Laceration], heal 4 SP"
+  },
+  {
+    "key": "9012901-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9012901-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9012902-levelList[0].name",
+    "original": "規約履行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規約履行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규약 이행\nEN:\nRule Fulfillment"
+  },
+  {
+    "key": "9012902-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Laceration]回数が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Laceration]回数が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Laceration] 횟수가 4 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 4+ [Laceration] Count, Coin Power +1"
+  },
+  {
+    "key": "9012902-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9012902-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9012902-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9012902-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9012903-levelList[0].name",
+    "original": "違反者処罰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違反者処罰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위반자 처벌\nEN:\nPunish Rulebreakers"
+  },
+  {
+    "key": "9012903-levelList[0].desc",
+    "original": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음\nEN:\n[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9012903-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 4+ [Laceration] Count, deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9012903-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9012903-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 4+ [Laceration] Count, deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9012903-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9012904-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9012904-levelList[0].desc",
+    "original": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackDmgUp] 2 얻음\nEN:\nIf this unit has remaining Shield HP at Turn End, gain 2 [AttackDmgUp] next turn"
+  },
+  {
+    "key": "9013001-levelList[0].name",
+    "original": "処断執行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "処断執行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처단 집행\nEN:\nPunishment Execution"
+  },
+  {
+    "key": "9013001-levelList[0].desc",
+    "original": "[WinDuel] 対象の[Laceration]が5以上なら、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象の[Laceration]が5以上なら、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상의 [Laceration]이 5 이상이면, 이 스킬 재사용 (최대 1)\nEN:\n[WinDuel] If target has 5+ [Laceration], reuse this Skill (once)"
+  },
+  {
+    "key": "9013001-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
+  },
+  {
+    "key": "9013002-levelList[0].name",
+    "original": "違反者処断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違反者処断\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위반자 처단\nEN:\nDiscipline Rulebreakers"
+  },
+  {
+    "key": "9013002-levelList[0].desc",
+    "original": "対象の[Laceration]が5以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が5以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 5 이상이면, 피해량 +30%\nEN:\nIf target has 5+ [Laceration], deal +30% damage"
+  },
+  {
+    "key": "9013002-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があるなら、次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があるなら、次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 다음 턴에 [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] If target has [Laceration], Inflict 2 [AttackDown] next turn"
+  },
+  {
+    "key": "9013002-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9013002-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] (対象の[Laceration] ÷ 2)だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (対象の[Laceration] ÷ 2)だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] (대상의 [Laceration] / 2)만큼 [Burst] 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] equal to ([Laceration]/2) on target"
+  },
+  {
+    "key": "9013002-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を7回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を7回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 7 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 7 SP"
+  },
+  {
+    "key": "9013003-levelList[0].name",
+    "original": "違反事項\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違反事項\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위반 사항\nEN:\nViolated Clause"
+  },
+  {
+    "key": "9013003-levelList[0].desc",
+    "original": "対象の[Laceration]3につき、コイン威力 +1(最大3)\n[WinDuel] 対象の[Laceration]が6以上なら、ダメージ量 +40%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]3につき、コイン威力 +1(最大3)\n[WinDuel] 対象の[Laceration]が6以上なら、ダメージ量 +40%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration] 3당 코인 위력 +1 (최대 3)\n[WinDuel] 대상의 [Laceration]이 6 이상이면, 피해량 +40%\nEN:\nCoin Power +1 for every 3 [Laceration] on target (max 3)\n[WinDuel] If target has 6+ [Laceration], deal +40% damage"
+  },
+  {
+    "key": "9013003-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Laceration]"
+  },
+  {
+    "key": "9013003-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9013003-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 [Burst] 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+  },
+  {
+    "key": "9013003-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 10 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 10 SP"
+  },
+  {
+    "key": "9013003-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttackHead] 対象の[Laceration]が5以上なら、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 対象の[Laceration]が5以上なら、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 대상의 [Laceration]이 5 이상이면, 이 스킬 재사용 (최대 1)\nEN:\n[OnSucceedAttackHead] If target has 5+ [Laceration], reuse this Skill (once)"
+  },
+  {
+    "key": "9013004-levelList[0].name",
+    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피\nEN:\nEvade"
+  },
+  {
+    "key": "9013004-levelList[0].desc",
+    "original": "[OnSucceedEvade] [Enhancement]1を得る(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] [Enhancement]1を得る(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedEvade] [Enhancement] 1 얻음 (최대 1)\nEN:\n[OnSucceedEvade] Gain [Enhancement] (max 1)"
+  },
+  {
+    "key": "9013101-levelList[0].name",
+    "original": "スケッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スケッチ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스케치\nEN:\nSketch"
+  },
+  {
+    "key": "9013101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9013101-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9013101-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9013102-levelList[0].name",
+    "original": "筆を走らせる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "筆を走らせる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n붓 긋기\nEN:\nBrushstroke"
+  },
+  {
+    "key": "9013102-levelList[0].desc",
+    "original": "対象の[Laceration]が5以上なら、基本威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が5以上なら、基本威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 5 이상이면, 기본 위력 +2\nEN:\nIf target has 5+ [Laceration], Base Power +2"
+  },
+  {
+    "key": "9013102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9013102-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9013102-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9013102-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9013102-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 [Burst] 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+  },
+  {
+    "key": "9013103-levelList[0].name",
+    "original": "血描画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血描画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈묘화\nEN:\nSanguine Dots"
+  },
+  {
+    "key": "9013103-levelList[0].desc",
+    "original": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음\nEN:\n[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9013103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9013103-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9013103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9013103-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9013103-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 이 코인 재사용 (최대 1회)\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], reuse this Skill (1 time max)"
+  },
+  {
+    "key": "9013103-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013104-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9013104-levelList[0].desc",
+    "original": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackDmgUp] 3 얻음\nEN:\nIf this unit has remaining Shield HP at Turn End, gain 3 [AttackDmgUp] next turn"
+  },
+  {
+    "key": "9013201-levelList[0].name",
+    "original": "線画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "線画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선화\nEN:\nLine Art"
+  },
+  {
+    "key": "9013201-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9013201-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9013201-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9013202-levelList[0].name",
+    "original": "線を引く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "線を引く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선 긋기\nEN:\nStroke"
+  },
+  {
+    "key": "9013202-levelList[0].desc",
+    "original": "対象の[Laceration]が5以上なら、基本威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が5以上なら、基本威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 5 이상이면, 기본 위력 +2\nEN:\nIf target has 5+ [Laceration], Base Power +2"
+  },
+  {
+    "key": "9013202-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9013202-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9013202-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
+  },
+  {
+    "key": "9013202-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があれば、精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 정신력 5 회복\nEN:\n[OnSucceedAttack] If target has [Laceration], heal 5 SP"
+  },
+  {
+    "key": "9013202-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 [Burst] 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+  },
+  {
+    "key": "9013203-levelList[0].name",
+    "original": "血点画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血点画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈점화\nEN:\nSanguine Points"
+  },
+  {
+    "key": "9013203-levelList[0].desc",
+    "original": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음\nEN:\n[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9013203-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 4+ [Laceration] Count, deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9013203-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9013203-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、ダメージ量の20%だけ追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 피해량의 20%만큼 추가 피해\nEN:\n[OnSucceedAttack] If target has 4+ [Laceration] Count, deal 20% of damage dealt as bonus damage"
+  },
+  {
+    "key": "9013203-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown]"
+  },
+  {
+    "key": "9013203-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数が4以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수가 4 이상이면, 이 코인 재사용 (최대 1회)\nEN:\n[OnSucceedAttack] If target has 4+ [Laceration] Count, reuse this Skill (1 time max)"
+  },
+  {
+    "key": "9013203-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013204-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9013204-levelList[0].desc",
+    "original": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時にバリアが残っているなら、次のターンに[AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 보호막 체력이 남아있다면, 다음 턴에 [AttackDmgUp] 3 얻음\nEN:\nIf this unit has remaining Shield HP at Turn End, gain 3 [AttackDmgUp] next turn"
+  },
+  {
+    "key": "9013301-levelList[0].name",
+    "original": "彩色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "彩色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n채색\nEN:\nColoring"
+  },
+  {
+    "key": "9013301-levelList[0].desc",
+    "original": "[WinDuel] 対象の[Laceration]が5以上なら、攻撃終了後にランダムな敵へこのスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象の[Laceration]が5以上なら、攻撃終了後にランダムな敵へこのスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상의 [Laceration]이 5 이상이면, 공격 종료 후 무작위 적에게 이 스킬 재사용 (최대 1)\nEN:\n[WinDuel] If target has 5+ [Laceration], reuse this Skill on a random enemy After Attack (once)"
+  },
+  {
+    "key": "9013301-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9013301-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9013301-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 4 증가\nEN:\n[OnSucceedAttack] Inflict +4 [Laceration] Count"
+  },
+  {
+    "key": "9013302-levelList[0].name",
+    "original": "血点描画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血点描画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈점묘화\nEN:\nSanguine Pointillism"
+  },
+  {
+    "key": "9013302-levelList[0].desc",
+    "original": "対象の[Laceration]が5以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]が5以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration]이 5 이상이면, 피해량 +30%\nEN:\nIf target has 5+ [Laceration], deal +30% damage"
+  },
+  {
+    "key": "9013302-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Laceration]があるなら、次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Laceration]があるなら、次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration]이 있다면, 다음 턴에 [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] If target has [Laceration], Inflict 2 [AttackDown] next turn"
+  },
+  {
+    "key": "9013302-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9013302-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDown] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [AttackDown] next turn"
+  },
+  {
+    "key": "9013302-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "9013302-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 [Burst] 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+  },
+  {
+    "key": "9013303-levelList[0].name",
+    "original": "描画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "描画\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묘화\nEN:\nPointillism"
+  },
+  {
+    "key": "9013303-levelList[0].desc",
+    "original": "対象の[Laceration]3につき、コイン威力 +1(最大4)\n[WinDuel] 対象の[Laceration]が6以上なら、ダメージ量 +40%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Laceration]3につき、コイン威力 +1(最大4)\n[WinDuel] 対象の[Laceration]が6以上なら、ダメージ量 +40%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Laceration] 3당 코인 위력 +1 (최대 4)\n[WinDuel] 대상의 [Laceration]이 6 이상이면, 피해량 +40%\nEN:\nCoin Power +1 for every 3 [Laceration] on target (max 4)\n[WinDuel] If target has 6+ [Laceration], deal +40% damage"
+  },
+  {
+    "key": "9013303-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 10 부여\nEN:\n[OnSucceedAttack] Inflict 10 [Laceration]"
+  },
+  {
+    "key": "9013303-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数だけ[Burst]回数付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数だけ[Burst]回数付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수만큼 [Burst] 횟수 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] Count equal to [Laceration] Count on target"
+  },
+  {
+    "key": "9013303-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ[Burst]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 [Burst] 부여\nEN:\n[OnSucceedAttack] Inflict [Burst] equal to [Laceration] on target"
+  },
+  {
+    "key": "9013304-levelList[0].name",
+    "original": "血雫花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血雫花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n핏방울꽃\nEN:\nBloody of the Valley"
+  },
+  {
+    "key": "9013304-levelList[0].desc",
+    "original": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n[WinDuel] 対象の[Laceration]が10以上なら、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象に[Laceration]があれば、次のターンに[Enhancement]を1得る\n[WinDuel] 対象の[Laceration]が10以上なら、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상에게 [Laceration]이 있다면, 다음 턴에 [Enhancement]를 1 얻음\n[WinDuel] 대상의 [Laceration]이 10 이상이면, 다음 턴에 [Enhancement]를 1 얻음\nEN:\n[WinDuel] If target has [Laceration], gain 1 [Enhancement] next turn\n[WinDuel] If target has 10+ [Laceration], gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9013304-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013304-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013304-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、このコインを再使用(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、このコインを再使用(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5 이상이면, 이 코인 재사용 (최대 3회)\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], reuse this Skill (3 times max)"
+  },
+  {
+    "key": "9013304-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Laceration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Reduce [Laceration] Count on target by 1"
+  },
+  {
+    "key": "9013304-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttackHead] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013305-levelList[0].name",
+    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피\nEN:\nEvade"
+  },
+  {
+    "key": "9013305-levelList[0].desc",
+    "original": "[OnSucceedEvade] [Enhancement]1を得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] [Enhancement]1を得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedEvade] [Enhancement] 1 얻음 (최대 2)\nEN:\n[OnSucceedEvade] Gain [Enhancement] (max 2)"
+  },
+  {
+    "key": "9013501-levelList[0].name",
+    "original": "基本攻撃1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 1\nEN:\nNormal Attack 1"
+  },
+  {
+    "key": "9013501-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDown] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [AttackDown] next turn"
+  },
+  {
+    "key": "9013501-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDown] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [AttackDown] next turn"
+  },
+  {
+    "key": "9013501-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Paralysis] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [Paralysis]"
+  },
+  {
+    "key": "9013502-levelList[0].name",
+    "original": "基本攻撃2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 2\nEN:\nNormal Attack 2"
+  },
+  {
+    "key": "9013502-levelList[0].desc",
+    "original": "[WhenUse] 対象に[AttackDown]がある場合、ダメージ量+20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[AttackDown]がある場合、ダメージ量+20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [AttackDown]이 있다면, 피해량 +20%\nEN:\n[WhenUse] If target has [AttackDown], deal +20% damage"
+  },
+  {
+    "key": "9013502-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [HitResistDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [HitResistDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [HitResistDown] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [HitResistDown]"
+  },
+  {
+    "key": "9013502-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [HitResistDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [HitResistDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [HitResistDown] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [HitResistDown]"
+  },
+  {
+    "key": "9013502-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[HitResistDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[HitResistDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [HitResistDown] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [DefenseDown] next turn"
+  },
+  {
+    "key": "9013503-levelList[0].name",
+    "original": "基本攻撃3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 3\nEN:\nNormal Attack 3"
+  },
+  {
+    "key": "9013503-levelList[0].desc",
+    "original": "[WhenUse] 対象の[AttackDown]が2以上なら、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[AttackDown]が2以上なら、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [AttackDown]가 2 이상이면, 합위력 +1\nEN:\n[WhenUse] If target has 2+ [AttackDown], Clash Power +1"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable]"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Binding] next turn"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
+  },
+  {
+    "key": "9013503-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [DefenseDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [DefenseDown]"
+  },
+  {
+    "key": "9013504-levelList[0].name",
+    "original": "基本攻撃4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 4\nEN:\nNormal Attack 4"
+  },
+  {
+    "key": "9013504-levelList[0].desc",
+    "original": "マイナス効果が最も多い対象を優先して攻撃\n[WhenUse] 対象の[DefenseDown]3につき、マッチ威力 +1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マイナス効果が最も多い対象を優先して攻撃\n[WhenUse] 対象の[DefenseDown]3につき、マッチ威力 +1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부정적인 효과가 가장 많은 대상 우선 공격\n[WhenUse] 대상의 [DefenseDown] 3당 합 위력 +1 (최대 3)\nEN:\nPrioritizes targets with the most negative effects\n[WhenUse] Clash Power +1 for every 3 [DefenseDown] on target (max 3)"
+  },
+  {
+    "key": "9013504-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable]"
+  },
+  {
+    "key": "9013504-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+  },
+  {
+    "key": "9013504-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+  },
+  {
+    "key": "9013504-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +20%(最大100%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +20%(最大100%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [AttackDown] 2당 +20% (최대 100%)\nEN:\n[OnSucceedAttack] Deal +20% damage for every 2 [AttackDown] on target (max 100%)"
+  },
+  {
+    "key": "9013504-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (최대 1회)\nEN:\n[OnSucceedAttackHead] If target has 3+ negative effects, reuse this coin (1 time max)"
+  },
+  {
+    "key": "9013505-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "9013505-levelList[0].desc",
+    "original": "対象に[Vulnerable]があれば、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[Vulnerable]があれば、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 [Vulnerable]이 있다면, 기본 위력 +1\nEN:\nIf target has [Vulnerable], Base Power +1"
+  },
+  {
+    "key": "9101501-levelList[0].name",
+    "original": "雑魚どもが！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "雑魚どもが！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잡배놈들이!\nEN:\nDamn Plebs...!"
+  },
+  {
+    "key": "9101501-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] next turn"
+  },
+  {
+    "key": "9101501-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] next turn"
+  },
+  {
+    "key": "9101502-levelList[0].name",
+    "original": "片付けてやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "片付けてやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n치워주마\nEN:\nI'll Remove You"
+  },
+  {
+    "key": "9101502-levelList[0].desc",
+    "original": "[WinDuel] 基本威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 基本威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 기본 위력 +1\nEN:\n[WinDuel] Base Power +1"
+  },
+  {
+    "key": "9101502-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘\nEN:\n[OnSucceedAttack] If target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage"
+  },
+  {
+    "key": "9101502-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘\nEN:\n[OnSucceedAttack] If target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage"
+  },
+  {
+    "key": "9101503-levelList[0].name",
+    "original": "ボタンを直すぞ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ボタンを直すぞ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단추를 맞춰야해\nEN:\nMake Things Right Again"
+  },
+  {
+    "key": "9101503-levelList[0].desc",
+    "original": "[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[AttackDown]があるなら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[AttackDown]があるなら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 대상의 [AttackDown]가 2 이상이면, 기본 위력 +1\n[WhenUse] 대상에게 [AttackDown]이 있다면, 피해량 +30%\nEN:\n[WinDuel] If target has 2+ [AttackDown], Base Power +1\n[WhenUse] If target has [AttackDown], deal +30% damage"
+  },
+  {
+    "key": "9101503-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
+  },
+  {
+    "key": "9101503-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
+  },
+  {
+    "key": "9101503-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
+  },
+  {
+    "key": "9101504-levelList[0].name",
+    "original": "潰してやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "潰してやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뭉개주마\nEN:\nGet Crushed"
+  },
+  {
+    "key": "9101504-levelList[0].desc",
+    "original": "マイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[AttackDown]3につき、コイン威力 +1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[AttackDown]3につき、コイン威力 +1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부정적인 효과가 가장 많은 대상 우선 공격\n[WinDuel] 대상의 [AttackDown] 3당 코인 위력 +1 (최대 3)\nEN:\nPrioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [AttackDown] on target (max 3)"
+  },
+  {
+    "key": "9101504-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable]"
+  },
+  {
+    "key": "9101504-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+  },
+  {
+    "key": "9101504-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+  },
+  {
+    "key": "9101504-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [AttackDown] 2당 +30% (최대 120%)\nEN:\n[OnSucceedAttack] Deal +30% damage for every 2 [AttackDown] on target (max 120%)"
+  },
+  {
+    "key": "9101504-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (최대 1회)\nEN:\n[OnSucceedAttackHead] If target has 3+ negative effects, reuse this coin (1 time max)"
+  },
+  {
+    "key": "9101505-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9101505-levelList[0].desc",
+    "original": "[StartBattle] 自分を除く生存している味方1名につき、バリアを20を追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分を除く生存している味方1名につき、バリアを20を追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 자신을 제외한 살아있는 아군 수당 보호막 체력 20을 추가로 얻음.\nEN:\n[StartBattle] Gain 20 additional Shield HP for every surviving other ally"
+  },
+  {
+    "key": "9101601-levelList[0].name",
+    "original": "バットで殴る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バットで殴る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배트치기\nEN:\nBat Bash"
+  },
+  {
+    "key": "9101601-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Burst] Count"
+  },
+  {
+    "key": "9101601-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "9101602-levelList[0].name",
+    "original": "打ち落とす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打ち落とす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내려박기\nEN:\nSmackdown"
+  },
+  {
+    "key": "9101602-levelList[0].desc",
+    "original": "[WinDuel] 次のターンに[Enhancement]、ダメージ量増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WinDuel] 次のターンに[Enhancement]、ダメージ量増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WinDuel] 다음 턴에 [Enhancement], 피해량 증가 1 얻음\nEN:\n[WinDuel] Gain 1 [Enhancement] and 1 Damage Up next turn"
+  },
+  {
+    "key": "9101602-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Burst] Count"
+  },
+  {
+    "key": "9101602-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "9101602-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "9101602-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Burst]만큼 [Laceration] 부여\nEN:\n[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target"
+  },
+  {
+    "key": "9101603-levelList[0].name",
+    "original": "腹いせ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腹いせ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분풀기\nEN:\nUpheaval"
+  },
+  {
+    "key": "9101603-levelList[0].desc",
+    "original": "対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Burst]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Burst] 횟수 3 증가\nEN:\nIf target has 5+ [Burst], Clash Power +1\nIf target has 5+ [Laceration], Clash Power +1\n[WinDuel] Inflict +3 [Burst] Count"
+  },
+  {
+    "key": "9101603-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のコイン威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のコイン威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 코인 위력 +1\nEN:\n[OnSucceedAttackHead] Next Coin has +1 Power"
+  },
+  {
+    "key": "9101603-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のコイン威力+2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のコイン威力+2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 코인 위력 +2\nEN:\n[OnSucceedAttackHead] Next Coin has +2 Power"
+  },
+  {
+    "key": "9101603-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
+  },
+  {
+    "key": "9101603-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] (対象の[Laceration] × [Laceration]回数)だけ、貫通属性ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (対象の[Laceration] × [Laceration]回数)だけ、貫通属性ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] (대상의 [Laceration] X [Laceration] 횟수)만큼 관통 속성 피해를 입힘\nEN:\n[OnSucceedAttack] Inflict bonus Pierce damage equal to ([Laceration] x [Laceration] Count)"
+  },
+  {
+    "key": "9101604-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "9101604-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Enhancement] 1 얻음\nEN:\n[WhenUse] Gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9101605-levelList[0].name",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "9101605-levelList[0].desc",
+    "original": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 [Enhancement] 1 얻음\nEN:\n[WhenUse] Gain 1 [Enhancement] next turn"
+  }
+]

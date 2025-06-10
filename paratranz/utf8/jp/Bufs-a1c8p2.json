@@ -1,0 +1,422 @@
+[
+  {
+    "key": "ExaminationOfQiu-name",
+    "original": "一抹の期待\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一抹の期待\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일말의 기대\nEN:\nA Sliver of Anticipation"
+  },
+  {
+    "key": "ExaminationOfQiu-desc",
+    "original": "全力で戦っていない。\n- 基本攻撃・防御レベルが35減少\n- 対象へ一方攻撃時、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全力で戦っていない。\n- 基本攻撃・防御レベルが35減少\n- 対象へ一方攻撃時、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전력으로 싸우고 있지 않다.\n- 기본 공격 레벨 35 감소, 기본 방어 레벨 35 감소\n- 대상에게 일방 공격 시 피해량 +30%\nEN:\nHe's not giving it his all.\n- Lose 35 Base Offense Level, Lose 35 Base Defense Level\n- Deal +30% damage with Unopposed Attacks"
+  },
+  {
+    "key": "BurstStop-name",
+    "original": "呪殺【勿動】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪殺【勿動】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주살【물동】\nEN:\nDeathrite 【Halt】"
+  },
+  {
+    "key": "BurstStop-desc",
+    "original": "- 基本値 : 4\n- 呪殺\n- 束縛 が3以上ある状態で破裂が発動するとき、1減少\n- 数値減少時、10だけ混乱区間を前進\n- 数値が0になるとき、破裂 威力だけ混乱区間を前進して消滅\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本値 : 4\n- 呪殺\n- 束縛 が3以上ある状態で破裂が発動するとき、1減少\n- 数値減少時、10だけ混乱区間を前進\n- 数値が0になるとき、破裂 威力だけ混乱区間を前進して消滅\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본값: 4\n- 주살\n- 속박이 3 이상 있는 상태에서 파열이 발동될 때, 1 감소.\n- 수치 감소 시 10만큼 흐트러짐 손상\n- 수치가 0이 될 때, 파열 위력만큼 흐트러짐 손상. 소멸함\n- ※ 이 효과는 갱신되지 않음.\nEN:\nBase Stack: 4\n- Deathrite\n- When getting Rupture triggered while this unit has 3+ Bind, lose 1 Stack\n- When losing Stacks, raise this unit's Stagger Threshold by 10\n- At 0 Stack, raise this unit's Stagger Threshold by Rupture Potency on self, then expires\n- ※ Cannot gain additional Stacks of this effect while it is already active"
+  },
+  {
+    "key": "BurstSuppress-name",
+    "original": "呪殺【掣肘】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪殺【掣肘】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주살【철주】\nEN:\nDeathrite 【Impede】"
+  },
+  {
+    "key": "BurstSuppress-desc",
+    "original": "基本値: 10\n- 呪殺\n- 他の呪殺が条件によって減少するとき、数値が1減少 (1ターンにつき最大4)\n- 数値が0になるとき、次のターンの間攻撃レベル減少6を得て消滅する\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本値: 10\n- 呪殺\n- 他の呪殺が条件によって減少するとき、数値が1減少 (1ターンにつき最大4)\n- 数値が0になるとき、次のターンの間攻撃レベル減少6を得て消滅する\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본값: 10\n- 주살\n- 다른 주살이 조건에 의해 감소할 때, 수치 1 감소. (턴 당 최대 4)\n- 수치가 0이 될 때, 다음 턴동안 공격 레벨 감소 6 얻음. 소멸함\n- ※ 이 효과는 갱신되지 않음.\nEN:\nBase Stack: 10\n- Deathrite\n- When this unit loses other Deathrites' Stacks due to their conditions, lose 1 Stack (max 4 per turn)\n- At 0 Stack, gain 6 Offense Level Down for the next turn, then expires\n- ※ Cannot gain additional Stacks of this effect while it is already active"
+  },
+  {
+    "key": "BurstWave-name",
+    "original": "呪殺【即減】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪殺【即減】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주살【즉감】\nEN:\nDeathrite 【Wane】"
+  },
+  {
+    "key": "BurstWave-desc",
+    "original": "基本値: 10\n- 呪殺\n付与者によって破裂が発動するとき、1減少。\n- 該当効果を除いた自分が持っている呪殺のうち、ランダムに1つの数値が1を減少する。\n- 数値が0になるとき、消滅する\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本値: 10\n- 呪殺\n付与者によって破裂が発動するとき、1減少。\n- 該当効果を除いた自分が持っている呪殺のうち、ランダムに1つの数値が1減少する。\n- 数値が0になるとき、消滅する\n- ※この効果は更新されない\n<CMT_KR>오식: \"- 該当効果を除いた自分が持っている呪殺のうち、ランダムに1つの数値が1「を」減少する。\" 정확: \"ランダムに1つの数値が1「」減少する。\"\n<CMT_EN>Typo: \"- 該当効果を除いた自分が持っている呪殺のうち、ランダムに1つの数値が1「を」減少する。\" Correction: \"ランダムに1つの数値が1「」減少する。\"\n<CMT_JP>誤植: \"- 該当効果を除いた自分が持っている呪殺のうち、ランダムに1つの数値が1「を」減少する。\" 訂正後: \"ランダムに1つの数値が1「」減少する。\"",
+    "stage": 1,
+    "context": "KR:\n기본값: 10\n- 주살\n부여자에 의해 파열이 발동될 때, 1 감소.\n- 해당 효과를 제외한 자신이 가지고 있는 주살 중 무작위 1개의 수치가 1 감소함.\n- 수치가 0이 될 때, 소멸함\n- ※ 이 효과는 갱신되지 않음.\nEN:\nBase Stack: 10\n- Deathrite\nWhen the unit that inflicted this effect triggers Rupture, lose 1 Stack\n- Also lose 1 Stack of a random Deathrite on self, except for this Deathrite\n- At 0 Stack, expires\n- ※ Cannot gain additional Stacks of this effect while it is already active"
+  },
+  {
+    "key": "Teaching-name",
+    "original": "問答\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "問答\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n문답\nEN:\nDialogues"
+  },
+  {
+    "key": "Teaching-desc",
+    "original": "最大値: 3\n- ターン終了時、精神力を5回復\n- 戦闘中に体力が0になるとき、体力を全快(数値だけ発動)\n- 発動回数: {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大値: 3\n- ターン終了時、精神力を5回復\n- 戦闘中に体力が0になるとき、体力を全快(数値だけ発動)\n- 発動回数: {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최댓값: 3\n- 턴 종료시, 정신력 5 회복\n- 전투 중 체력이 0이 될 때 체력을 최대 체력만큼 회복함 (수치만큼 발동)\n- 발동 횟수: {0}\nEN:\nMax Stack: 3\n- Turn End: heal 5 SP\n- When HP drops to 0 during the Encounter, heal up to max HP (activates as many times as this unit has Stacks)\n- Activated: {0} time(s)"
+  },
+  {
+    "key": "BurstWeakness-name",
+    "original": "呪殺【弱化】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪殺【弱化】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주살【약화】\nEN:\nDeathrite 【Enfeeble】"
+  },
+  {
+    "key": "BurstWeakness-desc",
+    "original": "基本値: 5\n- 呪殺\n- 対象の速度が高く、速度差が5以上のとき、被ダメージ時の破裂 が発動するときに1減少。\n- 数値減少時、次のターンに防御レベル減少1を得る (1ターンにつき最大1)\n- 数値が0になるとき、次のターンに防御レベル減少3, 束縛1を得て消滅\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本値: 5\n- 呪殺\n- 対象の速度が高く、速度差が5以上のとき、被ダメージ時の破裂 が発動するときに1減少。\n- 数値減少時、次のターンに防御レベル減少1を得る (1ターンにつき最大1)\n- 数値が0になるとき、次のターンに防御レベル減少3, 束縛1を得て消滅\n- ※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본값: 5\n- 주살\n- 대상의 속도가 빠르고, 속도 차이가 5 이상일 때, 피격 시 파열이 발동될 때, 1 감소.\n- 수치 감소 시 다음 턴에 방어 레벨 감소 1 을 얻음 (턴 당 최대 1)\n- 수치가 0이 될 때, 다음 턴 방어 레벨 감소 3, 속박 1을 얻고 소멸\n- ※ 이 효과는 갱신되지 않음.\nEN:\nBase Stack: 5\n- Deathrite\n- If the target's Speed is faster than this unit's, and if the Speed difference 5 or greater: when getting Rupture triggered, lose 1 Stack\n- When losing Stacks, gain 1 Defense Level Down next turn (once per turn)\n- At 0 Stack, gain 3 Defense Level Down and 1 Bind next turn, then expires\n- ※ Cannot gain additional Stacks of this effect while it is already active"
+  },
+  {
+    "key": "Qiu_LowMorale-name",
+    "original": "ジア・チォウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ジア・チォウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가치우\nEN:\nJia Qiu"
+  },
+  {
+    "key": "Qiu_LowMorale-desc",
+    "original": "- 士気低下\n- ホンルを除く対象への与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ホンルを除く対象への与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기저하\n- 홍루를 제외한 대상에게 가하는 피해량 +10%\nEN:\n- Low Morale\n- Deal +10% damage against targets that aren't Hong Lu"
+  },
+  {
+    "key": "Qiu_Panic-name",
+    "original": "ジア・チォウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ジア・チォウ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가치우\nEN:\nJia Qiu"
+  },
+  {
+    "key": "Qiu_Panic-desc",
+    "original": "- パニック\n- ホンルを除く対象への与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- ホンルを除く対象への与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 홍루를 제외한 대상에게 가하는 피해량 +20%\nEN:\n- Panic\n- Deal +20% damage against targets that aren't Hong Lu"
+  },
+  {
+    "key": "QiuAndHonglu-name",
+    "original": "僕の本当の心…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕の本当の心…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나의 진짜 마음…\nEN:\nMy True Heart..."
+  },
+  {
+    "key": "QiuAndHonglu-desc",
+    "original": "- ホンルの全スキル最終威力 +1\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復(自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加 1を得る(1ターンに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- ホンルの全スキル最終威力 +1\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復(自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加 1を得る(1ターンに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 홍루의 모든 스킬의 최종 위력 +1\n- 합 승리 시, 정신력이 가장 낮은 아군 정신력 5 회복 (자신 포함)\n- 아군이 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 공격 위력 증가 1을 얻음 (턴 당 1회)\nEN:\n- Hong Lu's Skills gain +1 Final Power\n- On Clash Win, 1 ally(including this unit) with the least SP heals 5 SP\n- When an ally dies, remaining allies at Turn End gain 1 Offense Level Up next turn (once per turn)"
+  },
+  {
+    "key": "ProtectStance-name",
+    "original": "保護態勢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保護態勢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보호 태세\nEN:\nProtective Stance"
+  },
+  {
+    "key": "ProtectStance-desc",
+    "original": "最大値 : 2\nこの効果は合算されず、更新される\nターン終了時に1減少\nこの効果を得たなら、次のターンに下記の効果を適用\n- 保護2を得る\n- 自分の各スロットの挑発値が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大値 : 2\nこの効果は合算されず、更新される\nターン終了時に1減少\nこの効果を得たなら、次のターンに下記の効果を適用\n- 保護2を得る\n- 自分の各スロットの挑発値が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최댓값 : 2\n이 효과는 합산되지 않고, 갱신됨\n턴 종료 시 1 감소\n이 효과를 얻으면 다음 턴에 아래 효과 적용\n- 보호 2 얻음\n- 자신의 각 슬롯 도발치 5 증가\nEN:\nMax Stack: 2\nThis effect does not compound in potency; stacking it only extends its duration\nReduced by 1 at Turn End\nWhen a unit gains this effect, gain the following effects next turn:\n- Gain 2 Protection\n- Gain 5 Aggro to each of this unit's Slots"
+  },
+  {
+    "key": "ZiluDebuff-name",
+    "original": "殺気抑制\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "殺気抑制\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살기 억제\nEN:\nBloodthirst Suppressed"
+  },
+  {
+    "key": "ZiluDebuff-desc",
+    "original": "- 基本攻撃・防御レベルが20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本攻撃・防御レベルが20減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본 공격 레벨 20 감소, 기본 방어 레벨 20 감소\nEN:\n- Lose 20 Base Offense Level, Lose 20 Base Defense Level"
+  },
+  {
+    "key": "WitheredWood_LowMorale-name",
+    "original": "古木化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "古木化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고목화\nEN:\nEldtree Mutation"
+  },
+  {
+    "key": "WitheredWood_LowMorale-desc",
+    "original": "- 士気低下\n- ダメージ量増加1, 脆弱1, 破裂脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ダメージ量増加1, 脆弱1, 破裂脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 피해량 증가 1, 취약 1, 파열 취약 1 얻음\nEN:\n- Low Morale\n- Gain 1 Damage Up, 1 Fragile, and 1 Rupture Fragility"
+  },
+  {
+    "key": "WitheredWood_Panic-name",
+    "original": "古木化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "古木化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고목화\nEN:\nEldtree Mutation"
+  },
+  {
+    "key": "WitheredWood_Panic-desc",
+    "original": "-パニック\n- ダメージ量増加2, 脆弱2, 破裂脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "-パニック\n- ダメージ量増加2, 脆弱2, 破裂脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 피해량 증가 2, 취약 2, 파열 취약 2 얻음\nEN:\n- Panic\n- Gain 2 Damage Up, 2 Fragile, and 2 Rupture Fragility"
+  },
+  {
+    "key": "EvilHeart_LowMorale-name",
+    "original": "邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사심\nEN:\nHeart of Evil"
+  },
+  {
+    "key": "EvilHeart_LowMorale-desc",
+    "original": "- 士気低下\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +2\nターン開始時にダメージ量増加2, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +2\nターン開始時にダメージ量増加2, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n불길한 부적을 보유한 대상과 합 진행 시, 합 위력 +2\n턴 시작 시 피해량 증가 2, 취약 1 얻음\nEN:\n- Low Morale\nWhen Clashing against targets with Omen Talisman, Clash Power +2\nTurn Start: gain 2 Damage Up and 1 Fragile"
+  },
+  {
+    "key": "EvilHeart_Panic-name",
+    "original": "邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사심\nEN:\nHeart of Evil"
+  },
+  {
+    "key": "EvilHeart_Panic-desc",
+    "original": "- パニック\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +3\nターン開始時にダメージ量増加3, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +3\nターン開始時にダメージ量増加3, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n불길한 부적을 보유한 대상과 합 진행 시, 합 위력 +3\n턴 시작 시 피해량 증가 3, 취약 2 얻음\nEN:\n- Low Morale\nWhen Clashing against targets with Omen Talisman, Clash Power +3\nTurn Start: gain 3 Damage Up and 2 Fragile"
+  },
+  {
+    "key": "DeepEvilHeart_LowMorale-name",
+    "original": "深い邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深い邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n짙은 사심\nEN:\nHeart of Oppressive Evil"
+  },
+  {
+    "key": "DeepEvilHeart_LowMorale-desc",
+    "original": "- 士気低下\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +2\nターン開始時にダメージ量増加3, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +2\nターン開始時にダメージ量増加3, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n불길한 부적을 보유한 대상과 합 진행 시, 합 위력 +2\n턴 시작 시 피해량 증가 3, 취약 1 얻음\nEN:\n- Low Morale\nWhen Clashing against targets with Omen Talisman, Clash Power +2\nTurn Start: gain 3 Damage Up and 1 Fragile"
+  },
+  {
+    "key": "DeepEvilHeart_Panic-name",
+    "original": "深い邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深い邪心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n짙은 사심\nEN:\nHeart of Oppressive Evil"
+  },
+  {
+    "key": "DeepEvilHeart_Panic-desc",
+    "original": "- パニック\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +3\nターン開始時にダメージ量増加4, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +3\nターン開始時にダメージ量増加4, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n불길한 부적을 보유한 대상과 합 진행 시, 합 위력 +3\n턴 시작 시 피해량 증가 4, 취약 2 얻음\nEN:\n- Low Morale\nWhen Clashing against targets with Omen Talisman, Clash Power +3\nTurn Start: gain 4 Damage Up and 2 Fragile"
+  },
+  {
+    "key": "OminousTalisman-name",
+    "original": "不吉なお札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不吉なお札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불길한 부적\nEN:\nOmen Talisman"
+  },
+  {
+    "key": "OminousTalisman-desc",
+    "original": "- 基本値 : 10\n- 数値が0になるとき、破裂 威力だけ暴食属性ダメージと精神力ダメージを受けて消滅(精神力ダメージ: 最大20)\n- 不吉なお札が減少するとき、減少した数値だけ破裂威力を得て、その数値の半分だけ破裂回数が増加(小数点切り捨て)\n※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 基本値 : 10\n- 数値が0になるとき、破裂 威力だけ暴食属性ダメージと精神力ダメージを受けて消滅(精神力ダメージ: 最大20)\n- 不吉なお札が減少するとき、減少した数値だけ破裂威力を得て、その数値の半分だけ破裂回数が増加(小数点切り捨て)\n※この効果は更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본값 : 10\n- 수치가 0이 될 때, 파열 위력만큼 탐식 속성 피해와 정신력 피해를 받고 소멸 (정신력 피해 최대 20)\n- 불길한 부적이 감소할 때 감소한 수치만큼 파열 위력을 얻고 그 수치의 절반만큼 파열 횟수가 증가 (소수점 버림)\n※ 이 효과는 갱신되지 않음\nEN:\n- Max Stack: 10\n- When dropping to 0 Stack: take Gluttony damage and SP damage equal to Rupture Potency on self, then expires (max SP damage: 20)\n- When losing Omen Talismans, gain Rupture Potency equal to the number of Omen Talismans lost; then, gain half of Rupture Potency lost as Rupture Count (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active"
+  },
+  {
+    "key": "RepressedMurderousIntendTwo-name",
+    "original": "押し殺された殺気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押し殺された殺気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눌린 살기\nEN:\nConcealed Bloodthirst"
+  },
+  {
+    "key": "RepressedMurderousIntendTwo-desc",
+    "original": "基本攻撃・防御レベルが5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃・防御レベルが5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 레벨 5 감소\n기본 방어 레벨 5 감소\nEN:\nLose 5 Base Offense Level\nLose 5 Base Defense Level"
+  },
+  {
+    "key": "UncontrolledChargeAxe_LowMorale-name",
+    "original": "充電回路逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電回路逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 회로 역류\nEN:\nCharge Circuitry Countercurrent"
+  },
+  {
+    "key": "UncontrolledChargeAxe_LowMorale-desc",
+    "original": "- 士気低下\n破裂を保有した対象とマッチ進行時、充電回数3, 脆弱1を得る(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n破裂を保有した対象とマッチ進行時、充電回数3, 脆弱1を得る(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n파열을 보유한 대상과 합 진행 시, 충전 횟수 3, 취약 1 얻음 (턴 당 2회)\nEN:\n- Low Morale\nWhen Clashing against targets with Rupture, gain +3 Charge Count and 1 Fragile (2 times per turn)"
+  },
+  {
+    "key": "UncontrolledChargeAxe_Panic-name",
+    "original": "充電回路逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電回路逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 회로 역류\nEN:\nCharge Circuitry Countercurrent"
+  },
+  {
+    "key": "UncontrolledChargeAxe_Panic-desc",
+    "original": "- パニック\n破裂 を保有した対象とマッチ進行時、充電 回数5, ダメージ量増加1, 脆弱2を得る(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n破裂 を保有した対象とマッチ進行時、充電 回数5, ダメージ量増加1, 脆弱2を得る(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n파열을 보유한 대상과 합 진행 시, 충전 횟수 5, 피해량 증가 1, 취약 2 얻음 (턴 당 2회)\nEN:\n- Panic\nWhen Clashing against targets with Rupture, gain +5 Charge Count, 1 Damage Up, and 2 Fragile (2 times per turn)"
+  },
+  {
+    "key": "MadFeather-name",
+    "original": "眼羽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "眼羽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈알 깃\nEN:\nEyeball Pinion"
+  },
+  {
+    "key": "MadFeather-desc",
+    "original": "- 最大値 : 10\n- ターン終了時、(数値 ÷ 2)だけ破裂 回数、出血 回数を得る(小数点切り捨て)\n- ターン終了時、数値が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 10\n- ターン終了時、(数値 ÷ 2)だけ破裂 回数、出血 回数を得る(小数点切り捨て)\n- ターン終了時、数値が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대값 : 10\n- 턴 종료시, (수치/2)만큼 파열 횟수, 출혈 횟수 얻음 (소수점 버림)\n- 턴 종료시, 수치 1 감소\nEN:\n- Max Stack: 10\n- Turn End: gain (Stack / 2) Rupture Count and Bleed Count (rounded down)\n- Turn End: lose 1 Stack"
+  },
+  {
+    "key": "MadFeather_LowMorale-name",
+    "original": "両刃羽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "両刃羽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n양날깃\nEN:\nDouble-edged Feather"
+  },
+  {
+    "key": "MadFeather_LowMorale-desc",
+    "original": "- 士気低下\nターン開始時に脆弱1, 体力回復増加1を得る。自分の攻撃が的中時、破裂1, 出血1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\nターン開始時に脆弱1, 体力回復増加1を得る。自分の攻撃が的中時、破裂1, 出血1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n턴 시작시 취약 1, 체력 회복 증가 1 얻음. 자신의 공격 적중시 파열 1, 출혈 1 부여\nEN:\n- Low Morale\nTurn Start: gain 1 Fragile and 1 HP Healing Boost. On Hit, inflict 1 Rupture and 1 Bleed"
+  },
+  {
+    "key": "MadFeather_Panic-name",
+    "original": "両刃羽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "両刃羽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n양날깃\nEN:\nDouble-edged Feather"
+  },
+  {
+    "key": "MadFeather_Panic-desc",
+    "original": "- パニック\nターン開始時に脆弱2, 体力回復増加2を得る。自分の攻撃が的中時、破裂1, 出血1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\nターン開始時に脆弱2, 体力回復増加2を得る。自分の攻撃が的中時、破裂1, 出血1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n턴 시작시 취약 2, 체력 회복 증가 2 얻음. 자신의 공격 적중시 파열 1, 출혈 1 부여\nEN:\n-Panic\nTurn Start: gain 2 Fragile and 2 HP Healing Boost. On Hit, inflict 1 Rupture and 1 Bleed"
+  },
+  {
+    "key": "JarMaster_LowMorale-name",
+    "original": "突撃指示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "突撃指示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌격 지시\nEN:\nCharge Order"
+  },
+  {
+    "key": "JarMaster_LowMorale-desc",
+    "original": "- 士気低下\nターン開始時に脆弱1を得て、全味方にダメージ量増加1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\nターン開始時に脆弱1を得て、全味方にダメージ量増加1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n턴 시작시 취약 1을 얻고, 모든 아군에게 피해량 증가 1 부여\nEN:\n- Low Morale\nTurn Start: gain 1 Fragile and apply 1 Damage Up to all allies"
+  },
+  {
+    "key": "JarMaster_Panic-name",
+    "original": "突撃指示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "突撃指示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌격 지시\nEN:\nCharge Order"
+  },
+  {
+    "key": "JarMaster_Panic-desc",
+    "original": "- パニック\nターン開始時に脆弱2を得て、全味方にダメージ量増加2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\nターン開始時に脆弱2を得て、全味方にダメージ量増加2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n턴 시작시 취약 2를 얻고, 모든 아군에게 피해량 증가 2 부여\nEN:\n- Panic\nTurn Start: gain 2 Fragile and apply 2 Damage Up to all allies"
+  },
+  {
+    "key": "DeepAngry_LowMorale-name",
+    "original": "鬱憤\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鬱憤\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울분\nEN:\nAngst"
+  },
+  {
+    "key": "DeepAngry_LowMorale-desc",
+    "original": "- 士気低下\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +2\nターン開始時にダメージ量増加2, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +2\nターン開始時にダメージ量増加2, 脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n불길한 부적을 보유한 대상과 합 진행 시, 합 위력 +2\n턴 시작 시 피해량 증가 2, 취약 1 얻음\nEN:\n- Low Morale\nWhen Clashing against targets with Omen Talisman, Clash Power +2\nTurn Start: gain 2 Damage Up and 1 Fragile"
+  },
+  {
+    "key": "DeepAngry_Panic-name",
+    "original": "鬱憤\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鬱憤\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울분\nEN:\nAngst"
+  },
+  {
+    "key": "DeepAngry_Panic-desc",
+    "original": "- パニック\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +3\nターン開始時にダメージ量増加3, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n不吉なお札を保有した対象とマッチ進行時、マッチ威力 +3\nターン開始時にダメージ量増加3, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n불길한 부적을 보유한 대상과 합 진행 시, 합 위력 +3\n턴 시작 시 피해량 증가 3, 취약 2 얻음\nEN:\n- Low Morale\nWhen Clashing against targets with Omen Talisman, Clash Power +3\nTurn Start: gain 3 Damage Up and 2 Fragile"
+  },
+  {
+    "key": "TakeBreath_LowMorale-name",
+    "original": "一息つく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一息つく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숨 돌리기\nEN:\nCatching Breath"
+  },
+  {
+    "key": "TakeBreath_LowMorale-desc",
+    "original": "- 士気低下\nターン開始時に防御レベル増加2を得て呼吸 威力が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\nターン開始時に防御レベル増加2を得て呼吸 威力が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n턴 시작시 방어 레벨 증가 2를 얻고 호흡 위력 2 감소\nEN:\n- Low Morale\nTurn Start: gain 2 Defense Level Up and lose 2 Poise Potency"
+  },
+  {
+    "key": "TakeBreath_Panic-name",
+    "original": "一息つく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一息つく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숨 돌리기\nEN:\nCatching Breath"
+  },
+  {
+    "key": "TakeBreath_Panic-desc",
+    "original": "- パニック\nターン開始時に防御レベル増加5を得て呼吸 威力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\nターン開始時に防御レベル増加5を得て呼吸 威力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n턴 시작시 방어 레벨 증가 5를 얻고 호흡 위력 5 감소\nEN:\n- Panic\nTurn Start: gain 5 Defense Level Up and lose 5 Poise Potency"
+  }
+]

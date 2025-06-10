@@ -1,0 +1,338 @@
+[
+  {
+    "key": "get_10911_1-desc",
+    "original": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 획득\nEN:\nIdentity Acquisition"
+  },
+  {
+    "key": "get_10911_1-dlg",
+    "original": "ラ・マンチャランドのカーニバルへようこそ。…果てなきパレードを、共にしてくださいますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランドのカーニバルへようこそ。…果てなきパレードを、共にしてくださいますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드의 카니발에 오신 걸 환영합니다. …끝없는 퍼레이드를, 함께 해주시겠나요?\nEN:\nWelcome to the grand Carnival of La Manchaland. ... Will you join us in this... eternal Parade?"
+  },
+  {
+    "key": "lobby_morning_10911_1-desc",
+    "original": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아침 인사\nEN:\nMorning Greeting"
+  },
+  {
+    "key": "lobby_morning_10911_1-dlg",
+    "original": "うーん…早すぎる時間に尋ねてくるのは品がないね。太陽光は皮膚に悪いの。分かってるでしょ？\n…その計画についてはもう少し後で話し合おう。朝から父上様のことを考えるのもキツいの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うーん…早すぎる時間に訪ねてくるのは品がないね。太陽光は皮膚に悪いの。分かってるでしょ？\n…その計画についてはもう少し後で話し合おう。朝から父上様のことを考えるのもキツいの。\n<CMT_KR>오식: \"うーん…早すぎる時間に「尋ねて」くるのは品がないね。\" 정확: \"うーん…早すぎる時間に「訪ねて」くるのは品がないね。\"\n<CMT_EN>Typo: \"うーん…早すぎる時間に「尋ねて」くるのは品がないね。\" Correction: \"うーん…早すぎる時間に「訪ねて」くるのは品がないね。\"\n<CMT_JP>誤植: \"うーん…早すぎる時間に「尋ねて」くるのは品がないね。\" 訂正後: \"うーん…早すぎる時間に「訪ねて」くるのは品がないね。\"",
+    "stage": 1,
+    "context": "KR:\n음… 너무 이른 시간에 찾아오는 건 점잖지 못하네. 태양빛은 피부에 좋지 않아. 알잖아?\n…그 계획에 대한 건 조금 나중에 의논하도록 하자. 아침부터 어버이를 떠올리는 것도 힘에 부쳐.\nEN:\nMm... it's a bit rude of you to visit me so early in the morning, isn't it? You know how bad sunlight is for the skin.\n... Let's talk about that plan a bit later. Thinking of Father this early in the morning is... stressful."
+  },
+  {
+    "key": "lobby_noon_10911_1-desc",
+    "original": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점심 인사\nEN:\nAfternoon Greeting"
+  },
+  {
+    "key": "lobby_noon_10911_1-dlg",
+    "original": "そうね。そろそろパレードの準備をしなきゃ。…いいえ、私はパスで。お昼から血液バーをつまみ食いすると…。ううん、血液バーで延命をするってことに…もう耐えられなくなったんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうね。そろそろパレードの準備をしなきゃ。…いいえ、私はパスで。お昼から血液バーをつまみ食いすると…。ううん、血液バーで延命をするってことに…もう耐えられなくなったんだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그래. 슬슬 퍼레이드 준비를 해야겠네. …아니, 나는 굶을게. 점심부터 혈액바를 집어먹으면… 아니, 혈액바로 연명을 해야 한다는게… 이젠 견딜 수 없어졌거든.\nEN:\nYeah, it's about time we got started on the Parade prep. ... No, I'll skip lunch. Another hemobar for lunch and I'll... ... I just can't handle it anymore. That we have to subsist on hemobars just to survive. It's... intolerably bad."
+  },
+  {
+    "key": "lobby_night_10911_1-desc",
+    "original": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저녁 인사\nEN:\nEvening Greeting"
+  },
+  {
+    "key": "lobby_night_10911_1-dlg",
+    "original": "この夜の熱気の中で最も輝く位置にいるっていうのは…当然のことでありながら空虚なことだね。実のところ、私も隊列に囚われてるだけだから。\n…でも、あの大きな罪を犯せば、この終わりなき循環も終わるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この夜の熱気の中で最も輝く位置にいるっていうのは…当然のことでありながら空虚なことだね。実のところ、私も隊列に囚われてるだけだから。\n…でも、あの大きな罪を犯せば、この終わりなき循環も終わるでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 밤의 열기 속에서 가장 빛나는 위치에 놓인다는 건… 당연하면서도 공허한 일이야. 실상은 나도 대열에 갇혀있을 뿐이니까.\n…하지만 그 커다란 죄를 짓고 나면, 이 끝없는 순환도 끝이 나겠지.\nEN:\nThe glory of taking center stage, of getting the limelight in the heat of this night is deservedly mine... for how hollow it is. Because I'm just another doll in the Parade.\nBut... once I commit that capital sin... this endless cycle will come to an end."
+  },
+  {
+    "key": "smalltalk_10911_1-desc",
+    "original": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 1\nEN:\nChatter #1"
+  },
+  {
+    "key": "smalltalk_10911_1-dlg",
+    "original": "…あ、ごめん。当然のことすぎて考えたことなかった。パレードに私がいないだなんて。\n…あの方が無事に兜さえお探しになれば、終わるのかな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…あ、ごめん。当然のことすぎて考えたことなかった。パレードに私がいないだなんて。\n…あの方が無事に兜さえお探しになれば、終わるのかな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…아, 미안. 너무 당연한 일이라 생각해본 적이 없네. 퍼레이드에 내가 포함되지 않는다는 상상이라니.\n…그분께서 무탈하게 투구만 찾아와주신다면, 끝날 수 있으려나.\nEN:\n... Oh, sorry. Just the thought of not being a part of the Parade anymore... that alone is too preposterous to even imagine. \nPerhaps it will all end should Father return safely with the helm."
+  },
+  {
+    "key": "smalltalk_10911_2-desc",
+    "original": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 2\nEN:\nChatter #2"
+  },
+  {
+    "key": "smalltalk_10911_2-dlg",
+    "original": "血鬼になるまで…そうねぇ、あんまり思い出せないね。…この美しさを永遠に保てるって事実に少し嬉しく思ったかも。\nそのときはきっと知らなかったでしょうね。永遠という言葉が甘さ以外の味を持ってるだなんて。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血鬼になるまで…そうねぇ、あんまり思い出せないね。…この美しさを永遠に保てるって事実に少し嬉しく思ったかも。\nそのときはきっと知らなかったでしょうね。永遠という言葉が甘さ以外の味を持ってるだなんて。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n혈귀가 되기 전… 글쎄, 기억이 잘 나진 않아. …이 아름다움을 영원히 가질 수 있다는 사실에 조금 기뻤을지도 모르겠네.\n그때는 아마 몰랐을 거야. 영원이라는 단어가 달콤함 외의 맛을 가질 줄은.\nEN:\nBefore I became a Bloodfiend...? Well, I don't quite recall what my life was like then. Maybe I was glad to know that my beauty was to be everlasting.\nI must not have known then, that eternity could be anything other than sweet."
+  },
+  {
+    "key": "smalltalk_10911_3-desc",
+    "original": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 3\nEN:\nChatter #3"
+  },
+  {
+    "key": "smalltalk_10911_3-dlg",
+    "original": "怖いのは、私が一番恐れてるのは…血に対する欲望を抑えられずに汚らわしく転落すること。\n眷属達がみんな食べていくには血液バーがあるべきだというのは同意するけど、そもそも父上様が…はぁ、この話はやめとこ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怖いのは、私が一番恐れてるのは…血に対する欲望を抑えられずに汚らわしく転落すること。\n眷属達がみんな食べていくには血液バーがあるべきだというのは同意するけど、そもそも父上様が…はぁ、この話はやめとこ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두려운 건, 내가 가장 두려운 건… 피에 대한 욕망을 주체하지 못하고 추잡하게 전락하는 일이야.\n권속들이 모두 먹고 지내려면 혈액바가 있어야만 한다는 건 동의하지만, 애초에 어버이께서… 하아, 이 이야기는 그만하자.\nEN:\nMy fear, my worst fear... is losing my elegance to that ghastly ugliness of bloodlust.\nI agree that hemobars were necessary to feed every Kindred, sure. But the core of this problem is, if only Father didn't— ... Haah, can we talk about something else?"
+  },
+  {
+    "key": "smalltalk_10911_4-desc",
+    "original": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 1\nEN:\nPost-Uptie Chat 1"
+  },
+  {
+    "key": "smalltalk_10911_4-dlg",
+    "original": "この血繁吹を見て、美しいでしょ。舞い散る花びらも、夜空を埋め尽くす爆竹も、これよりも恍惚としたものはないはず。\n…父上様を哀しませたけども。結局の所これで私たち全員が幸せになった。そうでしょ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この血飛沫を見て、美しいでしょ。舞い散る花びらも、夜空を埋め尽くす爆竹も、これよりも恍惚としたものはないはず。\n…父上様を哀しませたけども。結局の所これで私たち全員が幸せになった。そうでしょ？\n<CMT_KR>표현 개선: \"'血繁吹'라는 표기 흔들림을, 적 토벌 시 대사인 '綺麗ね、あなたの「血飛沫」。'에 맞춰 통일함\"\n<CMT_EN>Wording fix: \"Unifying the inconsistent term '血繁吹' to match the enemy defeat line: '綺麗ね、あなたの「血飛沫」。'\"\n<CMT_JP>表現改善: \"「血繁吹」という表記揺れを、敵討伐時セリフの「綺麗ね、あなたの血飛沫。」に合わせる\"",
+    "stage": 1,
+    "context": "KR:\n이 피보라를 봐, 아름답지 않니. 흩날리는 꽃종이도, 밤 하늘을 수놓는 폭죽도 이보다 황홀하진 못할 거야.\n…어버이를 슬프게 하긴 했지만, 결국 이걸로 우리 모두가 행복해졌어. 그렇지?\nEN:\nTake in the raining blood. It's more ecstatically beautiful than colorful explosions of confetti or bright fireworks illuminating the clouds in the night sky.\n... We've saddened our Father, but... we're all happy now, aren't we?"
+  },
+  {
+    "key": "smalltalk_10911_5-desc",
+    "original": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 2\nEN:\nPost-Uptie Chat 2"
+  },
+  {
+    "key": "smalltalk_10911_5-dlg",
+    "original": "神父は苦痛に耐えることを美徳っていうけど…私の美徳は美しさだから。それに私の眷属達も…彼らの子どもたちも、いつも美しいと嬉しいんだ。\nだから…もうやめようと思うの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "神父は苦痛に耐えることを美徳っていうけど…私の美徳は美しさだから。それに私の眷属達も…彼らの子どもたちも、いつも美しいと嬉しいんだ。\nだから…もうやめようと思うの。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신부는 고통을 인내하는 것이 미덕이라고 말하지만… 나의 미덕은 아름다움에 있으니까. 그리고 내 권속들도… 그들의 아이들도 항상 아름다웠으면 좋겠거든.\n그러니까… 이제 그만 하려고 해.\nEN:\nThe Priest always lectures me that enduring the pain is a virtue, but... my virtue lies in beauty. Thus, I always wish nothing but beauty for my Kindreds... and their Children.\nSo... I'm going to stop, now."
+  },
+  {
+    "key": "neglect_10911_1-desc",
+    "original": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방치\nEN:\nIdle"
+  },
+  {
+    "key": "neglect_10911_1-dlg",
+    "original": "永久に続く…♬ 祝福のカーニバル…♬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "永久に続く…♬ 祝福のカーニバル…♬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영원토록 이어지는…♬ 축복의 카니발…♬\nEN:\nIn this endlessly, this eternally...♬ ♬Blessed Carnival...♬"
+  },
+  {
+    "key": "gacksung_10911_1-desc",
+    "original": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 진행\nEN:\nUptying"
+  },
+  {
+    "key": "gacksung_10911_1-dlg",
+    "original": "今日の夜のパレードはちょっと違うと思う…。本物のカーニバルの始まりだから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今日の夜のパレードはちょっと違うと思う…。本物のカーニバルの始まりだから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오늘 밤의 퍼레이드는 조금 다를 거야… 진짜 카니발의 시작이니까.\nEN:\nThe Parade will be... different tonight. The real Carnival begins now."
+  },
+  {
+    "key": "formation_10911_1-desc",
+    "original": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 편성\nEN:\nDeployment"
+  },
+  {
+    "key": "formation_10911_1-dlg",
+    "original": "…どうぞ勝手に。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…どうぞ勝手に。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그러던가.\nEN:\n... Do as you will."
+  },
+  {
+    "key": "battleentry_10911_1-desc",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nStage Entry"
+  },
+  {
+    "key": "battleentry_10911_1-dlg",
+    "original": "血を吸い上げる時間ね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血を吸い上げる時間ね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피를 머금을 시간이네.\nEN:\nTime to draw blood."
+  },
+  {
+    "key": "battle_select_10911_1-desc",
+    "original": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 인격 선택\nEN:\nViewed in Battle"
+  },
+  {
+    "key": "battle_select_10911_1-dlg",
+    "original": "パレード中には話し掛けない方が良いよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パレード中には話し掛けない方が良いよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퍼레이드 중에는 말 걸지 않는게 좋겠지?\nEN:\nTalking to me in the middle of a Parade isn't so polite, hm?"
+  },
+  {
+    "key": "battle_endcommand_10911_1-desc",
+    "original": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 시작\nEN:\nCommencing Attack"
+  },
+  {
+    "key": "battle_endcommand_10911_1-dlg",
+    "original": "高貴に。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高貴に。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고귀하게.\nEN:\nWith grace."
+  },
+  {
+    "key": "battle_enemy_break_10911_1-desc",
+    "original": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 흐트러질 시 대사\nEN:\nEnemy Stagger"
+  },
+  {
+    "key": "battle_enemy_break_10911_1-dlg",
+    "original": "…汚らわしい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…汚らわしい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…추잡하네.\nEN:\n... Hideous."
+  },
+  {
+    "key": "battle_break_10911_1-desc",
+    "original": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러질 시 대사\nEN:\nStaggered"
+  },
+  {
+    "key": "battle_break_10911_1-dlg",
+    "original": "あ…はは。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あ…はは。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 하하.\nEN:\nAh... ha ha."
+  },
+  {
+    "key": "battle_kill_10911_1-desc",
+    "original": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치\nEN:\nEnemy Killed"
+  },
+  {
+    "key": "battle_kill_10911_1-dlg",
+    "original": "綺麗ね、あなたの血飛沫。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "綺麗ね、あなたの血飛沫。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이쁘네, 네 피분수.\nEN:\nYour fountain of blood... How pretty."
+  },
+  {
+    "key": "battle_dead_10911_1-desc",
+    "original": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본인 사망\nEN:\nDeath"
+  },
+  {
+    "key": "battle_dead_10911_1-dlg",
+    "original": "やっと…終わるのかな…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "やっと…終わるのかな…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마침내… 끝나는 걸까…\nEN:\nCan we... finally come to a stop...?"
+  },
+  {
+    "key": "choice_success_p_10911_2-desc",
+    "original": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 성공\nEN:\nCheck Passed"
+  },
+  {
+    "key": "choice_success_p_10911_2-dlg",
+    "original": "こんなのは理髪師とか神父にやらせてよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "こんなのは理髪師とか神父にやらせてよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이런 건 이발사나 신부에게 시켜.\nEN:\nGo ask the Barber or the Priest for these menial chores."
+  },
+  {
+    "key": "choice_fail_n_10911_1-desc",
+    "original": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 실패\nEN:\nCheck Failed"
+  },
+  {
+    "key": "choice_fail_n_10911_1-dlg",
+    "original": "…待って。もう一度やってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…待って。もう一度やってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…잠깐만. 한 번 더 해볼게.\nEN:\n... Wait. Let me try that again."
+  },
+  {
+    "key": "battle_clear_10911_1-desc",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "battle_clear_10911_1-dlg",
+    "original": "今日も終わったね。明日も…同じでしょ。どんな高潮も、下降もなくただ果てしなく回り回る…日々だろうね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今日も終わったね。明日も…同じでしょ。どんな高潮も、下降もなくただ果てしなく回り回る…日々だろうね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오늘도 끝났네. 내일도… 똑같겠지. 아무런 고조도, 하강도 없이 그저 끝없이 맴도는… 나날이겠지.\nEN:\nAnother day floats by. And tomorrow will, too. No ups or downs at all, just a flat circle, going round and round."
+  },
+  {
+    "key": "battle_clear_ex_10911_1-desc",
+    "original": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nEX CLEAR 전투 승리\nEN:\nExtra Conditions Fulfilled"
+  },
+  {
+    "key": "battle_clear_ex_10911_1-dlg",
+    "original": "血飛沫が爆竹よりも高く噴き上がった。ああ、だめ。こんな風に大笑いしちゃ駄目。美しさを失わないように、そして…第2眷属としての品位も忘れないようにしなきゃ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血飛沫が爆竹よりも高く噴き上がった。ああ、だめ。こんな風に大笑いしちゃ駄目。美しさを失わないように、そして…第2眷属としての品位も忘れないようにしなきゃ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피분수가 폭죽보다도 높이 솟아올랐어. 아아, 아냐. 이렇게 크게 웃으면 안돼. 아름다움을 잃지 않게, 그리고… 제2권속으로서의 품위도 잃지 않게 하자.\nEN:\nThe fountain of blood burst high into the air, higher than the soaring fireworks. Ahh, no. I shouldn't guffaw so ungracefully. I must remain beautiful... and maintain my dignity as a Second Kindred."
+  },
+  {
+    "key": "battle_defeat_10911_1-desc",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
+  },
+  {
+    "key": "battle_defeat_10911_1-dlg",
+    "original": "…もしかすれば上手くいったかもしれない。たまには誰かがパレードを終わらせてくれればと思ってたから。ちょっと…休もうかな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…もしかすれば上手くいったかもしれない。たまには誰かがパレードを終わらせてくれればと思ってたから。ちょっと…休もうかな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…어쩌면 잘 된 일일지도 모르겠어. 가끔은 누군가 퍼레이드를 끝내줬으면 했으니까. 잠시… 쉬어볼까.\nEN:\n... Maybe this is a blessing in disguise. I often wondered if anyone would come along to put an end to the Parade. I suppose... I'll rest a little."
+  }
+]

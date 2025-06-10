@@ -1,0 +1,499 @@
+[
+  {
+    "key": "0-content",
+    "original": "<style=\"djp\">多分　その頃に決めたんだ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">多分　その頃に決めたんだ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;어쩌면 그때가 바로\nEN:\n&lt;style=\"den\"&gt;Maybe that was when&lt;/style&gt;"
+  },
+  {
+    "key": "1-content",
+    "original": "<style=\"djp\">堕落したままで居続けようと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">堕落したままで居続けようと\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;타락한 채로 남기로 결심한 때일까\nEN:\n&lt;style=\"den\"&gt;I chose to stay fallen&lt;/style&gt;"
+  },
+  {
+    "key": "2-content",
+    "original": "<style=\"djp\"><size=20>煌めき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>煌めき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;반짝임&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Lights&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "3-content",
+    "original": "<style=\"djp\"><size=20>惑星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>惑星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;별&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;star&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "4-content",
+    "original": "<style=\"djp\"><size=20>音声\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>音声\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;목소리&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;voice&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "5-content",
+    "original": "<style=\"djp\">歪む思い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">歪む思い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;일그러진 &lt;size=20&gt;생각&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A twisted &lt;size=20&gt;thought&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "6-content",
+    "original": "<style=\"djp\"><size=20>接触\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>接触\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;감촉&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;touch&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "7-content",
+    "original": "<style=\"djp\"><size=20>口付け\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>口付け\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;입맞춤&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;kiss&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "8-content",
+    "original": "<style=\"djp\">崩壊する<size=20>夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">崩壊する<size=20>夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;뒤틀린 &lt;size=20&gt;꿈&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A distorted &lt;size=20&gt;dream&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "9-content",
+    "original": "<style=\"djp\"><size=20>波浪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>波紋\n<CMT_KR>오역 의심: \"波浪\" 상세: \"Between Two Worlds의 게임 내 가사는 Mili가 쓴 일본어 가사에 맞춰져 있지만, 유일하게 이 구절만 한국어 번역 '잔물결'(波浪)에 맞춰져 있습니다. Mili의 일본어 가사와 동일하게 하려면 '波紋'으로 수정해야 합니다.\"\n<CMT_EN>Possible mistranslation: \"波浪\" Details: \"The in-game lyrics of Between Two Worlds are aligned with the original Japanese lyrics written by Mili, but only this particular phrase is matched to the Korean translation '잔물결' (波浪). To be consistent with Mili's Japanese lyrics, it should be '波紋' instead.\"\n<CMT_JP>誤訳の疑い: \"波浪\" 詳細: \"Between Two Worldsのゲーム内歌詞はMiliによる日本語歌詞に合わせられていますが、唯一このフレーズのみ韓訳の「잔물결」（波浪）に合わせられています。これをMiliによる日本語歌詞と同一にするならば「波紋」にしなくてはなりません。\"",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;잔물결\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Ripples&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "10-content",
+    "original": "<style=\"djp\"><size=20>井戸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>井戸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;우물\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;well&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "11-content",
+    "original": "<style=\"djp\"><size=20>重石\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>重石\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;돌\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;stone&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "12-content",
+    "original": "<style=\"djp\">繁殖する<size=20>欲望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">繁殖する<size=20>欲望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;불어나는 &lt;size=20&gt;욕망&lt;/style&gt;&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A multiplying &lt;size=20&gt;desire&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "13-content",
+    "original": "<style=\"djp\">果実\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">果実\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;과일\nEN:\n&lt;style=\"den\"&gt;A fruit&lt;/style&gt;"
+  },
+  {
+    "key": "14-content",
+    "original": "<style=\"djp\"><size=20>罪咎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>罪咎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;죄\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;sin&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "15-content",
+    "original": "<style=\"djp\">聖なる母\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">聖なる母\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;성모\nEN:\n&lt;style=\"den\"&gt;A holy mother&lt;/style&gt;"
+  },
+  {
+    "key": "16-content",
+    "original": "<style=\"djp\">君に感染され <size=20>感染され\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">君に感染され <size=20>感染され\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;난 감염됐어, &lt;size=20&gt;네게 감염되어\nEN:\n&lt;style=\"den\"&gt;I’m infected, &lt;size=20&gt;I’m infected&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "17-content",
+    "original": "<style=\"djp\">君は僕を侵食し　<size=20>僕を作り直した\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">君は僕を侵食し　<size=20>僕を作り直した\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;네게 잠식당해 &lt;size=20&gt;나는 새로 거듭나&lt;/style&gt;&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;You have invaded and &lt;size=20&gt;re-created me&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "18-content",
+    "original": "<style=\"djp\">僕の<size=20>死体</size>を踏み越え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">僕の<size=20>死体</size>を踏み越え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;내 &lt;size=20&gt;시체&lt;/size&gt;를 밟고 일어서\nEN:\n&lt;style=\"den\"&gt;Stepped over my &lt;size=20&gt;body&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "19-content",
+    "original": "<style=\"djp\"><size=20>日向</size>を見つけた\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>日向</size>を見つけた\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;볕&lt;/size&gt;이 잘 드는 곳을 찾아\nEN:\n&lt;style=\"den\"&gt;Found a &lt;size=20&gt;sunny&lt;/size&gt; spot&lt;/style&gt;"
+  },
+  {
+    "key": "20-content",
+    "original": "<style=\"djp\">体を小さく<size=20>丸め</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">体を小さく<size=20>丸め</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;몸을 둥글게&lt;/size&gt; 말고\nEN:\n&lt;style=\"den\"&gt;Curled into a &lt;size=20&gt;ball&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "21-content",
+    "original": "<style=\"djp\"><size=20>絹</size>を紡ぎ　織り成す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>絹</size>を紡ぎ　織り成す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;실&lt;/size&gt;을 짜내\nEN:\n&lt;style=\"den\"&gt;Spinning out the &lt;size=20&gt;silk&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "22-content",
+    "original": "<style=\"djp\"><size=20>頭</size>の<size=20>天辺</size>からつま先まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>頭</size>の<size=20>天辺</size>からつま先まで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;머리&lt;/size&gt;부터 &lt;size=20&gt;발끝&lt;/size&gt;까지\nEN:\n&lt;style=\"den\"&gt;From my &lt;size=20&gt;head&lt;/size&gt; to &lt;size=20&gt;toe&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "23-content",
+    "original": "<style=\"djp\">暖かい<size=20>繭</size>の中　君のような<size=20>存在</size>に化ける夢を見た\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">暖かい<size=20>繭</size>の中　君のような<size=20>存在</size>に化ける夢を見た\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;따뜻한 &lt;size=20&gt;고치&lt;/size&gt; 속에서 나는 너와 같은 &lt;size=20&gt;존재&lt;/size&gt;가 되기를 꿈꾸었어\nEN:\n&lt;style=\"den\"&gt;Inside the warm &lt;size=20&gt;cocoon&lt;/size&gt;, I dreamt &lt;size=20&gt;to be&lt;/size&gt; like &lt;size=20&gt;you&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "24-content",
+    "original": "<style=\"djp\">もうやり直せないと分かっている\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">もうやり直せないと分かっている\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;돌이킬 길이 없다는 것은 알고 있지만\nEN:\n&lt;style=\"den\"&gt;Though I know there's no undo&lt;/style&gt;"
+  },
+  {
+    "key": "25-content",
+    "original": "<style=\"djp\">でも　失敗したってこれ以上失う物はないよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">でも　失敗したってこれ以上失う物はないよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;어차피 더 잃을 것이 무엇 있으리?\nEN:\n&lt;style=\"den\"&gt;What do I have left to lose?&lt;/style&gt;"
+  },
+  {
+    "key": "26-content",
+    "original": "<style=\"djp\"><size=20>分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;분열\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Split&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "27-content",
+    "original": "<style=\"djp\"><size=20>天空\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>天空\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;하늘\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;sky&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "28-content",
+    "original": "<style=\"djp\"><size=20>大地\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>大地\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;대지\nEN:\n&lt;style=\"den\"&gt;An &lt;size=20&gt;earth&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "29-content",
+    "original": "<style=\"djp\"><size=20>狭間</size>に落ちていく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>狭間</size>に落ちていく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;틈새&lt;/size&gt; 사이로 떨어져\nEN:\n&lt;style=\"den\"&gt;I fell into a &lt;size=20&gt;crack&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "30-content",
+    "original": "<style=\"djp\"><size=20>生誕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>生誕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;탄생\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;birth&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "31-content",
+    "original": "<style=\"djp\"><size=20>卵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>卵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;알\nEN:\n&lt;style=\"den\"&gt;An &lt;size=20&gt;egg&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "32-content",
+    "original": "<style=\"djp\">切り裂かれたての<size=20>粘膜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">切り裂かれたての<size=20>粘膜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;갓 벌어진 &lt;size=20&gt;막\nEN:\n&lt;style=\"den\"&gt;A freshly opened &lt;size=20&gt;membrane&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "33-content",
+    "original": "<style=\"djp\"><size=20>細胞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>細胞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;세포\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;cell&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "34-content",
+    "original": "<style=\"djp\"><size=20>腐敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>腐敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;부패\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;rot&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "35-content",
+    "original": "<style=\"djp\"><size=20>灰燼</size>に帰す顔\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>灰燼</size>に帰す顔\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;재&lt;/size&gt;로 변한 얼굴\nEN:\n&lt;style=\"den\"&gt;A face returned to &lt;size=20&gt;ashes&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "36-content",
+    "original": "<style=\"djp\"><size=20>芸術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>芸術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;미술\nEN:\n&lt;style=\"den\"&gt;An &lt;size=20&gt;art&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "37-content",
+    "original": "<style=\"djp\"><size=20>傷口\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>傷口\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;상처\nEN:\n&lt;style=\"den\"&gt;A &lt;size=20&gt;wound&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "38-content",
+    "original": "<style=\"djp\">知覚を持つ<size=20>画布\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">知覚を持つ<size=20>画布\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;지각이 있는 &lt;size=20&gt;화폭&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;A sentient &lt;size=20&gt;canvas&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "39-content",
+    "original": "<style=\"djp\">壊して壊して殻を壊して\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">壊して壊して殻を壊して\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;깨부숴, 깨부숴, 껍데기를 깨부수고\nEN:\n&lt;style=\"den\"&gt;Breaking breaking breaking the shell&lt;/style&gt;"
+  },
+  {
+    "key": "40-content",
+    "original": "<style=\"djp\">脱出しようよ　ねえ今すぐ壊して\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">脱出しようよ　ねえ今すぐ壊して\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;깨어난다, 그래 지금 깨는 거야\nEN:\n&lt;style=\"den\"&gt;Breaking out, oh break it now&lt;/style&gt;"
+  },
+  {
+    "key": "41-content",
+    "original": "<style=\"djp\">どうやって？見せて？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">どうやって？見せて？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;알려주세요, 보여주세요\nEN:\n&lt;style=\"den\"&gt;Show me how, show me how&lt;/style&gt;"
+  },
+  {
+    "key": "42-content",
+    "original": "<style=\"djp\">聞きたまえ　壊された我が子よ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">聞きたまえ　壊された我が子よ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;잘 들으렴, 우리 부서진 아이야\nEN:\n&lt;style=\"den\"&gt;Listen up, my broken child&lt;/style&gt;"
+  },
+  {
+    "key": "43-content",
+    "original": "<style=\"djp\">嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;애탄하자,\nEN:\n&lt;style=\"den\"&gt;Let’s lament&lt;/style&gt;"
+  },
+  {
+    "key": "44-content",
+    "original": "<style=\"djp\">嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;애탄하자꾸나\nEN:\n&lt;style=\"den\"&gt;Let’s lament&lt;/style&gt;"
+  },
+  {
+    "key": "45-content",
+    "original": "<style=\"djp\"><size=20>生</size>と<size=20>死</size>と<size=20>善</size>と<size=20>悪</size>と\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>生</size>と<size=20>死</size>と<size=20>善</size>と<size=20>悪</size>と\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;삶&lt;/size&gt;과 &lt;size=20&gt;죽음&lt;/size&gt;과 &lt;size=20&gt;선&lt;/size&gt;과 &lt;size=20&gt;악&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;The &lt;size=20&gt;life&lt;/size&gt;, the &lt;size=20&gt;death&lt;/size&gt;, the &lt;size=20&gt;good&lt;/size&gt;, the &lt;size=20&gt;bad&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "46-content",
+    "original": "<style=\"djp\">自らがかけ続けた終わらない<size=20>呪い達</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">自らがかけ続けた終わらない<size=20>呪い達</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;우리가 건 끝나지 않는 &lt;size=20&gt;저주&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;The never ending &lt;size=20&gt;curse&lt;/size&gt; we cast&lt;/style&gt;"
+  },
+  {
+    "key": "47-content",
+    "original": "<style=\"djp\"><size=20>支配</size>支配<size=20>支配</size>釈放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>支配</size>支配<size=20>支配</size>釈放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;지배&lt;/size&gt; 지배, &lt;size=20&gt;지배,&lt;/size&gt; 해방\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Control&lt;/size&gt;, Control, &lt;size=20&gt;Control&lt;/size&gt;, Release&lt;/style&gt;"
+  },
+  {
+    "key": "48-content",
+    "original": "<style=\"djp\">支配<size=20>裏切</size>支配<size=20>放棄</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">支配<size=20>裏切</size>支配<size=20>放棄</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;지배, &lt;size=20&gt;배신,&lt;/size&gt; 지배, &lt;size=20&gt;포기&lt;/size&gt;\nEN:\n&lt;style=\"den\"&gt;Control, &lt;size=20&gt;Betray&lt;/size&gt;, Control, &lt;size=20&gt;Let Go&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "49-content",
+    "original": "<style=\"djp\"><size=20>隠蔽暴露非現実超現実\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>隠蔽暴露非現実超現実\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;은폐, 폭로, 비현실, 초현실\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Conceal, Reveal, Unreal, Surreal&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "50-content",
+    "original": "<style=\"djp\"><size=20>祈願召喚解読再読\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>祈願召喚解読再読\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;기원, 환기, 해독, 재독\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Invoke, Evoke, Decode, Reload&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "51-content",
+    "original": "<style=\"djp\">嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;애탄하자,\nEN:\n&lt;style=\"den\"&gt;Let’s lament&lt;/style&gt;"
+  },
+  {
+    "key": "52-content",
+    "original": "<style=\"djp\"><size=20>嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\"><size=20>嘆きましょう\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;&lt;size=20&gt;애탄하자꾸나\nEN:\n&lt;style=\"den\"&gt;&lt;size=20&gt;Let’s lament&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "53-content",
+    "original": "<style=\"djp\">未完成の<size=20>聖地</size>でしか生き残れなかった僕達の<size=20>昔</size>よ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">未完成の<size=20>聖地</size>でしか生き残れなかった僕達の<size=20>昔</size>よ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;미완성된 &lt;size=20&gt;성지&lt;/size&gt;에서밖에 살 수 없었던 &lt;size=20&gt;과거&lt;/size&gt;여\nEN:\n&lt;style=\"den\"&gt;The &lt;size=20&gt;past&lt;/size&gt; that only got to live in the incomplete &lt;size=20&gt;holy land&lt;/size&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "54-content",
+    "original": "<style=\"djp\">天体世界\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">天体世界\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;하늘의 우리\nEN:\n&lt;style=\"den\"&gt;Celestial&lt;/style&gt;"
+  },
+  {
+    "key": "55-content",
+    "original": "<style=\"djp\">Ayiah\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">Ayiah\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;Ayiah\nEN:\n&lt;style=\"den\"&gt;Ayiah&lt;/style&gt;"
+  },
+  {
+    "key": "56-content",
+    "original": "<style=\"djp\">星々は僕達\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">星々は僕達\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;별의 우리\nEN:\n&lt;style=\"den\"&gt;We’re astral&lt;/style&gt;"
+  },
+  {
+    "key": "57-content",
+    "original": "<style=\"djp\">Ayiou\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">Ayiou\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;Ayiou\nEN:\n&lt;style=\"den\"&gt;Ayiou&lt;/style&gt;"
+  },
+  {
+    "key": "58-content",
+    "original": "<style=\"djp\">僕は生まれ変わり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">僕は生まれ変わり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;다시 태어나\nEN:\n&lt;style=\"den\"&gt;I’m reborn&lt;/style&gt;"
+  },
+  {
+    "key": "59-content",
+    "original": "<style=\"djp\">Le rheaiah\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">Le rheaiah\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;Le rheaiah\nEN:\n&lt;style=\"den\"&gt;Le rheaiah&lt;/style&gt;"
+  },
+  {
+    "key": "60-content",
+    "original": "<style=\"djp\">完全なる自由を得た\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">完全なる自由を得た\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;완전한 자유\nEN:\n&lt;style=\"den\"&gt;Total liberation&lt;/style&gt;"
+  },
+  {
+    "key": "61-content",
+    "original": "<style=\"djp\">Katre o lamenta\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">Katre o lamenta\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;Katre o lamenta\nEN:\n&lt;style=\"den\"&gt;Katre o lamenta&lt;/style&gt;"
+  },
+  {
+    "key": "62-content",
+    "original": "<style=\"djp\">柔らかい僕の肌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">柔らかい僕の肌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;내 연한 피부\nEN:\n&lt;style=\"den\"&gt;My tender skin&lt;/style&gt;"
+  },
+  {
+    "key": "63-content",
+    "original": "<style=\"djp\">産声の歌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">産声の歌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;갓난아이가 우는 가곡\nEN:\n&lt;style=\"den\"&gt;A vagitus song&lt;/style&gt;"
+  },
+  {
+    "key": "64-content",
+    "original": "<style=\"djp\">必須的に\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">必須的に\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;본질적\nEN:\n&lt;style=\"den\"&gt;Essential&lt;/style&gt;"
+  },
+  {
+    "key": "65-content",
+    "original": "<style=\"djp\">僕は息を吸い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">僕は息を吸い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;숨을 쉬었고\nEN:\n&lt;style=\"den\"&gt;I breathed&lt;/style&gt;"
+  },
+  {
+    "key": "66-content",
+    "original": "<style=\"djp\">必然的に\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">必然的に\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;궁극적\nEN:\n&lt;style=\"den\"&gt;Eventual&lt;/style&gt;"
+  },
+  {
+    "key": "67-content",
+    "original": "<style=\"djp\">叫びを放つ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">叫びを放つ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;비명을 질렀다\nEN:\n&lt;style=\"den\"&gt;And screamed&lt;/style&gt;"
+  },
+  {
+    "key": "68-content",
+    "original": "<style=\"djp\">永久的に\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">永久的に\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;영원\nEN:\n&lt;style=\"den\"&gt;Eternal&lt;/style&gt;"
+  },
+  {
+    "key": "69-content",
+    "original": "<style=\"djp\">真っ新な肺の底から\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">真っ新な肺の底から\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;내 갓 난 폐로 목청껏\nEN:\n&lt;style=\"den\"&gt;From my new lungs&lt;/style&gt;"
+  },
+  {
+    "key": "70-content",
+    "original": "<style=\"djp\">避けられない魂の解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"djp\">避けられない魂の解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"dkr\"&gt;영혼의 불가피한 해방\nEN:\n&lt;style=\"den\"&gt;Inevitable freeing of the soul&lt;/style&gt;"
+  }
+]

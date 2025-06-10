@@ -1,0 +1,2270 @@
+[
+  {
+    "key": "1020501-levelList[0].name",
+    "original": "巡察\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "巡察\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순찰\nEN:\nPatrolling"
+  },
+  {
+    "key": "1020501-levelList[0].desc",
+    "original": "[DefeatDuel] 防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DefeatDuel] 防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DefeatDuel] 방어 레벨 증가 2를 얻음\nEN:\n[DefeatDuel] Gain 2 Defense Level Up"
+  },
+  {
+    "key": "1020501-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 방어 레벨 증가 2를 얻음\nEN:\n[OnSucceedAttackHead] Gain 2 Defense Level Up next turn"
+  },
+  {
+    "key": "1020501-levelList[1].name",
+    "original": "巡察\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "巡察\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순찰\nEN:\nPatrolling"
+  },
+  {
+    "key": "1020501-levelList[1].desc",
+    "original": "[DefeatDuel] 防御レベル増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DefeatDuel] 防御レベル増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DefeatDuel] 방어 레벨 증가 3을 얻음\nEN:\n[DefeatDuel] Gain 3 Defense Level Up"
+  },
+  {
+    "key": "1020501-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 2를 얻음\nEN:\n[OnSucceedAttack] Gain 2 Defense Level Up next turn"
+  },
+  {
+    "key": "1020501-levelList[2].name",
+    "original": "巡察\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "巡察\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순찰\nEN:\nPatrolling"
+  },
+  {
+    "key": "1020501-levelList[2].desc",
+    "original": "[WhenUse] 次のターンにこのスキルスロットの挑発値 が2増加\n[DefeatDuel] 防御レベル増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンにこのスキルスロットの挑発値 が2増加\n[DefeatDuel] 防御レベル増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 2 증가\n[DefeatDuel] 방어 레벨 증가 3을 얻음\nEN:\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn\n[DefeatDuel] Gain 3 Defense Level Up"
+  },
+  {
+    "key": "1020501-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 2를 얻음\nEN:\n[OnSucceedAttack] Gain 2 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[0].name",
+    "original": "顧客保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "顧客保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고객 경호\nEN:\nClient Protection"
+  },
+  {
+    "key": "1020502-levelList[0].desc",
+    "original": "[WhenUse] 現体力の比率が最も低い味方へ防御レベル増加 2を付与。(1ターンにつき最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 現体力の比率が最も低い味方へ防御レベル増加 2を付与。(1ターンにつき最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 현재 체력 비율이 가장 낮은 아군에게 방어 레벨 증가 2 부여 (턴 당 최대 3회 발동)\nEN:\n[WhenUse] Apply 2 Defense Level Up to the ally with the lowest HP percentage (3 times per turn)"
+  },
+  {
+    "key": "1020502-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[1].name",
+    "original": "顧客保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "顧客保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고객 경호\nEN:\nClient Protection"
+  },
+  {
+    "key": "1020502-levelList[1].desc",
+    "original": "[WhenUse] 現体力の比率が最も低い味方へ防御レベル増加 3を付与。(1ターンにつき最大3回発動)\n自分の防御レベル増加 が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 現体力の比率が最も低い味方へ防御レベル増加 3を付与。(1ターンにつき最大3回発動)\n自分の防御レベル増加 が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 현재 체력 비율이 가장 낮은 아군에게 방어 레벨 증가 3 부여 (턴 당 최대 3회 발동)\n자신의 방어 레벨 증가 가 5 이상이면, 합 위력 +1\nEN:\n[WhenUse] Apply 3 Defense Level Up to the ally with the lowest HP percentage (3 times per turn)\nAt 5+ Defense Level Up, Clash Power +1"
+  },
+  {
+    "key": "1020502-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[2].name",
+    "original": "顧客保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "顧客保護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고객 경호\nEN:\nClient Protection"
+  },
+  {
+    "key": "1020502-levelList[2].desc",
+    "original": "[WhenUse] 現体力の比率が最も低い味方へ防御レベル増加 4を付与。(1ターンにつき最大3回発動)\n自分の防御レベル増加 が5以上なら、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 現体力の比率が最も低い味方へ防御レベル増加 4を付与。(1ターンにつき最大3回発動)\n自分の防御レベル増加 が5以上なら、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 현재 체력 비율이 가장 낮은 아군에게 방어 레벨 증가 4 부여 (턴 당 최대 3회 발동)\n자신의 방어 레벨 증가 가 5 이상이면, 합 위력 +2\nEN:\n[WhenUse] Apply 4 Defense Level Up to the ally with the lowest HP percentage (3 times per turn)\nAt 5+ Defense Level Up, Clash Power +2"
+  },
+  {
+    "key": "1020502-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020502-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 증가 1을 얻음\nEN:\n[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+  },
+  {
+    "key": "1020503-levelList[0].name",
+    "original": "治安守護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "治安守護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n치안 수호\nEN:\nLaw and Order"
+  },
+  {
+    "key": "1020503-levelList[0].desc",
+    "original": "自分の防御レベル増加 が5以上なら、コイン威力 +1\n[WinDuel] 体力を2回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の防御レベル増加 が5以上なら、コイン威力 +1\n[WinDuel] 体力を2回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 방어 레벨 증가 가 5 이상이면, 코인 위력 +1\n[WinDuel] 체력 2 회복\nEN:\nAt 5+ Defense Level Up, Coin Power +1\n[WinDuel] Heal 2 HP"
+  },
+  {
+    "key": "1020503-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "現体力の比率が最も低い味方へ、次のターンにてクイック 1, 防御レベル増加 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現体力の比率が最も低い味方へ、次のターンにてクイック 1, 防御レベル増加 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 체력 비율이 가장 낮은 아군에게 다음 턴에 신속 1, 방어 레벨 증가 2 부여\nEN:\nApply 1 Haste and 2 Defense Level Up to the ally with the lowest HP percentage next turn"
+  },
+  {
+    "key": "1020503-levelList[1].name",
+    "original": "治安守護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "治安守護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n치안 수호\nEN:\nLaw and Order"
+  },
+  {
+    "key": "1020503-levelList[1].desc",
+    "original": "自分の防御レベル増加 が5以上なら、コイン威力 +1\n[WinDuel] 体力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の防御レベル増加 が5以上なら、コイン威力 +1\n[WinDuel] 体力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 방어 레벨 증가 가 5 이상이면, 코인 위력 +1\n[WinDuel] 체력 4 회복\nEN:\nAt 5+ Defense Level Up, Coin Power +1\n[WinDuel] Heal 4 HP"
+  },
+  {
+    "key": "1020503-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "現体力の比率が最も低い味方へ、次のターンにてクイック 1, 防御レベル増加 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現体力の比率が最も低い味方へ、次のターンにてクイック 1, 防御レベル増加 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 체력 비율이 가장 낮은 아군에게 다음 턴에 신속 1, 방어 레벨 증가 2 부여\nEN:\nApply 1 Haste and 2 Defense Level Up to the ally with the lowest HP percentage next turn"
+  },
+  {
+    "key": "1020503-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "対象がツヴァイ協会フィクサーなら、クイック 1、防御レベル増加 1を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象がツヴァイ協会フィクサーなら、クイック 1、防御レベル増加 1を追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상이 츠바이 협회 해결사면, 신속 1, 방어 레벨 증가 1 추가 부여\nEN:\nIf the ally is a Zwei Association Fixer, apply an additional 1 Haste, 1 Defense Level Up"
+  },
+  {
+    "key": "1020504-levelList[0].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "1020504-levelList[1].name",
+    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가드\nEN:\nGuard"
+  },
+  {
+    "key": "1020504-levelList[1].desc",
+    "original": "[WhenUse] 次のターンにこのスキルスロットの挑発値 が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンにこのスキルスロットの挑発値 が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 다음 턴에 이 스킬 슬롯의 도발치 3 증가\nEN:\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn"
+  },
+  {
+    "key": "1020701-levelList[0].name",
+    "original": "締め付ける拘束具\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "締め付ける拘束具\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조여오는 구속구\nEN:\nContracting Straight-jacket"
+  },
+  {
+    "key": "1020701-levelList[0].desc",
+    "original": "[WhenUse] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 진동 횟수 3 증가\nEN:\n[WhenUse] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 진동 횟수 3 증가\nEN:\n[OnSucceedAttack] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 振動 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[1].name",
+    "original": "締め付ける拘束具\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "締め付ける拘束具\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조여오는 구속구\nEN:\nContracting Straight-jacket"
+  },
+  {
+    "key": "1020701-levelList[1].desc",
+    "original": "[WhenUse] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 진동 횟수 3 증가\nEN:\n[WhenUse] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 진동 횟수 3 증가\nEN:\n[OnSucceedAttack] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[2].name",
+    "original": "締め付ける拘束具\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "締め付ける拘束具\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조여오는 구속구\nEN:\nContracting Straight-jacket"
+  },
+  {
+    "key": "1020701-levelList[2].desc",
+    "original": "[WhenUse] 自分の振動 回数3が増加\n[DefeatDuel] 自分の振動 回数3が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の振動 回数3が増加\n[DefeatDuel] 自分の振動 回数3が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 진동 횟수 3 증가\n[DefeatDuel] 자신의 진동 횟수 3 증가\nEN:\n[WhenUse] Gain +3 Tremor Count\n[DefeatDuel] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 진동 횟수 3 증가\nEN:\n[OnSucceedAttack] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020701-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Tremor Count"
+  },
+  {
+    "key": "1020702-levelList[0].name",
+    "original": "金属の響き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "金属の響き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금속성 울림\nEN:\nMetallic Ringing"
+  },
+  {
+    "key": "1020702-levelList[0].desc",
+    "original": "[WhenUse] 自分の振動 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の振動 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 진동 횟수 4 증가\nEN:\n[WhenUse] Gain +4 Tremor Count"
+  },
+  {
+    "key": "1020702-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに攻撃レベル減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに攻撃レベル減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 공격 레벨 감소 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Offense Level Down next turn"
+  },
+  {
+    "key": "1020702-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Tremor"
+  },
+  {
+    "key": "1020702-levelList[1].name",
+    "original": "金属の響き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "金属の響き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금속성 울림\nEN:\nMetallic Ringing"
+  },
+  {
+    "key": "1020702-levelList[1].desc",
+    "original": "[StartBattle] 自分の振動 回数5を消耗して、このスキルの攻撃加重値 +1\n[WhenUse] 自分の振動 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の振動 回数5を消耗して、このスキルの攻撃加重値 +1\n[WhenUse] 自分の振動 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 자신의 진동 횟수 5를 소모하여 이 스킬의 공격 가중치 +1\n[WhenUse] 자신의 진동 횟수 4 증가\nEN:\n[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count"
+  },
+  {
+    "key": "1020702-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 自分の振動 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 自分の振動 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 자신의 진동 횟수 1 증가\nEN:\n[OnSucceedAttackHead] Gain +1 Tremor Count"
+  },
+  {
+    "key": "1020702-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに攻撃レベル減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに攻撃レベル減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 공격 레벨 감소 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Offense Level Down next turn"
+  },
+  {
+    "key": "1020702-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 Tremor"
+  },
+  {
+    "key": "1020702-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+  },
+  {
+    "key": "1020702-levelList[2].name",
+    "original": "金属の響き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "金属の響き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n금속성 울림\nEN:\nMetallic Ringing"
+  },
+  {
+    "key": "1020702-levelList[2].desc",
+    "original": "[StartBattle] 自分の振動 回数5を消耗して、このスキルの攻撃加重値 +1\n[WhenUse] 自分の振動 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の振動 回数5を消耗して、このスキルの攻撃加重値 +1\n[WhenUse] 自分の振動 回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 자신의 진동 횟수 5를 소모하여 이 스킬의 공격 가중치 +1\n[WhenUse] 자신의 진동 횟수 4 증가\nEN:\n[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill\n[WhenUse] Gain +4 Tremor Count"
+  },
+  {
+    "key": "1020702-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 自分の振動 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 自分の振動 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 자신의 진동 횟수 1 증가\nEN:\n[OnSucceedAttackHead] Gain +1 Tremor Count"
+  },
+  {
+    "key": "1020702-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに攻撃レベル減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに攻撃レベル減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 공격 레벨 감소 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Offense Level Down next turn"
+  },
+  {
+    "key": "1020702-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 Tremor"
+  },
+  {
+    "key": "1020702-levelList[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンに加算コイン弱化 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに加算コイン弱化 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 더하기 코인 약화 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
+  },
+  {
+    "key": "1020703-levelList[0].name",
+    "original": "解かれた暴力性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "解かれた暴力性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n풀려난 폭력성\nEN:\nUnleashed Violence"
+  },
+  {
+    "key": "1020703-levelList[0].desc",
+    "original": "[StartBattle] 自分の振動 回数5を消耗し、このスキルの攻撃加重値+1 (最大+2)\n[DefeatDuel] 精神力が20減少\n対象の保有するマイナス効果1につき、ダメージ量が3%増加(最大15%)\n[EnemyKill] 自分の振動 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の振動 回数5を消耗し、このスキルの攻撃加重値+1 (最大+2)\n[DefeatDuel] 精神力が20減少\n対象の保有するマイナス効果1につき、ダメージ量が3%増加(最大15%)\n[EnemyKill] 自分の振動 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 자신의 진동 횟수 5를 소모하여 이 스킬의 공격 가중치 +1 (최대 +2)\n[DefeatDuel] 정신력 20 감소\n대상이 보유한 부정적인 효과 1개당 피해량이 3% 증가(최대 15%)\n[EnemyKill] 자신의 진동 횟수 2 증가\nEN:\n[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal +3% Damage for every type of negative effect on target (Max 15%)\n[EnemyKill] Gain +2 Tremor Count"
+  },
+  {
+    "key": "1020703-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の20%だけ憤怒ダメージを与える。(最大13)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の20%だけ憤怒ダメージを与える。(最大13)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발\n진동 폭발 시 최종 흐트러짐 손상의 20%만큼 분노 피해를 줌.(최대 13)\nEN:\n[OnSucceedAttack] Trigger Tremor Burst,\nThen deal Wrath Damage by 20% of the final Stagger Threshold Raised by Tremor Burst. (Max 13)"
+  },
+  {
+    "key": "1020703-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の20%だけ憤怒ダメージを与える。(最大13)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の20%だけ憤怒ダメージを与える。(最大13)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발\n진동 폭발 시 최종 흐트러짐 손상의 20%만큼 분노 피해를 줌.(최대 13)\nEN:\n[OnSucceedAttack] Trigger Tremor Burst,\nThen deal Wrath Damage by 20% of the final Stagger Threshold Raised by Tremor Burst. (Max 13)"
+  },
+  {
+    "key": "1020703-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の20%だけ憤怒ダメージを与える。(最大13)\n振動 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の20%だけ憤怒ダメージを与える。(最大13)\n振動 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발\n진동 폭발 시 최종 흐트러짐 손상의 20%만큼 분노 피해를 줌.(최대 13)\n진동 횟수 3 감소\nEN:\n[OnSucceedAttack] Trigger Tremor Burst,\nThen deal Wrath Damage by 20% of the final Stagger Threshold Raised by Tremor Burst. (Max 13)\nReduce Tremor Count by 3"
+  },
+  {
+    "key": "1020703-levelList[1].name",
+    "original": "解かれた暴力性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "解かれた暴力性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n풀려난 폭력성\nEN:\nUnleashed Violence"
+  },
+  {
+    "key": "1020703-levelList[1].desc",
+    "original": "[StartBattle] 自分の振動 回数5を消耗し、このスキルの攻撃加重値+1 (最大+2)\n[DefeatDuel] 精神力が20減少\n対象の保有するマイナス効果1につき、ダメージ量が6%増加(最大30%)\n[EnemyKill] 自分の振動 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の振動 回数5を消耗し、このスキルの攻撃加重値+1 (最大+2)\n[DefeatDuel] 精神力が20減少\n対象の保有するマイナス効果1につき、ダメージ量が6%増加(最大30%)\n[EnemyKill] 自分の振動 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 자신의 진동 횟수 5를 소모하여 이 스킬의 공격 가중치 +1 (최대 +2)\n[DefeatDuel] 정신력 20 감소\n대상이 보유한 부정적인 효과 1개당 피해량이 6% 증가(최대 30%)\n[EnemyKill] 자신의 진동 횟수 2 증가\nEN:\n[StartBattle] Spend 5 Tremor Count and gain +1 Atk Weight for this Skill (Max +2)\n[DefeatDuel] Lose 20 SP\nDeal +6% Damage for every type of negative effect on target (Max 30%)\n[EnemyKill] Gain +2 Tremor Count"
+  },
+  {
+    "key": "1020703-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の30%だけ憤怒ダメージを与える。(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の30%だけ憤怒ダメージを与える。(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발\n진동 폭발 시 최종 흐트러짐 손상의 30%만큼 분노 피해를 줌.(최대 20)\nEN:\n[OnSucceedAttack] Trigger Tremor Burst,\nThen deal Wrath Damage by 30% of the final Stagger Threshold Raised by Tremor Burst. (Max 20)"
+  },
+  {
+    "key": "1020703-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の30%だけ憤怒ダメージを与える。(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の30%だけ憤怒ダメージを与える。(最大20)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발\n진동 폭발 시 최종 흐트러짐 손상의 30%만큼 분노 피해를 줌.(최대 20)\nEN:\n[OnSucceedAttack] Trigger Tremor Burst,\nThen deal Wrath Damage by 30% of the final Stagger Threshold Raised by Tremor Burst. (Max 20)"
+  },
+  {
+    "key": "1020703-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の30%だけ憤怒ダメージを与える。(最大20)\n振動 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 振動爆発\n振動爆発時、最終混乱区間前進値の30%だけ憤怒ダメージを与える。(最大20)\n振動 回数が3減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발\n진동 폭발 시 최종 흐트러짐 손상의 30%만큼 분노 피해를 줌.(최대 20)\n진동 횟수 3 감소\nEN:\n[OnSucceedAttack] Trigger Tremor Burst,\nThen deal Wrath Damage by 30% of the final Stagger Threshold Raised by Tremor Burst. (Max 20)\nReduce Tremor Count by 3"
+  },
+  {
+    "key": "1020704-levelList[0].name",
+    "original": "積もらせるわだかまり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "積もらせるわだかまり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앙금 쌓기\nEN:\nGathering Spite"
+  },
+  {
+    "key": "1020704-levelList[0].desc",
+    "original": "[WhenUse] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の振動 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 진동 횟수 3 증가\nEN:\n[WhenUse] Gain +3 Tremor Count"
+  },
+  {
+    "key": "1020704-levelList[1].name",
+    "original": "積もらせるわだかまり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "積もらせるわだかまり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앙금 쌓기\nEN:\nGathering Spite"
+  },
+  {
+    "key": "1020704-levelList[1].desc",
+    "original": "[WhenUse] 自分の振動 回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の振動 回数が6増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 진동 횟수 6 증가\nEN:\n[WhenUse] Gain +6 Tremor Count"
+  },
+  {
+    "key": "1020801-levelList[0].name",
+    "original": "月下剣舞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "月下剣舞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n월하검무\nEN:\nMoonlit Blade Dance"
+  },
+  {
+    "key": "1020801-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020801-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 1 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 1 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020801-levelList[1].name",
+    "original": "月下剣舞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "月下剣舞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n월하검무\nEN:\nMoonlit Blade Dance"
+  },
+  {
+    "key": "1020801-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020801-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Breath] 1 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 [Breath]"
+  },
+  {
+    "key": "1020801-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 1 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 1 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020801-levelList[2].name",
+    "original": "月下剣舞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "月下剣舞\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n월하검무\nEN:\nMoonlit Blade Dance"
+  },
+  {
+    "key": "1020801-levelList[2].desc",
+    "original": "<style=\"highlight\">自分の[Breath]が対象より5以上高ければ、コイン威力 +1</style>\n[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の[Breath]が対象より5以上高ければ、コイン威力 +1</style>\n[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 [Breath]이 5 이상이면, 코인 위력 +1&lt;/style&gt;\n[WhenUse] 자신의 [Breath] 횟수 2 증가\nEN:\n&lt;style=\"highlight\"&gt;At 5+ [Breath], Coin Power +1&lt;/style&gt;\n[WhenUse] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020801-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Breath]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Breath] 1 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 [Breath]"
+  },
+  {
+    "key": "1020801-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 1 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 1 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020802-levelList[0].name",
+    "original": "刺法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자법\nEN:\nAcupuncture"
+  },
+  {
+    "key": "1020802-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020802-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 [Breath] Count"
+  },
+  {
+    "key": "1020802-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 2 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020802-levelList[1].name",
+    "original": "刺法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자법\nEN:\nAcupuncture"
+  },
+  {
+    "key": "1020802-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020802-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020802-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 +30%\nEN:\n+30% Damage on Critical Hit"
+  },
+  {
+    "key": "1020802-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに束縛 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bind next turn"
+  },
+  {
+    "key": "1020802-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1020802-levelList[2].name",
+    "original": "刺法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刺法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자법\nEN:\nAcupuncture"
+  },
+  {
+    "key": "1020802-levelList[2].desc",
+    "original": "<style=\"highlight\">自分の[Breath]が7以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の[Breath]が7以上なら、コイン威力 +1</style>\n[WhenUse] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 [Breath]이 7 이상이면, 코인 위력 +1\n&lt;/style&gt;[WhenUse] 자신의 [Breath] 횟수 2 증가\nEN:\n&lt;style=\"highlight\"&gt;At 7+ [Breath], Coin Power +1\n&lt;/style&gt;[WhenUse] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020802-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1020802-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 +30%\nEN:\n+30% Damage on Critical Hit"
+  },
+  {
+    "key": "1020802-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに束縛 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bind next turn"
+  },
+  {
+    "key": "1020802-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1020803-levelList[0].name",
+    "original": "舞い散る紅梅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "舞い散る紅梅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흩날리는 홍매화\nEN:\nRed Plum Blossoms Scatter"
+  },
+  {
+    "key": "1020803-levelList[0].desc",
+    "original": "対象の[RedApricotBlossom]1につき、ダメージ量 +3%\n[WinDuel] 自分の[Breath]回数を半減させ、減少した分だけ[Breath]を得る。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[RedApricotBlossom]1につき、ダメージ量 +3%\n[WinDuel] 自分の[Breath]回数を半減させ、減少した分だけ[Breath]を得る。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [RedApricotBlossom] 1 당 피해량 +3%\n[WinDuel] 자신의 [Breath] 횟수를 절반 감소하고, 감소한 양만큼 [Breath]을 얻음. (최대 10)\nEN:\nDeal +3% damage for every [RedApricotBlossom] on target\n[WinDuel] Consume half the [Breath] Count on self, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)"
+  },
+  {
+    "key": "1020803-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 5 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020803-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 5 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020803-levelList[1].name",
+    "original": "舞い散る紅梅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "舞い散る紅梅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흩날리는 홍매화\nEN:\nRed Plum Blossoms Scatter"
+  },
+  {
+    "key": "1020803-levelList[1].desc",
+    "original": "対象の[RedApricotBlossom]1につき、ダメージ量 +3%\n<style=\"highlight\">自分の[Breath]7につき、コイン威力 +1 (最大3)</style>\n[WinDuel] 自分の[Breath]回数を半減させ、減少した分だけ[Breath]を得る。(最大10)\n<style=\"highlight\">このスキルでクリティカル的中時、[RedApricotBlossom]が減少しない</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の[RedApricotBlossom]1につき、ダメージ量 +3%\n<style=\"highlight\">自分の[Breath]7につき、コイン威力 +1 (最大3)</style>\n[WinDuel] 自分の[Breath]回数を半減させ、減少した分だけ[Breath]を得る。(最大10)\n<style=\"highlight\">このスキルでクリティカル的中時、[RedApricotBlossom]が減少しない</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [RedApricotBlossom] 1 당 피해량 +3%\n&lt;style=\"highlight\"&gt;자신의 [Breath] 7 당 코인 위력 +1 (최대 3)&lt;/style&gt;\n[WinDuel] 자신의 [Breath] 횟수를 절반 감소하고, 감소한 양만큼 [Breath]을 얻음. (최대 10)\n&lt;style=\"highlight\"&gt;이 스킬로 크리티컬 적중 시 [RedApricotBlossom]가 감소하지 않음&lt;/style&gt;\nEN:\nDeal +3% damage for every [RedApricotBlossom] on target\n&lt;style=\"highlight\"&gt;Coin Power +1 for every 7 [Breath] on self (Max 3)&lt;/style&gt;\n[WinDuel] Consume half the [Breath] Count on self, then gain [Breath] equal to the [Breath] Count consumed. (Max 10)\n&lt;style=\"highlight\"&gt;This Skill does not consume [RedApricotBlossom] On Crit&lt;/style&gt;"
+  },
+  {
+    "key": "1020803-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 5 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020803-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 対象の[RedApricotBlossom]が10なら、斬撃脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] 対象の[RedApricotBlossom]が10なら、斬撃脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] 대상의 [RedApricotBlossom]가 10이면, 참격 취약 1 부여\nEN:\n[CriticalOnSucceedAttack] If target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
+  },
+  {
+    "key": "1020803-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [RedApricotBlossom]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [RedApricotBlossom] 5 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 5 [RedApricotBlossom]"
+  },
+  {
+    "key": "1020803-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[CriticalOnSucceedAttack] 対象の[RedApricotBlossom]が10なら、斬撃脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] 対象の[RedApricotBlossom]が10なら、斬撃脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] 대상의 [RedApricotBlossom]가 10이면, 참격 취약 1 부여\nEN:\n[CriticalOnSucceedAttack] If target has 10 [RedApricotBlossom], inflict 1 [SlashTakeDamageUp]"
+  },
+  {
+    "key": "1020804-levelList[0].name",
+    "original": "受け流す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "受け流す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흘려내기\nEN:\nRedirect"
+  },
+  {
+    "key": "1020804-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Breath]4につき、最終威力+1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]4につき、最終威力+1 (最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 4 당 최종 위력 +1 (최대 3)\nEN:\n[WhenUse] For every 4 [Breath] on self, gain Final Power +1 (Max 3)"
+  },
+  {
+    "key": "1020804-levelList[1].name",
+    "original": "受け流す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "受け流す\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흘려내기\nEN:\nRedirect"
+  },
+  {
+    "key": "1020804-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Breath]4につき、最終威力+1 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Breath]4につき、最終威力+1 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Breath] 4 당 최종 위력 +1 (최대 5)\nEN:\n[WhenUse] For every 4 [Breath] on self, gain Final Power +1 (Max 5)"
+  },
+  {
+    "key": "1020901-levelList[0].name",
+    "original": "押収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n압수\nEN:\nConfiscation"
+  },
+  {
+    "key": "1020901-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Sinking] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1020901-levelList[1].name",
+    "original": "押収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n압수\nEN:\nConfiscation"
+  },
+  {
+    "key": "1020901-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1020901-levelList[2].name",
+    "original": "押収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n압수\nEN:\nConfiscation"
+  },
+  {
+    "key": "1020901-levelList[2].desc",
+    "original": "[WhenUse] 対象の[Sinking]が6以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]が6以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking]이 6 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 6+ [Sinking], Coin Power +1"
+  },
+  {
+    "key": "1020901-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1020902-levelList[0].name",
+    "original": "招かざる客の出迎え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客の出迎え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객 맞이\nEN:\nInterloper Reception"
+  },
+  {
+    "key": "1020902-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "1020902-levelList[1].name",
+    "original": "招かざる客の出迎え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客の出迎え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객 맞이\nEN:\nInterloper Reception"
+  },
+  {
+    "key": "1020902-levelList[1].desc",
+    "original": "[WhenUse] 対象の[Sinking]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking]이 5 이상이면 , 합 위력 +1\nEN:\n[WhenUse] If target has 5+ [Sinking], Clash Power +1"
+  },
+  {
+    "key": "1020902-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "1020902-levelList[2].name",
+    "original": "招かざる客の出迎え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客の出迎え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객 맞이\nEN:\nInterloper Reception"
+  },
+  {
+    "key": "1020902-levelList[2].desc",
+    "original": "[WhenUse] 対象の[Sinking]が5以上なら、マッチ威力 +1\n[WhenUse] 対象の[Sinking]回数が3以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]が5以上なら、マッチ威力 +1\n[WhenUse] 対象の[Sinking]回数が3以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking]이 5 이상이면 , 합 위력 +1\n[WhenUse] 대상의 [Sinking] 횟수가 3 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 5+ [Sinking], Clash Power +1\n[WhenUse] If target has 3+ [Sinking] Count, Coin Power +1"
+  },
+  {
+    "key": "1020902-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
+  },
+  {
+    "key": "1020903-levelList[0].name",
+    "original": "接客道四式 封心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "接客道四式 封心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n접객도 4식 봉심\nEN:\nReception Arts 4: Heartseal"
+  },
+  {
+    "key": "1020903-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
+  },
+  {
+    "key": "1020903-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [EchoOfMansion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+  },
+  {
+    "key": "1020903-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[EchoOfMansion]があれば、[Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[EchoOfMansion]があれば、[Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [EchoOfMansion]가 있으면, [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] If target has [EchoOfMansion], inflict +3 [Sinking] Count"
+  },
+  {
+    "key": "1020903-levelList[1].name",
+    "original": "接客道四式 封心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "接客道四式 封心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n접객도 4식 봉심\nEN:\nReception Arts 4: Heartseal"
+  },
+  {
+    "key": "1020903-levelList[1].desc",
+    "original": "[WhenUse] 対象の[Sinking]回数が5以上なら、コイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]回数が5以上なら、コイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 횟수가 5 이상이면, 코인 위력 +2\nEN:\n[WhenUse] If target has 5+ [Sinking] Count, Coin Power +2"
+  },
+  {
+    "key": "1020903-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
+  },
+  {
+    "key": "1020903-levelList[1].coinlist[3].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[EchoOfMansion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [EchoOfMansion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+  },
+  {
+    "key": "1020903-levelList[1].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象に[EchoOfMansion]があれば、[Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[EchoOfMansion]があれば、[Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [EchoOfMansion]가 있으면, [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] If target has [EchoOfMansion], inflict +3 [Sinking] Count"
+  },
+  {
+    "key": "1020904-levelList[0].name",
+    "original": "狩りの備え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狩りの備え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사냥 대비\nEN:\nHunting Plans"
+  },
+  {
+    "key": "1020904-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]が10以上なら、コイン威力 +3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]が10以上なら、コイン威力 +3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking]이 10 이상이면, 코인 위력 +3\nEN:\n[WhenUse] If target has 10+ [Sinking], Coin Power +3"
+  },
+  {
+    "key": "1020904-levelList[1].name",
+    "original": "狩りの備え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "狩りの備え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사냥 대비\nEN:\nHunting Plans"
+  },
+  {
+    "key": "1020904-levelList[1].desc",
+    "original": "[WhenUse] 対象の[Sinking]が10以上なら、コイン威力 +7\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]が10以上なら、コイン威力 +7\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking]이 10 이상이면, 코인 위력 +7\nEN:\n[WhenUse] If target has 10+ [Sinking], Coin Power +7"
+  },
+  {
+    "key": "1021001-levelList[0].name",
+    "original": "40Y-3稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "40Y-3稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n40Y-3 가동\nEN:\n40Y-3 Activation"
+  },
+  {
+    "key": "1021001-levelList[0].desc",
+    "original": "[WhenUse] [Charge]回数を5消耗し、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数を5消耗し、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수를 5 소모하여 코인 위력 +1\nEN:\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1"
+  },
+  {
+    "key": "1021001-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count"
+  },
+  {
+    "key": "1021001-levelList[1].name",
+    "original": "40Y-3稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "40Y-3稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n40Y-3 가동\nEN:\n40Y-3 Activation"
+  },
+  {
+    "key": "1021001-levelList[1].desc",
+    "original": "[WhenUse] [Charge]回数を5消耗し、コイン威力 +1<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数を5消耗し、コイン威力 +1<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수를 5 소모하여 코인 위력 +1&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021001-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Gain +&lt;style=\"highlight\"&gt;3&lt;/style&gt; [Charge] Count"
+  },
+  {
+    "key": "1021001-levelList[2].name",
+    "original": "40Y-3稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "40Y-3稼働\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n40Y-3 가동\nEN:\n40Y-3 Activation"
+  },
+  {
+    "key": "1021001-levelList[2].desc",
+    "original": "[WhenUse] [Charge]回数を5消耗し、コイン威力 <style=\"highlight\">+2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数を5消耗し、コイン威力 <style=\"highlight\">+2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수를 5 소모하여 코인 위력 &lt;style=\"highlight\"&gt;+2&lt;/style&gt;\nEN:\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power &lt;style=\"highlight\"&gt;+2&lt;/style&gt;"
+  },
+  {
+    "key": "1021001-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 3 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +3 [Charge] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021002-levelList[0].name",
+    "original": "充電逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 역류\nEN:\nCharge Countercurrent"
+  },
+  {
+    "key": "1021002-levelList[0].desc",
+    "original": "[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 +1\nEN:\n[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1"
+  },
+  {
+    "key": "1021002-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "このスキルが含まれる共鳴が3以上なら保有している[Charge]回数を全て消耗して、このスキルで消耗した[Charge]回数1につきダメージ量 +([Charge])%(最大60%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルが含まれる共鳴が3以上なら保有している[Charge]回数を全て消耗して、このスキルで消耗した[Charge]回数1につきダメージ量 +([Charge])%(最大60%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬을 포함한 공명이 3 이상이면, 보유한 [Charge] 횟수를 전부 소모하여 이 스킬로 소모한 [Charge] 횟수당 피해량 +([Charge])% (최대 60%)\nEN:\nAt 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +([Charge])% damage for every [Charge] Count consumed by this Skill (max 60%)"
+  },
+  {
+    "key": "1021002-levelList[1].name",
+    "original": "充電逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 역류\nEN:\nCharge Countercurrent"
+  },
+  {
+    "key": "1021002-levelList[1].desc",
+    "original": "[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 +1<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 +1<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 +1&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021002-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "このスキルが含まれる共鳴が3以上なら保有している[Charge]回数を全て消耗して、このスキルで消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">([Charge] + 3)%(最大120%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルが含まれる共鳴が3以上なら保有している[Charge]回数を全て消耗して、このスキルで消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">([Charge] + 3)%(最大120%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬을 포함한 공명이 3 이상이면, 보유한 [Charge] 횟수를 전부 소모하여 이 스킬로 소모한 [Charge] 횟수당 피해량 +&lt;style=\"highlight\"&gt;([Charge] + 3)% (최대 120%)&lt;/style&gt;\nEN:\nAt 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +&lt;style=\"highlight\"&gt;([Charge] + 3)&lt;/style&gt;% damage for every [Charge] Count consumed by this Skill (max &lt;style=\"highlight\"&gt;120%&lt;/style&gt;)"
+  },
+  {
+    "key": "1021002-levelList[2].name",
+    "original": "充電逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電逆流\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 역류\nEN:\nCharge Countercurrent"
+  },
+  {
+    "key": "1021002-levelList[2].desc",
+    "original": "[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 <style=\"highlight\">+2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] [Charge]回数が5以上10未満なら、体力最大値の2 × (10 - 現在の[Charge]回数)%だけ体力を消耗して[Charge]回数が10へと増加\n[WhenUse] [Charge]回数を10消耗してコイン威力 <style=\"highlight\">+2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [Charge] 횟수가 5 이상 10 미만이면, 최대 체력의 2 x (10 - 현재 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수가 10으로 증가\n[WhenUse] [Charge] 횟수를 10 소모하여 코인 위력 &lt;style=\"highlight\"&gt;+2&lt;/style&gt;\nEN:\n[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power &lt;style=\"highlight\"&gt;+2&lt;/style&gt;"
+  },
+  {
+    "key": "1021002-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "このスキルが含まれる共鳴が3以上なら保有している[Charge]回数を全て消耗して、このスキルで消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">([Charge] + 4)%(最大180%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルが含まれる共鳴が3以上なら保有している[Charge]回数を全て消耗して、このスキルで消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">([Charge] + 4)%(最大180%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬을 포함한 공명이 3 이상이면, 보유한 [Charge] 횟수를 전부 소모하여 이 스킬로 소모한 [Charge] 횟수당 피해량 +&lt;style=\"highlight\"&gt;([Charge] + 4)% (최대 180%)&lt;/style&gt;\nEN:\nAt 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +&lt;style=\"highlight\"&gt;([Charge] + 4)&lt;/style&gt;% damage for every [Charge] Count consumed by this Skill (max &lt;style=\"highlight\"&gt;180%&lt;/style&gt;)"
+  },
+  {
+    "key": "1021003-levelList[0].name",
+    "original": "40Y-3充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "40Y-3充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n40Y-3 충전\nEN:\n40Y-3 Charge"
+  },
+  {
+    "key": "1021003-levelList[0].desc",
+    "original": "[Charge]が2以上なら、コイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Charge]が2以上なら、コイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Charge]이 2 이상이면, 코인 위력 +2\nEN:\nAt 2+ [Charge], Coin Power +2"
+  },
+  {
+    "key": "1021003-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] + 4)だけ、自分の[Charge]回数が増加(最大7)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ([Charge] + 4)だけ、自分の[Charge]回数が増加(最大7)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] ([Charge] + 4)만큼 자신의 [Charge] 횟수 증가 (최대 7)\nEN:\n[OnSucceedAttack] Gain +([Charge] + 4) [Charge] Count (max 7)"
+  },
+  {
+    "key": "1021003-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] + 4)だけ、自分の[Charge]回数が増加(最大7)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ([Charge] + 4)だけ、自分の[Charge]回数が増加(最大7)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] ([Charge] + 4)만큼 자신의 [Charge] 횟수 증가 (최대 7)\nEN:\n[OnSucceedAttack] Gain +([Charge] + 4) [Charge] Count (max 7)"
+  },
+  {
+    "key": "1021003-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[Charge]が3以上なら、[Charge]1につきダメージ量 +4%(最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Charge]が3以上なら、[Charge]1につきダメージ量 +4%(最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Charge]이 3 이상이면, [Charge]당 피해량 +4% (최대 20%)\nEN:\nAt 3+ [Charge], deal +4% damage for every [Charge] (max 20%)"
+  },
+  {
+    "key": "1021003-levelList[1].name",
+    "original": "40Y-3充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "40Y-3充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n40Y-3 충전\nEN:\n40Y-3 Charge"
+  },
+  {
+    "key": "1021003-levelList[1].desc",
+    "original": "<style=\"highlight\">[Charge]1につきコイン威力 +1(最大4)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[Charge]1につきコイン威力 +1(最大4)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[Charge]당 코인 위력 +1 (최대 4)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;Coin Power +1 for every [Charge] (max 4)&lt;/style&gt;"
+  },
+  {
+    "key": "1021003-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] + <style=\"highlight\">5</style>)だけ、自分の[Charge]回数が増加(最大<style=\"highlight\">8</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ([Charge] + <style=\"highlight\">5</style>)だけ、自分の[Charge]回数が増加(最大<style=\"highlight\">8</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] ([Charge] + &lt;style=\"highlight\"&gt;5&lt;/style&gt;)만큼 자신의 [Charge] 횟수 증가 (최대 &lt;style=\"highlight\"&gt;8&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain +([Charge] + &lt;style=\"highlight\"&gt;5&lt;/style&gt;) [Charge] Count (max &lt;style=\"highlight\"&gt;8&lt;/style&gt;)"
+  },
+  {
+    "key": "1021003-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([Charge] + <style=\"highlight\">5</style>)だけ、自分の[Charge]回数が増加(最大<style=\"highlight\">8</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ([Charge] + <style=\"highlight\">5</style>)だけ、自分の[Charge]回数が増加(最大<style=\"highlight\">8</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] ([Charge] + &lt;style=\"highlight\"&gt;5&lt;/style&gt;)만큼 자신의 [Charge] 횟수 증가 (최대 &lt;style=\"highlight\"&gt;8&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain +([Charge] + &lt;style=\"highlight\"&gt;5&lt;/style&gt;) [Charge] Count (max &lt;style=\"highlight\"&gt;8&lt;/style&gt;)"
+  },
+  {
+    "key": "1021003-levelList[1].coinlist[3].coindescs[0].desc",
+    "original": "[Charge]が3以上なら、[Charge]1につきダメージ量 <style=\"highlight\">+8%</style>(最大<style=\"highlight\">40%</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Charge]が3以上なら、[Charge]1につきダメージ量 <style=\"highlight\">+8%</style>(最大<style=\"highlight\">40%</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Charge]이 3 이상이면, [Charge]당 피해량 &lt;style=\"highlight\"&gt;+8%&lt;/style&gt; (최대 &lt;style=\"highlight\"&gt;40%&lt;/style&gt;)\nEN:\nAt 3+ [Charge], deal &lt;style=\"highlight\"&gt;+8%&lt;/style&gt; damage for every [Charge] (max &lt;style=\"highlight\"&gt;40%&lt;/style&gt;)"
+  },
+  {
+    "key": "1021003-levelList[1].coinlist[3].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 次のターンに嫉妬脆弱1を付与\n- [Charge]が2以上なら、追加で1付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 次のターンに嫉妬脆弱1を付与\n- [Charge]が2以上なら、追加で1付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 다음 턴에 질투 취약 1 부여\n- [Charge]이 2 이상이면, 추가로 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 Envy Fragility next turn\n- At 2+ [Charge], inflict 1 additional Envy Fragility&lt;/style&gt;"
+  },
+  {
+    "key": "1021004-levelList[0].name",
+    "original": "充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전\nEN:\nCharge"
+  },
+  {
+    "key": "1021004-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が2増加(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が2増加(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 2 증가 (턴 당 2회)\nEN:\n[WhenUse] Gain +2 [Charge] Count (2 times per turn)"
+  },
+  {
+    "key": "1021004-levelList[1].name",
+    "original": "充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전\nEN:\nCharge"
+  },
+  {
+    "key": "1021004-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Charge]回数が<style=\"highlight\">4</style>増加(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Charge]回数が<style=\"highlight\">4</style>増加(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Charge] 횟수 &lt;style=\"highlight\"&gt;4&lt;/style&gt; 증가 (턴 당 2회)\nEN:\n[WhenUse] Gain +&lt;style=\"highlight\"&gt;4&lt;/style&gt; [Charge] Count (2 times per turn)"
+  },
+  {
+    "key": "1021101-levelList[0].name",
+    "original": "着火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "着火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n착화\nEN:\nIgnition"
+  },
+  {
+    "key": "1021101-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] [Combustion]7を得る、自分の[Combustion]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] [Combustion]7を得る、自分の[Combustion]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion]이 10 이상이면, 피해량 +10%\n[WhenUse] [Combustion] 7 얻음, 자신의 [Combustion] 횟수 1 증가\nEN:\n[WhenUse] At 10+ [Combustion], deal +10% damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count"
+  },
+  {
+    "key": "1021101-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[1].name",
+    "original": "着火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "着火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n착화\nEN:\nIgnition"
+  },
+  {
+    "key": "1021101-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が10以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が10以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion]이 10 이상이면, 피해량 +10%\n[WhenUse] [Combustion] 7 얻음, 자신의 [Combustion] 횟수 1 증가\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 10 이상이면, 코인 위력 +1\nEN:\n[WhenUse] At 10+ [Combustion], deal +10% damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Coin Power +1"
+  },
+  {
+    "key": "1021101-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 自分の[Combustion]が10以上なら、[Combustion]を1追加で付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 自分の[Combustion]が10以上なら、[Combustion]を1追加で付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]자신의 [Combustion]이 10 이상이면, [Combustion] 1 추가 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] At 10+ [Combustion], inflict additional 1 [Combustion]&lt;/style&gt;"
+  },
+  {
+    "key": "1021101-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [Combustion]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021101-levelList[2].name",
+    "original": "着火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "着火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n착화\nEN:\nIgnition"
+  },
+  {
+    "key": "1021101-levelList[2].desc",
+    "original": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion]이 10 이상이면, 피해량 +10%\n[WhenUse] [Combustion] 7 얻음, 자신의 [Combustion] 횟수 1 증가\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 10 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] At 10+ [Combustion], deal +10% damage\n[WhenUse] Gain 7 [Combustion] and +1 [Combustion] Count\n[WhenUse] Coin Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)"
+  },
+  {
+    "key": "1021101-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Combustion]が10以上なら、[Combustion]を<style=\"highlight\">3</style>追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Combustion]が10以上なら、[Combustion]を<style=\"highlight\">3</style>追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Combustion]이 10 이상이면, [Combustion] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 추가 부여\nEN:\n[OnSucceedAttack] At 10+ [Combustion], inflict additional &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Combustion]"
+  },
+  {
+    "key": "1021101-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [Combustion]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021102-levelList[0].name",
+    "original": "E.G.O紅炎殺 展開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O紅炎殺 展開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 홍염살 전개\nEN:\nE.G.O - A.B.S Activation"
+  },
+  {
+    "key": "1021102-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] 自分の[Combustion]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、ダメージ量 +10%\n[WhenUse] 自分の[Combustion]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion]이 10 이상이면, 피해량 +10%\n[WhenUse] 자신의 [Combustion] 횟수 4 증가\nEN:\n[WhenUse] At 10+ [Combustion], deal +10% damage\n[WhenUse] Gain +4 [Combustion] Count"
+  },
+  {
+    "key": "1021102-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021102-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Combustion] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[1].name",
+    "original": "E.G.O紅炎殺 展開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O紅炎殺 展開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 홍염살 전개\nEN:\nE.G.O - A.B.S Activation"
+  },
+  {
+    "key": "1021102-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Combustion]10につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Combustion]回数が4増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]10につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Combustion]回数が4増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion] 10 당, 피해량 +10% (최대 20%)\n[WhenUse] 자신의 [Combustion] 횟수 4 증가\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 4 이상이면, 코인 위력 +1\nEN:\n[WhenUse] Deal +10% damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] At 4+ ([Combustion] on self + [Combustion] on target), Coin Power +1"
+  },
+  {
+    "key": "1021102-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021102-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Combustion] 3 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[2].name",
+    "original": "E.G.O紅炎殺 展開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O紅炎殺 展開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 홍염살 전개\nEN:\nE.G.O - A.B.S Activation"
+  },
+  {
+    "key": "1021102-levelList[2].desc",
+    "original": "[WhenUse] 自分の[Combustion]10につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Combustion]回数が4増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])4につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]10につき、ダメージ量 +10%(最大20%)\n[WhenUse] 自分の[Combustion]回数が4増加\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])4につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion] 10 당, 피해량 +10% (최대 20%)\n[WhenUse] 자신의 [Combustion] 횟수 4 증가\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 4 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Deal +10% damage for every 10 [Combustion] on self (max 20%)\n[WhenUse] Gain +4 [Combustion] Count\n[WhenUse] Coin Power +1 for every 4 ([Combustion] on self + [Combustion] on target) (max 2)"
+  },
+  {
+    "key": "1021102-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021102-levelList[2].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Combustion] 3 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021102-levelList[2].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 対象の[Combustion]が15以上なら、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Combustion]が15以上なら、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Combustion]이 15 이상이면, [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] If target has 15+ [Combustion], inflict +2 [Combustion] Count on target"
+  },
+  {
+    "key": "1021103-levelList[0].name",
+    "original": "火に思い焦がれて\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火に思い焦がれて\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불에 끌리는 마음으로\nEN:\nDrawn by Flame"
+  },
+  {
+    "key": "1021103-levelList[0].desc",
+    "original": "[StartBattle] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[BeforeUse] 自分の[Combustion]が30以上なら、「紅炎殺 最大感応【劣化侵蝕】」として発動\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +7.5%(最大30%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が10以上なら、基本威力 +1\n[WhenUse] 自分が体力を30%以上失っているなら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[BeforeUse] 自分の[Combustion]が30以上なら、「紅炎殺 最大感応【劣化侵蝕】」として発動\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +7.5%(最大30%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が10以上なら、基本威力 +1\n[WhenUse] 自分が体力を30%以上失っているなら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] [Combustion] 7 얻음, 자신의 [Combustion] 횟수 1 증가\n[BeforeUse] 자신의 [Combustion]이 30 이상이면, ‘홍염살 최대 감응 【열화침식】’으로 발동\n[WhenUse] 자신의 [Combustion] 5 당, 피해량 +7.5% (최대 30%)\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 10 이상이면, 기본 위력 +1\n[WhenUse] 자신의 잃은 체력이 30% 이상이면, 코인 위력 +1\nEN:\n[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +7.5% damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1"
+  },
+  {
+    "key": "1021103-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021103-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021103-levelList[1].name",
+    "original": "火に思い焦がれて\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火に思い焦がれて\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불에 끌리는 마음으로\nEN:\nDrawn by Flame"
+  },
+  {
+    "key": "1021103-levelList[1].desc",
+    "original": "[StartBattle] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[BeforeUse] 自分の[Combustion]が30以上なら、「紅炎殺 最大感応【劣化侵蝕】」として発動\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +12.5%(最大50%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、基本威力 +1(最大2)\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] [Combustion]7を得る、自分の[Combustion]回数が1増加\n[BeforeUse] 自分の[Combustion]が30以上なら、「紅炎殺 最大感応【劣化侵蝕】」として発動\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +12.5%(最大50%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、基本威力 +1(最大2)\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] [Combustion] 7 얻음, 자신의 [Combustion] 횟수 1 증가\n[BeforeUse] 자신의 [Combustion]이 30 이상이면, ‘홍염살 최대 감응 【열화침식】’으로 발동\n[WhenUse] 자신의 [Combustion] 5 당, 피해량 +12.5% (최대 50%)\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 10당, 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 잃은 체력 30% 당, 코인 위력 +1 (최대 2)\nEN:\n[StartBattle] Gain 7 [Combustion] and +1 [Combustion] Count\n[BeforeUse] At 30+ [Combustion], activate 'A.B.S Max Attunement 【Degraded Corrosion】’ instead\n[WhenUse] Deal +12.5% damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] If this unit is missing 30%+ HP, Coin Power +1 (max 2)"
+  },
+  {
+    "key": "1021103-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021103-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021104-levelList[0].name",
+    "original": "紅炎殺の感応度を上げて共鳴します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紅炎殺の感応度を上げて共鳴します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍염살의 감응도를 올려 공명하겠습니다.\nEN:\nResonating by raising A.B.S Attunement."
+  },
+  {
+    "key": "1021104-levelList[0].desc",
+    "original": "[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>오식: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 정확: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"\n<CMT_EN>Typo: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" Correction: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"\n<CMT_JP>誤植: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 訂正後: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion] 5 감소 (턴 당 1회)\n[OnSucceedEvade] 자신의 [Combustion] 5 감소 (턴 당 1회)\nEN:\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)"
+  },
+  {
+    "key": "1021104-levelList[1].name",
+    "original": "紅炎殺の感応度を上げて共鳴します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紅炎殺の感応度を上げて共鳴します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍염살의 감응도를 올려 공명하겠습니다.\nEN:\nResonating by raising A.B.S Attunement."
+  },
+  {
+    "key": "1021104-levelList[1].desc",
+    "original": "[WhenUse] 自分の[Combustion]が10以上なら、コイン威力 +3\n[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、コイン威力 +3\n[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>오식: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 정확: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"\n<CMT_EN>Typo: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" Correction: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"\n<CMT_JP>誤植: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 訂正後: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [Combustion]이 10 이상이면, 코인 위력 +3\n[WhenUse] 자신의 [Combustion] 5 감소 (턴 당 1회)\n[OnSucceedEvade] 자신의 [Combustion] 5 감소 (턴 당 1회)\nEN:\n[WhenUse] At 10+ [Combustion], Coin Power +3\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)"
+  },
+  {
+    "key": "1021105-levelList[0].name",
+    "original": "紅炎殺 最大感応【劣化侵蝕】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紅炎殺 最大感応【劣化侵蝕】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍염살 최대 감응 【열화침식】\nEN:\nA.B.S Max Attunement 【Degraded Corrosion】"
+  },
+  {
+    "key": "1021105-levelList[0].desc",
+    "original": "このスキルで攻撃終了時、死亡する。\n- このスキルを使用している間に体力が1になった場合、以降1以下にならない。\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +7.5%(最大30%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が10以上なら、基本威力 +1\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大2)\n[BeforeAttack] 自分の失った体力20%につき、攻撃加重値 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルで攻撃終了時、死亡する。\n- このスキルを使用している間に体力が1になった場合、以降1以下にならない。\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +7.5%(最大30%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])が10以上なら、基本威力 +1\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大2)\n[BeforeAttack] 自分の失った体力20%につき、攻撃加重値 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬 공격 종료 시 사망함.\n- 이 스킬을 사용하는 동안 체력이 1이 되면, 체력이 1로 유지됨.\n[WhenUse] 자신의 [Combustion] 5 당 피해량 +7.5% (최대 30%)\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 10 이상이면, 기본 위력 +1\n[WhenUse] 자신의 잃은 체력 30% 당, 코인 위력 +1 (최대 2)\n[BeforeAttack] 자신의 잃은 체력 20% 당, 공격 가중치 +1 (최대 2)\nEN:\nAfter using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +7.5% damage for every 5 [Combustion] on self (max 30%)\n[WhenUse] At 10+ ([Combustion] on self + [Combustion] on target), Base Power +1\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 2)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 2)"
+  },
+  {
+    "key": "1021105-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021105-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021105-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021105-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
+  },
+  {
+    "key": "1021105-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021105-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の失った体力20%につき、ダメージ量 +10%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の失った体力20%につき、ダメージ量 +10%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 잃은 체력 20% 당, 피해량 +10% (최대 30%)\nEN:\n[OnSucceedAttack] Deal +10% damage for every 20% missing HP on self (max 30%)"
+  },
+  {
+    "key": "1021105-levelList[1].name",
+    "original": "紅炎殺 最大感応【劣化侵蝕】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紅炎殺 最大感応【劣化侵蝕】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍염살 최대 감응 【열화침식】\nEN:\nA.B.S Max Attunement 【Degraded Corrosion】"
+  },
+  {
+    "key": "1021105-levelList[1].desc",
+    "original": "このスキルで攻撃終了時、死亡する。\n- このスキルを使用している間に体力が1になった場合、以降1以下にならない。\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +12.5%(最大50%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、基本威力 +1(最大2)\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大3)\n[BeforeAttack] 自分の失った体力20%につき、攻撃加重値 +1(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このスキルで攻撃終了時、死亡する。\n- このスキルを使用している間に体力が1になった場合、以降1以下にならない。\n[WhenUse] 自分の[Combustion]5につき、ダメージ量 +12.5%(最大50%)\n[WhenUse] (自分の[Combustion] + 対象の[Combustion])10につき、基本威力 +1(最大2)\n[WhenUse] 自分の失った体力30%につき、コイン威力 +1(最大3)\n[BeforeAttack] 自分の失った体力20%につき、攻撃加重値 +1(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬 공격 종료 시 사망함.\n- 이 스킬을 사용하는 동안 체력이 1이 되면, 체력이 1로 유지됨.\n[WhenUse] 자신의 [Combustion] 5 당 피해량 +12.5% (최대 50%)\n[WhenUse] (자신의 [Combustion] + 대상의 [Combustion]) 10당, 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 잃은 체력 30% 당, 코인 위력 +1 (최대 3)\n[BeforeAttack] 자신의 잃은 체력 20% 당, 공격 가중치 +1 (최대 4)\nEN:\nAfter using this Skill, dies.\n- If HP drops to 1 while using this Skill, maintains HP at 1 for the duration of the Skill.\n[WhenUse] Deal +12.5% damage for every 5 [Combustion] on self (max 50%)\n[WhenUse] Base Power +1 for every 10 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] Coin Power +1 for every 30% missing HP on self (max 3)\n[BeforeAttack] Atk Weight +1 for every 20% missing HP on self (max 4)"
+  },
+  {
+    "key": "1021105-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021105-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Combustion]"
+  },
+  {
+    "key": "1021105-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021105-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Combustion]"
+  },
+  {
+    "key": "1021105-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021105-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の失った体力20%につき、ダメージ量 +10%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の失った体力20%につき、ダメージ量 +10%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 잃은 체력 20% 당, 피해량 +10% (최대 30%)\nEN:\n[OnSucceedAttack] Deal +10% damage for every 20% missing HP on self (max 30%)"
+  },
+  {
+    "key": "1021201-levelList[0].name",
+    "original": "瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순보\nEN:\nBlinkstep"
+  },
+  {
+    "key": "1021201-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]が6以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が6以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]이 6 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 6+ [Burst], Coin Power +1"
+  },
+  {
+    "key": "1021201-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1021201-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021201-levelList[1].name",
+    "original": "瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순보\nEN:\nBlinkstep"
+  },
+  {
+    "key": "1021201-levelList[1].desc",
+    "original": "[WhenUse] 対象の[Burst]が<style=\"highlight\">4</style>以上なら、コイン威力 +1\n<style=\"highlight\">[WinDuel] [Burst]回数が1増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が<style=\"highlight\">4</style>以上なら、コイン威力 +1\n<style=\"highlight\">[WinDuel] [Burst]回数が1増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]이 &lt;style=\"highlight\"&gt;4&lt;/style&gt; 이상이면, 코인 위력 +1\n&lt;style=\"highlight\"&gt;[WinDuel] [Burst] 횟수 1 증가&lt;/style&gt;\nEN:\n[WhenUse] If target has &lt;style=\"highlight\"&gt;4&lt;/style&gt;+ [Burst], Coin Power +1\n&lt;style=\"highlight\"&gt;[WinDuel] Inflict +1 [Burst] Count&lt;/style&gt;"
+  },
+  {
+    "key": "1021201-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021201-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021201-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬 당 1회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)&lt;/style&gt;"
+  },
+  {
+    "key": "1021201-levelList[2].name",
+    "original": "瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n순보\nEN:\nBlinkstep"
+  },
+  {
+    "key": "1021201-levelList[2].desc",
+    "original": "<style=\"highlight\">自分の速度が対象より3以上高ければコイン威力 +1</style>\n[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の速度が対象より3以上高ければコイン威力 +1</style>\n[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1&lt;/style&gt;\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 1 증가\nEN:\n&lt;style=\"highlight\"&gt;If this unit's Speed is faster than the target's by 3 or more, Coin Power +1&lt;/style&gt;\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021201-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021201-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021201-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021202-levelList[0].name",
+    "original": "道を切り拓きます、主君。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "道を切り拓きます、主君。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n길을 뚫겠습니다. 주군.\nEN:\nClearing the Path, My Lord."
+  },
+  {
+    "key": "1021202-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n[WinDuel] [Burst] 횟수 1 증가\nEN:\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021202-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021202-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "対象に[BurstAgility]または[BurstZilu]があれば、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[BurstAgility]または[BurstZilu]があれば、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 [BurstAgility] 또는 [BurstZilu]가 있으면, 피해량 +30%\nEN:\nIf target has [BurstAgility] or [BurstZilu], deal +30% damage"
+  },
+  {
+    "key": "1021202-levelList[1].name",
+    "original": "道を切り拓きます、主君。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "道を切り拓きます、主君。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n길을 뚫겠습니다. 주군.\nEN:\nClearing the Path, My Lord."
+  },
+  {
+    "key": "1021202-levelList[1].desc",
+    "original": "[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)</style>\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1\n<style=\"highlight\">[WhenUse] 次のターンに[Agility]2を得る(1ターンにつき1回)</style>\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1\n&lt;style=\"highlight\"&gt;[WhenUse] 다음 턴에 [Agility] 2 얻음 (턴 당 1회)&lt;/style&gt;\n[WinDuel] [Burst] 횟수 1 증가\nEN:\n[WhenUse] If target has 4+ [Burst], Coin Power +1\n&lt;style=\"highlight\"&gt;[WhenUse] Gain 2 [Agility] next turn (once per turn)&lt;/style&gt;\n[WinDuel] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021202-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021202-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "対象に[BurstAgility]または[BurstZilu]があれば、ダメージ量 +30%<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[BurstAgility]または[BurstZilu]があれば、ダメージ量 +30%<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 [BurstAgility] 또는 [BurstZilu]가 있으면, 피해량 +30%&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nIf target has [BurstAgility] or [BurstZilu], deal +30% damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021202-levelList[2].name",
+    "original": "道を切り拓きます、主君。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "道を切り拓きます、主君。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n길을 뚫겠습니다. 주군.\nEN:\nClearing the Path, My Lord."
+  },
+  {
+    "key": "1021202-levelList[2].desc",
+    "original": "<style=\"highlight\">自分の速度が対象より高いなら、(対象との速度差 × 自分の[EnhanceZilu])%だけダメージ量が増加(最大50%)</style>\n<style=\"highlight\">自分の速度が対象より3以上高ければコイン威力 +1\n[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1</style>\n[WhenUse] 次のターンに[Agility]を2得る(1ターンにつき1回)\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の速度が対象より高いなら、(対象との速度差 × 自分の[EnhanceZilu])%だけダメージ量が増加(最大50%)</style>\n<style=\"highlight\">自分の速度が対象より3以上高ければコイン威力 +1\n[WhenUse] 対象の[Burst]が4以上なら、コイン威力 +1</style>\n[WhenUse] 次のターンに[Agility]を2得る(1ターンにつき1回)\n[WinDuel] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 자신의 [EnhanceZilu])%만큼 피해량이 증가 (최대 50%)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;자신의 속도가 대상보다 3 이상 높으면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 4 이상이면, 코인 위력 +1&lt;/style&gt;\n[WhenUse] 다음 턴에 [Agility] 2 얻음 (턴 당 1회)\n[WinDuel] [Burst] 횟수 1 증가\nEN:\n&lt;style=\"highlight\"&gt;If this unit's Speed is faster than the target's, deal +(Speed difference x [EnhanceZilu] on self)% damage (max 50%)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 4+ [Burst], Coin Power +1&lt;/style&gt;\n[WhenUse] Gain 2 [Agility] next turn (once per turn)\n[WinDuel] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021202-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021202-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Burst]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Burst]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Burst] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 [Burst]&lt;/style&gt;"
+  },
+  {
+    "key": "1021202-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "対象に[BurstAgility]または[BurstZilu]があれば、ダメージ量<style=\"highlight\"> +50%</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に[BurstAgility]または[BurstZilu]があれば、ダメージ量<style=\"highlight\"> +50%</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 [BurstAgility] 또는 [BurstZilu]가 있으면, 피해량 &lt;style=\"highlight\"&gt;+50%&lt;/style&gt;\nEN:\nIf target has [BurstAgility] or [BurstZilu], deal &lt;style=\"highlight\"&gt;+50%&lt;/style&gt; damage"
+  },
+  {
+    "key": "1021203-levelList[0].name",
+    "original": "目でも耳でも追えぬように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目でも耳でも追えぬように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈으로도 귀로도 쫓지 못하게.\nEN:\nTraceless to Sight and Sound Alike."
+  },
+  {
+    "key": "1021203-levelList[0].desc",
+    "original": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より2以上高ければ、コイン威力 +1\n[StartBattle] [SupportProtect]を1得る(1ターンにつき1回)\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n[WhenUse] [LegStrength]3を得る\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より2以上高ければ、コイン威力 +1\n[StartBattle] [SupportProtect]を1得る(1ターンにつき1回)\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n[WhenUse] [LegStrength]3を得る\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n[StartBattle] [SupportProtect] 1 얻음 (턴 당 1회)\n[BeforeUse] [EnhanceZilu]가 10 이상이면, '흑수 묘 오의 - 운해현현'으로 발동됨\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가\nEN:\nIf this unit's Speed is faster than the target's, deal +(Speed difference x [Burst] Potency on target)% damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[BeforeUse] At 10+ [EnhanceZilu], activate 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst]"
+  },
+  {
+    "key": "1021203-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021203-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BurstAgility] 부여\nEN:\n[OnSucceedAttack] Inflict [BurstAgility]"
+  },
+  {
+    "key": "1021203-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1021203-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "自分の速度が10以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が10以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 10 이상이면, 피해량 +30%\nEN:\nAt 10+ Speed, deal +30% damage"
+  },
+  {
+    "key": "1021203-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "1021203-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+  },
+  {
+    "key": "1021203-levelList[1].name",
+    "original": "目でも耳でも追えぬように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目でも耳でも追えぬように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈으로도 귀로도 쫓지 못하게.\nEN:\nTraceless to Sight and Sound Alike."
+  },
+  {
+    "key": "1021203-levelList[1].desc",
+    "original": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n<style=\"highlight\">自分の速度が対象より高いほど、コイン威力 +1(速度差2につきコイン威力 +1, 最大2)</style>\n[StartBattle] [SupportProtect]を1得る(1ターンにつき1回)\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n<style=\"highlight\">[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]3を得る\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n<style=\"highlight\">自分の速度が対象より高いほど、コイン威力 +1(速度差2につきコイン威力 +1, 最大2)</style>\n[StartBattle] [SupportProtect]を1得る(1ターンにつき1回)\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n<style=\"highlight\">[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1</style>\n[WhenUse] [LegStrength]3を得る\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n&lt;style=\"highlight\"&gt;자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 2)&lt;/style&gt;\n[StartBattle] [SupportProtect] 1 얻음 (턴 당 1회)\n[BeforeUse] [EnhanceZilu]가 10 이상이면, '흑수 묘 오의 - 운해현현'으로 발동됨\n&lt;style=\"highlight\"&gt;[WhenUse] 대상의 [Burst]이 15 이상이면, 코인 위력 +1&lt;/style&gt;\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가\nEN:\nIf this unit's Speed is faster than the target's, deal +(Speed difference x [Burst] Potency on target)% damage (max 50%)\n&lt;style=\"highlight\"&gt;If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)&lt;/style&gt;\n[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[BeforeUse] At 10+ [EnhanceZilu], activate 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n&lt;style=\"highlight\"&gt;[WhenUse] If target has 15+ [Burst], Coin Power +1&lt;/style&gt;\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstAgility]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstAgility]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BurstAgility] 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict [BurstAgility]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "自分の速度が10以上なら、ダメージ量 +30%<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が10以上なら、ダメージ量 +30%<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 10 이상이면, 피해량 +30%&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nAt 10+ Speed, deal +30% damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021203-levelList[1].coinlist[2].coindescs[3].desc",
+    "original": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility]を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility]を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[ReUseOnSucceedAttack] [BurstAgility] 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[ReUseOnSucceedAttack] Inflict [BurstAgility]&lt;/style&gt;"
+  },
+  {
+    "key": "1021204-levelList[0].name",
+    "original": "尊命。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "尊命。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n존명.\nEN:\nIt Shall be Done."
+  },
+  {
+    "key": "1021204-levelList[0].desc",
+    "original": "[DuelCounter]\n[StartBattle] [SupportProtect]1を得る (1ターンにつき1回)\n[WhenUse] 自分が今回のターンにて失った累計体力10%につき、このスキルの攻撃レベル +1 (最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] [LegStrength]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[StartBattle] [SupportProtect]1を得る (1ターンにつき1回)\n[WhenUse] 自分が今回のターンにて失った累計体力10%につき、このスキルの攻撃レベル +1 (最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] [LegStrength]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n[StartBattle] [SupportProtect] 1 얻음 (턴 당 1회)\n[WhenUse] 자신이 이번 전투에서 잃은 체력 누적 10% 당, 이 스킬의 공격 레벨 +1 (최대 6. 발동 시점 최대 체력 기준)\n[WhenUse] [LegStrength] 3 얻음\nEN:\n[DuelCounter]\n[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[WhenUse] This Skill gains +1 Offense Level for every 10% HP this unit has cumulatively lost in this Encounter (max 6; based on max HP at the time of activation)\n[WhenUse] Gain 3 [LegStrength]"
+  },
+  {
+    "key": "1021204-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1021204-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1021204-levelList[1].name",
+    "original": "尊命。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "尊命。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n존명.\nEN:\nIt Shall be Done."
+  },
+  {
+    "key": "1021204-levelList[1].desc",
+    "original": "[DuelCounter]\n[StartBattle] [SupportProtect]1を得る (1ターンにつき1回)\n[WhenUse] 自分が今回のターンにて失った累計体力10%につき、このスキルの攻撃レベル +1 (最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] [LegStrength]3を得る\n<style=\"highlight\"> [WhenUse] 自分の速度が対象よりも高いほど、基本威力 +1 (速度差2につき基本威力 +1, 最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[StartBattle] [SupportProtect]1を得る (1ターンにつき1回)\n[WhenUse] 自分が今回のターンにて失った累計体力10%につき、このスキルの攻撃レベル +1 (最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] [LegStrength]3を得る\n<style=\"highlight\"> [WhenUse] 自分の速度が対象よりも高いほど、基本威力 +1 (速度差2につき基本威力 +1, 最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n[StartBattle] [SupportProtect] 1 얻음 (턴 당 1회)\n[WhenUse] 자신이 이번 전투에서 잃은 체력 누적 10% 당, 이 스킬의 공격 레벨 +1 (최대 6. 발동 시점 최대 체력 기준)\n[WhenUse] [LegStrength] 3 얻음\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 속도가 대상보다 높을수록 기본 위력 +1 (속도 차이 2당 기본 위력 +1. 최대 2)&lt;/style&gt;\nEN:\n[DuelCounter]\n[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[WhenUse] This Skill gains +1 Offense Level for every 10% HP this unit has cumulatively lost in this Encounter (max 6; based on max HP at the time of activation)\n[WhenUse] Gain 3 [LegStrength]\n&lt;style=\"highlight\"&gt;[WhenUse] If this unit's Speed is faster than the target's by 2 or more, gain Base Power based on Speed difference (Base Power +1 for every 2 Speed difference; max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1021204-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021204-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[0].name",
+    "original": "黒獣 卯 奥義 - 雲解顕現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒獣 卯 奥義 - 雲解顕現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑수 묘 오의 - 운해현현\nEN:\nAscendant Heishou - Mao Technique: Cloudsplitting Manifestation"
+  },
+  {
+    "key": "1021205-levelList[0].desc",
+    "original": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より2以上高ければコイン威力 +1\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1\n[WhenUse] 自分の速度が10以上なら[Breath]を20得て、自分の[Breath]回数が4未満なら、[Breath]回数を最大4まで得る\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加\n[EndSkill] [EnhanceZilu]を10消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n自分の速度が対象より2以上高ければコイン威力 +1\n[WhenUse] 対象の[Burst]が15以上なら、コイン威力 +1\n[WhenUse] 自分の速度が10以上なら[Breath]を20得て、自分の[Breath]回数が4未満なら、[Breath]回数を最大4まで得る\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加\n[EndSkill] [EnhanceZilu]を10消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n자신의 속도가 대상보다 2 이상 높으면, 코인 위력 +1\n[WhenUse] 대상의 [Burst]이 15 이상이면, 코인 위력 +1\n[WhenUse] 자신의 속도가 10 이상이면 [Breath]을 20 얻고, 자신의 [Breath] 횟수가 4 미만이면, [Breath] 횟수를 최대 4 까지 얻음\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가\n[EndSkill] [EnhanceZilu] 10 소모\nEN:\nIf this unit's Speed is faster than the target's, deal +(Speed difference x [Burst] Potency on target)% damage (max 50%)\nIf this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst], Coin Power +1\n[WhenUse] At 10+ Speed, gain 20 [Breath]; if this unit has less than 4 [Breath] Count, raise [Breath] Count up to 4\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count\n[EndSkill] Consume 10 [EnhanceZilu]"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstZilu]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstZilu]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BurstZilu] 부여\nEN:\n[OnSucceedAttack] Inflict [BurstZilu]"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BurstAgility] 부여\nEN:\n[OnSucceedAttack] Inflict [BurstAgility]"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "自分の速度が10以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が10以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 10 이상이면, 피해량 +30%\nEN:\nAt 10+ Speed, deal +30% damage"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+  },
+  {
+    "key": "1021205-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[ReUseOnSucceedAttack] [BurstZilu]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] [BurstZilu]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] [BurstZilu] 부여\nEN:\n[ReUseOnSucceedAttack] Inflict [BurstZilu]"
+  },
+  {
+    "key": "1021205-levelList[1].name",
+    "original": "黒獣 卯 奥義 - 雲解顕現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒獣 卯 奥義 - 雲解顕現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑수 묘 오의 - 운해현현\nEN:\nAscendant Heishou - Mao Technique: Cloudsplitting Manifestation"
+  },
+  {
+    "key": "1021205-levelList[1].desc",
+    "original": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n<style=\"highlight\">自分の速度が対象より高いほど、コイン威力 +1 (速度差2につきコイン威力 +1, 最大2)</style>\n<style=\"highlight\">[WhenUse] 対象の[Burst]10につき、コイン威力 +1 (最大2)</style>\n[WhenUse] 自分の速度が10以上なら[Breath]を20得て、自分の[Breath]回数が4未満なら、[Breath]回数を最大4まで得る\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加\n[EndSkill] [EnhanceZilu]を10消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が対象より高ければ、(対象との速度差 × 対象の[Burst]威力)%だけダメージ量が増加(最大50%)\n<style=\"highlight\">自分の速度が対象より高いほど、コイン威力 +1 (速度差2につきコイン威力 +1, 最大2)</style>\n<style=\"highlight\">[WhenUse] 対象の[Burst]10につき、コイン威力 +1 (最大2)</style>\n[WhenUse] 自分の速度が10以上なら[Breath]を20得て、自分の[Breath]回数が4未満なら、[Breath]回数を最大4まで得る\n[WhenUse] [LegStrength]を3得る\n[WinDuel] [Burst]回数が2増加\n[EndSkill] [EnhanceZilu]を10消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 대상의 [Burst] 위력)%만큼 피해량이 증가 (최대 50%)\n&lt;style=\"highlight\"&gt;자신의 속도가 대상보다 높을수록 코인 위력 +1 (속도 차이 2 당 코인 위력 +1. 최대 2)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] 대상의 [Burst] 10 당, 코인 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] 자신의 속도가 10 이상이면 [Breath]을 20 얻고, 자신의 [Breath] 횟수가 4 미만이면, [Breath] 횟수를 최대 4 까지 얻음\n[WhenUse] [LegStrength] 3 얻음\n[WinDuel] [Burst] 횟수 2 증가\n[EndSkill] [EnhanceZilu] 10 소모\nEN:\nIf this unit's Speed is faster than the target's, deal +(Speed difference x [Burst] Potency on target)% damage (max 50%)\n&lt;style=\"highlight\"&gt;If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 2 Speed difference; max 2)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] Coin Power +1 for every 10 [Burst] on target (max 2)&lt;/style&gt;\n[WhenUse] At 10+ Speed, gain 20 [Breath]; if this unit has less than 4 [Breath] Count, raise [Breath] Count up to 4\n[WhenUse] Gain 3 [LegStrength]\n[WinDuel] Inflict +2 [Burst] Count\n[EndSkill] Consume 10 [EnhanceZilu]"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BurstZilu]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstZilu]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BurstZilu] 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict [BurstZilu]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [BurstAgility]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstAgility]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BurstAgility] 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict [BurstAgility]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "自分の速度が10以上なら、ダメージ量 +30%<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が10以上なら、ダメージ量 +30%<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 10 이상이면, 피해량 +30%&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nAt 10+ Speed, deal +30% damage&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の速度が10以上なら、コインを1回再使用(スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 속도가 10 이상이면, 코인 1회 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[2].coindescs[3].desc",
+    "original": "[ReUseOnSucceedAttack] [BurstZilu]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] [BurstZilu]を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] [BurstZilu] 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[ReUseOnSucceedAttack] Inflict [BurstZilu]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021205-levelList[1].coinlist[2].coindescs[4].desc",
+    "original": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility]を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[ReUseOnSucceedAttack] [BurstAgility]を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[ReUseOnSucceedAttack] [BurstAgility] 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[ReUseOnSucceedAttack] Inflict [BurstAgility]&lt;/style&gt;"
+  },
+  {
+    "key": "1021206-levelList[0].name",
+    "original": "超速護衛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "超速護衛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초속호위\nEN:\nSwiftfeet Protection"
+  },
+  {
+    "key": "1021206-levelList[0].desc",
+    "original": "[CanDuelGuard]\n[SupportProtect]専用スキル\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n[WhenUse] 自分がこのターンにて失った累計体力10%につき、このスキルの防御レベル +1(最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] このスキルが終了するまでダメージによって混乱状態にならない\n[WhenUse] [Protection]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[SupportProtect]専用スキル\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n[WhenUse] 自分がこのターンにて失った累計体力10%につき、このスキルの防御レベル +1(最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] このスキルが終了するまでダメージによって混乱状態にならない\n[WhenUse] [Protection]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n[SupportProtect] 전용 스킬\n[BeforeUse] [EnhanceZilu]가 10 이상이면, '흑수 묘 오의 - 운해현현'으로 발동됨\n[WhenUse] 자신이 이번 전투에서 잃은 체력 누적 10% 당, 이 스킬의 방어 레벨 +1 (최대 6. 발동 시점 최대 체력 기준)\n[WhenUse] 이 스킬 종료 시까지 피해로 인해 흐트러짐 상태가 되지 않음\n[WhenUse] [Protection] 2 얻음 (턴 당 1회)\nEN:\n[CanDuelGuard]\nExclusive Skill for [SupportProtect]\n[BeforeUse] At 10+ [EnhanceZilu], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] This Skill gains +1 Defense Level for every 10% HP this unit has cumulatively lost in this Encounter (max 6; based on max HP at the time of activation)\n[WhenUse] Cannot be Staggered by damage until this Skill ends\n[WhenUse] Gain 2 [Protection] (once per turn)"
+  },
+  {
+    "key": "1021206-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1021206-levelList[1].name",
+    "original": "超速護衛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "超速護衛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초속호위\nEN:\nSwiftfeet Protection"
+  },
+  {
+    "key": "1021206-levelList[1].desc",
+    "original": "[CanDuelGuard]\n[SupportProtect]専用スキル\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n[WhenUse] 自分がこのターンにて失った累計体力10%につき、このスキルの防御レベル +1(最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] このスキルが終了するまでダメージによって混乱状態にならない\n[WhenUse] [Protection]2を得る(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[SupportProtect]専用スキル\n[BeforeUse] [EnhanceZilu]が10以上なら、「黒獣 卯 奥義 - 雲解顕現」として発動\n[WhenUse] 自分がこのターンにて失った累計体力10%につき、このスキルの防御レベル +1(最大6. 発動時点の体力最大値を基準とする)\n[WhenUse] このスキルが終了するまでダメージによって混乱状態にならない\n[WhenUse] [Protection]2を得る(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n[SupportProtect] 전용 스킬\n[BeforeUse] [EnhanceZilu]가 10 이상이면, '흑수 묘 오의 - 운해현현'으로 발동됨\n[WhenUse] 자신이 이번 전투에서 잃은 체력 누적 10% 당, 이 스킬의 방어 레벨 +1 (최대 6. 발동 시점 최대 체력 기준)\n[WhenUse] 이 스킬 종료 시까지 피해로 인해 흐트러짐 상태가 되지 않음\n[WhenUse] [Protection] 2 얻음 (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CanDuelGuard]\nExclusive Skill for [SupportProtect]\n[BeforeUse] At 10+ [EnhanceZilu], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] This Skill gains +1 Defense Level for every 10% HP this unit has cumulatively lost in this Encounter (max 6; based on max HP at the time of activation)\n[WhenUse] Cannot be Staggered by damage until this Skill ends\n[WhenUse] Gain 2 [Protection] (once per turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1021206-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  }
+]

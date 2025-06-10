@@ -1,0 +1,65 @@
+[
+  {
+    "key": "1017-panicName",
+    "original": "整理強迫\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "整理強迫\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정리 강박\nEN:\nOrganization Compulsion"
+  },
+  {
+    "key": "1017-lowMoraleDescription",
+    "original": "マッチ敗北時に精神力が5減少。被ダメージ時、次のターンに[Agility]1を得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時に精神力が5減少。被ダメージ時、次のターンに[Agility]1を得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배 시 정신력 5 감소. 피격 시 다음 턴에 [Agility] 1 얻음 (최대 2)\nEN:\nLose 5 SP on Clash Lose. Gain 1 [Agility] next turn when hit (max 2)"
+  },
+  {
+    "key": "1017-panicDescription",
+    "original": "[Vulnerable]2を得る。被ダメージ時、次のターンに[Agility]1を得る(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Vulnerable]2を得る。被ダメージ時、次のターンに[Agility]1を得る(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Vulnerable] 2 얻음. 피격 시 다음 턴에 [Agility] 1 얻음 (최대 3)\nEN:\nGain 2 [Vulnerable]. Gain 1 [Agility] next turn when hit (max 3)"
+  },
+  {
+    "key": "1018-panicName",
+    "original": "邸宅の木霊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "邸宅の木霊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저택의 메아리\nEN:\nEchoes of the Manor"
+  },
+  {
+    "key": "1018-lowMoraleDescription",
+    "original": "自分のマッチ威力 -1, 表面的中時のダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分のマッチ威力 -1, 表面的中時のダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 합 위력 -1. 앞면 적중 시 피해량 +10%\nEN:\nClash Power -1 on self. Deal +10% damage on Heads Hit"
+  },
+  {
+    "key": "1018-panicDescription",
+    "original": "自分のマッチ威力 -2, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分のマッチ威力 -2, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 합 위력 -2. [AttackDmgUp] 1 얻음\nEN:\nClash Power -2 on self. Gain 1 [AttackDmgUp]"
+  },
+  {
+    "key": "1020-panicName",
+    "original": "分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분열\nEN:\nSplitting"
+  },
+  {
+    "key": "1020-lowMoraleDescription",
+    "original": "マッチ進行時、各マッチごとに自分へ2ダメージ。ターン開始時に[AttackUp]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ進行時、各マッチごとに自分へ2ダメージ。ターン開始時に[AttackUp]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 진행 시 매 합마다 자신의 체력 2 피해, 턴 시작 시 [AttackUp] 1 얻음.\nEN:\nLose 2 HP on self with every Clash. Gain 1 [AttackUp] at Turn Start."
+  },
+  {
+    "key": "1020-panicDescription",
+    "original": "マッチ進行時、各マッチごとに自分へ3ダメージ。ターン開始時に[AttackUp]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ進行時、各マッチごとに自分へ3ダメージ。ターン開始時に[AttackUp]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 진행 시 매 합마다 자신의 체력 3 피해, 턴 시작 시 [AttackUp] 2 얻음.\nEN:\nLose 3 HP on self with every Clash. Gain 2 [AttackUp] at Turn Start."
+  }
+]

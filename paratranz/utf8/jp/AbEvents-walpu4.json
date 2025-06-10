@@ -1,0 +1,170 @@
+[
+  {
+    "key": "836601-eventDesc",
+    "original": "再び教育チームの廊下に到着した。\n\n紫の白昼の衝撃波に耐えるためには、職務教育案内書に記載されている物理干渉保護フィールドが必要だ。\n\n教育チームのセフィラ、ホドの言葉を思い出しながら廊下に集まっていると、前と同じようにどこからか弾丸が飛んできた。\n\nそれに当たった囚人たちに、赤いフォースフィールドがちらついた。\n\n「日程表を確認するに、次の白昼まで余裕がありますね。」\n\nロビーに入る前、廊下を少し見回していた囚人1人が壁に貼られた緊急対応マニュアルを発見した。\n\nそこには、廊下のコンソールを通じて安全チームと接続された再生炉システムを活性化する方法が記されている。\n\n「これ、試してみる価値がありそうですね。」\n\n急げば、白昼が来る前に再生炉を作動させることができるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再び教育チームの廊下に到着した。\n\n紫の白昼の衝撃波に耐えるためには、職務教育案内書に記載されている物理干渉保護フィールドが必要だ。\n\n教育チームのセフィラ、ホドの言葉を思い出しながら廊下に集まっていると、前と同じようにどこからか弾丸が飛んできた。\n\nそれに当たった囚人たちに、赤いフォースフィールドがちらついた。\n\n「日程表を確認するに、次の白昼まで余裕がありますね。」\n\nロビーに入る前、廊下を少し見回していた囚人1人が壁に貼られた緊急対応マニュアルを発見した。\n\nそこには、廊下のコンソールを通じて安全チームと接続された再生炉システムを活性化する方法が記されている。\n\n「これ、試してみる価値がありそうですね。」\n\n急げば、白昼が来る前に再生炉を作動させることができるかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다시 교육팀 복도에 도착했다.\n\n자색 정오의 충격파를 견디기 위해서는 직무 교육 안내서에 적혀있는 물리 간섭 보호장이 필요하다.\n\n교육팀 세피라, 호드의 말을 떠올리며 복도에 모여있자, 이전과 똑같이 어디선가 탄환이 날아왔다.\n\n그것을 맞은 수감자들에게 붉은 역장이 아른거린다.\n\n’일정표를 살펴보면, 다음 정오까지 여유가 있네요.’\n\n로비에 들어가기 전, 잠시 복도를 살피던 중 수감자 한 명이 벽면에 붙은 긴급 대응 매뉴얼을 발견했다.\n\n그곳에는 복도의 콘솔을 통해 안전팀과 연결된 재생로 시스템을 활성화하는 방법이 적혀있다.\n\n’이거 해볼만 한 것 같아요.’\n\n서두르면 정오가 오기 전에 재생로를 작동시킬 수 있을지도 모른다.\nEN:\nWe returned to the Training Team hallways again.\n\nAccording to the Work Education manual, we're going to need the Physical Intervention Shield to survive the Noon of Violet's shockwave.\n\nWe stood huddled together at the hallway, remembering what Hod, the Sephirah of the Training Team told us. It wasn't long before the same bullets from earlier struck us.\n\nRed barriers began to form around the Sinners who were struck by the bullets.\n\n'Let's see... According to the schedule, we have some time until the next Noon arrives.'\n\nOne of the Sinners noticed an Emergency Response manual posted on the hallway walls.\n\nOn it were instructions on how to use a console installed in the hallways to activate the Regenerator systems connected to the Safety Team.\n\n'This seems like it'd be worth a try.'\n\nIf we hurry, we might be able to activate the Regenerator before the Noon arrives."
+  },
+  {
+    "key": "836601-behaveDesc",
+    "original": "どんな囚人が再生炉を作動させる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どんな囚人が再生炉を作動させる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 수감자가 재생로를 작동시킬할까?\nEN:\nWho will activate the Regenerator?"
+  },
+  {
+    "key": "836601-successDesc[0]",
+    "original": "マニュアルを熱心に読んでいた囚人{0}の表情が明るくなった。\n\nしばらくすると、再生炉の判別式が修正されたという案内音と共に、再生炉の機能の大部分が復旧された。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マニュアルを熱心に読んでいた囚人{0}の表情が明るくなった。\n\nしばらくすると、再生炉の判別式が修正されたという案内音と共に、再生炉の機能の大部分が復旧された。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매뉴얼을 열심히 읽던 {0} 수감자의 표정이 밝아졌다.\n\n얼마 지나지 않아, 재생로 판별식이 수정되었다는 안내음과 함께 재생로의 기능 대부분이 복구되었다.\nEN:\n{0}'s face lights up as they read the manual.\n\nSoon, an announcement lets us know that the Regenerator Distinguisher has been modified, reactivating most functionalities of the Regenerator."
+  },
+  {
+    "key": "836601-failureDesc[0]",
+    "original": "マニュアルを熱心に読んでいた囚人{0}の表情が少し暗い。\n\n上手くいかないのか、かなり長い時間を費やした末…。\n\n囚人{0}が基本的な再生炉の機能を活性化することに成功した。\n\n次の試練まであまり時間が残されていない。\n\nこれ以上コンソールと格闘する余裕はなさそうなので、囚人たちと共にロビーへ入った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マニュアルを熱心に読んでいた囚人{0}の表情が少し暗い。\n\n上手くいかないのか、かなり長い時間を費やした末…。\n\n囚人{0}が基本的な再生炉の機能を活性化することに成功した。\n\n次の試練まであまり時間が残されていない。\n\nこれ以上コンソールと格闘する余裕はなさそうなので、囚人たちと共にロビーへ入った。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매뉴얼을 열심히 읽던 {0} 수감자의 표정이 조금 어둡다.\n\n잘 해결되지 않는지 꽤 긴 시간을 붙잡고 있던 끝에…\n\n{0} 수감자가 기본적인 재생로의 기능을 활성화하는 것에 성공했다.\n\n다음 시련까지 시간이 얼마 남지 않았다.\n\n더 이상 콘솔과 씨름할 여유는 없을 것 같아, 수감자들과 함께 로비로 들어갔다.\nEN:\n{0}'s face grows darker as they read and reread the manual.\n\nThey must've hit a wall; they kept squinting at the paper for a while...\n\n... and eventually, {0} managed to reactivate the basic functionalities of the Regenerator.\n\nThere isn't much time until the next Ordeal.\n\nThere isn't any more time for us to struggle with this console. We hurried back to the lobby."
+  },
+  {
+    "key": "97103201-behaveDesc",
+    "original": "誰に発電機を確認させる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "誰に発電機を確認させる？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n누구에게 발전기를 확인시킬까?\nEN:\nWho will examine the Generator?"
+  },
+  {
+    "key": "97103201-successDesc[0]",
+    "original": "蜘蛛の糸を凝視すると、隙間に沢山の蜘蛛が見える。\n\n蜘蛛の糸だけではない。\n\n床一面を覆う闇の中で、赤い眼を輝かせながら蠢くものが見える。\n\nできるだけ顔を背けた囚人[{0}]が火花が飛び散る発電機を調べていると、故障した部品を難なく見つけた。\n\n部品を慎重に取り外した。\n\nすると全ての接続が断たれたかのように火花が止まり、隔離室の扉が一瞬にして閉まった。\n\nその瞬間、蜘蛛数匹が囚人[{0}]へ縋り付いてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蜘蛛の糸を凝視すると、隙間に沢山の蜘蛛が見える。\n\n蜘蛛の糸だけではない。\n\n床一面を覆う闇の中で、赤い眼を輝かせながら蠢くものが見える。\n\nできるだけ顔を背けた囚人[{0}]が火花が飛び散る発電機を調べていると、故障した部品を難なく見つけた。\n\n部品を慎重に取り外した。\n\nすると全ての接続が断たれたかのように火花が止まり、隔離室の扉が一瞬にして閉まった。\n\nその瞬間、蜘蛛数匹が囚人[{0}]へ縋り付いてきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거미줄을 응시하니 사이사이 거미들이 보인다.\n\n거미줄만이 아니다.\n\n바닥을 가득 채운 어둠이 붉은 눈을 빛내며 바글거리는 것이 보인다.\n\n애써 고개를 돌린 [{0}] 수감자가 스파크가 튀는 발전기를 살피던 중, 고장난 부품을 어렵지 않게 발견했다.\n\n부품을 조심스럽게 빼내었다.\n\n그러자 모든 연결이 끊긴 듯, 스파크가 멎고 격리실 문이 순식간에 닫혔다.\n\n그 순간 거미 몇마리가 [{0}] 수감자에게 달라붙었다.\nEN:\nLooking through the webs reveals... small spiders crawling within.\n\nAnd that they were no mere spiderweb.\n\nThe darkness that devoured the floor lights up, red eyes glowing and teeming.\n\n[{0}] manages to tear their eyes away from the red eyes and begin observing the fizzling generator. Thankfully, it doesn't take much time before a malfunctioning part is identified.\n\n[{0}] carefully removes the malfunctioning part...\n\n... and all of a sudden, the generator stops fizzling, and the door of the containment unit slams shut.\n\nSpiders begin crawling onto [{0}]."
+  },
+  {
+    "key": "97103201-failureDesc[0]",
+    "original": "蜘蛛の糸を凝視すると、隙間に沢山の蜘蛛が見える。\n\n蜘蛛の糸だけではない。\n\n床一面を覆う闇の中で、赤い眼を輝かせながら蠢くものが見える。\n\nできるだけ顔を背けた囚人[{0}]が火花が飛び散る発電機を調べていると、故障した部品を難なく見つけた。\n\n部品を一気に取り外すと、轟音が隔離室に響き渡った。\n\nすると驚いた蜘蛛数匹が、囚人たちに噛みつこうと襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蜘蛛の糸を凝視すると、隙間に沢山の蜘蛛が見える。\n\n蜘蛛の糸だけではない。\n\n床一面を覆う闇の中で、赤い眼を輝かせながら蠢くものが見える。\n\nできるだけ顔を背けた囚人[{0}]が火花が飛び散る発電機を調べていると、故障した部品を難なく見つけた。\n\n部品を一気に取り外すと、轟音が隔離室に響き渡った。\n\nすると驚いた蜘蛛数匹が、囚人たちに噛みつこうと襲いかかってきた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거미줄을 응시하니 사이사이 거미들이 보인다.\n\n거미줄만이 아니다.\n\n바닥을 가득 채운 어둠이 붉은 눈을 빛내며 바글거리는 것이 보인다.\n\n애써 고개를 돌린 [{0}] 수감자가 스파크가 튀는 발전기를 살피던 중, 고장난 부품을 어렵지 않게 발견했다.\n\n부품을 단번에 빼내자, 굉음이 격리실을 울렸다.\n\n그러자 놀란 거미 몇 마리가 수감자들을 물어뜯으며 달려들었다.\nEN:\nLooking through the webs reveals... small spiders crawling within.\n\nAnd that they were no mere spiderweb.\n\nThe darkness that devoured the floor lights up, red eyes glowing and teeming.\n\n[{0}] manages to tear their eyes away from the red eyes and begin observing the fizzling generator. Thankfully, it doesn't take much time before a malfunctioning part is identified.\n\n[{0}] yanks out the malfunctioning part, and the containment unit echoes with a heavy, resounding noise.\n\nA few spiders, spooked by the noise, lunge and bite at the Sinners."
+  },
+  {
+    "key": "97103301-behaveDesc",
+    "original": "どんな囚人に素早く物資を持って来いと言う？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どんな囚人に素早く物資を持って来いと言う？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 수감자에게 재빠르게 물건들을 챙기라 말할까?\nEN:\nWho will collect the items?"
+  },
+  {
+    "key": "97103301-successDesc[0]",
+    "original": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n議論が長くなると囚人[{0}]がエンケファリンとガスを両方持ってきた。\n\n「…最初からこうすれば良かったですね。」\n\n部屋であまりにも長い時間を過ごしたせいだろうか。\n\n廊下に出ると、通過してきた通路から巨大な何かが迫ってくる。\n\n私たちは素早く反対方向へと駆け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n議論が長くなると囚人[{0}]がエンケファリンとガスを両方持ってきた。\n\n「…最初からこうすれば良かったですね。」\n\n部屋であまりにも長い時間を過ごしたせいだろうか。\n\n廊下に出ると、通過してきた通路から巨大な何かが迫ってくる。\n\n私たちは素早く反対方向へと駆け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'정체를 알 수 없는 가스는 위험하다! 엔케팔린만 담아서 나가는 것이 낫겠군.'\n\n'흥, 아무것도 모르는 소리.'\n\n수감자들은 이내 파벌이 나뉘듯 두갈래로 갈라져 논쟁을 벌이기 시작했다.\n\n논쟁이 길어지자 [{0}] 수감자가 엔케팔린과 가스를 모두 챙겼다.\n\n'…진작 이럴 걸 그랬네요.'\n\n너무 오랜 시간을 방에서 보낸 탓일까.\n\n복도로 나가니, 지나왔던 통로에서 커다란 무언가 몰려온다.\n\n우리는 재빠르게 반대 방향으로 달려갔다.\nEN:\n'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nWhen the argument began to turn into an extended debate, [{0}] picked up both the Enkephalin and the gas canister.\n\n'I should've just done that from the get-go instead of letting you guys waste time at loggerheads.'\n\nWe must've wasted too much time in there.\n\nUpon exiting the corridor, we're greeted by a giant something rushing in our direction from where we were earlier.\n\nWe quickly ran the other way."
+  },
+  {
+    "key": "97103301-failureDesc[0]",
+    "original": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n議論が長くなると囚人[{0}]がエンケファリンとガスを両方持ってきた。\n\n「うむ。あまりにも遅延した。」\n\n部屋であまりにも長い時間を過ごしたせいだろうか。\n\n廊下に出ると、通過してきた通路から巨大な何かが迫ってくる。\n\n逃げるには遅すぎた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「正体不明のガスは危険だ！エンケファリンだけ溜めて持っていくのが良いだろう。」\n\n「ふん、何も分かっちゃいないな。」\n\n囚人たちは派閥を分けたかのように、2グループに分かれて議論を始めた。\n\n議論が長くなると囚人[{0}]がエンケファリンとガスを両方持ってきた。\n\n「うむ。あまりにも遅延した。」\n\n部屋であまりにも長い時間を過ごしたせいだろうか。\n\n廊下に出ると、通過してきた通路から巨大な何かが迫ってくる。\n\n逃げるには遅すぎた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'정체를 알 수 없는 가스는 위험하다! 엔케팔린만 담아서 나가는 것이 낫겠군.'\n\n'흥, 아무것도 모르는 소리.'\n\n수감자들은 이내 파벌이 나뉘듯 두갈래로 갈라져 논쟁을 벌이기 시작했다.\n\n논쟁이 길어지자 [{0}] 수감자가 엔케팔린과 가스를 모두 챙겼다.\n\n'음. 시간이 너무 지체되었다.'\n\n너무 오랜 시간을 방에서 보낸 탓일까.\n\n복도로 나가니, 지나왔던 통로에서 커다란 무언가 몰려온다.\n\n도망치기엔 이미 늦었다.\nEN:\n'It is a terrible strategy to mess with gas you don't know the effects of! I say that we leave the gas and take only the Enkephalin.'\n\n'Hmph, you don't know what you're blathering about.'\n\nThe Sinners soon split into two parties and begin arguing with one another.\n\nWhen the argument began to turn into an extended debate, [{0}] picked up both the Enkephalin and the gas canister.\n\n'Mm. Our departure was overly delayed.'\n\nWe must've wasted too much time in there.\n\nUpon exiting the corridor, we're greeted by a giant something rushing in our direction from where we were earlier.\n\nIt's too late to run."
+  },
+  {
+    "key": "97103401-behaveDesc",
+    "original": "祈りを捧げる正直な囚人は誰だろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "祈りを捧げる正直な囚人は誰だろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기도를 올릴 정직한 수감자는 누구인가?\nEN:\nWhich earnest Sinner will pray?"
+  },
+  {
+    "key": "97103401-successDesc[0]",
+    "original": "囚人[{0}]は骸骨の前に立ち、祈りを捧げた。\n\n何に向かって祈っているのかは聞こえない。\n\n何のために祈っているのかも聞こえない。\n\n何一つ神聖ではないこの空間では、それが本当に祈りだったのかさえも分からない。\n\n空虚な眼窩の間から、まるで断罪者のような視線が降り注ぐ。\n\n時折歯をぶつけながら威嚇するような音を出すが、囚人[{0}]は骸骨が自分を害さないと信じているかのように冷静だ。\n\n敬虔な儀式が終わった後、正体不明の光が降り注ぐ場所に、骸骨に似た案山子(かかし)が1つみすぼらしく立っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]は骸骨の前に立ち、祈りを捧げた。\n\n何に向かって祈っているのかは聞こえない。\n\n何のために祈っているのかも聞こえない。\n\n何一つ神聖ではないこの空間では、それが本当に祈りだったのかさえも分からない。\n\n空虚な眼窩の間から、まるで断罪者のような視線が降り注ぐ。\n\n時折歯をぶつけながら威嚇するような音を出すが、囚人[{0}]は骸骨が自分を害さないと信じているかのように冷静だ。\n\n敬虔な儀式が終わった後、正体不明の光が降り注ぐ場所に、骸骨に似た案山子(かかし)が1つみすぼらしく立っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자는 해골의 앞에 서서 기도했다.\n\n무엇을 향해서 기도하는지 들리지 않는다.\n\n무엇을 위해서 기도하는지 들리지 않는다.\n\n무엇 하나 신성하지 않은 이 공간에서 그것이 기도였는지조차 알 수 없다.\n\n공허한 눈구멍 사이로 단죄자와 같은 시선이 쏟아져내린다.\n\n이따금씩 이빨을 맞부딪히며 위협적인 소리를 내지만, [{0}] 수감자는 해골이 자신을 해치지 않으리라 여기는 듯 침착하다.\n\n경건한 의식이 끝난 뒤, 정체불명의 빛이 쏟아지는 장소에 해골과 닮은 허수아비 하나가 초라하게 서 있다.\nEN:\n[{0}] prays before the skull.\n\nTo whom they pray, we cannot hear.\n\nFor what they pray, we cannot hear.\n\nWe cannot know if that even was a prayer, in this place of unholiness.\n\nGaze of judgment cascades from the hollows of the Skull's eyes.\n\nIt makes a threatening noise from time to time, snapping its teeth together, but [{0}] remains calm, certain that the Skull will not hurt them.\n\nOnce the pious ritual was over, a solitary scarecrow stands in the place of the great Skull, showering in the mysterious light."
+  },
+  {
+    "key": "97103401-failureDesc[0]",
+    "original": "囚人[{0}]は骸骨の前に立ち、祈りを捧げた。\n\n何に向かって祈っているのかは聞こえない。\n\n何のために祈っているのかも聞こえない。\n\n何一つ神聖ではないこの空間では、それが本当に祈りだったのかさえも分からない。\n\n空虚な眼窩の間から、まるで断罪者のような視線が降り注ぐ。\n\n時折歯をぶつけながら威嚇するような音を出すと、囚人[{0}]は骸骨の動きを注意深く観察しながら、不安げに体を震わせている。\n\n敬虔な儀式が終わった後、正体不明の光が降り注ぐ場所に、骸骨に似た案山子(かかし)が1つみすぼらしく立っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]は骸骨の前に立ち、祈りを捧げた。\n\n何に向かって祈っているのかは聞こえない。\n\n何のために祈っているのかも聞こえない。\n\n何一つ神聖ではないこの空間では、それが本当に祈りだったのかさえも分からない。\n\n空虚な眼窩の間から、まるで断罪者のような視線が降り注ぐ。\n\n時折歯をぶつけながら威嚇するような音を出すと、囚人[{0}]は骸骨の動きを注意深く観察しながら、不安げに体を震わせている。\n\n敬虔な儀式が終わった後、正体不明の光が降り注ぐ場所に、骸骨に似た案山子(かかし)が1つみすぼらしく立っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자는 해골의 앞에 서서 기도했다.\n\n무엇을 향해서 기도하는지 들리지 않는다.\n\n무엇을 위해서 기도하는지 들리지 않는다.\n\n무엇 하나 신성하지 않은 이 공간에서 그것이 기도였는지조차 알 수 없다.\n\n공허한 눈구멍 사이로 단죄자와 같은 시선이 쏟아져내린다.\n\n이따금씩 이빨을 맞부딪히며 위협적인 소리를 내자, [{0}] 수감자는 해골의 동세를 살피며 불안한 듯 몸을 떤다.\n\n경건한 의식이 끝난 뒤, 정체불명의 빛이 쏟아지는 장소에 해골과 닮은 허수아비 하나가 초라하게 서 있다.\nEN:\n[{0}] prays before the skull.\n\nTo whom they pray, we cannot hear.\n\nFor what they pray, we cannot hear.\n\nWe cannot know if that even was a prayer, in this place of unholiness.\n\nGaze of judgment cascades from the hollows of the Skull's eyes.\n\nIt makes a threatening noise from time to time, snapping its teeth together. [{0}] nervously glances at the skull, shuddering lightly from worry.\n\nOnce the pious ritual was over, a solitary scarecrow stands in the place of the great Skull, showering in the mysterious light."
+  },
+  {
+    "key": "97103402-behaveDesc",
+    "original": "自分の意を口にできる囚人は誰だろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の意を口にできる囚人は誰だろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 뜻을 입에 담을 수감자는 누구인가?\nEN:\nWhich Sinner will loudly convey their will?"
+  },
+  {
+    "key": "97103402-successDesc[0]",
+    "original": "囚人[{0}]は骸骨の前に立ち、朗誦(ろうしょう)を始めた。\n\nその内容は聞こえなかったが、まるで罪を告白するかのように淡々とした雰囲気だ。\n\n穴のない天井から囚人[{0}]に向かって光が降り注ぐ。\n\nその光に触れると、骸骨と同じ茨の冠が囚人[{0}]の頭にも被せられた。\n\n囚人[{0}]の朗誦が終わると、すぐに全ての囚人が一様に安堵の表情を浮かべ、そっと目を閉じた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]は骸骨の前に立ち、朗誦(ろうしょう)を始めた。\n\nその内容は聞こえなかったが、まるで罪を告白するかのように淡々とした雰囲気だ。\n\n穴のない天井から囚人[{0}]に向かって光が降り注ぐ。\n\nその光に触れると、骸骨と同じ茨の冠が囚人[{0}]の頭にも被せられた。\n\n囚人[{0}]の朗誦が終わると、すぐに全ての囚人が一様に安堵の表情を浮かべ、そっと目を閉じた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자는 해골의 앞에 서서 낭송을 시작했다.\n\n그 내용은 들리지 않았지만, 마치 죄를 고백하는 듯 담백한 분위기다.\n\n뚫리지 않은 천장에서 [{0}] 수감자를 향해 빛이 내려온다.\n\n빛이 닿자, 해골과 같은 가시나무 왕관이 [{0}] 수감자의 머리에도 씌워졌다.\n\n[{0}] 수감자의 읊조림이 끝난 직후, 모든 수감자가 한결 편안한 표정으로 지그시 눈을 감았다.\nEN:\n[{0}] begins to recite before the skull.\n\nWe cannot hear the contents of their recital, but it is calm and honest, as though they are confessing their sins.\n\nA ray of light showers over [{0}], though there is no opening in the ceiling.\n\nWhen the light hits [{0}], a crown of thorns, the same crown worn by the skull, lands itself above their head.\n\nWhen [{0}]'s recital ends, every Sinner closes their eyes with a peaceful expression."
+  },
+  {
+    "key": "97103402-failureDesc[0]",
+    "original": "囚人[{0}]は骸骨の前に立ち、朗誦(ろうしょう)を始めた。\n\nその内容は聞こえなかったが、まるで罪を告白するかのように淡々とした雰囲気だ。\n\nその瞬間、微かな光が閃いた。\n\n光が収まると、骸骨と同じ茨の冠が囚人[{0}]の頭にも被せられた。\n\n茨の痛みに囚人[{0}]は一瞬苦しんだが、それはほんの一瞬だった。\n\nやがて囚人[{0}]は何かを悟ったかのように明るい表情になり、そっと目を閉じた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]は骸骨の前に立ち、朗誦(ろうしょう)を始めた。\n\nその内容は聞こえなかったが、まるで罪を告白するかのように淡々とした雰囲気だ。\n\nその瞬間、微かな光が閃いた。\n\n光が収まると、骸骨と同じ茨の冠が囚人[{0}]の頭にも被せられた。\n\n茨の痛みに囚人[{0}]は一瞬苦しんだが、それはほんの一瞬だった。\n\nやがて囚人[{0}]は何かを悟ったかのように明るい表情になり、そっと目を閉じた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자는 해골의 앞에 서서 낭송을 시작했다.\n\n그 내용은 들리지 않았지만, 마치 죄를 고백하는 듯 담백한 분위기다.\n\n순간 희미한 빛이 번쩍였다.\n\n빛이 사그라들자, 해골과 같은 가시나무 왕관이 [{0}] 수감자의 머리에도 씌워졌다.\n\n가시의 아픔에 [{0}] 수감자가 괴로워했지만, 그것은 아주 잠깐이었다.\n\n이내 [{0}] 수감자는 무언가 일깨운 듯 밝아진 표정으로 지그시 눈을 감았다.\nEN:\n[{0}] begins to recite before the skull.\n\nWe cannot hear the contents of their recital, but it is calm and honest, as though they are confessing their sins.\n\nA ray of light showers over [{0}], though there is no opening in the ceiling.\n\nWhen the light hits [{0}], a crown of thorns, the same crown worn by the skull, lands itself above their head.\n\n[{0}] briefly writhes in pain as the thorns of the crown begin digging into their scalp; but the pain is transient.\n\nAfter a moment passes, [{0}] closes their eyes as their expression lightens, as though they came to a certain realization."
+  },
+  {
+    "key": "97103601-behaveDesc",
+    "original": "どんな囚人にプレゼントを持って来いと言う？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どんな囚人にプレゼントを持って来いと言う？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 수감자에게 선물을 가져오라 말할까?\nEN:\nWho will retrieve the gifts?"
+  },
+  {
+    "key": "97103601-successDesc[0]",
+    "original": "囚人[{0}]が、プレゼントを作るノームたちのもとへ近づいた。\n\nノームたちはぼんやりと囚人[{0}]を見つめたかと思うと、嬉しそうに工具を高々と掲げた。\n\n「人間だノム！！」\n\n「人間が足りなかったし丁度良かったノム！！」\n\n「すぐに連れて行くノム！！」\n\nノームは素早く囚人[{0}]を連れ去り、ラッピングし始めた。\n\n急いで他の囚人たちと、囚人[{0}]を箱ごと抱えて脱出した。\n\n囚人[{0}]はプレゼントにされかけたせいか、疲れて見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]が、プレゼントを作るノームたちのもとへ近づいた。\n\nノームたちはぼんやりと囚人[{0}]を見つめたかと思うと、嬉しそうに工具を高々と掲げた。\n\n「人間だノム！！」\n\n「人間が足りなかったし丁度良かったノム！！」\n\n「すぐに連れて行くノム！！」\n\nノームは素早く囚人[{0}]を連れ去り、ラッピングし始めた。\n\n急いで他の囚人たちと、囚人[{0}]を箱ごと抱えて脱出した。\n\n囚人[{0}]はプレゼントにされかけたせいか、疲れて見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자가 선물을 만드는 노움들에게 다가갔다.\n\n노움들은 멍하니 [{0}] 수감자를 바라보더니, 신이 난 듯 공구를 하늘 높이 치켜올렸다.\n\n'인간이다움!!'\n\n'인간이 부족했는데 잘됐움!!'\n\n'당장 데려가는 것이움!!'\n\n[{0}] 수감자를 노움이 재빨리 데려가 포장하기 시작했다.\n\n다급히 다른 수감자들과 [{0}] 수감자를 상자째로 데리고 탈출했다.\n\n[{0}] 수감자는 선물이 될 뻔했다는 것 때문인지 지쳐 보인다.\nEN:\n{0} approached the gnomes who were busily packing away at the gifts.\n\nThey stared at {0} with blank expressions for a moment, before raising their tools sky-high in unison.\n\n'Human-ome!!'\n\n'We were runnin' pretty low on human supply-ome! How timely-ome!!'\n\n'Let's take 'em-ome!'\n\nThe gnomes surrounded {0} and quickly began packing the Sinner into a gift box before we had the chance to do anything.\n\nWe quickly grabbed the box {0} was presently getting stuffed into and escaped the scene.\n\n{0} seems pretty shaken up, which seems like a reasonable response given that they were almost turned into a gift."
+  },
+  {
+    "key": "97103601-successDesc[1]",
+    "original": "囚人[{0}]が、プレゼントを作るノームたちのもとへ近づいた。\n\nノームたちはぼんやりと囚人[{0}]を見つめたかと思うと、嬉しそうに工具を高々と掲げた。\n\n「人間だノム！！」\n\n「人間が足りなかったし丁度良かったノム！！」\n\n「すぐに連れて行くノム！！」\n\nノームは素早く囚人[{0}]を連れ去り、ラッピングし始めた。\n\n急いで他の囚人たちと、囚人[{0}]を箱ごと抱えて脱出した。\n\n囚人[{0}]はプレゼントにされかけたせいか、疲れて見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]が、プレゼントを作るノームたちのもとへ近づいた。\n\nノームたちはぼんやりと囚人[{0}]を見つめたかと思うと、嬉しそうに工具を高々と掲げた。\n\n「人間だノム！！」\n\n「人間が足りなかったし丁度良かったノム！！」\n\n「すぐに連れて行くノム！！」\n\nノームは素早く囚人[{0}]を連れ去り、ラッピングし始めた。\n\n急いで他の囚人たちと、囚人[{0}]を箱ごと抱えて脱出した。\n\n囚人[{0}]はプレゼントにされかけたせいか、疲れて見える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자가 선물을 만드는 노움들에게 다가갔다.\n\n노움들은 멍하니 [{0}] 수감자를 바라보더니, 신이 난 듯 공구를 하늘 높이 치켜올렸다.\n\n'인간이다움!!'\n\n'인간이 부족했는데 잘됐움!!'\n\n'당장 데려가는 것이움!!'\n\n[{0}] 수감자를 노움이 재빨리 데려가 포장하기 시작했다.\n\n다급히 다른 수감자들과 [{0}] 수감자를 상자째로 데리고 탈출했다.\n\n[{0}] 수감자는 선물이 될 뻔했다는 것 때문인지 지쳐 보인다.\nEN:\n{0} approached the gnomes who were busily packing away at the gifts.\n\nThey stared at {0} with blank expressions for a moment, before raising their tools sky-high in unison.\n\n'Human-ome!!'\n\n'We were runnin' pretty low on human supply-ome! How timely-ome!!'\n\n'Let's take 'em-ome!'\n\nThe gnomes surrounded {0} and quickly began packing the Sinner into a gift box before we had the chance to do anything.\n\nWe quickly grabbed the box {0} was presently getting stuffed into and escaped the scene.\n\n{0} seems pretty shaken up, which seems like a reasonable response given that they were almost turned into a gift."
+  },
+  {
+    "key": "97103601-failureDesc[0]",
+    "original": "囚人[{0}]が、プレゼントを作るノームたちのもとへ近づいた。\n\nノームたちはぼんやりと囚人[{0}]を見つめたかと思うと、嬉しそうに工具を高々と掲げた。\n\n「人間だノム！！」\n\n「人間が足りなかったし丁度良かったノム！！」\n\n「すぐに連れて行くノム！！」\n\nノームは素早く囚人[{0}]を連れ去り、ラッピングし始めた。\n\n急いで他の囚人たちと、囚人[{0}]を救出しに行ったけど…。\n\n既に囚人[{0}]はプレゼントになってしまっていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]が、プレゼントを作るノームたちのもとへ近づいた。\n\nノームたちはぼんやりと囚人[{0}]を見つめたかと思うと、嬉しそうに工具を高々と掲げた。\n\n「人間だノム！！」\n\n「人間が足りなかったし丁度良かったノム！！」\n\n「すぐに連れて行くノム！！」\n\nノームは素早く囚人[{0}]を連れ去り、ラッピングし始めた。\n\n急いで他の囚人たちと、囚人[{0}]を救出しに行ったけど…。\n\n既に囚人[{0}]はプレゼントになってしまっていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자가 선물을 만드는 노움들에게 다가갔다.\n\n노움들은 멍하니 [{0}] 수감자를 바라보더니, 신이 난 듯 공구를 하늘 높이 치켜올렸다.\n\n'인간이다움!!'\n\n'인간이 부족했는데 잘됐움!!'\n\n'당장 데려가는 것이움!!'\n\n[{0}] 수감자를 노움이 재빨리 데려가 포장하기 시작했다.\n\n다급히 다른 수감자들과 [{0}] 수감자를 구출하러 갔지만...\n\n이미 [{0}] 수감자는 선물이 되어버렸다.\nEN:\n{0} approached the gnomes who were busily packing away at the gifts.\n\nThey stared at {0} with blank expressions for a moment, before raising their tools sky-high in unison.\n\n'Human-ome!!'\n\n'We were runnin' pretty low on human supply-ome! How timely-ome!!'\n\n'Let's take 'em-ome!'\n\nThe gnomes surrounded {0} and quickly began packing the Sinner into a gift box before we had the chance to do anything.\n\nWe immediately rushed toward the gnomes, trying to rescue {0}, but...\n\n{0} was already turned into a gift..."
+  },
+  {
+    "key": "97103701-behaveDesc",
+    "original": "どんな囚人が近寄るんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どんな囚人が近寄るんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 수감자가 다가갈 것인가?\nEN:\nWho will approach?"
+  },
+  {
+    "key": "97103701-successDesc[0]",
+    "original": "囚人[{0}]が足を踏み出すたびに、木の床が軋(きし)む。\n\n周囲の明かりは、まるで警告するかのように不安げに揺れる。\n\n囚人[{0}]はゆっくりと腰をかがめ、ベッドの下を覗き込んだ。\n\nそこには、灯りの消えたランタンと燭台が転がっていた。\n\n心配していたものは見当たらない。\n\nベッドの下には、何ひとつ棲んでいない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]が足を踏み出すたびに、木の床が軋(きし)む。\n\n周囲の明かりは、まるで警告するかのように不安げに揺れる。\n\n囚人[{0}]はゆっくりと腰をかがめ、ベッドの下を覗き込んだ。\n\nそこには、灯りの消えたランタンと燭台が転がっていた。\n\n心配していたものは見当たらない。\n\nベッドの下には、何ひとつ棲んでいない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자가 발을 내디딜 때마다, 나무 바닥이 끼릭거린다.\n\n주변의 불빛은 경고를 보내듯 불안하게 흔들린다.\n\n[{0}] 수감자가 천천히 허리를 숙여, 침대 밑을 바라보았다.\n\n그곳에는 타오르지 않는 랜턴과 촛대가 쓰러져있다.\n\n걱정하던 것은 보이지 않는다.\n\n침대 밑에는 그 무엇도 살고 있지 않다.\nEN:\nThe wooden floorboards creak with {0}'s every step.\n\nLights surrounding the bed dance ominously, as though to warn us to not approach it.\n\n{0} carefully leans down to take a look under the bed.\n\nThere's a snuffed lantern and a candlestick, both toppled over.\n\nOur worst fears are nowhere to be seen.\n\nNothing lives under the bed."
+  },
+  {
+    "key": "97103701-successDesc[1]",
+    "original": "囚人[{0}]が足を踏み出すたびに、木の床が軋(きし)む。\n\n周囲の明かりは、まるで警告するかのように不安げに揺れる。\n\n囚人[{0}]はゆっくりと腰をかがめ、ベッドの下を覗き込んだ。\n\nそこには、灯りの消えたランタンと燭台が転がっていた。\n\n心配していたものは見当たらない。\n\nベッドの下には、何ひとつ棲んでいない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]が足を踏み出すたびに、木の床が軋(きし)む。\n\n周囲の明かりは、まるで警告するかのように不安げに揺れる。\n\n囚人[{0}]はゆっくりと腰をかがめ、ベッドの下を覗き込んだ。\n\nそこには、灯りの消えたランタンと燭台が転がっていた。\n\n心配していたものは見当たらない。\n\nベッドの下には、何ひとつ棲んでいない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자가 발을 내디딜 때마다, 나무 바닥이 끼릭거린다.\n\n주변의 불빛은 경고를 보내듯 불안하게 흔들린다.\n\n[{0}] 수감자가 천천히 허리를 숙여, 침대 밑을 바라보았다.\n\n그곳에는 타오르지 않는 랜턴과 촛대가 쓰러져있다.\n\n걱정하던 것은 보이지 않는다.\n\n침대 밑에는 그 무엇도 살고 있지 않다.\nEN:\nThe wooden floorboards creak with {0}'s every step.\n\nLights surrounding the bed dance ominously, as though to warn us to not approach it.\n\n{0} carefully leans down to take a look under the bed.\n\nThere's a snuffed lantern and a candlestick, both toppled over.\n\nOur worst fears are nowhere to be seen.\n\nNothing lives under the bed."
+  },
+  {
+    "key": "97103701-failureDesc[0]",
+    "original": "囚人[{0}]が足を踏み出すたびに、木の床が軋(きし)む。\n\n周囲の明かりは、まるで警告するかのように不安げに揺れる。\n\n囚人[{0}]はゆっくりと腰をかがめ、ベッドの下を覗き込んだ。\n\n囚人[{0}]はしばらく固まったままだったが、しばらくしてゆっくりと後退った。\n\n床を引っ掻く音が聞こえ、振り返る間もなく他の囚人たちと一緒に部屋から飛び出した。\n\nベッドの下には、怪物が棲んでいる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人[{0}]が足を踏み出すたびに、木の床が軋(きし)む。\n\n周囲の明かりは、まるで警告するかのように不安げに揺れる。\n\n囚人[{0}]はゆっくりと腰をかがめ、ベッドの下を覗き込んだ。\n\n囚人[{0}]はしばらく固まったままだったが、しばらくしてゆっくりと後退った。\n\n床を引っ掻く音が聞こえ、振り返る間もなく他の囚人たちと一緒に部屋から飛び出した。\n\nベッドの下には、怪物が棲んでいる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[{0}] 수감자가 발을 내디딜 때마다, 나무 바닥이 끼릭거린다.\n\n주변의 불빛은 경고를 보내듯 불안하게 흔들린다.\n\n[{0}] 수감자가 천천히 허리를 숙여, 침대 밑을 바라보았다.\n\n호기심에 들여다본 어둠은 깊고, 숨 막힐 정도로 고요하다.\n\n[{0}] 수감자는 한참을 굳어있다가, 천천히 뒷걸음질 친다.\n\n바닥을 긁는 소리가 들리고, 뒤를 돌아볼 새도 없이 수감자들과 방에서 뛰쳐나갔다.\n\n침대 밑에는 괴물이 살고 있다.\nEN:\nThe wooden floorboards creak with {0}'s every step.\n\nLights surrounding the bed dance ominously, as though to warn us to not approach it.\n\n{0} carefully leans down to take a look under the bed.\n\nThe darkness there, which we were convinced by our curiosity to peer into, is a suffocating quiet.\n\n{0} sits there, complefely frozen in their hunched posture, before slowly stepping away from the bed.\n\nSomething scratches the floorboards. As if on cue, we immediately turn around and scramble out of that room.\n\nA monster lives under the bed."
+  }
+]

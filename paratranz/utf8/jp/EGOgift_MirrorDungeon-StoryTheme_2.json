@@ -1,0 +1,478 @@
+[
+  {
+    "key": "9427-name",
+    "original": "町を守る銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "町を守る銛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마을을 지킬 작살\nEN:\nTown-protecting Harpoon"
+  },
+  {
+    "key": "9427-desc",
+    "original": "[編成6番人格専用効果]\nターン終了時、現体力が最大値の30パーセント未満なら、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成6番人格専用効果]\nターン終了時、現体力が最大値の30パーセント未満なら、次のターンに[Enhancement]を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 6번 인격 전용 효과]\n턴 종료 시, 현재 체력이 최대 체력의 30% 미만이면, 다음 턴에 [Enhancement] 1 얻음\nEN:\n[Effects apply only to #6 Deployed Identity]\n\nTurn End: At less than 30% HP, gain 1 [Enhancement] next turn"
+  },
+  {
+    "key": "9427-simpleDesc[0].simpleDesc",
+    "original": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 공격 위력 증가 1 얻음\nEN:\nGain 1 Attack Power Up next turn"
+  },
+  {
+    "key": "19427-name",
+    "original": "町を守る銛+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "町を守る銛+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마을을 지킬 작살+\nEN:\nTown-protecting Harpoon+"
+  },
+  {
+    "key": "19427-desc",
+    "original": "[編成6番人格専用効果]\nターン終了時、現体力が最大値の40%未満なら、次のターンに[Enhancement]を1得る\n\nターン終了時、混乱している味方がいるなら次のターンに[Aggro]が6増加。[DefenseUp]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成6番人格専用効果]\nターン終了時、現体力が最大値の40%未満なら、次のターンに[Enhancement]を1得る\n\nターン終了時、混乱している味方がいるなら次のターンに[Aggro]が6増加。[DefenseUp]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 6번 인격 전용 효과]\n턴 종료 시, 현재 체력이 최대 체력의 40% 미만이면, 다음 턴에 [Enhancement] 1 얻음\n\n턴 종료 시, 아군 중 흐트러진 대상이 있다면, 다음 턴에 [Aggro] 6 증가. [DefenseUp] 4 얻음\nEN:\n[Effects apply only to #6 Deployed Identity]\nTurn End: at less than 40% HP, gain 1 [Enhancement] next turn\n\nTurn End: if there is a Staggered ally, gain +6 [Aggro] next turn and gain 4 [DefenseUp] next turn"
+  },
+  {
+    "key": "19427-simpleDesc[0].simpleDesc",
+    "original": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 공격 위력 증가 1 얻음\nEN:\nGain 1 Attack Power Up next turn"
+  },
+  {
+    "key": "19427-simpleDesc[1].simpleDesc",
+    "original": "次のターンに挑発値6, 防御レベル増加4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに挑発値6, 防御レベル増加4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 도발치 6, 방어 레벨 증가 4 얻음\nEN:\nGain +6 Aggro and 4 Defense Level Up next turn"
+  },
+  {
+    "key": "29427-name",
+    "original": "町を守る銛++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "町を守る銛++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마을을 지킬 작살++\nEN:\nTown-protecting Harpoon++"
+  },
+  {
+    "key": "29427-desc",
+    "original": "[編成6番人格専用効果]\nターン終了時、現体力が最大値の50%未満なら、次のターンに[Enhancement]を1得る\n\nターン終了時、混乱している味方がいるなら次のターンに[Aggro]が6増加。[DefenseUp]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成6番人格専用効果]\nターン終了時、現体力が最大値の50%未満なら、次のターンに[Enhancement]を1得る\n\nターン終了時、混乱している味方がいるなら次のターンに[Aggro]が6増加。[DefenseUp]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 6번 인격 전용 효과]\n턴 종료 시, 현재 체력이 최대 체력의 50% 미만이면, 다음 턴에 [Enhancement] 1 얻음\n\n턴 종료 시, 아군 중 흐트러진 대상이 있다면, 다음 턴에 [Aggro] 6 증가. [DefenseUp] 4 얻음\nEN:\n[Effects apply only to #6 Deployed Identity]\nTurn End: at less than 50% HP, gain 1 [Enhancement] next turn\n\nTurn End: if there is a Staggered ally, gain +6 [Aggro] next turn and gain 4 [DefenseUp] next turn"
+  },
+  {
+    "key": "29427-simpleDesc[0].simpleDesc",
+    "original": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに攻撃威力増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 공격 위력 증가 1 얻음\nEN:\nGain 1 Attack Power Up next turn"
+  },
+  {
+    "key": "29427-simpleDesc[1].simpleDesc",
+    "original": "次のターンに挑発値6, 防御レベル増加4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに挑発値6, 防御レベル増加4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 도발치 6, 방어 레벨 증가 4 얻음\nEN:\nGain +6 Aggro and 4 Defense Level Up next turn"
+  },
+  {
+    "key": "9428-name",
+    "original": "鯨の心臓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鯨の心臓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고래의 심장\nEN:\nCetacean Heart"
+  },
+  {
+    "key": "9428-desc",
+    "original": "[Laceration]が付与された敵に攻撃スキル的中時、[Breath]1を得る(キャラクター1名ごとに1ターンにつき3回発動)\nスキル的中時にクリティカルが発生したなら、50%の確率で[Breath]回数が減少しない(キャラクター1名ごとに1ターンにつき1回発動。E.G.Oスキルと反撃を含む)\n基本スキルでクリティカル表面的中時、該当コインで付与するマイナス効果の数値が1増加する。(キャラクター1名ごとに1ターンにつき1回発動。E.G.Oスキルを除く、反撃を含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Laceration]が付与された敵に攻撃スキル的中時、[Breath]1を得る(キャラクター1名ごとに1ターンにつき3回発動)\nスキル的中時にクリティカルが発生したなら、50%の確率で[Breath]回数が減少しない(キャラクター1名ごとに1ターンにつき1回発動。E.G.Oスキルと反撃を含む)\n基本スキルでクリティカル表面的中時、該当コインで付与するマイナス効果の数値が1増加する。(キャラクター1名ごとに1ターンにつき1回発動。E.G.Oスキルを除く、反撃を含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Laceration]이 부여된 적에게 공격 스킬 적중 시 [Breath] 1을 얻음. (캐릭터 1명당 턴 당 3회 발동)\n스킬 적중 시 크리티컬이 발생했다면, 50% 확률로 [Breath] 횟수가 감소하지 않음 (캐릭터 1명당 턴 당 1회 발동, E.G.O 스킬 포함, 반격 포함)\n기본 스킬로 크리티컬 앞면 적중 시 해당 코인으로 부여하는 부정적인 효과의 수치가 1 증가함. (캐릭터 1명당 턴 당 1회 발동, E.G.O 스킬 제외, 반격 포함)\nEN:\nOn Hit against enemies with [Laceration] with an Attack Skill, gain 1 [Breath]. (3 times per turn for each character)\nOn Crit, 50% chance to not consume [Breath] Count (once per turn for each character; including E.G.O Skills and Counter Skills)\nOn Crit Heads Hit with a Base Skill: inflict +1 more of the negative effect with that Coin. (once per turn for each character; including E.G.O Skills and Counter Skills)"
+  },
+  {
+    "key": "9428-simpleDesc[0].simpleDesc",
+    "original": "呼吸1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 1 얻음\nEN:\nGain 1 Poise"
+  },
+  {
+    "key": "9428-simpleDesc[1].simpleDesc",
+    "original": "確率で呼吸回数が減少しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "確率で呼吸回数が減少しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n확률적으로 호흡 횟수 감소하지 않음\nEN:\nChance to not lose Poise Count"
+  },
+  {
+    "key": "9428-simpleDesc[2].simpleDesc",
+    "original": "マイナス効果の数値が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マイナス効果の数値が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부정적인 효과의 수치가 1 증가\nEN:\nInflict 1 more of the negative effect"
+  },
+  {
+    "key": "9431-name",
+    "original": "壊れたヴァイオリン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れたヴァイオリン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 바이올린\nEN:\nBroken Violin"
+  },
+  {
+    "key": "9431-desc",
+    "original": "[編成5・6番人格専用効果]\n\n自分の体力が45%以下になると、マッチ勝利時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n自分の体力が20%以下になると、この効果の代わりにスキル使用時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成5・6番人格専用効果]\n\n自分の体力が45%以下になると、マッチ勝利時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n自分の体力が20%以下になると、この効果の代わりにスキル使用時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성  5번, 6번 인격 전용 효과]\n\n자신의 체력이 45% 이하가 되면, 합 승리 시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음  (캐릭터당 턴 당 2회)\n\n자신의 체력이 20% 이하가 되면, 효과를 대신하여 스킬 사용시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음 (캐릭터당 턴 당 2회)\nEN:\n[Effects apply only to #5 and #6 Deployed Identities]\n\nAt 45%- HP, gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Clash Win (2 times per turn for each character)\n\nAt 20%- HP, gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Skill Use instead (2 times per turn for each character)"
+  },
+  {
+    "key": "9431-simpleDesc[0].simpleDesc",
+    "original": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가, 체력 회복 증가 1 얻음\nEN:\nGain 1 Offense Level Up & 1 HP Healing Boost"
+  },
+  {
+    "key": "9431-simpleDesc[1].simpleDesc",
+    "original": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가, 체력 회복 증가 1 얻음\nEN:\nGain 1 Offense Level Up & 1 HP Healing Boost"
+  },
+  {
+    "key": "19431-name",
+    "original": "壊れたヴァイオリン+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れたヴァイオリン+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 바이올린+\nEN:\nBroken Violin+"
+  },
+  {
+    "key": "19431-desc",
+    "original": "[編成5・6番人格専用効果]\n\n自分の体力が65%以下になると、マッチ勝利時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n自分の体力が40%以下になると、この効果の代わりにスキル使用時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n5マッチ以上のマッチにて勝利した場合、マッチにて勝利したスキルでの与ダメージ量 +(マッチ回数 × 2)% (最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成5・6番人格専用効果]\n\n自分の体力が65%以下になると、マッチ勝利時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n自分の体力が40%以下になると、この効果の代わりにスキル使用時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n5マッチ以上のマッチにて勝利した場合、マッチにて勝利したスキルでの与ダメージ量 +(マッチ回数 × 2)% (最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성  5번, 6번 인격 전용 효과]\n\n자신의 체력이 65% 이하가 되면, 합 승리 시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음  (캐릭터당 턴 당 2회)\n\n자신의 체력이 40% 이하가 되면, 효과를 대신하여 스킬 사용시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음 (캐릭터당 턴 당 2회)\n\n5합 이상의 합에서 승리한 경우, 합에서 승리한 스킬로 가하는 피해량 +(합 횟수 X2)% (최대 20%)\nEN:\n[Effects apply only to #5 and #6 Deployed Identities]\n\nAt 65%- HP, gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Clash Win (2 times per turn for each character)\n\nAt 40%- HP, gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Skill Use instead (2 times per turn for each character)\n\nWhen winning a Clash after 5+ Clashes, the Skill that won the Clash deals +(# of Clashes x 2)% damage (max 20%)"
+  },
+  {
+    "key": "19431-simpleDesc[0].simpleDesc",
+    "original": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가, 체력 회복 증가 1 얻음\nEN:\nGain 1 Offense Level Up & 1 HP Healing Boost"
+  },
+  {
+    "key": "19431-simpleDesc[1].simpleDesc",
+    "original": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가, 체력 회복 증가 1 얻음\nEN:\nGain 1 Offense Level Up & 1 HP Healing Boost"
+  },
+  {
+    "key": "19431-simpleDesc[2].simpleDesc",
+    "original": "マッチ回数に比例してダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ回数に比例してダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 횟수에 비례하여 피해량 증가\nEN:\nDeal more damage based on number of Clashes"
+  },
+  {
+    "key": "29431-name",
+    "original": "壊れたヴァイオリン++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れたヴァイオリン++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 바이올린++\nEN:\nBroken Violin++"
+  },
+  {
+    "key": "29431-desc",
+    "original": "[編成5・6番人格専用効果]\n\n自分の体力が65%以下になると、マッチ勝利時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n自分の体力が40%以下になると、この効果の代わりにスキル使用時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n5マッチ以上のマッチにて勝利した場合、マッチにて勝利したスキルでの与ダメージ量 +(マッチ回数 × 3)% (最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成5・6番人格専用効果]\n\n自分の体力が65%以下になると、マッチ勝利時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n自分の体力が40%以下になると、この効果の代わりにスキル使用時に[AttackUp]1, [TakeHpHealIncrease]を1得る(キャラクターにつき1ターンごとに2回)\n\n5マッチ以上のマッチにて勝利した場合、マッチにて勝利したスキルでの与ダメージ量 +(マッチ回数 × 3)% (最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 5번, 6번 인격 전용 효과]\n\n자신의 체력이 65% 이하가 되면, 합 승리 시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음  (캐릭터당 턴 당 2회)\n\n자신의 체력이 40% 이하가 되면, 효과를 대신하여 스킬 사용시 [AttackUp] 1, [TakeHpHealIncrease]를 1 얻음 (캐릭터당 턴 당 2회)\n\n5합 이상의 합에서 승리한 경우, 합에서 승리한 스킬로 가하는 피해량 +(합 횟수 X3)% (최대 30%)\nEN:\n[Effects apply only to #5 and #6 Deployed Identities]\n\nAt 65%- HP, gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Clash Win (2 times per turn for each character)\n\nAt 40%- HP, gain 1 [AttackUp] and 1 [TakeHpHealIncrease] on Skill Use instead (2 times per turn for each character)\n\nWhen winning a Clash after 5+ Clashes, the Skill that won the Clash deals +(# of Clashes x 3)% damage (max 30%)"
+  },
+  {
+    "key": "29431-simpleDesc[0].simpleDesc",
+    "original": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가, 체력 회복 증가 1 얻음\nEN:\nGain 1 Offense Level Up & 1 HP Healing Boost"
+  },
+  {
+    "key": "29431-simpleDesc[1].simpleDesc",
+    "original": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加、体力回復増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가, 체력 회복 증가 1 얻음\nEN:\nGain 1 Offense Level Up & 1 HP Healing Boost"
+  },
+  {
+    "key": "29431-simpleDesc[2].simpleDesc",
+    "original": "マッチ回数に比例してダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ回数に比例してダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 횟수에 비례하여 피해량 증가\nEN:\nDeal more damage based on number of Clashes"
+  },
+  {
+    "key": "9432-name",
+    "original": "模型邸宅オルゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "模型邸宅オルゴール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모형 저택 오르골\nEN:\nManor-shaped Music Box"
+  },
+  {
+    "key": "9432-desc",
+    "original": "[編成1番人格専用効果]\n\nターン終了時に混乱状態になったなら混乱状態が解除され、次のターン開始時に全ての敵へ[Sinking]威力4, [Sinking]回数を4付与(戦闘につき1回発動、集中戦闘では部位で判定)\n\n[Sinking]が付与された敵を討伐時、[Sinking]回数が最も低い敵1名の[Sinking]回数が2増加(集中戦闘では部位で判定)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成1番人格専用効果]\n\nターン終了時に混乱状態になったなら混乱状態が解除され、次のターン開始時に全ての敵へ[Sinking]威力4, [Sinking]回数を4付与(戦闘につき1回発動、集中戦闘では部位で判定)\n\n[Sinking]が付与された敵を討伐時、[Sinking]回数が最も低い敵1名の[Sinking]回数が2増加(集中戦闘では部位で判定)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 1번 인격 전용 효과]\n\n턴 종료시 흐트러짐 상태가 되었을 때, 흐트러짐 상태가 해제되고, 다음 턴 시작 시 모든 적에게 [Sinking] 위력 4, [Sinking] 횟수 4 부여 (전투당 1회 발동, 집중 전투에서는 부위로 판정)\n\n[Sinking]이 부여된 적 처치 시 [Sinking] 횟수가 가장 낮은 적 1명의 [Sinking] 횟수 2 증가 (집중 전투에서는 부위로 판정)\nEN:\n[Effects apply only to the #1 Deployed Identity]\n\nTurn End: when Staggered, recover from Stagger; then, at the next Turn Start, inflict 4 [Sinking] Potency and 4 [Sinking] Count to all enemies (once per Encounter; in Focused Encounters, on all Parts)\n\nWhen defeating an enemy with [Sinking], 1 enemy with the least [Sinking] Count gains +2 [Sinking] Count (in Focused Encounters, the Part)"
+  },
+  {
+    "key": "9432-simpleDesc[0].simpleDesc",
+    "original": "次のターンに全ての敵を対象に沈潜威力、回数を4付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンに全ての敵を対象に沈潜威力、回数を4付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 모든 적에게 침잠 위력, 횟수 4 부여\nEN:\nInflict 4 Sinking Potency and Count against all enemies"
+  },
+  {
+    "key": "9432-simpleDesc[1].simpleDesc",
+    "original": "沈潜回数が最も低い敵の沈潜回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜回数が最も低い敵の沈潜回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침잠 횟수가 가장 낮은 적 침잠 횟수 2 증가\nEN:\nThe enemy with the least Sinking Count gains +2 Sinking Count"
+  },
+  {
+    "key": "9435-name",
+    "original": "バトラー式捕縛術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バトラー式捕縛術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버틀러식 포박술\nEN:\nButler Style Binding Arts"
+  },
+  {
+    "key": "9435-desc",
+    "original": "ターン開始時、前ターンに混乱状態から回復した敵へ[Binding]1を付与\n\n体力の比率が最も高い味方が攻撃的中時、対象が混乱状態なら混乱段階によってダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、前ターンに混乱状態から回復した敵へ[Binding]1を付与\n\n体力の比率が最も高い味方が攻撃的中時、対象が混乱状態なら混乱段階によってダメージ量 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 이전 턴에 흐트러짐 상태에서 회복한 적에게 [Binding] 1 부여\n\n체력 비율이 가장 높은 아군이 공격 적중 시, 대상이 흐트러짐 상태라면, 흐트러짐 단계에 따라 피해량 +7.5%\nEN:\nTurn Start: inflict 1 [Binding] against the enemy who recovered from Stagger last turn\n\nOn Hit from an ally with the highest HP percentage: if the target is Staggered, deal +7.5% damage for every Stagger Level."
+  },
+  {
+    "key": "9435-simpleDesc[0].simpleDesc",
+    "original": "混乱から回復した敵へ束縛1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱から回復した敵へ束縛1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐에서 회복한 적에게 속박 1 부여\nEN:\nInflict 1 Bind on the enemy that recovered from Stagger"
+  },
+  {
+    "key": "9435-simpleDesc[1].simpleDesc",
+    "original": "対象の混乱段階によってダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の混乱段階によってダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 흐트러짐 단계에 따라 피해량 증가\nEN:\nDeal more damage based on the target's Stagger LV"
+  },
+  {
+    "key": "19435-name",
+    "original": "バトラー式捕縛術+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バトラー式捕縛術+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버틀러식 포박술+\nEN:\nButler Style Binding Arts+"
+  },
+  {
+    "key": "19435-desc",
+    "original": "ターン開始時、前ターンに混乱状態から回復した敵へ[Binding]2を付与\n\n体力の比率が最も高い味方が攻撃的中時、対象が混乱状態なら混乱段階によってダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、前ターンに混乱状態から回復した敵へ[Binding]2を付与\n\n体力の比率が最も高い味方が攻撃的中時、対象が混乱状態なら混乱段階によってダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 이전 턴에 흐트러짐 상태에서 회복한 적에게 [Binding] 2 부여\n\n체력 비율이 가장 높은 아군이 공격 적중 시, 대상이 흐트러짐 상태라면, 흐트러짐 단계에 따라 피해량 +10%\nEN:\nTurn Start: inflict 2 [Binding] against the enemy who recovered from Stagger last turn\n\nOn Hit from an ally with the highest HP percentage: if the target is Staggered, deal +10% damage for every Stagger Level."
+  },
+  {
+    "key": "19435-simpleDesc[0].simpleDesc",
+    "original": "混乱から回復した敵へ束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱から回復した敵へ束縛2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐에서 회복한 적에게 속박 2 부여\nEN:\nInflict 2 Bind on the enemy that recovered from Stagger"
+  },
+  {
+    "key": "19435-simpleDesc[1].simpleDesc",
+    "original": "対象の混乱段階によってダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の混乱段階によってダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 흐트러짐 단계에 따라 피해량 증가\nEN:\nDeal more damage based on the target's Stagger LV"
+  },
+  {
+    "key": "29435-name",
+    "original": "バトラー式捕縛術++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バトラー式捕縛術++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버틀러식 포박술++\nEN:\nButler Style Binding Arts++"
+  },
+  {
+    "key": "29435-desc",
+    "original": "ターン開始時、前ターンに混乱状態から回復した敵へ[Binding]3を付与\n\n体力の比率が最も高い味方が攻撃的中時、対象が混乱状態なら混乱段階によってダメージ量 +12.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、前ターンに混乱状態から回復した敵へ[Binding]3を付与\n\n体力の比率が最も高い味方が攻撃的中時、対象が混乱状態なら混乱段階によってダメージ量 +12.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 이전 턴에 흐트러짐 상태에서 회복한 적에게 [Binding] 3 부여\n\n체력 비율이 가장 높은 아군이 공격 적중 시, 대상이 흐트러짐 상태라면, 흐트러짐 단계에 따라 피해량 +12.5%\nEN:\nTurn Start: inflict 3 [Binding] against the enemy who recovered from Stagger last turn\n\nOn Hit from an ally with the highest HP percentage: if the target is Staggered, deal +12.5% damage for every Stagger Level."
+  },
+  {
+    "key": "29435-simpleDesc[0].simpleDesc",
+    "original": "混乱から回復した敵へ束縛3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱から回復した敵へ束縛3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐에서 회복한 적에게 속박 3 부여\nEN:\nInflict 3 Bind on the enemy that recovered from Stagger"
+  },
+  {
+    "key": "29435-simpleDesc[1].simpleDesc",
+    "original": "対象の混乱段階によってダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の混乱段階によってダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 흐트러짐 단계에 따라 피해량 증가\nEN:\nDeal more damage based on the target's Stagger LV"
+  },
+  {
+    "key": "9436-name",
+    "original": "屈折ガラス管\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折ガラス管\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 유리관\nEN:\nRefraction Glass Pod"
+  },
+  {
+    "key": "9436-desc",
+    "original": "一般戦闘にて[Sinking]威力と[Sinking]回数の合計が10以上の敵へ攻撃的中時、対象の精神力が-45なら、\n対象の([Sinking]威力 ÷ 5)だけ憂鬱ダメージを与える(スキルにつき3回発動)\n\n集中戦闘にて[Sinking]威力と[Sinking]回数の合計が10以上の敵へ攻撃的中時、\n対象の([Sinking]威力 ÷ 10)だけ憂鬱ダメージを与える(スキルにつき2回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘にて[Sinking]威力と[Sinking]回数の合計が10以上の敵へ攻撃的中時、対象の精神力が-45なら、\n対象の([Sinking]威力 ÷ 5)だけ憂鬱ダメージを与える(スキルにつき3回発動)\n\n集中戦闘にて[Sinking]威力と[Sinking]回数の合計が10以上の敵へ攻撃的中時、\n対象の([Sinking]威力 ÷ 10)だけ憂鬱ダメージを与える(スキルにつき2回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투에서 [Sinking] 위력과 [Sinking] 횟수의 합이 10 이상인 적에게 공격 적중시, 대상의 정신력이 -45이면,\n대상의 ([Sinking] 위력 / 5)만큼 우울 피해를 입힘 (스킬당 3회 발동)\n\n집중 전투에서 [Sinking] 위력과 [Sinking] 횟수의 합이 10 이상인 적에게 공격 적중시,\n대상의 ([Sinking] 위력 / 10)만큼 우울 피해를 입힘 (스킬당 2회 발동)\nEN:\nRegular Encounters) On Hit against enemies with 10+ (sum of [Sinking] Count and Potency):\nif the target is at -45 SP, deal ([Sinking] Potency on target) / 5) Gloom damage (3 times per Skill)\n\nFocused Encounters) On Hit against enemies with 10+ (sum of [Sinking] Count and Potency):\ndeal ([Sinking] Potency on target) / 10) Gloom damage (2 times per Skill)"
+  },
+  {
+    "key": "9436-simpleDesc[0].simpleDesc",
+    "original": "対象の沈潜の比例して憂鬱ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の沈潜の比例して憂鬱ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 침잠에 비례해 우울 피해\nEN:\nDeal Gloom damage based on Sinking on the target"
+  },
+  {
+    "key": "9436-simpleDesc[1].simpleDesc",
+    "original": "対象の沈潜の比例して憂鬱ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の沈潜の比例して憂鬱ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 침잠에 비례해 우울 피해\nEN:\nDeal Gloom damage based on Sinking on the target"
+  },
+  {
+    "key": "9437-name",
+    "original": "ラ・マンチャランド フリーパス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラ・マンチャランド フリーパス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드 자유이용권\nEN:\nLa Manchaland All-day Pass"
+  },
+  {
+    "key": "9437-desc",
+    "original": "[Laceration]、特殊出血、[Burst]の合計が10以上付与された敵へ攻撃的中時に[Breath]威力1を得る、自分の[Breath]回数が1増加(スキルごとに最大2回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Laceration]、特殊出血、[Burst]の合計が10以上付与された敵へ攻撃的中時に[Breath]威力1を得る、自分の[Breath]回数が1増加(スキルごとに最大2回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Laceration], 특수 출혈과 [Burst]의 합이 10 이상 부여된 적에게 공격 적중 시 [Breath] 위력 1을 얻음, 자신의 [Breath] 횟수 1 증가 (스킬당 최대 2회 발동)\nEN:\nOn Hit against targets with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]): gain 1 [Breath] Potency and Count (2 times per Skill)"
+  },
+  {
+    "key": "9437-simpleDesc[0].simpleDesc",
+    "original": "呼吸威力、回数を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸威力、回数を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 위력, 횟수 1 얻음\nEN:\nGain 1 Poise Potency and Count"
+  },
+  {
+    "key": "9438-name",
+    "original": "勝利の証\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "勝利の証\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n승리의 증표\nEN:\nToken of Victory"
+  },
+  {
+    "key": "9438-desc",
+    "original": "敵討伐時、現在の精神力が最も低い味方1名の精神力を3回復。\n\n攻撃終了時に[Laceration]、特殊出血、[Burst]の合計が10以上付与された敵が死亡した場合、次のターンに味方のうち1名が[AttackUp]2を得る。(対象を倒した味方に優先して付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐時、現在の精神力が最も低い味方1名の精神力を3回復。\n\n攻撃終了時に[Laceration]、特殊出血、[Burst]の合計が10以上付与された敵が死亡した場合、次のターンに味方のうち1名が[AttackUp]2を得る。(対象を倒した味方に優先して付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시 현재 정신력이 가장 낮은 아군 1명의 정신력 3 회복.\n\n공격 종료 시 [Laceration], 특수 출혈과 [Burst]의 합이 10 이상 부여된 적이 사망한 경우, 다음 턴에 아군 중 1명이 [AttackUp] 2 얻음 (대상을 처치한 아군에게 우선으로 부여)\nEN:\nOn Kill, 1 ally with the least SP heals 3 SP.\n\nAfter Attack: if an enemy with 10+ (sum of [Laceration], 'Unique Bleed', and [Burst]) is defeated, 1 ally gains 2 [AttackUp] next turn (prioritizes the ally who killed that enemy)"
+  },
+  {
+    "key": "9438-simpleDesc[0].simpleDesc",
+    "original": "精神力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 3 회복\nEN:\nHeal 3 SP"
+  },
+  {
+    "key": "9438-simpleDesc[1].simpleDesc",
+    "original": "次のターンにランダムな味方が攻撃レベル増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次のターンにランダムな味方が攻撃レベル増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 턴에 무작위 아군 공격 레벨 증가 2 얻음\nEN:\nA random ally gains 2 Offense Level Up next turn"
+  },
+  {
+    "key": "9439-name",
+    "original": "喰らい尽くすキューブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "喰らい尽くすキューブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n먹어치우는 큐브\nEN:\nDevouring Cube"
+  },
+  {
+    "key": "9439-desc",
+    "original": "味方死亡時、該当する味方の1, 2スキル属性のE.G.O資源1個ずつ得る\n\n攻撃終了時に敵が死亡した場合、ランダムなE.G.O資源を1つ獲得(スキルごとに最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時、該当する味方の1, 2スキル属性のE.G.O資源1個ずつ得る\n\n攻撃終了時に敵が死亡した場合、ランダムなE.G.O資源を1つ獲得(スキルごとに最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 해당 아군의 1,2 스킬 속성의 E.G.O 자원 1개씩 얻음.\n\n공격 종료 시 적이 사망했다면, 무작위 E.G.O 자원 1개 획득 (스킬당 최대 1회)\nEN:\nWhen an ally dies, gain 1 E.G.O resource for each of that ally's Skills 1 and 2.\n\nAfter Attack: if the enemy is killed, gain 1 random E.G.O resource (once per Skill)"
+  },
+  {
+    "key": "9439-simpleDesc[0].simpleDesc",
+    "original": "ランダムなE.G.O資源を1つ獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムなE.G.O資源を1つ獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 E.G.O 자원 1개 획득\nEN:\nGain 1 random E.G.O resource"
+  },
+  {
+    "key": "9440-name",
+    "original": "パレードの仮面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パレードの仮面\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퍼레이드의 가면\nEN:\nMask of the Parade"
+  },
+  {
+    "key": "9440-desc",
+    "original": "増援が来る戦闘にて新しい敵が出現すれば、戦闘開始時に該当する敵へ[Laceration]3, [Laceration]回数を2付与\n\n味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動発動させ、全ての敵の[Laceration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "増援が来る戦闘にて新しい敵が出現すれば、戦闘開始時に該当する敵へ[Laceration]3, [Laceration]回数を2付与\n\n味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動させ、全ての敵の[Laceration]回数が1減少\n<CMT_KR>오식: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「発動」させ、全ての敵の[Laceration]回数が1減少\n\" 정확: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「」させ、全ての敵の[Laceration]回数が1減少\"\n<CMT_EN>Typo: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「発動」させ、全ての敵の[Laceration]回数が1減少\n\" Correction: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「」させ、全ての敵の[Laceration]回数が1減少\"\n<CMT_JP>誤植: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「発動」させ、全ての敵の[Laceration]回数が1減少\n\" 訂正後: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「」させ、全ての敵の[Laceration]回数が1減少\"",
+    "stage": 1,
+    "context": "KR:\n적이 증원되는 전투에서 새로운 적이 등장하면, 전투 시작 시 해당 적에게 [Laceration] 3, [Laceration] 횟수 2 부여.\n\n아군에 &lt;혈귀&gt;가 있다면, 적이 증원될 때 모든 적의 [Laceration]을 1회 발동시키고, 모든 적의 [Laceration] 횟수 1 감소\nEN:\nIn Encounters where backup enemies appear: when new enemies enter the battle, inflict 3 [Laceration] and +2 [Laceration] Count against them.\n\nIf there is a &lt;Bloodfiend&gt; among allies: when new enemies enter the battle, activate [Laceration] on all enemies and reduce their [Laceration] Count by 1"
+  },
+  {
+    "key": "9440-simpleDesc[0].simpleDesc",
+    "original": "増援で来た敵へ出血3, 出血回数2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "増援で来た敵へ出血3, 出血回数2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증원되는 적에게 출혈 3, 출혈 횟수 2 부여\nEN:\nInflict 3 Bleed and +2 Bleed Count against backup enemies entering battle"
+  },
+  {
+    "key": "9440-simpleDesc[1].simpleDesc",
+    "original": "全ての敵の出血を1回発動(出血回数が1減少)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全ての敵の出血を1回発動(出血回数が1減少)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 적의 출혈 1회 발동 (출혈 횟수 1 감소)\nEN:\nActivate Bleed once on all enemies (reduce their Bleed Count by 1)"
+  },
+  {
+    "key": "19440-name",
+    "original": "パレードの仮面+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パレードの仮面+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퍼레이드의 가면+\nEN:\nMask of the Parade+"
+  },
+  {
+    "key": "19440-desc",
+    "original": "増援が来る戦闘にて新しい敵が出現すれば、戦闘開始時に該当する敵へ[Laceration]5, [Laceration]回数を3付与\n\n味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動発動させ、全ての敵の[Laceration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "増援が来る戦闘にて新しい敵が出現すれば、戦闘開始時に該当する敵へ[Laceration]5, [Laceration]回数を3付与\n\n味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動させ、全ての敵の[Laceration]回数が1減少\n<CMT_KR>오식: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「発動」させ、全ての敵の[Laceration]回数が1減少\n\" 정확: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「」させ、全ての敵の[Laceration]回数が1減少\"\n<CMT_EN>Typo: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「発動」させ、全ての敵の[Laceration]回数が1減少\n\" Correction: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「」させ、全ての敵の[Laceration]回数が1減少\"\n<CMT_JP>誤植: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「発動」させ、全ての敵の[Laceration]回数が1減少\n\" 訂正後: \"味方に<血鬼>がいるなら、増援が来るたびに全ての敵の[Laceration]を1回発動「」させ、全ての敵の[Laceration]回数が1減少\"",
+    "stage": 1,
+    "context": "KR:\n적이 증원되는 전투에서 새로운 적이 등장하면, 전투 시작 시 해당 적에게 [Laceration] 5, [Laceration] 횟수 3 부여.\n\n아군에 &lt;혈귀&gt;가 있다면, 적이 증원될 때 모든 적의 [Laceration]을 1회 발동시키고, 모든 적의 [Laceration] 횟수 1 감소\nEN:\nIn Encounters where backup enemies appear: when new enemies enter the battle, inflict 5 [Laceration] and +3 [Laceration] Count against them.\n\nIf there is a &lt;Bloodfiend&gt; among allies: when new enemies enter the battle, activate [Laceration] on all enemies and reduce their [Laceration] Count by 1"
+  },
+  {
+    "key": "19440-simpleDesc[0].simpleDesc",
+    "original": "増援で来た敵へ出血5, 出血回数3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "増援で来た敵へ出血5, 出血回数3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증원되는 적에게 출혈 5, 출혈 횟수 3 부여\nEN:\nInflict 5 Bleed and +3 Bleed Count against backup enemies entering battle"
+  },
+  {
+    "key": "19440-simpleDesc[1].simpleDesc",
+    "original": "全ての敵の出血を1回発動(出血回数が1減少)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全ての敵の出血を1回発動(出血回数が1減少)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 적의 출혈 1회 발동 (출혈 횟수 1 감소)\nEN:\nActivate Bleed once on all enemies (reduce their Bleed Count by 1)"
+  }
+]

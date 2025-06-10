@@ -1,0 +1,660 @@
+[
+  {
+    "key": "MDEMaa-name",
+    "original": "防御レベル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 강화\nEN:\nDefense Level Up"
+  },
+  {
+    "key": "MDEMaa-desc",
+    "original": "防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +2\nEN:\nDefense Level +2"
+  },
+  {
+    "key": "MDEMab-name",
+    "original": "守備スキル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備スキル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비 스킬 강화\nEN:\nDefense Skill Up"
+  },
+  {
+    "key": "MDEMab-desc",
+    "original": "守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비 스킬 최종 위력 +1\nEN:\nDefense Skill Final Power +1"
+  },
+  {
+    "key": "MDEMac-name",
+    "original": "攻撃レベル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 강화\nEN:\nOffense Level Up"
+  },
+  {
+    "key": "MDEMac-desc",
+    "original": "攻撃レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +1\nEN:\nOffense Level +1"
+  },
+  {
+    "key": "MDEMad-name",
+    "original": "体力最大値強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力最大値強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 강화\nEN:\nMax HP Up"
+  },
+  {
+    "key": "MDEMad-desc",
+    "original": "最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +5%\nEN:\nMax HP +5%"
+  },
+  {
+    "key": "MDEMae-name",
+    "original": "被ダメージ量減少強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量減少強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 감소 강화\nEN:\nTake Less Damage"
+  },
+  {
+    "key": "MDEMae-desc",
+    "original": "被ダメージ量 -5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -5%\nEN:\nDamage Taken -5%"
+  },
+  {
+    "key": "MDEMca-name",
+    "original": "肉体肥大\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体肥大\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 비대\nEN:\nBody Corpulence"
+  },
+  {
+    "key": "MDEMca-desc",
+    "original": "攻撃レベル +2, 防御レベル +2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 防御レベル +2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 방어 레벨 +2, 최대 체력 +5%\nEN:\nOffense Level +2, Defense Level +2, Max HP +5%"
+  },
+  {
+    "key": "MDEMcb-name",
+    "original": "肉体強大\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体強大\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 강대\nEN:\nBody Reinforcement"
+  },
+  {
+    "key": "MDEMcb-desc",
+    "original": "攻撃レベル +2, 防御レベル +4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 防御レベル +4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 방어 레벨 +4\nEN:\nOffense Level +2, Defense Level +4"
+  },
+  {
+    "key": "MDEMcc-name",
+    "original": "体力最大値強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力最大値強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 강화\nEN:\nMax HP Up"
+  },
+  {
+    "key": "MDEMcc-desc",
+    "original": "最大体力 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +20%\nEN:\nMax HP +20%"
+  },
+  {
+    "key": "MDEMcd-name",
+    "original": "最終攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 공격 증강\nEN:\nFinal Attack Boost"
+  },
+  {
+    "key": "MDEMcd-desc",
+    "original": "最終威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 최대 체력 +5%\nEN:\nFinal Power +1, Max HP +5%"
+  },
+  {
+    "key": "MDEMce-name",
+    "original": "基本攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 증강\nEN:\nBase Attack Boost"
+  },
+  {
+    "key": "MDEMce-desc",
+    "original": "基本威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 최대 체력 +5%\nEN:\nBase Power +1, Max HP +5"
+  },
+  {
+    "key": "MDEMcf-name",
+    "original": "マッチ攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 공격 증강\nEN:\nClash Attack Boost"
+  },
+  {
+    "key": "MDEMcf-desc",
+    "original": "マッチ威力 +2, 防御レベル -3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 防御レベル -3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +2, 방어 레벨 -3\nEN:\nClash Power +2, Defense Level -3"
+  },
+  {
+    "key": "MDEMcg-name",
+    "original": "最終威力強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力強化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 강화\nEN:\nFinal Power Up"
+  },
+  {
+    "key": "MDEMcg-desc",
+    "original": "最終威力 +1, 守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 수비 스킬 최종 위력 +1\nEN:\nFinal Power +1, Defense Skill Final Power+1"
+  },
+  {
+    "key": "MDEMda-name",
+    "original": "肉体伸長\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体伸長\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 신장\nEN:\nBody Growth"
+  },
+  {
+    "key": "MDEMda-desc",
+    "original": "攻撃レベル +3, 防御レベル +2, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +3, 防御レベル +2, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +3, 방어 레벨 +2, 최대 체력 +10%\nEN:\nOffense Level +3, Defense Level +2, Max HP +10%"
+  },
+  {
+    "key": "MDEMdb-name",
+    "original": "肉体補強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体補強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 보강\nEN:\nBody Fortification"
+  },
+  {
+    "key": "MDEMdb-desc",
+    "original": "攻撃レベル +5, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +5, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +5, 최대 체력 +7.5%\nEN:\nOffense Level +5, Max HP +7.5%"
+  },
+  {
+    "key": "MDEMdc-name",
+    "original": "基本戦闘装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本戦闘装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 전투 장비\nEN:\nBase Combat Gear"
+  },
+  {
+    "key": "MDEMdc-desc",
+    "original": "基本威力 +1, 防御レベル +3, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 防御レベル +3, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 방어 레벨 +3, 최대 체력 +5%\nEN:\nBase Power +1, Defense Level +3, Max HP +5%"
+  },
+  {
+    "key": "MDEMdd-name",
+    "original": "最終戦闘装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終戦闘装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 전투 장비\nEN:\nFinal Combat Gear"
+  },
+  {
+    "key": "MDEMdd-desc",
+    "original": "最終威力 +1, 防御レベル -2, 最大体力 +17.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 防御レベル -2, 最大体力 +17.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 방어 레벨 -2, 최대 체력 +17.5%\nEN:\nFinal Power +1, Defense Level -2, Max HP +17.5%"
+  },
+  {
+    "key": "MDEMde-name",
+    "original": "防御装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 장비\nEN:\nDefense Gear"
+  },
+  {
+    "key": "MDEMde-desc",
+    "original": "防御レベル +3, 最大体力 +22.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +3, 最大体力 +22.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨+3, 최대 체력 +22.5%\nEN:\nDefense Level +3, Max HP +22.5%"
+  },
+  {
+    "key": "MDEMdf-name",
+    "original": "コイン攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コイン攻撃増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인 공격 증강\nEN:\nCoin Attack Boost"
+  },
+  {
+    "key": "MDEMdf-desc",
+    "original": "加算コイン威力 +1, 減算コイン威力 -1, 防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +1, 減算コイン威力 -1, 防御レベル +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +1, 빼기 코인 위력 -1, 방어 레벨 +2\nEN:\nPlus Coin Power +1, Minus Coin Power -1, Defense Level +2"
+  },
+  {
+    "key": "MDEMdg-name",
+    "original": "強大無比\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強大無比\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강대무비\nEN:\nPeerless Might"
+  },
+  {
+    "key": "MDEMdg-desc",
+    "original": "基本威力 +1, 加算コイン威力 +1, 減算コイン威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 加算コイン威力 +1, 減算コイン威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 더하기 코인 위력 +1, 빼기 코인 위력 -1\nEN:\nBase Power +1, Plus Coin Power +1, Minus Coin Power -1"
+  },
+  {
+    "key": "MDEMdh-name",
+    "original": "倍返し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "倍返し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n되와 말로 주기\nEN:\nEyes and Teeth for an Eye"
+  },
+  {
+    "key": "MDEMdh-desc",
+    "original": "被ダメージ量 -25%, 与ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -25%, 与ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -25%, 가하는 피해량 +25%\nEN:\nDamage Taken -25%, Damage Dealt +25%"
+  },
+  {
+    "key": "MDHMaa-name",
+    "original": "肉体増幅I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体増幅I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 증폭 Ⅰ\nEN:\nAmplify Body I"
+  },
+  {
+    "key": "MDHMaa-desc",
+    "original": "肉体増幅I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体増幅I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨+ 1, 방어 레벨 +1\nEN:\nOffense Level +1, Defense Level +1"
+  },
+  {
+    "key": "MDHMab-name",
+    "original": "肉体増幅I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体増幅I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단단함\nEN:\nDurable"
+  },
+  {
+    "key": "MDHMab-desc",
+    "original": "防御レベル +2, 守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +2, 守備スキル最終威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +2, 수비 스킬 최종 위력 +1\nEN:\nDefense Level +2, Defense Skill Final Power +1"
+  },
+  {
+    "key": "MDHMac-name",
+    "original": "肉体拡大I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体拡大I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 확대 Ⅰ\nEN:\nExpand Body I"
+  },
+  {
+    "key": "MDHMac-desc",
+    "original": "防御レベル +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +1, 최대 체력 +5%\nEN:\nDefense Level +1, Max HP +5%"
+  },
+  {
+    "key": "MDHMad-name",
+    "original": "最大体力増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 증강 Ⅰ\nEN:\nMax HP Boost I"
+  },
+  {
+    "key": "MDHMad-desc",
+    "original": "最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +7.5%\nEN:\nMax HP +7.5%"
+  },
+  {
+    "key": "MDHMae-name",
+    "original": "被ダメージ量軽減\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量軽減\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 경감\nEN:\nDamage Taken Down"
+  },
+  {
+    "key": "MDHMae-desc",
+    "original": "被ダメージ量 -7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -7.5%\nEN:\nDamage Taken -7.5%"
+  },
+  {
+    "key": "MDHMba-name",
+    "original": "肉体増幅II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体増幅II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 증폭 Ⅱ\nEN:\nAmplify Body II"
+  },
+  {
+    "key": "MDHMba-desc",
+    "original": "攻撃レベル +2, 防御レベル +2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 防御レベル +2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 방어 레벨 +2, 최대 체력 +5%\nEN:\nOffense Level +2, Defense Level +2, Max HP +5%"
+  },
+  {
+    "key": "MDHMbb-name",
+    "original": "肉体拡大II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体拡大II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 확대 Ⅱ\nEN:\nExpand Body II"
+  },
+  {
+    "key": "MDHMbb-desc",
+    "original": "攻撃レベル +2, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2, 최대 체력 +10%\nEN:\nOffense Level +2, Max HP +10%"
+  },
+  {
+    "key": "MDHMbc-name",
+    "original": "最終威力増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 Ⅰ\nEN:\nFinal Power Boost I"
+  },
+  {
+    "key": "MDHMbc-desc",
+    "original": "最終威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 최대 체력 +5%\nEN:\nFinal Power +1, Max HP +5%"
+  },
+  {
+    "key": "MDHMbd-name",
+    "original": "基本威力増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 Ⅰ\nEN:\nBase Power Boost I"
+  },
+  {
+    "key": "MDHMbd-desc",
+    "original": "基本威力 +1, 防御レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 防御レベル +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 방어 레벨 +1\nEN:\nBase Power +1, Defense Level +1"
+  },
+  {
+    "key": "MDHMbe-name",
+    "original": "強靱I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 Ⅰ\nEN:\nResilient I"
+  },
+  {
+    "key": "MDHMbe-desc",
+    "original": "防御レベル +4, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +4, 最大体力 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +4, 최대 체력 +10%\nEN:\nDefense Level +4, Max HP +10%"
+  },
+  {
+    "key": "MDHMbf-name",
+    "original": "意趣返しI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "意趣返しI\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말로 주기Ⅰ\nEN:\nTake an Eye I"
+  },
+  {
+    "key": "MDHMbf-desc",
+    "original": "被ダメージ量 -10%, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -10%, 与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -10%, 가하는 피해량 +10%\nEN:\nDamage Taken -10%, Damage Dealt +10%"
+  },
+  {
+    "key": "MDHMca-name",
+    "original": "肉体増幅III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体増幅III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 증폭 Ⅲ\nEN:\nAmplify Body III"
+  },
+  {
+    "key": "MDHMca-desc",
+    "original": "攻撃レベル +4, 防御レベル +3, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +4, 防御レベル +3, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +4, 방어 레벨 +3, 최대 체력 +7.5%\nEN:\nOffense Level +4, Defense Level +3, Max HP +7.5%"
+  },
+  {
+    "key": "MDHMcb-name",
+    "original": "肉体拡大III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体拡大III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 확대 Ⅲ\nEN:\nExpand Body III"
+  },
+  {
+    "key": "MDHMcb-desc",
+    "original": "攻撃レベル +4, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +4, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +4, 최대 체력 +15%\nEN:\nOffense Level +4, Max HP +15%"
+  },
+  {
+    "key": "MDHMcc-name",
+    "original": "最終威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 Ⅱ\nEN:\nFinal Power Boost II"
+  },
+  {
+    "key": "MDHMcc-desc",
+    "original": "最終威力 +1, 防御レベル +6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1, 防御レベル +6\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1, 방어 레벨 +6\nEN:\nFinal Power +1, Defense Level +6"
+  },
+  {
+    "key": "MDHMcd-name",
+    "original": "基本威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 Ⅱ\nEN:\nBase Power Boost II"
+  },
+  {
+    "key": "MDHMcd-desc",
+    "original": "基本威力 +1, 防御レベル +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 防御レベル +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 방어 레벨 +5\nEN:\nBase Power +1, Defense Level +5"
+  },
+  {
+    "key": "MDHMce-name",
+    "original": "最終威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 Ⅲ\nEN:\nFinal Power Boost III"
+  },
+  {
+    "key": "MDHMce-desc",
+    "original": "最終威力 +2, 防御レベル -2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +2, 防御レベル -2, 最大体力 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +2, 방어 레벨 -2, 최대 체력 +5%\nEN:\nFinal Power +2, Defense Level -2, Max HP +5%"
+  },
+  {
+    "key": "MDHMcf-name",
+    "original": "最大体力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 증강 Ⅱ\nEN:\nMax HP Boost II"
+  },
+  {
+    "key": "MDHMcf-desc",
+    "original": "最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +30%\nEN:\nMax HP +30%"
+  },
+  {
+    "key": "MDHMcg-name",
+    "original": "マッチ攻撃増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ攻撃増強I\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 공격 증강 Ⅰ\nEN:\nClash Attack Boost I"
+  },
+  {
+    "key": "MDHMcg-desc",
+    "original": "マッチ威力 +2, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 最大体力 +7.5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +2, 최대 체력 +7.5%\nEN:\nClash Power +2, Max HP +7.5%"
+  },
+  {
+    "key": "MDHMda-name",
+    "original": "肉体増幅IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体増幅IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 증폭  Ⅳ\nEN:\nAmplify Body IV"
+  },
+  {
+    "key": "MDHMda-desc",
+    "original": "攻撃レベル +6, 防御レベル +6, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +6, 防御レベル +6, 最大体力 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +6, 방어 레벨 +6, 최대 체력 +15%\nEN:\nOffense Level +6, Defense Level +6, Max HP +15%"
+  },
+  {
+    "key": "MDHMdb-name",
+    "original": "肉体拡大IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉体拡大IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n육체 확대  Ⅳ\nEN:\nExpand Body IV"
+  },
+  {
+    "key": "MDHMdb-desc",
+    "original": "攻撃レベル +4, 防御レベル +3, 最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +4, 防御レベル +3, 最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +4, 방어 레벨 +3, 최대 체력 +30%\nEN:\nOffense Level +4, Defense Level +3, Max HP +30%"
+  },
+  {
+    "key": "MDHMdc-name",
+    "original": "最終威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力増強IV\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 증강 Ⅳ\nEN:\nFinal Power Boost IV"
+  },
+  {
+    "key": "MDHMdc-desc",
+    "original": "最終威力 +2, 最大体力 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +2, 最大体力 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +2, 최대 체력 +25%\nEN:\nFinal Power +2, Max HP +25%"
+  },
+  {
+    "key": "MDHMdd-name",
+    "original": "基本威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力増強III\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 증강 Ⅲ\nEN:\nBase Power Boost III"
+  },
+  {
+    "key": "MDHMdd-desc",
+    "original": "基本威力 +1, 最終威力 +1, 最大体力 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力 +1, 最終威力 +1, 最大体力 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 +1, 최종 위력 +1, 최대 체력 +20%\nEN:\nBase Power +1, Final Power +1, Max HP +20%"
+  },
+  {
+    "key": "MDHMde-name",
+    "original": "強靱II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強靱II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인함 Ⅱ\nEN:\nResilient II"
+  },
+  {
+    "key": "MDHMde-desc",
+    "original": "防御レベル +9, 最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +9, 最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨+9, 최대 체력 +30%\nEN:\nDefense Level +9, Max HP +30%"
+  },
+  {
+    "key": "MDHMdf-name",
+    "original": "コイン威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コイン威力増強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인 위력 증강\nEN:\nCoin Power Boost"
+  },
+  {
+    "key": "MDHMdf-desc",
+    "original": "加算コイン威力 +2, 減算コイン威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力 +2, 減算コイン威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 +2, 빼기 코인 위력 -2\nEN:\nPlus Coin Power +2, Minus Coin Power -2"
+  },
+  {
+    "key": "MDHMdg-name",
+    "original": "マッチ攻撃増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ攻撃増強II\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 공격 증강 Ⅱ\nEN:\nClash Attack Boost II"
+  },
+  {
+    "key": "MDHMdg-desc",
+    "original": "マッチ威力 +2, 最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 最大体力 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +2, 최대 체력 +30%\nEN:\nClash Power +2, Max HP +30%"
+  },
+  {
+    "key": "MDHMdh-name",
+    "original": "頑強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頑強\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완강함\nEN:\nHeadstrong"
+  },
+  {
+    "key": "MDHMdh-desc",
+    "original": "被ダメージ量 -50%, 与ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -50%, 与ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -50%, 가하는 피해량 +50%\nEN:\nDamage Taken -50%, Damage Dealt +50%"
+  },
+  {
+    "key": "AccumulatedPastMirror-name",
+    "original": "蓄積された過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蓄積された過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n축적된 과거\nEN:\nAccumulated Past"
+  },
+  {
+    "key": "AccumulatedPastMirror-desc",
+    "original": "ターン終了時に11ずつ増加。\n胴体部位破壊時、全て消耗する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に11ずつ増加。\n胴体部位破壊時、全て消耗する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시, 11씩 증가함.\n몸통 부위 파괴 시, 전부 소모됨.\nEN:\nGain 11 at the end of the Turn.\nSpent completely when the Body Part is broken."
+  }
+]

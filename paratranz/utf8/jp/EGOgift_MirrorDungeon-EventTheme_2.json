@@ -1,0 +1,1521 @@
+[
+  {
+    "key": "9751-name",
+    "original": "蛇の抜け殻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蛇の抜け殻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뱀 허물\nEN:\nSnake Slough"
+  },
+  {
+    "key": "9751-desc",
+    "original": "ターン開始時、全味方が[DefenseUp]2を得る。\n各味方が(自分の[DefenseUp] ÷ 4)だけ攻撃レベルが増加する。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全味方が[DefenseUp]2を得る。\n各味方が(自分の[DefenseUp] ÷ 4)だけ攻撃レベルが増加する。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시, 모든 아군이 [DefenseUp] 2 얻음.\n각 아군이 (자신의 [DefenseUp]/4)만큼 공격 레벨이 증가함. (최대 10)\nEN:\nTurn Start: all allies gain 2 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 4) Offense Level. (max 10)"
+  },
+  {
+    "key": "9751-simpleDesc[0].simpleDesc",
+    "original": "全味方が[DefenseUp]を得て、攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方が[DefenseUp]を得て、攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 [DefenseUp]를 얻고, 공격 레벨 증가\nEN:\nAll allies gain [DefenseUp] and Offense Level"
+  },
+  {
+    "key": "19751-name",
+    "original": "蛇の抜け殻+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蛇の抜け殻+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뱀 허물+\nEN:\nSnake Slough+"
+  },
+  {
+    "key": "19751-desc",
+    "original": "ターン開始時、全味方が[DefenseUp]<style=\"upgradeHighlight\">4</style>を得る。\n各味方が(自分の[DefenseUp] ÷ <style=\"upgradeHighlight\">3</style>)だけ攻撃レベルが増加する。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全味方が[DefenseUp]<style=\"upgradeHighlight\">4</style>を得る。\n各味方が(自分の[DefenseUp] ÷ <style=\"upgradeHighlight\">3</style>)だけ攻撃レベルが増加する。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시, 모든 아군이 [DefenseUp] &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 얻음.\n각 아군이 (자신의 [DefenseUp]/&lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt;)만큼 공격 레벨이 증가함. (최대 10)\nEN:\nTurn Start: all allies gain &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; [DefenseUp].\nEach ally gains ([DefenseUp] on self / &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt;) Offense Level. (max 10)"
+  },
+  {
+    "key": "19751-simpleDesc[0].simpleDesc",
+    "original": "全味方が[DefenseUp]を得て、攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方が[DefenseUp]を得て、攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 [DefenseUp]를 얻고, 공격 레벨 증가\nEN:\nAll allies gain [DefenseUp] and Offense Level"
+  },
+  {
+    "key": "29751-name",
+    "original": "蛇の抜け殻++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蛇の抜け殻++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n뱀 허물++\nEN:\nSnake Slough++"
+  },
+  {
+    "key": "29751-desc",
+    "original": "ターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ <style=\"upgradeHighlight\">2</style>)だけ攻撃レベルが増加する。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全味方が[DefenseUp]4を得る。\n各味方が(自分の[DefenseUp] ÷ <style=\"upgradeHighlight\">2</style>)だけ攻撃レベルが増加する。(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시, 모든 아군이 [DefenseUp] 4 얻음.\n각 아군이 (자신의 [DefenseUp]/&lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt;)만큼 공격 레벨이 증가함. (최대 10)\nEN:\nTurn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt;) Offense Level. (max 10)"
+  },
+  {
+    "key": "29751-simpleDesc[0].simpleDesc",
+    "original": "全味方が[DefenseUp]を得て、攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全味方が[DefenseUp]を得て、攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 [DefenseUp]를 얻고, 공격 레벨 증가\nEN:\nAll allies gain [DefenseUp] and Offense Level"
+  },
+  {
+    "key": "9752-name",
+    "original": "偽りの光背\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偽りの光背\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거짓 광배\nEN:\nFalse Halo"
+  },
+  {
+    "key": "9752-desc",
+    "original": "攻撃が的中するたびに[Zazen]1を得る(スキルごとに2回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃が的中するたびに[Zazen]1を得る(スキルごとに2回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시마다 [Zazen] 1 얻음. (스킬 당 2회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.\nEN:\nOn Hit, gain 1 [Zazen]. (2 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time."
+  },
+  {
+    "key": "9752-simpleDesc[0].simpleDesc",
+    "original": "攻撃が的中するたびに[Zazen]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃が的中するたびに[Zazen]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시마다 [Zazen] 1 얻음\nEN:\nOn Hit, gain 1 [Zazen]"
+  },
+  {
+    "key": "19752-name",
+    "original": "偽りの光背+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偽りの光背+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거짓 광배+\nEN:\nFalse Halo+"
+  },
+  {
+    "key": "19752-desc",
+    "original": "攻撃が的中するたびに[Zazen]1を得る(スキルごとに<style=\"upgradeHighlight\">3</style>回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃が的中するたびに[Zazen]1を得る(スキルごとに<style=\"upgradeHighlight\">3</style>回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시마다 [Zazen] 1 얻음. (스킬 당 &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt;회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.\nEN:\nOn Hit, gain 1 [Zazen]. (&lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt; times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time."
+  },
+  {
+    "key": "19752-simpleDesc[0].simpleDesc",
+    "original": "攻撃が的中するたびに[Zazen]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃が的中するたびに[Zazen]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시마다 [Zazen] 1 얻음\nEN:\nOn Hit, gain 1 [Zazen]"
+  },
+  {
+    "key": "29752-name",
+    "original": "偽りの光背++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偽りの光背++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거짓 광배++\nEN:\nFalse Halo++"
+  },
+  {
+    "key": "29752-desc",
+    "original": "攻撃が的中するたびに[Zazen]<style=\"upgradeHighlight\">2</style>を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃が的中するたびに[Zazen]<style=\"upgradeHighlight\">2</style>を得る(スキルごとに3回)\n自分がこのターンに敵にスキルでダメージを受けた状態なら、得る[Zazen] +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시마다 [Zazen] &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; 얻음. (스킬 당 3회)\n자신이 이번 턴에 적에게 스킬로 피격 당한 상태면, 얻는 [Zazen] +1.\nEN:\nOn Hit, gain &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time."
+  },
+  {
+    "key": "29752-simpleDesc[0].simpleDesc",
+    "original": "攻撃が的中するたびに[Zazen]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃が的中するたびに[Zazen]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시마다 [Zazen] 2 얻음\nEN:\nOn Hit, gain 2 [Zazen]"
+  },
+  {
+    "key": "9753-name",
+    "original": "メトロノーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メトロノーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메트로놈\nEN:\nMetronome"
+  },
+  {
+    "key": "9753-desc",
+    "original": "奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀수 턴이면, 모든 아군이 [AttackDmgUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1 얻음.\nEN:\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection]."
+  },
+  {
+    "key": "9753-simpleDesc[0].simpleDesc",
+    "original": "ターンによって全味方の攻撃または防御が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターンによって全味方の攻撃または防御が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴에 따라 모든 아군의 공격 또는 방어가 강화됨\nEN:\nEnhance allies' attack or defense based on the turn number"
+  },
+  {
+    "key": "19753-name",
+    "original": "メトロノーム+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メトロノーム+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메트로놈+\nEN:\nMetronome+"
+  },
+  {
+    "key": "19753-desc",
+    "original": "奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1, <style=\"upgradeHighlight\">[DefenseUp]1</style>を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇数ターンなら、全味方が[AttackDmgUp]1を得る。偶数ターンなら、全味方が[Protection]1, <style=\"upgradeHighlight\">[DefenseUp]1</style>を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀수 턴이면, 모든 아군이 [AttackDmgUp] 1 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, &lt;style=\"upgradeHighlight\"&gt;[DefenseUp] 1&lt;/style&gt; 얻음.\nEN:\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] &lt;style=\"upgradeHighlight\"&gt;and 1 [DefenseUp]&lt;/style&gt;."
+  },
+  {
+    "key": "19753-simpleDesc[0].simpleDesc",
+    "original": "ターンによって全味方の攻撃または防御が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターンによって全味方の攻撃または防御が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴에 따라 모든 아군의 공격 또는 방어가 강화됨\nEN:\nEnhance allies' attack or defense based on the turn number"
+  },
+  {
+    "key": "29753-name",
+    "original": "メトロノーム++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メトロノーム++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메트로놈++\nEN:\nMetronome++"
+  },
+  {
+    "key": "29753-desc",
+    "original": "奇数ターンなら、全味方が[AttackDmgUp]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "奇数ターンなら、全味方が[AttackDmgUp]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を得る。偶数ターンなら、全味方が[Protection]1, [DefenseUp]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀수 턴이면, 모든 아군이 [AttackDmgUp] 1, &lt;style=\"upgradeHighlight\"&gt;[AttackUp] 1&lt;/style&gt; 얻음. 짝수 턴이면, 모든 아군이 [Protection] 1, [DefenseUp] 1 얻음.\nEN:\nIn odd-numbered turns, all allies gain 1 [AttackDmgUp] &lt;style=\"upgradeHighlight\"&gt;and 1 [AttackUp]&lt;/style&gt;. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp]."
+  },
+  {
+    "key": "29753-simpleDesc[0].simpleDesc",
+    "original": "ターンによって全味方の攻撃または防御が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターンによって全味方の攻撃または防御が強化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴에 따라 모든 아군의 공격 또는 방어가 강화됨\nEN:\nEnhance allies' attack or defense based on the turn number"
+  },
+  {
+    "key": "9754-name",
+    "original": "くびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "くびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴레\nEN:\nBridle"
+  },
+  {
+    "key": "9754-desc",
+    "original": "ステージ開始時、(現在の階層 × 2)%だけ全味方の体力最大値が増加(最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ開始時、(現在の階層 × 2)%だけ全味方の体力最大値が増加(最大20%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시 (현재 층 x 2)%만큼 모든 아군의 최대 체력이 증가 (최대 20%)\nEN:\nEncounter Start: all allies gain (current Floor x 2)% max HP (max 20%)"
+  },
+  {
+    "key": "9754-simpleDesc[0].simpleDesc",
+    "original": "現在の階層に比例して全味方の体力最大値が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の階層に比例して全味方の体力最大値が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 층에 비례하여 모든 아군의 최대 체력 증가\nEN:\nAll allies gain max HP based on the current Floor"
+  },
+  {
+    "key": "19754-name",
+    "original": "くびき+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "くびき+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴레+\nEN:\nBridle+"
+  },
+  {
+    "key": "19754-desc",
+    "original": "ステージ開始時、(現在の階層 × <style=\"upgradeHighlight\">3</style>)%だけ全味方の体力最大値が増加(最大<style=\"upgradeHighlight\">30</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ開始時、(現在の階層 × <style=\"upgradeHighlight\">3</style>)%だけ全味方の体力最大値が増加(最大<style=\"upgradeHighlight\">30</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시 (현재 층 x &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt;)%만큼 모든 아군의 최대 체력이 증가 (최대 &lt;style=\"upgradeHighlight\"&gt;30&lt;/style&gt;%)\nEN:\nEncounter Start: all allies gain (current Floor x &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt;)% max HP (max &lt;style=\"upgradeHighlight\"&gt;30&lt;/style&gt;%)"
+  },
+  {
+    "key": "19754-simpleDesc[0].simpleDesc",
+    "original": "現在の階層に比例して全味方の体力最大値が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の階層に比例して全味方の体力最大値が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 층에 비례하여 모든 아군의 최대 체력 증가\nEN:\nAll allies gain max HP based on the current Floor"
+  },
+  {
+    "key": "29754-name",
+    "original": "くびき++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "くびき++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴레++\nEN:\nBridle++"
+  },
+  {
+    "key": "29754-desc",
+    "original": "ステージ開始時、(現在の階層 × <style=\"upgradeHighlight\">5</style>)%だけ全味方の体力最大値が増加(最大<style=\"upgradeHighlight\">50</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ開始時、(現在の階層 × <style=\"upgradeHighlight\">5</style>)%だけ全味方の体力最大値が増加(最大<style=\"upgradeHighlight\">50</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시 (현재 층 x &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt;)%만큼 모든 아군의 최대 체력이 증가 (최대 &lt;style=\"upgradeHighlight\"&gt;50&lt;/style&gt;%)\nEN:\nEncounter Start: all allies gain (current Floor x &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt;)% max HP (max &lt;style=\"upgradeHighlight\"&gt;50&lt;/style&gt;%)"
+  },
+  {
+    "key": "29754-simpleDesc[0].simpleDesc",
+    "original": "現在の階層に比例して全味方の体力最大値が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在の階層に比例して全味方の体力最大値が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 층에 비례하여 모든 아군의 최대 체력 증가\nEN:\nAll allies gain max HP based on the current Floor"
+  },
+  {
+    "key": "9755-name",
+    "original": "軽蔑の視線の軽蔑\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "軽蔑の視線の軽蔑\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경멸의 시선의 경멸\nEN:\nContempt of the Gaze of Contempt"
+  },
+  {
+    "key": "9755-desc",
+    "original": "[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対してターゲティングしたスキル数だけ固定ダメージと精神力ダメージを与える。(最大3. 味方にはダメージを与えない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対してターゲティングしたスキル数だけ固定ダメージと精神力ダメージを与える。(最大3. 味方にはダメージを与えない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 타겟팅한 스킬 수만큼 체력 고정 피해와 정신력 피해를 줌. (최대 3. 아군에게는 피해를 주지 않음)\nEN:\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit) fixed HP & SP damage against all enemies targeting this unit. (max 3; this effect does not hurt allies)"
+  },
+  {
+    "key": "9755-simpleDesc[0].simpleDesc",
+    "original": "ターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타겟팅한 적의 공격 스킬에 비례하여 피해량 증가, 고정 피해를 줌\nEN:\nDeal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+  },
+  {
+    "key": "19755-name",
+    "original": "軽蔑の視線の軽蔑+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "軽蔑の視線の軽蔑+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경멸의 시선의 경멸+\nEN:\nContempt of the Gaze of Contempt+"
+  },
+  {
+    "key": "19755-desc",
+    "original": "[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して<style=\"upgradeHighlight\">(2 × ターゲティングしたスキル数)</style>だけ固定ダメージと精神力ダメージを与える。(最大<style=\"upgradeHighlight\">5</style>. 味方にはダメージを与えない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大20%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して<style=\"upgradeHighlight\">(2 × ターゲティングしたスキル数)</style>だけ固定ダメージと精神力ダメージを与える。(最大<style=\"upgradeHighlight\">5</style>. 味方にはダメージを与えない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 20%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 &lt;style=\"upgradeHighlight\"&gt;(2 x 타겟팅한 스킬 수)&lt;/style&gt;만큼 체력 고정 피해와 정신력 피해를 줌. (최대 &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt;. 아군에게는 피해를 주지 않음)\nEN:\n[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal &lt;style=\"upgradeHighlight\"&gt;(# of Skills targeting this unit x 2)&lt;/style&gt; fixed HP & SP damage against all enemies targeting this unit. (max &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt;; this effect does not hurt allies)"
+  },
+  {
+    "key": "19755-simpleDesc[0].simpleDesc",
+    "original": "ターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타겟팅한 적의 공격 스킬에 비례하여 피해량 증가, 고정 피해를 줌\nEN:\nDeal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+  },
+  {
+    "key": "29755-name",
+    "original": "軽蔑の視線の軽蔑++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "軽蔑の視線の軽蔑++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n경멸의 시선의 경멸++\nEN:\nContempt of the Gaze of Contempt++"
+  },
+  {
+    "key": "29755-desc",
+    "original": "[編成<style=\"upgradeHighlight\">1</style>, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大<style=\"upgradeHighlight\">30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大<style=\"upgradeHighlight\">10</style>. 味方にはダメージを与えない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成<style=\"upgradeHighlight\">1</style>, 6番人格専用効果]\n\n戦闘開始時、自分をターゲティングした敵の攻撃スキルに1つにつき、与ダメージ量 +10%(最大<style=\"upgradeHighlight\">30%)\n\n戦闘開始時に2つ以上の攻撃スキルのターゲットになっているなら、自分をターゲティングした敵に対して(2 × ターゲティングしたスキル数)だけ固定ダメージと精神力ダメージを与える。(最大<style=\"upgradeHighlight\">10</style>. 味方にはダメージを与えない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 &lt;style=\"upgradeHighlight\"&gt;1번,&lt;/style&gt; 6번 인격 전용 효과]\n\n전투 시작 시, 자신을 타겟팅한 적의 공격 스킬당 가하는 피해량 +10% (최대 &lt;style=\"upgradeHighlight\"&gt;30&lt;/style&gt;%)\n\n전투 시작 시 2개 이상의 공격 스킬의 타겟이 되었으면, 자신을 타겟팅한 적에게 (2 x 타겟팅한 스킬 수)만큼 체력 고정 피해와 정신력 피해를 줌. (최대 &lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt;. 아군에게는 피해를 주지 않음)\nEN:\n[Effects apply only to &lt;style=\"upgradeHighlight\"&gt;#1&lt;/style&gt; and #6 Deployed Identities]\n\nCombat Start: deal +10% damage for every enemy Attack Skill targeting this unit (max &lt;style=\"upgradeHighlight\"&gt;30&lt;/style&gt;%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max &lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt;; this effect does not hurt allies)"
+  },
+  {
+    "key": "29755-simpleDesc[0].simpleDesc",
+    "original": "ターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターゲティングした敵の攻撃スキルに比例してダメージ量増加、固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타겟팅한 적의 공격 스킬에 비례하여 피해량 증가, 고정 피해를 줌\nEN:\nDeal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+  },
+  {
+    "key": "9756-name",
+    "original": "孵化しない火種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "孵化しない火種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부화하지 않은 불씨\nEN:\nUnhatched Embers"
+  },
+  {
+    "key": "9756-desc",
+    "original": "致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\nEN:\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)"
+  },
+  {
+    "key": "9756-simpleDesc[0].simpleDesc",
+    "original": "致死ダメージを受けたときに死亡せず、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "致死ダメージを受けたときに死亡せず、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 정도의 피해를 받을 때 사망하지 않고, 이후 체력 회복\nEN:\nWhen taking mortal damage, defy death and heal HP"
+  },
+  {
+    "key": "19756-name",
+    "original": "孵化しない火種+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "孵化しない火種+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부화하지 않은 불씨+\nEN:\nUnhatched Embers+"
+  },
+  {
+    "key": "19756-desc",
+    "original": "致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n<style=\"upgradeHighlight\">自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が30%になる。(上記の効果と合わせて戦闘につき1回発動)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n<style=\"upgradeHighlight\">自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が30%になる。(上記の効果と合わせて戦闘につき1回発動)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n&lt;style=\"upgradeHighlight\"&gt;자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 30%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)&lt;/style&gt;\nEN:\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\n&lt;style=\"upgradeHighlight\"&gt;If the affected unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)&lt;/style&gt;"
+  },
+  {
+    "key": "19756-simpleDesc[0].simpleDesc",
+    "original": "致死ダメージを受けたときに死亡せず、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "致死ダメージを受けたときに死亡せず、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 정도의 피해를 받을 때 사망하지 않고, 이후 체력 회복\nEN:\nWhen taking mortal damage, defy death and heal HP"
+  },
+  {
+    "key": "29756-name",
+    "original": "孵化しない火種++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "孵化しない火種++\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부화하지 않은 불씨++\nEN:\nUnhatched Embers++"
+  },
+  {
+    "key": "29756-desc",
+    "original": "致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が<style=\"upgradeHighlight\">40</style>%になる。(上記の効果と合わせて戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "致死ダメージを受けたなら該当する攻撃の間、体力が1に保たれる。該当攻撃が終了したときに全体力の20%だけ回復(戦闘につき1回発動)\n\n自分に[Combustion]があるなら、該当攻撃が終了したときの全体力回復量が<style=\"upgradeHighlight\">40</style>%になる。(上記の効果と合わせて戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 정도의 피해를 입었다면, 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 20%만큼 회복함. (전투당 1회 발동)\n\n자신에게 [Combustion]이 있으면, 대신 해당 공격동안 체력이 1로 유지되고 해당 공격 종료시 전체 체력의 &lt;style=\"upgradeHighlight\"&gt;40&lt;/style&gt;%만큼 회복함.(위 효과와 합쳐 전투 당 1회 발동)\nEN:\nWhen taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affected unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal &lt;style=\"upgradeHighlight\"&gt;40&lt;/style&gt;% of max HP instead. (once per Encounter for both this and the above effect)"
+  },
+  {
+    "key": "29756-simpleDesc[0].simpleDesc",
+    "original": "致死ダメージを受けたときに死亡せず、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "致死ダメージを受けたときに死亡せず、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 정도의 피해를 받을 때 사망하지 않고, 이후 체력 회복\nEN:\nWhen taking mortal damage, defy death and heal HP"
+  },
+  {
+    "key": "9757-name",
+    "original": "対羊電接地プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対羊電接地プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대양전 접지 플러그\nEN:\nAnti-Ovine Grounding Plug"
+  },
+  {
+    "key": "9757-desc",
+    "original": "戦闘中にダメージを受けたなら、攻撃者へ次のターンにて[Paralysis]1を付与。(キャラクター1名につき1ターンごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中にダメージを受けたなら、攻撃者へ次のターンにて[Paralysis]1を付与。(キャラクター1名につき1ターンごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 피격당했다면, 공격자에게 다음 턴에 [Paralysis] 1 부여. (캐릭터 1명당 턴 당 1 회)\nEN:\nWhen hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)"
+  },
+  {
+    "key": "9757-simpleDesc[0].simpleDesc",
+    "original": "被ダメージ時、次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時、次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 다음 턴에 [Paralysis] 1 부여\nEN:\nWhen hit, inflict 1 [Paralysis] next turn"
+  },
+  {
+    "key": "19757-name",
+    "original": "対羊電接地プラグ+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対羊電接地プラグ+\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대양전 접지 플러그+\nEN:\nAnti-Ovine Grounding Plug+"
+  },
+  {
+    "key": "19757-desc",
+    "original": "戦闘中にダメージを受けたなら、攻撃者へ次のターンに[Paralysis]1を付与(キャラクター1名ごとに1ターンにつき1回)\n\n<style=\"upgradeHighlight\">戦闘開始時に嫉妬完全共鳴5以上なら、全ての敵へ[Paralysis]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中にダメージを受けたなら、攻撃者へ次のターンに[Paralysis]1を付与(キャラクター1名ごとに1ターンにつき1回)\n\n<style=\"upgradeHighlight\">戦闘開始時に嫉妬完全共鳴5以上なら、全ての敵へ[Paralysis]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 피격당했다면, 공격자에게 다음 턴에 [Paralysis] 1 부여. (캐릭터 1명당 턴 당 1 회)\n\n&lt;style=\"upgradeHighlight\"&gt;전투 시작 시 질투 완전 공명 5 이상이면, 모든 적에게 [Paralysis] 1 부여.&lt;/style&gt;\nEN:\nWhen hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\n&lt;style=\"upgradeHighlight\"&gt;At 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.&lt;/style&gt;"
+  },
+  {
+    "key": "19757-simpleDesc[0].simpleDesc",
+    "original": "戦闘開始時、被ダメージ時に次のターンにて[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、被ダメージ時に次のターンにて[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, 피격 시 다음 턴에 [Paralysis] 1 부여\nEN:\nCombat Start: when hit, inflict 1 [Paralysis] next turn"
+  },
+  {
+    "key": "9758-name",
+    "original": "王の残滓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "王の残滓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n왕의 잔재\nEN:\nVestiges of the King"
+  },
+  {
+    "key": "9758-desc",
+    "original": "連続戦闘にて、編成7番目以降から待機解除されたターン開始時に精神力を10回復、[ParryingResultUp]2を得る、自分のスキル1, 2, 3属性のE.G.O資源を1つずつ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連続戦闘にて、編成7番目以降から待機解除されたターン開始時に精神力を10回復、[ParryingResultUp]2を得る、自分のスキル1, 2, 3属性のE.G.O資源を1つずつ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연속 전투에서 7번째 편성 순서부터 대기 해제된 턴 시작 시 정신력 10 회복, [ParryingResultUp] 2 얻음, 자신의 스킬 1, 2, 3 속성의 E.G.O 자원을 1개씩 얻음.\nEN:\nChain Battles) Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal 10 SP, gain 2 [ParryingResultUp], and gain 1 E.G.O resource for each one of their Skills 1, 2, and 3"
+  },
+  {
+    "key": "9758-simpleDesc[0].simpleDesc",
+    "original": "待機解除時に精神力回復、マッチ威力増加、E.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待機解除時に精神力回復、マッチ威力増加、E.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대기 해제 시 정신력 회복, 합 위력 증가, E.G.O 자원 획득\nEN:\nHeal SP, gain Clash Power Up, and E.G.O resources when substituting in"
+  },
+  {
+    "key": "9759-name",
+    "original": "火の消えたランタン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火の消えたランタン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불 꺼진 랜턴\nEN:\nSnuffed Lantern"
+  },
+  {
+    "key": "9759-desc",
+    "original": "[編成7番人格専用効果]\n\nスキル・コイン効果で得る[Vibration]回数の値 +1\n\n- 攻撃対象が混乱、士気低下、パニック状態なら代わりに +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成7番人格専用効果]\n\nスキル・コイン効果で得る[Vibration]回数の値 +1\n\n- 攻撃対象が混乱、士気低下、パニック状態なら代わりに +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 7번 인격 전용 효과]\n\n스킬, 코인 효과로 얻는 [Vibration] 횟수의 값 +1\n\n- 공격 대상이 흐트러짐, 사기저하, 패닉 상태면 대신 +2\nEN:\n[Effects apply only to #7 Deployed Identity]\n\nGain +1 more [Vibration] Count from Skill or Coin effects\n\n- If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead"
+  },
+  {
+    "key": "9759-simpleDesc[0].simpleDesc",
+    "original": "スキル・コイン効果で得る[Vibration]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル・コイン効果で得る[Vibration]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬, 코인 효과로 얻는 [Vibration] 횟수 증가\nEN:\nGain more [Vibration] Count with Skill or Coin effects"
+  },
+  {
+    "key": "9760-name",
+    "original": "火の消えた燭台\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "火の消えた燭台\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불 꺼진 촛대\nEN:\nSnuffed Candlestick"
+  },
+  {
+    "key": "9760-desc",
+    "original": "[編成1番人格専用効果]\n\nターン開始時に混乱、士気低下、パニック状態の敵がいるなら、全ての敵へ[AttackDown]1または[DefenseDown]1を付与。(1ターンにつき最大3回)\n\n混乱、士気低下、パニック状態の敵に攻撃的中時、[AttackDown]1または[DefenseDown]1を付与(1ターンにつき最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成1番人格専用効果]\n\nターン開始時に混乱、士気低下、パニック状態の敵がいるなら、全ての敵へ[AttackDown]1または[DefenseDown]1を付与。(1ターンにつき最大3回)\n\n混乱、士気低下、パニック状態の敵に攻撃的中時、[AttackDown]1または[DefenseDown]1を付与(1ターンにつき最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 1번 인격 전용 효과]\n\n턴 시작시 흐트러짐, 사기저하, 패닉 상태인 적이 있으면, 모든 적에게 [AttackDown] 1 또는 [DefenseDown] 1 부여. (턴 당 최대 3회)\n\n흐트러짐, 사기저하, 패닉 상태인 적에게 공격 적중시, [AttackDown] 1 또는 [DefenseDown] 1 부여 (턴 당 최대 3회)\nEN:\n[Effects apply only to #1 Deployed Identity]\n\nIf there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 1 [AttackDown] or 1 [DefenseDown] against all enemies. (3 times per turn)\n\nOn Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 [AttackDown] or 1 [DefenseDown] (3 times per turn)"
+  },
+  {
+    "key": "9760-simpleDesc[0].simpleDesc",
+    "original": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackDown] 또는 [DefenseDown] 1 부여\nEN:\nInflict 1 [AttackDown] or 1 [DefenseDown]"
+  },
+  {
+    "key": "9760-simpleDesc[1].simpleDesc",
+    "original": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackDown] 또는 [DefenseDown] 1 부여\nEN:\nInflict 1 [AttackDown] or 1 [DefenseDown]"
+  },
+  {
+    "key": "9761-name",
+    "original": "影の怪物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "影の怪物\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그림자 괴물\nEN:\nShadow Monster"
+  },
+  {
+    "key": "9761-desc",
+    "original": "[編成1・2・7・8番人格専用効果]\n\nスキル・コイン効果で得る[Vibration]回数の値 +1\n- 攻撃対象が混乱、士気低下、パニック状態なら代わりに +2\n\nターン開始時に混乱、士気低下、パニック状態の敵がいるなら、全ての敵へ[AttackDown]2または[DefenseDown]2を付与。(1ターンにつき最大3回)\n\n混乱、士気低下、パニック状態の敵に攻撃的中時、[AttackDown]1または[DefenseDown]1を付与(1ターンにつき最大3回。他の人格と回数を共有)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成1・2・7・8番人格専用効果]\n\nスキル・コイン効果で得る[Vibration]回数の値 +1\n- 攻撃対象が混乱、士気低下、パニック状態なら代わりに +2\n\nターン開始時に混乱、士気低下、パニック状態の敵がいるなら、全ての敵へ[AttackDown]2または[DefenseDown]2を付与。(1ターンにつき最大3回)\n\n混乱、士気低下、パニック状態の敵に攻撃的中時、[AttackDown]1または[DefenseDown]1を付与(1ターンにつき最大3回。他の人格と回数を共有)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 1, 2, 7, 8번 인격 전용 효과]\n\n스킬, 코인 효과로 얻는 [Vibration] 횟수의 값 +1\n  - 공격 대상이 흐트러짐, 사기저하, 패닉 상태면 대신 +2\n\n턴 시작시 흐트러짐, 사기저하, 패닉 상태인 적이 있으면, 모든 적에게 [AttackDown] 2 또는 [DefenseDown] 2 부여 (턴 당 최대 3회)\n\n흐트러짐, 사기저하, 패닉 상태인 적에게 공격 적중시, [AttackDown] 1 또는 [DefenseDown] 1 부여 (턴 당 최대 3회. 다른 인격과 횟수 공유)\nEN:\n[Effects apply only to #1, #2, #7, and #8 Deployed Identities]\n\nGain +1 more [Vibration] Count from Skill & Coin effects\n  - If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead\n\nIf there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 2 [AttackDown] or 2 [DefenseDown] against all enemies. (3 times per turn)\n\nOn Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 [AttackDown] or 1 [DefenseDown] (3 times per turn between all Identities)"
+  },
+  {
+    "key": "9761-simpleDesc[0].simpleDesc",
+    "original": "スキル・コイン効果で得る[Vibration]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル・コイン効果で得る[Vibration]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬, 코인 효과로 얻는 [Vibration] 횟수 증가\nEN:\nGain more [Vibration] Count with Skill or Coin effects"
+  },
+  {
+    "key": "9761-simpleDesc[1].simpleDesc",
+    "original": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackDown] 또는 [DefenseDown] 1 부여\nEN:\nInflict 1 [AttackDown] or 1 [DefenseDown]"
+  },
+  {
+    "key": "9761-simpleDesc[2].simpleDesc",
+    "original": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AttackDown]または[DefenseDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackDown] 또는 [DefenseDown] 1 부여\nEN:\nInflict 1 [AttackDown] or 1 [DefenseDown]"
+  },
+  {
+    "key": "9762-name",
+    "original": "ラッピングボックス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラッピングボックス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포장용 상자\nEN:\nPackaging Box"
+  },
+  {
+    "key": "9762-desc",
+    "original": "味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな1つの効果威力を1付与(1ターンにつき3回)\n\n味方が敵討伐時、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな1つの効果威力を1付与(1ターンにつき3回)\n\n味方が敵討伐時、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군의 스킬 적중 시마다, [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 1개 효과의 위력 1 부여 (턴 당 3회)\n\n아군이 적 처치 시 무작위 아군에게 다음 턴에 [Breath] 횟수, [Charge] 횟수, [Agility], [AttackUp], [DefenseUp] 중 무작위 1개 효과 1 부여 (턴 당 3회)\nEN:\nOn Hit from ally Skills) randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nOn Kill from allies) randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to a random ally (3 times per turn)"
+  },
+  {
+    "key": "9762-simpleDesc[0].simpleDesc",
+    "original": "ランダムにデバフ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムにデバフ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 디버프 부여\nEN:\nInflict a random debuff"
+  },
+  {
+    "key": "9762-simpleDesc[1].simpleDesc",
+    "original": "ランダムにバフを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムにバフを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 버프 얻음\nEN:\nGain a random buff"
+  },
+  {
+    "key": "9763-name",
+    "original": "ラッピングリボン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ラッピングリボン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n포장용 끈\nEN:\nPackaging Ribbon"
+  },
+  {
+    "key": "9763-desc",
+    "original": "ターン開始時、全味方が「憤怒～嫉妬ダメージ量増加」のうちランダムに1つの効果を得る\n\nターン開始時、全ての敵へ「憤怒～嫉妬脆弱」のうちランダムな効果を1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全味方が「憤怒～嫉妬ダメージ量増加」のうちランダムに1つの効果を得る\n\nターン開始時、全ての敵へ「憤怒～嫉妬脆弱」のうちランダムな効果を1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시, 모든 아군이 '분노 ~ 질투 피해량 증가' 중 무작위 효과 1 얻음\n\n턴 시작시, 모든 적에게 '분노 ~ 질투 취약' 중 무작위 효과 1 부여\nEN:\nTurn Start: randomly select 1 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 1 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies"
+  },
+  {
+    "key": "9763-simpleDesc[0].simpleDesc",
+    "original": "ランダムな属性ダメージ量増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムな属性ダメージ量増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 속성 피해량 증가 얻음\nEN:\nGain a random Affinity DMG Up effect"
+  },
+  {
+    "key": "9763-simpleDesc[1].simpleDesc",
+    "original": "ランダムな属性脆弱を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムな属性脆弱を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 속성 취약 부여\nEN:\nInflict 'Fragility' against a random Affinity"
+  },
+  {
+    "key": "9764-name",
+    "original": "プレゼント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "プレゼント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선물\nEN:\nGift"
+  },
+  {
+    "key": "9764-desc",
+    "original": "味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな2つの効果威力を1付与(1ターンにつき3回)\n\n味方のスキルが的中するたびに、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n\nターン開始時、全味方が「憤怒～嫉妬ダメージ量増加」のうちランダムな効果2つをそれぞれ1得る\n\nターン開始時、全ての敵へ「憤怒～嫉妬脆弱」のうちランダムな効果2つをそれぞれ1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方のスキルが的中するたびに、[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]のうちランダムな2つの効果威力を1付与(1ターンにつき3回)\n\n味方のスキルが的中するたびに、ランダムな味方に次のターンにて[Breath]回数、[Charge]回数、[Agility]、[AttackUp]、[DefenseUp]のうちランダムに1つの効果を1付与(1ターンにつき3回)\n\nターン開始時、全味方が「憤怒～嫉妬ダメージ量増加」のうちランダムな効果2つをそれぞれ1得る\n\nターン開始時、全ての敵へ「憤怒～嫉妬脆弱」のうちランダムな効果2つをそれぞれ1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군의 스킬 적중 시마다, [Combustion], [Laceration], [Vibration], [Burst], [Sinking] 중 무작위 2개 효과의 위력 1 부여 (턴 당 3회)\n\n아군의 스킬 적중 시마다, 무작위 아군 두 명에게 다음 턴에 [Breath] 횟수, [Charge] 횟수, [Agility], [AttackUp], [DefenseUp] 중 무작위 1개 효과 1 부여 (턴 당 3회)\n\n턴 시작시, 모든 아군이 '분노 ~ 질투 피해량 증가' 중 무작위 효과 2가지를 1씩 얻음\n\n턴 시작시, 모든 적에게 '분노 ~ 질투 취약' 중 무작위 효과 2가지를 1씩 부여\nEN:\nWhen an ally hits with a Skill, randomly select 2 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nWhen an ally hits with a Skill, randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to 2 random allies (3 times per turn)\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies"
+  },
+  {
+    "key": "9764-simpleDesc[0].simpleDesc",
+    "original": "ランダムにデバフ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムにデバフ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 디버프 부여\nEN:\nInflict a random debuff"
+  },
+  {
+    "key": "9764-simpleDesc[1].simpleDesc",
+    "original": "ランダムにバフを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムにバフを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 버프 얻음\nEN:\nGain a random buff"
+  },
+  {
+    "key": "9764-simpleDesc[2].simpleDesc",
+    "original": "ランダムな属性ダメージ量増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムな属性ダメージ量増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 속성 피해량 증가 얻음\nEN:\nGain a random Affinity DMG Up effect"
+  },
+  {
+    "key": "9765-name",
+    "original": "楽しい縫製人形\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "楽しい縫製人形\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁜 봉제인형\nEN:\nJolly Plushie"
+  },
+  {
+    "key": "9765-desc",
+    "original": "味方がターン終了時にダメージを当てた攻撃スキル数に比例して、次のターンにて[Breath]威力2を得る。\n- 集中戦闘方式のステージでは効果が強化されて[Breath]威力4を得る。\n\nターン開始時、体力が最も低い味方へ[Breath]2, [Breath]回数2, [Protection]2を付与。\n\n敵への与ダメージ量 +(味方自身の精神力絶対値。最低0)%\n\n加算コインを保有する味方が混乱状態から回復したとき、精神力を全快(侵蝕状態の場合は発動しない)\n\n全スキルが減算コインの場合はターン開始時に[Paralysis]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方がターン終了時にダメージを与えた攻撃スキル数に比例して、次のターンにて[Breath]威力2を得る。\n- 集中戦闘方式のステージでは効果が強化されて[Breath]威力4を得る。\n\nターン開始時、体力が最も低い味方へ[Breath]2, [Breath]回数2, [Protection]2を付与。\n\n敵への与ダメージ量 +(味方自身の精神力絶対値。最低0)%\n\n加算コインを保有する味方が混乱状態から回復したとき、精神力を全快(侵蝕状態の場合は発動しない)\n\n全スキルが減算コインの場合はターン開始時に[Paralysis]5を得る\n<CMT_KR>오식: \"味方がターン終了時にダメージを「当てた」攻撃スキル数に比例して、次のターンにて[Breath]威力2を得る。\" 정확: \"味方がターン終了時にダメージを「与えた」攻撃スキル数に比例して、\"\n<CMT_EN>Typo: \"味方がターン終了時にダメージを「当てた」攻撃スキル数に比例して、次のターンにて[Breath]威力2を得る。\" Correction: \"味方がターン終了時にダメージを「与えた」攻撃スキル数に比例して、\"\n<CMT_JP>誤植: \"味方がターン終了時にダメージを「当てた」攻撃スキル数に比例して、次のターンにて[Breath]威力2を得る。\" 訂正後: \"味方がターン終了時にダメージを「与えた」攻撃スキル数に比例して、\"",
+    "stage": 1,
+    "context": "KR:\n아군이 턴 종료 시 피해를 입힌 공격 스킬 수에 비례하여 다음 턴에 [Breath] 위력 2 획득.\n- 집중 전투 방식의 스테이지에서는 효과가 강화되어 [Breath] 위력 4 획득.\n\n턴 시작 시, 체력이 가장 낮은 아군에게 호흡 2, [Breath] 횟수 2, [Protection] 2 부여.\n\n아군이 본인의 정신력에 비례하여 적에게 입히는 피해량 +(정신력 절댓값. 최소 0)%\n\n더하기 코인 스킬을 보유한 아군이 흐트러짐 상태에서 풀려날 때 정신력 최대로 회복 (침식 상태일 경우에는 발동하지 않음).\n\n모든 스킬이 빼기 코인인 아군의 경우에는 턴 시작 시 [Paralysis] 5 얻음\nEN:\nGain 2 [Breath] Potency next turn based on the number of allied Attack Skills that dealt damage by Turn End\n- In Focused Encounters, gain 4 [Breath] Potency instead.\n\nTurn Start: apply 2 [Breath], +2 [Breath] Count, and 2 [Protection] on the ally with the least HP.\n\nDeal +(absolute value of SP)% damage. (min 0%)\n\nWhen an ally with Plus Coin Skills recovers from Stagger, fully heal SP. (does not activate when Corroded)\n\nFor an ally with all Minus Coin Skills: gain 5 [Paralysis] at Turn Start."
+  },
+  {
+    "key": "9765-simpleDesc[0].simpleDesc",
+    "original": "呼吸 威力を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呼吸 威力を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 위력 얻음\nEN:\nGain Poise Potency"
+  },
+  {
+    "key": "9765-simpleDesc[1].simpleDesc",
+    "original": "ランダムにバフ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ランダムにバフ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 버프 부여\nEN:\nApply a random buff"
+  },
+  {
+    "key": "9765-simpleDesc[2].simpleDesc",
+    "original": "[Breath]、[Protection]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Breath]、[Protection]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Breath], [Protection] 부여\nEN:\nApply [Breath] and [Protection]"
+  },
+  {
+    "key": "9765-simpleDesc[3].simpleDesc",
+    "original": "ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량 증가\nEN:\nDeal more damage"
+  },
+  {
+    "key": "9765-simpleDesc[4].simpleDesc",
+    "original": "精神力を全快\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力を全快\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 최대 회복\nEN:\nFully heal SP"
+  },
+  {
+    "key": "9765-simpleDesc[5].simpleDesc",
+    "original": "[Paralysis]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Paralysis]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Paralysis] 얻음\nEN:\nGain [Paralysis]"
+  },
+  {
+    "key": "9766-name",
+    "original": "黙示的契約更新\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黙示的契約更新\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묵시적 계약 갱신\nEN:\nImplicit Contract Renewal"
+  },
+  {
+    "key": "9766-desc",
+    "original": "生存している[RequestedTarget]がいない場合、味方が最初に攻撃する敵へ[RequestedTarget]効果を付与する(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生存している[RequestedTarget]がいない場合、味方が最初に攻撃する敵へ[RequestedTarget]効果を付与する(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생존한 [RequestedTarget]이 없을 경우, 아군이 처음 공격하는 적에게 [RequestedTarget] 효과를 부여함. (턴 당 1회)\nEN:\nIf there are no surviving [RequestedTarget], inflict the [RequestedTarget] effect against the first enemy to be attacked by an ally. (once per turn)"
+  },
+  {
+    "key": "9766-simpleDesc[0].simpleDesc",
+    "original": "[RequestedTarget]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[RequestedTarget]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[RequestedTarget] 부여\nEN:\nInflict [RequestedTarget]"
+  },
+  {
+    "key": "9767-name",
+    "original": "黒炎のパイプ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒炎のパイプ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑염 파이프\nEN:\nDarkflame Smoking Pipe"
+  },
+  {
+    "key": "9767-desc",
+    "original": "[編成1番人格専用効果]\n\n毎ターン[Enhancement]2, [Vulnerable]1を得る\n\nメイン攻撃対象の防御レベルが減少した状態なら、攻撃前に[Breath]5を得る\n\n傲慢貫通スキルのダメージ量 +(50 ÷ コイン数)% (E.G.Oを含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成1番人格専用効果]\n\n毎ターン[Enhancement]2, [Vulnerable]1を得る\n\nメイン攻撃対象の防御レベルが減少した状態なら、攻撃前に[Breath]5を得る\n\n傲慢貫通スキルのダメージ量 +(50 ÷ コイン数)% (E.G.Oを含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[1번 편성 전용 효과]\n\n매 턴마다 [Enhancement] 2, [Vulnerable] 1 얻음\n\n메인 공격 대상의 방어 레벨이 감소한 상태면, 공격 전에 [Breath] 5 얻음\n\n오만 관통 스킬의 피해량 +(50/코인 수)%. (E.G.O 포함)\nEN:\n[Effect applies only to #1 Deployed Identity]\n\nGain 2 [Enhancement] and 1 [Vulnerable] every turn\n\nIf the main target currently has a reduced Defense Level, gain 5 [Breath] before attack\n\nPride Pierce Skills deal +(50 / # of Coins)% damage (including E.G.O)"
+  },
+  {
+    "key": "9767-simpleDesc[0].simpleDesc",
+    "original": "[Enhancement], [Vulnerable]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Enhancement], [Vulnerable]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement], [Vulnerable] 얻음\nEN:\nGain [Enhancement] and [Vulnerable]"
+  },
+  {
+    "key": "9767-simpleDesc[1].simpleDesc",
+    "original": "[Breath]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Breath]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Breath] 얻음\nEN:\nGain [Breath]"
+  },
+  {
+    "key": "9767-simpleDesc[2].simpleDesc",
+    "original": "貫通スキルのダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫通スキルのダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관통 스킬의 피해량이 증가\nEN:\nPierce Skills deal more damage"
+  },
+  {
+    "key": "9768-name",
+    "original": "平等\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "平等\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n평등\nEN:\nEqualizer"
+  },
+  {
+    "key": "9768-desc",
+    "original": "敵の貫通耐性が1.5以下の場合、貫通耐性 +0.3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵の貫通耐性が1.5以下の場合、貫通耐性 +0.3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적의 관통 내성이 1.5 이하인 경우, 관통 내성 +0.3\nEN:\nIf the target has 1.5 or lower Pierce Resistance, Pierce Resistance +0.3"
+  },
+  {
+    "key": "9769-name",
+    "original": "迅速な指揮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "迅速な指揮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신속한 지휘\nEN:\nSwift Command"
+  },
+  {
+    "key": "9769-desc",
+    "original": "ターン終了時、このターンに退却した味方がいるなら、次のターン開始時に速度が最も高い味方1名が[Enhancement]2, [AttackDmgUp]1を得る\n\n戦闘開始時、このターンに待機解除した味方がいるなら、待機解除された味方が[Enhancement]2, [Endurance]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、このターンに退却した味方がいるなら、次のターン開始時に速度が最も高い味方1名が[Enhancement]2, [AttackDmgUp]1を得る\n\n戦闘開始時、このターンに待機解除した味方がいるなら、待機解除された味方が[Enhancement]2, [Endurance]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 이번 턴에 퇴각한 아군이 있으면, 다음 턴 시작시 속도가 가장 빠른 아군 1명이 [Enhancement] 2, [AttackDmgUp] 1 얻음\n\n전투 시작시 이번 턴에 대기해제된 아군이 있으면, 대기해제된 아군이 [Enhancement] 2, [Endurance] 2 얻음\nEN:\nTurn End: if any allies Retreated this turn, 1 ally with the fastest Speed gains 2 [Enhancement] and 1 [AttackDmgUp] at the next Turn Start\n\nCombat Start: if any allies were Substituted in this turn, allies that were Substituted in gain 2 [Enhancement] and 2 [Endurance]"
+  },
+  {
+    "key": "9769-simpleDesc[0].simpleDesc",
+    "original": "[Enhancement]、[AttackDmgUp]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Enhancement]、[AttackDmgUp]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement], [AttackDmgUp] 얻음\nEN:\nGain [Enhancement] and [AttackDmgUp]"
+  },
+  {
+    "key": "9769-simpleDesc[1].simpleDesc",
+    "original": "[Enhancement]、[Endurance]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Enhancement]、[Endurance]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement], [Endurance] 얻음\nEN:\nGain [Enhancement] and [Endurance]"
+  },
+  {
+    "key": "9770-name",
+    "original": "歯車の破片\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "歯車の破片\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n톱니 파편\nEN:\nGear Shrapnel"
+  },
+  {
+    "key": "9770-desc",
+    "original": "ターン開始時、自分に[Breath]があるなら[DefenseUp]2, [Endurance]1を得る\n\n[Breath]があるなら最初に的中するコインのダメージ量 +10%\n\n該当コインがクリティカル的中時、クリティカルダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、自分に[Breath]があるなら[DefenseUp]2, [Endurance]1を得る\n\n[Breath]があるなら最初に的中するコインのダメージ量 +10%\n\n該当コインがクリティカル的中時、クリティカルダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시 자신에게 [Breath]이 있으면, [DefenseUp] 2, [Endurance] 1 얻음\n\n[Breath]이 있으면 처음으로 적중하는 코인의 피해량 +10%\n\n해당 코인이 크리티컬 적중시, 크리티컬 피해량 +20%\nEN:\nTurn Start: if this unit has [Breath], gain 2 [DefenseUp] and 1 [Endurance]\n\nIf this unit has [Breath], the first Coin to hit deals +10% damage\n\nIf the said Coin hits critically, +20% Damage on Critical Hit"
+  },
+  {
+    "key": "9770-simpleDesc[0].simpleDesc",
+    "original": "[DefenseUp]、[Endurance]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DefenseUp]、[Endurance]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DefenseUp], [Endurance] 얻음\nEN:\nGain [DefenseUp] and [Endurance]"
+  },
+  {
+    "key": "9770-simpleDesc[1].simpleDesc",
+    "original": "最初に的中するコインのダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初に的中するコインのダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음으로 적중하는 코인의 피해량이 증가\nEN:\nDeal more damage with the first Coin that hits"
+  },
+  {
+    "key": "9771-name",
+    "original": "近接戦術教本\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "近接戦術教本\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n근접 전술 교본\nEN:\nCQC Manual"
+  },
+  {
+    "key": "9771-desc",
+    "original": "[Bullet]を消耗できるスキルにて消耗しない場合、このターンと次のターンに[Enhancement]を1得る(1ターンにつき1回)\n\n[Bullet]を得ると、このターンと次のターンにて使用するスキル3のダメージ量 +50%\n\n[Bullet]を消耗スキル使用時、[Breath]3, [Breath]回数を1得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Bullet]を消耗できるスキルにて消耗しない場合、このターンと次のターンに[Enhancement]を1得る(1ターンにつき1回)\n\n[Bullet]を得ると、このターンと次のターンにて使用するスキル3のダメージ量 +50%\n\n[Bullet]を消耗するスキル使用時、[Breath]3, [Breath]回数を1得る\n<CMT_KR>오식: \"[Bullet]を消耗「」スキル使用時、[Breath]3, [Breath]回数を1得る\" 정확: \"[Bullet]を消耗「する」スキル使用時、[Breath]3, [Breath]回数を1得る\"\n<CMT_EN>Typo: \"[Bullet]を消耗「」スキル使用時、[Breath]3, [Breath]回数を1得る\" Correction: \"[Bullet]を消耗「する」スキル使用時、[Breath]3, [Breath]回数を1得る\"\n<CMT_JP>誤植: \"[Bullet]を消耗「」スキル使用時、[Breath]3, [Breath]回数を1得る\" 訂正後: \"[Bullet]を消耗「する」スキル使用時、[Breath]3, [Breath]回数を1得る\"",
+    "stage": 1,
+    "context": "KR:\n[Bullet]을 소모할 수 있는 스킬에서 소모하지 않을 경우, 이번 턴과 다음 턴에 [Enhancement] 1 얻음 (턴 당 1회)\n\n[Bullet]을 얻으면, 이번 턴과 다음 턴에 사용하는 스킬 3의 피해량 +50%\n\n[Bullet]을 소모하는 스킬 사용 시, [Breath] 3 [Breath] 횟수 1 얻음\nEN:\nIf a Skill that can spend [Bullet] does not spend [Bullet], gain 1 [Enhancement] this turn and next turn (once per turn)\n\nWhen gaining [Bullet], Skill 3 deals +50% damage this turn and next turn when used\n\nWhen using a Skill that spends [Bullet], gain 3 [Breath] and +1 [Breath] Count"
+  },
+  {
+    "key": "9771-simpleDesc[0].simpleDesc",
+    "original": "[Enhancement]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Enhancement]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement] 얻음\nEN:\nGain [Enhancement]"
+  },
+  {
+    "key": "9771-simpleDesc[1].simpleDesc",
+    "original": "スキル3のダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル3のダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3스킬의 피해량이 증가\nEN:\nSkill 3 deals more damage"
+  },
+  {
+    "key": "9771-simpleDesc[2].simpleDesc",
+    "original": "[Breath]威力、回数を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Breath]威力、回数を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Breath] 위력, 횟수 얻음\nEN:\nGain [Breath] Potency and Count"
+  },
+  {
+    "key": "9772-name",
+    "original": "点火グローブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "点火グローブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점화 장갑\nEN:\nCombustion Gloves"
+  },
+  {
+    "key": "9772-desc",
+    "original": "[Combustion]威力または特殊火傷を付与する基本攻撃スキルで敵とマッチ勝利時、[Combustion]威力を2付与(人格ごとに2ターンにつき2回)\n\n[Combustion]回数を付与する基本攻撃スキルで敵とマッチ勝利時、対象の[Combustion]回数が1増加。(敵ごとに1ターンにつき3回)\n\n[Combustion]威力、[Combustion]回数または特殊火傷を付与する基本攻撃スキルが、各スキルの保有量だけ攻撃レベルが増加(最大3)。\n- 該当スキルの保有量が3つ以上なら、攻撃レベルが2だけ追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Combustion]威力または特殊火傷を付与する基本攻撃スキルで敵とマッチ勝利時、[Combustion]威力を2付与(人格ごとに2ターンにつき2回)\n\n[Combustion]回数を付与する基本攻撃スキルで敵とマッチ勝利時、対象の[Combustion]回数が1増加。(敵ごとに1ターンにつき3回)\n\n[Combustion]威力、[Combustion]回数または特殊火傷を付与する基本攻撃スキルが、各スキルの保有量だけ攻撃レベルが増加(最大3)。\n- 該当スキルの保有量が3つ以上なら、攻撃レベルが2だけ追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Combustion] 위력 또는 특수 화상을 부여하는 기본 공격 스킬로 적과 합 승리 시, [Combustion] 위력 2 부여 (인격 별로 턴 당 2회).\n\n[Combustion] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, 대상의 [Combustion] 횟수 2 증가. (적 별로 턴 당 3회)\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3).\n- 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.\nEN:\nOn Clash Win with a Base Attack Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 2 [Combustion] Potency (2 times per turn per Identity)\n\nOn Clash Win with a Base Attack Skill that inflicts [Combustion] Count, inflict +2 [Combustion] Count (3 times per turn per enemy)\n\nBase Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': each Skill gains Offense Level equal to the number of copies of each Skill(max 3).\n- If a Skill has 3+ copies, gain 2 additional Offense Level."
+  },
+  {
+    "key": "9772-simpleDesc[0].simpleDesc",
+    "original": "[Conbustion]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Conbustion]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Conbustion] 부여\nEN:\nInflict [Combustion]"
+  },
+  {
+    "key": "9772-simpleDesc[1].simpleDesc",
+    "original": "[Conbustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Conbustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Conbustion] 횟수 증가\nEN:\nInflict [Combustion] Count"
+  },
+  {
+    "key": "9772-simpleDesc[2].simpleDesc",
+    "original": "攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가\nEN:\nGain Offense Level"
+  },
+  {
+    "key": "9773-name",
+    "original": "棘の戦闘靴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "棘の戦闘靴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가시 전투화\nEN:\nSpiked Combat Boots"
+  },
+  {
+    "key": "9773-desc",
+    "original": "[Burst]回数を付与する基本攻撃スキルで敵とマッチ勝利時、対象の[Burst]回数が3増加(敵ごとに1ターンにつき2回)\n\n的中時、対象の敵へ[Burst]が無ければ[Burst]威力を付与するコイン効果が、[Burst]威力を付与する代わりに[Burst]回数を付与(最大4, 敵ごとに1ターンにつき2回、幻想体の場合は部位別に計算)\n\n[Burst]威力または[Burst]回数を付与する基本攻撃スキルが、各スキルの保有量だけ攻撃レベルが増加(最大3)。\n- 該当スキルの保有量が3つ以上なら、攻撃レベルが2だけ追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]回数を付与する基本攻撃スキルで敵とマッチ勝利時、対象の[Burst]回数が3増加(敵ごとに1ターンにつき2回)\n\n的中時、対象の敵へ[Burst]が無ければ[Burst]威力を付与するコイン効果が、[Burst]威力を付与する代わりに[Burst]回数を付与(最大4, 敵ごとに1ターンにつき2回、幻想体の場合は部位別に計算)\n\n[Burst]威力または[Burst]回数を付与する基本攻撃スキルが、各スキルの保有量だけ攻撃レベルが増加(最大3)。\n- 該当スキルの保有量が3つ以上なら、攻撃レベルが2だけ追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적과 합 승리 시, 대상의 [Burst] 횟수 3 증가. (적 별로 턴 당 2회)\n\n적중 시 대상 적에게 [Burst]이 없으면, [Burst] 위력을 부여하는 코인 효과가 [Burst] 위력을 부여하는 대신 [Burst] 횟수를 부여 (최대 4, 적 별로 턴 당 2회, 환상체일 경우 부위 별로 계산)\n\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬이 각 스킬의 보유량만큼 공격 레벨이 증가 (최대 3).\n- 해당 스킬의 보유량이 3개 이상인 경우, 공격 레벨이 2만큼 추가로 증가.\nEN:\nOn Clash Win with a Base Attack Skill that inflicts [Burst] Potency or Count against an enemy, inflict +3 [Burst] Count (2 times per turn per enemy)\n\nOn Hit: if the enemy does not have [Burst], Coin effects that inflict [Burst] Potency inflict [Burst] Count instead (max 4; 2 times per turn per enemy; for Abnormalities, for each Part)\n\nBase Attack Skills that inflict [Burst] Potency or Count: each Skill gains Offense Level equal to the number of copies of each Skill(max 3).\n- If a Skill has 3+ copies, gain 2 additional Offense Level."
+  },
+  {
+    "key": "9773-simpleDesc[0].simpleDesc",
+    "original": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 횟수 증가\nEN:\nInflict [Burst] Count"
+  },
+  {
+    "key": "9773-simpleDesc[1].simpleDesc",
+    "original": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 횟수 증가\nEN:\nInflict [Burst] Count"
+  },
+  {
+    "key": "9773-simpleDesc[2].simpleDesc",
+    "original": "攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가\nEN:\nGain Offense Level"
+  },
+  {
+    "key": "9774-name",
+    "original": "再点火プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再点火プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재점화 플러그\nEN:\nRe-ignition Plug"
+  },
+  {
+    "key": "9774-desc",
+    "original": "[Combustion]回数を付与する基本攻撃スキルのダメージ量 +20%, [Combustion]回数付与量 +1. 該当スキルを使用して[Combustion]または特殊火傷を保有する敵に的中時、[DefenseDown]1を付与(人格ごとに1ターンにつき2回)\n\n全基本攻撃スキルが[Combustion]威力、[Combustion]回数または特殊火傷を付与する人格がターン開始時、生存したターンだけ[AttackUp]を得る(出場ターンを除く、最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Combustion]回数を付与する基本攻撃スキルのダメージ量 +20%, [Combustion]回数付与量 +1. 該当スキルを使用して[Combustion]または特殊火傷を保有する敵に的中時、[DefenseDown]1を付与(人格ごとに1ターンにつき2回)\n\n全基本攻撃スキルが[Combustion]威力、[Combustion]回数または特殊火傷を付与する人格がターン開始時、生存したターンだけ[AttackUp]を得る(出場ターンを除く、最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Combustion] 횟수를 부여하는 기본 공격 스킬의 피해량 +20%, [Combustion] 횟수 부여량 +1. 해당 스킬을 사용하여 [Combustion] 또는 특수 화상을 보유한 적에게 적중 시, [DefenseDown] 1 부여 (인격 별로 턴 당 2회)\n\n모든 기본 공격 스킬이 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 인격이 턴 시작 시, 생존한 턴만큼 [AttackUp]를 얻음 (등장 턴 제외, 최대 5)\nEN:\nBase Attack Skills that inflict [Combustion] Count: deal +20% damage and inflict +1 more [Combustion] Count. On Hit with these Skills against enemies with [Combustion] or 'Unique Burn': inflict 1 [DefenseDown] (2 times per turn per Identity)\n\nIdentities whose all Base Attack Skills inflict [Combustion] Potency, Count, or 'Unique Burn': at Turn Start, gain [AttackUp] equal to the number of surviving turns (except for the turn they join the Encounter; max 5)"
+  },
+  {
+    "key": "9774-simpleDesc[0].simpleDesc",
+    "original": "[DefenseDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DefenseDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DefenseDown] 부여\nEN:\nInflict [DefenseDown]"
+  },
+  {
+    "key": "9774-simpleDesc[1].simpleDesc",
+    "original": "[AttackUp]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AttackUp]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackUp] 얻음\nEN:\nGain [AttackUp]"
+  },
+  {
+    "key": "9775-name",
+    "original": "強化剤 Mk.4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化剤 Mk.4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화제 Mk.4\nEN:\nEnhancer Mk.4"
+  },
+  {
+    "key": "9775-desc",
+    "original": "[Burst]威力または[Burst]回数を付与する基本スキルを使用して[Burst]威力が15以下の敵に最終コイン的中時、対象の[Burst]回数が3増加(人格ごとに1ターンにつき1回)\n\n[Burst]回数を付与する基本攻撃スキルのマッチ威力 +1, ダメージ量+20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]威力または[Burst]回数を付与する基本スキルを使用して[Burst]威力が15以下の敵に最終コイン的中時、対象の[Burst]回数が3増加(人格ごとに1ターンにつき1回)\n\n[Burst]回数を付与する基本攻撃スキルのマッチ威力 +1, ダメージ量+20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 위력 또는 [Burst] 횟수를 부여하는 기본 공격 스킬을 사용하여 [Burst] 위력을 15 이하로 보유한 적에게 마지막 코인 적중 시, 대상의 [Burst] 횟수 3 증가 (인격 별로 턴 당 1회).\n\n[Burst] 횟수를 부여하는 기본 공격 스킬의 합 위력 +1, 피해량 +20%.\nEN:\nOn Hit with the final Coin against enemies with 15- [Burst] Potency when using a Base Attack Skill that inflicts [Burst] Potency or Count: inflict +3 [Burst] Count (once per turn per Identity)\n\nBase Attack Skills that inflict [Burst] Count: Clash Power +1, deal +20% damage"
+  },
+  {
+    "key": "9775-simpleDesc[0].simpleDesc",
+    "original": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 횟수 증가\nEN:\nInflict [Burst] Count"
+  },
+  {
+    "key": "9775-simpleDesc[1].simpleDesc",
+    "original": "マッチ威力, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력, 피해량 증가\nEN:\nGain Clash Power and deal more damage"
+  },
+  {
+    "key": "9776-name",
+    "original": "残り火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔불\nEN:\nEmbers"
+  },
+  {
+    "key": "9776-desc",
+    "original": "ターン開始時、[Combustion]回数が2以上8未満の全ての敵(幻想体の場合は全部位)の[Combustion]回数が1～2増加。\n\n[Combustion]を保有する敵が味方から[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキル(E.G.Oスキルを含む)で5回的中された場合、[Combustion]が1回発動して[Combustion]回数が1減少(敵ごとに1ターンにつき2回、幻想体の場合は部位別に計算)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、[Combustion]回数が2以上8未満の全ての敵(幻想体の場合は全部位)の[Combustion]回数が1～2増加。\n\n[Combustion]を保有する敵が味方から[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキル(E.G.Oスキルを含む)で5回的中された場合、[Combustion]が1回発動して[Combustion]回数が1減少(敵ごとに1ターンにつき2回、幻想体の場合は部位別に計算)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, [Combustion] 횟수가 2 이상, 8 미만인 모든 적(환상체일 경우, 모든 부위)의 [Combustion] 횟수 1~2 증가.\n\n[Combustion]을 보유한 적이 아군으로부터 [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬(E.G.O 스킬 포함)로 5회 적중받을 경우, [Combustion]이 1회 발동하고 [Combustion] 횟수 1 감소 (적 별로 턴 당 2회, 환상체일 경우 부위 별로 계산)\nEN:\nTurn Start: all enemies(for Abnormalities, all Parts) with 2~7 [Combustion] Count gain 1~2 [Combustion] Count.\n\nWhen enemies take 5 hits from ally Attack Skills(including E.G.O Skills) that inflict [Combustion] Potency, Count, or 'Unique Burn': trigger [Combustion] once, then reduce [Combustion] Count by 1 (2 times per turn per enemy; for Abnormalities, for each Part)"
+  },
+  {
+    "key": "9776-simpleDesc[0].simpleDesc",
+    "original": "[Conbustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Conbustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Combustion] 횟수 증가\nEN:\nInflict [Combustion] Count"
+  },
+  {
+    "key": "9776-simpleDesc[1].simpleDesc",
+    "original": "[Combustion]が発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Combustion]が発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Combustion] 발동\nEN:\nActivate [Combustion]"
+  },
+  {
+    "key": "9777-name",
+    "original": "小枝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "小枝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔가지\nEN:\nTwigs"
+  },
+  {
+    "key": "9777-desc",
+    "original": "[Burst]を保有する敵が味方から[Burst]威力または[Burst]回数を付与する攻撃スキル(E.G.Oスキルを除く)で的中されて[Burst]が3回発動するたび、次のターンにて[AttackDown]2を得る(敵ごとに1ターンにつき3回、幻想体の場合は部位別に計算)\n\n[Burst]回数を付与する基本攻撃スキルで敵討伐時、死亡した対象の保有する残った[Burst]回数を次のターンに敵へランダムに付与(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]を保有する敵が味方から[Burst]威力または[Burst]回数を付与する攻撃スキル(E.G.Oスキルを除く)で的中されて[Burst]が3回発動するたび、次のターンにて[AttackDown]2を得る(敵ごとに1ターンにつき3回、幻想体の場合は部位別に計算)\n\n[Burst]回数を付与する基本攻撃スキルで敵討伐時、死亡した対象の保有する残った[Burst]回数を次のターンに敵へランダムに付与(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst]을 보유한 적이 아군으로부터 [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬(E.G.O 스킬 포함)로 적중받아 [Burst]이 3회 발동할 때마다 다음 턴에 [AttackDown] 2 얻음 (적 별로 턴 당 3회, 환상체일 경우 부위별로 계산)\n\n[Burst] 횟수를 부여하는 기본 공격 스킬로 적 처치 시, 사망한 대상이 보유한 남은 [Burst] 횟수를 다음 턴에 무작위 적에게 부여 (턴 당 2회).\nEN:\nEvery time [Burst] activates 3 times on enemies with [Burst] due to getting hit by allies' Attack Skills(including E.G.O Skills) that inflict [Burst] Potency or Count, inflict 2 [AttackDown] on the said enemy next turn (3 times per turn per enemy; for Abnormalities, for each Part)\n\nOn Kill with a Base Attack Skill that inflicts [Burst] Count: inflict the remaining [Burst] Count on the defeated enemy on a random enemy next turn (2 times per turn)"
+  },
+  {
+    "key": "9777-simpleDesc[0].simpleDesc",
+    "original": "[AttackDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[AttackDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackDown] 부여\nEN:\nInflict [AttackDown]"
+  },
+  {
+    "key": "9777-simpleDesc[1].simpleDesc",
+    "original": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 횟수 증가\nEN:\nInflict [Burst] Count"
+  },
+  {
+    "key": "9778-name",
+    "original": "通常作戦用装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "通常作戦用装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n통상 작전용 장비\nEN:\nRegular Operational Gear"
+  },
+  {
+    "key": "9778-desc",
+    "original": "リンバス・カンパニー所属人格が使用するスキル2の攻撃レベル +1, ダメージ量 +15%, スキル3の攻撃レベル +2, ダメージ量 +30%\n\n待機人員にリンバス・カンパニー所属人格が4名以上いるなら、ターン開始時にランダムな味方2名が[AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバス・カンパニー所属人格が使用するスキル2の攻撃レベル +1, ダメージ量 +15%, スキル3の攻撃レベル +2, ダメージ量 +30%\n\n待機人員にリンバス・カンパニー所属人格が4名以上いるなら、ターン開始時にランダムな味方2名が[AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 컴퍼니 소속 인격이 사용하는 스킬 2의 공격 레벨 +1, 피해량 +15%, 스킬 3의 공격 레벨 +2, 피해량 +30%\n\n대기 인원에 림버스 컴퍼니 소속 인격이 4명 이상이면, 턴 시작 시 무작위 아군 둘이 [AttackUp] 2를 얻음\nEN:\nLimbus Company Identities: Skill 2 gains Offense Level +1 and deals +15% damage; Skill 3 gains Offense Level +2 and deals +30% damage\n\nIf there are 4+ Limbus Company Identities among the Backup Units, 2 random allies gain 2 [AttackUp] at Turn Start"
+  },
+  {
+    "key": "9778-simpleDesc[0].simpleDesc",
+    "original": "攻撃レベル, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨, 피해량 증가\nEN:\nGain Offense Level and deal more damage"
+  },
+  {
+    "key": "9778-simpleDesc[1].simpleDesc",
+    "original": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가 얻음\nEN:\nGain Offense Level Up"
+  },
+  {
+    "key": "9779-name",
+    "original": "作戦承認カード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "作戦承認カード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n작전 승인 카드\nEN:\nOperation Authorization Card"
+  },
+  {
+    "key": "9779-desc",
+    "original": "戦闘中に味方が死亡するか退却したなら、次のターン開始時に全人格が[AttackUp]3をランダムに分けて得る(1ターンにつき2回)\n- 味方が戦闘中に3名以上死亡するか退却したなら効果が強化され、[AttackUp]6をランダムに分けて付与(1ターンにつき2回)\n\nターン開始時、精神力が最も低い味方3名が各々精神力を15, 10, 5だけ回復(重複しない、精神力が低い順に適用。パニックまたは侵蝕状態なら適用されない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中に味方が死亡するか退却したなら、次のターン開始時に全人格が[AttackUp]3をランダムに分けて得る(1ターンにつき2回)\n- 味方が戦闘中に3名以上死亡するか退却したなら効果が強化され、[AttackUp]6をランダムに分けて付与(1ターンにつき2回)\n\nターン開始時、精神力が最も低い味方3名が各々精神力を15, 10, 5だけ回復(重複しない、精神力が低い順に適用。パニックまたは侵蝕状態なら適用されない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음. (턴 당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면 효과가 강화되어, [AttackUp] 6을 무작위로 나누어 얻음. (턴 당 2회)\n\n턴 시작 시, 정신력이 가장 낮은 아군 셋이 각각 정신력을 15, 10, 5만큼 회복 (중첩되지 않음, 정신력이 낮은 순으로 적용, 패닉 또는 침식 상태일 때는 적용되지 않음)\nEN:\nDuring the Encounter, when an ally retreats or is defeated, randomly apply 3 [AttackUp] between all Identities at next Turn Start. (2 times per turn)\n- When 3+ allies retreat or are defeated, randomly apply 6 [AttackUp] between all Identities at next Turn Start instead. (2 times per turn)\n\nTurn Start: 3 allies with the lowest SP heals 15, 10, and 5 SP each (does not stack; the numbers apply in the ascending order; does not activate if the affected units are Panicked or Corroded)"
+  },
+  {
+    "key": "9779-simpleDesc[0].simpleDesc",
+    "original": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가 얻음\nEN:\nGain Offense Level Up"
+  },
+  {
+    "key": "9779-simpleDesc[1].simpleDesc",
+    "original": "精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 회복\nEN:\nHeal SP"
+  },
+  {
+    "key": "9780-name",
+    "original": "高危険作戦用装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "高危険作戦用装備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n고위험 작전용 장비\nEN:\nHigh-risk Operational Gear"
+  },
+  {
+    "key": "9780-desc",
+    "original": "リンバス・カンパニー所属人格が使用するスキル2の攻撃レベル +2, ダメージ量 +20%, スキル3の攻撃レベル +3, ダメージ量 +40%\n\nターン開始時、死亡したか待機人員に含まれるリンバス・カンパニー所属人格の数だけ、ランダムな味方が[AttackUp]2を得る\n\n戦闘中に味方が死亡するか退却したなら、次のターン開始時に全人格が[AttackUp]3をランダムに分けて得る(均等に付与、1ターンにつき2回)\n- 味方が戦闘の間3名以上死亡するか退却したなら効果が強化され、[AttackUp]6をランダムに分けて得る\n- リンバス・カンパニー所属人格が戦闘の間3名以上死亡するか退却したなら効果が強化され、[AttackUp]8をランダムに分けて得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバス・カンパニー所属人格が使用するスキル2の攻撃レベル +2, ダメージ量 +20%, スキル3の攻撃レベル +3, ダメージ量 +40%\n\nターン開始時、死亡したか待機人員に含まれるリンバス・カンパニー所属人格の数だけ、ランダムな味方が[AttackUp]2を得る\n\n戦闘中に味方が死亡するか退却したなら、次のターン開始時に全人格が[AttackUp]3をランダムに分けて得る(均等に付与、1ターンにつき2回)\n- 味方が戦闘の間3名以上死亡するか退却したなら効果が強化され、[AttackUp]6をランダムに分けて得る\n- リンバス・カンパニー所属人格が戦闘の間3名以上死亡するか退却したなら効果が強化され、[AttackUp]8をランダムに分けて得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 컴퍼니 소속 인격이 사용하는 스킬 2의 공격 레벨 +2, 피해량 +20%, 스킬 3의 공격 레벨 +3, 피해량 +40%.\n\n턴 시작 시 사망하였거나 대기 인원에 포함된 림버스 컴퍼니 소속 인격의 수만큼, 무작위 아군이 [AttackUp] 2를 얻음.\n\n전투 중 아군이 사망하거나 퇴각하면, 다음 턴 시작 시 모든 인격이 [AttackUp] 3을 무작위로 나누어 얻음 (균등하게 부여, 턴 당 2회)\n- 아군이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 6을 무작위로 나누어 얻음\n- 림버스 컴퍼니 소속 인격이 전투 동안 셋 이상 사망하거나 퇴각하였다면, 효과가 강화되어 [AttackUp] 8을 무작위로 나누어 얻음\nEN:\nLimbus Company Identities: Skill 2 gains Offense Level +2 and deals +20% damage; Skill 3 gains Offense Level +3 and deals +40% damage\n\nTurn Start: a random ally gains 2 [AttackUp] for every Backup or defeated Limbus Company Identities.\n\nDuring the Encounter, when an ally retreats or is defeated, randomly apply 3 [AttackUp] between all Identities at next Turn Start. (distributed equally, 2 times per turn)\n- When 3+ allies retreat or are defeated, randomly apply 6 [AttackUp] between all Identities at next Turn Start instead. (2 times per turn)\n- When 3+ Limbus Company Identities retreat or are defeated, randomly apply 8 [AttackUp] between all Identities instead."
+  },
+  {
+    "key": "9780-simpleDesc[0].simpleDesc",
+    "original": "攻撃レベル, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨, 피해량 증가\nEN:\nGain Offense Level and deal more damage"
+  },
+  {
+    "key": "9780-simpleDesc[1].simpleDesc",
+    "original": "攻撃レベル増加をランダムに分けて得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加をランダムに分けて得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가를 무작위로 나누어 얻음\nEN:\nRandomly apply Offense Level Up between allies"
+  },
+  {
+    "key": "9780-simpleDesc[2].simpleDesc",
+    "original": "攻撃レベル増加をランダムに分けて得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル増加をランダムに分けて得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가를 무작위로 나누어 얻음\nEN:\nRandomly apply Offense Level Up between allies"
+  },
+  {
+    "key": "9781-name",
+    "original": "木盃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "木盃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n원목 술잔\nEN:\nHardwood Liquor Cup"
+  },
+  {
+    "key": "9781-desc",
+    "original": "マッチ敗北時、[Protection]1を得て精神力を3～6回復(人格ごとに1ターンにつき1回)\n\nマッチにて敗北したスキルの[SuperCoin](E.G.Oスキルを除く)で敵を攻撃時、加算コインスキルなら加算コイン威力 +(3 ÷ コイン数), ダメージ量 +20%(加算コインの威力上昇値: 最小1), 減算コインならダメージ量 +40%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ敗北時、[Protection]1を得て精神力を3～6回復(人格ごとに1ターンにつき1回)\n\nマッチにて敗北したスキルの[SuperCoin](E.G.Oスキルを除く)で敵を攻撃時、加算コインスキルなら加算コイン威力 +(3 ÷ コイン数), ダメージ量 +20%(加算コインの威力上昇値: 最小1), 減算コインならダメージ量 +40%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배 시, [Protection] 1 얻고 정신력 3~6만큼 회복 (인격 별로 턴 당 1회).\n\n합에서 패배한 스킬의 [SuperCoin] 효과(E.G.O 스킬 제외)로 적 공격 시, 더하기 코인 스킬이면 더하기 코인 위력 +(3/코인 수), 피해량 +20% (더하기 코인 위력 증가값 최소 1), 빼기 코인이면, 피해량 +40%.\nEN:\nOn Clash Lose, gain 1 [Protection] and heal 3~6 SP (once per turn per Identity)\n\nWhen attacking an enemy with the [SuperCoin]'s effect of the Skill(except E.G.O Skills) that lost the Clash: \n- Plus Coin Skills receive Plus Coin Power +(3 / # of Coins) and deal +20% damage (min. Plus Coin Power gain 1)\n- Minus Coin Skills deal +40% damage"
+  },
+  {
+    "key": "9781-simpleDesc[0].simpleDesc",
+    "original": "保護を得る、精神力回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保護を得る、精神力回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보호 얻음, 정신력 회복\nEN:\nGain Protection and heal SP"
+  },
+  {
+    "key": "9781-simpleDesc[1].simpleDesc",
+    "original": "コイン威力、ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コイン威力、ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인 위력, 피해량 증가\nEN:\nGain Coin Power and deal more damage"
+  },
+  {
+    "key": "9782-name",
+    "original": "古びた柄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "古びた柄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낡은 칼자루\nEN:\nWorn Hilt"
+  },
+  {
+    "key": "9782-desc",
+    "original": "味方がターン開始時[ScarletResultUp]1を得る\n\n剣契・黒雲会所属なら効果が強化されて[ScarletResultUp]2, [SlashResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方がターン開始時[ScarletResultUp]1を得る\n\n剣契・黒雲会所属なら効果が強化されて[ScarletResultUp]2, [SlashResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 턴 시작 시 [ScarletResultUp] 1 얻음.\n\n검계 또는 흑운회 소속일 경우 효과가 강화되어 [ScarletResultUp] 2, [SlashResultUp] 1 얻음.\nEN:\nTurn Start: all allies gain 1 [ScarletResultUp].\n\nBlade Lineage or Kurokumo Clan Identities gain 2 [ScarletResultUp] and 1 [SlashResultUp] instead."
+  },
+  {
+    "key": "9782-simpleDesc[0].simpleDesc",
+    "original": "色欲威力増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色欲威力増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 위력 증가 얻음\nEN:\nGain Lust Power Up"
+  },
+  {
+    "key": "9782-simpleDesc[1].simpleDesc",
+    "original": "色欲威力増加、斬撃威力増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色欲威力増加、斬撃威力増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 위력 증가, 참격 위력 증가 얻음\nEN:\nGain Lust Power Up and Slash Power Up"
+  },
+  {
+    "key": "9783-name",
+    "original": "絶景\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絶景\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절경\nEN:\nResplendence"
+  },
+  {
+    "key": "9783-desc",
+    "original": "ターン開始時、黒雲会所属人格が3名以上のとき発動\n\n味方がターン開始時、[ScarletResultUp]2, [SlashResultUp]1を得る\n\n黒雲会所属人格が使用する基本攻撃スキルのコイン威力 +(4 ÷ コイン数、最低1), [Laceration]威力付与量 +1, [Laceration]回数付与量 +1, ダメージ量 +(80 ÷ コイン数)%\n\n黒雲会所属人格の最初の混乱区間を無効にし、体力が最大値の50%未満ならターン開始時[Protection]2を得る。このターンにて敵にダメージを受けた黒雲会所属人格が次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、黒雲会所属人格が3名以上のとき発動\n\n味方がターン開始時、[ScarletResultUp]2, [SlashResultUp]1を得る\n\n黒雲会所属人格が使用する基本攻撃スキルのコイン威力 +(4 ÷ コイン数、最低1), [Laceration]威力付与量 +1, [Laceration]回数付与量 +1, ダメージ量 +(80 ÷ コイン数)%\n\n黒雲会所属人格の最初の混乱区間を無効にし、体力が最大値の50%未満ならターン開始時[Protection]2を得る。このターンにて敵にダメージを受けた黒雲会所属人格が次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 [ScarletResultUp] 2, [SlashResultUp] 1 얻음.\n\n흑운회 소속 인격이 사용하는 기본 공격 스킬의 코인 위력 +(4/코인 수, 최소 1), [Laceration] 위력 부여량 +1, [Laceration] 횟수 부여량 +1, 피해량 +(80/코인 수)%.\n\n흑운회 소속 인격의 첫 흐트러짐 구간을 무효로 하고, 체력이 최대 체력의 50% 미만이면 턴 시작 시 [Protection] 2 얻음. 이번 턴에 적에게 피해를 받은 흑운회 소속 인격이 다음 턴에 [Agility] 2 얻음.\nEN:\nTurn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nAll allies gain 2 [ScarletResultUp] and 1 [SlashResultUp] at Turn Start.\n\nKurokumo Clan Identities' Base Attack Skills: gain Coin Power +(4 / # of Coins; min. 1), inflict an additional 1 [Laceration], +1 [Laceration] Count, and deal +(80/# of Coins)% damage\n\nNullify Kurokumo Clan Identities' first Stagger Threshold; at less than 50% HP, gain 2 [Protection] at Turn Start. Identities that took damage from enemies this turn gain 2 [Agility] next turn."
+  },
+  {
+    "key": "9783-simpleDesc[0].simpleDesc",
+    "original": "色欲威力増加、斬撃威力増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "色欲威力増加、斬撃威力増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 위력 증가, 참격 위력 증가 얻음\nEN:\nGain Lust Power Up and Slash Power Up"
+  },
+  {
+    "key": "9783-simpleDesc[1].simpleDesc",
+    "original": "コイン威力、出血付与量、出血回数付与量、ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コイン威力、出血付与量、出血回数付与量、ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인 위력, 출혈 부여량, 출혈 횟수 부여량, 피해량 증가\nEN:\nGain Coin Power, inflict more Bleed and Bleed Count, and deal more damage"
+  },
+  {
+    "key": "9783-simpleDesc[2].simpleDesc",
+    "original": "最初の混乱区間を無効、体力が一定未満なら保護を得る、被ダメージ時にクイックを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初の混乱区間を無効、体力が一定未満なら保護を得る、被ダメージ時にクイックを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫 흐트러짐 구간 무효, 체력이 일정 이하면 보호 얻음, 피해 받을 시 신속 얻음\nEN:\nNullify the first Stagger Threshold; gain Protection at under certain HP; gain Haste after taking damage"
+  },
+  {
+    "key": "9784-name",
+    "original": "琢磨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "琢磨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탁마\nEN:\nCultivation"
+  },
+  {
+    "key": "9784-desc",
+    "original": "ターン開始時、剣契所属人格が3名以上のとき発動\n\n味方がターン開始時に[SlashResultUp]2を得る、与ダメージ量 +35%\n\n剣契所属人格が敵にクリティカルダメージを与えるとき、保有する([Breath]威力 ÷ 2)だけ追加で傲慢ダメージを与える\n\n剣契所属人格がターン終了時、[Breath]威力を30以上保有しているなら[Breath]威力を10消耗し、次のターンに[SlashDamageUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のとき発動\n\n味方がターン開始時に[SlashResultUp]2を得る、与ダメージ量 +35%\n\n剣契所属人格が敵にクリティカルダメージを与えるとき、保有する([Breath]威力 ÷ 2)だけ追加で傲慢ダメージを与える\n\n剣契所属人格がターン終了時、[Breath]威力を30以上保有しているなら[Breath]威力を10消耗し、次のターンに[SlashDamageUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 [SlashResultUp] 2 얻음, 가하는 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 ([Breath] 위력/2)만큼 추가 오만 피해를 입힘.\n\n검계 소속 인격이 턴 종료 시 [Breath] 위력을 30 이상 보유하였다면, [Breath] 위력을 10 소모하여 다음 턴에 [SlashDamageUp] 2 얻음.\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 [SlashResultUp], and deal +35% damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to ([Breath] Potency / 2) on self.\n\nIf a Blade Lineage Identity has 30+ [Breath] Potency at Turn End, consume 10 [Breath] Potency and gain 2 [SlashDamageUp] next turn"
+  },
+  {
+    "key": "9784-simpleDesc[0].simpleDesc",
+    "original": "斬撃威力増加 を得る、ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃威力増加 を得る、ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격 위력 증가 얻음, 피해량 증가\nEN:\nGain Slash Power Up and deal more damage"
+  },
+  {
+    "key": "9784-simpleDesc[1].simpleDesc",
+    "original": "([Breath]威力 ÷ 2)だけ追加傲慢ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "([Breath]威力 ÷ 2)だけ追加傲慢ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n([Breath] 위력/2)만큼 추가 오만 피해\nEN:\nDeal an additional ([Breath] Potency/2) Pride damage."
+  },
+  {
+    "key": "9784-simpleDesc[2].simpleDesc",
+    "original": "斬撃ダメージ量増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃ダメージ量増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격 피해량 증가 얻음\nEN:\nGain Slash DMG Up"
+  },
+  {
+    "key": "9785-name",
+    "original": "叢雲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "叢雲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n떼구름\nEN:\nSwarmcloud"
+  },
+  {
+    "key": "9785-desc",
+    "original": "ターン開始時、黒雲会所属人格が3名以上のとき発動\n\n基本攻撃スキルの[SuperCoin]で的中時のダメージ量 +(40 ÷ コイン数)% (E.G.Oスキルを除く) 黒雲会所属人格の場合は効果が強化されてダメージ量 +(80 ÷ コイン数)%\n\n斬撃基本攻撃スキルを保有した黒雲会所属人格がターン開始時に[SlashDamageUp]2を得る。ターン終了時に黒雲会所属人格が、自分の失った体力10%につき次のターンに[AttackUp]1, [DefenseUp]1を得る(それぞれ最大5)\n\n黒雲会所属人格が死亡時、次のターンに黒雲会所属の全人格が[AttackDmgUp]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、黒雲会所属人格が3名以上のとき発動\n\n基本攻撃スキルの[SuperCoin]で的中時のダメージ量 +(40 ÷ コイン数)% (E.G.Oスキルを除く) 黒雲会所属人格の場合は効果が強化されてダメージ量 +(80 ÷ コイン数)%\n\n斬撃基本攻撃スキルを保有した黒雲会所属人格がターン開始時に[SlashDamageUp]2を得る。ターン終了時に黒雲会所属人格が、自分の失った体力10%につき次のターンに[AttackUp]1, [DefenseUp]1を得る(それぞれ最大5)\n\n黒雲会所属人格が死亡時、次のターンに黒雲会所属の全人格が[AttackDmgUp]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동.\n\n기본 공격 스킬의 [SuperCoin]으로 적중 시 피해량 +(40/코인 수)% (E.G.O 스킬 제외). 흑운회 소속 인격일 경우 효과가 강화되어 피해량 +(80/코인 수)%.\n\n참격 기본 공격 스킬을 보유한 흑운회 소속 인격이 턴 시작 시 [SlashDamageUp] 2 얻음. 턴 종료 시 흑운회 소속 인격이 자신의 잃은 체력 10%당 다음 턴에 [AttackUp] 1, [DefenseUp] 1 얻음 (각각 최대 5).\n\n흑운회 소속 인격 사망 시, 다음 턴에 흑운회 소속 모든 인격이 [AttackDmgUp] 2 얻음 (턴 당 1회).\nEN:\nTurn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nOn Hit with Base Attack Skill(except E.G.O Skills)'s [SuperCoin]: deal +(40/# of Coins)% damage\nKurokumo Clan Identities: deal +(80/# of Coins)% damage instead\n\nKurokumo Clan Identities with Slash Base Attack Skills: gain 2 [SlashDamageUp] at Turn Start. Kurokumo Clan Identities gain 1 [AttackUp] and 1 [DefenseUp] next turn for every 10% missing HP on self at Turn End. (max 5 each)\n\nWhen a Kurokumo Clan Identity dies, all Kurokumo Clan Identities gain 2 [AttackDmgUp] next turn (once per turn)"
+  },
+  {
+    "key": "9785-simpleDesc[0].simpleDesc",
+    "original": "ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량 증가\nEN:\nDeal more damage"
+  },
+  {
+    "key": "9785-simpleDesc[1].simpleDesc",
+    "original": "斬撃ダメージ量増加、攻撃レベル増加、防御レベル増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃ダメージ量増加、攻撃レベル増加、防御レベル増加を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격 피해량 증가, 공격 레벨 증가, 방어 레벨 증가 얻음\nEN:\nGain Slash DMG Up, Offense Level Up, and Defense Level Up"
+  },
+  {
+    "key": "9785-simpleDesc[2].simpleDesc",
+    "original": "ダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량 증가 얻음\nEN:\nGain Damage Up"
+  },
+  {
+    "key": "9786-name",
+    "original": "強化刺青 - 中指\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化刺青 - 中指\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 문신 - 중지\nEN:\nEnh. Tattoos - The Middle"
+  },
+  {
+    "key": "9786-desc",
+    "original": "打撃スキルのマッチ威力 +1\n- 中指所属人格の場合、この効果の代わりにマッチ威力 +1, コイン威力 +1\n- 中指所属人格の場合、メインターゲットが[RetaliationBook]ならこの効果の代わりにマッチ威力 +1, コイン威力 +1, ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃スキルのマッチ威力 +1\n- 中指所属人格の場合、この効果の代わりにマッチ威力 +1, コイン威力 +1\n- 中指所属人格の場合、メインターゲットが[RetaliationBook]ならこの効果の代わりにマッチ威力 +1, コイン威力 +1, ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격 스킬의 합 위력 +1\n- 중지 소속 인격일 경우 효과를 대신하여, 합 위력 +1, 코인 위력 +1\n- 중지 소속 인격일 경우 메인 대상이 [RetaliationBook]이면 효과를 대신하여, 합 위력 +1, 코인 위력 +1, 피해량 +10%\nEN:\nBlunt Skills: Clash Power +1\n- The Middle Identities: gain Clash Power +1 and Coin Power +1 instead\n- The Middle Identities: if the main target has [RetaliationBook], gain Clash Power +1, Coin Power +1, and deal +10% damage instead"
+  },
+  {
+    "key": "9786-simpleDesc[0].simpleDesc",
+    "original": "マッチ威力増加。中指所属ならコイン威力とダメージ量も増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増加。中指所属ならコイン威力とダメージ量も増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증가. 중지 소속이면 코인 위력과 피해량도 증가\nEN:\nGain Clash Power. The Middle Identities gain Coin Power and deal more damage as well"
+  },
+  {
+    "key": "9787-name",
+    "original": "怪文字のお札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怪文字のお札\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n괴문자 부적\nEN:\nStrange Glyph Talisman"
+  },
+  {
+    "key": "9787-desc",
+    "original": "自分の攻撃スキルで[Burst]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大2ずつ、小数点切り捨て)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大2ずつ、小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の攻撃スキルで[Burst]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大2ずつ、小数点切り捨て)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大2ずつ、小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 공격 스킬로 [Burst]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 대상의 [Burst] 위력을 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 2씩, 소수점 버림)\n\n자신의 공격 스킬로 [BurstAgility]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 위 효과를 대신하여 대상의 [Burst] 위력과 횟수를 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 2씩, 소수점 버림)\nEN:\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 2 per enemy, rounded down)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 2 per enemy, rounded down)"
+  },
+  {
+    "key": "9787-simpleDesc[0].simpleDesc",
+    "original": "破裂付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 부여\nEN:\nInflict Rupture"
+  },
+  {
+    "key": "9787-simpleDesc[1].simpleDesc",
+    "original": "破裂威力、回数付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂威力、回数付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 위력, 횟수 부여\nEN:\nInflict Rupture Potency and Count"
+  },
+  {
+    "key": "9788-name",
+    "original": "卯脚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "卯脚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묘각\nEN:\nHarestride"
+  },
+  {
+    "key": "9788-desc",
+    "original": "自分の速度が対象より高いとき、スキルで付与する破裂または破裂回数を対象へ(速度差 ÷ 3)だけ追加で付与(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の速度が対象より高いとき、スキルで付与する破裂または破裂回数を対象へ(速度差 ÷ 3)だけ追加で付与(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 속도가 대상보다 빠를 때, 스킬로 부여하는 파열 혹은 파열 횟수를 대상에게 (속도 차 / 3)만큼 추가 부여 (최대 3)\nEN:\nIf an ally's Speed is faster than the target's, the ally inflicts (Speed difference / 3) additional [Burst] or [Burst] Count when inflicting them with Skills (max 3)"
+  },
+  {
+    "key": "9788-simpleDesc[0].simpleDesc",
+    "original": "破裂 または破裂 回数付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂 または破裂 回数付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 또는 파열 횟수 부여\nEN:\nInflict Rupture or Rupture Count"
+  },
+  {
+    "key": "9789-name",
+    "original": "義理の鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "義理の鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의리 사슬\nEN:\nChains of Loyalty"
+  },
+  {
+    "key": "9789-desc",
+    "original": "同じ所属の人格が被ダメージ時、同じ所属の人員達の打撃ダメージ量 +5% (1ターンにつき最大15%)\n\n中指所属人格の場合、この効果の代わりに[AttackUp]1を得て打撃ダメージ量 +10% (1ターンにつき最大3, 1ターンにつき最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同じ所属の人格が被ダメージ時、同じ所属の人員達の打撃ダメージ量 +5% (1ターンにつき最大15%)\n\n中指所属人格の場合、この効果の代わりに[AttackUp]1を得て打撃ダメージ量 +10% (1ターンにつき最大3, 1ターンにつき最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n같은 소속의 인격이 피격 시, 같은 소속의 인원들 타격 피해량 +5% (턴 당 최대 15%)\n\n중지 소속 인격일 경우, 효과를 대신하여 [AttackUp] 1 얻음, 타격 피해량 +10% (턴 당 최대 3, 턴 당 최대 30%)\nEN:\nWhen hit, all allies in the same faction deal +5% more Blunt damage (15% per turn)\n\nFor The Middle Identities, gain 1 [AttackUp] and deal +10% more Blunt damage instead (3 per turn, 30% per turn)"
+  },
+  {
+    "key": "9789-simpleDesc[0].simpleDesc",
+    "original": "打撃ダメージ量増加。中指所属なら攻撃レベル増加も得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃ダメージ量増加。中指所属なら攻撃レベル増加も得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격 피해량 증가. 중지 소속이면 공격 레벨 증가도 얻음\nEN:\nDeal more Blunt damage. The Middle Identities gain Offense Level Up as well"
+  },
+  {
+    "key": "9790-name",
+    "original": "刻み込まれた怪文字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刻み込まれた怪文字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새겨넣어진 괴문자\nEN:\nStrange Glyph Inscriptions"
+  },
+  {
+    "key": "9790-desc",
+    "original": "[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチをするとき、上記の効果の代わりに(対象の[Burst] ÷ 15)だけマッチ威力が増加(最大3)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 3)だけ固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチをするとき、上記の効果の代わりに(対象の[Burst] ÷ 15)だけマッチ威力が増加(最大3)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 3)だけ固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst]을 가진 대상과 합을 할 때, (대상의 [Burst] / 20)만큼 합 위력이 증가 (최대 2)\n- [BurstAgility]을 가진 대상과 합을 할 때, 위 효과를 대신하여 (대상의 [Burst] / 15)만큼 합 위력이 증가 (최대 3)\n\n[BurstAgility] 효과로 피해를 줄 때, ([BurstAgility] 피해 / 3)만큼 고정 피해 입힘\nEN:\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([Burst] on the target / 15) Clash Power instead (max 3)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 3)"
+  },
+  {
+    "key": "9790-simpleDesc[0].simpleDesc",
+    "original": "マッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증가\nEN:\nClash Power Up"
+  },
+  {
+    "key": "9790-simpleDesc[1].simpleDesc",
+    "original": "黒獣 - 卯のお札でダメージを与えるとき、追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒獣 - 卯のお札でダメージを与えるとき、追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑수 - 묘 부적으로 피해 줄 시, 추가 피해\nEN:\nDeal additional damage when dealing damage with Heishou - Mao Talisman"
+  },
+  {
+    "key": "9791-name",
+    "original": "影の編み笠\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "影の編み笠\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그림자 삿갓\nEN:\nShadow Bamboo Hat"
+  },
+  {
+    "key": "9791-desc",
+    "original": "ターン終了時、黒獣 - 卯所属なら次のターンに[Agility]2を得る\n\n自分の速度が対象より高いか、一方攻撃をする場合は(速度差 ÷ 3)だけ斬撃ダメージ量 +10% (最大30%)\n\n自分の速度が対象よりも高ければ、(速度差 ÷ 3)につき被ダメージ量 -10% (最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、黒獣 - 卯所属なら次のターンに[Agility]2を得る\n\n自分の速度が対象より高いか、一方攻撃をする場合は(速度差 ÷ 3)だけ斬撃ダメージ量 +10% (最大30%)\n\n自分の速度が対象よりも高ければ、(速度差 ÷ 3)につき被ダメージ量 -10% (最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 흑수 - 묘 소속이면, 다음 턴에 [Agility] 2 얻음\n\n자신의 속도가 대상보다 빠르거나 일방 공격을 할 경우, (속도 차 / 3)만큼 참격 피해량 +10% (최대 30%)\n\n자신의 속도가 대상보다 빠르면, (속도 차 / 3)당 받는 피해량 -10% (최대 30%)\nEN:\nTurn End: Heishou Pack - Mao Branch Identities gain 2 [Agility] next turn\n\nIf an ally's Speed is faster than the target's, or when activating Unopposed Attacks, deal +10% more Slash damage for every (Speed difference / 3) (max 30%)\n\nIf an ally's Speed is faster than the target's, take -10% damage for every (Speed difference / 3) (max 30%)"
+  },
+  {
+    "key": "9791-simpleDesc[0].simpleDesc",
+    "original": "クイック を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クイック を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n신속 얻음\nEN:\nGain Haste"
+  },
+  {
+    "key": "9791-simpleDesc[1].simpleDesc",
+    "original": "斬撃ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격 피해량 증가\nEN:\nDeal more Slash damage"
+  },
+  {
+    "key": "9791-simpleDesc[2].simpleDesc",
+    "original": "被ダメージ量 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 감소\nEN:\nTake less damage"
+  },
+  {
+    "key": "9792-name",
+    "original": "永続する因縁の鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "永続する因縁の鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영속하는 인연 사슬\nEN:\nEverlasting Chains of Bond"
+  },
+  {
+    "key": "9792-desc",
+    "original": "ステージ開始時、中指所属人格が2名以上のとき発動(出撃人員を基準とする)\n\n同じ所属の人格が被ダメージ時、同じ所属の人員達の打撃ダメージ量 +5% (1ターンにつき最大15%)\n中指所属人格の場合、この効果の代わりに攻撃レベル増加1を得て打撃ダメージ量 +10% (1ターンにつき最大3, 1ターンにつき最大30%)\n\n打撃スキルの基本威力 +1\n- 中指所属人格の場合、この効果の代わりに基本威力 +1, コイン威力 +1\n- 中指所属人格の場合、対象が[RetaliationBook]ならこの効果の代わりに基本威力 +1, コイン威力 +1, ダメージ量 +30%\n\n中指所属人格の場合、戦闘中の速度最小・最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ開始時、中指所属人格が2名以上のとき発動(出撃人員を基準とする)\n\n同じ所属の人格が被ダメージ時、同じ所属の人員達の打撃ダメージ量 +5% (1ターンにつき最大15%)\n中指所属人格の場合、この効果の代わりに攻撃レベル増加1を得て打撃ダメージ量 +10% (1ターンにつき最大3, 1ターンにつき最大30%)\n\n打撃スキルの基本威力 +1\n- 中指所属人格の場合、この効果の代わりに基本威力 +1, コイン威力 +1\n- 中指所属人格の場合、対象が[RetaliationBook]ならこの効果の代わりに基本威力 +1, コイン威力 +1, ダメージ量 +30%\n\n中指所属人格の場合、戦闘中の速度最小・最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시, 중지 소속 인격이 2인 이상일 때 발동 (출격 인원을 기준으로 함)\n\n같은 소속의 인격이 피격 시, 같은 소속의 인원들 타격 피해량 +5% (턴 당 최대 15%)\n중지 소속 인격일 경우, 효과를 대신하여 공격 레벨 증가 1 얻음, 타격 피해량 +10% (턴 당 최대 3, 턴 당 최대 30%)\n\n타격 스킬의 기본 위력 +1\n- 중지 소속 인격일 경우 효과를 대신하여, 기본 위력 +1, 코인 위력 +1\n- 중지 소속 인격일 경우 대상이 [RetaliationBook]이면 효과를 대신하여, 기본 위력 +1, 코인 위력 +1, 피해량 +30%\n\n중지 인격의 경우, 전투 동안 속도 최솟값 +1, 속도 최댓값 +1\nEN:\nEncounter Start: activates when there are 2 or more The Middle Identities (only counts Identities on the field at Encounter Start)\n\nWhen hit, all allies in the same faction deal +5% more Blunt damage (15% per turn)\nThe Middle Identities gain 1 [AttackUp] and deal +10% more Blunt damage instead (3 per turn, 30% per turn)\n\nBlunt Skills gain Base Power +1\n- The Middle Identities gain Base Power +1 and Coin Power +1 instead\n- If the target has [RetaliationBook], The Middle Identities gain Base Power +1, Coin Power +1, and deal +30% damage instead\n\nThe Middle Identities gain Min Speed +1 and Max Speed +1 for the Encounter"
+  },
+  {
+    "key": "9792-simpleDesc[0].simpleDesc",
+    "original": "打撃ダメージ量増加。中指所属なら攻撃レベルも増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃ダメージ量増加。中指所属なら攻撃レベルも増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격 피해량 증가. 중지 소속이면 공격 레벨도 증가\nEN:\nDeal more Blunt damage. The Middle Identities gain Offense Level Up as well"
+  },
+  {
+    "key": "9792-simpleDesc[1].simpleDesc",
+    "original": "打撃スキル威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃スキル威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격 스킬 위력 증가\nEN:\nBlunt Skill Power Up"
+  },
+  {
+    "key": "9792-simpleDesc[2].simpleDesc",
+    "original": "速度の最小・最大値増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度の最小・最大値増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최솟값, 최댓값 증가\nEN:\nGain Min and Max Speed"
+  },
+  {
+    "key": "9793-name",
+    "original": "璃鈿漆字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "璃鈿漆字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전칠자\nEN:\nGlyph of Glass Shards"
+  },
+  {
+    "key": "9793-desc",
+    "original": "ステージ開始時、[Burst]威力または[Burst]回数を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)\n\n自分の攻撃スキルで[Burst]を持つ対象を伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大6)\n\n[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチするとき、上記の効果の代わり(対象の[Burst] ÷ 10)だけコイン威力が増加(最大2)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 2)だけ固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Burst]威力または[Burst]回数を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)\n\n自分の攻撃スキルで[Burst]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\n\n自分の攻撃スキルで[BurstAgility]を持つ対象を討伐するとき、(集中戦闘の場合は部位破壊)上記の効果の代わりに対象の[Burst]威力と回数を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大6)\n\n[Burst]を持つ対象とマッチするとき、(対象の[Burst] ÷ 20)だけマッチ威力が増加(最大2)\n- [BurstAgility]を持つ対象とマッチするとき、上記の効果の代わり(対象の[Burst] ÷ 10)だけコイン威力が増加(最大2)\n\n[BurstAgility]効果でダメージを与えるとき、([BurstAgility]ダメージ ÷ 2)だけ固定ダメージを与える\n<CMT_KR>오식: \"自分の攻撃スキルで[Burst]を持つ対象を「」伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\"  정확: \"自分の攻撃スキルで[Burst]を持つ対象を「討」伐するとき、\"\n<CMT_EN>Typo: \"自分の攻撃スキルで[Burst]を持つ対象を「」伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\"  Correction: \"自分の攻撃スキルで[Burst]を持つ対象を「討」伐するとき、\"\n<CMT_JP>誤植: \"自分の攻撃スキルで[Burst]を持つ対象を「」伐するとき、(集中戦闘の場合は部位破壊)対象の[Burst]威力を分けて全ての敵(集中戦闘の場合は部位)に付与する(最大3ずつ)\"  訂正後: \"自分の攻撃スキルで[Burst]を持つ対象を「討」伐するとき、\"",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시, [Burst] 위력 또는 [Burst] 횟수를 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외)\n\n자신의 공격 스킬로 [Burst]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 대상의 [Burst] 위력을 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 3씩)\n\n자신의 공격 스킬로 [BurstAgility]을 가진 대상을 처치할 시 (집중 전투의 경우 부위 파괴), 위 효과를 대신하여 대상의 [Burst] 위력과 횟수를 나누어 모든 적 (집중 전투일 경우 부위)에게 부여함 (최대 6씩)\n\n[Burst]을 가진 대상과 합을 할 때, (대상의 [Burst] / 20)만큼 합 위력이 증가 (최대 2)\n- [BurstAgility]을 가진 대상과 합을 할 때, 위 효과를 대신하여 (대상의 [Burst] / 10)만큼 코인 위력이 증가 (최대 2)\n\n[BurstAgility] 효과로 피해를 줄 때, ([BurstAgility] 피해 / 2)만큼 고정 피해 입힘\nEN:\nEncounter Start: activates when there are 5 or more Identities that inflict [Burst] Potency or [Burst] Count (except E.G.O Skills)\n\nWhen defeating a target with [Burst](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency on the target between all enemies(for Focused Encounters, all Parts) (max 3 per enemy)\n\nWhen defeating a target with [BurstAgility](for Focused Encounters, a Part) with an Attack Skill, inflict the [Burst] Potency and Count on the target between all enemies(for Focused Encounters, all Parts) (max 6 per enemy)\n\nWhen clashing against targets with [Burst], gain ([Burst] on the target / 20) Clash Power (max 2)\n- When clashing against targets with [BurstAgility], gain ([Burst] on the target / 10) Coin Power instead (max 2)\n\nWhen dealing damage with [BurstAgility] effect, deal fixed damage by ([BurstAgility] damage / 2)"
+  },
+  {
+    "key": "9793-simpleDesc[0].simpleDesc",
+    "original": "破裂付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 부여\nEN:\nInflict Rupture"
+  },
+  {
+    "key": "9793-simpleDesc[1].simpleDesc",
+    "original": "破裂付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破裂付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 부여\nEN:\nInflict Rupture"
+  },
+  {
+    "key": "9793-simpleDesc[2].simpleDesc",
+    "original": "マッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 증가\nEN:\nClash Power Up"
+  },
+  {
+    "key": "9793-simpleDesc[3].simpleDesc",
+    "original": "黒獣 - 卯のお札でダメージを与えるとき、追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒獣 - 卯のお札でダメージを与えるとき、追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑수 - 묘 부적으로 피해 줄 시, 추가 피해\nEN:\nDeal additional damage when dealing damage with Heishou - Mao Talisman"
+  },
+  {
+    "key": "9794-name",
+    "original": "たぷたぷの燃料タンク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たぷたぷの燃料タンク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n찰랑이는 연료통\nEN:\nSwishing Fuel Tank"
+  },
+  {
+    "key": "9794-desc",
+    "original": "[編成順2, 4番人格専用効果]\n体力が0になるダメージを受けると、60%の確率で該当ダメージを受けずに体力を30回復(戦闘につき1回発動)\n下記の状態では死亡防止および回復効果が発動しない\n- 被ダメージ時にスキルダメージ量が自分の体力最大値を超過\n- 体力回復効果減少を保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[編成順2, 4番人格専用効果]\n体力が0になるダメージを受けると、60%の確率で該当ダメージを受けずに体力を30回復(戦闘につき1回発動)\n下記の状態では死亡防止および回復効果が発動しない\n- 被ダメージ時にスキルダメージ量が自分の体力最大値を超過\n- 体力回復効果減少を保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 순서 2, 4번 인격 전용 효과]\n\n체력이 0이 되는 피해를 받으면, 60% 확률로 해당 피해를 받지 않고, 체력을 30 회복함. (전투당 1회 발동)\n아래 상황에서는 사망 방지 및 회복 효과가 발동하지 않음\n- 피격 시 스킬 피해량이 자신의 최대 체력을 초과\n- 체력 회복 감소 효과를 보유\nEN:\n[Effects apply only to #2, #4 Deployed Identities]\n\nWhen taking lethal damage, 60% chance to not take that damage and heal 30 HP. (once per Encounter)\nThe above effect does not activate under the following conditions:\n- When the Skill damage taken exceeds the unit's max HP\n- When the unit has the HP Healing Down effect"
+  },
+  {
+    "key": "9794-simpleDesc[0].simpleDesc",
+    "original": "体力回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력 회복\nEN:\nHeal HP"
+  }
+]

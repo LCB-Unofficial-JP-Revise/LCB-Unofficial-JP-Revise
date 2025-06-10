@@ -1,0 +1,338 @@
+[
+  {
+    "key": "get_10505_1-desc",
+    "original": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 획득\nEN:\nIdentity Acquisition"
+  },
+  {
+    "key": "get_10505_1-dlg",
+    "original": "うむ…新しい業務は左側へ…あぁ、呼び出しですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "うむ…新しい業務は左側へ…あぁ、呼び出しですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음… 새로운 업무는 좌측에… 아, 호출이시군요.\nEN:\nHm… You can place new assignments on the left— Ah, you called for me."
+  },
+  {
+    "key": "lobby_morning_10505_1-desc",
+    "original": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朝の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아침 인사\nEN:\nMorning Greeting"
+  },
+  {
+    "key": "lobby_morning_10505_1-dlg",
+    "original": "…朝…ですか？変ですね。まだ退勤ボタンを押してないのですが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…朝…ですか？変ですね。まだ退勤ボタンを押してないのですが。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…아침… 입니까? 이상하군요. 아직 퇴근을 누르지 않았는데.\nEN:\n…Is it… morning? C’est étrange. I do not remember clocking out."
+  },
+  {
+    "key": "lobby_noon_10505_1-desc",
+    "original": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "昼の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n점심 인사\nEN:\nAfternoon Greeting"
+  },
+  {
+    "key": "lobby_noon_10505_1-dlg",
+    "original": "しばらく…目を閉じさせていただきます。昼食は先にお摂り…ください…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "しばらく…目を閉じさせていただきます。昼食は先にお摂り…ください…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잠시… 눈 붙이겠습니다. 점심 식사는 먼저… 하십시오…\nEN:\nAllow me… to nap for a moment. You can… have your lunch first…"
+  },
+  {
+    "key": "lobby_night_10505_1-desc",
+    "original": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夕方の挨拶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저녁 인사\nEN:\nEvening Greeting"
+  },
+  {
+    "key": "lobby_night_10505_1-dlg",
+    "original": "夜間は通常外勤です。あぁ、私は先程目を閉じていたので問題ございません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夜間は通常外勤です。あぁ、私は先程目を閉じていたので問題ございません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n야간은 보통 외근입니다. 아, 저는 아까 눈을 붙여두어 괜찮습니다.\nEN:\nMy evenings are mostly occupied with outdoor assignments. Ah, I had my rest earlier today, so it’s fine."
+  },
+  {
+    "key": "smalltalk_10505_1-desc",
+    "original": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 1\nEN:\nChatter #1"
+  },
+  {
+    "key": "smalltalk_10505_1-dlg",
+    "original": "おっしゃった作業は処理しておきました。計四名の仕事が残っておりますので、次の要請がありましたらそのあとで…可能です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おっしゃった作業は処理しておきました。計四名の仕事が残っておりますので、次の要請がありましたらそのあとで…可能です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말씀하신 작업은 처리해 두었습니다. 총 네 분의 일감이 남아있어서, 다음 요청이 있으시다면 그 후에… 가능합니다.\nEN:\nI have taken care of the task you told me. I currently have assignments from four people, so if you have another request to make… It will have to wait until I’m done with these."
+  },
+  {
+    "key": "smalltalk_10505_2-desc",
+    "original": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 2\nEN:\nChatter #2"
+  },
+  {
+    "key": "smalltalk_10505_2-dlg",
+    "original": "退勤…しなくなってからかなり経ちましたね。しかし、ご依頼なさいました仕事が終わっておりませんので、どうしようもありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "退勤…しなくなってからかなり経ちましたね。しかし、ご依頼なさいました仕事が終わっておりませんので、どうしようもありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퇴근… 하지 않은 지 조금 오래되었군요. 하지만, 부탁하신 일이 끝나지 않았으니 어쩔 수 없습니다.\nEN:\nIt has… been quite some time since I clocked out last. However, I cannot leave while the work I’ve been entrusted with isn’t done."
+  },
+  {
+    "key": "smalltalk_10505_3-desc",
+    "original": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対話3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대화 3\nEN:\nChatter #3"
+  },
+  {
+    "key": "smalltalk_10505_3-dlg",
+    "original": "この飲み物…ですか。いいえ、あまり好んではおりません。疲労を短時間で取ることのできる方法が、これしかないだけです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この飲み物…ですか。いいえ、あまり好んではおりません。疲労を短時間で取ることのできる方法が、これしかないだけです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 음료… 말입니까. 아뇨, 그다지 좋아하지는 않습니다. 피로를 단시간에 풀 수 있는 방법이 이것밖에 없을 뿐입니다.\nEN:\nYou’re… curious about this drink, I see. No, it’s not my preference. It simply is the only method I have to relieve exhaustion quickly."
+  },
+  {
+    "key": "smalltalk_10505_4-desc",
+    "original": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 1\nEN:\nPost-Uptie Chat 1"
+  },
+  {
+    "key": "smalltalk_10505_4-dlg",
+    "original": "仕事を…代わりに片付けてくださるということですか？\nあまり理解が出来ませんね。これは私に任された仕事です。分ける必要はありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "仕事を…代わりに片付けてくださるということですか？\nあまり理解が出来ませんね。これは私に任された仕事です。分ける必要はありません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일감을… 대신 처리해 주신다는 말씀이십니까?\n잘 이해가 되지 않는군요. 이것은 제게 맡겨진 일입니다. 나눌 필요는 없습니다.\nEN:\nYou’ll… do some of my work for me?\nI do not understand. These assignments are my responsibility. There is no need to share my burden."
+  },
+  {
+    "key": "smalltalk_10505_5-desc",
+    "original": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化後の対話2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 후 대화 2\nEN:\nPost-Uptie Chat 2"
+  },
+  {
+    "key": "smalltalk_10505_5-dlg",
+    "original": "最初からこれほど仕事が多いわけではありませんでした。しかし、他の方々から仕事を任され、私がそれを処理することができただけです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初からこれほど仕事が多いわけではありませんでした。しかし、他の方々から仕事を任され、私がそれを処理することができただけです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음부터 이렇게 일이 많지는 않았습니다. 다만, 다른 분들이 일을 맡기셨고, 저는 그걸 할 수 있었을 뿐입니다.\nEN:\nThe workload wasn’t always this heavy. When others left their work to me, I simply proved capable of handling it."
+  },
+  {
+    "key": "neglect_10505_1-desc",
+    "original": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "放置\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방치\nEN:\nIdle"
+  },
+  {
+    "key": "neglect_10505_1-dlg",
+    "original": "……。(小さないびき)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。(小さないびき)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n……. (조금 코고는 소리)\nEN:\n……\n(He’s snoring softly)"
+  },
+  {
+    "key": "gacksung_10505_1-desc",
+    "original": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同期化進行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 진행\nEN:\nUptying"
+  },
+  {
+    "key": "gacksung_10505_1-dlg",
+    "original": "ふむ。年俸増額ですか。分かりました。それでは私は残った仕事を終えねばならないので…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふむ。年俸増額ですか。分かりました。それでは私は残った仕事を終えねばならないので…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음. 연봉 인상입니까. 알겠습니다. 그럼 저는 남은 일을 끝내야 해서…\nEN:\nHm. You’re giving me a raise. Entendu. Pardon me then, as I have tasks to take care of…"
+  },
+  {
+    "key": "formation_10505_1-desc",
+    "original": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格編成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 편성\nEN:\nDeployment"
+  },
+  {
+    "key": "formation_10505_1-dlg",
+    "original": "私が必要なのですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私が必要なのですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제가 필요하시군요.\nEN:\nI see you need me."
+  },
+  {
+    "key": "battleentry_10505_1-desc",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nStage Entry"
+  },
+  {
+    "key": "battleentry_10505_1-dlg",
+    "original": "外勤、開始します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "外勤、開始します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n외근, 시작합니다.\nEN:\nEngaging in external assignment."
+  },
+  {
+    "key": "battle_select_10505_1-desc",
+    "original": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 인격 선택\nEN:\nViewed in Battle"
+  },
+  {
+    "key": "battle_select_10505_1-dlg",
+    "original": "ご要請ですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ご要請ですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요청이라도 있으십니까.\nEN:\nI presume you have a request."
+  },
+  {
+    "key": "battle_endcommand_10505_1-desc",
+    "original": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 시작\nEN:\nCommencing Attack"
+  },
+  {
+    "key": "battle_endcommand_10505_1-dlg",
+    "original": "そうしましょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そうしましょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇게 하죠.\nEN:\nEntendu, will do."
+  },
+  {
+    "key": "battle_enemy_break_10505_1-desc",
+    "original": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 흐트러질 시 대사\nEN:\nEnemy Stagger"
+  },
+  {
+    "key": "battle_enemy_break_10505_1-dlg",
+    "original": "仕事が終わりゆく兆しが見えますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "仕事が終わりゆく兆しが見えますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일이 끝나갈 조짐이 보이는군요.\nEN:\nThe assignment is steadily approaching completion."
+  },
+  {
+    "key": "battle_break_10505_1-desc",
+    "original": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러질 시 대사\nEN:\nStaggered"
+  },
+  {
+    "key": "battle_break_10505_1-dlg",
+    "original": "はっ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はっ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헉.\nEN:\nGasp."
+  },
+  {
+    "key": "battle_kill_10505_1-desc",
+    "original": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵討伐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치\nEN:\nEnemy Killed"
+  },
+  {
+    "key": "battle_kill_10505_1-dlg",
+    "original": "一つ片付けました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一つ片付けました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하나 마무리했습니다.\nEN:\nOne has been taken care of."
+  },
+  {
+    "key": "battle_dead_10505_1-desc",
+    "original": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "本人死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n본인 사망\nEN:\nDeath"
+  },
+  {
+    "key": "battle_dead_10505_1-dlg",
+    "original": "あぁ…少し…休みます…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あぁ…少し…休みます…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아… 잠시… 쉬겠습니다…\nEN:\nAh… Allow me… to rest for a moment…"
+  },
+  {
+    "key": "choice_success_p_10505_2-desc",
+    "original": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 성공\nEN:\nCheck Passed"
+  },
+  {
+    "key": "choice_success_p_10505_2-dlg",
+    "original": "定時退社…出来そうですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "定時退社…出来そうですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정시 퇴근… 가능할 것 같군요.\nEN:\nIt appears I… will be able to leave work on time."
+  },
+  {
+    "key": "choice_fail_n_10505_1-desc",
+    "original": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 실패\nEN:\nCheck Failed"
+  },
+  {
+    "key": "choice_fail_n_10505_1-dlg",
+    "original": "残業は確定…ですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残業は確定…ですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n야근은 확정… 이군요.\nEN:\nThat has confirmed that I… will have overtime."
+  },
+  {
+    "key": "battle_clear_10505_1-desc",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "battle_clear_10505_1-dlg",
+    "original": "完了しました。事務所へと帰還します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完了しました。事務所へと帰還します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완료했습니다. 사무소로 돌아가겠습니다.\nEN:\nAssignment complete. I’ll be returning to the office."
+  },
+  {
+    "key": "battle_clear_ex_10505_1-desc",
+    "original": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "EX CLEAR戦闘勝利\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nEX CLEAR 전투 승리\nEN:\nExtra Conditions Fulfilled"
+  },
+  {
+    "key": "battle_clear_ex_10505_1-dlg",
+    "original": "完了しました。…直帰ですか。承知しました。ふぅ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完了しました。…直帰ですか。承知しました。ふぅ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완료했습니다. …현장 퇴근 말씀이십니까. 알겠습니다. 후우…\nEN:\nAssignment complete. …You mean that I can go home today. Entendu. Ouf…"
+  },
+  {
+    "key": "battle_defeat_10505_1-desc",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
+  },
+  {
+    "key": "battle_defeat_10505_1-dlg",
+    "original": "予定が…狂いましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予定が…狂いましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일이… 꼬였군요.\nEN:\nThings… have gotten complicated."
+  }
+]

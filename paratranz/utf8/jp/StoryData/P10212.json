@@ -1,0 +1,835 @@
+[
+  {
+    "key": "title",
+    "original": "黒獣 - 卯 筆頭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黒獣 - 卯 筆頭\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흑수 - 묘 필두\nEN:\nHeishou Pack - Mao Branch Adept"
+  },
+  {
+    "key": "content",
+    "original": "理解いたしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "理解いたしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이해했습니다.\nEN:\nI understand your point."
+  },
+  {
+    "key": "content-dup1",
+    "original": "今、管理職ファウストは、私が一文不通の剣士だから、\n考えを改められない…そうおっしゃりたいのですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今、管理職ファウストは、私が一文不通の剣士だから、\n考えを改められない…そうおっしゃりたいのですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지금 관리직 파우스트는 제가 일자무식한 칼잡이라, 생각을 고쳐먹지 못한다… 그렇게 이야기하고 싶은 건가요?\nEN:\nIs the management Faust's insinuation that my unrestrained stubbornness is due to the fact that I am a simple-minded, uneducated swordswoman? Is that what you are implying?"
+  },
+  {
+    "key": "content-dup2",
+    "original": "違うと？ふむ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "違うと？ふむ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니라고요? 흠.\nEN:\nIt is not? Hm."
+  },
+  {
+    "key": "content-dup3",
+    "original": "美辞麗句を並べたところで、私が閲覧した言葉に含まれた本意は消えないはず。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "美辞麗句を並べたところで、私が閲覧した言葉に含まれた本意は消えないはず。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미사여구를 덧붙인다 해서 제가 열람한 말에 담긴 본의가 사라지진 않을 터.\nEN:\nThe intent behind that expression I observed exists still, though embellished by flowery language it has been."
+  },
+  {
+    "key": "content-dup4",
+    "original": "とにかく、情報を追加閲覧して再考してほしいという\nゲゼルシャフトの当為性は理解しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "とにかく、情報を追加閲覧して再考してほしいという\nゲゼルシャフトの当為性は理解しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무튼 정보를 추가 열람한 뒤 재고해달라는 게젤샤프트의 당위성은 이해했습니다.\nEN:\nWhichever is the case, the Gesellschaft's justification for that request, that I must reconsider my decision after further observation of its intelligence, is understood."
+  },
+  {
+    "key": "content-dup5",
+    "original": "ですがお断りします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ですがお断りします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 거절하죠.\nEN:\nBut I refuse nevertheless."
+  },
+  {
+    "key": "content-dup6",
+    "original": "二つほど理由がありますが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二つほど理由がありますが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두 가지 이유 정도가 있습니다만…\nEN:\nI have about two justifications for this decision..."
+  },
+  {
+    "key": "content-dup7",
+    "original": "まず第一に、ゲゼルシャフトが提供する情報は非常に過多です。\n未だに主君の教えを理解するだけで精一杯な私には、\nそれほど有益な情報ではないでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まず第一に、ゲゼルシャフトが提供する情報は非常に過多です。\n未だに主君の教えを理解するだけで精一杯な私には、\nそれほど有益な情報ではないでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우선 첫 번째로, 게젤샤프트에서 제공하는 정보는 너무 과다합니다. 아직도 주군의 가르침을 이해하기 바쁜 제게 그리 유익한 정보는 아닐 테죠.\nEN:\nFirst: Gesellschaft provides a distractingly overabundant amount of information. Most of them are unnecessary as well, as learning my lord's teachings takes up a great majority of my days."
+  },
+  {
+    "key": "content-dup8",
+    "original": "何より、ファウストの情報には義はなく利ばかりが満ちているがゆえ、\nそのような情報にばかり依存していれば、他のファウストたちのように\n道を誤った者になってしまうでしょうに…。それはあってはなりません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何より、ファウストの情報には義はなく利ばかりが満ちているがゆえ、\nそのような情報にばかり依存していれば、他のファウストたちのように\n道を誤った者になってしまうでしょうに…。それはあってはなりません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무엇보다 파우스트의 정보에 의로움은 없고 이로움만 가득하니, 그런 정보에 자꾸 의존하다간 다른 파우스트들처럼 길을 잘못 든 자가 되어버릴 텐데… 그건 안 될 일이죠.\nEN:\nMoreover, there is a dearth of righteousness in the intelligence provided by Faust; an overwhelming majority of them are far too... utilitarian. Overreliance on such information will set me on the wrong path, as it has happened to the other Fausts... And such a thing should not be allowed to pass."
+  },
+  {
+    "key": "content-dup9",
+    "original": "二つ目は、私にどのような情報をくださったとしても、\n判断を変える余地がないからです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二つ目は、私にどのような情報をくださったとしても、\n判断を変える余地がないからです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n두 번째는 제게 어떤 정보를 주신다 한들, 판단을 바꿀 여지가 없기 때문입니다.\nEN:\nSecond: it does not matter what information you share with me. The judgment will not change."
+  },
+  {
+    "key": "content-dup10",
+    "original": "ファウストはすべてを知っていると言いましたね。\nならば、私がなぜこうするのかも―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストはすべてを知っていると言いましたね。\nならば、私がなぜこうするのかも―\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트는 모든 걸 알고 있다 했죠. 그럼 제가 왜 이러는지도…\nEN:\nFaust 'knows it all', isn't that correct? Then you must also know the reason behind my behavior is..."
+  },
+  {
+    "key": "content-dup11",
+    "original": "ふむ。もしやご存じないのですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふむ。もしやご存じないのですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음. 혹시 모르시나요?\nEN:\n... Hm. Or is that not exactly true?"
+  },
+  {
+    "key": "content-dup12",
+    "original": "知っていることは全て知っているけど、知らないことは知らないだなんて。\nそれでは、鴻園の街を行き交う誰かをつかまえてきても同じことでしょうに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "知っていることは全て知っているけど、知らないことは知らないだなんて。\nそれでは、鴻園の街を行き交う誰かをつかまえてきても同じことでしょうに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아는 건 전부 다 알지만 모르는 건 모른다니. 그건 홍원 거리에 지나다니는 아무개를 잡아 와도 똑같을 텐데.\nEN:\n'Faust only knows everything that Faust knows, but does not know what Faust does not know'? The same could be said of any random passerby in the streets of Hongyuan."
+  },
+  {
+    "key": "content-dup13",
+    "original": "…結局、優れた師匠に教えを受けた私が\n答えを導いて差し上げるほかないということですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…結局、優れた師匠に教えを受けた私が\n答えを導いて差し上げるほかないということですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…결국 훌륭한 스승에게 배운 제가 답을 이끌어줄 수밖에 없는 거군요.\nEN:\n... It seems that the responsibility to illuminate you falls to me, a student of an excellent teacher."
+  },
+  {
+    "key": "content-dup14",
+    "original": "それはある夜のことでした。\n月のような照明が、煌々と輝いていた夜でしたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それはある夜のことでした。\n月のような照明が、煌々と輝いていた夜でしたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n때는 어느 밤이었습니다. 달과 같은 조명이 휘황찬란하게 빛나던 날이었죠.\nEN:\nIt happened one night, under the brilliant moonlike artificial light."
+  },
+  {
+    "key": "content-dup15",
+    "original": "正直、その当時の私は剣一本さえあれば\nどんな苦難でも乗り越えられる自信があったのです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "正直、その当時の私は剣一本さえあれば\nどんな苦難でも乗り越えられる自信があったのです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n솔직히 그 당시의 저는 검 한 자루만 있으면 어떤 고난이라도 헤쳐 나갈 자신이 있었습니다.\nEN:\nBack then, I was confident in my blade; I was of the belief that, as long as I had a sword, I could endure any kind of hardship."
+  },
+  {
+    "key": "content-dup16",
+    "original": "だからこそゲゼルシャフトに接したり、\n何かを学ぶ意志は特に持てませんでした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だからこそゲゼルシャフトに接したり、\n何かを学ぶ意志は特に持てませんでした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그렇기에 게젤샤프트에 접근하거나, 무언가 배울 의지는 딱히 가지지 못했죠.\nEN:\nWhich is why I did not feel the need or the will to access the Gesellschaft, nor for learning."
+  },
+  {
+    "key": "content-dup17",
+    "original": "そんな中で、主君と出会ったのです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そんな中で、主君と出会ったのです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러던 중 주군과 만났습니다.\nEN:\nThat is when I first encountered my lord."
+  },
+  {
+    "key": "teller",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "title-dup18",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup18",
+    "original": "おっと！そんなに物騒に剣を振り回されると、話しづらいですよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おっと！そんなに物騒に剣を振り回されると、話しづらいですよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어이쿠! 너무 살벌하게 검을 휘두르면, 말하기 힘들답니다~\nEN:\nWhoops! It's kinda hard for us to chat when you're swinging your sword so violently like that~"
+  },
+  {
+    "key": "content-dup19",
+    "original": "余裕で防いでいるというのに、冗談が過ぎますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "余裕で防いでいるというのに、冗談が過ぎますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여유롭게 막아내고 있으면서 농이 지나치군요.\nEN:\nYou jest. It is plain to me that you are not having any difficulties with matching my strikes."
+  },
+  {
+    "key": "title-dup20",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup20",
+    "original": "はは…冗談じゃなくて、本当に話す余裕が中々なくてですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はは…冗談じゃなくて、本当に話す余裕が中々なくてですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하하… 농담이 아니라 정말 말할 여유가 잘 나지 않아서요.\nEN:\nHa ha... I'm not kidding. Whew, you're really giving me no time to speak."
+  },
+  {
+    "key": "content-dup21",
+    "original": "冗談でないのなら…この際、口を閉じておく方が良いでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "冗談でないのなら…この際、口を閉じておく方が良いでしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n농이 아니라면… 이참에 입을 다무는 편이 좋겠군요.\nEN:\nIf you do not jest, then... I best silence myself for now."
+  },
+  {
+    "key": "title-dup22",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup22",
+    "original": "う～ん。絶対に聞きたいことがあるので、\nそれは困るんですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "う～ん。絶対に聞きたいことがあるので、\nそれは困るんですよね？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음~ 꼭 묻고 싶은 게 있어서 그건 곤란한걸요?\nEN:\nUm~ But I've got this burning question I wanna ask you, so that won't do."
+  },
+  {
+    "key": "content-dup23",
+    "original": "はぁ…どうぞ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はぁ…どうぞ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하아… 말해보시죠.\nEN:\nHaah... do ask."
+  },
+  {
+    "key": "title-dup24",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup24",
+    "original": "ファウストさんは何が好きですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストさんは何が好きですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트 씨는 좋아하는 게 뭐예요?\nEN:\nWhat do you 'like', Miss Faust?"
+  },
+  {
+    "key": "content-dup25",
+    "original": "戦場で相対した者に切り出すような話題ではありませんね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦場で相対した者に切り出すような話題ではありませんね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전장에서 마주친 이에게 꺼낼만한 대화 주제는 아니군요.\nEN:\nNot exactly an apt subject for discussion between enemies locked in battle."
+  },
+  {
+    "key": "content-dup26",
+    "original": "あるいは…時間稼ぎをしたかったとか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あるいは…時間稼ぎをしたかったとか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니면… 시간을 끌고 싶던가.\nEN:\nOr... perhaps this is but an attempt to buy time."
+  },
+  {
+    "key": "title-dup27",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup27",
+    "original": "はは…僕が時間を稼いだところでどうするんですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "はは…僕が時間を稼いだところでどうするんですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하하… 제가 시간을 끌어서 뭐 하겠어요.\nEN:\nHa ha... what reason would I have to do something like that?"
+  },
+  {
+    "key": "title-dup28",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup28",
+    "original": "どうせあなたの主君は、すでに僕の手で命を落としましたよ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "どうせあなたの主君は、すでに僕の手で命を落としましたよ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어차피 당신 주군은 이미 제 손에 명을 달리 했는 걸요?\nEN:\nI've already taken your lord's life, you see."
+  },
+  {
+    "key": "content-dup29",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "title-dup30",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup30",
+    "original": "卯の筆頭であり、毎晩のように怡紅院(イーホンユェン)を訪れて\n僕の大切な部下たちの首を奪っていったあなたについて…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "卯の筆頭であり、毎晩のように怡紅院(イーホンユェン)を訪れて\n僕の大切な部下たちの首を奪っていったあなたについて…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묘의 필두이자, 매일 밤 이홍원에 찾아와 제 귀중한 부하들의 목을 가져가신 당신에 대해…\nEN:\nYou're an Adept of the Mao branch. You've been visiting Yihongyuan every night to decapitate my precious subordinates' lives..."
+  },
+  {
+    "key": "title-dup31",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup31",
+    "original": "考えれば考えるほど、僕は何も知らないなって思ったんですよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "考えれば考えるほど、僕は何も知らないなって思ったんですよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n생각하면 할수록 제가 영 아는 게 없다 싶더라고요.\nEN:\n... but the more I thought about it, the more did I realize that I know so little about you as a person."
+  },
+  {
+    "key": "title-dup32",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup32",
+    "original": "いえ、一つだけ知っていることがありますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いえ、一つだけ知っていることがありますね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니, 한가지 알고 있는 건 있네요.\nEN:\nWell, except for this little detail."
+  },
+  {
+    "key": "title-dup33",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup33",
+    "original": "いまだ獣として生きていらっしゃる様子を見るに…小指の会談は\n相変わらず条件も時期もまだまだのようですね、ファウストさん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いまだ獣として生きていらっしゃる様子を見るに…小指の会談は\n相変わらず条件も時期もまだまだのようですね、ファウストさん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아직도 짐승으로 살고 계신 걸 보니… 소지의 회담은 여전히 조건도 때도 적합하지 않은가봐요,  파우스트씨.\nEN:\nGiven that you're still living as a beast... Ah, it seems that the Pinky caucus is still waiting for the right conditions and time to convene, Miss Faust."
+  },
+  {
+    "key": "title-dup34",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup34",
+    "original": "あるいは…天究星とでもお呼びすべきでしょうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あるいは…天究星とでもお呼びすべきでしょうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아니면… 천구성이라고 불러야 할까요?\nEN:\nOr... should I call you the <i>Tianjiu Star</i>?"
+  },
+  {
+    "key": "content-dup35",
+    "original": "…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…!\nEN:\n…!"
+  },
+  {
+    "key": "title-dup36",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup36",
+    "original": "剣が止まりましたね。動揺されましたか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剣が止まりましたね。動揺されましたか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n칼이 멈췄어요. 당황하셨나요?\nEN:\nOh? Your blade stopped. Did you not expect me to ask you that?"
+  },
+  {
+    "key": "title-dup37",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup37",
+    "original": "この話題が嫌でしたら、ファウストさんが\n僕の最初の質問に答えてくだされば嬉しいです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "この話題が嫌でしたら、ファウストさんが\n僕の最初の質問に答えてくだされば嬉しいです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 주제가 싫으시다면, 파우스트 씨가 제 첫 질문에 답해주시면 좋겠어요.\nEN:\nIf you want to move on from this subject, can you please answer my question from earlier?"
+  },
+  {
+    "key": "title-dup38",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup38",
+    "original": "ファウストさんは何が好きですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストさんは何が好きですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트 씨는 좋아하는 게 뭐예요?\nEN:\nWhat do you 'like', Miss Faust?"
+  },
+  {
+    "key": "content-dup39",
+    "original": "…剣。どうせなら強そうに見える剣が好きですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…剣。どうせなら強そうに見える剣が好きですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…칼. 기왕이면 강해 보이는 칼이 좋습니다.\nEN:\n... Blades. The more intimidating and mighty, the better."
+  },
+  {
+    "key": "title-dup40",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup40",
+    "original": "わぁ～お似合いのシンボルですね～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わぁ～お似合いのシンボルですね～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n와~ 어울리는 기호네요~\nEN:\nWowzers~ That's <i>so</i> like you~"
+  },
+  {
+    "key": "title-dup41",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup41",
+    "original": "でも…僕が聞きたかったのはそういうことじゃありません。\nファウストさんが得意なことばかりに没頭して、\n知識を得ようとしないからもどかしくて投げかけた質問なんです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でも…僕が聞きたかったのはそういうことじゃありません。\nファウストさんが得意なことばかりに没頭して、\n知識を得ようとしないからもどかしくて投げかけた質問なんです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만… 저는 그런 걸 물어본 게 아니에요. 파우스트 씨가 잘하는 것에만 몰두하고, 지식을 배우지 않으려 하니 답답해서 던진 질문이죠.\nEN:\nBut... that wasn't what I was asking. It was more like... a question out of frustration, you know? Miss Faust, you focus only on what you're good at, you never seek out knowledge outside your expertise, you never try to learn new things..."
+  },
+  {
+    "key": "title-dup42",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup42",
+    "original": "学びさえあれば、誰も追いつけない道へと進めるはずなのに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "学びさえあれば、誰も追いつけない道へと進めるはずなのに。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배움만 있다면, 누구도 따라올 수 없는 길로 나아갈 수 있을 텐데.\nEN:\nLearning could bring you to new paths, unparalleled paths that no one could even dream of following."
+  },
+  {
+    "key": "content-dup43",
+    "original": "学び、問うことに\nそれほどの価値があるのかどうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "学び、問うことに\nそれほどの価値があるのかどうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배우고 묻는 일이 그만한 가치가 있을는지.\nEN:\nIt is doubtful that there is that much value in the act of learning and questioning."
+  },
+  {
+    "key": "title-dup44",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup44",
+    "original": "もちろんありますよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "もちろんありますよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그럼요.\nEN:\nOf course there is."
+  },
+  {
+    "key": "content-dup45",
+    "original": "学んだことがなくとも、進もうとする道に\n行き詰まることはありませんでした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "学んだことがなくとも、進もうとする道に\n行き詰まることはありませんでした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배운 적 없어도 가고자 하는 길에 막힘이 없었습니다.\nEN:\nUnlearned as I may be, my path has never been limited by it."
+  },
+  {
+    "key": "title-dup46",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup46",
+    "original": "ふふ…あだ名の通り、手に負えない人だったようですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ふふ…あだ名の通り、手に負えない人だったようですね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후후… 별명처럼 못 말리는 사람이었나 봐요.\nEN:\nHeh heh... Nothing stops you, does it? You certainly live up to your nickname."
+  },
+  {
+    "key": "content-dup47",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "title-dup48",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup48",
+    "original": "でも、行ってはならない道まで\nよどみなく進まれては困るじゃないですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "でも、行ってはならない道まで\nよどみなく進まれては困るじゃないですか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만 가지 않아야 할 길까지도 거침없이 나아가버리면 곤란하잖아요.\nEN:\nBut unrestrained as you may be, there are paths you do not want to tread."
+  },
+  {
+    "key": "title-dup49",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup49",
+    "original": "僕のもとに来てください、ファウストさん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕のもとに来てください、ファウストさん。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제 밑으로 오세요, 파우스트 씨.\nEN:\nCome work under me, Miss Faust."
+  },
+  {
+    "key": "title-dup50",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup50",
+    "original": "僕はあなたに多くのことを教えて差し上げられますよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕はあなたに多くのことを教えて差し上げられますよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저는 당신에게 많은 걸 가르쳐 줄 수 있답니다.\nEN:\nI can teach you so, so many things."
+  },
+  {
+    "key": "title-dup51",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup51",
+    "original": "大義の名分も、戦うべき場所も、持てるものを活かす術も。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大義の名分も、戦うべき場所も、持てるものを活かす術も。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의로운 명분도, 싸워야할 자리도, 가진 걸 이용하는 방법도.\nEN:\nA righteous cause. A battlefield. The means to utilize your qualities."
+  },
+  {
+    "key": "content-dup52",
+    "original": "あなたは…この鴻園で何をしたいのですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "あなたは…この鴻園で何をしたいのですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n당신은… 이 홍원에서 무엇을 하고 싶은 거죠?\nEN:\nWhat... is it that you wish to do here in Hongyuan?"
+  },
+  {
+    "key": "title-dup53",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup53",
+    "original": "家主が家主らしくなく、家門が家門らしくないこの鴻園で…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "家主が家主らしくなく、家門が家門らしくないこの鴻園で…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가주가 가주답지 못하고, 가문은 가문답지 못한 이 홍원에서…\nEN:\nHongyuan, as it is now, is but a pale imitation—the Hierarch is unlike a Hierarch should be, and families are unlike how families should be..."
+  },
+  {
+    "key": "title-dup54",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup54",
+    "original": "僕は全てを正すつもりです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "僕は全てを正すつもりです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저는 모든 걸 바로 잡을 생각이랍니다.\nEN:\nSo I intend to make everything right."
+  },
+  {
+    "key": "title-dup55",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup55",
+    "original": "鴻園に最も必要なものは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鴻園に最も必要なものは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홍원에 가장 필요한 건…\nEN:\nWhat Hongyuan needs is..."
+  },
+  {
+    "key": "content-dup56",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "content-dup57",
+    "original": "答えを聞いた私は、主君に従うことにしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "答えを聞いた私は、主君に従うことにしました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대답을 들은 저는 주군을 따르기로 결정했습니다.\nEN:\nI decided to follow my lord upon hearing his reply."
+  },
+  {
+    "key": "content-dup58",
+    "original": "…もう、もうやめてくださいその質問は。\n知らないのではないと、何度説明すればいいのやら。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…もう、もうやめてくださいその質問は。\n知らないのではないと、何度説明すればいいのやら。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…그만, 그만 문의하세요. 모르는 게 아니라고 몇 번을 설명해야 하는지.\nEN:\n... No. Stop it with your inquiries. How many times must I explain that I am already aware of that?"
+  },
+  {
+    "key": "content-dup59",
+    "original": "主君の怪しげな行動ならよく知っています。\n家主審査に備えて、主君が壮大な計画を準備したこともです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "主君の怪しげな行動ならよく知っています。\n家主審査に備えて、主君が壮大な計画を準備したこともです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주군의 수상쩍은 행동이야 잘 알고 있습니다. 가주 심사를 대비해서 주군이 원대한 계획을 준비한 것도요.\nEN:\nI am already aware of my lord's questionable behavior. I am also aware of the fact that my lord has prepared an ambitious plan for the Family Hierarch Evaluation. I know all these things."
+  },
+  {
+    "key": "content-dup60",
+    "original": "大観園の貴重な玉(ぎょく)にして、ジア家の宝石。\nそうして独り占めした愛を権力のように振りかざし、\n望むものを一つずつ手にしたことも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "大観園の貴重な玉(ぎょく)にして、ジア家の宝石。\nそうして独り占めした愛を権力のように振りかざし、\n望むものを一つずつ手にしたことも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대관원의 귀한 옥이자, 가씨 가문의 보석. 그렇게 독차지한 사랑을 권력처럼 휘두르며, 원하는 것을 하나씩 손에 넣으신 것도.\nEN:\nI know that he has wielded the favor gained as the precious jade of Daguanyuan, the gem of the Jia family, like a weapon to one by one obtain everything he has ever pursued."
+  },
+  {
+    "key": "content-dup61",
+    "original": "心にもないシュエ家の娘を惑わせ、多くの機密を引き出したことも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "心にもないシュエ家の娘を惑わせ、多くの機密を引き出したことも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마음에도 없으신 설가의 여식을 홀려 수많은 기밀을 빼내신 것도.\nEN:\nI know that he has seduced the daughter of the Xue family, for whom there is no place in his heart, to draw many, many of her family's secrets."
+  },
+  {
+    "key": "content-dup62",
+    "original": "ゲゼルシャフトから情報を引き出す手段として、私を世話しているということも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲゼルシャフトから情報を引き出す手段として、私を世話しているということも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게젤샤프트에서 정보를 가져오기 위한 수단으로 저를 보살핀다는 것도.\nEN:\nI know that his care for me is but a care for a tool that gives him access to the knowledge of the Gesellschaft."
+  },
+  {
+    "key": "content-dup63",
+    "original": "ファウストが話すまでもなく、私は知っています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが話すまでもなく、私は知っています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 이야기할 필요 없이, 저는 알고 있습니다.\nEN:\nI do not need to hear this from Faust. I know them."
+  },
+  {
+    "key": "content-dup64",
+    "original": "正名という大義の下、苛烈な仕打ちを繰り返してもいらっしゃいます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "正名という大義の下、苛烈な仕打ちを繰り返してもいらっしゃいます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정명(正名)이라는 대의 아래, 가혹한 처사를 반복하고 계시죠.\nEN:\nHe commits ruthless violence under the great cause of \"rectification of names(正名)\"."
+  },
+  {
+    "key": "content-dup65",
+    "original": "ですが…主君を裏切ることはできません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ですが…主君を裏切ることはできません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지만… 주군을 저버릴 순 없는 겁니다.\nEN:\nEven still... I cannot abandon my lord."
+  },
+  {
+    "key": "content-dup66",
+    "original": "それがたとえ偽善であったとしても、\nそのおかげで私は変わることができましたから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "それがたとえ偽善であったとしても、\nそのおかげで私は変わることができましたから。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그것이 설령 위선이었다 한들, 그 덕에 제가 변할 수 있었으니까요.\nEN:\nA false virtue it may have been, it has changed me still."
+  },
+  {
+    "key": "content-dup67",
+    "original": "表面上の施しすら稀なこの都市で、\n主君から学ぶべきことは溢れかえるほどあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "表面上の施しすら稀なこの都市で、\n主君から学ぶべきことは溢れかえるほどあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n겉으로 베푸는 이조차 드문 이 도시에서, 주군에게 배워야 할 점은 차고 넘칩니다.\nEN:\nIn this City, where even false charity is a rarity, there is much to be learned from my lord."
+  },
+  {
+    "key": "title-dup68",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup68",
+    "original": "ファウストさん。\n少しこちらに来てもらえますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストさん。\n少しこちらに来てもらえますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트 씨. 잠시 이쪽으로 와보실래요?\nEN:\nMiss Faust, can I talk to you for a minute?"
+  },
+  {
+    "key": "content-dup69",
+    "original": "…はい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…はい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…네.\nEN:\n... Yes."
+  },
+  {
+    "key": "title-dup70",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup70",
+    "original": "先ほどこの方と話をしてみたのですが、\n不義な方が身に余る品を持って鴻園に向かっているそうです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "先ほどこの方と話をしてみたのですが、\n不義な方が身に余る品を持って鴻園に向かっているそうです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방금 이분과 대화를 나눠봤는데, 의롭지 못한 분이 과분한 물건을 가지고 홍원에 오고 있대요.\nEN:\nI just had a little chat with this guy, and he told me that there's an unrighteous person who's bringing something great yet undeserving and excessive to Hongyuan."
+  },
+  {
+    "key": "title-dup71",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup71",
+    "original": "器に合わない品は、面倒事を起こすのが道理じゃないですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "器に合わない品は、面倒事を起こすのが道理じゃないですか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그릇에 맞지 않는 물건은 분란을 일으키기 마련이잖아요?\nEN:\nPeople can bring about so much disturbance by trying to wield something that's beyond their capacities, right?"
+  },
+  {
+    "key": "title-dup72",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup72",
+    "original": "だから。ファウストさんが警告してくれたらなと思ったんですよ。\n義を以てして。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "だから。ファウストさんが警告してくれたらなと思ったんですよ。\n義を以てして。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그러니까. 파우스트 씨가 경고하고 와주었으면 해서요. 의롭게.\nEN:\nSo, can you please go meet that person and give them a little warning? With good decorum and appropriate propriety, of course."
+  },
+  {
+    "key": "content-dup73",
+    "original": "…覇もまた道であり、真似事の大義もまた義。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "…覇もまた道であり、真似事の大義もまた義。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…패도 또한 길이며, 흉내 낸 대의 또한 의.\nEN:\n... The way of conquest is a way still; the mimicry of righteous cause is a form of righteousness still."
+  },
+  {
+    "key": "title-dup74",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup74",
+    "original": "ん？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ん？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n음?\nEN:\nHuh?"
+  },
+  {
+    "key": "content-dup75",
+    "original": "いいえ。間もなく出立いたします。お任せを。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "いいえ。間もなく出立いたします。お任せを。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아닙니다. 곧 출정하겠습니다. 맡겨주시길.\nEN:\nIt's nothing. Your word is my command, my lord."
+  },
+  {
+    "key": "title-dup76",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup76",
+    "original": "やりかけていたことを終わらせてからでも構いませんよ。\n僕もやることがありますから、お気になさらないでください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "やりかけていたことを終わらせてからでも構いませんよ。\n僕もやることがありますから、お気になさらないでください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하던 거 마저 하셔도 괜찮아요. 저도 할 일이 있으니 신경 쓰지 마시구요.\nEN:\nWell, don't let me distract you from whatever you were doing. I've got other stuff to do, anyway."
+  },
+  {
+    "key": "title-dup77",
+    "original": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "content-dup77",
+    "original": "他のファウストさんたちにも、よろしくお伝えくださいね～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "他のファウストさんたちにも、よろしくお伝えくださいね～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다른 파우스트 분들에게 안부나 전해주세요~\nEN:\nOh, and don't forget say hello to the other Fausts for me~"
+  },
+  {
+    "key": "content-dup78",
+    "original": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "……。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n…….\nEN:\n……."
+  },
+  {
+    "key": "content-dup79",
+    "original": "返事も聞かずに行ってしまわれましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "返事も聞かずに行ってしまわれましたね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대답도 듣지 않고 가버리셨군요.\nEN:\nHe leaves without even waiting for my reply."
+  },
+  {
+    "key": "content-dup80",
+    "original": "無意。無必。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無意。無必。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무의(無意). 무필(無必).\nEN:\nIntentionless(無意) and needless(無必)."
+  },
+  {
+    "key": "content-dup81",
+    "original": "たとえ本当に邪心を抱いておられたとしても、\n憶測をしないことこそ君子の道理でしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "たとえ本当に邪心を抱いておられたとしても、\n憶測をしないことこそ君子の道理でしょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n설령 정말 독심을 품으셨더라도, 억측하지 않는 것이 군자의 도리겠죠.\nEN:\nIt is becoming of a noble one not to let assumptions bog her down, even if there may truly be venom in my lord's heart."
+  },
+  {
+    "key": "content-dup82",
+    "original": "安否は…あえて伝えません。\nファウストもそれを望むでしょうからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "安否は…あえて伝えません。\nファウストもそれを望むでしょうからね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안부는… 굳이 전달하지 않겠습니다. 파우스트도 그걸 바랄 테니까요.\nEN:\nI will... not relay his greeting to the Fausts. That must be what Faust wants as well."
+  },
+  {
+    "key": "content-dup83",
+    "original": "記録はここまでといたします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "記録はここまでといたします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기록은 여기까지 하겠습니다.\nEN:\nEnding the report."
+  }
+]

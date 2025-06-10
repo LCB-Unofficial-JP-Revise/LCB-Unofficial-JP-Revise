@@ -1,0 +1,1374 @@
+[
+  {
+    "key": "853901-name",
+    "original": "壊れた傘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れた傘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 우산\nEN:\nBroken Umbrella"
+  },
+  {
+    "key": "853901-desc",
+    "original": "胴体部位破壊時、毎ターン胴体部位ダメージ量減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "胴体部位破壊時、毎ターン胴体部位ダメージ量減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸통 부위 파괴 시, 매 턴마다 몸통 부위 피해량 감소 1 얻음\nEN:\nWhen the body is broken, the body is inflicted with 1 Damage Down every turn."
+  },
+  {
+    "key": "853902-name",
+    "original": "破れきった傘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破れきった傘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다해진 우산\nEN:\nRagged Umbrella"
+  },
+  {
+    "key": "853902-desc",
+    "original": "頭部位破壊時、毎ターンダメージ量減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頭部位破壊時、毎ターンダメージ量減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n머리 부위 파괴 시, 매 턴마다 피해량 감소 1 얻음\nEN:\nWhen the head is broken, gain 1 Damage Down every turn"
+  },
+  {
+    "key": "853903-name",
+    "original": "最後のあがき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最後のあがき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마지막 발버둥\nEN:\nLast Struggle"
+  },
+  {
+    "key": "853903-desc",
+    "original": "残り体力が15%のとき、毎ターン束縛 10, 攻撃威力減少 1を得る\n新しく召喚された古傘の体力が30%増加。毎ターン何かを探す鳴き声を使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り体力が15%のとき、毎ターン束縛 10, 攻撃威力減少 1を得る\n新しく召喚された古傘の体力が30%増加。毎ターン何かを探す鳴き声を使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력이 전체 체력의 15%만큼 남았다면, 매 턴마다 속박 10, 공격 위력 감소 1 얻음\n새로 소환된 낡은 우산 체력 30% 증가. 매 턴마다 무언가를 찾는 울음소리 사용\nEN:\nAt 15% HP, this unit gains 10 Bind and 1 Attack Power Down every turn\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn."
+  },
+  {
+    "key": "853904-name",
+    "original": "虚栄の心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "虚栄の心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n허영된 마음\nEN:\nVain Heart"
+  },
+  {
+    "key": "853904-desc",
+    "original": "1ターン開始時、<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を2得る。(最大6)\n<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を得るとき、「循環回数」だけ追加で得る。\n保有している<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</color></link></u>を得る\nスキル「待ちわびる」がスロットにあるなら、古傘を<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ召喚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1ターン開始時、<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を2得る。(最大6)\n<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>を得るとき、「循環回数」だけ追加で得る。\n保有している<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ<sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">保護</color></link></u>を得る\nスキル「待ちわびる」がスロットにあるなら、古傘を<sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">保護傘</color></link></u>だけ召喚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1턴 시작 시 &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;보호 우산&lt;/color&gt;&lt;/link&gt;</u>을 2 얻음. (최대 6)\n&lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;보호 우산&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 \"순환 횟수\"만큼 추가로 얻음.\n보유중인 &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;보호 우산&lt;/color&gt;&lt;/link&gt;</u>만큼 &lt;sprite name=\"Protection\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Protection\"&gt;보호&lt;/color&gt;&lt;/link&gt;</u>를 얻음\n기다림 스킬이 슬롯에 있다면, 낡은 우산을 &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;보호 우산&lt;/color&gt;&lt;/link&gt;</u>만큼 소환\nEN:\nGain 2 &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;Protection Umbrella&lt;/color&gt;&lt;/link&gt;</u> at the start of the first turn. (Max 6)\nGain additional &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;Protection Umbrella&lt;/color&gt;&lt;/link&gt;</u> equal to the number of \"Cycle Counts\".\nGain &lt;sprite name=\"Protection\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Protection\"&gt;Protection&lt;/color&gt;&lt;/link&gt;</u> equal to the Count of &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;Protection Umbrella&lt;/color&gt;&lt;/link&gt;</u> on self.\nIf Waiting Skill is slotted, summon Old Umbrella equal to the number of &lt;sprite name=\"WaveFoxUmbrella\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"WaveFoxUmbrella\"&gt;Protection Umbrella&lt;/color&gt;&lt;/link&gt;</u>"
+  },
+  {
+    "key": "853905-name",
+    "original": "屈折された破裂と沈潜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された破裂と沈潜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 파열과 침잠\nEN:\nRefracted Rupture and Sinking"
+  },
+  {
+    "key": "853905-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "853906-name",
+    "original": "屈折出血負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折出血負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 출혈 부과\nEN:\nApply Refracted Bleed"
+  },
+  {
+    "key": "853906-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "854001-name",
+    "original": "捨てられた古傘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "捨てられた古傘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버려진 낡은 우산\nEN:\nOld and Abandoned"
+  },
+  {
+    "key": "854001-desc",
+    "original": "このユニットが人格によって倒されると、倒したキャラクターが次のターンにクイック 2を得る。\nさすらいの狐の全部位に束縛 2を付与。\nさすらいの狐に傘の破片 1を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このユニットが人格によって倒されると、倒したキャラクターが次のターンにクイック 2を得る。\nさすらいの狐の全部位に束縛 2を付与。\nさすらいの狐に傘の破片 1を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 유닛이 인격에 의해 처치되면 다음 턴에 처치한 캐릭터 신속 2 얻음.\n떠돌이 여우 모든 부위에 속박 2 부여.\n떠돌이 여우에게 우산 파편 1 부여.\nEN:\nWhen this unit is defeated, the unit that defeated it gains 2 Haste next turn.\nAll Drifting Fox parts are inflicted with 2 Bind.\nApply 1 Umbrella Splinters to Drifting Fox."
+  },
+  {
+    "key": "854101-name",
+    "original": "衰退した生命力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "衰退した生命力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쇠퇴한 생명력\nEN:\nDeteriorated Persistence"
+  },
+  {
+    "key": "854101-desc",
+    "original": "防御スキル使用後にバリアが全て消耗されると、次のターンに攻撃レベル減少 3, 脆弱 3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御スキル使用後にバリアが全て消耗されると、次のターンに攻撃レベル減少 3, 脆弱 3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 스킬 사용 후 보호막 체력이 전부 소모되었다면, 다음 턴에 공격 레벨 감소 3, 취약 3을 얻음.\nEN:\nIf Shield HP is fully depleted after using a defensive skill, gain 3 Offense Level Down and 3 Fragile next turn."
+  },
+  {
+    "key": "854102-name",
+    "original": "堅い甲殻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "堅い甲殻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단단한 갑각\nEN:\nSolid Exoskeleton"
+  },
+  {
+    "key": "854102-desc",
+    "original": "頭が部位破壊状態でなければ\n毎ターン胴体が保護3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頭が部位破壊状態でなければ\n毎ターン胴体が保護3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n머리가 부위 파괴 상태가 아니라면\n매 턴마다 몸통이 보호 3을 얻음.\nEN:\nIf head isn't broken,\nBody gains 3 Protection every turn."
+  },
+  {
+    "key": "854104-name",
+    "original": "屈折された充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 충전\nEN:\nRefracted Charge"
+  },
+  {
+    "key": "854104-desc",
+    "original": "対象に充電があるなら、攻撃的中時に対象の充電 回数を1減少させて自家発電 1を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象に充電があるなら、攻撃的中時に対象の充電 回数を1減少させて自家発電 1を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상에게 충전이 있다면, 공격 적중 시 대상의 충전 횟수를 1 감소시키고 자가 충전 1을 얻음. (턴 당 3번)\nEN:\nIf target has Charge, reduce target's Charge Count by 1 on hit and gain 1 Self-charge. (3 times per turn)"
+  },
+  {
+    "key": "854103-name",
+    "original": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 출혈과 진동\nEN:\nRefracted Bleed and Tremor"
+  },
+  {
+    "key": "854103-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "854105-name",
+    "original": "自家発電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自家発電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자가 충전\nEN:\nSelf-charge"
+  },
+  {
+    "key": "854105-desc",
+    "original": "1ターン開始時、自家発電 3を得る\n循環回数が増えるにつれ、得る自家発電 が1ずつ増加(最大8)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1ターン開始時、自家発電 3を得る\n循環回数が増えるにつれ、得る自家発電 が1ずつ増加(最大8)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1턴 시작 시, 자가 충전 3을 얻음\n순환 횟수가 늘어날수록 얻는 자가 충전이 1씩 증가함. (최대 8)\nEN:\nGain 3 Self-charge at the start of the first turn.\nGain 1 additional Self-charge for each Cycle Count. (Max 8)"
+  },
+  {
+    "key": "854201-name",
+    "original": "細胞分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "細胞分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n세포 분열\nEN:\nMitosis"
+  },
+  {
+    "key": "854201-desc",
+    "original": "腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n팔 부위 파괴 시, 모든 부위 매 턴마다 공격 위력 감소 1 얻음.\nEN:\nWhen the arm is broken, all parts gain 1 Attack Power Down every turn."
+  },
+  {
+    "key": "854202-name",
+    "original": "目を付けた妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目を付けた妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈독 들인 요정주\nEN:\nEnticing Fairy Wine"
+  },
+  {
+    "key": "854202-desc",
+    "original": "妖精酒があるとき、全部位が<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精酒があるとき、全部位が<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정주가 있을 때, 모든 부위 &lt;sprite name=\"Binding\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Binding\"&gt;속박&lt;/color&gt;&lt;/link&gt;</u>을 5 얻음.\nEN:\nWhen Fairy Wine is on the field, all parts gain 5 &lt;sprite name=\"Binding\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Binding\"&gt;Bind&lt;/color&gt;&lt;/link&gt;</u>."
+  },
+  {
+    "key": "854203-name",
+    "original": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 출혈과 진동\nEN:\nRefracted Bleed and Tremor"
+  },
+  {
+    "key": "854203-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "854204-name",
+    "original": "屈折破裂負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折破裂負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 파열 부과\nEN:\nApply Refracted Rupture"
+  },
+  {
+    "key": "854204-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "854301-name",
+    "original": "妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정주\nEN:\nFairy Wine"
+  },
+  {
+    "key": "854301-desc",
+    "original": "人格に倒されたとき、全人格へ次のターンにて酔い 5を付与。\n倒されなかったとき、紳士妖精へ次のターンにて体力10パーセント回復、攻撃威力増加 2, クイック 2, 保護 2を付与。\nターン終了時消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格に倒されたとき、全人格へ次のターンにて酔い 5を付与。\n倒されなかったとき、紳士妖精へ次のターンにて体力10パーセント回復、攻撃威力増加 2, クイック 2, 保護 2を付与。\nターン終了時消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5를 부여.\n죽지 않았을 때, 신사 요정에게 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 부여함.\n턴 종료 시 소멸\nEN:\nWhen defeated by an Identity, all Identities gain 5 Tipsy next turn.\nIf not defeated, Fairy Gentleman heals 10% HP and gains 2 Attack Power Up, 2 Haste, and 2 Protection.\nExpires at the end of the turn"
+  },
+  {
+    "key": "854401-name",
+    "original": "壊れた手段\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れた手段\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 수단\nEN:\nBroken Means"
+  },
+  {
+    "key": "854401-desc",
+    "original": "腕部破壊時、毎ターン腕部位が攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腕部破壊時、毎ターン腕部位が攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n팔 부위 파괴 시, 매 턴마다 팔 부위에 공격 위력 감소 1 얻음\nEN:\nWhen the arm is broken, the arm gains 1 Attack Power Down every turn."
+  },
+  {
+    "key": "854402-name",
+    "original": "屈折沈潜負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折沈潜負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 침잠 부과\nEN:\nApply Refracted Sinking"
+  },
+  {
+    "key": "854402-desc",
+    "original": "<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "854501-name",
+    "original": "失った手段\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "失った手段\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잃어버린 수단\nEN:\nLost Means"
+  },
+  {
+    "key": "854501-desc",
+    "original": "腕部破壊時、毎ターン攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腕部破壊時、毎ターン攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음\nEN:\nWhen the arm is broken, the unit gains 1 Attack Power Down every turn."
+  },
+  {
+    "key": "854502-name",
+    "original": "壊された陰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊された陰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n훼손된 그늘\nEN:\nDamaged Shade"
+  },
+  {
+    "key": "854502-desc",
+    "original": "頭破壊時、毎ターン防御レベル減少 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "頭破壊時、毎ターン防御レベル減少 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n머리 부위 파괴 시, 매 턴마다 방어 레벨 감소 2 얻음\nEN:\nWhen the head is broken, the unit gains 2 Defense Level Down every turn."
+  },
+  {
+    "key": "854503-name",
+    "original": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 출혈과 진동\nEN:\nRefracted Bleed and Tremor"
+  },
+  {
+    "key": "854503-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "854504-name",
+    "original": "屈折破裂負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折破裂負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 파열 부과\nEN:\nApply Refracted Rupture"
+  },
+  {
+    "key": "854504-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "854601-name",
+    "original": "汚染する葉っぱ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚染する葉っぱ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오염시키는 잎사귀\nEN:\nContaminating Leaf"
+  },
+  {
+    "key": "854601-desc",
+    "original": "毎ターン開始時、足長妖精と紳士妖精が体力回復増加 3, 攻撃威力増加 1を得る。\n4ターン以上クローバーが生存しているなら、追加で攻撃威力増加 1, ダメージ量増加 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン開始時、足長妖精と紳士妖精が体力回復増加 3, 攻撃威力増加 1を得る。\n4ターン以上クローバーが生存しているなら、追加で攻撃威力増加 1, ダメージ量増加 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 키다리 요정과 신사 요정이 체력 회복 증가 3, 공격 위력 증가 1을 얻음.\n4턴 이상 클로버가 생존해 있다면, 추가로 공격 위력 증가 1, 피해량 증가 2를 얻음.\nEN:\nAt the start of every turn, Fairy-Long-Legs and Fairy Gentleman gain 3 HP Healing Boost and 1 Attack Power Up.\nIf the Clover survives for 4+ turns, gain additional 1 Attack Power Up and 2 Damage Up."
+  },
+  {
+    "key": "854701-name",
+    "original": "細胞分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "細胞分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n세포 분열\nEN:\nMitosis"
+  },
+  {
+    "key": "854701-desc",
+    "original": "腕部破壊時、毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "腕部破壊時、毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음.\nEN:\nWhen the arm is broken, the unit gains 1 Attack Power Down every turn."
+  },
+  {
+    "key": "854702-name",
+    "original": "目を付けた妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "目を付けた妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈독 들인 요정주\nEN:\nEnticing Fairy Wine"
+  },
+  {
+    "key": "854702-desc",
+    "original": "妖精酒があるとき、全部位が<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精酒があるとき、全部位が<sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>5を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정주가 있을 때, &lt;sprite name=\"Binding\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Binding\"&gt;속박&lt;/color&gt;&lt;/link&gt;</u>을 5 얻음.\nEN:\nWhen Fairy Wine is on the field, all parts gain 5 &lt;sprite name=\"Binding\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Binding\"&gt;Bind&lt;/color&gt;&lt;/link&gt;</u>."
+  },
+  {
+    "key": "854703-name",
+    "original": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された出血と振動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 출혈과 진동\nEN:\nRefracted Bleed and Tremor"
+  },
+  {
+    "key": "854703-desc",
+    "original": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>と<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "854704-name",
+    "original": "屈折破裂負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折破裂負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 파열 부과\nEN:\nApply Refracted Rupture"
+  },
+  {
+    "key": "854704-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "854801-name",
+    "original": "妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精酒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정주\nEN:\nFairy Wine"
+  },
+  {
+    "key": "854801-desc",
+    "original": "人格に倒されたとき、全人格へ次のターンにて酔い 5を付与。\n倒されなかったとき、紳士妖精へ次のターンにて体力10パーセント回復、攻撃威力増加 2, クイック 2, 保護 2を付与。\nターン終了時消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格に倒されたとき、全人格へ次のターンにて酔い 5を付与。\n倒されなかったとき、紳士妖精へ次のターンにて体力10パーセント回復、攻撃威力増加 2, クイック 2, 保護 2を付与。\nターン終了時消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격에게 죽었을 때, 모든 인격에게 다음 턴에 취기 5를 부여.\n죽지 않았을 때, 신사 요정에게 다음 턴에 체력 10% 회복, 공격 위력 증가 2, 신속 2, 보호 2를 부여함.\n턴 종료 시 소멸\nEN:\nWhen defeated by an Identity, all Identities gain 5 Tipsy next turn.\nIf not defeated, Fairy Gentleman heals 10% HP and gains 2 Attack Power Up, 2 Haste, and 2 Protection.\nExpires at the end of the turn"
+  },
+  {
+    "key": "854901-name",
+    "original": "魅了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "魅了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매혹\nEN:\nCharmed"
+  },
+  {
+    "key": "854901-desc",
+    "original": "速度が最も低い敵に魅了を付与。\n循環回数によって魅了人員が増加。\n妖精部位が再生時、魅了人員が増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度が最も低い敵に魅了を付与。\n循環回数によって魅了人員が増加。\n妖精部位が再生時、魅了人員が増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도가 가장 낮은 적에게 매혹 부여.\n순환 횟수에 따라 매혹 인원 증가.\n요정 부위 재생 시 매혹 인원 증가.\nEN:\nInflict Charmed to the enemy with the slowest Speed.\nNumber of targets increases with every Cycle Count.\nNumber of targets increases when Fairy is restored."
+  },
+  {
+    "key": "854902-name",
+    "original": "露わになった深淵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "露わになった深淵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n드러난 심연\nEN:\nUncovered Abyss"
+  },
+  {
+    "key": "854902-desc",
+    "original": "妖精部位破壊時、胴体が露わになる。\n胴体が再び隠れるとき、保有しているバフ・デバフが全て消失。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精部位破壊時、胴体が露わになる。\n胴体が再び隠れるとき、保有しているバフ・デバフが全て消失。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정 부위 파괴 시, 몸통이 드러남.\n몸통이 다시 숨을 때, 가지고 있는 버프 및 디버프 전부 삭제.\nEN:\nReveal body when Fairy is broken.\nAll Buffs and Debuffs expire when the body hides again."
+  },
+  {
+    "key": "854903-name",
+    "original": "先立つ好餌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "先立つ好餌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n앞선 미끼\nEN:\nLeading Lure"
+  },
+  {
+    "key": "854903-desc",
+    "original": "妖精部位を攻撃されても本体の体力が消耗されない。\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">魅了</color></link></u>された人員数によって攻撃スロットが増加する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精部位を攻撃されても本体の体力が消耗されない。\n<sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">魅了</color></link></u>された人員数によって攻撃スロットが増加する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정 부위를 공격 당해도 본체 체력이 소모되지 않음.\n&lt;sprite name=\"FairyCharm\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"FairyCharm\"&gt;매혹&lt;/color&gt;&lt;/link&gt;</u>된 인원 수에 따라 공격 슬롯이 증가함.\nEN:\nCannot damage Core by damaging the Fairy.\nTargets more slots based on the number of &lt;sprite name=\"FairyCharm\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"FairyCharm\"&gt;Charmed&lt;/color&gt;&lt;/link&gt;</u> units."
+  },
+  {
+    "key": "854904-name",
+    "original": "破壊された根元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊された根元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 밑동\nEN:\nBroken Stump"
+  },
+  {
+    "key": "854904-desc",
+    "original": "胴体部位が破壊されると、妖精再生時の体力が60%になる。\n胴体部位が破壊されると、スキルによる本体体力回復 +20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "胴体部位が破壊されると、妖精再生時の体力が60%になる。\n胴体部位が破壊されると、スキルによる本体体力回復 +20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸통 부위가 파괴되면, 요정 재생 시 체력이 60%로 재생함.\n몸통 부위가 파괴되면, 스킬에 의한 본체 체력 회복 +20\nEN:\nWhen the body is broken, Fairy will have 60% of its Max HP upon restoration.\nWhen the body is broken, Core heals +20 more HP with Skill effects"
+  },
+  {
+    "key": "854905-name",
+    "original": "進化する好餌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "進化する好餌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진화하는 미끼\nEN:\nEvolving Lure"
+  },
+  {
+    "key": "854905-desc",
+    "original": "妖精部位再生時、体力最大値が20%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精部位再生時、体力最大値が20%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정 부위 재생 시 최대 체력이 20% 증가.\nEN:\nFairy gains 20% increased Max HP when restored."
+  },
+  {
+    "key": "854906-name",
+    "original": "屈折された破裂と沈潜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された破裂と沈潜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 파열과 침잠\nEN:\nRefracted Rupture and Sinking"
+  },
+  {
+    "key": "854906-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "854907-name",
+    "original": "妖精の粉\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精の粉\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정 가루\nEN:\nFairy Dust"
+  },
+  {
+    "key": "854907-desc",
+    "original": "妖精が倒されたとき、全人格が次のターンに呼吸 5, 呼吸 回数2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精が倒されたとき、全人格が次のターンに呼吸 5, 呼吸 回数2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정이 죽었을 때, 모든 인격이 다음 턴에 호흡 5, 호흡 횟수 2 얻음\nEN:\nWhen the Fairy is killed, all Identities gain 5 Poise and 2 Poise Count next turn"
+  },
+  {
+    "key": "855001-name",
+    "original": "次元逃走\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次元逃走\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n차원 도주\nEN:\nDimensional Escape"
+  },
+  {
+    "key": "855001-desc",
+    "original": "2ターン目から一定ターンごとに次元に隠れる。\n全部位が混乱状態なら、次のターンに隠れる。\n次元に隠れた時は、混乱状態にならない。\n本体体力が最大体力値の30%以下なら、次元に隠れない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2ターン目から一定ターンごとに次元に隠れる。\n全部位が混乱状態なら、次のターンに隠れる。\n次元に隠れた時は、混乱状態にならない。\n本体体力が最大体力値の30%以下なら、次元に隠れない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2턴부터 일정 턴마다 차원으로 숨음.\n모든 부위가 흐트러짐 상태이면, 다음 턴에 숨음.\n차원으로 숨었을 때에는, 흐트러짐 상태가 되지 않음.\n본체 체력이 최대 체력의 30% 이하면, 차원으로 숨지 않음.\nEN:\nStarting from turn 2, escape to a Dimensional Rift every few turns.\nWhen all parts are Staggered, escape to a Dimensional Rift next turn.\nCannot be Staggered while inside a Dimensional Rift.\nWhen Core is at 30% or less HP, does not escape to a Dimensional Rift."
+  },
+  {
+    "key": "855002-name",
+    "original": "閉じ込められた次元脱出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "閉じ込められた次元脱出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n갇혀버린 차원 탈출\nEN:\nTrapped Dimensional Escape"
+  },
+  {
+    "key": "855002-desc",
+    "original": "全ての次元が生成されたターンに破壊されると、次のターンに自ら次元を裂いて出てくる。\n以後、充電 回数5を失って全部位の混乱区間が30前進。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全ての次元が生成されたターンに破壊されると、次のターンに自ら次元を裂いて出てくる。\n以後、充電 回数5を失って全部位の混乱区間が30前進。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 차원이 생성된 턴에 파괴되면, 다음 턴에 스스로 차원을 찢고 나옴.\n이후 충전 횟수 5를 잃고, 모든 부위가 흐트러짐 손상 30을 입음.\nEN:\nWhen all Dimensional Rifts are broken on the same turn they are created, voluntarily emerge from a Dimensional Rift.\nAfterward, lose 5 Charge Count and raise Stagger Threshold by 30 on all parts."
+  },
+  {
+    "key": "855003-name",
+    "original": "次元屈折刃修復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次元屈折刃修復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n차원 굴절 칼날 수복\nEN:\nRegenerate Dimensional Refraction Blade"
+  },
+  {
+    "key": "855003-desc",
+    "original": "刃部位が破壊されると充電 回数5を失い、\n次のターン終了時に充電 回数2を消耗して刃部位を回復する。\n刃部位が破壊された状態なら、毎ターン開始時に攻撃レベル減少 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "刃部位が破壊されると充電 回数5を失い、\n次のターン終了時に充電 回数2を消耗して刃部位を回復する。\n刃部位が破壊された状態なら、毎ターン開始時に攻撃レベル減少 2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n칼날 부위가 파괴되면, 충전 횟수 5를 잃고,\n다음 턴 종료 시 충전 횟수 2를 소모하여 칼날 부위를 회복함.\n칼날 부위가 파괴된 상태면, 매 턴 시작 시 공격 레벨 감소 2를 얻음.\nEN:\nWhen the blade part is broken, lose 5 Charge Count,\nand at the end of the next turn, recover blade part by spending 2 Charge Count.\nWhen the blade part is broken, gain 2 Offense Level Down at the start of every turn."
+  },
+  {
+    "key": "855004-name",
+    "original": "屈折された火傷と破裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された火傷と破裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 화상과 파열\nEN:\nRefracted Burn and Rupture"
+  },
+  {
+    "key": "855004-desc",
+    "original": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "855005-name",
+    "original": "屈折振動負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折振動負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 진동 부과\nEN:\nApply Refracted Tremor"
+  },
+  {
+    "key": "855005-desc",
+    "original": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">振動</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;진동&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Vibration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vibration\"&gt;Tremor&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "856001-name",
+    "original": "血の流れる次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血の流れる次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피가 흐르는 차원\nEN:\nHemorrhaging Dimension"
+  },
+  {
+    "key": "856001-desc",
+    "original": "血の流れる次元を通過したなら、ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血の流れる次元を通過したなら、ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피가 흐르는 차원을 통과했다면, 피해량 +10%\nEN:\nDeal +10% damage after passing through the Hemorrhaging Dimension"
+  },
+  {
+    "key": "856101-name",
+    "original": "毒の沸き立つ次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毒の沸き立つ次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n독이 들끓는 차원\nEN:\nPoisonous Dimension"
+  },
+  {
+    "key": "856101-desc",
+    "original": "毒の沸き立つ次元を通過したなら、本体基本体力最大値 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毒の沸き立つ次元を通過したなら、本体基本体力最大値 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n독이 들끓는 차원을 통과했다면, 기본 본체 최대 체력 +20%\nEN:\nCore gains +20% Max HP after passing through the Poisonous Dimension"
+  },
+  {
+    "key": "856201-name",
+    "original": "絶えず振動する次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絶えず振動する次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끊임없이 진동하는 차원\nEN:\nTremoring Dimension"
+  },
+  {
+    "key": "856201-desc",
+    "original": "絶えず振動する次元通過したなら、速度が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "絶えず振動する次元通過したなら、速度が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끊임없이 진동하는 차원을 통과했다면, 속도 1 증가\nEN:\nGain 1 Speed after passing through the Tremoring Dimension"
+  },
+  {
+    "key": "856301-name",
+    "original": "電流を吐き出す次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "電流を吐き出す次元\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전류를 뿜어내는 차원\nEN:\nElectrifying Dimension"
+  },
+  {
+    "key": "856301-desc",
+    "original": "電流を吐き出す次元を通過したなら、コイン威力 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "電流を吐き出す次元を通過したなら、コイン威力 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전류를 뿜어내는 차원을 통과했다면, 코인 위력 +1\nEN:\nGain +1 Coin Power after passing through the Electrifying Dimension"
+  },
+  {
+    "key": "855101-name",
+    "original": "ゴールデンタイム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゴールデンタイム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금 시간\nEN:\nGolden Time"
+  },
+  {
+    "key": "855101-desc",
+    "original": "ターン終了時に体力が6~24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に体力が6~24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 체력이 6% ~ 24%사이로 남았을 때, 전체 체력의 80%만큼 본체와 부위체력 즉시 회복. 흐트러짐 상태 해제. (최대 1회)\nEN:\nAt the end of the turn, if the HP is between 6% and 24%, Core parts instantly heal up to 80% of Max HP, and recover from stagger. (One-time only)"
+  },
+  {
+    "key": "855102-name",
+    "original": "時間逆行の反動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間逆行の反動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간 역행 반동\nEN:\nTime Reversion Retroaction"
+  },
+  {
+    "key": "855102-desc",
+    "original": "ゴールデンタイム発動以降、ターン開始時に脆弱 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゴールデンタイム発動以降、ターン開始時に脆弱 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금 시간 발동 이후, 턴 시작 시 취약 2 얻음\nEN:\nAfter activating Golden Time, gain 2 Fragile at the start of the turn."
+  },
+  {
+    "key": "855103-name",
+    "original": "過充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "過充電\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n과충전\nEN:\nOvercharge"
+  },
+  {
+    "key": "855103-desc",
+    "original": "ターン終了時に充電 回数が5以上なら、次のターンにダメージ量増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に充電 回数が5以上なら、次のターンにダメージ量増加 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 충전 횟수가 5이상이면, 다음 턴에 피해량 증가 3 얻음\nEN:\nIf at 5+ Charge Count at the end of the turn, gain 3 Damage Up next turn"
+  },
+  {
+    "key": "855104-name",
+    "original": "屈折された破裂と沈潜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された破裂と沈潜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 파열과 침잠\nEN:\nRefracted Rupture and Sinking"
+  },
+  {
+    "key": "855104-desc",
+    "original": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">破裂</color></link></u>と<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;파열&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Burst\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Burst\"&gt;Rupture&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "855105-name",
+    "original": "屈折火傷負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折火傷負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 화상 부과\nEN:\nApply Refracted Burn"
+  },
+  {
+    "key": "855105-desc",
+    "original": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count."
+  },
+  {
+    "key": "855501-name",
+    "original": "戻ってくる過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戻ってくる過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌아오는 과거\nEN:\nReturning Past"
+  },
+  {
+    "key": "855501-desc",
+    "original": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が50以上なら、本体体力をが80%以下のときターン終了時に<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を50消耗することで本体体力を200回復する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が50以上なら、本体体力をが80%以下のときターン終了時に<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を50消耗することで本体体力を200回復する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;축적된 과거&lt;/color&gt;&lt;/link&gt;</u>가 50 이상이면, 본체 체력이 80% 이하일 때 턴 종료 시 &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;축적된 과거&lt;/color&gt;&lt;/link&gt;</u>를 50 소모하여 본체 체력을 200 회복함.\nEN:\nIf at 50+ &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;Accumulated Past&lt;/color&gt;&lt;/link&gt;</u>, and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;Accumulated Past&lt;/color&gt;&lt;/link&gt;</u>."
+  },
+  {
+    "key": "855502-name",
+    "original": "消失した過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "消失した過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소실된 과거\nEN:\nMisplaced Past"
+  },
+  {
+    "key": "855502-desc",
+    "original": "胴体部位破壊時、<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を全て消耗。\n胴体部位破壊時、次のターンから今回の戦闘の間、胴体部位が全属性と攻撃タイプに対して耐性(0.5)になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "胴体部位破壊時、<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>を全て消耗。\n胴体部位破壊時、次のターンから今回の戦闘の間、胴体部位が全属性と攻撃タイプに対して耐性(0.5)になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n몸통 부위 파괴 시, &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;축적된 과거&lt;/color&gt;&lt;/link&gt;</u> 전부 소모.\n몸통 부위 파괴 시, 다음 턴부터 이번 전투동안 몸통 부위가 모든 속성과 공격 유형에 대하여 내성(0.5)이 됨.\nEN:\nWhen the body is broken, spend all &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;Accumulated Past&lt;/color&gt;&lt;/link&gt;</u>.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting next turn until the end of this encounter."
+  },
+  {
+    "key": "855503-name",
+    "original": "破壊された排煙機関\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊された排煙機関\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴된 배연 기관\nEN:\nBroken Exhaust Port"
+  },
+  {
+    "key": "855503-desc",
+    "original": "蒸気銃部位破壊時、全部位の呼吸を全て消耗。\n蒸気銃部位が破壊されると以降、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得るたびに<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>を<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>だけ得る。\n蒸気銃部位が破壊されると以降、攻撃スキルを使用するたびに呼吸 1を失う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蒸気銃部位破壊時、全部位の呼吸を全て消耗。\n蒸気銃部位が破壊されると以降、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>を得るたびに<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>を<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>だけ得る。\n蒸気銃部位が破壊されると以降、攻撃スキルを使用するたびに呼吸 1を失う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증기총 부위 파괴 시, 모든 부위의 호흡 전부 소모.\n증기총 부위가 파괴된 이후, &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;호흡&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때마다 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u>을 &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;호흡&lt;/color&gt;&lt;/link&gt;</u>만큼 얻음.\n증기총 부위가 파괴된 이후, 매 공격 스킬 사용 시 호흡 1을 잃음.\nEN:\nWhen the Steam Blaster is broken, completely spend all parts' Poise.\nAfter the Steam Blaster is broken, gain &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u> equal to the number of &lt;sprite name=\"Breath\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Breath\"&gt;Poise&lt;/color&gt;&lt;/link&gt;</u> every time this unit gains &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;Poise&lt;/color&gt;&lt;/link&gt;</u>.\nAfter the Steam Blaster is broken, lose 1 Poise every time this unit uses an Attack Skill."
+  },
+  {
+    "key": "855504-name",
+    "original": "屈折された火傷と出血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された火傷と出血\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 화상과 출혈\nEN:\nRefracted Burn and Bleed"
+  },
+  {
+    "key": "855504-desc",
+    "original": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>の威力が30まで蓄積される。\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>と<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">出血</color></link></u>の回数が5まで蓄積される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>의 위력이 30까지만 누적됨.\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>과 &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;출혈&lt;/color&gt;&lt;/link&gt;</u>의 횟수가 5까지만 누적됨.\nEN:\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> Potency maxes out at 30.\n&lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u> and &lt;sprite name=\"Laceration\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Laceration\"&gt;Bleed&lt;/color&gt;&lt;/link&gt;</u> Count maxes out at 5."
+  },
+  {
+    "key": "855505-name",
+    "original": "屈折沈潜負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折沈潜負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절 침잠 부과\nEN:\nApply Refracted Sinking"
+  },
+  {
+    "key": "855505-desc",
+    "original": "<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">沈潜</color></link></u>を得るとき、威力と回数を追加で1得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;침잠&lt;/color&gt;&lt;/link&gt;</u>을 얻을 때 위력과 횟수를 1 추가로 얻음.\nEN:\nWhen gaining &lt;sprite name=\"Sinking\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Sinking\"&gt;Sinking&lt;/color&gt;&lt;/link&gt;</u>, gain 1 additional Potency and Count"
+  },
+  {
+    "key": "855506-name",
+    "original": "漏れ出る蒸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "漏れ出る蒸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새어나오는 증기\nEN:\nLeaking Steam"
+  },
+  {
+    "key": "855506-desc",
+    "original": "蒸気銃部位破壊時、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>と呼吸 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蒸気銃部位破壊時、<sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">呼吸</color></link></u>と呼吸 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증기총 부위 피격 시, &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;호흡&lt;/color&gt;&lt;/link&gt;</u>과 호흡 횟수 1 감소\nEN:\nWhen the Steam Blaster is hit, lose 1 &lt;sprite name=\"Breath\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Breath\"&gt;Poise&lt;/color&gt;&lt;/link&gt;</u> and 1 Poise Count"
+  },
+  {
+    "key": "855507-name",
+    "original": "重なる過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "重なる過去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n겹쳐지는 과거\nEN:\nOverlapping Past"
+  },
+  {
+    "key": "855507-desc",
+    "original": "毎ターン、蓄積された80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン、蓄積された過去80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。\n<CMT_KR>오식: \"毎ターン、蓄積された「」80につき攻撃威力増加 1を得る。\" 정확: \"毎ターン、蓄積された「過去」80につき攻撃威力増加 1を得る。\"\n<CMT_EN>Typo: \"毎ターン、蓄積された「」80につき攻撃威力増加 1を得る。\" Correction: \"毎ターン、蓄積された「過去」80につき攻撃威力増加 1を得る。\"\n<CMT_JP>誤植: \"毎ターン、蓄積された「」80につき攻撃威力増加 1を得る。\" 訂正後: \"毎ターン、蓄積された「過去」80につき攻撃威力増加 1を得る。\"",
+    "stage": 1,
+    "context": "KR:\n매 턴마다 축적된 과거 80당 공격 위력 증가 1 얻음.\n&lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPast\"&gt;축적된 과거&lt;/color&gt;&lt;/link&gt;</u>가 80을 넘었다면, 슬롯 1개 추가.\nEN:\nGain 1 Attack Power Up for every 80 Accumulated Past every turn.\nAt 80+ &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPast\"&gt;Accumulated Past&lt;/color&gt;&lt;/link&gt;</u>, gain +1 Slot."
+  },
+  {
+    "key": "855508-name",
+    "original": "メトロノーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メトロノーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메트로놈\nEN:\nMetronome"
+  },
+  {
+    "key": "855508-desc",
+    "original": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が奇数なら[Vulnerable]と[AttackDmgUp]を3得る\n偶数なら[Protection]と[AttackDmgDown]を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">蓄積された過去</color></link></u>が奇数なら[Vulnerable]と[AttackDmgUp]を3得る\n偶数なら[Protection]と[AttackDmgDown]を3得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;축적된 과거&lt;/color&gt;&lt;/link&gt;</u>가 홀수이면 [Vulnerable]과 [AttackDmgUp]를 3 얻음\n짝수이면, [Protection]와 [AttackDmgDown]를 3 얻음\nEN:\nIf the &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPastMirror\"&gt;Accumulated Past&lt;/color&gt;&lt;/link&gt;</u> is an odd number, gain 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, gain 3 [Protection] and [AttackDmgDown]"
+  },
+  {
+    "key": "855601-name",
+    "original": "永遠のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "永遠のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영원한 굴레\nEN:\nEternal Yoke"
+  },
+  {
+    "key": "855601-desc",
+    "original": "体力最大値が(循環回数 × 5)%だけ増加。\n与ダメージ量が(循環回数 × 5)%だけ減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力最大値が(循環回数 × 5)%だけ増加。\n与ダメージ量が(循環回数 × 5)%だけ減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력이 (순환 횟수 X 5)%만큼 증가.\n가하는 피해량이 (순환 횟수 X 5)%만큼 감소\nEN:\nMax HP increases by (Cycle Count X 5)%.\nDeal (Cycle Count X 5)% less damage"
+  },
+  {
+    "key": "855602-name",
+    "original": "壊れた表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "壊れた表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부서진 표지판\nEN:\nBroken Sign"
+  },
+  {
+    "key": "855602-desc",
+    "original": "表示板部位が破壊されると、薔薇の体力最大値が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "表示板部位が破壊されると、薔薇の体力最大値が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n표지판 부위가 부서지면 장미의 최대 체력 감소\nEN:\nWhen the sign is broken, Rose loses Max HP"
+  },
+  {
+    "key": "855603-name",
+    "original": "散らばった肉片\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "散らばった肉片\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흩어진 살점\nEN:\nScattered Flesh"
+  },
+  {
+    "key": "855603-desc",
+    "original": "肉部位が破壊されると、本体の体力最大値が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉部位が破壊されると、本体の体力最大値が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살 부위가 파괴되면 본체의 최대 체력 감소\nEN:\nWhen the flesh is broken, Core loses Max HP"
+  },
+  {
+    "key": "855604-name",
+    "original": "ひとつの蔓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ひとつの蔓\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하나의 덩쿨\nEN:\nSingular Vine"
+  },
+  {
+    "key": "855604-desc",
+    "original": "薔薇を倒すと本体と肉部位の体力が30減少。\n以降、今回の戦闘の間は該当する罪悪属性の耐性が0.1減少する(重複可能)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇を倒すと本体と肉部位の体力が30減少。\n以降、今回の戦闘の間は該当する罪悪属性の耐性が0.1減少する(重複可能)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미를 처치하면 본체와 살 부위의 체력이 30 감소.\n이후 이번 전투 동안 해당 죄악 속성의 내성이 0.1 감소함 (중첩 가능)\nEN:\nWhen a Rose is defeated, Core and flesh loses 30 HP.\nLose 0.1 Resistance to the corresponding Sin Affinity during this encounter (Stackable)"
+  },
+  {
+    "key": "856401-name",
+    "original": "憎悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "憎悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오\nEN:\nHatred"
+  },
+  {
+    "key": "856401-desc",
+    "original": "被ダメージ毎に、次のターンにて攻撃レベル増加 1, 防御レベル減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ毎に、次のターンにて攻撃レベル増加 1, 防御レベル減少 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 마다 다음 턴에 공격 레벨 증가 1, 방어 레벨 감소 1을 얻음\nEN:\nWhen hit, gain 1 Offense Level Up and 1 Defense Level Down"
+  },
+  {
+    "key": "856402-name",
+    "original": "残り火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔화\nEN:\nEmbers"
+  },
+  {
+    "key": "856402-desc",
+    "original": "被ダメージで死亡時、受けたダメージ量分のダメージを対象に与え、火傷 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージで死亡時、受けたダメージ量分のダメージを対象に与え、火傷 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격으로 사망 시 대상에게 받은 피해량만큼 피해를 주고, 화상 5 부여\nEN:\nWhen defeated by a direct hit, return the damage to the attacker and inflict 5 Burn"
+  },
+  {
+    "key": "856403-name",
+    "original": "満開の罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "満開の罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n활짝 핀 죄악\nEN:\nBlossoming Sins"
+  },
+  {
+    "key": "856403-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "856404-name",
+    "original": "湧き上がる憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "湧き上がる憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끓어오르는 분노\nEN:\nBoiling Wrath"
+  },
+  {
+    "key": "856404-desc",
+    "original": "強化状態のとき、スキル効果で付与する火傷 +1\n強化状態で死亡時、全味方へ火傷 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のとき、スキル効果で付与する火傷 +1\n強化状態で死亡時、全味方へ火傷 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 스킬의 효과로 부여하는 화상 +1.\n강화 상태에서 사망 시 모든 아군에게 화상 횟수 4 부여\nEN:\nDuring Power-up state, inflict +1 more Burn with Skill effects\nIf killed during Power-up state, inflict 4 Burn Count to all allies"
+  },
+  {
+    "key": "856405-name",
+    "original": "蔓に咲いた薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蔓に咲いた薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덩쿨에 핀 장미\nEN:\nRose on a Vine"
+  },
+  {
+    "key": "856405-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "856501-name",
+    "original": "一方的欲望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一方的欲望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일방적 욕망\nEN:\nOne-sided Desire"
+  },
+  {
+    "key": "856501-desc",
+    "original": "マッチ進行時の最終威力 -2, 一方攻撃時の最終威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ進行時の最終威力 -2, 一方攻撃時の最終威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 진행 시 최종 위력 -2, 일방 공격 시 최종 위력 +2\nEN:\nIn a clash, Final Power -2; In an unopposed attack, Final Power +2"
+  },
+  {
+    "key": "856502-name",
+    "original": "満開の罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "満開の罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n활짝 핀 죄악\nEN:\nBlossoming Sins"
+  },
+  {
+    "key": "856502-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "856503-name",
+    "original": "揺らめく色欲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揺らめく色欲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일렁이는 색욕\nEN:\nShimmering Lust"
+  },
+  {
+    "key": "856503-desc",
+    "original": "強化状態のとき、スキル効果で付与する出血 +1\n強化状態で死亡時、全味方へ出血 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のとき、スキル効果で付与する出血 +1\n強化状態で死亡時、全味方へ出血 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 스킬의 효과로 부여하는 출혈 +1.\n강화 상태에서 사망 시 모든 아군에게 출혈 횟수 4 부여\nEN:\nDuring Power-up state, inflict +1 more Bleed with Skill effects\nIf killed during Power-up state, inflict 4 Bleed Count to all allies"
+  },
+  {
+    "key": "856504-name",
+    "original": "蔓に咲いた薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蔓に咲いた薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덩쿨에 핀 장미\nEN:\nRose on a Vine"
+  },
+  {
+    "key": "856504-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "856601-name",
+    "original": "無気力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "無気力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무기력\nEN:\nPowerless"
+  },
+  {
+    "key": "856601-desc",
+    "original": "被ダメージ時、次のターンに混乱状態でなければ保護 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時、次のターンに混乱状態でなければ保護 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 다음 턴에 흐트러짐 상태가 아니면 보호 5를 얻음\nEN:\nWhen hit, gain 5 Protection next turn unless Staggered"
+  },
+  {
+    "key": "856602-name",
+    "original": "黄色い薔薇2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黄色い薔薇2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노란 장미 2\nEN:\nYellow Rose 2"
+  },
+  {
+    "key": "856602-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어남이 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "856603-name",
+    "original": "押し潰す怠惰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押し潰す怠惰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n짓누르는 나태\nEN:\nCrushing Sloth"
+  },
+  {
+    "key": "856603-desc",
+    "original": "強化状態のとき、スキル効果で付与する振動 +1\n強化状態で死亡時、全味方へ振動 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のとき、スキル効果で付与する振動 +1\n強化状態で死亡時、全味方へ振動 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 스킬의 효과로 부여하는 진동 +1.\n강화 상태에서 사망 시 모든 아군에게 진동 횟수 4 부여\nEN:\nDuring Power-up state, inflict +1 more Tremor with Skill effects\nIf killed during Power-up state, inflict 4 Tremor Count to all allies"
+  },
+  {
+    "key": "856604-name",
+    "original": "黄色い薔薇4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黄色い薔薇4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n노란 장미 4\nEN:\nYellow Rose 4"
+  },
+  {
+    "key": "856604-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "856701-name",
+    "original": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n허기\nEN:\nHunger"
+  },
+  {
+    "key": "856701-desc",
+    "original": "ターン終了時、このターンにてダメージを与えられなかった場合は破裂脆弱 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、このターンにてダメージを与えられなかった場合は破裂脆弱 2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 이번 턴에 피해를 주지 못한 경우 파열 취약 2를 얻음\nEN:\nIf this unit fails to deal damage in a turn, gain 2 Rupture Fragility"
+  },
+  {
+    "key": "856702-name",
+    "original": "緑の薔薇2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緑の薔薇2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초록 장미 2\nEN:\nGreen Rose 2"
+  },
+  {
+    "key": "856702-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어남이 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "856703-name",
+    "original": "育ちゆく暴食\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "育ちゆく暴食\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자라나는 탐식\nEN:\nGrowing Gluttony"
+  },
+  {
+    "key": "856703-desc",
+    "original": "強化状態のとき、スキル効果で付与する破裂 +1\n強化状態で死亡時、全味方へ破裂 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のとき、スキル効果で付与する破裂 +1\n強化状態で死亡時、全味方へ破裂 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 스킬의 효과로 부여하는 파열 +1.\n강화 상태에서 사망 시 모든 아군에게 파열 횟수 4 부여\nEN:\nDuring Power-up state, inflict +1 more Rupture with Skill effects\nIf killed during Power-up state, inflict 4 Rupture Count to all allies"
+  },
+  {
+    "key": "856704-name",
+    "original": "緑の薔薇4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緑の薔薇4\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초록 장미 4\nEN:\nGreen Rose 4"
+  },
+  {
+    "key": "856704-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "856801-name",
+    "original": "不安\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안\nEN:\nAnxiety"
+  },
+  {
+    "key": "856801-desc",
+    "original": "マッチ進行時の最終威力 +2, 一方攻撃時の最終威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ進行時の最終威力 +2, 一方攻撃時の最終威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 진행 시 최종 위력 +2, 일방 공격 시 최종 위력 -2\nEN:\nIn a clash, Final Power +2; In an unopposed attack, Final Power -2"
+  },
+  {
+    "key": "856802-name",
+    "original": "自己破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自己破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자기 파괴\nEN:\nSelf Destruction"
+  },
+  {
+    "key": "856802-desc",
+    "original": "被ダメージ時、次のターンにて憂鬱耐性が弱点(1.5)に変更され、保護 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ時、次のターンにて憂鬱耐性が弱点(1.5)に変更され、保護 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피격 시 다음 턴에 우울 내성이 약점(1.5)으로 변경되고, 보호 5 를 얻음\nEN:\nWhen hit, Gloom Resist turns into Gloom Weak(1.5) and gain 5 Protection"
+  },
+  {
+    "key": "856803-name",
+    "original": "青い薔薇3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い薔薇3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파란 장미 3\nEN:\nBlue Rose 3"
+  },
+  {
+    "key": "856803-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어남이 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "856804-name",
+    "original": "揺らめく憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揺らめく憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일렁이는 우울\nEN:\nShimmering Gloom"
+  },
+  {
+    "key": "856804-desc",
+    "original": "強化状態のとき、スキル効果で付与する沈潜 +1\n強化状態で死亡時、全味方へ沈潜 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のとき、スキル効果で付与する沈潜 +1\n強化状態で死亡時、全味方へ沈潜 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 스킬의 효과로 부여하는 침잠 +1.\n강화 상태에서 사망 시 모든 아군에게 침잠 횟수 4 부여\nEN:\nDuring Power-up state, inflict +1 more Sinking with Skill effects\nIf killed during Power-up state, inflict 4 Sinking Count to all allies"
+  },
+  {
+    "key": "856805-name",
+    "original": "青い薔薇5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "青い薔薇5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파란 장미 5\nEN:\nBlue Rose 5"
+  },
+  {
+    "key": "856805-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "856901-name",
+    "original": "非難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "非難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비난\nEN:\nOutlash"
+  },
+  {
+    "key": "856901-desc",
+    "original": "毎ターン開始時、味方へ呼吸 1, 呼吸 回数 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン開始時、味方へ呼吸 1, 呼吸 回数 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 아군에게 호흡 1, 호흡 횟수 1 부여\nEN:\nAt the start of every turn, apply 1 Poise and 1 Poise count to allies"
+  },
+  {
+    "key": "856902-name",
+    "original": "優越感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "優越感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우월함\nEN:\nSuperiority"
+  },
+  {
+    "key": "856902-desc",
+    "original": "このユニットが生存しているなら、各味方が自分の呼吸 1につきクリティカルダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このユニットが生存しているなら、各味方が自分の呼吸 1につきクリティカルダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 유닛이 생존해있으면, 각 아군이 자신의 호흡 1 당 크리티컬 피해량 +5%\nEN:\nIf this unit is alive, every ally gains +5% Critical Damage per Poise on self"
+  },
+  {
+    "key": "856903-name",
+    "original": "藍の薔薇3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "藍の薔薇3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남색 장미 3\nEN:\nAzure Rose 3"
+  },
+  {
+    "key": "856903-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어남이 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "856904-name",
+    "original": "膨れ上がった傲慢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "膨れ上がった傲慢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부풀어오른 오만\nEN:\nOverinflated Pride"
+  },
+  {
+    "key": "856904-desc",
+    "original": "強化状態のときターン開始時、スキル効果で付与する呼吸 +1\n強化状態で死亡時、全味方へ呼吸 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のときターン開始時、スキル効果で付与する呼吸 +1\n強化状態で死亡時、全味方へ呼吸 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 턴 시작 시, 스킬의 효과로 부여하는 호흡 +1.\n강화 상태에서 사망 시 모든 적에게 호흡 횟수 4 부여\nEN:\nIf starting a turn in a Power-up state, gain +1 more Poise with Skill effects\nIf killed during Power-up state, apply 4 Poise Count to all enemies"
+  },
+  {
+    "key": "856905-name",
+    "original": "藍の薔薇5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "藍の薔薇5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남색 장미 5\nEN:\nAzure Rose 5"
+  },
+  {
+    "key": "856905-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "857001-name",
+    "original": "猜忌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猜忌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시기\nEN:\nJealousness"
+  },
+  {
+    "key": "857001-desc",
+    "original": "毎ターン開始時、ランダムな味方2名へ充電 回数を1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン開始時、ランダムな味方2名へ充電 回数を1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 무작위 아군 2명에게 충전 횟수 1 부여\nEN:\nAt the start of the turn, apply 1 Charge Count to 2 random allies"
+  },
+  {
+    "key": "857002-name",
+    "original": "劣等感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "劣等感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n열등감\nEN:\nInferiority Complex"
+  },
+  {
+    "key": "857002-desc",
+    "original": "このユニットが生存しているなら、各味方が自分の充電回数 1につきダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このユニットが生存しているなら、各味方が自分の充電回数 1につきダメージ量 +5%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 유닛이 생존해있으면, 각 아군이 자신의 충전 횟수 1 당 피해량 +5%\nEN:\nIf this unit is alive, each ally gains +5% Critical Damage per Charge Count on self"
+  },
+  {
+    "key": "857003-name",
+    "original": "紫の薔薇3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紫の薔薇3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보란 장미 3\nEN:\nPurple Rose 3"
+  },
+  {
+    "key": "857003-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어남이 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "857004-name",
+    "original": "ぎらつく嫉妬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ぎらつく嫉妬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n번뜩이는 질투\nEN:\nGlaring Envy"
+  },
+  {
+    "key": "857004-desc",
+    "original": "強化状態のときターン開始時、スキル効果で付与する充電回数 +1\n強化状態で死亡時、全味方へ充電 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化状態のときターン開始時、スキル効果で付与する充電回数 +1\n強化状態で死亡時、全味方へ充電 回数4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 상태일 때 턴 시작 시, 스킬의 효과로 부여하는 충전 횟수 +1.\n강화 상태에서 사망 시 모든 적에게 충전 횟수 4 부여\nEN:\nIf starting a turn in a Power-up state, inflict +1 more Charge Count with Skill effects\nIf killed during Power-up state, apply 4 Charge Count to all enemies"
+  },
+  {
+    "key": "857005-name",
+    "original": "紫の薔薇5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "紫の薔薇5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보란 장미 5\nEN:\nPurple Rose 5"
+  },
+  {
+    "key": "857005-desc",
+    "original": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板の本体を倒すと死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판 본체 잡으면 사망\nEN:\nDies when the Core of Sign of Roses is killed"
+  },
+  {
+    "key": "855605-name",
+    "original": "満開の罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "満開の罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n활짝 핀 죄악\nEN:\nBlossoming Sins"
+  },
+  {
+    "key": "855605-desc",
+    "original": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "咲き出す罪 が4になると今回の戦闘の間、強化状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피어나는 죄 가 4가 되면 이번 전투동안 강화 상태가 됨\nEN:\nIf at 4 Blooming Sin, enter Power-up state for this encounter"
+  },
+  {
+    "key": "855606-name",
+    "original": "蔓に咲いた薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "蔓に咲いた薔薇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n덩쿨에 핀 장미\nEN:\nRose on a Vine"
+  },
+  {
+    "key": "855606-desc",
+    "original": "薔薇の表示板が制圧されると、共に制圧される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "薔薇の表示板が制圧されると、共に制圧される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n장미 표지판이 제압되면 함께 제압됨\nEN:\nDies when Sign of Roses is defeated"
+  },
+  {
+    "key": "854403-name",
+    "original": "燃え移る火種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "燃え移る火種\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n옮겨붙는 불씨\nEN:\nSpreading Ember"
+  },
+  {
+    "key": "854403-desc",
+    "original": "ターン終了時、自分に<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>があれば<sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">絡み付いた呪いの札</color></link></u>を持つ全ての対象へ、保有している<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>だけ次のターンに火傷 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、自分に<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>があれば<sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">絡み付いた呪いの札</color></link></u>を持つ全ての対象へ、保有している<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">火傷</color></link></u>だけ次のターンに火傷 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 자신에게 &lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>이 있다면, &lt;sprite name=\"WrappedCurseTagRe\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"WrappedCurseTagRe\"&gt;얽혀온 저주 부적&lt;/color&gt;&lt;/link&gt;</u>을 가지고 있는 모든 대상에게 가지고 있는 &lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;화상&lt;/color&gt;&lt;/link&gt;</u>만큼 다음 턴에 화상 부여\nEN:\nAt the end of the turn, if this unit has &lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u>, inflict the same amount of &lt;sprite name=\"Combustion\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Combustion\"&gt;Burn&lt;/color&gt;&lt;/link&gt;</u> to all units with &lt;sprite name=\"WrappedCurseTagRe\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"WrappedCurseTagRe\"&gt;Entangled Curse Talisman&lt;/color&gt;&lt;/link&gt;</u> next turn"
+  },
+  {
+    "key": "855607-name",
+    "original": "罪を宿した茨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "罪を宿した茨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죄를 머금은 가시 덩쿨\nEN:\nSin-drenched Brambles"
+  },
+  {
+    "key": "855607-desc",
+    "original": "毎ターン、全部位が冠 効果を持つ囚人の数だけ保護を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "毎ターン、全部位が冠 効果を持つ囚人の数だけ保護を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴마다 모든 부위가 면류관 효과를 가진 수감자 수만큼 보호 를 얻음\nEN:\nEvery turn, all parts gain Protection equal to the number of Sinners with the Crown of Thorns effect"
+  }
+]

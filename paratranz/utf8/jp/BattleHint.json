@@ -1,0 +1,247 @@
+[
+  {
+    "key": "1-content",
+    "original": "鏡ダンジョンの報酬を受け取るときには、エンケファリンモジュールが必要です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鏡ダンジョンの報酬を受け取るときには、エンケファリンモジュールが必要です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울던전 보상 수령 시에는 엔케팔린 모듈이 필요합니다.\nEN:\nIt costs Enkephalin Modules to claim rewards after completing a Mirror Dungeon expedition."
+  },
+  {
+    "key": "2-content",
+    "original": "全てのスキルは1枚以上のコインを持っています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全てのスキルは1枚以上のコインを持っています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 스킬은 1개 이상의 코인을 가지고 있습니다.\nEN:\nEvery skill consists of at least 1 Coin."
+  },
+  {
+    "key": "3-content",
+    "original": "コインは表面が出るか、裏面が出るかによって威力が増減します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コインは表面が出るか、裏面が出るかによって威力が増減します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인은 앞면과 뒷면에 따라 위력이 감소하거나 증가합니다.\nEN:\nA Coin’s Power may increase or decrease depending on the face it lands on."
+  },
+  {
+    "key": "4-content",
+    "original": "コインの裏表はスキル効果の活性化にも影響を及ぼします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "コインの裏表はスキル効果の活性化にも影響を及ぼします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인의 앞면과 뒷면은 스킬 효과의 활성화에도 영향을 줍니다.\nEN:\nCoin faces also affect the activation of certain skill effects."
+  },
+  {
+    "key": "5-content",
+    "original": "精神力が一定以下になると、パニック状態に陥ります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が一定以下になると、パニック状態に陥ります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 일정 이하로 떨어지면, 패닉 상태에 빠지게 됩니다.\nEN:\nUnits can fall into a state of Panic when their Sanity falls below a certain threshold."
+  },
+  {
+    "key": "6-content",
+    "original": "精神力が最低値になった囚人は、E.G.Oに侵蝕されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が最低値になった囚人は、E.G.Oに侵蝕されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 최저 수치가 된 수감자는 E.G.O에 침식됩니다.\nEN:\nSinners with low Sanity will be corroded by E.G.O."
+  },
+  {
+    "key": "7-content",
+    "original": "E.G.Oに侵蝕された囚人は、敵味方を区別せずに攻撃しますのでご注意ください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oに侵蝕された囚人は、敵味方を区別せずに攻撃しますのでご注意ください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O에 침식된 수감자는 아군과 적군을 구별 없이 공격하니 주의하세요.\nEN:\nCorroded Sinners will lash out indiscriminately, so be careful."
+  },
+  {
+    "key": "8-content",
+    "original": "状態異常にて付与するダメージ量は「威力」として表示されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "状態異常にて付与するダメージ量は「威力」として表示されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상태 이상의 위력은 상태 이상이 주는 피해량을 표시합니다.\nEN:\nA status effect’s Potency indicates how much damage it will deal."
+  },
+  {
+    "key": "9-content",
+    "original": "使用したスキルアイコン(罪)はE.G.O資源となり、E.G.Oを使用するための媒体になります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "使用したスキルアイコン(罪)はE.G.O資源となり、E.G.Oを使用するための媒体になります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용한 스킬 아이콘(죄)은 E.G.O 자원으로 모여 E.G.O를 사용하는데 매개체가 됩니다.\nEN:\nAfter use, skills are converted into E.G.O resources corresponding to their Sin Affinity."
+  },
+  {
+    "key": "10-content",
+    "original": "同じ幻想体を何度も倒すと観察レベルが上昇し、幻想体へ与えるダメージ量が増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同じ幻想体を何度も倒すと観察レベルが上昇し、幻想体へ与えるダメージ量が増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n같은 환상체를 여러 번 잡으면 관찰 레벨이 올라 환상체에게 주는 피해량이 증가합니다.\nEN:\nDefeating an Abnormality multiple times raises its Observation Level, allowing you to better damage it in future encounters."
+  },
+  {
+    "key": "11-content",
+    "original": "資源が必要なスキルは、資源が無いときに発動がキャンセルされるので注意が必要です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "資源が必要なスキルは、資源が無いときに発動がキャンセルされるので注意が必要です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자원이 필요한 스킬은 자원이 없을 때 스킬이 취소되니 주의가 필요합니다.\nEN:\nSkills that require resources will be canceled if the character is missing the required amount."
+  },
+  {
+    "key": "12-content",
+    "original": "速度はターン毎に最小～最大値のランダムな値に決まります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度はターン毎に最小～最大値のランダムな値に決まります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도는 매 턴마다 최솟값, 최댓값 사이의 랜덤한 값으로 정해집니다.\nEN:\nSpeed is randomly determined within a given range each turn."
+  },
+  {
+    "key": "13-content",
+    "original": "速度によって味方と敵の陣形が変わります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度によって味方と敵の陣形が変わります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도에 따라 아군과 적의 진형 배치가 변경됩니다.\nEN:\nSpeed determines the formation of units in combat."
+  },
+  {
+    "key": "14-content",
+    "original": "戦闘時、人格は装備しているE.G.O.のうち最も低い属性耐性を持った状態で始まります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘時、人格は装備しているE.G.O.のうち最も低い属性耐性を持った状態で始まります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시 인격은 착용한 가장 낮은 등급 E.G.O의 속성 내성을 가지고 시작합니다.\nEN:\nAt the start of battle, your characters assume the Sin Resistances of the lowest grade E.G.O they have equipped."
+  },
+  {
+    "key": "15-content",
+    "original": "E.G.Oを使用すると、E.G.Oの持つ最も高い属性耐性に変更および維持されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oを使用すると、E.G.Oの持つ最も高い属性耐性に変更および維持されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O를 사용하면 E.G.O가 가지고 있는 가장 높은 속성 내성으로 변경 및 유지됩니다.\nEN:\nAfter a Sinner uses E.G.O, their Sin Resistances are updated; however, any values that would be lowered will instead remain as they were."
+  },
+  {
+    "key": "16-content",
+    "original": "防御スキル使用時、人格スロットの最下段にあるスキルまたはE.G.Oが防御スキルへと変更されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御スキル使用時、人格スロットの最下段にあるスキルまたはE.G.Oが防御スキルへと変更されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 스킬 사용 시 인격 슬롯의 최하단에 있는 스킬 혹은 E.G.O가 방어 스킬로 변경됩니다.\nEN:\nA generated Defense skill will fill in the Sinner’s bottom skill slot, replacing the current skill or E.G.O."
+  },
+  {
+    "key": "17-content",
+    "original": "E.G.Oの使用をキャンセルすると、使用した資源は返還されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oの使用をキャンセルすると、使用した資源は返還されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 사용을 취소하면 사용한 자원은 반환됩니다.\nEN:\nCancelling E.G.O before using it will return its resources."
+  },
+  {
+    "key": "18-content",
+    "original": "同じ属性スキルが2つ以上繋がれば、罪悪共鳴が発動して強力なダメージを与えます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同じ属性スキルが2つ以上繋がれば、罪悪共鳴が発動して強力なダメージを与えます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n같은 속성 스킬이 2개 이상 연결되었다면, 죄악 공명이 발동해 강한 피해를 줍니다.\nEN:\nIf 2+ skills of the same Sin are in a chain, Sin Resonance activates, strengthening your attacks."
+  },
+  {
+    "key": "19-content",
+    "original": "同じ属性スキルが3つ以上連続で繋がれば、完全共鳴が発動してより強力なダメージを与えます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "同じ属性スキルが3つ以上連続で繋がれば、完全共鳴が発動してより強力なダメージを与えます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n같은 속성이 연속으로 3개 이상 연결되었다면, 완전 공명이 발동해 더 강한 피해를 줍니다.\nEN:\nIf 3+ skills of the same Sin are in direct succession, Absolute Resonance activates, strengthening your attacks."
+  },
+  {
+    "key": "20-content",
+    "original": "マッチが続くほど、最終的な被・与ダメージが増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチが続くほど、最終的な被・与ダメージが増加します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합이 높아질수록 최종적으로 받거나 주는 피해가 증가합니다.\nEN:\nThe longer a Clash goes on, the higher the victor’s final damage will be."
+  },
+  {
+    "key": "21-content",
+    "original": "混乱区間まで体力が消耗されると攻撃タイプ耐性が脆弱に変わり、次のターンまで行動しなくなります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱区間まで体力が消耗されると攻撃タイプ耐性が脆弱に変わり、次のターンまで行動しなくなります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 구간까지 체력이 소모되면, 공격 유형 내성이 취약으로 변경되고 다음 턴까지 행동하지 않습니다.\nEN:\nWhen a character’s health falls below the Stagger Threshold, they become vulnerable to all attacks and can’t act until the end of the following turn."
+  },
+  {
+    "key": "22-content",
+    "original": "ダンジョン進行時、セーブルームでダメージを回復して探査進捗を記録することが出来ます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダンジョン進行時、セーブルームでダメージを回復して探査進捗を記録することが出来ます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n던전 진행 시 세이브 룸에서 피해를 회복하고 던전 탐사 진행을 저장할 수 있습니다.\nEN:\nIn Dungeons, you can heal up and save your progress at Checkpoints."
+  },
+  {
+    "key": "23-content",
+    "original": "全ての人格はバトルパッシブとサポートパッシブを持っています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全ての人格はバトルパッシブとサポートパッシブを持っています。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 인격은 전투 패시브와 서포트 패시브를 가지고 있습니다.\nEN:\nEvery Identity has a Combat Passive and a Support Passive."
+  },
+  {
+    "key": "24-content",
+    "original": "戦闘に参加した人格はバトルパッシブを使用します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘に参加した人格はバトルパッシブを使用します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투에 참여한 인격은 전투 패시브를 사용합니다.\nEN:\nIdentities participating in combat use Combat Passives."
+  },
+  {
+    "key": "25-content",
+    "original": "戦闘に参加していない人格のパッシブは、サポートパッシブとして適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘に参加していない人格のパッシブは、サポートパッシブとして適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투에 참여하지 않은 인격의 패시브는 서포트 패시브로 적용됩니다.\nEN:\nSinners who are not directly participating in battle will provide aid with their Support Passives."
+  },
+  {
+    "key": "26-content",
+    "original": "幻想体は部位毎に耐性が異なり、使用するスキルも異なります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "幻想体は部位毎に耐性が異なり、使用するスキルも異なります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n환상체는 부위마다 내성과 사용하는 스킬이 다릅니다.\nEN:\nAn Abnormality’s Parts may have differing Resistances and behavior."
+  },
+  {
+    "key": "27-content",
+    "original": "集中戦闘中には選択肢が発生し、結果によって様々な効果やE.G.Oギフトを得ることが出来ます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "集中戦闘中には選択肢が発生し、結果によって様々な効果やE.G.Oギフトを得ることが出来ます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집중 전투 중에는 선택지가 발생하고 결과에 따라 다양한 효과나 E.G.O 기프트를 얻을 수 있습니다.\nEN:\nWhen confronting Abnormalities in Focused Encounters, you may come across situations requiring you to make a choice; depending on the outcome, you might receive various effects or even E.G.O Gifts."
+  },
+  {
+    "key": "28-content",
+    "original": "選択肢の要求する罪を持っていなくても成功することがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢の要求する罪を持っていなくても成功することがあります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지가 요구하는 죄를 가지고 있지 않더라도 성공할 수 있습니다.\nEN:\nIt’s still possible to pass a check even without the requisite Sin."
+  },
+  {
+    "key": "29-content",
+    "original": "ダンジョンを進めながら、選択肢と戦闘によってE.G.Oギフトを得ることが出来ます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダンジョンを進めながら、選択肢と戦闘によってE.G.Oギフトを得ることが出来ます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n던전을 진행하면서 선택지와 전투로 E.G.O 기프트를 얻을 수 있습니다.\nEN:\nYou can obtain E.G.O Gifts from both checks and battles as you progress through a Dungeon."
+  },
+  {
+    "key": "30-content",
+    "original": "敵は精神力が消耗されてパニック状態になると、マイナス効果が入ります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵は精神力が消耗されてパニック状態になると、マイナス効果が入ります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적은 정신력이 소모되어 패닉 상태가 되면, 부정적인 효과를 가지게 됩니다.\nEN:\nWhen an enemy runs out of Sanity and falls into Panic, they suffer negative effects."
+  },
+  {
+    "key": "31-content",
+    "original": "混乱状態で、次の混乱区間までダメージを与えることができれば、追加ダメージを与えることができます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱状態で、次の混乱区間までダメージを与えることができれば、追加ダメージを与えることができます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태에서 다음 흐트러짐 구간까지 피해를 준다면 추가 피해를 줍니다.\nEN:\nIf a Staggered character’s HP falls below the next Stagger Threshold, they’ll take extra damage."
+  },
+  {
+    "key": "32-content",
+    "original": "状態異常のターン持続数は「状態異常の回数」として表示されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "状態異常のターン持続数は「状態異常の回数」として表示されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상태 이상의 횟수는 상태 이상이 유지되는 턴 수를 표시합니다.\nEN:\nA status effect’s Count indicates how long it will last or how many times it will activate during combat."
+  },
+  {
+    "key": "33-content",
+    "original": "E.G.Oスキルは操作パネルの最下段から生成されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oスキルは操作パネルの最下段から生成されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 스킬은 조작 패널의 최하단에서부터 생성됩니다.\nEN:\nE.G.O skills are placed at the bottom of a Sinner’s column."
+  },
+  {
+    "key": "34-content",
+    "original": "お互いを攻撃スキルで攻撃するとき、マッチが発生します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "お互いを攻撃スキルで攻撃するとき、マッチが発生します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서로 공격 스킬로 공격할 때 합이 발생합니다.\nEN:\nClashes occur when two Attack Skills target each other."
+  },
+  {
+    "key": "34-content-dup1",
+    "original": "バトルパッシブとサポートパッシブを活性化させるには、特定の罪を繋ぐか所持する必要があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バトルパッシブとサポートパッシブを活性化させるには、特定の罪を繋ぐか所持する必要があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패시브와 서포트 패시브는 활성화되기 위해서는 특정 죄를 연결하거나 소유해야 합니다.\nEN:\nCombat Passives and Support Passives require certain Sin Affinities to be chained or their resources owned to activate."
+  }
+]

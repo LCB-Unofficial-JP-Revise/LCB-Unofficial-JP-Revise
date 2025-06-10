@@ -1,0 +1,1381 @@
+[
+  {
+    "key": "battle_battleunit_guard-content",
+    "original": "防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어\nEN:\nGuard"
+  },
+  {
+    "key": "popup_message_ego_seat_lack-content",
+    "original": "E.G.Oを使用することが出来ません。空きを確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oを使用することが出来ません。空きを確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에고를 사용할 수 없는 상태입니다. 자리를 확인해주세요.\nEN:\nCannot use this E.G.O. Please check available space."
+  },
+  {
+    "key": "popup_message_ego_resources_lack-content",
+    "original": "E.G.Oを使用することが出来ません。文様を確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oを使用することが出来ません。文様を確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n에고를 사용할 수 없는 상태입니다. 문양을 확인해주세요.\nEN:\nCannot use this E.G.O. Please check your resources."
+  },
+  {
+    "key": "option_title-content",
+    "original": "設定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "設定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n설정\nEN:\nSettings"
+  },
+  {
+    "key": "option_btn_exit-content",
+    "original": "ステージから退出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージから退出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 나가기\nEN:\nExit Stage"
+  },
+  {
+    "key": "option_btn_statistical-content",
+    "original": "戦闘リザルト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘リザルト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 통계\nEN:\nBattle Data"
+  },
+  {
+    "key": "creature_destroy_notice-content",
+    "original": "部位破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部位破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부위파괴\nEN:\nPart Broken"
+  },
+  {
+    "key": "oneside_attack-content",
+    "original": "一方攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一方攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일방공격\nEN:\nUnopposed"
+  },
+  {
+    "key": "guard-content",
+    "original": "防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어\nEN:\nGuard"
+  },
+  {
+    "key": "power-content",
+    "original": "威力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "威力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위력\nEN:\nPotency"
+  },
+  {
+    "key": "require-content",
+    "original": "必要\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必要\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n필요\nEN:\nReq."
+  },
+  {
+    "key": "battle_log_atk_hp-content",
+    "original": "{0}が{1}へ{2}のダメージ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}が{1}へ{2}のダメージ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}가(이) {1}에게 {2}의 피해!\nEN:\n{0} deals {2} damage to {1}!"
+  },
+  {
+    "key": "battle_log_atk_mp-content",
+    "original": "{0}が{1}へ{2}の精神力ダメージ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}が{1}へ{2}の精神力ダメージ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}가(이) {1}에게 {2}의 정신력 피해!\nEN:\n{0} deals {2} damage to {1}’s sanity!"
+  },
+  {
+    "key": "battle_log_recover_hp-content",
+    "original": "{0}が{1}を使用し、体力を{2}回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}が{1}を使用し、体力を{2}回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}가(이) {1}을 사용하여 체력{2} 회복\nEN:\n{0} healed {2} HP using {1}."
+  },
+  {
+    "key": "battle_log_guard-content",
+    "original": "{0}が防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}が防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 방어 사용\nEN:\n{0} raised their guard."
+  },
+  {
+    "key": "battle_log_buf_to_other-content",
+    "original": "{0}が{1}へ{2}を{3}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}が{1}へ{2}を{3}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}가(이) {1}에게 {2}를(을) {3} 부여\nEN:\n{0} applied {3} {2} to {1}."
+  },
+  {
+    "key": "battle_log_buf_to_self-content",
+    "original": "{0}が自分に{1}を{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}が自分に{1}を{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}가(이) 자신에게 {1}를(을) {2} 부여\nEN:\n{0} applied {2} {1} to themself."
+  },
+  {
+    "key": "battle_log_use_ego-content",
+    "original": "{0}のE.G.O：{1}覚醒！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}のE.G.O：{1}覚醒！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}의 E.G.O:{1} 각성!!\nEN:\n{0} awakens {1}!!"
+  },
+  {
+    "key": "battle_log_use_ego_corrosion-content",
+    "original": "{0}のE.G.O：{1}侵蝕！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}のE.G.O：{1}侵蝕！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}의 E.G.O:{1} 침식!!\nEN:\n{1} corrodes {0}!!"
+  },
+  {
+    "key": "battle_log_personality_corrosion-content",
+    "original": "{0}の精神崩壊！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}の精神崩壊！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}의 정신붕괴!!\nEN:\n{0} has a breakdown!!"
+  },
+  {
+    "key": "battle_log_low_morale-content",
+    "original": "{0}の士気低下！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}の士気低下！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}의 사기 저하!\nEN:\n{0}’s morale is low!"
+  },
+  {
+    "key": "battle_log_panic-content",
+    "original": "{0}のパニック！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}のパニック！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}의 패닉!!\nEN:\n{0} is panicking!!"
+  },
+  {
+    "key": "choice_result_success-content",
+    "original": "判定成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "判定成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판정 성공\nEN:\nCheck Passed"
+  },
+  {
+    "key": "choice_result_fail-content",
+    "original": "判定失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "判定失敗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판정 실패\nEN:\nCheck Failed"
+  },
+  {
+    "key": "choice_result_skip-content",
+    "original": "判定スキップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "判定スキップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판정 넘김\nEN:\nCheck Skipped"
+  },
+  {
+    "key": "info_button_detailinfo-content",
+    "original": "詳細情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "詳細情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상세 정보\nEN:\nDetails"
+  },
+  {
+    "key": "info_button_skill-content",
+    "original": "スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬\nEN:\nSkill"
+  },
+  {
+    "key": "info_button_awakenskill-content",
+    "original": "覚醒スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覚醒スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각성 스킬\nEN:\nAwakening"
+  },
+  {
+    "key": "info_button_erosionskill-content",
+    "original": "侵蝕スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "侵蝕スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침식 스킬\nEN:\nCorrosion"
+  },
+  {
+    "key": "resonance-content",
+    "original": "共鳴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "共鳴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공명\nEN:\nRes"
+  },
+  {
+    "key": "perfect_resonance-content",
+    "original": "完全共鳴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完全共鳴\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완전공명\nEN:\nA-Res"
+  },
+  {
+    "key": "break-content",
+    "original": "混乱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐\nEN:\nSTAGGER"
+  },
+  {
+    "key": "mental_break-content",
+    "original": "精神崩壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神崩壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신붕괴\nEN:\nBREAKDOWN"
+  },
+  {
+    "key": "low_morale-content",
+    "original": "士気低下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "士気低下\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사기저하\nEN:\nLow Morale"
+  },
+  {
+    "key": "panic-content",
+    "original": "パニック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パニック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n패닉\nEN:\nPanic"
+  },
+  {
+    "key": "status-content",
+    "original": "ステータス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステータス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이터스\nEN:\nStatus"
+  },
+  {
+    "key": "status_abnormal-content",
+    "original": "状態異常\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "状態異常\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상태이상\nEN:\nEffects"
+  },
+  {
+    "key": "immunity_information-content",
+    "original": "耐性情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "耐性情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내성 정보\nEN:\nResistances"
+  },
+  {
+    "key": "awaken_ego_skill-content",
+    "original": "覚醒スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覚醒スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각성 스킬\nEN:\nAwakening"
+  },
+  {
+    "key": "erosion_ego_skill-content",
+    "original": "侵蝕スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "侵蝕スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침식 스킬\nEN:\nCorrosion"
+  },
+  {
+    "key": "turnplace_test_name-content",
+    "original": "残されたロボトミー支部のどこか\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残されたロボトミー支部のどこか\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남겨진 로보토미 지부 어딘가\nEN:\nAn Abandoned LC Branch"
+  },
+  {
+    "key": "death-content",
+    "original": "死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망\nEN:\nDEAD"
+  },
+  {
+    "key": "slash-content",
+    "original": "斬撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격\nEN:\nSlash"
+  },
+  {
+    "key": "penetrate-content",
+    "original": "貫通\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫通\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관통\nEN:\nPierce"
+  },
+  {
+    "key": "hit-content",
+    "original": "打撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격\nEN:\nBlunt"
+  },
+  {
+    "key": "action_disable-content",
+    "original": "行動不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "行動不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n행동불가\nEN:\nImmobile"
+  },
+  {
+    "key": "ab_event_select_character-content",
+    "original": "囚人選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자 선택\nEN:\nSelect Sinner"
+  },
+  {
+    "key": "ab_event_select_desc-content",
+    "original": "選択内容\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択内容\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 내용\nEN:\nInfo"
+  },
+  {
+    "key": "ab_event_rate-content",
+    "original": "成功確率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成功確率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성공 확률\nEN:\nSuccess Rate"
+  },
+  {
+    "key": "formet_event_rate-content",
+    "original": "成功確率 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成功確率 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성공 확률 : {0}\nEN:\nSuccess Rate: {0}"
+  },
+  {
+    "key": "ab_event_decision-content",
+    "original": "判定開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "判定開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판정 시작\nEN:\nCommence"
+  },
+  {
+    "key": "ab_event_need-content",
+    "original": "必要\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "必要\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n필요\nEN:\nReq."
+  },
+  {
+    "key": "ab_battle_resume-content",
+    "original": "戦闘再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 재개\nEN:\nResume Battle"
+  },
+  {
+    "key": "info_button_choice_log-content",
+    "original": "選択肢ログ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢ログ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지 로그\nEN:\nDecision Log"
+  },
+  {
+    "key": "info_button_story-content",
+    "original": "ストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ストーリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스토리\nEN:\nStory"
+  },
+  {
+    "key": "info_button_ego-content",
+    "original": "E.G.O\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O\nEN:\nE.G.O"
+  },
+  {
+    "key": "dungeon_encounter_start-content",
+    "original": "開始点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始点\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작점\nEN:\nStart"
+  },
+  {
+    "key": "dungeon_encounter_battle-content",
+    "original": "一般戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투\nEN:\nRegular Encounter"
+  },
+  {
+    "key": "dungeon_encounter_ab_battle-content",
+    "original": "集中戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "集中戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집중 전투\nEN:\nFocused Encounter"
+  },
+  {
+    "key": "dungeon_encounter_hard_battle-content",
+    "original": "危険戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "危険戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위험 전투\nEN:\nRisky Encounter"
+  },
+  {
+    "key": "dungeon_encounter_event-content",
+    "original": "イベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트\nEN:\nEvent"
+  },
+  {
+    "key": "dungeon_encounter_save-content",
+    "original": "セーブポイント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "セーブポイント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n세이브 포인트\nEN:\nCheckpoint"
+  },
+  {
+    "key": "dungeon_encounter_boss-content",
+    "original": "フロアボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "フロアボス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n층 보스\nEN:\nFloor Boss"
+  },
+  {
+    "key": "bottom_winrate-content",
+    "original": "勝率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "勝率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n승률\nEN:\nWin Rate"
+  },
+  {
+    "key": "bottom_dmg-content",
+    "original": "ダメージ量\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダメージ量\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량\nEN:\nDamage"
+  },
+  {
+    "key": "ab_event_next-content",
+    "original": "次へ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "次へ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음으로\nEN:\nProceed"
+  },
+  {
+    "key": "explanatory-content",
+    "original": "カテゴリ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カテゴリ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n범례\nEN:\nLegend"
+  },
+  {
+    "key": "get_ego_gift-content",
+    "original": "E.G.Oギフト獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフト獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트 획득\nEN:\nE.G.O Gift GET"
+  },
+  {
+    "key": "get_ego_gift_desc-content",
+    "original": "E.G.Oギフトを獲得しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oギフトを獲得しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 기프트를 획득했습니다.\nEN:\nE.G.O Gift GET!"
+  },
+  {
+    "key": "selection-content",
+    "original": "選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택지\nEN:\nChoices"
+  },
+  {
+    "key": "result-content",
+    "original": "結果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "結果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결과\nEN:\nResult"
+  },
+  {
+    "key": "choice_total_rate-content",
+    "original": "成功確率(トータル)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成功確率(トータル)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총 성공 확률\nEN:\nTotal Success Rate"
+  },
+  {
+    "key": "enter-content",
+    "original": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "入場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n입장\nEN:\nEnter"
+  },
+  {
+    "key": "recommend_level-content",
+    "original": "推奨レベル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "推奨レベル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추천 레벨\nEN:\nIdeal LVL"
+  },
+  {
+    "key": "enemy_info-content",
+    "original": "敵情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 정보\nEN:\nEnemy Info"
+  },
+  {
+    "key": "enter_clear_requirement-content",
+    "original": "EXクリア条件\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "EXクリア条件\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nEX 클리어 조건\nEN:\nExtra Objective"
+  },
+  {
+    "key": "choice_event_resume-content",
+    "original": "戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌아가기\nEN:\nContinue"
+  },
+  {
+    "key": "crime_state_judgment-content",
+    "original": "{0}判定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}判定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 판정\nEN:\n{0} Check"
+  },
+  {
+    "key": "choice_personality-content",
+    "original": "判定を進行する人格を選択してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "判定を進行する人格を選択してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n판정을 진행할 인격을 선택하세요\nEN:\nChoose a character to perform the check with:"
+  },
+  {
+    "key": "success_result-content",
+    "original": "成功値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "成功値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성공 값\nEN:\nThreshold"
+  },
+  {
+    "key": "expectation_result-content",
+    "original": "予想値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予想値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예상 값\nEN:\nPredicted"
+  },
+  {
+    "key": "outcome_result-content",
+    "original": "結果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "結果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결과 값\nEN:\nOutcome"
+  },
+  {
+    "key": "choice_event_percent-content",
+    "original": "予想確率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "予想確率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n예상 확률\nEN:\nOdds"
+  },
+  {
+    "key": "skill_expectition_value-content",
+    "original": "スキル予想値： {0}-{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル予想値： {0}-{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 예상 값 {0}-{1}\nEN:\nPredicted Range: {0}-{1}"
+  },
+  {
+    "key": "skill_expectition_or_value-content",
+    "original": "スキル予想値： {0} or {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル予想値： {0} or {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 예상 값 {0}or{1}\nEN:\nPredicted Value: {0} / {1}"
+  },
+  {
+    "key": "skill_correction_value-content",
+    "original": "{0} 補正値： {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0} 補正値： {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 보정 값 {1}\nEN:\n{0} Modifier: {1}"
+  },
+  {
+    "key": "correction_based_on_association-content",
+    "original": "{0}所属補正値{1}(, )\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}所属補正値{1}(, )\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 소속 보정 값 {1}(, )\nEN:\n{0} Faction Modifier: {1}(, )"
+  },
+  {
+    "key": "action_choice_event_result_example_battle-content",
+    "original": "戦闘発生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘発生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 발생\nEN:\nCombat Encounter"
+  },
+  {
+    "key": "action_choice_event_result_example_event-content",
+    "original": "イベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트\nEN:\nEvent"
+  },
+  {
+    "key": "action_choice_event_result_example_resume-content",
+    "original": "戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戻る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n돌아가기\nEN:\nContinue"
+  },
+  {
+    "key": "areaatk_attack-content",
+    "original": "広域スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "広域スキル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n광역 스킬\nEN:\nAoE Skills"
+  },
+  {
+    "key": "enter_battle-content",
+    "original": "戦闘開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작\nEN:\nCommence Battle"
+  },
+  {
+    "key": "choice_event_five_percent-content",
+    "original": "5％の確率で成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5％の確率で成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5% 확률로 성공\nEN:\n5% Chance"
+  },
+  {
+    "key": "choice_event_five_percent_success-content",
+    "original": "5％の確率で判定成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5％の確率で判定成功\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5% 확률로 판정 성공\nEN:\n5% Chance of Success"
+  },
+  {
+    "key": "skillinfo_passivetitle-content",
+    "original": "パッシブ効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "パッシブ効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지속 효과\nEN:\nPassives"
+  },
+  {
+    "key": "skillinfo_coinabilitytitle-content",
+    "original": "スキル効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 효과\nEN:\nSkill Effects"
+  },
+  {
+    "key": "dungeon_save_desc-content",
+    "original": "セーブポイント到達。\nダンジョン進行状況が保存されました。\n全囚人が回復します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "セーブポイント到達。\nダンジョン進行状況が保存されました。\n全囚人が回復します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n세이브 포인트 도달.\n던전 진행 상황이 저장되었습니다.\n모든 수감자가 회복됩니다.\nEN:\nCheckpoint reached.\nDungeon progress has been saved.\nAll Sinners have been healed."
+  },
+  {
+    "key": "battle_battleunit_evade-content",
+    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회피\nEN:\nEvade"
+  },
+  {
+    "key": "battle_battleunit_counter-content",
+    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n반격\nEN:\nCounter"
+  },
+  {
+    "key": "battle_operation_defence-content",
+    "original": "守備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비\nEN:\nDefense"
+  },
+  {
+    "key": "battle_increase_mp-content",
+    "original": "精神力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 증가\nEN:\nSanity Up"
+  },
+  {
+    "key": "battle_decrease_mp-content",
+    "original": "精神力減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 감소\nEN:\nSanity Down"
+  },
+  {
+    "key": "dungeon_encounter_type_start-content",
+    "original": "開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "開始\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작\nEN:\nStart"
+  },
+  {
+    "key": "dungeon_encounter_type_battle-content",
+    "original": "一般戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一般戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일반 전투\nEN:\nRegular Encounter"
+  },
+  {
+    "key": "dungeon_encounter_type_ab_battle-content",
+    "original": "集中戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "集中戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n집중 전투\nEN:\nFocused Encounter"
+  },
+  {
+    "key": "dungeon_encounter_type_hard_battle-content",
+    "original": "危険戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "危険戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위험 전투\nEN:\nRisky Encounter"
+  },
+  {
+    "key": "dungeon_encounter_type_event-content",
+    "original": "イベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트\nEN:\nEvent"
+  },
+  {
+    "key": "dungeon_encounter_type_save-content",
+    "original": "セーブルーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "セーブルーム\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n세이브룸\nEN:\nSaferoom"
+  },
+  {
+    "key": "dungeon_encounter_type_boss-content",
+    "original": "ボス戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ボス戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보스 전투\nEN:\nBoss Encounter"
+  },
+  {
+    "key": "battle_mp-content",
+    "original": "精神力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력\nEN:\nSanity"
+  },
+  {
+    "key": "abnormality_part_hp-content",
+    "original": "部位体力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "部位体力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부위 체력\nEN:\nPart HP"
+  },
+  {
+    "key": "abnormality_research_level-content",
+    "original": "観察レベル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "観察レベル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관찰 단계\nEN:\nObs. Level"
+  },
+  {
+    "key": "abnormality_no_research_level-content",
+    "original": "観察レベルなし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "観察レベルなし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관찰 단계 없음\nEN:\nLacking Data"
+  },
+  {
+    "key": "Insufficient_conditions-content",
+    "original": "条件未達成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "条件未達成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n조건 불충족\nEN:\nConditions Unmet"
+  },
+  {
+    "key": "skillinfo_keyword-content",
+    "original": "キーワード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キーワード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n키워드\nEN:\nKeywords"
+  },
+  {
+    "key": "ability_turn-content",
+    "original": "回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "回数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n횟수\nEN:\nCount"
+  },
+  {
+    "key": "ego_erosion-content",
+    "original": "E.G.O侵蝕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.O侵蝕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 침식\nEN:\nE.G.O Corrosion"
+  },
+  {
+    "key": "continuous_turn-content",
+    "original": "持続ターン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "持続ターン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지속 턴\nEN:\nTurns"
+  },
+  {
+    "key": "status_buff_list-content",
+    "original": "効果リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "効果リスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n효과 목록\nEN:\nEffects"
+  },
+  {
+    "key": "stack-content",
+    "original": "スタック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スタック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스택\nEN:\nStack"
+  },
+  {
+    "key": "slash_resistance-content",
+    "original": "斬撃耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "斬撃耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n참격 내성\nEN:\nSlash Res."
+  },
+  {
+    "key": "penetrate_resistance-content",
+    "original": "貫通耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫通耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관통 내성\nEN:\nPierce Res."
+  },
+  {
+    "key": "hit_resistance-content",
+    "original": "打撃耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "打撃耐性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n타격 내성\nEN:\nBlunt Res."
+  },
+  {
+    "key": "Lack_Buff-content",
+    "original": "!{0} 不足!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "!{0} 不足!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n!{0} 부족!\nEN:\nNo {0}!"
+  },
+  {
+    "key": "received_the_golden_bough-content",
+    "original": "黄金の枝 奪回\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黄金の枝 奪回\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n황금가지 수복\nEN:\nGolden Bough Recovered"
+  },
+  {
+    "key": "destroyable-content",
+    "original": "破壊可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴 가능\nEN:\nDestructible"
+  },
+  {
+    "key": "resumption-content",
+    "original": "再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임 재개\nEN:\nResume"
+  },
+  {
+    "key": "stage_GiveUp-content",
+    "original": "ステージをギブアップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージをギブアップ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 포기\nEN:\nGive Up"
+  },
+  {
+    "key": "show_skillTool-content",
+    "original": "スキルツールを表示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキルツールを表示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 툴 표시\nEN:\nShow Skill Tools"
+  },
+  {
+    "key": "auto_coinToss-content",
+    "original": "オートコイントス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オートコイントス\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코인 토스 자동\nEN:\nAuto Cointoss"
+  },
+  {
+    "key": "babayaga_alert-content",
+    "original": "{0}回のチャンスが残っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}回のチャンスが残っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}번의 기회가 남았어.\nEN:\nYou have {0} chances left."
+  },
+  {
+    "key": "battle_operation_offset-content",
+    "original": "相殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "相殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상쇄\nEN:\nOffset"
+  },
+  {
+    "key": "oneside_defense-content",
+    "original": "一方防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "一方防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일방방어\nEN:\nOne-sided Guard"
+  },
+  {
+    "key": "cantIdentify-content",
+    "original": "<color=#ff0000>[敵味方識別不可]</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<color=#ff0000>[敵味方識別不可]</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;color=#ff0000&gt;[피아식별불가]&lt;/color&gt;\nEN:\n&lt;color=#ff0000&gt;[Indiscriminate]&lt;/color&gt;"
+  },
+  {
+    "key": "popup_message_ego_irrevocable-content",
+    "original": "前のターンにて生成したE.G.Oスキルはキャンセルすることができません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前のターンにて生成したE.G.Oスキルはキャンセルすることができません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전 턴에 생성한 E.G.O 스킬은 취소할 수 없습니다.\nEN:\nE.G.O Skills generated on previous turns cannot be canceled."
+  },
+  {
+    "key": "stock-content",
+    "original": "保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유\nEN:\nOwned"
+  },
+  {
+    "key": "stable-content",
+    "original": "安定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "安定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n안정\nEN:\nStable"
+  },
+  {
+    "key": "un_stable-content",
+    "original": "不安定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不安定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불안정\nEN:\nUnstable"
+  },
+  {
+    "key": "vibration_explosion-content",
+    "original": "振動爆発!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動爆発!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 폭발!\nEN:\nTremor Burst!"
+  },
+  {
+    "key": "sinking_surge-content",
+    "original": "沈潜殺到!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "沈潜殺到!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침잠쇄도!\nEN:\nSinking Deluge!"
+  },
+  {
+    "key": "targetSlotWeight-content",
+    "original": "攻撃加重値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃加重値\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 가중치\nEN:\nAtk Weight"
+  },
+  {
+    "key": "EGO_ErodeProbability-content",
+    "original": "侵蝕確率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "侵蝕確率\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n침식확률\nEN:\nTo Corrode"
+  },
+  {
+    "key": "EGOSelectUI_resources_lack-content",
+    "original": "資源が足りません。\nアイコンを確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "資源が足りません。\nアイコンを確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자원이 부족합니다.\n문양을 확인해 주세요.\nEN:\nYou lack sufficient resources.\nPlease check the symbols."
+  },
+  {
+    "key": "EGOSelectUI_DetailInfo-content",
+    "original": "詳細情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "詳細情報\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상세 정보\nEN:\nDetails"
+  },
+  {
+    "key": "ab_part_destroyable-content",
+    "original": "破壊可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴 가능\nEN:\nDestructible"
+  },
+  {
+    "key": "ab_part_destroyable_and_can_vanish-content",
+    "original": "破壊・摘出可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊・摘出可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴 및 적출 가능\nEN:\nDestr. & Severable"
+  },
+  {
+    "key": "ab_guidebook_view-content",
+    "original": "図鑑を見る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "図鑑を見る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도감 보기\nEN:\nView Logs"
+  },
+  {
+    "key": "show_BattleAblityUI-content",
+    "original": "戦闘中の詳細情報UI表示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の詳細情報UI表示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 상세 정보 UI 표시\nEN:\nDisplay detailed info UI in Combat Phase"
+  },
+  {
+    "key": "Ahab_NotTarget_Onece-content",
+    "original": "私が本当に狙うべきなのは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "私が本当に狙うべきなのは…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내가 진짜 노려야하는건…\nEN:\nWhere my Harpoon must strike..."
+  },
+  {
+    "key": "Ahab_NotTarget_Twice-content",
+    "original": "常に前だけを、穴が空くほど\n見つめている必要は無いんだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "常に前だけを、穴が空くほど\n見つめている必要は無いんだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n늘 앞만 뚫어지게 바라봐야만하는게 아니야...\nEN:\n... Sometimes, the answer isn't right before me."
+  },
+  {
+    "key": "Ahab_NotTarget_Thrice-content",
+    "original": "前へ進むには、私の隣にあったものを\n見つめ直すべきときもあるんだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前へ進むには、私の隣にあったものを\n見つめ直すべきときもあるんだ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나아가려면 내 옆에 있던 것들\n바라봐야할 때도 있는거야…\nEN:\nSometimes, to move forward...\n... I have to turn and look beside me."
+  },
+  {
+    "key": "show_BattleUnitAblityUI-content",
+    "original": "戦闘中の効果UI表示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘中の効果UI表示\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 효과 UI 표시\nEN:\nShow active effects UI in Combat Phase"
+  },
+  {
+    "key": "LobotomyStartTypo_Title_1-content",
+    "original": "緑の黎明\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緑の黎明\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n녹빛 여명의 시련\nEN:\nThe Dawn of Green"
+  },
+  {
+    "key": "LobotomyStartTypo_Name_1-content",
+    "original": "疑問\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "疑問\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의문\nEN:\nDoubt"
+  },
+  {
+    "key": "LobotomyStartTypo_Desc_1-content",
+    "original": "ある日疑問が生じた。我々はどこから来たのか。誰かから生命を与えられ、無責任に遺された。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ある日疑問が生じた。我々はどこから来たのか。誰かから生命を与えられ、無責任に遺された。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어느날 의문이 생겼다. 우리는 어디서 왔는가. 누군가에게 생명을 받고 무책임하게 놓여졌다.\nEN:\nOne day, a question crossed through my mind. Where do we come from? We were given life and left in this world against our own volition."
+  },
+  {
+    "key": "LobotomyStartTypo_KillCountTitle_1-content",
+    "original": "制圧状況\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "制圧状況\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제압 현황\nEN:\nSuppression Status"
+  },
+  {
+    "key": "LobotomyClearTypo_Title_1-content",
+    "original": "緑の黎明\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "緑の黎明\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n녹빛 여명의 시련\nEN:\nThe Dawn of Green"
+  },
+  {
+    "key": "LobotomyClearTypo_Name_1-content",
+    "original": "疑問\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "疑問\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n의문\nEN:\nDoubt"
+  },
+  {
+    "key": "LobotomyClearTypo_Desc_1-content",
+    "original": "生きていくということは、苦痛であった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生きていくということは、苦痛であった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살아간다는 것은 고통이었다.\nEN:\nTo live was a process full of pain."
+  },
+  {
+    "key": "LobotomyEndTypo_Title-content",
+    "original": "制圧時間満了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "制圧時間満了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제압 시간 만료\nEN:\nTime Limit Reached"
+  },
+  {
+    "key": "LobotomyEndTypo_Desc-content",
+    "original": "残り試練個体: {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "残り試練個体: {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n남은 시련 개체: {0}\nEN:\nRemaining Ordeal Entities: {0}"
+  },
+  {
+    "key": "abnormality_all_part-content",
+    "original": "全部位\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全部位\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전체 부위\nEN:\nAll Parts"
+  },
+  {
+    "key": "applying_buff_format-content",
+    "original": "{0} 적용중\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0} 적용중\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 적용중\nEN:\n{0} Activated"
+  },
+  {
+    "key": "level_number_UNDEF-content",
+    "original": "未定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "未定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미정\nEN:\nUndef."
+  },
+  {
+    "key": "level_number_HYPHEN-content",
+    "original": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n-\nEN:\n-"
+  },
+  {
+    "key": "received_the_golden_bough_undecided-content",
+    "original": "?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "?\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n?\nEN:\n?"
+  },
+  {
+    "key": "vibration_fusion-content",
+    "original": "振動絡縺！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振幅絡縺！\n<CMT_KR>오식: \"振動絡縺！\" 정확: \"振幅絡縺！\"\n<CMT_EN>Typo: \"振動絡縺！\" Correction: \"振幅絡縺！\"\n<CMT_JP>誤植: \"振動絡縺！\" 訂正後: \"振幅絡縺！\"",
+    "stage": 1,
+    "context": "KR:\n진폭 얽힘!\nEN:\nAmplitude Entanglement!"
+  },
+  {
+    "key": "BatonPassUIText-content",
+    "original": "待機解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待機解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대기해제\nEN:\nSubstitute"
+  },
+  {
+    "key": "perfect-content",
+    "original": "完全\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "完全\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n완전\nEN:\nA-Res"
+  },
+  {
+    "key": "ab_part_destroyed-content",
+    "original": "破壊完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴 완료\nEN:\nDestroyed"
+  },
+  {
+    "key": "ab_part_vanished-content",
+    "original": "破壊・摘出完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊・摘出完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴 및 적출 완료\nEN:\nDestr. & Severed"
+  },
+  {
+    "key": "ab_part_cannot_destroy_and_vanish-content",
+    "original": "破壊・摘出不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊・摘出不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴 및 적출 불가\nEN:\nIndestr. & Unsever."
+  },
+  {
+    "key": "current_hp-content",
+    "original": "現体力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現体力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 체력\nEN:\nCurrent HP"
+  },
+  {
+    "key": "break_section_format-content",
+    "original": "混乱区間[{0}]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱区間[{0}]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 [{0}]\nEN:\nStagger [{0}]"
+  },
+  {
+    "key": "no_break_section-content",
+    "original": "混乱区間なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "混乱区間なし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 없음\nEN:\nNo Stagger Threshold"
+  },
+  {
+    "key": "correction_based_on_unit_keyword-content",
+    "original": "{0}人格補正値{1}(, )\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}人格補正値{1}(, )\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 인격 보정 값 {1}(, )\nEN:\n{0} Identity Modifier: {1}(, )"
+  },
+  {
+    "key": "battle_operation_counter-content",
+    "original": "強化反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 반격\nEN:\nPower Counter"
+  },
+  {
+    "key": "LOBOTOMY_ORDEAL_TIME_TYPE_0-content",
+    "original": "黎明\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "黎明\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여명\nEN:\nDawn"
+  },
+  {
+    "key": "LOBOTOMY_ORDEAL_TIME_TYPE_1-content",
+    "original": "白昼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "白昼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정오\nEN:\nNoon"
+  },
+  {
+    "key": "LOBOTOMY_ORDEAL_TIME_TYPE_2-content",
+    "original": "夕暮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "夕暮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어스름\nEN:\nDusk"
+  },
+  {
+    "key": "LOBOTOMY_ORDEAL_TIME_TYPE_3-content",
+    "original": "深夜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "深夜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자정\nEN:\nMidnight"
+  },
+  {
+    "key": "LobotomyOrdealTypo_QliphothLevel-content",
+    "original": "クリフォト暴走 - {0}段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリフォト暴走 - {0}段階\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n클리포트 폭주 - {0}단계\nEN:\nQliphoth Meltdown - Level {0}"
+  },
+  {
+    "key": "SinkingWhite_stack-content",
+    "original": "生きた蝶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生きた蝶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산나비\nEN:\nThe Living"
+  },
+  {
+    "key": "SinkingWhite_turn-content",
+    "original": "死んだ蝶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死んだ蝶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죽은나비\nEN:\nThe Departed"
+  },
+  {
+    "key": "BulletLament_stack-content",
+    "original": "生きた蝶(弾丸)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "生きた蝶(弾丸)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산나비(탄환)\nEN:\nThe Living(Ammo)"
+  },
+  {
+    "key": "BulletLament_turn-content",
+    "original": "死んだ蝶(弾丸)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死んだ蝶(弾丸)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n죽은나비(탄환)\nEN:\nThe Departed(Ammo)"
+  },
+  {
+    "key": "Retreat_Textalram-content",
+    "original": "!退却!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "!退却!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n!퇴각!\nEN:\n!Retreat!"
+  },
+  {
+    "key": "Retreat_TextPassive-content",
+    "original": "退却中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "退却中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n퇴각 중\nEN:\nRetreating"
+  },
+  {
+    "key": "battle_operation_defense-content",
+    "original": "強化防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強化防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강화 방어\nEN:\nPower Guard"
+  },
+  {
+    "key": "battle_operation_defense_TextTypo-content",
+    "original": "威力軽減！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "威力軽減！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위력 경감!\nEN:\nDepowered!"
+  },
+  {
+    "key": "battle_StageBuffUI_Stackdesc-content",
+    "original": "(現在の数値: {0})\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "(現在の数値: {0})\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n(현재 수치: {0})\nEN:\n(Current Value: {0})"
+  },
+  {
+    "key": "EGOSelectUI_not_allow-content",
+    "original": "現在装着できないE.G.Oです\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在装着できないE.G.Oです\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 장착이 불가능한 에고입니다.\nEN:\nThis E.G.O cannot be equipped at the moment."
+  },
+  {
+    "key": "laceration_surge-content",
+    "original": "出血殺到!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "出血殺到!\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출혈쇄도!\nEN:\nBleed Deluge!"
+  },
+  {
+    "key": "QTE_Notice-content",
+    "original": "共に駆け抜けてゆくんだ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "共に駆け抜けてゆくんだ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n같이 달려나가는 거야!\nEN:\nGALLOP ON, TOGETHER!"
+  },
+  {
+    "key": "septempeccata_classification-content",
+    "original": "{0}型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}형\nEN:\nClass {0}"
+  },
+  {
+    "key": "run_forBattlePortraitStateText-content",
+    "original": "後退\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "後退\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n후퇴\nEN:\nFLED"
+  },
+  {
+    "key": "ReturnPassUIText-content",
+    "original": "復帰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "復帰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복귀\nEN:\nReturn"
+  }
+]

@@ -1,0 +1,1339 @@
+[
+  {
+    "key": "2100411-levelList[0].name",
+    "original": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초롱\nEN:\nLantern"
+  },
+  {
+    "key": "2100411-levelList[0].abName",
+    "original": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정초롱\nEN:\nFaelantern"
+  },
+  {
+    "key": "2100411-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 破裂 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 破裂 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 파열 3 부여\nEN:\n[OnSucceedAttackHead] Inflict 3 Rupture"
+  },
+  {
+    "key": "2100411-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の10%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の10%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 10%만큼 회복.\nEN:\n[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
+  },
+  {
+    "key": "2100411-levelList[1].name",
+    "original": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초롱\nEN:\nLantern"
+  },
+  {
+    "key": "2100411-levelList[1].abName",
+    "original": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정초롱\nEN:\nFaelantern"
+  },
+  {
+    "key": "2100411-levelList[1].desc",
+    "original": "[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 자신의 체력이 50%미만이면, 공격 가중치 +1\nEN:\n[BeforeAttack] At 50%- HP, Atk Weight +1"
+  },
+  {
+    "key": "2100411-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 破裂 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 破裂 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 파열 3 부여\nEN:\n[OnSucceedAttackHead] Inflict 3 Rupture"
+  },
+  {
+    "key": "2100411-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の12%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の12%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 12%만큼 회복.\nEN:\n[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
+  },
+  {
+    "key": "2100411-levelList[2].name",
+    "original": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초롱\nEN:\nLantern"
+  },
+  {
+    "key": "2100411-levelList[2].abName",
+    "original": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정초롱\nEN:\nFaelantern"
+  },
+  {
+    "key": "2100411-levelList[2].desc",
+    "original": "[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 자신의 체력이 50%미만이면, 공격 가중치 +2\nEN:\n[BeforeAttack] At 50%- HP, Atk Weight +2"
+  },
+  {
+    "key": "2100411-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 破裂 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 破裂 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 파열 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Rupture"
+  },
+  {
+    "key": "2100411-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の15%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 現体力の比率が最も低い味方2名の体力を、体力最大値の15%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 현재 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 15%만큼 회복.\nEN:\n[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
+  },
+  {
+    "key": "2100421-levelList[0].name",
+    "original": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초롱\nEN:\nLantern"
+  },
+  {
+    "key": "2100421-levelList[0].abName",
+    "original": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정초롱\nEN:\nFaelantern"
+  },
+  {
+    "key": "2100421-levelList[0].desc",
+    "original": "[CantIdentify]\n体力が最も高い対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も高い対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n체력이 가장 많은 대상 공격\nEN:\n[CantIdentify] \nTarget the unit with the most HP"
+  },
+  {
+    "key": "2100421-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 破裂 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 破裂 回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 파열 횟수 2 증가\nEN:\n[OnSucceedAttackTail] Inflict +2 Rupture Count"
+  },
+  {
+    "key": "2100421-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の体力をダメージ量の30%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力をダメージ量の30%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 피해량의 30%만큼 회복\nEN:\n[OnSucceedAttack] Heal self by 30% of damage dealt"
+  },
+  {
+    "key": "2100421-levelList[1].name",
+    "original": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초롱\nEN:\nLantern"
+  },
+  {
+    "key": "2100421-levelList[1].abName",
+    "original": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정초롱\nEN:\nFaelantern"
+  },
+  {
+    "key": "2100421-levelList[1].desc",
+    "original": "[CantIdentify]\n体力が最も高い対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も高い対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n체력이 가장 많은 대상 공격\n[BeforeAttack] 자신의 체력이 50% 미만이면, 공격 가중치 +1\nEN:\n[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1"
+  },
+  {
+    "key": "2100421-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] 破裂 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 破裂 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 파열 횟수 3 증가\nEN:\n[OnSucceedAttackTail] Inflict +3 Rupture Count"
+  },
+  {
+    "key": "2100421-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 防御レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 防御レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 방어 레벨 감소 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Defense Level Down"
+  },
+  {
+    "key": "2100421-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal self by 50% of damage dealt"
+  },
+  {
+    "key": "2100421-levelList[2].name",
+    "original": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초롱\nEN:\nLantern"
+  },
+  {
+    "key": "2100421-levelList[2].abName",
+    "original": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "妖精提灯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n요정초롱\nEN:\nFaelantern"
+  },
+  {
+    "key": "2100421-levelList[2].desc",
+    "original": "[CantIdentify]\n体力が最も高い対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も高い対象を攻撃\n[BeforeAttack] 自分の体力が50%未満なら、攻撃加重値 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n체력이 가장 많은 대상 공격\n[BeforeAttack] 자신의 체력이 50% 미만이면, 공격 가중치 +2\nEN:\n[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2"
+  },
+  {
+    "key": "2100421-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 破裂 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 破裂 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 파열 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 Rupture Count"
+  },
+  {
+    "key": "2100421-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 防御レベル減少 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 防御レベル減少 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 방어 레벨 감소 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 Defense Level Down"
+  },
+  {
+    "key": "2100421-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力をダメージ量の50%分回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 체력을 피해량의 50%만큼 회복\nEN:\n[OnSucceedAttack] Heal self by 50% of damage dealt"
+  },
+  {
+    "key": "2100511-levelList[0].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "2100511-levelList[0].abName",
+    "original": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살갗 예언자\nEN:\nSkin Prophet"
+  },
+  {
+    "key": "2100511-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여\nEN:\n[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+  },
+  {
+    "key": "2100511-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Burn"
+  },
+  {
+    "key": "2100511-levelList[1].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "2100511-levelList[1].abName",
+    "original": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살갗 예언자\nEN:\nSkin Prophet"
+  },
+  {
+    "key": "2100511-levelList[1].desc",
+    "original": "[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (색욕 공명 수)가 4 이상이면, 공격 가중치 +1\nEN:\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1"
+  },
+  {
+    "key": "2100511-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여\nEN:\n[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+  },
+  {
+    "key": "2100511-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Burn"
+  },
+  {
+    "key": "2100511-levelList[2].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "2100511-levelList[2].abName",
+    "original": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살갗 예언자\nEN:\nSkin Prophet"
+  },
+  {
+    "key": "2100511-levelList[2].desc",
+    "original": "[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、追加で攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、追加で攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (색욕 공명 수)가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면, 추가로 공격 가중치 +1\nEN:\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1"
+  },
+  {
+    "key": "2100511-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 4 부여\nEN:\n[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+  },
+  {
+    "key": "2100511-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Burn"
+  },
+  {
+    "key": "2100511-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに攻撃威力減少 1, 守備威力減少 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 공격 위력 감소 1, 수비 위력 감소 1 부여\nEN:\n[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Attack Power Down and 1 Defense Power Down next turn"
+  },
+  {
+    "key": "2100521-levelList[0].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "2100521-levelList[0].abName",
+    "original": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살갗 예언자\nEN:\nSkin Prophet"
+  },
+  {
+    "key": "2100521-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
+  },
+  {
+    "key": "2100521-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여\nEN:\n[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+  },
+  {
+    "key": "2100521-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Burn"
+  },
+  {
+    "key": "2100521-levelList[1].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "2100521-levelList[1].abName",
+    "original": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살갗 예언자\nEN:\nSkin Prophet"
+  },
+  {
+    "key": "2100521-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (색욕 공명 수)가 4 이상이면 공격 가중치 +1\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1"
+  },
+  {
+    "key": "2100521-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여\nEN:\n[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+  },
+  {
+    "key": "2100521-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Burn"
+  },
+  {
+    "key": "2100521-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 색욕 취약 1 부여\nEN:\n[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Lust Fragility next turn"
+  },
+  {
+    "key": "2100521-levelList[2].name",
+    "original": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9章2節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9장 2절\nEN:\n9:2"
+  },
+  {
+    "key": "2100521-levelList[2].abName",
+    "original": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "皮膚の予言者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살갗 예언자\nEN:\nSkin Prophet"
+  },
+  {
+    "key": "2100521-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、追加で攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (色欲共鳴数)が4以上なら、攻撃加重値 +1\n[BeforeAttack] (最大色欲完全共鳴数)が4以上なら、追加で攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (색욕 공명 수)가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] (최대 색욕 완전 공명 수)가 4 이상이면, 추가로 공격 가중치 +1\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1"
+  },
+  {
+    "key": "2100521-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]がなければ、火傷 6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion]이 없으면 화상 6 부여\nEN:\n[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+  },
+  {
+    "key": "2100521-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 火傷 4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 화상 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 Burn"
+  },
+  {
+    "key": "2100521-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 対象の[Combustion]が10以上なら、次のターンに色欲脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 대상의 [Combustion]이 10 이상이면 다음 턴에 색욕 취약 2 부여\nEN:\n[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 Lust Fragility next turn"
+  },
+  {
+    "key": "2100611-levelList[0].name",
+    "original": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은울음\nEN:\nCavernous Wailing"
+  },
+  {
+    "key": "2100611-levelList[0].abName",
+    "original": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울음 두꺼비\nEN:\nBlubbering Toad"
+  },
+  {
+    "key": "2100611-levelList[0].desc",
+    "original": "[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1\nEN:\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1"
+  },
+  {
+    "key": "2100611-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkill] 自分と現体力が最も低い味方1名へ、自分の体力最大値の10%だけバリアを付与して[ShieldManagerCryingToad]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分と現体力が最も低い味方1名へ、自分の体力最大値の10%だけバリアを付与して[ShieldManagerCryingToad]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신과 현재 체력이 가장 적은 아군 1명에게 자신의 최대 체력 10%만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여\nEN:\n[EndSkill] Apply 10% of this unit's max HP as Shield to self and 1 other ally with the least current HP, and apply 2 [ShieldManagerCryingToad] as well"
+  },
+  {
+    "key": "2100611-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "- 最大共鳴数が4以上なら、付与対象数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大共鳴数が4以上なら、付与対象数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 공명 수가 4 이상이면, 부여 대상 수 +1\nEN:\n- At 4+ highest Reson., apply it to 1 more ally"
+  },
+  {
+    "key": "2100611-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경\nEN:\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+  },
+  {
+    "key": "2100611-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+  },
+  {
+    "key": "2100611-levelList[1].name",
+    "original": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은울음\nEN:\nCavernous Wailing"
+  },
+  {
+    "key": "2100611-levelList[1].abName",
+    "original": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울음 두꺼비\nEN:\nBlubbering Toad"
+  },
+  {
+    "key": "2100611-levelList[1].desc",
+    "original": "<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加加重値が増加(最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)</style>\n<CMT_KR>오식: \"<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「加重値が増加」(最大2)</style>\" 정확: \"[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「」(最大2)\"\n<CMT_EN>Typo: \"<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「加重値が増加」(最大2)</style>\" Correction: \"[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「」(最大2)\"\n<CMT_JP>誤植: \"<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「加重値が増加」(最大2)</style>\" 訂正後: \"[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「」(最大2)\"",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "2100611-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkill] 自分と現体力が最も低い味方<style=\"highlight\">1 + (最大共鳴数 - 2)</style>名へ、自分の体力最大値の<style=\"highlight\">14%</style>だけバリアを付与して[ShieldManagerCryingToad]2を付与 <style=\"highlight\">(自分を除いた最大付与対象数: 3)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分と現体力が最も低い味方<style=\"highlight\">1 + (最大共鳴数 - 2)</style>名へ、自分の体力最大値の<style=\"highlight\">14%</style>だけバリアを付与して[ShieldManagerCryingToad]2を付与 <style=\"highlight\">(自分を除いた最大付与対象数: 3)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신과 현재 체력이 가장 적은 아군 &lt;style=\"highlight\"&gt;1+(최대 공명 수-2)&lt;/style&gt;명에게 자신의 최대 체력 &lt;style=\"highlight\"&gt;14%&lt;/style&gt;만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여 &lt;style=\"highlight\"&gt;(자신 제외 최대 부여 대상 수: 3)&lt;/style&gt;\nEN:\n[EndSkill] Apply &lt;style=\"highlight\"&gt;14%&lt;/style&gt; of this unit's max HP as Shield to self and &lt;style=\"highlight\"&gt;(1 + (highest Reson. - 2))&lt;/style&gt; allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n&lt;style=\"highlight\"&gt;(max # of other allies that gain [ShieldManagerCryingToad]: 3)&lt;/style&gt;"
+  },
+  {
+    "key": "2100611-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100611-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100611-levelList[2].name",
+    "original": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은울음\nEN:\nCavernous Wailing"
+  },
+  {
+    "key": "2100611-levelList[2].abName",
+    "original": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울음 두꺼비\nEN:\nBlubbering Toad"
+  },
+  {
+    "key": "2100611-levelList[2].desc",
+    "original": "[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加加重値が増加(最大2)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「加重値が増加」(最大2)<style=\"highlight\"></style>\" 정확: \"(最大共鳴数 - 2)だけ攻撃加重値が増加「」(最大2)\"\n<CMT_EN>Typo: \"[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「加重値が増加」(最大2)<style=\"highlight\"></style>\" Correction: \"(最大共鳴数 - 2)だけ攻撃加重値が増加「」(最大2)\"\n<CMT_JP>誤植: \"[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加「加重値が増加」(最大2)<style=\"highlight\"></style>\" 訂正後: \"(最大共鳴数 - 2)だけ攻撃加重値が増加「」(最大2)\"",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100611-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[EndSkill] 自分と現体力が最も低い味方1 + (最大共鳴数 - 2)名へ、自分の体力最大値の<style=\"highlight\">20%</style>だけバリアを付与して[ShieldManagerCryingToad]2を付与 (自分を除いた最大付与対象数: 3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分と現体力が最も低い味方1 + (最大共鳴数 - 2)名へ、自分の体力最大値の<style=\"highlight\">20%</style>だけバリアを付与して[ShieldManagerCryingToad]2を付与 (自分を除いた最大付与対象数: 3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신과 현재 체력이 가장 적은 아군 1+(최대 공명 수-2)명에게 자신의 최대 체력 &lt;style=\"highlight\"&gt;20%&lt;/style&gt;만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여 (자신 제외 최대 부여 대상 수: 3)\nEN:\n[EndSkill] Apply &lt;style=\"highlight\"&gt;20%&lt;/style&gt; of this unit's max HP as Shield to self and (1 + (highest Reson. - 2)) allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n(max # of other allies that gain [ShieldManagerCryingToad]: 3)"
+  },
+  {
+    "key": "2100611-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100611-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[0].name",
+    "original": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은울음\nEN:\nCavernous Wailing"
+  },
+  {
+    "key": "2100621-levelList[0].abName",
+    "original": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울음 두꺼비\nEN:\nBlubbering Toad"
+  },
+  {
+    "key": "2100621-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最大共鳴数が4以上なら、攻撃加重値 +1\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が5増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 최대 공명 수가 4 이상이면, 공격 가중치 +1\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 5 증가\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn"
+  },
+  {
+    "key": "2100621-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象へ[Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "2100621-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 自分へ自分の体力最大値(15 + 最大共鳴数 × 2.5)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大25%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分へ自分の体力最大値(15 + 最大共鳴数 × 2.5)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大25%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신에게 자신의 최대 체력 (15+최대 공명 수x2.5)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 25%)\nEN:\n[EndSkill] Gain (15 + 2.5(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max 25%)"
+  },
+  {
+    "key": "2100621-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경\nEN:\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+  },
+  {
+    "key": "2100621-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+  },
+  {
+    "key": "2100621-levelList[1].name",
+    "original": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은울음\nEN:\nCavernous Wailing"
+  },
+  {
+    "key": "2100621-levelList[1].abName",
+    "original": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울음 두꺼비\nEN:\nBlubbering Toad"
+  },
+  {
+    "key": "2100621-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)</style>\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が<style=\"highlight\">10</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)</style>\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が<style=\"highlight\">10</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n&lt;style=\"highlight\"&gt;[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)&lt;/style&gt;\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 &lt;style=\"highlight\"&gt;[Aggro] 10&lt;/style&gt; 증가\nEN:\n[CantIdentify]\nTargets Randomly\n&lt;style=\"highlight\"&gt;[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)&lt;/style&gt;\n[BeforeAttack] Gain &lt;style=\"highlight\"&gt;+10 [Aggro]&lt;/style&gt; to this Skill Slot next turn"
+  },
+  {
+    "key": "2100621-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象へ[Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Sinking] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 自分へ自分の体力最大値(<style=\"highlight\">18</style> + 最大共鳴数 × <style=\"highlight\">3</style>)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大<style=\"highlight\">30%</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分へ自分の体力最大値(<style=\"highlight\">18</style> + 最大共鳴数 × <style=\"highlight\">3</style>)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大<style=\"highlight\">30%</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신에게 자신의 최대 체력 (&lt;style=\"highlight\"&gt;18&lt;/style&gt;+최대 공명 수x&lt;style=\"highlight\"&gt;3&lt;/style&gt;)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 &lt;style=\"highlight\"&gt;30%&lt;/style&gt;)\nEN:\n[EndSkill] Gain (&lt;style=\"highlight\"&gt;18&lt;/style&gt; + &lt;style=\"highlight\"&gt;3&lt;/style&gt;(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max &lt;style=\"highlight\"&gt;30%&lt;/style&gt;)"
+  },
+  {
+    "key": "2100621-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[2].name",
+    "original": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "低いなきごえ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n낮은울음\nEN:\nCavernous Wailing"
+  },
+  {
+    "key": "2100621-levelList[2].abName",
+    "original": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "泣きヒキガエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n울음 두꺼비\nEN:\nBlubbering Toad"
+  },
+  {
+    "key": "2100621-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が10増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[BeforeAttack] 次のターンにこのスキルスロットの[Aggro]が10増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)\n[BeforeAttack] 다음 턴에 이 스킬 슬롯의 [Aggro] 10 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象へ[Sinking]2, <style=\"highlight\">[Sinking]回数を3</style>付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Sinking]2, <style=\"highlight\">[Sinking]回数を3</style>付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [Sinking] 2, &lt;style=\"highlight\"&gt;[Sinking] 횟수 3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking] and &lt;style=\"highlight\"&gt;+3 [Sinking] Count&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[EndSkill] 自分へ自分の体力最大値(<style=\"highlight\">20</style> + 最大共鳴数 × <style=\"highlight\">5</style>)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大<style=\"highlight\">40%</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分へ自分の体力最大値(<style=\"highlight\">20</style> + 最大共鳴数 × <style=\"highlight\">5</style>)%だけバリアを付与し、[ShieldManagerCryingToad]2を付与。(最大<style=\"highlight\">40%</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 자신에게 자신의 최대 체력 (&lt;style=\"highlight\"&gt;20&lt;/style&gt;+최대 공명 수x&lt;style=\"highlight\"&gt;5&lt;/style&gt;)% 만큼 보호막을 부여하고, [ShieldManagerCryingToad] 2 부여. (최대 &lt;style=\"highlight\"&gt;40%&lt;/style&gt;)\nEN:\n[EndSkill] Gain (&lt;style=\"highlight\"&gt;20&lt;/style&gt; + &lt;style=\"highlight\"&gt;5&lt;/style&gt;(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max &lt;style=\"highlight\"&gt;40%&lt;/style&gt;)"
+  },
+  {
+    "key": "2100621-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100621-levelList[2].coinlist[0].coindescs[4].desc",
+    "original": "<style=\"highlight\">- 憂鬱共鳴が4以上なら、自分へ自分の体力最大値10%だけバリアを追加で付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">- 憂鬱共鳴が4以上なら、自分へ自分の体力最大値10%だけバリアを追加で付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;- 우울 공명이 4 이상이면, 자신에게 자신의 최대 체력 10%만큼 보호막 추가 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;- At 4+ Gloom Reson., gain additional Shield equal to 10% of this unit's max HP&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[0].name",
+    "original": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주못\nEN:\nHex Nail"
+  },
+  {
+    "key": "2100711-levelList[0].abName",
+    "original": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아파하는 테디\nEN:\nHurting Teddy Bear"
+  },
+  {
+    "key": "2100711-levelList[0].desc",
+    "original": "[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소\nEN:\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2"
+  },
+  {
+    "key": "2100711-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Laceration] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "2100711-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果3つにつき[Curse]1を追加で付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果3つにつき[Curse]1を追加で付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 3개당 [Curse] 1 추가로 부여 (최대 2)\nEN:\n[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
+  },
+  {
+    "key": "2100711-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [NailPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [NailPersonality] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [NailPersonality]"
+  },
+  {
+    "key": "2100711-levelList[1].name",
+    "original": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주못\nEN:\nHex Nail"
+  },
+  {
+    "key": "2100711-levelList[1].abName",
+    "original": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아파하는 테디\nEN:\nHurting Teddy Bear"
+  },
+  {
+    "key": "2100711-levelList[1].desc",
+    "original": "<style=\"highlight\">[BeforeAttack] このスキルを含めて嫉妬共鳴が4以上なら、攻撃加重値 +1</style>\n[EndSkill] 対象へ[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[BeforeAttack] このスキルを含めて嫉妬共鳴が4以上なら、攻撃加重値 +1</style>\n[EndSkill] 対象へ[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[BeforeAttack] 이 스킬을 포함하여 질투 공명이 4 이상이면 공격 가중치 +1&lt;/style&gt;\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소\nEN:\n&lt;style=\"highlight\"&gt;[BeforeAttack] At 4+ Envy Reson. including this Skill, Atk Weight +1&lt;/style&gt;\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2"
+  },
+  {
+    "key": "2100711-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Laceration] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttackHead] Inflict 2 [Laceration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果3つにつき[Curse]1を追加で付与(最大2)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果3つにつき[Curse]1を追加で付与(最大2)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 3개당 [Curse] 1 추가로 부여 (최대 2)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [NailPersonality]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [NailPersonality] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [NailPersonality]"
+  },
+  {
+    "key": "2100711-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackHead] 次のターンに[Binding]2を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttackHead] 次のターンに[Binding]2を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여 (턴 당 1회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[2].name",
+    "original": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주못\nEN:\nHex Nail"
+  },
+  {
+    "key": "2100711-levelList[2].abName",
+    "original": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아파하는 테디\nEN:\nHurting Teddy Bear"
+  },
+  {
+    "key": "2100711-levelList[2].desc",
+    "original": "<style=\"highlight\">[BeforeAttack] このスキルを含めて共鳴3につき、攻撃加重値 +1(最大2)</style>\n[EndSkill] 対象へ[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[BeforeAttack] このスキルを含めて共鳴3につき、攻撃加重値 +1(最大2)</style>\n[EndSkill] 対象へ[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[BeforeAttack] 이 스킬을 포함하여 공명 수 3당 공격 가중치 +1 (최대 2)&lt;/style&gt;\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소\nEN:\n&lt;style=\"highlight\"&gt;[BeforeAttack] For every 3 Envy Reson. including this Skill, Atk Weight +1 (max 2)&lt;/style&gt;\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2"
+  },
+  {
+    "key": "2100711-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Laceration] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttackHead] Inflict 2 [Laceration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果<style=\"highlight\">2</style>つにつき[Curse]1を追加で付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]2を付与\n- [Curse]と[NailPersonality]を除く対象のマイナス効果<style=\"highlight\">2</style>つにつき[Curse]1を追加で付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 2 부여\n- [Curse]와 [NailPersonality]을 제외한 대상의 부정적 효과 &lt;style=\"highlight\"&gt;2&lt;/style&gt;개당 [Curse] 1 추가로 부여 (최대 2)\nEN:\n[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every &lt;style=\"highlight\"&gt;2&lt;/style&gt; negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
+  },
+  {
+    "key": "2100711-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [NailPersonality]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [NailPersonality] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 3 [NailPersonality]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 対象の[Curse]が4以上なら、[ParryingResultDown]1を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 対象の[Curse]が4以上なら、[ParryingResultDown]1を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 대상의 [Curse]가 4 이상이면, [ParryingResultDown] 1 부여 (턴 당 1회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] At 4+ [Curse], inflict 1 [ParryingResultDown] (once per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "2100711-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに[Binding]2を付与(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]2を付与(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여 (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[0].name",
+    "original": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주못\nEN:\nHex Nail"
+  },
+  {
+    "key": "2100721-levelList[0].abName",
+    "original": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아파하는 테디\nEN:\nHurting Teddy Bear"
+  },
+  {
+    "key": "2100721-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2"
+  },
+  {
+    "key": "2100721-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] [Laceration]を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Laceration]を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Laceration] 2 부여\nEN:\n[OnSucceedAttackTail] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "2100721-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Curse]"
+  },
+  {
+    "key": "2100721-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [NailPersonality]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [NailPersonality] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [NailPersonality]"
+  },
+  {
+    "key": "2100721-levelList[1].name",
+    "original": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주못\nEN:\nHex Nail"
+  },
+  {
+    "key": "2100721-levelList[1].abName",
+    "original": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아파하는 테디\nEN:\nHurting Teddy Bear"
+  },
+  {
+    "key": "2100721-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Laceration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Laceration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttackTail] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "2100721-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [Curse]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [NailPersonality]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [NailPersonality] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [NailPersonality]"
+  },
+  {
+    "key": "2100721-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackTail] 次のターンに[Binding]2を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttackTail] 次のターンに[Binding]2を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackTail] 다음 턴에 [Binding] 2 부여 (턴 당 1회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].name",
+    "original": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "呪いの釘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저주못\nEN:\nHex Nail"
+  },
+  {
+    "key": "2100721-levelList[2].abName",
+    "original": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "痛がるテディ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아파하는 테디\nEN:\nHurting Teddy Bear"
+  },
+  {
+    "key": "2100721-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 対象に[Curse]があれば、該当効果を即2回発動して[Curse]が2減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 대상에게 [Curse]가 있다면 즉시 해당 효과를 2번 발동시키고 [Curse] 2 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackTail] [Laceration]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Laceration]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Laceration] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttackTail] Inflict 3 [Laceration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Curse]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Curse] 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [Curse]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [NailPersonality]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [NailPersonality]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [NailPersonality] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 3 [NailPersonality]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] このスキルを含めて嫉妬共鳴が4以上なら、[ParryingResultDown]1を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] このスキルを含めて嫉妬共鳴が4以上なら、[ParryingResultDown]1を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 이 스킬을 포함하여 질투 공명이 4 이상이면, [ParryingResultDown] 1 부여 (턴 당 1회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] At 4+ Envy Reson. including this Skill, inflict 1 [ParryingResultDown] (once per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "[OnSucceedAttackTail] 次のターンに[Binding]2を付与(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 次のターンに[Binding]2を付与(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 다음 턴에 [Binding] 2 부여 (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100721-levelList[2].coinlist[1].coindescs[4].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackTail] 次のターンに[DefenseDown]2を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttackTail] 次のターンに[DefenseDown]2を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackTail] 다음 턴에 [DefenseDown] 2 부여 (턴 당 1회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackTail] Inflict 2 [DefenseDown] next turn (once per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[0].name",
+    "original": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오혈읍루\nEN:\nTears of the Tarnished Blood"
+  },
+  {
+    "key": "2100811-levelList[0].abName",
+    "original": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응룡\nEN:\nYinglong"
+  },
+  {
+    "key": "2100811-levelList[0].desc",
+    "original": "[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] 暴食共鳴の数だけ[YesdragonSelf]を得る(最大5)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] 暴食共鳴の数だけ[YesdragonSelf]を得る(最大5)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] [YesdragonNodie] 얻음\n[BeforeAttack] 탐식 공명 수만큼 [YesdragonSelf] 얻음 (최대 5)\n[BeforeAttack] (자신의 [YesdragonSelf] x 2) 만큼 체력 피해 받음\n- 이 효과로 체력이 흐트러짐 구간 이하가 되면 흐트러지지 않고, 자신의 현재 체력보다 높은 흐트러짐 구간 제거\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\nEN:\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain [YesdragonSelf] equal to Gluttony Reson. (max 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End"
+  },
+  {
+    "key": "2100811-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "2100811-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "2100811-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+  },
+  {
+    "key": "2100811-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] 자신의 모든 체력을 소모하여 이 코인의 피해량 +20% (턴 당 1회)\nEN:\n[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+  },
+  {
+    "key": "2100811-levelList[1].name",
+    "original": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오혈읍루\nEN:\nTears of the Tarnished Blood"
+  },
+  {
+    "key": "2100811-levelList[1].abName",
+    "original": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응룡\nEN:\nYinglong"
+  },
+  {
+    "key": "2100811-levelList[1].desc",
+    "original": "<style=\"highlight\">自分の[YesdragonSelf]が6以上なら、コイン威力 +1</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] 暴食共鳴の数だけ[YesdragonSelf]を得る(最大5)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の[YesdragonSelf]が6以上なら、コイン威力 +1</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] 暴食共鳴の数だけ[YesdragonSelf]を得る(最大5)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 [YesdragonSelf]이 6 이상이면, 코인 위력 +1&lt;/style&gt;\n[StartBattle] [YesdragonNodie] 얻음\n[BeforeAttack] 탐식 공명 수만큼 [YesdragonSelf] 얻음 (최대 5)\n[BeforeAttack] (자신의 [YesdragonSelf] x 2) 만큼 체력 피해 받음\n- 이 효과로 체력이 흐트러짐 구간 이하가 되면 흐트러지지 않고, 자신의 현재 체력보다 높은 흐트러짐 구간 제거\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\nEN:\n&lt;style=\"highlight\"&gt;At 6+ [YesdragonSelf], Coin Power +1&lt;/style&gt;\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain [YesdragonSelf] equal to Gluttony Reson. (max 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End"
+  },
+  {
+    "key": "2100811-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Burst]"
+  },
+  {
+    "key": "2100811-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] 자신의 모든 체력을 소모하여 이 코인의 피해량 +20% (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[2].name",
+    "original": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오혈읍루\nEN:\nTears of the Tarnished Blood"
+  },
+  {
+    "key": "2100811-levelList[2].abName",
+    "original": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응룡\nEN:\nYinglong"
+  },
+  {
+    "key": "2100811-levelList[2].desc",
+    "original": "<style=\"highlight\">自分の[YesdragonSelf]6につき、コイン威力 +1 (最大3)</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] 暴食共鳴の数だけ[YesdragonSelf]を得る(最大5)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の[YesdragonSelf]6につき、コイン威力 +1 (最大3)</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] 暴食共鳴の数だけ[YesdragonSelf]を得る(最大5)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 [YesdragonSelf] 6 당 코인 위력 +1 (최대 3)&lt;/style&gt;\n[StartBattle] [YesdragonNodie] 얻음\n[BeforeAttack] 탐식 공명 수만큼 [YesdragonSelf] 얻음 (최대 5)\n[BeforeAttack] (자신의 [YesdragonSelf] x 2) 만큼 체력 피해 받음\n- 이 효과로 체력이 흐트러짐 구간 이하가 되면 흐트러지지 않고, 자신의 현재 체력보다 높은 흐트러짐 구간 제거\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\nEN:\n&lt;style=\"highlight\"&gt;Coin Power +1 for every 6 [YesdragonSelf] on self (max 3)&lt;/style&gt;\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain [YesdragonSelf] equal to Gluttony Reson. (max 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End"
+  },
+  {
+    "key": "2100811-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">自分の失った体力2%につき、ダメージ量 +1%(最大40%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の失った体力2%につき、ダメージ量 +1%(最大40%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 잃은 체력 2%당 피해량 +1% (최대 40%)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt; Deal +1% damage for every 2% missing HP on self (max 40%)&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100811-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] 자신의 모든 체력을 소모하여 이 코인의 피해량 +20% (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[0].name",
+    "original": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오혈읍루\nEN:\nTears of the Tarnished Blood"
+  },
+  {
+    "key": "2100821-levelList[0].abName",
+    "original": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응룡\nEN:\nYinglong"
+  },
+  {
+    "key": "2100821-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] (暴食共鳴数 + 4)だけ[YesdragonSelf]を得る (最大10)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] (暴食共鳴数 + 4)だけ[YesdragonSelf]を得る (最大10)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[StartBattle] [YesdragonNodie] 얻음\n[BeforeAttack] (탐식 공명 수+4)만큼 [YesdragonSelf] 얻음 (최대 10)\n[BeforeAttack] (자신의 [YesdragonSelf] x 2) 만큼 체력 피해 받음\n- 이 효과로 체력이 흐트러짐 구간 이하가 되면 흐트러지지 않고, 자신의 현재 체력보다 높은 흐트러짐 구간 제거\nEN:\n[CantIdentify]\nTargets randomly\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain (Gluttony Reson. + 4) [YesdragonSelf] (max 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP"
+  },
+  {
+    "key": "2100821-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
+  },
+  {
+    "key": "2100821-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "2100821-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+  },
+  {
+    "key": "2100821-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] 자신의 모든 체력을 소모하여 이 코인의 피해량 +20% (턴 당 1회)\nEN:\n[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+  },
+  {
+    "key": "2100821-levelList[1].name",
+    "original": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오혈읍루\nEN:\nTears of the Tarnished Blood"
+  },
+  {
+    "key": "2100821-levelList[1].abName",
+    "original": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응룡\nEN:\nYinglong"
+  },
+  {
+    "key": "2100821-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">自分の[YesdragonSelf]が10以上なら、基本威力 +1</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] (暴食共鳴数 + 4)だけ[YesdragonSelf]を得る (最大10)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">自分の[YesdragonSelf]が10以上なら、基本威力 +1</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] (暴食共鳴数 + 4)だけ[YesdragonSelf]を得る (最大10)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n&lt;style=\"highlight\"&gt;자신의 [YesdragonSelf]이 10 이상이면, 기본 위력 +1&lt;/style&gt;\n[StartBattle] [YesdragonNodie] 얻음\n[BeforeAttack] (탐식 공명 수+4)만큼 [YesdragonSelf] 얻음 (최대 10)\n[BeforeAttack] (자신의 [YesdragonSelf] x 2) 만큼 체력 피해 받음\n- 이 효과로 체력이 흐트러짐 구간 이하가 되면 흐트러지지 않고, 자신의 현재 체력보다 높은 흐트러짐 구간 제거\nEN:\n[CantIdentify]\nTargets randomly\n&lt;style=\"highlight\"&gt;At 10+ [YesdragonSelf], Base Power +1&lt;/style&gt;\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain (Gluttony Reson. + 4) [YesdragonSelf] (max 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP"
+  },
+  {
+    "key": "2100821-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Burst]"
+  },
+  {
+    "key": "2100821-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] 자신의 모든 체력을 소모하여 이 코인의 피해량 +20% (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[2].name",
+    "original": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "汚血泣涙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오혈읍루\nEN:\nTears of the Tarnished Blood"
+  },
+  {
+    "key": "2100821-levelList[2].abName",
+    "original": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "応龍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응룡\nEN:\nYinglong"
+  },
+  {
+    "key": "2100821-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">自分の[YesdragonSelf]が10以上なら、基本威力 +1 (最大2)</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] (暴食共鳴数 + 4)だけ[YesdragonSelf]を得る (最大10)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">自分の[YesdragonSelf]が10以上なら、基本威力 +1 (最大2)</style>\n[StartBattle] [YesdragonNodie]を得る\n[BeforeAttack] (暴食共鳴数 + 4)だけ[YesdragonSelf]を得る (最大10)\n[BeforeAttack] (自分の[YesdragonSelf] × 2)だけ体力ダメージを受ける\n- この効果で体力が混乱区間以下になると混乱せず、自分の現体力よりも高い混乱区間を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n&lt;style=\"highlight\"&gt;자신의 [YesdragonSelf] 10 당 기본 위력 +1 (최대 2)&lt;/style&gt;\n[StartBattle] [YesdragonNodie] 얻음\n[BeforeAttack] (탐식 공명 수+4)만큼 [YesdragonSelf] 얻음 (최대 10)\n[BeforeAttack] (자신의 [YesdragonSelf] x 2) 만큼 체력 피해 받음\n- 이 효과로 체력이 흐트러짐 구간 이하가 되면 흐트러지지 않고, 자신의 현재 체력보다 높은 흐트러짐 구간 제거\nEN:\n[CantIdentify]\nTargets randomly\n&lt;style=\"highlight\"&gt;Base Power +1 for every 10 [YesdragonSelf] on self (max 2)&lt;/style&gt;\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain (Gluttony Reson. + 4) [YesdragonSelf] (max 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP"
+  },
+  {
+    "key": "2100821-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">自分の失った体力2%につき、ダメージ量 +1%(最大40%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の失った体力2%につき、ダメージ量 +1%(最大40%)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 잃은 체력 2%당 피해량 +1% (최대 40%)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt; Deal +1% damage for every 2% missing HP on self (max 40%)&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "2100821-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[ReUseOnSucceedAttack] 自分の全体力を消耗し、このコインのダメージ量 +20%(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ReUseOnSucceedAttack] 자신의 모든 체력을 소모하여 이 코인의 피해량 +20% (턴 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  }
+]

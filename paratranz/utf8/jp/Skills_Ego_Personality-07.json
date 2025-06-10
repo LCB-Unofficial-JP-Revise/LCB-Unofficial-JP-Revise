@@ -1,0 +1,996 @@
+[
+  {
+    "key": "2070511-levelList[0].name",
+    "original": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀리데이\nEN:\nHoliday"
+  },
+  {
+    "key": "2070511-levelList[0].abName",
+    "original": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산돌프\nEN:\nSandolph"
+  },
+  {
+    "key": "2070511-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과의 위력을 2 + (최대 탐식 완전 공명의 수)회 부여 (최대 5)\nEN:\n[OnSucceedAttackHead] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
+  },
+  {
+    "key": "2070511-levelList[1].name",
+    "original": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀리데이\nEN:\nHoliday"
+  },
+  {
+    "key": "2070511-levelList[1].abName",
+    "original": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산돌프\nEN:\nSandolph"
+  },
+  {
+    "key": "2070511-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttackHead] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과의 위력을 2 + (최대 탐식 완전 공명의 수)회 부여 (최대 5)\nEN:\n[OnSucceedAttackHead] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
+  },
+  {
+    "key": "2070511-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[EnemyKill] ランダムな味方2名へ、次のターンに呼吸 回数1・充電 回数1・クイック 1・攻撃レベル増加 1・防御レベル増加1 のうち1つをランダムに付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EnemyKill] ランダムな味方2名へ、次のターンに呼吸 回数1・充電 回数1・クイック 1・攻撃レベル増加 1・防御レベル増加1 のうち1つをランダムに付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EnemyKill] 무작위 아군 2명에게 다음 턴에 호흡 횟수 1, 충전 횟수 1, 신속 1, 공격 레벨 증가 1, 방어 레벨 증가 1 중 무작위 1개 효과를 부여\nEN:\n[EnemyKill] Randomly select one of the following effects: 1 Poise Count, 1 Charge Count, 1 Haste, 1 Offense Level Up, or 1 Defense Level Up. Then, apply the selected effect to 2 random allies next turn"
+  },
+  {
+    "key": "2070511-levelList[2].name",
+    "original": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀리데이\nEN:\nHoliday"
+  },
+  {
+    "key": "2070511-levelList[2].abName",
+    "original": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산돌프\nEN:\nSandolph"
+  },
+  {
+    "key": "2070511-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과의 위력을 2 + (최대 탐식 완전 공명의 수)회 부여 (최대 7)\nEN:\n[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+  },
+  {
+    "key": "2070511-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[EnemyKill] ランダムな味方2名へ、次のターンに呼吸 回数2・充電 回数2・クイック 2・攻撃レベル増加 2・防御レベル増加2 のうち1つをランダムに付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EnemyKill] ランダムな味方2名へ、次のターンに呼吸 回数2・充電 回数2・クイック 2・攻撃レベル増加 2・防御レベル増加2 のうち1つをランダムに付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EnemyKill] 무작위 아군 2명에게 다음 턴에 호흡 횟수 2, 충전 횟수 2, 신속 2, 공격 레벨 증가 2, 방어 레벨 증가 2 중 무작위 1개 효과를 부여\nEN:\n[EnemyKill] Randomly select one of the following effects: 2 Poise Count, 2 Charge Count, 2 Haste, 2 Offense Level Up, or 2 Defense Level Up. Then, apply the selected effect to 2 random allies next turn"
+  },
+  {
+    "key": "2070521-levelList[0].name",
+    "original": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀리데이\nEN:\nHoliday"
+  },
+  {
+    "key": "2070521-levelList[0].abName",
+    "original": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산돌프\nEN:\nSandolph"
+  },
+  {
+    "key": "2070521-levelList[0].desc",
+    "original": "[CantIdentify]\n精神力が最も高い対象を攻撃\n[BeforeAttack] 対象へ精神力ダメージを10与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n精神力が最も高い対象を攻撃\n[BeforeAttack] 対象へ精神力ダメージを10与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n정신력이 가장 높은 대상 공격\n[BeforeAttack] 대상에게 정신력 10 피해\nEN:\n[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP"
+  },
+  {
+    "key": "2070521-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과의 위력을 2 + (최대 탐식 완전 공명의 수)회 부여 (최대 7)\nEN:\n[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+  },
+  {
+    "key": "2070521-levelList[1].name",
+    "original": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀리데이\nEN:\nHoliday"
+  },
+  {
+    "key": "2070521-levelList[1].abName",
+    "original": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산돌프\nEN:\nSandolph"
+  },
+  {
+    "key": "2070521-levelList[1].desc",
+    "original": "[CantIdentify]\n精神力が最も高い対象を攻撃\n[BeforeAttack] 対象へ精神力ダメージを10与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n精神力が最も高い対象を攻撃\n[BeforeAttack] 対象へ精神力ダメージを10与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n정신력이 가장 높은 대상 공격\n[BeforeAttack] 대상에게 정신력 10 피해\nEN:\n[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP"
+  },
+  {
+    "key": "2070521-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과의 위력을 2 + (최대 탐식 완전 공명의 수)회 부여 (최대 7)\nEN:\n[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+  },
+  {
+    "key": "2070521-levelList[2].name",
+    "original": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ホリデイ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n홀리데이\nEN:\nHoliday"
+  },
+  {
+    "key": "2070521-levelList[2].abName",
+    "original": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サンドルフ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n산돌프\nEN:\nSandolph"
+  },
+  {
+    "key": "2070521-levelList[2].desc",
+    "original": "[CantIdentify]\n精神力が最も高い対象を攻撃\nメインターゲットの精神力が15以上なら加重値 +1\n[BeforeAttack] 対象へ精神力ダメージを10与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n精神力が最も高い対象を攻撃\nメインターゲットの精神力が15以上なら加重値 +1\n[BeforeAttack] 対象へ精神力ダメージを10与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n정신력이 가장 높은 대상 공격\n메인 공격 대상의 정신력이 15 이상이면 가중치 +1\n[BeforeAttack] 대상에게 정신력 10 피해\nEN:\n[CantIdentify]\nTargets the unit with the Most SP\nIf the main target's SP is higher than 15, Atk Weight +1\n[BeforeAttack] Target loses 10 SP"
+  },
+  {
+    "key": "2070521-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに火傷・出血・振動・破裂・沈潜 のうちランダムに1つの効果の威力を2 + (最大暴食完全共鳴の数)回付与(最大7回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과의 위력을 2 + (최대 탐식 완전 공명의 수)회 부여 (최대 7)\nEN:\n[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+  },
+  {
+    "key": "2070611-levelList[0].name",
+    "original": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구속\nEN:\nBinds"
+  },
+  {
+    "key": "2070611-levelList[0].abName",
+    "original": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕\nEN:\nThe King in Binds"
+  },
+  {
+    "key": "2070611-levelList[0].desc",
+    "original": "[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\n[EndSkill] 다음 턴에 [Binding] 20, [ForwardToTheKing] 1, [Enhancement] 1 얻음\nEN:\n[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]"
+  },
+  {
+    "key": "2070611-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "2070611-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070611-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
+  },
+  {
+    "key": "2070611-levelList[1].name",
+    "original": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구속\nEN:\nBinds"
+  },
+  {
+    "key": "2070611-levelList[1].abName",
+    "original": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕\nEN:\nThe King in Binds"
+  },
+  {
+    "key": "2070611-levelList[1].desc",
+    "original": "[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\n[EndSkill] 다음 턴에 [Binding] 20, [ForwardToTheKing] 1, [Enhancement] 1 얻음\nEN:\n[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]"
+  },
+  {
+    "key": "2070611-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "2070611-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "2070611-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070611-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
+  },
+  {
+    "key": "2070611-levelList[2].name",
+    "original": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구속\nEN:\nBinds"
+  },
+  {
+    "key": "2070611-levelList[2].abName",
+    "original": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕\nEN:\nThe King in Binds"
+  },
+  {
+    "key": "2070611-levelList[2].desc",
+    "original": "[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheBoundKing]1, [Enhancement]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[EndSkill] 3ターンの間、ターン終了時に精神力が10減少\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheBoundKing]1, [Enhancement]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[EndSkill] 3턴 동안 턴 종료 시 정신력 10 감소\n[EndSkill] 다음 턴에 [Binding] 20, [ForwardToTheBoundKing] 1, [Enhancement] 2 얻음\nEN:\n[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheBoundKing], and 2 [Enhancement]"
+  },
+  {
+    "key": "2070611-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "2070611-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "2070611-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070611-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
+  },
+  {
+    "key": "2070621-levelList[0].name",
+    "original": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구속\nEN:\nBinds"
+  },
+  {
+    "key": "2070621-levelList[0].abName",
+    "original": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕\nEN:\nThe King in Binds"
+  },
+  {
+    "key": "2070621-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]2を得る\n[EndSkill] 次のターンに編成順で自分を除いた味方2名に[Binding]20, [Enhancement]3を付与\n- (憂鬱または傲慢のうち多い共鳴数 - 2)だけ対象数が増加(最大2名)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]2を得る\n[EndSkill] 次のターンに編成順で自分を除いた味方2名に[Binding]20, [Enhancement]3を付与\n- (憂鬱または傲慢のうち多い共鳴数 - 2)だけ対象数が増加(最大2名)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 [Binding] 20, [ForwardToTheKing] 1, [Enhancement] 2 얻음\n[EndSkill] 다음 턴에 편성 순으로 자신을 제외한 아군 2명에게 [Binding] 20, [Enhancement] 3 부여\n- (우울 또는 오만 중 높은 공명 수 - 2)만큼 부여 대상 수 증가 (최대 2명)\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding] and 3 [Enhancement] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max 2)"
+  },
+  {
+    "key": "2070621-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Binding] next turn"
+  },
+  {
+    "key": "2070621-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "2070621-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070621-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
+  },
+  {
+    "key": "2070621-levelList[1].name",
+    "original": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구속\nEN:\nBinds"
+  },
+  {
+    "key": "2070621-levelList[1].abName",
+    "original": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕\nEN:\nThe King in Binds"
+  },
+  {
+    "key": "2070621-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]2を得る\n[EndSkill] 次のターンに編成順で自分を除いた味方2名に[Binding]20, [Enhancement]3, <style=\"highlight\">[AzureDamageUp]</style>1を付与\n- (憂鬱または傲慢のうち多い共鳴数 - 2)だけ対象数が増加(最大<style=\"highlight\">3</style>名)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]2を得る\n[EndSkill] 次のターンに編成順で自分を除いた味方2名に[Binding]20, [Enhancement]3, <style=\"highlight\">[AzureDamageUp]</style>1を付与\n- (憂鬱または傲慢のうち多い共鳴数 - 2)だけ対象数が増加(最大<style=\"highlight\">3</style>名)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 [Binding] 20, [ForwardToTheKing] 1, [Enhancement] 2 얻음\n[EndSkill] 다음 턴에 편성 순으로 자신을 제외한 아군 2명에게 [Binding] 20, [Enhancement] 3, &lt;style=\"highlight\"&gt;[AzureDamageUp]&lt;/style&gt; 1 부여\n- (우울 또는 오만 중 높은 공명 수 - 2)만큼 부여 대상 수 증가 (최대 &lt;style=\"highlight\"&gt;3&lt;/style&gt;명)\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding], 3 [Enhancement], and 1 &lt;style=\"highlight\"&gt;[AzureDamageUp]&lt;/style&gt; to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max &lt;style=\"highlight\"&gt;3&lt;/style&gt;)"
+  },
+  {
+    "key": "2070621-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Binding] next turn"
+  },
+  {
+    "key": "2070621-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "2070621-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070621-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
+  },
+  {
+    "key": "2070621-levelList[2].name",
+    "original": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "拘束\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n구속\nEN:\nBinds"
+  },
+  {
+    "key": "2070621-levelList[2].abName",
+    "original": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られた王\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕\nEN:\nThe King in Binds"
+  },
+  {
+    "key": "2070621-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]3を得る\n[EndSkill] 次のターンに編成順で自分を除いた味方2名に[Binding]20, [Enhancement]3, [AzureDamageUp]<style=\"highlight\">2</style>を付与\n- (憂鬱または傲慢のうち多い共鳴数 - 2)だけ対象数が増加(最大<style=\"highlight\">4</style>名)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[EndSkill] 次のターンに[Binding]20, [ForwardToTheKing]1, [Enhancement]3を得る\n[EndSkill] 次のターンに編成順で自分を除いた味方2名に[Binding]20, [Enhancement]3, [AzureDamageUp]<style=\"highlight\">2</style>を付与\n- (憂鬱または傲慢のうち多い共鳴数 - 2)だけ対象数が増加(最大<style=\"highlight\">4</style>名)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[EndSkill] 다음 턴에 [Binding] 20, [ForwardToTheKing] 1, [Enhancement] 3 얻음\n[EndSkill] 다음 턴에 편성 순으로 자신을 제외한 아군 2명에게 [Binding] 20, [Enhancement] 3, [AzureDamageUp] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\n- (우울 또는 오만 중 높은 공명 수 - 2)만큼 부여 대상 수 증가 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;명)\nEN:\n[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 3 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding], 3 [Enhancement], and &lt;style=\"highlight\"&gt;2&lt;/style&gt; [AzureDamageUp] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)"
+  },
+  {
+    "key": "2070621-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Binding] next turn"
+  },
+  {
+    "key": "2070621-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
+  },
+  {
+    "key": "2070621-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070621-levelList[2].coinlist[0].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
+  },
+  {
+    "key": "2070711-levelList[0].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2070711-levelList[0].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2070711-levelList[0].desc",
+    "original": "[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大3)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大3)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2)만큼 얻음\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 3)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2070711-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 +5%(最大35%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 +5%(最大35%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 +5% (최대 35%)\nEN:\n+5% Damage on Critical Hit for every [BoseProjektil] (max 35%)"
+  },
+  {
+    "key": "2070711-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
+  },
+  {
+    "key": "2070711-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Sinking] 3 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+  },
+  {
+    "key": "2070711-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "[CriticalTargetKill] 自分に[Bullet]効果があるなら、[Bullet]を1得る(戦闘につき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalTargetKill] 自分に[Bullet]効果があるなら、[Bullet]を1得る(戦闘につき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalTargetKill] 자신에게 [Bullet] 효과가 있으면, [Bullet] 1 얻음 (전투 당 2회)\nEN:\n[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+  },
+  {
+    "key": "2070711-levelList[1].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2070711-levelList[1].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2070711-levelList[1].desc",
+    "original": "[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">4</style>)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">4</style>)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2)만큼 얻음\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2070711-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 +<style=\"highlight\">10</style>%(最大<style=\"highlight\">70</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 +<style=\"highlight\">10</style>%(最大<style=\"highlight\">70</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;70&lt;/style&gt;%)\nEN:\n+&lt;style=\"highlight\"&gt;10&lt;/style&gt;% Damage on Critical Hit for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;70&lt;/style&gt;%)"
+  },
+  {
+    "key": "2070711-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
+  },
+  {
+    "key": "2070711-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Sinking] 3 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+  },
+  {
+    "key": "2070711-levelList[1].coinlist[1].coindescs[3].desc",
+    "original": "[CriticalTargetKill] 自分に[Bullet]効果があるなら、[Bullet]を1得る(戦闘につき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalTargetKill] 自分に[Bullet]効果があるなら、[Bullet]を1得る(戦闘につき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalTargetKill] 자신에게 [Bullet] 효과가 있으면, [Bullet] 1 얻음 (전투 당 2회)\nEN:\n[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+  },
+  {
+    "key": "2070711-levelList[2].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2070711-levelList[2].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2070711-levelList[2].desc",
+    "original": "[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">7</style>)\n[BeforeAttack] 自分の[Breath]回数が1増加\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">7</style>)\n[BeforeAttack] 自分の[Breath]回数が1増加\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2)만큼 얻음\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 &lt;style=\"highlight\"&gt;7&lt;/style&gt;)\n[BeforeAttack] 자신의 [Breath] 횟수 1 증가\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;7&lt;/style&gt;)\n[BeforeAttack] Gain +1 [Breath] Count\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2070711-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[BoseProjektil]1につき、クリティカルダメージ量 +<style=\"highlight\">15</style>%(最大<style=\"highlight\">105</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BoseProjektil]1につき、クリティカルダメージ量 +<style=\"highlight\">15</style>%(最大<style=\"highlight\">105</style>%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BoseProjektil]당 크리티컬 피해량 +&lt;style=\"highlight\"&gt;15&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;105&lt;/style&gt;%)\nEN:\n+&lt;style=\"highlight\"&gt;15&lt;/style&gt;% Damage on Critical Hit for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;105&lt;/style&gt;%)"
+  },
+  {
+    "key": "2070711-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
+  },
+  {
+    "key": "2070711-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[CriticalOnSucceedAttack] [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Sinking] 3 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+  },
+  {
+    "key": "2070711-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "[CriticalTargetKill] 自分に[Bullet]効果があるなら、[Bullet]を1得る(戦闘につき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CriticalTargetKill] 自分に[Bullet]効果があるなら、[Bullet]を1得る(戦闘につき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalTargetKill] 자신에게 [Bullet] 효과가 있으면, [Bullet] 1 얻음 (전투 당 3회)\nEN:\n[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (3 times per Encounter)"
+  },
+  {
+    "key": "2070721-levelList[0].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2070721-levelList[0].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2070721-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大3)\n[BeforeAttack] 自分の[Breath]5につきダメージ量 +3%(最大15%)\n[BeforeAttack] 自分の[Breath]を5消耗\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大3)\n[BeforeAttack] 自分の[Breath]5につきダメージ量 +3%(最大15%)\n[BeforeAttack] 自分の[Breath]を5消耗\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2) 만큼 얻음\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 호흡 1 얻음 (최대 3)\n[BeforeAttack] 자신의 [Breath] 5당 피해량 +3% (최대 15%)\n[BeforeAttack] 자신의 [Breath] 5 소모\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[BeforeAttack] Deal +3% damage for every 5 [Breath] on self (max 15%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2070721-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]2, [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2, [Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2, [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Sinking]"
+  },
+  {
+    "key": "2070721-levelList[1].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2070721-levelList[1].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2070721-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n<style=\"highlight\">[BeforeAttack] [BoseProjektil]が3以上なら、攻撃加重値が1増加</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">4</style>)\n[BeforeAttack] 自分の[Breath]5につきダメージ量 +<style=\"highlight\">4</style>%(最大<style=\"highlight\">20</style>%)\n[BeforeAttack] 自分の[Breath]を5消耗\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n<style=\"highlight\">[BeforeAttack] [BoseProjektil]が3以上なら、攻撃加重値が1増加</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">4</style>)\n[BeforeAttack] 自分の[Breath]5につきダメージ量 +<style=\"highlight\">4</style>%(最大<style=\"highlight\">20</style>%)\n[BeforeAttack] 自分の[Breath]を5消耗\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2) 만큼 얻음\n&lt;style=\"highlight\"&gt;[BeforeAttack] [BoseProjektil]이 3 이상이면, 공격 가중치 1 증가&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 호흡 1 얻음 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[BeforeAttack] 자신의 [Breath] 5당 피해량 +&lt;style=\"highlight\"&gt;4&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;20&lt;/style&gt;%)\n[BeforeAttack] 자신의 [Breath] 5 소모\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n&lt;style=\"highlight\"&gt;[BeforeAttack] At 3+ [BoseProjektil], gain 1 Atk Weight&lt;/style&gt;\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[BeforeAttack] Deal +&lt;style=\"highlight\"&gt;4&lt;/style&gt;% damage for every 5 [Breath] on self (max &lt;style=\"highlight\"&gt;20&lt;/style&gt;%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2070721-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3, [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3, [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3, [Sinking] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]"
+  },
+  {
+    "key": "2070721-levelList[2].name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "2070721-levelList[2].abName",
+    "original": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "凶弾の射手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄의 사수\nEN:\nDer Fluchschütze"
+  },
+  {
+    "key": "2070721-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]<style=\"highlight\">3につき</style>、攻撃加重値が1増加<style=\"highlight\">(最大2)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +<style=\"highlight\">3</style>%(最大<style=\"highlight\">21</style>%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">7</style>)\n[BeforeAttack] 自分の[Breath]5につきダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">25</style>%)\n[BeforeAttack] 自分の[Breath]を5消耗\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n- 該当共鳴が完全共鳴なら、[BoseProjektil]を(最大共鳴数 +2)だけ得る\n[BeforeAttack] [BoseProjektil]<style=\"highlight\">3につき</style>、攻撃加重値が1増加<style=\"highlight\">(最大2)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +<style=\"highlight\">3</style>%(最大<style=\"highlight\">21</style>%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大<style=\"highlight\">7</style>)\n[BeforeAttack] 自分の[Breath]5につきダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">25</style>%)\n[BeforeAttack] 自分の[Breath]を5消耗\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n- 해당 공명이 완전 공명이면 [BoseProjektil]을 (최대 공명 수 + 2) 만큼 얻음\n[BeforeAttack] [BoseProjektil] &lt;style=\"highlight\"&gt;3당&lt;/style&gt; 공격 가중치 1 증가 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 피해량 +&lt;style=\"highlight\"&gt;3&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;21&lt;/style&gt;%)\n[BeforeAttack] [BoseProjektil]당 호흡 1 얻음 (최대 &lt;style=\"highlight\"&gt;7&lt;/style&gt;)\n[BeforeAttack] 자신의 [Breath] 5당 피해량 +&lt;style=\"highlight\"&gt;5&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;25&lt;/style&gt;%)\n[BeforeAttack] 자신의 [Breath] 5 소모\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 Atk Weight for &lt;style=\"highlight\"&gt;every 3 [BoseProjektil] (max 2)&lt;/style&gt;\n[BeforeAttack] Deal +&lt;style=\"highlight\"&gt;3&lt;/style&gt;% damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;21&lt;/style&gt;%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;7&lt;/style&gt;)\n[BeforeAttack] Deal +&lt;style=\"highlight\"&gt;5&lt;/style&gt;% damage for every 5 [Breath] on self (max &lt;style=\"highlight\"&gt;25&lt;/style&gt;%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]"
+  },
+  {
+    "key": "2070721-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Laceration]3, [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3, [Sinking]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 3, [Sinking] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]"
+  },
+  {
+    "key": "2070811-levelList[0].name",
+    "original": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏠린 관성\nEN:\nAsymmetrical Inertia"
+  },
+  {
+    "key": "2070811-levelList[0].abName",
+    "original": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n태엽장치시간오뚝이\nEN:\nClockwork-Time-Roly-Poly"
+  },
+  {
+    "key": "2070811-levelList[0].desc",
+    "original": "[BeforeAttack] (最大共鳴数)だけ自分の[Vibration]回数が増加(最大6, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最大共鳴数)だけ自分の[Vibration]回数が増加(最大6, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (최대 공명 수)만큼 자신의 [Vibration] 횟수 증가 (최대 6, 턴 당 최대 20)\n- 해당 공명이 나태 공명이면 자신의 [Vibration]을 [VibrationSpring]로 [Switch_Vibration]\nEN:\n[BeforeAttack] Gain (highest Reson.) [Vibration] Count (max 6, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]"
+  },
+  {
+    "key": "2070811-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count"
+  },
+  {
+    "key": "2070811-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Vibration] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [Vibration]"
+  },
+  {
+    "key": "2070811-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttackTail] Inflict +2 [Vibration] Count"
+  },
+  {
+    "key": "2070811-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]1を付与\n- 最大共鳴が怠惰完全共鳴4以上なら、次のターンにも[AmberTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]1を付与\n- 最大共鳴が怠惰完全共鳴4以上なら、次のターンにも[AmberTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\n- 진동 폭발 시 이번 턴에 [AmberTakeDamageUp] 1 부여\n- 최대 공명이 나태 완전 공명 4 이상이면, 다음 턴에도 [AmberTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson., inflict 1 [AmberTakeDamageUp] next turn as well"
+  },
+  {
+    "key": "2070811-levelList[1].name",
+    "original": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏠린 관성\nEN:\nAsymmetrical Inertia"
+  },
+  {
+    "key": "2070811-levelList[1].abName",
+    "original": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n태엽장치시간오뚝이\nEN:\nClockwork-Time-Roly-Poly"
+  },
+  {
+    "key": "2070811-levelList[1].desc",
+    "original": "[BeforeAttack] (<style=\"highlight\">2 +</style> 最大共鳴数)だけ自分の[Vibration]回数が増加(最大<style=\"highlight\">8</style>, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (<style=\"highlight\">2 +</style> 最大共鳴数)だけ自分の[Vibration]回数が増加(最大<style=\"highlight\">8</style>, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (&lt;style=\"highlight\"&gt;2 +&lt;/style&gt; 최대 공명 수)만큼 자신의 [Vibration] 횟수 증가 (최대 &lt;style=\"highlight\"&gt;8&lt;/style&gt;, 턴 당 최대 20)\n- 해당 공명이 나태 공명이면 자신의 [Vibration]을 [VibrationSpring]로 [Switch_Vibration]\nEN:\n[BeforeAttack] Gain (&lt;style=\"highlight\"&gt;2 +&lt;/style&gt; highest Reson.) [Vibration] Count (max &lt;style=\"highlight\"&gt;8&lt;/style&gt;, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]"
+  },
+  {
+    "key": "2070811-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count"
+  },
+  {
+    "key": "2070811-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Vibration] 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070811-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttackTail] Inflict +2 [Vibration] Count"
+  },
+  {
+    "key": "2070811-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]1を付与\n- 最大共鳴が<style=\"highlight\">怠惰完全共鳴</style>なら、次のターンにも[AmberTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]1を付与\n- 最大共鳴が<style=\"highlight\">怠惰完全共鳴</style>なら、次のターンにも[AmberTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\n- 진동 폭발 시 이번 턴에 [AmberTakeDamageUp] 1 부여\n- 최대 공명이 &lt;style=\"highlight\"&gt;나태 완전 공명&lt;/style&gt;이면, 다음 턴에도 [AmberTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a &lt;style=\"highlight\"&gt;Sloth A-Reson.&lt;/style&gt;, inflict 1 [AmberTakeDamageUp] next turn as well"
+  },
+  {
+    "key": "2070811-levelList[2].name",
+    "original": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏠린 관성\nEN:\nAsymmetrical Inertia"
+  },
+  {
+    "key": "2070811-levelList[2].abName",
+    "original": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n태엽장치시간오뚝이\nEN:\nClockwork-Time-Roly-Poly"
+  },
+  {
+    "key": "2070811-levelList[2].desc",
+    "original": "[BeforeAttack] (<style=\"highlight\">4 +</style> 最大共鳴数)だけ自分の[Vibration]回数が増加(最大8, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (<style=\"highlight\">4 +</style> 最大共鳴数)だけ自分の[Vibration]回数が増加(最大8, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] (&lt;style=\"highlight\"&gt;4 +&lt;/style&gt; 최대 공명 수)만큼 자신의 [Vibration] 횟수 증가 (최대 8, 턴 당 최대 20)\n- 해당 공명이 나태 공명이면 자신의 [Vibration]을 [VibrationSpring]로 [Switch_Vibration]\nEN:\n[BeforeAttack] Gain (&lt;style=\"highlight\"&gt;4 +&lt;/style&gt; highest Reson.) [Vibration] Count (max 8, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]"
+  },
+  {
+    "key": "2070811-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count"
+  },
+  {
+    "key": "2070811-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Vibration] 5 부여\nEN:\n[OnSucceedAttackHead] Inflict 5 [Vibration]"
+  },
+  {
+    "key": "2070811-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Vibration] 횟수 3 증가\nEN:\n[OnSucceedAttackTail] Inflict +3 [Vibration] Count"
+  },
+  {
+    "key": "2070811-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]1を付与\n- 最大共鳴が<style=\"highlight\">怠惰共鳴3以上</style>なら、次のターンにも[AmberTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]1を付与\n- 最大共鳴が<style=\"highlight\">怠惰共鳴3以上</style>なら、次のターンにも[AmberTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\n- 진동 폭발 시 이번 턴에 [AmberTakeDamageUp] 1 부여\n- 최대 공명이 &lt;style=\"highlight\"&gt;나태 공명 3 이상&lt;/style&gt;이면, 다음 턴에도 [AmberTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a &lt;style=\"highlight\"&gt;3+ Sloth Reson.&lt;/style&gt;, inflict 1 [AmberTakeDamageUp] next turn as well"
+  },
+  {
+    "key": "2070821-levelList[0].name",
+    "original": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏠린 관성\nEN:\nAsymmetrical Inertia"
+  },
+  {
+    "key": "2070821-levelList[0].abName",
+    "original": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n태엽장치시간오뚝이\nEN:\nClockwork-Time-Roly-Poly"
+  },
+  {
+    "key": "2070821-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (2 + 最大共鳴数)だけ自分の[Vibration]回数が増加(最大8, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (2 + 最大共鳴数)だけ自分の[Vibration]回数が増加(最大8, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (2 + 최대 공명 수)만큼 자신의 [Vibration] 횟수 증가 (최대 8, 턴 당 최대 20)\n- 해당 공명이 나태 공명이면 자신의 [Vibration]을 [VibrationSpring]로 [Switch_Vibration]\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (2 + highest Reson.) [Vibration] Count (max 8, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]"
+  },
+  {
+    "key": "2070821-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count"
+  },
+  {
+    "key": "2070821-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Vibration] 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 [Vibration]"
+  },
+  {
+    "key": "2070821-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttackTail] Inflict +2 [Vibration] Count"
+  },
+  {
+    "key": "2070821-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2070821-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]2を付与\n- 最大共鳴が怠惰完全共鳴4以上なら、次のターンにも[AmberTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]2を付与\n- 最大共鳴が怠惰完全共鳴4以上なら、次のターンにも[AmberTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\n- 진동 폭발 시 이번 턴에 [AmberTakeDamageUp] 2 부여\n- 최대 공명이 나태 완전 공명 4 이상이면, 다음 턴에도 [AmberTakeDamageUp] 2 부여\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson, inflict 2 [AmberTakeDamageUp] next turn as well"
+  },
+  {
+    "key": "2070821-levelList[1].name",
+    "original": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏠린 관성\nEN:\nAsymmetrical Inertia"
+  },
+  {
+    "key": "2070821-levelList[1].abName",
+    "original": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n태엽장치시간오뚝이\nEN:\nClockwork-Time-Roly-Poly"
+  },
+  {
+    "key": "2070821-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (<style=\"highlight\">4 +</style> 最大共鳴数)だけ自分の[Vibration]回数が増加(最大8, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (<style=\"highlight\">4 +</style> 最大共鳴数)だけ自分の[Vibration]回数が増加(最大8, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (&lt;style=\"highlight\"&gt;4 +&lt;/style&gt; 최대 공명 수)만큼 자신의 [Vibration] 횟수 증가 (최대 8, 턴 당 최대 20)\n- 해당 공명이 나태 공명이면 자신의 [Vibration]을 [VibrationSpring]로 [Switch_Vibration]\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (&lt;style=\"highlight\"&gt;4 +&lt;/style&gt; highest Reson.) [Vibration] Count (max 8, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]"
+  },
+  {
+    "key": "2070821-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count"
+  },
+  {
+    "key": "2070821-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Vibration] 5 부여\nEN:\n[OnSucceedAttackHead] Inflict 5 [Vibration]"
+  },
+  {
+    "key": "2070821-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Vibration] 횟수 3 증가\nEN:\n[OnSucceedAttackTail] Inflict +3 [Vibration] Count"
+  },
+  {
+    "key": "2070821-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2070821-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]2を付与\n- 最大共鳴が<style=\"highlight\">怠惰完全共鳴</style>なら、次のターンにも[AmberTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]2を付与\n- 最大共鳴が<style=\"highlight\">怠惰完全共鳴</style>なら、次のターンにも[AmberTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\n- 진동 폭발 시 이번 턴에 [AmberTakeDamageUp] 2 부여\n- 최대 공명이 &lt;style=\"highlight\"&gt;나태 완전 공명&lt;/style&gt;이면, 다음 턴에도 [AmberTakeDamageUp] 2 부여\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a &lt;style=\"highlight\"&gt;Sloth A-Reson&lt;/style&gt;, inflict 2 [AmberTakeDamageUp] next turn as well"
+  },
+  {
+    "key": "2070821-levelList[2].name",
+    "original": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "偏った慣性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏠린 관성\nEN:\nAsymmetrical Inertia"
+  },
+  {
+    "key": "2070821-levelList[2].abName",
+    "original": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゼンマイ装置時間起き上がりこぼし\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n태엽장치시간오뚝이\nEN:\nClockwork-Time-Roly-Poly"
+  },
+  {
+    "key": "2070821-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (4 + 最大共鳴数)だけ自分の[Vibration]回数が増加(最大<style=\"highlight\">10</style>, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (4 + 最大共鳴数)だけ自分の[Vibration]回数が増加(最大<style=\"highlight\">10</style>, 1ターンにつき最大20)\n- 該当共鳴が怠惰共鳴なら、自分の[Vibration]を[VibrationSpring]に[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (4 + 최대 공명 수)만큼 자신의 [Vibration] 횟수 증가 (최대 &lt;style=\"highlight\"&gt;10&lt;/style&gt;, 턴 당 최대 20)\n- 해당 공명이 나태 공명이면 자신의 [Vibration]을 [VibrationSpring]로 [Switch_Vibration]\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (4 + highest Reson.) [Vibration] Count (max &lt;style=\"highlight\"&gt;10&lt;/style&gt;, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]"
+  },
+  {
+    "key": "2070821-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Vibration] Count"
+  },
+  {
+    "key": "2070821-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] [Vibration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Vibration]6を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] [Vibration] 6 부여\nEN:\n[OnSucceedAttackHead] Inflict 6 [Vibration]"
+  },
+  {
+    "key": "2070821-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttackTail] [Vibration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] [Vibration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] [Vibration] 횟수 4 증가\nEN:\n[OnSucceedAttackTail] Inflict +4 [Vibration] Count"
+  },
+  {
+    "key": "2070821-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+  },
+  {
+    "key": "2070821-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]2を付与\n- 最大共鳴が<style=\"highlight\">怠惰共鳴3以上</style>なら、次のターンにも[AmberTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [VibrationExplosion]時、このターンに[AmberTakeDamageUp]2を付与\n- 最大共鳴が<style=\"highlight\">怠惰共鳴3以上</style>なら、次のターンにも[AmberTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소.\n- 진동 폭발 시 이번 턴에 [AmberTakeDamageUp] 2 부여\n- 최대 공명이 &lt;style=\"highlight\"&gt;나태 공명 3 이상&lt;/style&gt;이면, 다음 턴에도 [AmberTakeDamageUp] 2 부여\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a &lt;style=\"highlight\"&gt;3+ Sloth Reson.&lt;/style&gt;, inflict 2 [AmberTakeDamageUp] next turn as well"
+  }
+]

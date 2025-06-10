@@ -1,0 +1,149 @@
+[
+  {
+    "key": "1049-panicName",
+    "original": "猛獣の本能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛獣の本能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹수의 본능\nEN:\nBeastly Instinct"
+  },
+  {
+    "key": "1049-lowMoraleDescription",
+    "original": "自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差 ÷ 2)%だけ増加 (最大10%)\nターン開始時、[Enhancement]1, [AttackDmgUp]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差 ÷ 2)%だけ増加 (最大10%)\nターン開始時、[Enhancement]1, [AttackDmgUp]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신보다 남은 체력 비율이 더 높은 대상에게 입히는 피해량이 (체력 비율 차이/2)%만큼 증가 (최대 10%)\n턴 시작 시, [Enhancement] 1, [AttackDmgUp] 1, [Vulnerable] 1 얻음\nEN:\nDeals +(HP percentage difference / 2)% damage to targets with higher HP percentages that this unit's (max 10%)\nTurn Start: gain 1 [Enhancement], 1 [AttackDmgUp], and 1 [Vulnerable]"
+  },
+  {
+    "key": "1049-panicDescription",
+    "original": "自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差)%だけ増加 (最大25%)\nターン開始時、[PlusCoinValueUp]1, [AttackDmgUp]2, [Vulnerable]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分より残り体力の比率が高い対象への与ダメージ量が(体力の比率差)%だけ増加 (最大25%)\nターン開始時、[PlusCoinValueUp]1, [AttackDmgUp]2, [Vulnerable]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신보다 남은 체력 비율이 더 높은 대상에게 입히는 피해량이 (체력 비율 차이)%만큼 증가 (최대 25%)\n턴 시작 시, [PlusCoinValueUp] 1, [AttackDmgUp] 2, [Vulnerable] 2 얻음\nEN:\nDeals +(HP percentage difference)% damage to targets with higher HP percentages that this unit's (max 25%)\nTurn Start: gain 1 [PlusCoinValueUp], 2 [AttackDmgUp], and 2 [Vulnerable]"
+  },
+  {
+    "key": "1046-panicName",
+    "original": "肉のへら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "肉のへら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n살점 주걱\nEN:\nFlesh Scoop"
+  },
+  {
+    "key": "1046-lowMoraleDescription",
+    "original": "ターン開始時に[Laceration]5を獲得、[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に[Laceration]5を獲得、[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시 [Laceration] 5 획득, [Enhancement] 1 얻음.\nEN:\nTurn Start: gain 5 [Laceration] and 1 [Enhancement]."
+  },
+  {
+    "key": "1046-panicDescription",
+    "original": "ターン開始時、[Laceration]10, [Enhancement]2を得る.\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、[Laceration]10, [Enhancement]2を得る\n<CMT_KR>오식: \"ターン開始時、[Laceration]10, [Enhancement]2を得る「.」\" 정확: \"ターン開始時、[Laceration]10, [Enhancement]2を得る「」\"\n<CMT_EN>Typo: \"ターン開始時、[Laceration]10, [Enhancement]2を得る「.」\" Correction: \"ターン開始時、[Laceration]10, [Enhancement]2を得る「」\"\n<CMT_JP>誤植: \"ターン開始時、[Laceration]10, [Enhancement]2を得る「.」\" 訂正後: \"ターン開始時、[Laceration]10, [Enhancement]2を得る「」\"",
+    "stage": 1,
+    "context": "KR:\n턴 시작시 [Laceration] 10 획득, [Enhancement] 2 얻음.\nEN:\nTurn Start: gain 10 [Laceration] and 2 [Enhancement]."
+  },
+  {
+    "key": "1050-panicName",
+    "original": "規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "規律\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n규율\nEN:\nLe Regole"
+  },
+  {
+    "key": "1050-lowMoraleDescription",
+    "original": "前のターンに[Vibration]を2以上付与したなら、[AmberDamageUp]1を得る\n前のターンに[Combustion]を2以上付与したなら、[CrimsonDamageUp]1を得る\n何も付与できなければ、[DefenseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前のターンに[Vibration]を2以上付与したなら、[AmberDamageUp]1を得る\n前のターンに[Combustion]を2以上付与したなら、[CrimsonDamageUp]1を得る\n何も付与できなければ、[DefenseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전 턴에 [Vibration]을 2 이상 부여 했다면, [AmberDamageUp] 1 획득,\n전 턴에 [Combustion]을 2 이상 부여 했다면, [CrimsonDamageUp] 1 획득,\n아무것도 부여하지 못했으면, [DefenseDown] 2 얻음.\nEN:\nIf this unit inflicted 2+ [Vibration] last turn, gain 1 [AmberDamageUp]\nIf this unit inflicted 2+ [Combustion] last turn, gain 1 [CrimsonDamageUp]\nIf this unit failed to inflict anything, gain 2 [DefenseDown]"
+  },
+  {
+    "key": "1050-panicDescription",
+    "original": "前のターンに[Vibration]を2以上付与したなら、[AmberDamageUp]2を得る\n前のターンに[Combustion]を2以上付与したなら、[CrimsonDamageUp]2を得る\n何も付与できなければ、[DefenseDown]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "前のターンに[Vibration]を2以上付与したなら、[AmberDamageUp]2を得る\n前のターンに[Combustion]を2以上付与したなら、[CrimsonDamageUp]2を得る\n何も付与できなければ、[DefenseDown]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전 턴에 [Vibration]을 2 이상 부여 했다면, [AmberDamageUp] 2 획득,\n전 턴에 [Combustion]을 2 이상 부여 했다면, [CrimsonDamageUp] 2 획득,\n아무것도 부여하지 못했으면, [DefenseDown] 3 얻음.\nEN:\nIf this unit inflicted 2+ [Vibration] last turn, gain 2 [AmberDamageUp]\nIf this unit inflicted 2+ [Combustion] last turn, gain 2 [CrimsonDamageUp]\nIf this unit failed to inflict anything, gain 3 [DefenseDown]"
+  },
+  {
+    "key": "1051-panicName",
+    "original": "脆い金で鋳造した心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "脆い金で鋳造した心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n여린 금으로 주조한 마음\nEN:\nSoft Goldcasted Heart"
+  },
+  {
+    "key": "1051-lowMoraleDescription",
+    "original": "ターン開始時、[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시 [Enhancement] 1, [Vulnerable] 1 얻음\nEN:\nTurn Start: gain 1 [Enhancement] and 1 [Vulnerable]"
+  },
+  {
+    "key": "1051-panicDescription",
+    "original": "ターン開始時、[Enhancement]2, [Vulnerable]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、[Enhancement]2, [Vulnerable]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작시 [Enhancement] 2, [Vulnerable] 2 얻음\nEN:\nTurn Start: gain 2 [Enhancement] and 2 [Vulnerable]"
+  },
+  {
+    "key": "1052-panicName",
+    "original": "新時代へと向かう心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新時代へと向かう心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새 시대로 향하는 마음\nEN:\nHeart Toward the New Era"
+  },
+  {
+    "key": "1052-lowMoraleDescription",
+    "original": "攻撃的中時に自分の精神力を3消耗、[Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時に自分の精神力を3消耗、[Sinking]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 자신의 정신력 3 소모, [Sinking] 2 부여\nEN:\nOn Hit, consume 3 SP on self to inflict 2 [Sinking]"
+  },
+  {
+    "key": "1052-panicDescription",
+    "original": "攻撃的中時に[Sinking]3を付与、[Sinking]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時に[Sinking]3を付与、[Sinking]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 [Sinking] 3 부여, [Sinking] 1 얻음\nEN:\nOn Hit, inflict 3 [Sinking] and gain 1 [Sinking]"
+  },
+  {
+    "key": "1053-panicName",
+    "original": "継承された鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "継承された鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계승된 홍원의 뜻\nEN:\nInherited Will of Hongyuan"
+  },
+  {
+    "key": "1053-lowMoraleDescription",
+    "original": "全部位が[Enhancement]2, [Binding]1を得る\nホンルに胴体部位がマッチ敗北時、次のターンに胴体部位が[AttackDmgUp]1, [Vulnerable]1を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全部位が[Enhancement]2, [Binding]1を得る\nホンルに胴体部位がマッチ敗北時、次のターンに胴体部位が[AttackDmgUp]1, [Vulnerable]1を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 부위가 [Enhancement] 2, [Binding] 1 얻음\n홍루에게 몸통 부위가 합 패배 시 다음 턴에 몸통 부위가 [AttackDmgUp] 1, [Vulnerable] 1 얻음 (턴 당 1회)\nEN:\nAll Parts gain 2 [Enhancement] and 1 [Binding]\n- When the Body Part loses a Clash against Hong Lu: the Body Part gains 1 [AttackDmgUp] and 1 [Vulnerable] next turn (once per turn)"
+  },
+  {
+    "key": "1053-panicDescription",
+    "original": "全部位が[Enhancement]2, [Binding]2を得る\nホンルに胴体部位がマッチ敗北時、次のターンに胴体部位が[AttackDmgUp]2, [Vulnerable]2を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全部位が[Enhancement]2, [Binding]2を得る\nホンルに胴体部位がマッチ敗北時、次のターンに胴体部位が[AttackDmgUp]2, [Vulnerable]2を得る (1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 부위가 [Enhancement] 2, [Binding] 2 얻음\n홍루에게 몸통 부위가 합 패배 시 다음 턴에 몸통 부위가 [AttackDmgUp] 2, [Vulnerable] 2 얻음 (턴 당 1회)\nEN:\nAll Parts gain 2 [Enhancement] and 2 [Binding]\n- When the Body Part loses a Clash against Hong Lu: the Body Part gains 2 [AttackDmgUp] and 2 [Vulnerable] next turn (once per turn)"
+  },
+  {
+    "key": "1054-panicName",
+    "original": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유구히 계승될 홍원의 뜻\nEN:\nInfinitely Bequeathing Will of Hongyuan"
+  },
+  {
+    "key": "1054-lowMoraleDescription",
+    "original": "[Enhancement]2, [Vulnerable]1を得る\n自分が生成したユニットが[DefenseDown]3を得る\n与ダメージ量が20%増加。輿部位の体力が0なら、代わりに与ダメージ量が10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Enhancement]2, [Vulnerable]1を得る\n自分が生成したユニットが[DefenseDown]3を得る\n与ダメージ量が20%増加。輿部位の体力が0なら、代わりに与ダメージ量が10%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement] 2, [Vulnerable] 1 얻음\n자신이 생성한 유닛이 [DefenseDown] 3 얻음\n가하는 피해량 20% 증가. 가마 부위의 체력이 0이면, 대신 가하는 피해량 10% 감소\nEN:\nGain 2 [Enhancement] and 1 [Vulnerable]\nUnits generated by this unit gain 3 [DefenseDown]\nDeal +20% damage. If the Palanquin Part's HP drops to 0, deal -10% damage instead"
+  },
+  {
+    "key": "1054-panicDescription",
+    "original": "[Enhancement]2, [Vulnerable]2を得る\n自分が生成したユニットが[DefenseDown]6を得る\n与ダメージ量が30%増加。輿部位の体力が0なら、代わりに与ダメージ量が15%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Enhancement]2, [Vulnerable]2を得る\n自分が生成したユニットが[DefenseDown]6を得る\n与ダメージ量が30%増加。輿部位の体力が0なら、代わりに与ダメージ量が15%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement] 2, [Vulnerable] 2 얻음\n자신이 생성한 유닛이 [DefenseDown] 6 얻음\n가하는 피해량 30% 증가. 가마 부위의 체력이 0이면, 대신 가하는 피해량 15% 감소\nEN:\nGain 2 [Enhancement] and 2 [Vulnerable]\nUnits generated by this unit gain 6 [DefenseDown]\nDeal +30% damage. If the Palanquin Part's HP drops to 0, deal -15% damage instead"
+  }
+]

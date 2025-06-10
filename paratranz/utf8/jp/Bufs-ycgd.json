@@ -1,0 +1,44 @@
+[
+  {
+    "key": "Grudge-name",
+    "original": "結ばれゆくしこり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "結ばれゆくしこり\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맺혀가는 응어리\nEN:\nGrowing Resentment"
+  },
+  {
+    "key": "Grudge-desc",
+    "original": "バフがあるなら、被ダメージ量だけ数値を得る。ターン終了時に消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "バフがあるなら、被ダメージ量だけ数値を得る。ターン終了時に消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n버프가 있을 때, 받은 피해량만큼 수치를 얻음. 턴 종료 시 소멸됨\nEN:\nWhen this unit has a relevant buff: gain Growing Resentment equal to damage taken. Expires at Turn End"
+  },
+  {
+    "key": "AaCePbBg-name",
+    "original": "怨恨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怨恨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n원한\nEN:\nResentment"
+  },
+  {
+    "key": "AaCePbBg-desc",
+    "original": "ターン開始時にダメージ量増加 2, 防御レベル減少 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時にダメージ量増加 2, 防御レベル減少 3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 피해량 증가 2, 방어 레벨 감소 3을 얻음\nEN:\nTurn Start: Gain 2 Damage Up and 3 Defense Level Down"
+  },
+  {
+    "key": "AaCePbBh-name",
+    "original": "怨恨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "怨恨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n원한\nEN:\nResentment"
+  },
+  {
+    "key": "AaCePbBh-desc",
+    "original": "ターン開始時に攻撃威力増加 1, 防御レベル減少 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に攻撃威力増加 1, 防御レベル減少 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 공격 위력 증가 1, 방어 레벨 감소 5를 얻음\nEN:\nTurn Start: Gain 1 Attack Power Up and 5 Defense Level Down"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "key": "108201-desc",
+    "original": "「制圧は非常に順調であるが、何か引っかかることでもあるのか？」\n\n「うむ。管理人、君が見たそのままである。若干の検閲は入ったが、隠すことなく見せたつもりだ。」\n\n「私は職員たちを捨てて一人で脱出したことを間違いだとは思っておらぬ。」\n\n「あぁ、もちろん倫理的な観点では誤りである可能性があるのは知っている。しかし管理人、君にも分かるであろう？」\n\n「この都市では、そのような視点がいかに無意味で空虚なものかということをだ。」\n\nホーエンハイムの視線を感じる。\n\n彼の言葉通り、制圧は順調だ。しかし、このままでは終わってはいけないという直感がある。\n\n何を話すべきだろうか。\n\nホーエンハイムは、私たちに何を隠そうとしているのか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「制圧は非常に順調であるが、何か引っかかることでもあるのか？」\n\n「うむ。管理人、君が見たそのままである。若干の検閲は入ったが、隠すことなく見せたつもりだ。」\n\n「私は職員たちを捨てて一人で脱出したことを間違いだとは思っておらぬ。」\n\n「あぁ、もちろん倫理的な観点では誤りである可能性があるのは知っている。しかし管理人、君にも分かるであろう？」\n\n「この都市では、そのような視点がいかに無意味で空虚なものかということをだ。」\n\nホーエンハイムの視線を感じる。\n\n彼の言葉通り、制圧は順調だ。しかし、このままでは終わってはいけないという直感がある。\n\n何を話すべきだろうか。\n\nホーエンハイムは、私たちに何を隠そうとしているのか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"제압은 굉장히 순조롭네만, 무언가 걸리는 것이라도 있는 건가?\"\n\n\"음. 관리자, 자네가 본 것 그대로일세. 약간의 검열이 들어갔지만, 숨기는 것 없이 보여주었지.\"\n\n\"나는 직원들을 버리고 혼자 나온 것이 잘못이라 생각하진 않는다네.\"\n\n\"아, 물론 윤리적인 의미에서 잘못일 수 있음은 알고 있지. 하지만 관리자, 자네도 알지 않나?\"\n\n\"이 도시에서 그런 시각이 얼마나 부질없고 허망한지 말일세.\"\n\n호엔하임의 시선이 느껴진다.\n\n그의 말대로 제압은 순조롭지만, 이렇게 끝나선 안 될 것 같은 직감이 든다.\n\n무엇을 말해야할까.\n\n호엔하임은, 우리에게 무엇을 감추고 싶어하는 걸까.\nEN:\n\"What plagues your mind, manager? Your suppression efforts seem to be smooth-sailing.\"\n\n\"Mm. It is exactly as you have seen, manager, save for a few parts that were censored. I concealed nothing from your view.\"\n\n\"I don't believe I have committed any wrong by escaping that place alone, leaving the others to be buried there.\"\n\n\"Ah, of course. It may be reprehensible from a moral standpoint. But why would anyone ever look at it from that perspective, manager?\"\n\n\"Especially when you are well aware that, in the City, such a perspective is entirely irrelevant and worthless.\"\n\nI can feel his gaze on me.\n\nLike he said, the suppresion is going well. But this feels wrong—that it shouldn't end like this.\n\nWhat should I tell him?\n\nWhat is Hohenheim trying to hide from us?"
+  },
+  {
+    "key": "108201-options[0].message",
+    "original": "実は、自分が間違ってるって思ってるんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "実は、自分が間違ってるって思ってるんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사실 잘못이라고 생각하는 거 아냐?\nEN:\nWhat if you <i>do</i> feel like what you did was wrong?"
+  },
+  {
+    "key": "108201-options[0].messageDesc",
+    "original": "選択時、この戦闘中は呼吸関連パッシブ「適応」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中は呼吸関連パッシブ「適応」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 호흡 관련 패시브 「적응」이 약화됨\nEN:\nWeakens the Poise Passive 「Adaptation」 for this Encounter"
+  },
+  {
+    "key": "108201-options[0].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「その指摘の背景については察しがつく。」\n\n「だが、違うな。」\n\n「既にその問題については長い時間悩み、最終的に間違いではないと確信してからかなりの時が経っている。」\n\n「言っておくが、私は研究者として珍しく確率や統計がとても嫌いだ。」\n\n「あの場で非理性的な抽選を提案することも、野蛮な暴力争いをすることも、このホーエンハイムという存在が思いつく手段ではない。」\n\n「そう、思いつく手段など無かったのだ。」\n\n「できることと言えばせいぜい、外での使い道という…生存欲求の前では無意味な主張に過ぎなかった。」\n\n「しかし…彼らは客観的な判断を下してくれたのだ。生存したいという欲望を超えて、未来の価値を考えてくれた。」\n\n「だから、私は間違いだとは思っておらぬ。」\n\n「間違いであっては…ならぬのだ。」\n\n間違いではなかった。罪ではない。\n\nホーエンハイムはそう言いながらも、何かの責任を振り払えないように見えた。\n\n特に最後の言葉は…彼特有の口調から感じられる確信が、妙に薄れていた気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「その指摘の背景については察しがつく。」\n\n「だが、違うな。」\n\n「既にその問題については長い時間悩み、最終的に間違いではないと確信してからかなりの時が経っている。」\n\n「言っておくが、私は研究者として珍しく確率や統計がとても嫌いだ。」\n\n「あの場で非理性的な抽選を提案することも、野蛮な暴力争いをすることも、このホーエンハイムという存在が思いつく手段ではない。」\n\n「そう、思いつく手段など無かったのだ。」\n\n「できることと言えばせいぜい、外での使い道という…生存欲求の前では無意味な主張に過ぎなかった。」\n\n「しかし…彼らは客観的な判断を下してくれたのだ。生存したいという欲望を超えて、未来の価値を考えてくれた。」\n\n「だから、私は間違いだとは思っておらぬ。」\n\n「間違いであっては…ならぬのだ。」\n\n間違いではなかった。罪ではない。\n\nホーエンハイムはそう言いながらも、何かの責任を振り払えないように見えた。\n\n特に最後の言葉は…彼特有の口調から感じられる確信が、妙に薄れていた気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"그 지적이 나온 배경에 대해서는 알 것 같군.\"\n\n\"허나, 아닐세.\"\n\n\"이미 그 문제에 대해서, 많은 고민을 했고 최종적으로 잘못이 아니라 확신한지 꽤 오랜 시간이 지난 참이지.\"\n\n\"미리 말해두자면, 나는 연구자로서 드물게도 확률과 통계를 퍽 싫어한다네.\"\n\n\"그곳에서 비이성적인 뽑기를 제안하는 것도, 야만적인 무력 다툼을 하는 것도 이 호엔하임이라는 존재가 떠올릴 방법이 아니야.\"\n\n\"그래, 떠올릴 수 있는 방법 따윈 없었다네.\"\n\n\"할 수 있는 거라곤 고작 밖에서의 쓸모라는… 생존욕구 앞에서는 무의미한 주장일 뿐이었지.\"\n\n\"하지만… 그들은 객관적인 판단을 내려주었어. 생존하고 싶다는 욕망을 넘어, 미래의 가치를 생각해주었지.\"\n\n\"그러니 잘못이라 생각하지 않는 걸세.\"\n\n\"잘못이어서도… 안된다는 거지.\"\n\n잘못하지 않았다. 죄가 되지 않는다.\n\n호엔하임은 그렇게 말하면서도, 무언가의 책임을 떨쳐내지 못한 것처럼 보였다.\n\n특히 마지막 말에는… 특유의 말투에서 느껴지던 확신이 유난히 옅어진 것도 같았다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"I see how you may have arrived at that conclusion.\"\n\n\"But you are incorrect.\"\n\n\"I have already done much contemplation regarding that matter, and have definitively concluded a long time ago that I have indeed done no wrong.\"\n\n\"Let me say this in advance, that I am a rare breed of researcher who detests the study of probabilities and statistics.\"\n\n\"I, Hohenheim, am not the kind to make irrational suggestions such as drawing lots to see who gets to survive. I am not the kind to partake in barbaric contests of strengths to survive, either.\"\n\n\"Indeed, there was no other recourse.\"\n\n\"My only option was to come up with an argument that was ultimately vain before the urge to survive—arguing for my survival on the grounds that I was the most useful one out of us all.\"\n\n\"However... they all made a rather objective decision for me. They overcame their base desires for mere survival and made a forward-thinking decision for the future.\"\n\n\"So, no. I have no reason to believe what I did was wrong.\"\n\n\"... It shouldn't be wrong.\"\n\n'I didn't do anything wrong. This wasn't a sin.'\n\nEven as Hohenheim defended himself, it seemed as though some sense of responsibility was pulling him down.\n\nEspecially those last words... I could barely sense his usual air of confidence."
+  },
+  {
+    "key": "108201-options[1].message",
+    "original": "君が何かから逃げているように見えるよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "君が何かから逃げているように見えるよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무언가로부터 네가 도망치고 있는 것 같아.\nEN:\nYou're running away from something."
+  },
+  {
+    "key": "108201-options[1].messageDesc",
+    "original": "選択時、この戦闘中はバリア関連パッシブ「防衛機制」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中はバリア関連パッシブ「防衛機制」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 보호막 관련 패시브 「방어기제」가 약화됨\nEN:\nWeakens the Shield Passive 「Defense Mechanism」 for this Encounter"
+  },
+  {
+    "key": "108201-options[1].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「逃げ、とは興味深い指摘だな。」\n\n「だが反論させてもらうと、私が選んだのは逃げではない。起きた事実を否定し、回避するのはあまりに理屈に合わぬ選択だと思わぬか。」\n\n「問題に直面しなければ、解決しないということは私も認識している。」\n\n「これだけでも、平凡な人間よりかは優れているといえるであろう。」\n\n「何か問題が生じたとき、あるいは稀に感情が揺らいだとき…私はそれを論理的に解明しようと努力している。」\n\n「認識したものを再構築し、感情を調整するのだよ。単に怒ることは無駄であろう。」\n\n「…だが、そうだ。君の言葉を聞き、冷静に自省した結果…認めざるを得ないな。」\n\n「心象内でのあらゆる検閲が、あまり成熟したものではなかったことを。」\n\n「もっとも、それでも検閲を解くつもりは微塵もないがね。君の言葉で揺らぐほど脆弱な自我を持っているわけではない。」\n\nホーエンハイムの言ってることの大半は理解できなかったけど…。\n\n彼の説明の全ては、自分を自らの感情から切り離そうとしているようにしか思えなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「逃げ、とは興味深い指摘だな。」\n\n「だが反論させてもらうと、私が選んだのは逃げではない。起きた事実を否定し、回避するのはあまりに理屈に合わぬ選択だと思わぬか。」\n\n「問題に直面しなければ、解決しないということは私も認識している。」\n\n「これだけでも、平凡な人間よりかは優れているといえるであろう。」\n\n「何か問題が生じたとき、あるいは稀に感情が揺らいだとき…私はそれを論理的に解明しようと努力している。」\n\n「認識したものを再構築し、感情を調整するのだよ。単に怒ることは無駄であろう。」\n\n「…だが、そうだ。君の言葉を聞き、冷静に自省した結果…認めざるを得ないな。」\n\n「心象内でのあらゆる検閲が、あまり成熟したものではなかったことを。」\n\n「もっとも、それでも検閲を解くつもりは微塵もないがね。君の言葉で揺らぐほど脆弱な自我を持っているわけではない。」\n\nホーエンハイムの言ってることの大半は理解できなかったけど…。\n\n彼の説明の全ては、自分を自らの感情から切り離そうとしているようにしか思えなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"도망이라니 흥미로운 지적이군.\"\n\n\"허나 반론하자면, 내가 택한 것이 도망은 아니라네. 일어난 사건을 부정하고 회피하는 것은 너무 병리적인 선택이지 않나.\"\n\n\"문제를 직면하지 않으면, 해결되지 않는다는 것을 나는 인지하고 있다네.\"\n\n\"이것만으로도 평범한 인간들보다 뛰어나다고 볼 수 있겠군.\"\n\n\"무언가 문제가 생겼을 때, 혹은 드물게 감정에 흔들림이 일었을 때… 나는 그것을 논리적으로 해명하려 노력한다네.\"\n\n\"인지한 것을 재구성하고, 감정을 조절하지. 단순히 화만 내는 것은 낭비잖나.\"\n\n\"…하지만 그래. 자네의 말을 듣고 냉철히 성찰한 결과… 인정할 수밖에 없겠군.\"\n\n\"심상 내에서의 이 모든 검열이, 그리 성숙하진 못했음을.\"\n\n\"물론 그렇다고 검열을 풀어줄 생각은 조금도 없다네. 자네의 말 몇마디에 흔들릴 정도로 유약한 자아를 갖진 않았으니.\"\n\n호엔하임이 하는 말의 대부분은 이해하지 못했지만…\n\n그가 설명하는 모든 것이, 자신을 스스로의 감정에게서 떨어뜨리려는 것만 같다는 생각이 지워지지 않는다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"Running away? An interesting point.\"\n\n\"But allow me to retort. My choice was not to run away. To deny and evade what has happened is too pathological a choice, isn't it?\"\n\n\"I am very well aware that the only way to solve a problem is to face it head-on.\"\n\n\"Which is another aspect of myself that sets me apart from the common man.\"\n\n\"When an issue arises, or, in very rare cases, were I to find myself in a tumult of emotional nature... I first attempt to establish a logical explanation.\"\n\n\"I reconstruct what was perceived and regulate my emotions. Expressing fury and anger is a plain waste of resources.\"\n\n\"... But I must admit one thing. Now that I have conducted some level of cold introspection...\"\n\n\"... I will admit that it wasn't entirely mature of me to censor so much of my Fathoms.\"\n\n\"Of course, this does not mean that I will now remove the censored memories. My ego is not so feeble as to be shaken by a few words.\"\n\nI didn't really understand most of what Hohenheim was talking about, but...\n\n... I can't shake this thought that everything he's been saying was just an effort to distance himself from his own emotions."
+  },
+  {
+    "key": "108201-options[2].message",
+    "original": "君が見せた過去には裏側がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "君が見せた過去には裏側がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네가 보여준 과거에는 이면이 있어.\nEN:\nThere is another side to that story you've told me."
+  },
+  {
+    "key": "108201-options[2].messageDesc",
+    "original": "選択時、この戦闘中は精神力関連パッシブ「確証バイアス」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中は精神力関連パッシブ「確証バイアス」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 정신력 관련 패시브 「확증편향」이 약화됨\nEN:\nWeakens the SP Passive 「Confirmation Bias」 for this Encounter"
+  },
+  {
+    "key": "108201-options[2].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「裏側か。もっともらしい指摘であるな。」\n\n「その通りだ。心象、内心…そんな美辞麗句に振り回されていれば、忘れてしまう本質だ。」\n\n「実際、記憶というものは結果として限定された視点しか持たないものである。」\n\n「絶対的な真実があると思い込んでいる心の深い場所、この心象内ですら…人間は嘘をつけるものだ。驚くべきことではあるまいか？」\n\n「メタ認知の誤り、と呼ぶのだよ。あるいは無意識の偏見とも言う。」\n\n「…君はこう言いたいのだろう。私が見せた光景が、ただ出鱈目に作り出した歪曲された物語に過ぎぬと。」\n\n「…そうだ、ここに職員の視点はない。確認する術もないだろう。当然ではないか？」\n\n「彼らは皆地に埋められ、一言すら発することができぬのだから。」\n\nホーエンハイムの言葉を全て聞いた私は、ヴェルギリウスやドンキホーテが私に言っていたことを少しだけ理解できた気がした。\n\n人間の顔から大きく外れた、ねじれの顔をしていながら…。\n\nなんだかホーエンハイムの表情が、この上なく寂しげに見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「裏側か。もっともらしい指摘であるな。」\n\n「その通りだ。心象、内心…そんな美辞麗句に振り回されていれば、忘れてしまう本質だ。」\n\n「実際、記憶というものは結果として限定された視点しか持たないものである。」\n\n「絶対的な真実があると思い込んでいる心の深い場所、この心象内ですら…人間は嘘をつけるものだ。驚くべきことではあるまいか？」\n\n「メタ認知の誤り、と呼ぶのだよ。あるいは無意識の偏見とも言う。」\n\n「…君はこう言いたいのだろう。私が見せた光景が、ただ出鱈目に作り出した歪曲された物語に過ぎぬと。」\n\n「…そうだ、ここに職員の視点はない。確認する術もないだろう。当然ではないか？」\n\n「彼らは皆地に埋められ、一言すら発することができぬのだから。」\n\nホーエンハイムの言葉を全て聞いた私は、ヴェルギリウスやドンキホーテが私に言っていたことを少しだけ理解できた気がした。\n\n人間の顔から大きく外れた、ねじれの顔をしていながら…。\n\nなんだかホーエンハイムの表情が、この上なく寂しげに見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"이면이라. 그럴 듯한 지적일세.\"\n\n\"맞는 말이야. 심상, 속마음… 그런 허울 좋은 것에 휘둘리다보면 잊을 수 있는 본질이지.\"\n\n\"사실 기억이라는 건 결과적으로 한정된 시각을 가지고 있다네.\"\n\n\"절대적인 진실만이 있다고 생각하는 마음 깊은 곳, 이 심상 속에서조차… 인간은 거짓을 말할 수 있다는 걸세. 놀랍지 않은가?\"\n\n\"메타인지 오류, 라고 부른다네. 혹은 무의식적인 편향이라 부를 때도 있지.\"\n\n\"… 자네는 말하고 싶은가 보군. 내가 보여준 장면이, 그저 멋대로 만들어낸 왜곡된 이야기에 불과하다고.\"\n\n\"…그래, 이곳에 직원의 시각은 없다네. 확인할 길도 없지. 그야 당연하지 않은가?\"\n\n\"그들은 모두 땅에 묻혀, 한마디 말조차 꺼낼 수 없을 테니.\"\n\n호엔하임의 말을 모두 들은 나는, 베르길리우스나 돈키호테가 내게 해온 말을 조금이나마 이해할 수 있었다.\n\n인간의 얼굴에서 한없이 벗어난, 뒤틀림의 외양임에도…\n\n어쩐지 호엔하임의 표정이 더 없이 쓸쓸해 보인다는 생각이 들었다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"Another side to my story, is it? Indeed, indeed. That is quite feasible.\"\n\n\"You are correct. That 'another side' is what oft gets lost in the process of obsessing over specious concepts like the Fathoms and the heart.\"\n\n\"Speaking from a consequential point of view, perspective provided by one's memory is narrow by nature.\"\n\n\"Even in the Fathoms—the deepest part of one's heart, where many believe lies nothing the empirical, absolute truth—we are still capable of lying. Fascinating, isn't it?\"\n\n\"They call it 'metacognitive error'. Some call it 'unconcious bias' as well.\"\n\n\"... I see. You argue that the story I have shown you was simply a fabrication.\"\n\n\"... Indeed, I have not shared any perspectives from my employees. But there is no way by which we may verify them, anyway. Isn't it obvious why that is?\"\n\n\"They're all buried underground. Reaved even of their final words.\"\n\n... I could finally understand, at least to a degree, what Vergilius and Don Quixote have been telling me.\n\nThough there was nothing to call a human 'face' remaining in his Distorted form...\n\n... I think I caught a glimpse of loneliness from Hohenheim's expression."
+  },
+  {
+    "key": "108202-desc",
+    "original": "「君、まだ何か言いたいことがあるようだね。」\n\n「そうだ、話してみたまえ。どんな問いにも、答える準備はできているがゆえに。」\n\nホーエンハイムの視線を感じる。\n\n今度は何を話すべきだろうか。\n\nホーエンハイムは、私たちに何を隠そうとしているのか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「君、まだ何か言いたいことがあるようだね。」\n\n「そうだ、話してみたまえ。どんな問いにも、答える準備はできているがゆえに。」\n\nホーエンハイムの視線を感じる。\n\n今度は何を話すべきだろうか。\n\nホーエンハイムは、私たちに何を隠そうとしているのか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"자네, 또 하고 싶은 말이 있나보군.\"\n\n\"그래 말해보게나. 무엇을 물어도, 그에 답할 준비는 되어있으니.\"\n\n호엔하임의 시선이 느껴진다.\n\n이번에는 무엇을 말해야할까.\n\n호엔하임은, 우리에게 무엇을 감추고 싶어하는 걸까.\nEN:\n\"It seems that there is something else you would like to tell me.\"\n\n\"Very well, you may go ahead and ask. I am prepared to answer any of your questions.\"\n\nI can feel Hohenheim's gaze lingering on me.\n\nWhat should I say this time?\n\nWhat is Hohenheim trying to hide from us?"
+  },
+  {
+    "key": "108202-options[0].message",
+    "original": "実は、自分が間違ってるって思ってるんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "実は、自分が間違ってるって思ってるんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사실 잘못이라고 생각하는 거 아냐?\nEN:\nWhat if you <i>do</i> feel like what you did was wrong?"
+  },
+  {
+    "key": "108202-options[0].messageDesc",
+    "original": "選択時、この戦闘中は呼吸関連パッシブ「適応」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中は呼吸関連パッシブ「適応」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 호흡 관련 패시브 「적응」이 약화됨\nEN:\nWeakens the Poise Passive 「Adaptation」 for this Encounter"
+  },
+  {
+    "key": "108202-options[0].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「その指摘の背景については察しがつく。」\n\n「だが、違うな。」\n\n「既にその問題については長い時間悩み、最終的に間違いではないと確信してからかなりの時が経っている。」\n\n「言っておくが、私は研究者として珍しく確率や統計がとても嫌いだ。」\n\n「あの場で非理性的な抽選を提案することも、野蛮な暴力争いをすることも、このホーエンハイムという存在が思いつく手段ではない。」\n\n「そう、思いつく手段など無かったのだ。」\n\n「できることと言えばせいぜい、外での使い道という…生存欲求の前では無意味な主張に過ぎなかった。」\n\n「しかし…彼らは客観的な判断を下してくれたのだ。生存したいという欲望を超えて、未来の価値を考えてくれた。」\n\n「だから、私は間違いだとは思っておらぬ。」\n\n「間違いであっては…ならぬのだ。」\n\n間違いではなかった。罪ではない。\n\nホーエンハイムはそう言いながらも、何かの責任を振り払えないように見えた。\n\n特に最後の言葉は…彼特有の口調から感じられる確信が、妙に薄れていた気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「その指摘の背景については察しがつく。」\n\n「だが、違うな。」\n\n「既にその問題については長い時間悩み、最終的に間違いではないと確信してからかなりの時が経っている。」\n\n「言っておくが、私は研究者として珍しく確率や統計がとても嫌いだ。」\n\n「あの場で非理性的な抽選を提案することも、野蛮な暴力争いをすることも、このホーエンハイムという存在が思いつく手段ではない。」\n\n「そう、思いつく手段など無かったのだ。」\n\n「できることと言えばせいぜい、外での使い道という…生存欲求の前では無意味な主張に過ぎなかった。」\n\n「しかし…彼らは客観的な判断を下してくれたのだ。生存したいという欲望を超えて、未来の価値を考えてくれた。」\n\n「だから、私は間違いだとは思っておらぬ。」\n\n「間違いであっては…ならぬのだ。」\n\n間違いではなかった。罪ではない。\n\nホーエンハイムはそう言いながらも、何かの責任を振り払えないように見えた。\n\n特に最後の言葉は…彼特有の口調から感じられる確信が、妙に薄れていた気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"그 지적이 나온 배경에 대해서는 알 것 같군.\"\n\n\"허나, 아닐세.\"\n\n\"이미 그 문제에 대해서, 많은 고민을 했고 최종적으로 잘못이 아니라 확신한지 꽤 오랜 시간이 지난 참이지.\"\n\n\"미리 말해두자면, 나는 연구자로서 드물게도 확률과 통계를 퍽 싫어한다네.\"\n\n\"그곳에서 비이성적인 뽑기를 제안하는 것도, 야만적인 무력 다툼을 하는 것도 이 호엔하임이라는 존재가 떠올릴 방법이 아니야.\"\n\n\"그래, 떠올릴 수 있는 방법 따윈 없었다네.\"\n\n\"할 수 있는 거라곤 고작 밖에서의 쓸모라는… 생존욕구 앞에서는 무의미한 주장일 뿐이었지.\"\n\n\"하지만… 그들은 객관적인 판단을 내려주었어. 생존하고 싶다는 욕망을 넘어, 미래의 가치를 생각해주었지.\"\n\n\"그러니 잘못이라 생각하지 않는 걸세.\"\n\n\"잘못이어서도… 안된다는 거지.\"\n\n잘못하지 않았다. 죄가 되지 않는다.\n\n호엔하임은 그렇게 말하면서도, 무언가의 책임을 떨쳐내지 못한 것처럼 보였다.\n\n특히 마지막 말에는… 특유의 말투에서 느껴지던 확신이 유난히 옅어진 것도 같았다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"I see how you may have arrived at that conclusion.\"\n\n\"But you are incorrect.\"\n\n\"I have already done much contemplation regarding that matter, and have definitively concluded a long time ago that I have indeed done no wrong.\"\n\n\"Let me say this in advance, that I am a rare breed of researcher who detests the study of probabilities and statistics.\"\n\n\"I, Hohenheim, am not the kind to make irrational suggestions such as drawing lots to see who gets to survive. I am not the kind to partake in barbaric contests of strengths to survive, either.\"\n\n\"Indeed, there was no other recourse.\"\n\n\"My only option was to come up with an argument that was ultimately vain before the urge to survive—arguing for my survival on the grounds that I was the most useful one out of us all.\"\n\n\"However... they all made a rather objective decision for me. They overcame their base desires for mere survival and made a forward-thinking decision for the future.\"\n\n\"So, no. I have no reason to believe what I did was wrong.\"\n\n\"... It shouldn't be wrong.\"\n\n'I didn't do anything wrong. This wasn't a sin.'\n\nEven as Hohenheim defended himself, it seemed as though some sense of responsibility was pulling him down.\n\nEspecially those last words... I could barely sense his usual air of confidence."
+  },
+  {
+    "key": "108202-options[1].message",
+    "original": "君が何かから逃げているように見えるよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "君が何かから逃げているように見えるよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무언가로부터 네가 도망치고 있는 것 같아.\nEN:\nYou're running away from something."
+  },
+  {
+    "key": "108202-options[1].messageDesc",
+    "original": "選択時、この戦闘中はバリア関連パッシブ「防衛機制」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中はバリア関連パッシブ「防衛機制」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 보호막 관련 패시브 「방어기제」가 약화됨\nEN:\nWeakens the Shield Passive 「Defense Mechanism」 for this Encounter"
+  },
+  {
+    "key": "108202-options[1].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「逃げ、とは興味深い指摘だな。」\n\n「だが反論させてもらうと、私が選んだのは逃げではない。起きた事実を否定し、回避するのはあまりに理屈に合わぬ選択だと思わぬか。」\n\n「問題に直面しなければ、解決しないということは私も認識している。」\n\n「これだけでも、平凡な人間よりかは優れているといえるであろう。」\n\n「何か問題が生じたとき、あるいは稀に感情が揺らいだとき…私はそれを論理的に解明しようと努力している。」\n\n「認識したものを再構築し、感情を調整するのだよ。単に怒ることは無駄であろう。」\n\n「…だが、そうだ。君の言葉を聞き、冷静に自省した結果…認めざるを得ないな。」\n\n「心象内でのあらゆる検閲が、あまり成熟したものではなかったことを。」\n\n「もっとも、それでも検閲を解くつもりは微塵もないがね。君の言葉で揺らぐほど脆弱な自我を持っているわけではない。」\n\nホーエンハイムの言ってることの大半は理解できなかったけど…。\n\n彼の説明の全ては、自分を自らの感情から切り離そうとしているようにしか思えなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「逃げ、とは興味深い指摘だな。」\n\n「だが反論させてもらうと、私が選んだのは逃げではない。起きた事実を否定し、回避するのはあまりに理屈に合わぬ選択だと思わぬか。」\n\n「問題に直面しなければ、解決しないということは私も認識している。」\n\n「これだけでも、平凡な人間よりかは優れているといえるであろう。」\n\n「何か問題が生じたとき、あるいは稀に感情が揺らいだとき…私はそれを論理的に解明しようと努力している。」\n\n「認識したものを再構築し、感情を調整するのだよ。単に怒ることは無駄であろう。」\n\n「…だが、そうだ。君の言葉を聞き、冷静に自省した結果…認めざるを得ないな。」\n\n「心象内でのあらゆる検閲が、あまり成熟したものではなかったことを。」\n\n「もっとも、それでも検閲を解くつもりは微塵もないがね。君の言葉で揺らぐほど脆弱な自我を持っているわけではない。」\n\nホーエンハイムの言ってることの大半は理解できなかったけど…。\n\n彼の説明の全ては、自分を自らの感情から切り離そうとしているようにしか思えなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"도망이라니 흥미로운 지적이군.\"\n\n\"허나 반론하자면, 내가 택한 것이 도망은 아니라네. 일어난 사건을 부정하고 회피하는 것은 너무 병리적인 선택이지 않나.\"\n\n\"문제를 직면하지 않으면, 해결되지 않는다는 것을 나는 인지하고 있다네.\"\n\n\"이것만으로도 평범한 인간들보다 뛰어나다고 볼 수 있겠군.\"\n\n\"무언가 문제가 생겼을 때, 혹은 드물게 감정에 흔들림이 일었을 때… 나는 그것을 논리적으로 해명하려 노력한다네.\"\n\n\"인지한 것을 재구성하고, 감정을 조절하지. 단순히 화만 내는 것은 낭비잖나.\"\n\n\"…하지만 그래. 자네의 말을 듣고 냉철히 성찰한 결과… 인정할 수밖에 없겠군.\"\n\n\"심상 내에서의 이 모든 검열이, 그리 성숙하진 못했음을.\"\n\n\"물론 그렇다고 검열을 풀어줄 생각은 조금도 없다네. 자네의 말 몇마디에 흔들릴 정도로 유약한 자아를 갖진 않았으니.\"\n\n호엔하임이 하는 말의 대부분은 이해하지 못했지만…\n\n그가 설명하는 모든 것이, 자신을 스스로의 감정에게서 떨어뜨리려는 것만 같다는 생각이 지워지지 않는다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"Running away? An interesting point.\"\n\n\"But allow me to retort. My choice was not to run away. To deny and evade what has happened is too pathological a choice, isn't it?\"\n\n\"I am very well aware that the only way to solve a problem is to face it head-on.\"\n\n\"Which is another aspect of myself that sets me apart from the common man.\"\n\n\"When an issue arises, or, in very rare cases, were I to find myself in a tumult of emotional nature... I first attempt to establish a logical explanation.\"\n\n\"I reconstruct what was perceived and regulate my emotions. Expressing fury and anger is a plain waste of resources.\"\n\n\"... But I must admit one thing. Now that I have conducted some level of cold introspection...\"\n\n\"... I will admit that it wasn't entirely mature of me to censor so much of my Fathoms.\"\n\n\"Of course, this does not mean that I will now remove the censored memories. My ego is not so feeble as to be shaken by a few words.\"\n\nI didn't really understand most of what Hohenheim was talking about, but...\n\n... I can't shake this thought that everything he's been saying was just an effort to distance himself from his own emotions."
+  },
+  {
+    "key": "108202-options[2].message",
+    "original": "君が見せた過去には裏側がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "君が見せた過去には裏側がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네가 보여준 과거에는 이면이 있어.\nEN:\nThere is another side to that story you've told me."
+  },
+  {
+    "key": "108202-options[2].messageDesc",
+    "original": "選択時、この戦闘中は精神力関連パッシブ「確証バイアス」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中は精神力関連パッシブ「確証バイアス」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 정신력 관련 패시브 「확증편향」이 약화됨\nEN:\nWeakens the SP Passive 「Confirmation Bias」 for this Encounter"
+  },
+  {
+    "key": "108202-options[2].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「裏側か。もっともらしい指摘であるな。」\n\n「その通りだ。心象、内心…そんな美辞麗句に振り回されていれば、忘れてしまう本質だ。」\n\n「実際、記憶というものは結果として限定された視点しか持たないものである。」\n\n「絶対的な真実があると思い込んでいる心の深い場所、この心象内ですら…人間は嘘をつけるものだ。驚くべきことではあるまいか？」\n\n「メタ認知の誤り、と呼ぶのだよ。あるいは無意識の偏見とも言う。」\n\n「…君はこう言いたいのだろう。私が見せた光景が、ただ出鱈目に作り出した歪曲された物語に過ぎぬと。」\n\n「…そうだ、ここに職員の視点はない。確認する術もないだろう。当然ではないか？」\n\n「彼らは皆地に埋められ、一言すら発することができぬのだから。」\n\nホーエンハイムの言葉を全て聞いた私は、ヴェルギリウスやドンキホーテが私に言っていたことを少しだけ理解できた気がした。\n\n人間の顔から大きく外れた、ねじれの顔をしていながら…。\n\nなんだかホーエンハイムの表情が、この上なく寂しげに見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「裏側か。もっともらしい指摘であるな。」\n\n「その通りだ。心象、内心…そんな美辞麗句に振り回されていれば、忘れてしまう本質だ。」\n\n「実際、記憶というものは結果として限定された視点しか持たないものである。」\n\n「絶対的な真実があると思い込んでいる心の深い場所、この心象内ですら…人間は嘘をつけるものだ。驚くべきことではあるまいか？」\n\n「メタ認知の誤り、と呼ぶのだよ。あるいは無意識の偏見とも言う。」\n\n「…君はこう言いたいのだろう。私が見せた光景が、ただ出鱈目に作り出した歪曲された物語に過ぎぬと。」\n\n「…そうだ、ここに職員の視点はない。確認する術もないだろう。当然ではないか？」\n\n「彼らは皆地に埋められ、一言すら発することができぬのだから。」\n\nホーエンハイムの言葉を全て聞いた私は、ヴェルギリウスやドンキホーテが私に言っていたことを少しだけ理解できた気がした。\n\n人間の顔から大きく外れた、ねじれの顔をしていながら…。\n\nなんだかホーエンハイムの表情が、この上なく寂しげに見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"이면이라. 그럴 듯한 지적일세.\"\n\n\"맞는 말이야. 심상, 속마음… 그런 허울 좋은 것에 휘둘리다보면 잊을 수 있는 본질이지.\"\n\n\"사실 기억이라는 건 결과적으로 한정된 시각을 가지고 있다네.\"\n\n\"절대적인 진실만이 있다고 생각하는 마음 깊은 곳, 이 심상 속에서조차… 인간은 거짓을 말할 수 있다는 걸세. 놀랍지 않은가?\"\n\n\"메타인지 오류, 라고 부른다네. 혹은 무의식적인 편향이라 부를 때도 있지.\"\n\n\"… 자네는 말하고 싶은가 보군. 내가 보여준 장면이, 그저 멋대로 만들어낸 왜곡된 이야기에 불과하다고.\"\n\n\"…그래, 이곳에 직원의 시각은 없다네. 확인할 길도 없지. 그야 당연하지 않은가?\"\n\n\"그들은 모두 땅에 묻혀, 한마디 말조차 꺼낼 수 없을 테니.\"\n\n호엔하임의 말을 모두 들은 나는, 베르길리우스나 돈키호테가 내게 해온 말을 조금이나마 이해할 수 있었다.\n\n인간의 얼굴에서 한없이 벗어난, 뒤틀림의 외양임에도…\n\n어쩐지 호엔하임의 표정이 더 없이 쓸쓸해 보인다는 생각이 들었다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"Another side to my story, is it? Indeed, indeed. That is quite feasible.\"\n\n\"You are correct. That 'another side' is what oft gets lost in the process of obsessing over specious concepts like the Fathoms and the heart.\"\n\n\"Speaking from a consequential point of view, perspective provided by one's memory is narrow by nature.\"\n\n\"Even in the Fathoms—the deepest part of one's heart, where many believe lies nothing the empirical, absolute truth—we are still capable of lying. Fascinating, isn't it?\"\n\n\"They call it 'metacognitive error'. Some call it 'unconcious bias' as well.\"\n\n\"... I see. You argue that the story I have shown you was simply a fabrication.\"\n\n\"... Indeed, I have not shared any perspectives from my employees. But there is no way by which we may verify them, anyway. Isn't it obvious why that is?\"\n\n\"They're all buried underground. Reaved even of their final words.\"\n\n... I could finally understand, at least to a degree, what Vergilius and Don Quixote have been telling me.\n\nThough there was nothing to call a human 'face' remaining in his Distorted form...\n\n... I think I caught a glimpse of loneliness from Hohenheim's expression."
+  },
+  {
+    "key": "108203-desc",
+    "original": "「随分と答えた気もするが…それでも君の針の音から好奇心が消えてはいないようだな。」\n\n「管理人ではなく、研究者としての資質も悪くはないように見える。」\n\n「しかし…疑問に対して常に答えが得られるわけではない。これが最後の答えになるであろう」\n\nホーエンハイムの視線を感じる。\n\n最後に彼に話し掛けてみよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "「随分と答えた気もするが…それでも君の針の音から好奇心が消えてはいないようだな。」\n\n「管理人ではなく、研究者としての資質も悪くはないように見える。」\n\n「しかし…疑問に対して常に答えが得られるわけではない。これが最後の答えになるであろう」\n\nホーエンハイムの視線を感じる。\n\n最後に彼に話し掛けてみよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n\"꽤 많은 답을 한 것 같네만… 그럼에도 자네의 째깍임에서는 호기심이 달아나질 않는군.\"\n\n\"관리자가 아니라, 연구원으로서의 자질도 꽤 나쁘지 않은 듯 보인다네.\"\n\n\"하지만… 의문에 항상 답을 들을 수는 없지. 이번이 마지막 대답이 될 걸세.\"\n\n호엔하임의 시선이 느껴진다.\n\n마지막으로 그에게 이야기를 건네보자.\nEN:\n\"I feel as though I have given you quite a few replies... But there is simply so much curiosity in your ticking noises.\"\n\n\"Perhaps you have some aptitude to be a researcher as well, aside from that of a manager.\"\n\n\"Yet... not all questions can be answered. This will be the last answer I provide you.\"\n\nI can feel his gaze on me.\n\nLet's ask him the final question."
+  },
+  {
+    "key": "108203-options[0].message",
+    "original": "実は、自分が間違ってるって思ってるんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "実は、自分が間違ってるって思ってるんじゃ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사실 잘못이라고 생각하는 거 아냐?\nEN:\nWhat if you <i>do</i> feel like what you did was wrong?"
+  },
+  {
+    "key": "108203-options[0].messageDesc",
+    "original": "選択時、この戦闘中は呼吸関連パッシブ「適応」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中は呼吸関連パッシブ「適応」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 호흡 관련 패시브 「적응」이 약화됨\nEN:\nWeakens the Poise Passive 「Adaptation」 for this Encounter"
+  },
+  {
+    "key": "108203-options[0].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「その指摘の背景については察しがつく。」\n\n「だが、違うな。」\n\n「既にその問題については長い時間悩み、最終的に間違いではないと確信してからかなりの時が経っている。」\n\n「言っておくが、私は研究者として珍しく確率や統計がとても嫌いだ。」\n\n「あの場で非理性的な抽選を提案することも、野蛮な暴力争いをすることも、このホーエンハイムという存在が思いつく手段ではない。」\n\n「そう、思いつく手段など無かったのだ。」\n\n「できることと言えばせいぜい、外での使い道という…生存欲求の前では無意味な主張に過ぎなかった。」\n\n「しかし…彼らは客観的な判断を下してくれたのだ。生存したいという欲望を超えて、未来の価値を考えてくれた。」\n\n「だから、私は間違いだとは思っておらぬ。」\n\n「間違いであっては…ならぬのだ。」\n\n間違いではなかった。罪ではない。\n\nホーエンハイムはそう言いながらも、何かの責任を振り払えないように見えた。\n\n特に最後の言葉は…彼特有の口調から感じられる確信が、妙に薄れていた気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「その指摘の背景については察しがつく。」\n\n「だが、違うな。」\n\n「既にその問題については長い時間悩み、最終的に間違いではないと確信してからかなりの時が経っている。」\n\n「言っておくが、私は研究者として珍しく確率や統計がとても嫌いだ。」\n\n「あの場で非理性的な抽選を提案することも、野蛮な暴力争いをすることも、このホーエンハイムという存在が思いつく手段ではない。」\n\n「そう、思いつく手段など無かったのだ。」\n\n「できることと言えばせいぜい、外での使い道という…生存欲求の前では無意味な主張に過ぎなかった。」\n\n「しかし…彼らは客観的な判断を下してくれたのだ。生存したいという欲望を超えて、未来の価値を考えてくれた。」\n\n「だから、私は間違いだとは思っておらぬ。」\n\n「間違いであっては…ならぬのだ。」\n\n間違いではなかった。罪ではない。\n\nホーエンハイムはそう言いながらも、何かの責任を振り払えないように見えた。\n\n特に最後の言葉は…彼特有の口調から感じられる確信が、妙に薄れていた気がする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"그 지적이 나온 배경에 대해서는 알 것 같군.\"\n\n\"허나, 아닐세.\"\n\n\"이미 그 문제에 대해서, 많은 고민을 했고 최종적으로 잘못이 아니라 확신한지 꽤 오랜 시간이 지난 참이지.\"\n\n\"미리 말해두자면, 나는 연구자로서 드물게도 확률과 통계를 퍽 싫어한다네.\"\n\n\"그곳에서 비이성적인 뽑기를 제안하는 것도, 야만적인 무력 다툼을 하는 것도 이 호엔하임이라는 존재가 떠올릴 방법이 아니야.\"\n\n\"그래, 떠올릴 수 있는 방법 따윈 없었다네.\"\n\n\"할 수 있는 거라곤 고작 밖에서의 쓸모라는… 생존욕구 앞에서는 무의미한 주장일 뿐이었지.\"\n\n\"하지만… 그들은 객관적인 판단을 내려주었어. 생존하고 싶다는 욕망을 넘어, 미래의 가치를 생각해주었지.\"\n\n\"그러니 잘못이라 생각하지 않는 걸세.\"\n\n\"잘못이어서도… 안된다는 거지.\"\n\n잘못하지 않았다. 죄가 되지 않는다.\n\n호엔하임은 그렇게 말하면서도, 무언가의 책임을 떨쳐내지 못한 것처럼 보였다.\n\n특히 마지막 말에는… 특유의 말투에서 느껴지던 확신이 유난히 옅어진 것도 같았다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"I see how you may have arrived at that conclusion.\"\n\n\"But you are incorrect.\"\n\n\"I have already done much contemplation regarding that matter, and have definitively concluded a long time ago that I have indeed done no wrong.\"\n\n\"Let me say this in advance, that I am a rare breed of researcher who detests the study of probabilities and statistics.\"\n\n\"I, Hohenheim, am not the kind to make irrational suggestions such as drawing lots to see who gets to survive. I am not the kind to partake in barbaric contests of strengths to survive, either.\"\n\n\"Indeed, there was no other recourse.\"\n\n\"My only option was to come up with an argument that was ultimately vain before the urge to survive—arguing for my survival on the grounds that I was the most useful one out of us all.\"\n\n\"However... they all made a rather objective decision for me. They overcame their base desires for mere survival and made a forward-thinking decision for the future.\"\n\n\"So, no. I have no reason to believe what I did was wrong.\"\n\n\"... It shouldn't be wrong.\"\n\n'I didn't do anything wrong. This wasn't a sin.'\n\nEven as Hohenheim defended himself, it seemed as though some sense of responsibility was pulling him down.\n\nEspecially those last words... I could barely sense his usual air of confidence."
+  },
+  {
+    "key": "108203-options[1].message",
+    "original": "君が何かから逃げているように見えるよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "君が何かから逃げているように見えるよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무언가로부터 네가 도망치고 있는 것 같아.\nEN:\nYou're running away from something."
+  },
+  {
+    "key": "108203-options[1].messageDesc",
+    "original": "選択時、この戦闘中はバリア関連パッシブ「防衛機制」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中はバリア関連パッシブ「防衛機制」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 보호막 관련 패시브 「방어기제」가 약화됨\nEN:\nWeakens the Shield Passive 「Defense Mechanism」 for this Encounter"
+  },
+  {
+    "key": "108203-options[1].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「逃げ、とは興味深い指摘だな。」\n\n「だが反論させてもらうと、私が選んだのは逃げではない。起きた事実を否定し、回避するのはあまりに理屈に合わぬ選択だと思わぬか。」\n\n「問題に直面しなければ、解決しないということは私も認識している。」\n\n「これだけでも、平凡な人間よりかは優れているといえるであろう。」\n\n「何か問題が生じたとき、あるいは稀に感情が揺らいだとき…私はそれを論理的に解明しようと努力している。」\n\n「認識したものを再構築し、感情を調整するのだよ。単に怒ることは無駄であろう。」\n\n「…だが、そうだ。君の言葉を聞き、冷静に自省した結果…認めざるを得ないな。」\n\n「心象内でのあらゆる検閲が、あまり成熟したものではなかったことを。」\n\n「もっとも、それでも検閲を解くつもりは微塵もないがね。君の言葉で揺らぐほど脆弱な自我を持っているわけではない。」\n\nホーエンハイムの言ってることの大半は理解できなかったけど…。\n\n彼の説明の全ては、自分を自らの感情から切り離そうとしているようにしか思えなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「逃げ、とは興味深い指摘だな。」\n\n「だが反論させてもらうと、私が選んだのは逃げではない。起きた事実を否定し、回避するのはあまりに理屈に合わぬ選択だと思わぬか。」\n\n「問題に直面しなければ、解決しないということは私も認識している。」\n\n「これだけでも、平凡な人間よりかは優れているといえるであろう。」\n\n「何か問題が生じたとき、あるいは稀に感情が揺らいだとき…私はそれを論理的に解明しようと努力している。」\n\n「認識したものを再構築し、感情を調整するのだよ。単に怒ることは無駄であろう。」\n\n「…だが、そうだ。君の言葉を聞き、冷静に自省した結果…認めざるを得ないな。」\n\n「心象内でのあらゆる検閲が、あまり成熟したものではなかったことを。」\n\n「もっとも、それでも検閲を解くつもりは微塵もないがね。君の言葉で揺らぐほど脆弱な自我を持っているわけではない。」\n\nホーエンハイムの言ってることの大半は理解できなかったけど…。\n\n彼の説明の全ては、自分を自らの感情から切り離そうとしているようにしか思えなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"도망이라니 흥미로운 지적이군.\"\n\n\"허나 반론하자면, 내가 택한 것이 도망은 아니라네. 일어난 사건을 부정하고 회피하는 것은 너무 병리적인 선택이지 않나.\"\n\n\"문제를 직면하지 않으면, 해결되지 않는다는 것을 나는 인지하고 있다네.\"\n\n\"이것만으로도 평범한 인간들보다 뛰어나다고 볼 수 있겠군.\"\n\n\"무언가 문제가 생겼을 때, 혹은 드물게 감정에 흔들림이 일었을 때… 나는 그것을 논리적으로 해명하려 노력한다네.\"\n\n\"인지한 것을 재구성하고, 감정을 조절하지. 단순히 화만 내는 것은 낭비잖나.\"\n\n\"…하지만 그래. 자네의 말을 듣고 냉철히 성찰한 결과… 인정할 수밖에 없겠군.\"\n\n\"심상 내에서의 이 모든 검열이, 그리 성숙하진 못했음을.\"\n\n\"물론 그렇다고 검열을 풀어줄 생각은 조금도 없다네. 자네의 말 몇마디에 흔들릴 정도로 유약한 자아를 갖진 않았으니.\"\n\n호엔하임이 하는 말의 대부분은 이해하지 못했지만…\n\n그가 설명하는 모든 것이, 자신을 스스로의 감정에게서 떨어뜨리려는 것만 같다는 생각이 지워지지 않는다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"Running away? An interesting point.\"\n\n\"But allow me to retort. My choice was not to run away. To deny and evade what has happened is too pathological a choice, isn't it?\"\n\n\"I am very well aware that the only way to solve a problem is to face it head-on.\"\n\n\"Which is another aspect of myself that sets me apart from the common man.\"\n\n\"When an issue arises, or, in very rare cases, were I to find myself in a tumult of emotional nature... I first attempt to establish a logical explanation.\"\n\n\"I reconstruct what was perceived and regulate my emotions. Expressing fury and anger is a plain waste of resources.\"\n\n\"... But I must admit one thing. Now that I have conducted some level of cold introspection...\"\n\n\"... I will admit that it wasn't entirely mature of me to censor so much of my Fathoms.\"\n\n\"Of course, this does not mean that I will now remove the censored memories. My ego is not so feeble as to be shaken by a few words.\"\n\nI didn't really understand most of what Hohenheim was talking about, but...\n\n... I can't shake this thought that everything he's been saying was just an effort to distance himself from his own emotions."
+  },
+  {
+    "key": "108203-options[2].message",
+    "original": "君が見せた過去には裏側がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "君が見せた過去には裏側がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네가 보여준 과거에는 이면이 있어.\nEN:\nThere is another side to that story you've told me."
+  },
+  {
+    "key": "108203-options[2].messageDesc",
+    "original": "選択時、この戦闘中は精神力関連パッシブ「確証バイアス」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "選択時、この戦闘中は精神力関連パッシブ「確証バイアス」が弱化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 시, 이번 전투 동안 정신력 관련 패시브 「확증편향」이 약화됨\nEN:\nWeakens the SP Passive 「Confirmation Bias」 for this Encounter"
+  },
+  {
+    "key": "108203-options[2].result[0]",
+    "original": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「裏側か。もっともらしい指摘であるな。」\n\n「その通りだ。心象、内心…そんな美辞麗句に振り回されていれば、忘れてしまう本質だ。」\n\n「実際、記憶というものは結果として限定された視点しか持たないものである。」\n\n「絶対的な真実があると思い込んでいる心の深い場所、この心象内ですら…人間は嘘をつけるものだ。驚くべきことではあるまいか？」\n\n「メタ認知の誤り、と呼ぶのだよ。あるいは無意識の偏見とも言う。」\n\n「…君はこう言いたいのだろう。私が見せた光景が、ただ出鱈目に作り出した歪曲された物語に過ぎぬと。」\n\n「…そうだ、ここに職員の視点はない。確認する術もないだろう。当然ではないか？」\n\n「彼らは皆地に埋められ、一言すら発することができぬのだから。」\n\nホーエンハイムの言葉を全て聞いた私は、ヴェルギリウスやドンキホーテが私に言っていたことを少しだけ理解できた気がした。\n\n人間の顔から大きく外れた、ねじれの顔をしていながら…。\n\nなんだかホーエンハイムの表情が、この上なく寂しげに見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ファウストが私の言葉をホーエンハイムに伝えた。\n\n「裏側か。もっともらしい指摘であるな。」\n\n「その通りだ。心象、内心…そんな美辞麗句に振り回されていれば、忘れてしまう本質だ。」\n\n「実際、記憶というものは結果として限定された視点しか持たないものである。」\n\n「絶対的な真実があると思い込んでいる心の深い場所、この心象内ですら…人間は嘘をつけるものだ。驚くべきことではあるまいか？」\n\n「メタ認知の誤り、と呼ぶのだよ。あるいは無意識の偏見とも言う。」\n\n「…君はこう言いたいのだろう。私が見せた光景が、ただ出鱈目に作り出した歪曲された物語に過ぎぬと。」\n\n「…そうだ、ここに職員の視点はない。確認する術もないだろう。当然ではないか？」\n\n「彼らは皆地に埋められ、一言すら発することができぬのだから。」\n\nホーエンハイムの言葉を全て聞いた私は、ヴェルギリウスやドンキホーテが私に言っていたことを少しだけ理解できた気がした。\n\n人間の顔から大きく外れた、ねじれの顔をしていながら…。\n\nなんだかホーエンハイムの表情が、この上なく寂しげに見えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파우스트가 내 말을 호엔하임에게 전달했다.\n\n\"이면이라. 그럴 듯한 지적일세.\"\n\n\"맞는 말이야. 심상, 속마음… 그런 허울 좋은 것에 휘둘리다보면 잊을 수 있는 본질이지.\"\n\n\"사실 기억이라는 건 결과적으로 한정된 시각을 가지고 있다네.\"\n\n\"절대적인 진실만이 있다고 생각하는 마음 깊은 곳, 이 심상 속에서조차… 인간은 거짓을 말할 수 있다는 걸세. 놀랍지 않은가?\"\n\n\"메타인지 오류, 라고 부른다네. 혹은 무의식적인 편향이라 부를 때도 있지.\"\n\n\"… 자네는 말하고 싶은가 보군. 내가 보여준 장면이, 그저 멋대로 만들어낸 왜곡된 이야기에 불과하다고.\"\n\n\"…그래, 이곳에 직원의 시각은 없다네. 확인할 길도 없지. 그야 당연하지 않은가?\"\n\n\"그들은 모두 땅에 묻혀, 한마디 말조차 꺼낼 수 없을 테니.\"\n\n호엔하임의 말을 모두 들은 나는, 베르길리우스나 돈키호테가 내게 해온 말을 조금이나마 이해할 수 있었다.\n\n인간의 얼굴에서 한없이 벗어난, 뒤틀림의 외양임에도…\n\n어쩐지 호엔하임의 표정이 더 없이 쓸쓸해 보인다는 생각이 들었다.\nEN:\nFaust relayed my words to Hohenheim.\n\n\"Another side to my story, is it? Indeed, indeed. That is quite feasible.\"\n\n\"You are correct. That 'another side' is what oft gets lost in the process of obsessing over specious concepts like the Fathoms and the heart.\"\n\n\"Speaking from a consequential point of view, perspective provided by one's memory is narrow by nature.\"\n\n\"Even in the Fathoms—the deepest part of one's heart, where many believe lies nothing the empirical, absolute truth—we are still capable of lying. Fascinating, isn't it?\"\n\n\"They call it 'metacognitive error'. Some call it 'unconcious bias' as well.\"\n\n\"... I see. You argue that the story I have shown you was simply a fabrication.\"\n\n\"... Indeed, I have not shared any perspectives from my employees. But there is no way by which we may verify them, anyway. Isn't it obvious why that is?\"\n\n\"They're all buried underground. Reaved even of their final words.\"\n\n... I could finally understand, at least to a degree, what Vergilius and Don Quixote have been telling me.\n\nThough there was nothing to call a human 'face' remaining in his Distorted form...\n\n... I think I caught a glimpse of loneliness from Hohenheim's expression."
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "key": "858501-desc",
+    "original": "何かを訊ねるかのような、強烈な視線だけが感じられる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "何かを訊ねるかのような、強烈な視線だけが感じられる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무언가를 물어보듯 강렬한 시선만이 느껴진다.\nEN:\nYou feel its inquisitive, intense gaze."
+  },
+  {
+    "key": "858501-options[0].message",
+    "original": "その視線は鋭く、全てを切り裂く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その視線は鋭く、全てを切り裂く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 시선은 날카로워 모든 것을 잘라낸다.\nEN:\nThe keen gaze cleaves all."
+  },
+  {
+    "key": "858501-options[0].result[0]",
+    "original": "鋭い視線は、自分をも切り裂く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "鋭い視線は、自分をも切り裂く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날카로운 시선은 자신 또한 잘라낸다.\nEN:\nThe keen gaze cleaves itself also."
+  },
+  {
+    "key": "858501-options[1].message",
+    "original": "その視線は鋭く、全てを貫く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その視線は鋭く、全てを貫く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 시선은 날카로워 모든 것을 꿰뚫는다\nEN:\nThe keen gaze pierces all."
+  },
+  {
+    "key": "858501-options[1].result[0]",
+    "original": "貫く視線は、自分をも貫く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "貫く視線は、自分をも貫く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫는 시선은 자신 또한 꿰뚫는다.\nEN:\nThe piercing gaze pierces itself also."
+  },
+  {
+    "key": "858501-options[2].message",
+    "original": "その視線は鋭く、全てを押し潰す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その視線は鋭く、全てを押し潰す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 시선은 날카로워 모든 것을 짓누른다.\nEN:\nThe keen gaze crushes all."
+  },
+  {
+    "key": "858501-options[2].result[0]",
+    "original": "押し潰していた視線は、自分をも押し潰す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "押し潰していた視線は、自分をも押し潰す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n짓누르던 시선은 자신 또한 짓누른다.\nEN:\nThe crushing gaze crushes itself also."
+  },
+  {
+    "key": "858502-desc",
+    "original": "強烈な視線は、いつしか他の感覚が感じられる視線になった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "強烈な視線は、いつしか他の感覚が感じられる視線になった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강렬한 시선은 어느덧 다른 감각이 느껴지는 시선이 되었다.\nEN:\nThe intense gaze had transformed into a gaze of different sensations."
+  },
+  {
+    "key": "858502-options[0].message",
+    "original": "その感覚は全てを燃やす視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを燃やす視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 불태우는 시선이였다.\nEN:\nThe sensation of a gaze that burns all."
+  },
+  {
+    "key": "858502-options[1].message",
+    "original": "その感覚は全てを傷付ける視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを傷付ける視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 상처내는 시선이였다.\nEN:\nThe sensation of a gaze that wounds all."
+  },
+  {
+    "key": "858502-options[2].message",
+    "original": "その感覚は全てを見張る視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを見張る視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 지켜보는 시선이였다.\nEN:\nThe sensation of a gaze that beholds all."
+  },
+  {
+    "key": "858502-options[3].message",
+    "original": "その感覚は全てを貪食する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを貪食する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 탐식하는 시선이였다.\nEN:\nThe sensation of a gaze that devours all."
+  },
+  {
+    "key": "858502-options[4].message",
+    "original": "その感覚は全てを沈滞する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを沈滞する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 침체하는 시선이였다.\nEN:\nThe sensation of a gaze that beglooms all."
+  },
+  {
+    "key": "858502-options[5].message",
+    "original": "その感覚は全てを蔑視する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを蔑視する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 멸시하는 시선이였다.\nEN:\nThe sensation of a gaze that is filled with scorn for all things."
+  },
+  {
+    "key": "858502-options[6].message",
+    "original": "その感覚は全てを嫉妬する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "その感覚は全てを嫉妬する視線だった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 감각은 모든 것을 질투하는 시선이였다.\nEN:\nThe sensation of a gaze that is filled with envy for all things."
+  }
+]

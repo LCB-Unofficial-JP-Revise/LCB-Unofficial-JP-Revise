@@ -1,0 +1,324 @@
+[
+  {
+    "key": "UninvitedGuest-name",
+    "original": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객\nEN:\nInterloper"
+  },
+  {
+    "key": "UninvitedGuest-desc",
+    "original": "招かざる客を持つ人格が死んだとき、持っていない人格に移される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "招かざる客を持つ人格が死んだとき、持っていない人格に移される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불청객을 가진 인격이 죽을 때, 없는 인격에게 옮겨감.\nEN:\nWhen an Identity with Interloper is defeated, move to a different Identity without Interloper."
+  },
+  {
+    "key": "ConnectedPlug-name",
+    "original": "繋がったプラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "繋がったプラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연결된 플러그\nEN:\nPlugged In"
+  },
+  {
+    "key": "ConnectedPlug-desc",
+    "original": "ターン終了時\n- 最大3\n- 3になると、次のターンの間混乱状態になる。\n- 3になると、自分の全ての充電 回数を消耗。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時\n- 最大3\n- 3になると、次のターンの間混乱状態になる。\n- 3になると、自分の全ての充電 回数を消耗。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시\n- 최대 3\n- 3이 되면, 다음 턴동안 흐트러짐 상태가 됨.\n- 3이 되면, 자신의 모든 충전 횟수를 소모함.\nEN:\nTurn End:\n- Max 3\n- At 3, become Staggered next turn.\n- At 3, consume all Charge Count on self."
+  },
+  {
+    "key": "AntiSheepGround-name",
+    "original": "対羊電接地プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対羊電接地プラグ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대양전 접지 플러그\nEN:\nAnti-Ovine Grounding Plug"
+  },
+  {
+    "key": "AntiSheepGround-desc",
+    "original": "- 最大1\n- このバフを所有したまま接地拒否スキルにマッチ勝利時、対象に繋がったプラグ 1を付与\n- 対象の充電 回数が半減\n- 次のターンに消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大1\n- このバフを所有したまま接地拒否スキルにマッチ勝利時、対象に繋がったプラグ 1を付与\n- 対象の充電 回数が半減\n- 次のターンに消滅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 1\n- 해당 버프를 소유한 채, 접지 거부 스킬에 합 승리시 대상에게 연결된 플러그 1 부여\n- 대상의 충전 횟수 절반 감소\n-다음 턴에 소멸됨\nEN:\n- Max 1\n- When a unit under this effect wins a Clash against the 'Grounding Refusal' Skill, inflict 1 Plugged In against the target\n- Halve the Charge Count on the target\n- Expires next turn"
+  },
+  {
+    "key": "ThundercloudFormation-name",
+    "original": "電雲集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "電雲集\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전운집\nEN:\nGathering Lightning Cloud"
+  },
+  {
+    "key": "ThundercloudFormation-desc",
+    "original": "- 最大5\n- 数値が1のとき、強力なスキルを使用。\n- ターン終了時に1減少する。混乱状態になると1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大5\n- 数値が1のとき、強力なスキルを使用。\n- ターン終了時に1減少する。混乱状態になると1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대 5\n- 수치가 1일 때, 강한 스킬을 사용함.\n- 턴 종료 시 1 감소함. 흐트러짐 상태가 되면, 1 증가\nEN:\n- Max 5\n- At 1 value, use a powerful Skill.\n- Reduced by 1 at Turn End. Gain 1 value when Staggered"
+  },
+  {
+    "key": "Refraction4A-name",
+    "original": "1番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1번 편성 효과\nEN:\n#1 Deployment Effect"
+  },
+  {
+    "key": "Refraction4A-desc",
+    "original": "人格レベル +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格レベル +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 레벨 +2\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nIdentity Level +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4B-name",
+    "original": "2番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2번 편성 효과\nEN:\n#2 Deployment Effect"
+  },
+  {
+    "key": "Refraction4B-desc",
+    "original": "精神力回復効率 +3\n開始精神力 +10(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と数量だけE.G.O資源を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力回復効率 +3\n開始精神力 +10(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と数量だけE.G.O資源を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 회복 효율 +3\n시작 정신력 +10 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 수량만큼 E.G.O 자원을 얻음.\nEN:\nSP Heal Efficiency +3\nEntry SP +10 (-10 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on each Attack Skill's Affinity & number."
+  },
+  {
+    "key": "Refraction4C-name",
+    "original": "3番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "3番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3번 편성 효과\nEN:\n#3 Deployment Effect"
+  },
+  {
+    "key": "Refraction4C-desc",
+    "original": "攻撃レベル +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 +2\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nOffense Level +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4D-name",
+    "original": "4番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "4番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n4번 편성 효과\nEN:\n#4 Deployment Effect"
+  },
+  {
+    "key": "Refraction4D-desc",
+    "original": "防御レベル +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 +2\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nDefense Level +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4E-name",
+    "original": "5番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5번 편성 효과\nEN:\n#5 Deployment Effect"
+  },
+  {
+    "key": "Refraction4E-desc",
+    "original": "2ターン目から最大速度 +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "2ターン目から最大速度 +2\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n2턴부터 최대 속도 +2\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nStarting 2nd turn: Max Speed +2\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4F-name",
+    "original": "6番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6번 편성 효과\nEN:\n#6 Deployment Effect"
+  },
+  {
+    "key": "Refraction4F-desc",
+    "original": "体力最大値 +5%\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "体力最大値 +5%\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 +5%\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nMax HP +5%\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4G-name",
+    "original": "7番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "7番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n7번 편성 효과\nEN:\n#7 Deployment Effect"
+  },
+  {
+    "key": "Refraction4G-desc",
+    "original": "マッチ威力 +1\n開始精神力 +15(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力 +1\n開始精神力 +15(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 +1\n시작 정신력 +15 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nClash Power +1\nEntry SP +15 (-15 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4H-name",
+    "original": "8番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "8番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n8번 편성 효과\nEN:\n#8 Deployment Effect"
+  },
+  {
+    "key": "Refraction4H-desc",
+    "original": "被ダメージ量 -10%\n開始精神力 +15(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量 -10%\n開始精神力 +15(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 -10%\n시작 정신력 +15 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nDamage Taken -10%\nEntry SP +15 (-15 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4I-name",
+    "original": "9番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "9番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n9번 편성 효과\nEN:\n#9 Deployment Effect"
+  },
+  {
+    "key": "Refraction4I-desc",
+    "original": "挑発値 +5\n開始精神力 +20(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "挑発値 +5\n開始精神力 +20(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n도발치 +5\n시작 정신력 +20 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nAggro +5\nEntry SP +20 (-20 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4J-name",
+    "original": "10番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "10番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n10번 편성 효과\nEN:\n#10 Deployment Effect"
+  },
+  {
+    "key": "Refraction4J-desc",
+    "original": "与ダメージ量 +10%\n開始精神力 +20(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量 +10%\n開始精神力 +20(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 피해량 +10%\n시작 정신력 +20 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nDamage Dealt +10%\nEntry SP +20 (-10 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4K-name",
+    "original": "11番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "11番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n11번 편성 효과\nEN:\n#11 Deployment Effect"
+  },
+  {
+    "key": "Refraction4K-desc",
+    "original": "最終威力 +1\n開始精神力 +30(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力 +1\n開始精神力 +30(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 +1\n시작 정신력 +30 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nFinal Power +1\nEntry SP +30 (-30 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "Refraction4L-name",
+    "original": "12番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "12番編成効果\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n12번 편성 효과\nEN:\n#12 Deployment Effect"
+  },
+  {
+    "key": "Refraction4L-desc",
+    "original": "人格レベル +3\n開始精神力 +30(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "人格レベル +3\n開始精神力 +30(減算コイン人格は -で適用)\n死亡時、人格が保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 레벨 +3\n시작 정신력 +30 (빼기 코인 인격은 -로 적용)\n사망 시 인격이 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음.\nEN:\nIdentity Level +3\nEntry SP +30 (-30 for Minus Coin Identities)\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has."
+  },
+  {
+    "key": "BandageOfTheBoundKing-name",
+    "original": "縛られし王の包帯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "縛られし王の包帯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n묶인 왕의 붕대\nEN:\nBandages of the King in Binds"
+  },
+  {
+    "key": "BandageOfTheBoundKing-desc",
+    "original": "死亡時に全ての敵へ沈潜 威力2, 回数1を付与\n自分を倒した対象に縛られし王の包帯 を付与。対象が既にこの効果を持っているか、自分を倒した対象がいなければこの効果を持っていないランダムな敵へ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡時に全ての敵へ沈潜 威力2, 回数1を付与\n自分を倒した対象に縛られし王の包帯 を付与。対象が既にこの効果を持っているか、自分を倒した対象がいなければこの効果を持っていないランダムな敵へ付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망 시 모든 적에게 침잠 위력 2, 횟수 1 부여\n자신을 처치한 대상에게 묶인 왕의 붕대 부여. 대상에게 이미 해당 효과가 있거나 자신을 처치한 대상이 없으면, 해당 효과가 없는 무작위 적에게 부여\nEN:\nWhen defeated, inflict 2 Sinking Potency and 1 Count against all enemies.\nApply Bandages of the King in Binds against the target that defeated this unit. If the said target already has that effect, or if the said target does not exist, apply it to a random enemy without that effect"
+  },
+  {
+    "key": "ComeForwardToTheKing-name",
+    "original": "謁見の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "謁見の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n알현의 시간\nEN:\nMoment of Audience"
+  },
+  {
+    "key": "ComeForwardToTheKing-desc",
+    "original": "自分の全攻撃スキルの攻撃加重値 +{0}\nマッチ敗北時、次のターンに脆弱 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の全攻撃スキルの攻撃加重値 +{0}\nマッチ敗北時、次のターンに脆弱 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 모든 공격 스킬의 공격 가중치 +{0}\n합 패배 시 다음 턴에 취약 1을 얻음\nEN:\nGain +{0} Atk Weight to all of this unit's Attack Skills\nClash Lose: Gain 1 Fragile next turn"
+  },
+  {
+    "key": "RefractedWill-name",
+    "original": "屈折された意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "屈折された意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 의지\nEN:\nRefracted Determination"
+  },
+  {
+    "key": "RefractedWill-desc",
+    "original": "味方死亡時、基本精神力減少条件による精神力減少が半分で適用。(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時、基本精神力減少条件による精神力減少が半分で適用。(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 기본 정신력 감소 조건으로 인한 정신력 감소가 절반으로 적용. (소수점 버림)\nEN:\nHalve the amount of SP lost when an ally is defeated as per the Identity's 'Base factors decreasing Sanity(SP)'. (rounded down)"
+  },
+  {
+    "key": "VioletPeccatulumTwo-name",
+    "original": "嫉妬大罪 2型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "嫉妬大罪 2型\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n질투 죄종 2형\nEN:\nPeccatulum Invidiae Class 2"
+  },
+  {
+    "key": "VioletPeccatulumTwo-desc",
+    "original": "- 与ダメージ量 +15%\n- 被ダメージ量 -15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 与ダメージ量 +15%\n- 被ダメージ量 -15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 가하는 피해량 +15%\n- 받는 피해량 -15%\nEN:\n- Damage Dealt +15%\n- Damage Taken -15%"
+  },
+  {
+    "key": "BigWelcome-name",
+    "original": "盛大な歓待\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "盛大な歓待\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n성대한 환대\nEN:\nGrand Welcome"
+  },
+  {
+    "key": "BigWelcome-desc",
+    "original": "攻撃終了時、対象が混乱状態になるか死亡したなら傲慢属性E.G.O資源 +1, 残り属性のE.G.O資源のうちランダムに1種を +1(1ターンにつき最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃終了時、対象が混乱状態になるか死亡したなら傲慢属性E.G.O資源 +1, 残り属性のE.G.O資源のうちランダムに1種を +1(1ターンにつき最大3回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료 시 대상이 흐트러짐 상태가 되었거나 사망하였으면, 오만 속성 E.G.O 자원 +1, 나머지 속성의 E.G.O 자원 중 무작위 1종 +1 (턴 당 최대 3회 발동)\nEN:\nAfter Attack: if the target is Staggered or defeated, gain +1 Pride E.G.O resource and +1 E.G.O resource for 1 other random Affinity (3 times per turn)"
+  },
+  {
+    "key": "BreathSupport-name",
+    "original": "決戦の呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "決戦の呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n결전의 호흡\nEN:\nPoised Showdown"
+  },
+  {
+    "key": "BreathSupport-desc",
+    "original": "ウェーブ開始時に呼吸 威力4, 回数4を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウェーブ開始時に呼吸 威力4, 回数4を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n웨이브 시작 시 호흡 위력 4, 횟수 4 얻음.\nEN:\nWave Start: Gain 4 Poise Potency and Count."
+  },
+  {
+    "key": "FirmWill-name",
+    "original": "固い意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "固い意志\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굳은 의지\nEN:\nResilient Determination"
+  },
+  {
+    "key": "FirmWill-desc",
+    "original": "味方死亡時に精神力が減少しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方死亡時に精神力が減少しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시 정신력이 감소하지 않음.\nEN:\nDoes not lose SP upon ally defeat."
+  }
+]

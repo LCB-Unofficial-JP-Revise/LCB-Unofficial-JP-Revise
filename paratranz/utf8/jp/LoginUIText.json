@@ -1,0 +1,611 @@
+[
+  {
+    "key": "loginui_sign_in_with_google-content",
+    "original": "Googleアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Googleアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nGoogle 계정으로 로그인하기\nEN:\nSign in with Google"
+  },
+  {
+    "key": "loginui_sign_in_with_apple-content",
+    "original": "Appleアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Appleアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nApple 계정으로 로그인하기\nEN:\nSign in with Apple"
+  },
+  {
+    "key": "loginui_sign_in_with_steam-content",
+    "original": "Steamアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Steamアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nSteam 계정으로 로그인하기\nEN:\nSign in with Steam"
+  },
+  {
+    "key": "loginui_sign_in_with_guest-content",
+    "original": "ゲストアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲストアカウントでログイン\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게스트 계정으로 로그인하기\nEN:\nSign in as a guest"
+  },
+  {
+    "key": "loginui_sign_out_current_account-content",
+    "original": "ログアウト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ログアウト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 계정 로그아웃\nEN:\nSign Out"
+  },
+  {
+    "key": "loginui_sign_out_current_account_desc-content",
+    "original": "ログアウトしますか？\nゲストアカウントの場合、データが復元できない可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ログアウトしますか？\nゲストアカウントの場合、データが復元できない可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 계정을 로그아웃 하시겠습니까?\n게스트 계정일 경우에는 데이터가 유실될 수 있습니다\nEN:\nSign out from the current account?\nIf you’re playing as a guest, your data may be lost."
+  },
+  {
+    "key": "loginui_sign_out_switch_account_desc-content",
+    "original": "今のアカウントからログアウトして\n選択したアカウントに変更しますか？\nゲストアカウントの場合、データが復元できない可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "今のアカウントからログアウトして\n選択したアカウントに変更しますか？\nゲストアカウントの場合、データが復元できない可能性があります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 계정을 로그아웃하고\n선택한 계정으로 변경하시겠습니까?\n게스트 계정일 경우에는 데이터가 유실될 수 있습니다\nEN:\nSign out from the current account\nand switch to the selected one?\nIf you’re playing as a guest, your data may be lost."
+  },
+  {
+    "key": "switch_account-content",
+    "original": "アカウント変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アカウント変更\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계정 변경\nEN:\nChange Account"
+  },
+  {
+    "key": "user_agreements-content",
+    "original": "利用約款\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "利用約款\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이용 약관\nEN:\nTerms of Service"
+  },
+  {
+    "key": "title_game_data_download-content",
+    "original": "ゲームデータのダウンロード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲームデータのダウンロード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임 데이터 다운로드\nEN:\nDownload Game Data"
+  },
+  {
+    "key": "content_game_data_download-content",
+    "original": "{0}のデータをダウンロードします\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}のデータをダウンロードします\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 의 데이터를 다운로드합니다\nEN:\nDownloading {0} of data."
+  },
+  {
+    "key": "content_game_data_download_description-content",
+    "original": "容量が不足している場合はタイトル画面へ戻ります\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "容量が不足している場合はタイトル画面へ戻ります\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저장 공간이 부족한 경우에는 타이틀 화면으로 돌아갑니다\nEN:\nYou will be returned to the title screen if your device has insufficient storage space."
+  },
+  {
+    "key": "content_game_data_download_recommend-content",
+    "original": "Wi-Fi環境でダウンロードすることを推奨します\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Wi-Fi環境でダウンロードすることを推奨します\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nWi-Fi 환경에서 다운로드하는 걸 권장합니다\nEN:\nA direct Internet connection (Wi-Fi) is recommended."
+  },
+  {
+    "key": "switch_allcacheclear-content",
+    "original": "全キャッシュを削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全キャッシュを削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 캐시 삭제\nEN:\nClear all caches"
+  },
+  {
+    "key": "switch_oldcacheclear-content",
+    "original": "古いキャッシュを削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "古いキャッシュを削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전 캐시 삭제\nEN:\nClear old caches"
+  },
+  {
+    "key": "networkingerror_content-content",
+    "original": "ネットワークが不安定です。\nネットワーク状態を確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ネットワークが不安定です。\nネットワーク状態を確認してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n네트워크가 불안정합니다.\n 네트워크 상태를 확인해 주세요\nEN:\nThe network is unstable.\nPlease check your Internet connection."
+  },
+  {
+    "key": "networkingerror_close-content",
+    "original": "閉じる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "閉じる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닫기\nEN:\nClose"
+  },
+  {
+    "key": "networkingerror_retry-content",
+    "original": "リトライ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リトライ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재시도\nEN:\nRetry"
+  },
+  {
+    "key": "loginui_ok-content",
+    "original": "確認\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "確認\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n확인\nEN:\nConfirm"
+  },
+  {
+    "key": "login_cancel-content",
+    "original": "キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "キャンセル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n취소\nEN:\nCancel"
+  },
+  {
+    "key": "loginui_loading_battlehint-content",
+    "original": "TIPS\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "TIPS\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 팁\nEN:\nCombat Tips"
+  },
+  {
+    "key": "servererror_content-content",
+    "original": "サーバーエラーが発生しました。\nしばらくしてからやり直してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サーバーエラーが発生しました。\nしばらくしてからやり直してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서버 에러가 발생하였습니다.\n잠시 후에 다시 시도해 주세요.\nEN:\nA server error has occurred.\nPlease try again in a moment."
+  },
+  {
+    "key": "forcequit_content-content",
+    "original": "ゲームを進行することが出来ません。\nゲームが終了します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲームを進行することが出来ません。\nゲームが終了します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임을 진행할 수 없습니다.\n게임이 종료됩니다.\nEN:\nCannot operate the game.\nShutting down now."
+  },
+  {
+    "key": "serverstate_openpreparation-content",
+    "original": "準備中です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "準備中です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오픈 준비 중입니다.\nEN:\nThings are still being prepared!"
+  },
+  {
+    "key": "serverstate_regularcheck-content",
+    "original": "サーバーの定期メンテナンス中です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サーバーの定期メンテナンス中です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서버 정기 점검이 진행 중입니다.\nEN:\nThe server is currently under routine maintenance."
+  },
+  {
+    "key": "serverstate_temporary_check-content",
+    "original": "サーバーの臨時メンテナンス中です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "サーバーの臨時メンテナンス中です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n서버 임시 점검이 진행 중입니다.\nEN:\nThe server is currently under temporary maintenance."
+  },
+  {
+    "key": "serverstate_verify_invaliduser-content",
+    "original": "存在しないか、退会処理が完了したアカウントです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "存在しないか、退会処理が完了したアカウントです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n존재하지 않거나 탈퇴 처리가 완료된 계정입니다.\nEN:\nThe account does not exist or has been closed."
+  },
+  {
+    "key": "serverstate_verify_ban-content",
+    "original": "ゲーム利用が制限されたアカウントです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲーム利用が制限されたアカウントです。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임 이용이 제한된 계정입니다.\nEN:\nThe account is restricted from playing."
+  },
+  {
+    "key": "serverstate_verify_invalidauth-content",
+    "original": "エラーが発生しました。\n再度ログインしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エラーが発生しました。\n再度ログインしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오류가 발생하였습니다.\n다시 로그인을 진행해주세요.\nEN:\nAn error has occurred.\nPlease sign in again."
+  },
+  {
+    "key": "guestlogin_failed_try_newguest-content",
+    "original": "ゲストログインに失敗しました。\nゲストアカウントが存在しないか、既に連携済みのアカウントです。\n\n新しいゲストアカウントを作成しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲストログインに失敗しました。\nゲストアカウントが存在しないか、既に連携済みのアカウントです。\n\n新しいゲストアカウントを作成しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게스트 계정이 존재하지 않거나,\n이미 연동된 계정이기 때문에 게스트 로그인에 실패하였습니다.\n\n새로운 게스트 계정을 만드시겠습니까?\nEN:\nFailed Guest Login.\nThe account is either already linked, or the Guest account doesn't exist.\n\nWould you like to make a new Guest account?"
+  },
+  {
+    "key": "secession_remain_days-content",
+    "original": "該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n\nログイン時、アカウントが復旧されます。\nアカウント復旧を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n\nログイン時、アカウントが復旧されます。\nアカウント復旧を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 계정은 탈퇴 처리 중 입니다.\n남은 시간 : {0}일 {1}시간 {2}분\n\n로그인 시, 계정이 복구됩니다.\n계정 복구를 진행하시겠습니까?\nEN:\nThe account is currently under a closure period.\nTime Remaining: {0}D {1}H {2}M\n\nYou can recover the account if you sign in now.\nRecover the account?"
+  },
+  {
+    "key": "secession_canceled-content",
+    "original": "アカウントの復旧が正常に完了しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "アカウントの復旧が正常に完了しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계정 복구가 정상적으로 완료되었습니다.\nEN:\nAccount recovered successfully."
+  },
+  {
+    "key": "serverstate_verify_invalidclientversion-content",
+    "original": "ゲームクライアントをアップデートしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲームクライアントをアップデートしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임 클라이언트를 업데이트 해야 합니다.\nEN:\nThe game client must be updated."
+  },
+  {
+    "key": "create_guest-content",
+    "original": "ゲスト生成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲスト生成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게스트 생성\nEN:\nCreate Guest Account"
+  },
+  {
+    "key": "ask_to_remove_all_cache-content",
+    "original": "全てのキャッシュを削除しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "全てのキャッシュを削除しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 캐시를 삭제하시겠습니까?\nEN:\nClear all caches?"
+  },
+  {
+    "key": "networkingerror_update-content",
+    "original": "ストアへ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ストアへ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스토어로 이동\nEN:\nGo to Store"
+  },
+  {
+    "key": "speed_hack_warning-content",
+    "original": "不認可プログラムの使用が確認されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不認可プログラムの使用が確認されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비인가 프로그램 사용이 확인되었습니다.\nEN:\nUsage of unauthorized third party program has been detected."
+  },
+  {
+    "key": "serverstate_verify_ban_startdate-content",
+    "original": "日時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "日時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n일자\nEN:\nDate"
+  },
+  {
+    "key": "serverstate_verify_ban_reason-content",
+    "original": "内容\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "内容\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내용\nEN:\nDescription"
+  },
+  {
+    "key": "serverstate_verify_ban_reason_refund-content",
+    "original": "オープンマーケット返金システムの濫用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オープンマーケット返金システムの濫用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오픈 마켓 환불 시스템 어뷰징\nEN:\nAbuse of Open Market refund system"
+  },
+  {
+    "key": "serverstate_verify_ban_reason_cheat-content",
+    "original": "不正なゲーム利用記録\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "不正なゲーム利用記録\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비정상적인 게임 이용 기록\nEN:\nAbnormal game activity records"
+  },
+  {
+    "key": "serverstate_blocking_endpoint-content",
+    "original": "現在メンテナンス中の機能です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "現在メンテナンス中の機能です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 점검 중인 기능입니다.\nEN:\nThis function is currently under maintenance."
+  },
+  {
+    "key": "serverstate_verify_invaliduuid-content",
+    "original": "既に処理されたリクエストです。\n同期化のため、ゲームを再起動してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "既に処理されたリクエストです。\n同期化のため、ゲームを再起動してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 처리된 요청입니다.\n동기화를 위해 게임을 다시 실행해 주세요.\nEN:\nThis request has already been processed.\nPlease restart the game to synchronize."
+  },
+  {
+    "key": "login_scene_mini_story_warning_spoiler_format-content",
+    "original": "メインストーリー{0}章以降の内容が含まれています。\nストーリーを閲覧しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインストーリー{0}章以降の内容が含まれています。\nストーリーを閲覧しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n주요 이야기 {0}장 이후의 내용을 담고 있습니다. 스토리를 감상하시겠습니까?\nEN:\nThis story takes place after the Main Story Chapter {0}. Would you like to view the story anyway?"
+  },
+  {
+    "key": "login_scene_mini_story_unlock_code_105-content",
+    "original": "5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5\nEN:\n5"
+  },
+  {
+    "key": "login_scene_mini_story_unlock_code_9105-content",
+    "original": "5.5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "5.5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n5.5\nEN:\n5.5"
+  },
+  {
+    "key": "switch_clearcatalog-content",
+    "original": "カタログ削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カタログ削除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n카탈로그 삭제\nEN:\nDelete Catalogue"
+  },
+  {
+    "key": "panel_clearcatalog-content",
+    "original": "カタログを削除しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カタログを削除しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n카탈로그를 삭제하시겠습니까?\nEN:\nDelete catalogue?"
+  },
+  {
+    "key": "serverstate_error_thirdparty_api-content",
+    "original": "外部サーバーとの通信に問題が発生しました。しばらくしてまた試してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "外部サーバーとの通信に問題が発生しました。しばらくしてまた試してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n외부 서버와의 통신에 문제가 발생하였습니다. 잠시 후에 다시 시도해 주십시오.\nEN:\nExternal server connection error. Please try again at a later time."
+  },
+  {
+    "key": "servererror_invalid_purchasing_package-content",
+    "original": "商品の決済に失敗しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "商品の決済に失敗しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상품거래에 실패하였습니다.\nEN:\nTransaction failed."
+  },
+  {
+    "key": "forcequit_cache_initialize_fail-content",
+    "original": "ゲームクライアントが正しく起動できませんでした。\nネットワーク接続状態を確認してやり直してください。\nお問い合わせ: limbussupport+bug@projmoon.com\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ゲームクライアントが正しく起動できませんでした。\nネットワーク接続状態を確認してやり直してください。\nお問い合わせ: limbussupport+bug@projmoon.com\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게임 클라이언트가 정상적으로 기동하지 못하였습니다.\n네트워크 연결 상태를 확인하시고 다시 시도해 주세요.\n문의: limbussupport+bug@projmoon.com\nEN:\nGame Client failed to launch properly.\nPlease confirm your network status and try again.\nInquiries: limbussupport+bug@projmoon.com"
+  },
+  {
+    "key": "push_notification_message_full_stamina_default_title-content",
+    "original": "リンバス・カンパニー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "リンバス・カンパニー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n림버스 컴퍼니\nEN:\nLimbus Company"
+  },
+  {
+    "key": "push_notification_message_full_stamina_default_text-content",
+    "original": "エンケファリンの充填が完了しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリンの充填が完了しました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전이 완료되었습니다.\nEN:\nEnkephalin has been fully recharged."
+  },
+  {
+    "key": "push_notification_message_full_stamina_1_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_1_text-content",
+    "original": "異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…要件は以上なり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "異常と思わずともよろし。ただ、エンケファリン満ちきと言いに推参せしばかりなれば…要件は以上なり。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이상하다 여길 것은 없소. 그저 엔케팔린이 가득 찼다 말하러 온 것이기에… 용건은 이상이오.\nEN:\nTake notice, yet naught is odd here. Ideally, my only purpose here would be to inform you that Enkephalin is replenished fully. Such is all I have to say."
+  },
+  {
+    "key": "push_notification_message_full_stamina_2_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_2_text-content",
+    "original": "エンケファリンがいっぱいになりましたね、管理人さん。効率的な使用のためモジュールへの変換をお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリンがいっぱいになりましたね、管理人さん。効率的な使用のためモジュールへの変換をお勧めします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린이 가득 찼네요. 관리자님. 효율적인 사용을 위해서 모듈로의 변환을 추천드립니다.\nEN:\nEnkephalin recharge is complete. Dear manager, Enkephalin module conversion is recommended for the sake of efficiency."
+  },
+  {
+    "key": "push_notification_message_full_stamina_3_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_3_text-content",
+    "original": "燃料タンクがパンパンになりましたぞ、管理人殿ぉおお！！！冒険に出るべきだというのにどこへ行かれたのでありまするか！！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "燃料タンクがパンパンになりましたぞ、管理人殿ぉおお！！！冒険に出るべきだというのにどこへ行かれたのでありまするか！！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n연료통이 빵빵해졌소, 관리자 나리이이!!! 모험을 떠나야 하는데 어디로 간 겐가!!!\nEN:\nMANAGER ESQUIRE!!! THE FUEL TANK HATH BEEN REFILLED!!! COME HITHER, FOR OUR ADVENTURES MUST GO ON!!!"
+  },
+  {
+    "key": "push_notification_message_full_stamina_4_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_4_text-content",
+    "original": "エン・ファ・充・了(エンケファリン充填完了)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エン・ファ・充・了(エンケファリン充填完了)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔.팔.충.완.(엔케팔린 충전 완료.)\nEN:\nE.C.(Enkephalin Charged.)"
+  },
+  {
+    "key": "push_notification_message_full_stamina_5_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_5_text-content",
+    "original": "エンケファリンの充填が完了しました、管理人様。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリンの充填が完了しました、管理人様。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전이 완료되었습니다, 관리자님.\nEN:\nEnkephalin has been fully recharged, manager."
+  },
+  {
+    "key": "push_notification_message_full_stamina_6_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_6_text-content",
+    "original": "わぁ～もうエンケファリンが満タンまで充填されたみたいですね～。確認しに行きませんか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "わぁ～もうエンケファリンが満タンまで充填されたみたいですね～。確認しに行きませんか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n와아~ 벌써 엔케팔린이 다 충전됐나 봐요~ 확인해 보러 가지 않으실래요?\nEN:\nWoow~ Enkephalin's already fully charged~ Would you like to go check?"
+  },
+  {
+    "key": "push_notification_message_full_stamina_7_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_7_text-content",
+    "original": "そのなんだ。エンケ…？とにかく緑色の燃料、アレが充填されたってよ。ちょっと見てこいよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "そのなんだ。エンケ…？とにかく緑色の燃料、アレが充填されたってよ。ちょっと見てこいよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 뭐냐. 엔케…? 아무튼 초록색 연료 그거 충전 다 됐다더라. 가서 좀 봐.\nEN:\nThe, uh. Enkeph—? ... The green stuff's full. Go take a gander, yeah?"
+  },
+  {
+    "key": "push_notification_message_full_stamina_8_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_8_text-content",
+    "original": "エンケファリン充填完了…。ふむ、またバスを動かせられそうですね。早く行きましょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了…。ふむ、またバスを動かせられそうですね。早く行きましょう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료... 음. 다시 버스가 출발할 수 있겠네요. 어서 가보죠.\nEN:\nEnkephalin's been recharged... Hm. Yeah, the bus is ready for another voyage. Let's go."
+  },
+  {
+    "key": "push_notification_message_full_stamina_9_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_9_text-content",
+    "original": "ダンテ～エンケファリンの充填終わったよ。モジュールに変えないとこれ以上溜まらないよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ダンテ～エンケファリンの充填終わったよ。モジュールに変えないとこれ以上溜まらないよ～。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단테~ 엔케팔린 충전 끝났어. 모듈로 안 바꾸면 더 안 쌓일 거라구~\nEN:\nDante~ Enkephalin's charged! Don'tcha forget to convert 'em to modules!"
+  },
+  {
+    "key": "push_notification_message_full_stamina_11_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_11_text-content",
+    "original": "管理人さん…忙しいんですか？た、大したことじゃ無くて…エンケファリンが溢れてるので…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "管理人さん…忙しいんですか？た、大したことじゃ無くて…エンケファリンが溢れてるので…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자님... 바쁘신가요? 벼, 별건 아니고… 엔케팔린이 넘치고 있어서…\nEN:\nHi, manager... are you... busy? I-it's nothing too serious, but... Enkephalin's about to overflow..."
+  },
+  {
+    "key": "push_notification_message_full_stamina_12_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_12_text-content",
+    "original": "報告いたします、管理人様。エンケファリンの充填が完了しました。消耗か蓄積をお勧めいたします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報告いたします、管理人様。エンケファリンの充填が完了しました。消耗か蓄積をお勧めいたします。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보고드립니다, 관리자님. 엔케팔린이 완충되었습니다. 소모나 축적을 권장드립니다.\nEN:\nReporting to the Executive Manager. Enkephalin has been fully replenished. May I suggest that you use or convert them?"
+  },
+  {
+    "key": "push_notification_message_full_stamina_13_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_13_text-content",
+    "original": "おい、管理人の旦那！その、バスの燃料がいっぱいになったんだけど…確認してみるのはどうだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "おい、管理人の旦那！その、バスの燃料がいっぱいになったんだけど…確認してみるのはどうだ？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어어, 관리자 양반! 그, 버스 연료가 가득 찼는데... 한 번 확인하지 그래?\nEN:\nUhh, manager bud? You there? The, uh, the bus fuel tank is full... Might wanna come check?"
+  },
+  {
+    "key": "push_notification_message_full_stamina_14_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_14_text-content",
+    "original": "休憩時間は終わりました、管理人ダンテ。バスをあまり長いこと立ち往生させないでください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "休憩時間は終わりました、管理人ダンテ。バスをあまり長いこと立ち往生させないでください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식 시간은 끝났습니다. 관리자 단테. 버스를 너무 오래 세워두지 마시지요.\nEN:\nYour break is over, manager Dante. Don't keep the bus sitting for too long."
+  },
+  {
+    "key": "push_notification_message_full_stamina_15_title-content",
+    "original": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "エンケファリン充填完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n엔케팔린 충전 완료\nEN:\nEnkephalin Charged"
+  },
+  {
+    "key": "push_notification_message_full_stamina_15_text-content",
+    "original": "メフィがお腹いっぱいだって。カロン、ぶるんぶるんする時間だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メフィがお腹いっぱいだって。カロン、ぶるんぶるんする時間だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메피가 배부르대, 카론. 부릉부릉할 시간이야.\nEN:\nMephi's stuffed. Charon, time to vroom-vroom."
+  },
+  {
+    "key": "custom_localize_button-content",
+    "original": "カスタム言語選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カスタム言語選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n커스텀 언어 선택\nEN:\nSelect Custom Language"
+  },
+  {
+    "key": "custom_localize_title-content",
+    "original": "カスタム言語選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "カスタム言語選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n커스텀 언어 선택\nEN:\nSelect Custom Language"
+  },
+  {
+    "key": "custom_localize_desc-content",
+    "original": "※言語変更はゲーム再起動時に適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "※言語変更はゲーム再起動時に適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 언어 변경은 게임 재시작 시 정상 적용됩니다.\nEN:\n※ Restart the game to apply the language change."
+  },
+  {
+    "key": "steam_overlay_cannot_activate_title-content",
+    "original": "Steam取引エラー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Steam取引エラー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스팀 거래 오류\nEN:\nSteam Transaction Error"
+  },
+  {
+    "key": "steam_overlay_cannot_activate_text-content",
+    "original": "Steamライブラリにて\n[ゲーム中にSteamオーバーレイを有効にする]をオンにして\n再ログインしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "Steamライブラリにて\n[ゲーム中にSteamオーバーレイを有効にする]をオンにして\n再ログインしてください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nSteam 라이브러리에서\n[게임 내 Steam 오버레이 사용]을 활성화 후\n재접속해주세요.\nEN:\nPlease turn on the [Enable the Steam Overlay while in-game] option\nfrom Steam's game properties - General,\nthen restart the game."
+  },
+  {
+    "key": "servererror_remain_restore_purchasing-content",
+    "original": "まだ進行中の取引が存在します。\n[購入復元]ボタンを押して再度試行してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "まだ進行中の取引が存在します。\n[購入復元]ボタンを押して再度試行してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아직 진행중이던 거래가 존재합니다.\n[구매 복구] 버튼을 눌러 재시도해주세요.\nEN:\nA transaction is still in progress.\nPlease use the [Restore Purchase] button and try again."
+  }
+]

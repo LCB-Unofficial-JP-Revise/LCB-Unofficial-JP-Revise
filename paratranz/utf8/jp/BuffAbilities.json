@@ -1,0 +1,639 @@
+[
+  {
+    "key": "AtkDamageMultiplier-desc",
+    "original": "与ダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 피해량 {0}%\nEN:\n{0}% to damage dealt"
+  },
+  {
+    "key": "AtkDamageMultiplier-variation",
+    "original": "{0} 与ダメージ量 {1}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0} 与ダメージ量 {1}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 {0} 피해량 {1}%\nEN:\n{1}% to {0} damage dealt"
+  },
+  {
+    "key": "AtkAndTakeAtkDamageMultiplier-desc",
+    "original": "与・被ダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与・被ダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가하는 / 받는 피해량 {0}%\nEN:\n{0}% to damage dealt & taken"
+  },
+  {
+    "key": "AtkAndTakeAtkDamageMultiplier-variation",
+    "original": "{0}属性スキルの与・被ダメージ量 {1}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}属性スキルの与・被ダメージ量 {1}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 속성 스킬로 가하는 / 받는 피해량 {1}%\nEN:\n{1}% to damage dealt & taken with {0} Affinity"
+  },
+  {
+    "key": "GiveBuffOnSucceedAttack-desc",
+    "original": "的中時{0} {1}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "的中時{0} {1}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적중 시 {0} {1} 부여\nEN:\nApply {1} {0} On Hit"
+  },
+  {
+    "key": "MaxHpMultiplierRail-desc",
+    "original": "最大体力 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 {0}%\nEN:\nMax HP {0}%"
+  },
+  {
+    "key": "SlotWeightAdder-desc",
+    "original": "スロット加重値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スロット加重値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n슬롯 가중치 {0}\nEN:\nSlot Weight {0}"
+  },
+  {
+    "key": "AtkAdder-desc",
+    "original": "攻撃レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 {0}\nEN:\nOffense Level {0}"
+  },
+  {
+    "key": "DefAdder-desc",
+    "original": "防御レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "防御レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 {0}\nEN:\nDefense Level {0}"
+  },
+  {
+    "key": "AtkAdderIfNotDamagedPrevTurn-desc",
+    "original": "1ターンの間、体力ダメージを受けなければ次のターンに攻撃レベル {0}\n(バリアのダメージは該当しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "1ターンの間、体力ダメージを受けなければ次のターンに攻撃レベル {0}\n(バリアのダメージは該当しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 턴 동안 체력 피해를 받지 않았다면 다음 턴에 공격 레벨 {0}\n(보호막 피해는 해당되지 않음)\nEN:\nOffense Level {0} if user took no HP damage for a turn\n(Shield damage ≠ HP damage)"
+  },
+  {
+    "key": "MaxSpeedAdderAsStack-desc",
+    "original": "速度最大値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度最大値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최댓값 {0}\nEN:\nMax Speed {0}"
+  },
+  {
+    "key": "MaxSpeedAdder-desc",
+    "original": "速度最大値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度最大値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최댓값 {0}\nEN:\nMax Speed {0}"
+  },
+  {
+    "key": "MinSpeedAdder-desc",
+    "original": "速度最小値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度最小値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최솟값 {0}\nEN:\nMin Speed {0}"
+  },
+  {
+    "key": "TakeHpHealMultiplier-desc",
+    "original": "スキル・コイン効果による体力回復量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル・コイン効果による体力回復量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬, 코인 효과를 통한 체력 회복량 {0}%\nEN:\nHP Healed from Skill and Coin Effects {0}%"
+  },
+  {
+    "key": "RecoverSelfHpOnSucceedAttackByDmg-desc",
+    "original": "与ダメージの{0}%体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "与ダメージの{0}%体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가한 피해량의 {0}%만큼 체력 회복\nEN:\nHeal {0}% of Damage dealt"
+  },
+  {
+    "key": "RailEnemyBuffF-desc",
+    "original": "囚人がE.G.Oスキル使用時に消耗するE.G.O資源の数量 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "囚人がE.G.Oスキル使用時に消耗するE.G.O資源の数量 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수감자가 E.G.O 스킬을 사용할 때 소모하는 E.G.O 자원 수량 {0}\nEN:\n{0} to amount of E.G.O resources consumed by Sinners when using E.G.O Skills"
+  },
+  {
+    "key": "MaxHpMultiplier-desc",
+    "original": "最大体力 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 {0}%\nEN:\nMax HP {0}%"
+  },
+  {
+    "key": "AtkAndDefAdder-desc",
+    "original": "攻撃レベル {0}, 防御レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃レベル {0}, 防御レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 {0}, 방어 레벨 {0}\nEN:\nOffense Level {0}, Defense Level {0}"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAlly-desc",
+    "original": "ターン開始時に味方全体へ{0} {1}, {0} 回数を{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に味方全体へ{0} {1}, {0} 回数を{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 아군 전체에게 {0} {1}, {0} 횟수 {2} 부여\nEN:\nAt the start of the turn, apply {1} {0} and +{2} {0} Count to all allies"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAlly-variation",
+    "original": "ターン開始時に味方全体へ{0} {1}を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に味方全体へ{0} {1}を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 아군 전체에게 {0} {1} 부여\nEN:\nAt the start of the turn, apply {1} {0} to all allies."
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAlly-variation2",
+    "original": "ターン開始時に味方全体へ{0} 回数を{1}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に味方全体へ{0} 回数を{1}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 아군 전체에게 {0} 횟수 {1} 부여\nEN:\nAt the start of the turn, apply +{1} {0} Count to all allies"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllAllyExtra-desc",
+    "original": "ターン開始時に味方全体へ{0} {1}を付与、{0}状態の味方には{0} 回数を追加で{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に味方全体へ{0} {1}を付与、{0}状態の味方には{0} 回数を追加で{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 아군 전체에게 {0} {1} 부여, {0} 상태인 아군에게는 {0} 횟수 {2} 추가로 부여\nEN:\nAt the start of the turn, apply {1} {0} to all allies and apply +{2} more {0} Count to allies with {0}"
+  },
+  {
+    "key": "GiveBuffOnRoundStartToAllEnemyExtra-desc",
+    "original": "ターン開始時に敵全体へ{0} {1}を付与、{0}状態の敵には{0} 回数を追加で{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時に敵全体へ{0} {1}を付与、{0}状態の敵には{0} 回数を追加で{2}付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 적 전체에게 {0} {1} 부여, {0} 상태인 적에게는 {0} 횟수 {2} 추가로 부여\nEN:\nAt the start of the turn, apply {1} {0} to all enemies and apply +{2} more {0} Count to all enemies with {0}"
+  },
+  {
+    "key": "LoseTurnOnRoundEnd-desc",
+    "original": "ターン終了時に回数が{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に回数が{0}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 횟수 {0} 감소\nEN:\nTurn End: lose {0} Count"
+  },
+  {
+    "key": "Vibration-desc",
+    "original": "{1}ターンの間、振動爆発スキルで被ダメージ時に混乱区間が{0}前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{1}ターンの間、振動爆発スキルで被ダメージ時に混乱区間が{0}前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{1}턴 동안 진동 폭발 스킬로 피격 시 {0}만큼 흐트러짐 손상\nEN:\nWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s)."
+  },
+  {
+    "key": "DefAdderByStackCeilToInt-desc",
+    "original": "振動威力4につき、防御レベルが1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動威力4につき、防御レベルが1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 위력 4 당 방어 레벨 1 감소\nEN:\nLose 1 Defense Level for every 4 Tremor Potency"
+  },
+  {
+    "key": "Crack-desc",
+    "original": "- 混乱状態になったとき、自分の振動威力とマッチ回数の合計が20以上なら、混乱段階を1増加\n- 該当効果によって最大混乱段階を超過することはない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 混乱状態になったとき、自分の振動威力とマッチ回数の合計が20以上なら、混乱段階を1増加\n- 該当効果によって最大混乱段階を超過することはない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐트러짐 상태가 되었을 때, 자신의 진동 위력과 횟수의 합이 20 이상이면, 흐트러짐 단계 1 증가\n해당 효과로 최대 흐트러짐 단계를 초과할 수 없음\nEN:\nWhen Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\nCannot exceed maximum Stagger Level with this effect"
+  },
+  {
+    "key": "VibrationEcho-desc",
+    "original": "{1}ターンの間、振動爆発時に{0}だけ怠惰ダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{1}ターンの間、振動爆発時に{0}だけ怠惰ダメージを受ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{1} 턴 동안 진동 폭발 시 {0}만큼 나태 피해를 입음.\nEN:\nWhen hit by attacks that trigger Tremor Burst, take {0} Sloth damage."
+  },
+  {
+    "key": "VibrationDistribution-desc",
+    "original": "ターン終了時、(味方全体の振動 - 分配回数の合計 ÷ (人員数(振動 - 分配を持つ味方数))だけ次のターンに攻撃レベル増加を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、(味方全体の振動 - 分配回数の合計 ÷ (人員数(振動 - 分配を持つ味方数))だけ次のターンに攻撃レベル増加を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 (아군 전체의 진동 - 분배 횟수의 합 / (인원 수(진동 - 분배가 있는 아군 수))만큼 다음 턴에 공격 레벨 증가를 얻음 (최대 5)\nEN:\n- Turn End: Gain ((sum of all allies' Tremor - Distribution Count) / (# of allies with Tremor - Distribution)) Offense Level Up next turn (max 5)"
+  },
+  {
+    "key": "VibrationChain-desc",
+    "original": "対象の振動威力10につき、マッチ威力が1減少(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "対象の振動威力10につき、マッチ威力が1減少(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 진동 위력 10 당 합 위력 1 감소 (최대 3)\nEN:\nLose 1 Clash Power for every 10 Tremor Potency on target (max 3)"
+  },
+  {
+    "key": "VibrationContinue-desc",
+    "original": "スキル・コイン効果で振動爆発時、{0}%の確率で自分の振動爆発が1回追加で発動(最大50%)\n- スキル・コイン効果で振動爆発時、{1}%の確率で自分の振動爆発が1回追加で発動(最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル・コイン効果で振動爆発時、{0}%の確率で自分の振動爆発が1回追加で発動(最大50%)\n- スキル・コイン効果で振動爆発時、{1}%の確率で自分の振動爆発が1回追加で発動(最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬, 코인 효과로 진동 폭발 시 자신의 {0}% 확률로 진동 폭발 1회 추가 발동. (최대 50%)\n- 스킬, 코인 효과로 진동 폭발 시 자신의 {1}% 확률로 진동 폭발 1회 추가 발동. (최대 50%)\nEN:\n- When triggering Tremor Burst with Skill or Coin effects, {0}% chance to trigger an additional Tremor Burst. (max 50%)\n- When triggering Tremor Burst with Skill or Coin effects, {1}% chance to trigger an additional Tremor Burst. (max 50%)"
+  },
+  {
+    "key": "TimeSuspend-desc",
+    "original": "効果発動時、{3}分の怠惰ダメージを与えて振動爆発を{0}回発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "効果発動時、{3}分の怠惰ダメージを与えて振動爆発を{0}回発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n효과 발동 시 {3}만큼 나태 피해를 입히고 진동 폭발 {0}회 발동\nEN:\nUpon activation, deal {3} Sloth damage and trigger {0} Tremor Burst(s)"
+  },
+  {
+    "key": "TimeRentalTwoPersonality-name",
+    "original": "時間貸与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "時間貸与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시간 대여\nEN:\nBorrowed Time"
+  },
+  {
+    "key": "TimeRentalTwoPersonality-desc",
+    "original": "ターン終了時に次のターンにてクイック、マッチ威力増加、脆弱を{1}得る\n回数が1なら、ターン終了時この効果の代わりに次のターンにて束縛{0}を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に次のターンにてクイック、マッチ威力増加、脆弱を{1}得る\n回数が1なら、ターン終了時この効果の代わりに次のターンにて束縛{0}を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 다음 턴에 신속, 합 위력 증가, 취약 {1} 만큼 얻음\n횟수가 1이면, 턴 종료시 효과를 대신하여 다음 턴에 속박 {0} 얻음\nEN:\nTurn End: gain {1} Haste, Clash Power Up, and Fragile next turn\nAt 1 Count, gain {0} Bind next turn instead"
+  },
+  {
+    "key": "VibrationChainPersonality-name",
+    "original": "振動 - 鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動 - 鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 - 사슬\nEN:\nTremor - Chain"
+  },
+  {
+    "key": "VibrationChainPersonality-desc",
+    "original": "振動威力10につき、マッチ威力が1減少(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "振動威力10につき、マッチ威力が1減少(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진동 위력 10 당 합 위력 1 감소 (최대 3)\nEN:\nLose 1 Clash Power for every 10 Tremor Potency (max 3)"
+  },
+  {
+    "key": "DefSkillPowerResultAdder-desc",
+    "original": "守備スキル最終威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "守備スキル最終威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수비 스킬 최종 위력 {0}\nEN:\nDefense Skill Final Power {0}"
+  },
+  {
+    "key": "TakeAtkDamageMultiplier-desc",
+    "original": "被ダメージ量{0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "被ダメージ量{0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n받는 피해량 {0}%\nEN:\nDamage Taken {0}%"
+  },
+  {
+    "key": "ParryingResultAdder-desc",
+    "original": "マッチ威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "マッチ威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 위력 {0}\nEN:\nClash Power {0}"
+  },
+  {
+    "key": "SkillPowerResultAdder-desc",
+    "original": "最終威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最終威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최종 위력 {0}\nEN:\nFinal Power {0}"
+  },
+  {
+    "key": "SkillPowerAdder-desc",
+    "original": "基本威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 위력 {0}\nEN:\nBase Power {0}"
+  },
+  {
+    "key": "PlusCoinScaleAdder-desc",
+    "original": "加算コイン威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "加算コイン威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n더하기 코인 위력 {0}\nEN:\nPlus Coin Power {0}"
+  },
+  {
+    "key": "MinusCoinScaleAdder-desc",
+    "original": "減算コイン威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "減算コイン威力{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빼기 코인 위력 {0}\nEN:\nMinus Coin Power {0}"
+  },
+  {
+    "key": "DefaultMaxHpMultiplier-desc",
+    "original": "最大体力 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最大体力 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최대 체력 {0}%\nEN:\nMax HP {0}%"
+  },
+  {
+    "key": "ResistAdderForLastBoss-desc",
+    "original": "区間3最終ボスの{0}耐性 {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "区間3最終ボスの{0}耐性 {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3구간 마지막 보스의 {0} 내성 {1}\nEN:\nFinal Boss of Section 3 {0} Resistance {1}"
+  },
+  {
+    "key": "MRR519P-desc",
+    "original": "味方が死亡するたび、敵全体へ死亡した味方の体力最大値20%分の固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方が死亡するたび、敵全体へ死亡した味方の体力最大値20%分の固定ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 사망할 때마다 적 전체에게 사망한 아군의 최대 체력의 20%만큼 고정 피해를 입힘\nEN:\nWhenever an ally dies, inflict fixed damage equal to 20% of the dead ally's max HP against all enemies"
+  },
+  {
+    "key": "HealSelfOnSucceedAttackByDmgRatio-desc",
+    "original": "攻撃的中時に敵の体力が減少したなら、与ダメージ量の{0}%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃的中時に敵の体力が減少したなら、与ダメージ量の{0}%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 적중시 적의 체력이 감소했으면, 가한 피해량의 {0}% 만큼 체력 회복\nEN:\nOn Hit, if the hit reduced the target's HP, heal by {0}% of the damage dealt"
+  },
+  {
+    "key": "MRR524P-desc",
+    "original": "自分の{0}10につき、全スキルのダメージ量 +1%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "自分の{0}10につき、全スキルのダメージ量 +1%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 {0} 10 당 모든 스킬 피해량 +1% (최대 30%)\nEN:\nAll Skills deal +1% damage for every 10 {0} on self (max 30%)"
+  },
+  {
+    "key": "MRR525-desc",
+    "original": "ターン終了時に{0}回数が{1}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に{0}回数が{1}減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료시 {0} 횟수 {1} 감소\nEN:\nTurn End: lose {1} {0} Count"
+  },
+  {
+    "key": "CoinScaleAdderByAtkType-desc",
+    "original": "{0}スキルの加算コイン威力 +{1}, 減算コイン威力 -{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}スキルの加算コイン威力 +{1}, 減算コイン威力 -{1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 스킬의 더하기 코인 위력 +{1}, 빼기 코인 위력 -{1}\nEN:\n{0} Skills gain Plus Coin Power +{1}, Minus Coin Power -{1}"
+  },
+  {
+    "key": "GiveBuffOnReleaseStandBy-desc",
+    "original": "待機解除時に{0}を{1}得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "待機解除時に{0}を{1}得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대기 해제 시 {0} {1} 얻음\nEN:\nGain {1} {0} when Substituting in"
+  },
+  {
+    "key": "MRR532-desc",
+    "original": "覚醒E.G.Oスキル攻撃終了時、保有しているE.G.O資源の内1つ以上のランダムな属性資源を1つずつ、合計で2つ消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "覚醒E.G.Oスキル攻撃終了時、保有しているE.G.O資源の内1つ以上のランダムな属性資源を1つずつ、合計で2つ消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n각성 E.G.O 스킬 공격 종료시 보유한 E.G.O 자원 중 1개 이상인 무작위 속성 자원을 1개씩, 총 2개 소모\nEN:\nAfter using an Awakening E.G.O, also consume 1 E.G.O resource from 3 random Sin Affinities with more than 1 E.G.O resource."
+  },
+  {
+    "key": "LacerationStackAndTurnAdder-desc",
+    "original": "スキル・コイン効果で付与する{1}威力、回数{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル・コイン効果で付与する{1}威力、回数{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬, 코인 효과로 부여하는 {1} 위력, 횟수 {0}\nEN:\n+{0} to {1} Potency and Count inflicted with Skill & Coin effects"
+  },
+  {
+    "key": "MRR536-desc",
+    "original": "スキルでダメージを受けるたび、次のターンに{0} 1,{1} 1の内ランダムに1つを得る(最大4回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキルでダメージを受けるたび、次のターンに{0} 1,{1} 1の内ランダムに1つを得る(最大4回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬로 피격 시 마다 다음 턴에 {0} 1, {1} 1 중 무작위 1개를 얻음 (최대 4회)\nEN:\nWhen hit by a Skill, randomly gain 1 of the following next turn: {0}, {1} (4 times max)"
+  },
+  {
+    "key": "MRR540-desc",
+    "original": "{0}を消耗するスキルの最終威力 +1, 与ダメージ量10%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}を消耗するスキルの最終威力 +1, 与ダメージ量10%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}을 소모하는 스킬의 최종 위력 +1, 가하는 피해량 10% 증가\nEN:\nSkills that consume {0} gain the following: Final Power +1, deal +10% damage"
+  },
+  {
+    "key": "MRR541-desc",
+    "original": "{1}最も低い対象がメインターゲットなら、スキルの最終威力 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{1}最も低い対象がメインターゲットなら、スキルの最終威力 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{1}이 가장 낮은 대상이 메인 타겟이면, 스킬 최종 위력 +{0}\nEN:\nWhen mainly targeting the unit with the lowest {1}, Skill Final Power +{0}"
+  },
+  {
+    "key": "MRR518P-desc",
+    "original": "戦闘開始時、編成順が最も早い味方3名が呼吸 威力10を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘開始時、編成順が最も早い味方3名が呼吸 威力10を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시 현재 편성 순서가 가장 빠른 아군 3명이 호흡 위력 10 얻음\nEN:\nCombat Start: 3 currently earliest Deployed allies gain 10 Poise Potency"
+  },
+  {
+    "key": "MRR520P-desc",
+    "original": "死亡するとき、敵全体に死亡者の体力最大値{0}%だけ固定ダメージを与える(集中戦闘の場合は部位に適用される)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡するとき、敵全体に死亡者の体力最大値{0}%だけ固定ダメージを与える(集中戦闘の場合は部位に適用される)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망할 때, 적 전체에게 사망자 최대 체력의 {0}% 만큼 고정 피해를 입힘 (집중 전투인 경우 부위에 적용 됨)\nEN:\nOn death, inflict fixed damage equal to {0}% of the dead unit's max HP against all enemies (for Focused Encounters, all Parts)"
+  },
+  {
+    "key": "MRR517-desc",
+    "original": "スキルでダメージを受ける度、次のターンに攻撃レベル増加2を得る(最大6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキルでダメージを受ける度、次のターンに攻撃レベル増加2を得る(最大6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬로 피격 시마다 다음 턴에 공격 레벨 증가 2 얻음. (최대 6)\nEN:\nWhen hit by a Skill, gain 2 Offense Level Up next turn (max 6)"
+  },
+  {
+    "key": "MRR5051-desc",
+    "original": "{0}回数を8以上消耗したスキル的中時に今回の戦闘の間、対象の{1}耐性 +0.1 \n- 敵1名につき、1つのスキルに1回のみ適用可能\n- この効果で敵1名の耐性は最大0.3まで増加可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}回数を8以上消耗したスキル的中時に今回の戦闘の間、対象の{1}耐性 +0.1 \n- 敵1名につき、1つのスキルに1回のみ適用可能\n- この効果で敵1名の耐性は最大0.3まで増加可能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 횟수를 8 이상 소모한 스킬 적중 시 이번 전투동안 대상의 {1} 내성 +0.1\n- 적 1명 당 1개의 스킬로 1회만 적용 가능\n- 이 효과로 적 1명의 내성은 최대 0.3 까지 증가시킬 수 있음\nEN:\nOn Hit with Skills that consumed 8+ {0} Count: +0.1 to {1} Resistance on the target for this Encounter\n- Once per Skill per Enemy\n- Max Resistance adjustment with this effect: 0.3"
+  },
+  {
+    "key": "MRR5052-desc",
+    "original": "{0}回数を獲得するか消耗するスキルのダメージ量 +(10 + 消耗した値 × 2)% (最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}回数を獲得するか消耗するスキルのダメージ量 +(10 + 消耗した値 × 2)% (最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 횟수를 획득하거나 소모하는 스킬의 피해량 +(10 + 소모한 값 x 2)% (최대 50%)\nEN:\nSkills that gain or consume {0} Count deal +(10 + (Charge Count consumed x 2))% damage (max 50%)"
+  },
+  {
+    "key": "MRR506-desc",
+    "original": "ターン終了時、各キーワードの回数が2以上なら全部位に{0}威力だけ{1}ダメージを与え、{0}回数が1減少。{2}を1回発動させて、{3}回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時、各キーワードの回数が2以上なら全部位に{0}威力だけ{1}ダメージを与え、{0}回数が1減少。{2}を1回発動させて、{3}回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 각 키워드의 횟수가 2 이상이면, 모든 부위에 {0} 위력만큼 {1} 피해를 주고, {0} 횟수 1 감소, {2}을 1회 발동시키고, {3} 횟수 1 감소\nEN:\nTurn End: for each Keyword, against all enemy Parts with 2+ Count, inflict {1} damage equal to {0} Potency on each Part; then, reduce their {0} Count by 1, trigger {2} once, and reduce their {3} Count by 1"
+  },
+  {
+    "key": "MRR507-desc",
+    "original": "{0}威力や回数を付与するスキルの最終威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}威力や回数を付与するスキルの最終威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 위력이나 횟수를 부여하는 스킬의 최종 위력 +2\nEN:\nSkills that inflict {0} Potency or Count: Final Power +2"
+  },
+  {
+    "key": "MRR508-desc",
+    "original": "精神力が無いか0未満の敵への与ダメージ量 +(対象の{0}威力)% (最大45%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "精神力が無いか0未満の敵への与ダメージ量 +(対象の{0}威力)% (最大45%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력이 없거나 0 미만인 적에게 입히는 피해량 + (대상의 {0} 위력)% (최대 45%)\nEN:\nDeal +({0} Potency on the target)% damage against targets at less than 0 SP or without SP (max 45%)"
+  },
+  {
+    "key": "MRR509P-desc",
+    "original": "破壊されたか、混乱状態の部位への与ダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "破壊されたか、混乱状態の部位への与ダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파괴되었거나, 흐트러짐 상태인 부위에 가하는 피해량 {0}%\nEN:\nDeal +{0}% damage against Destroyed or Staggered Parts"
+  },
+  {
+    "key": "GiveBuffOnFirstRoundStartPerWave-desc",
+    "original": "ウェーブの最初のターン開始時、{0}威力を{1}得て{0}回数が{2}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ウェーブの最初のターン開始時、{0}威力を{1}得て{0}回数が{2}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n웨이브 첫 턴 시작시 {0} 위력 {1} 얻고 {0} 횟수 {2} 증가\nEN:\nFirst Turn Start of a wave: gain {1} {0} Potency and +{2} {0} Count"
+  },
+  {
+    "key": "GiveBuffOnBattleStartAR-desc",
+    "original": "{0}共鳴を発動したなら戦闘開始時に全味方が{1}威力{2}を得て、{1}回数が{3}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}共鳴を発動したなら戦闘開始時に全味方が{1}威力{2}を得て、{1}回数が{3}増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 공명을 발동하였다면 전투 시작 시, 모든 아군이 {1} 위력 {2} 얻고 {1} 횟수 {3} 증가\nEN:\nIf {0} Reson. was activated, all allies gain {2} {1} Potency and +{3} {1} Count at Combat Start"
+  },
+  {
+    "key": "MRR511PMaxSpeedAdder-desc",
+    "original": "編成順1番の味方の速度最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成順1番の味方の速度最大値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 순서 1번인 아군의 속도 최댓값 +1\nEN:\n#1 Deployed ally: Max Speed +1"
+  },
+  {
+    "key": "MRR511PMinSpeedAdder-desc",
+    "original": "編成順1番の味方の速度最小値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成順1番の味方の速度最小値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 순서 1번인 아군의 속도 최솟값 +1\nEN:\n#1 Deployed ally: Min Speed +1"
+  },
+  {
+    "key": "MRR511PMinSpeedChangeSkill-desc",
+    "original": "編成順1番の味方のスキル1を1つ減少。スキル3を1つ増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "編成順1番の味方のスキル1を1つ減少。スキル3を1つ増加。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 순서 1번인 아군의 1스킬 1개 감소. 3스킬 1개 증가\nEN:\n#1 Deployed Ally: lose a Skill 1, but gain a Skill 3"
+  },
+  {
+    "key": "MRR512-desc",
+    "original": "連続戦闘にて、編成7番目以降から待機解除されたターン開始時に精神力を{0}回復、この戦闘の間{1}を{2}得て、自分のスキル1, 2, 3属性のE.G.O資源を{3}つずつ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "連続戦闘にて、編成7番目以降から待機解除されたターン開始時に精神力を{0}回復、この戦闘の間{1}を{2}得て、自分のスキル1, 2, 3属性のE.G.O資源を{3}つずつ得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n7번째 편성 순서부터 대기 해제된 턴 시작시 정신력 {0} 회복, 이번 전투동안 {1} {2}를 얻고, 자신의 스킬 1, 2, 3 속성의 E.G.O 자원을 {3}개씩 얻음\nEN:\nStarting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal {0} SP, gain {2} {1} for the Encounter, and gain {3} E.G.O resource for each one of their Skills 1, 2, and 3"
+  },
+  {
+    "key": "AddSinStockOnKillTargetByUsedSkillAttribute-desc",
+    "original": "攻撃・反撃スキル終了時に敵が死亡した場合、使用したスキル属性のE.G.O資源 +{0}(スキルごとに1回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "攻撃・反撃スキル終了時に敵が死亡した場合、使用したスキル属性のE.G.O資源 +{0}(スキルごとに1回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격, 반격 스킬 종료 시 적이 사망한 경우, 사용한 스킬 속성의 E.G.O 자원 +{0} (스킬당 1회, E.G.O 스킬 포함)\nEN:\nAfter using an Attack or a Counter Skill, if the enemy is defeated, gain {0} E.G.O resource of the Skill Affinity that was used (once per Skill, including E.G.O Skills)"
+  },
+  {
+    "key": "MRR514-desc",
+    "original": "新しい敵が増員されれば、戦闘開始時に該当する敵へ出血 5, 出血 回数を3付与。味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動発動させ、全ての敵の出血 回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "新しい敵が増員されれば、戦闘開始時に該当する敵へ出血 5, 出血 回数を3付与。味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動させ、全ての敵の出血 回数が1減少\n<CMT_KR>오식: \"味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動「発動」させ、全ての敵の出血 回数が1減少\" 정확: \"味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動「」させ、全ての敵の出血 回数が1減少\"\n<CMT_EN>Typo: \"味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動「発動」させ、全ての敵の出血 回数が1減少\" Correction: \"味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動「」させ、全ての敵の出血 回数が1減少\"\n<CMT_JP>誤植: \"味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動「発動」させ、全ての敵の出血 回数が1減少\" 訂正後: \"味方に<血鬼>がいるなら、上記の条件を満たすたびに全ての敵の出血 を1回発動「」させ、全ての敵の出血 回数が1減少\"",
+    "stage": 1,
+    "context": "KR:\n새로운 적이 증원되면, 전투 시작 시 해당 적에게 출혈 5, 출혈 횟수 3 부여. 아군에 &lt;혈귀&gt;가 있다면, 위 조건 만족 시 모든 적의 출혈을 1회 발동시키고, 모든 적의 출혈 횟수 1 감소\nEN:\nWhen backup enemies enter the battle, inflict 5 Bleed and +3 Bleed against them at Combat Start. If there is a &lt;Bloodfiend&gt; among allies: when above conditions are met: activate Bleed on all enemies once and reduce their Bleed Count by 1"
+  },
+  {
+    "key": "EnemyLevelTextOnly-desc",
+    "original": "敵レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵レベル {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 레벨 {0}\nEN:\nEnemy Level {0}"
+  },
+  {
+    "key": "MRR501-desc",
+    "original": "敵にスキル・コイン効果で付与する火傷・出血・振動・破裂・沈潜威力 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "敵にスキル・コイン効果で付与する火傷・出血・振動・破裂・沈潜威力 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적에게 스킬, 코인 효과로 부여하는 화상, 출혈, 진동, 파열, 침잠 위력 {0}\nEN:\n+{0} to Burn, Bleed, Tremor, Rupture, and Sinking Potency inflicted against enemies with Skills & Coin effects"
+  },
+  {
+    "key": "TakeBuffTurnAdder-desc",
+    "original": "味方がスキル・コイン効果で得る{0}回数 {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "味方がスキル・コイン効果で得る{0}回数 {1}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 스킬, 코인 효과로 얻는 {0} 횟수 {1}\nEN:\n{1} to {0} Count gained by allies with Skills & Coin effects"
+  },
+  {
+    "key": "MRR503-desc",
+    "original": "ターン終了時に精神力が最も低い味方{0}名が精神力を{1}回復(パニック・侵蝕状態の味方を除く)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン終了時に精神力が最も低い味方{0}名が精神力を{1}回復(パニック・侵蝕状態の味方を除く)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 정신력이 가장 낮은 아군 {0}명 정신력 {1} 회복 (패닉, 침식 상태인 아군 제외)\nEN:\n{0} allies with the least SP heal {1} SP at Turn End (excluding: allies that are Panicked or Corroded)"
+  },
+  {
+    "key": "CriticalDamageBoostWithBuffUse-desc",
+    "original": "クリティカル発動時に保有した{0}威力が{1}を超過しているなら、超過した{0}威力を最大{1}消耗して、クリティカルダメージ量 +(消耗した × {2}) (最大{3}%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカル発動時に保有した{0}威力が{1}を超過しているなら、超過した{0}威力を最大{1}消耗して、クリティカルダメージ量 +(消耗した × {2}) (最大{3}%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 발동 시 보유한 {0} 위력이 {1}을 초과했으면, 초과한 {0} 위력을 최대 {1} 소모하여 크리티컬 피해량 + (소모한 값 x {2})% (최대 {3}%)\nEN:\nOn Crit, at more than {1} {0} Potency, consume up to {1} of the excess {0} Potency to deal +(Poise Potency consumed x {2})% damage on Critical Hit (max {3}%)"
+  },
+  {
+    "key": "GainSinStockOnDieByDefaultSkill-desc",
+    "original": "死亡時、保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡時、保有する基本攻撃スキルの属性と同じE.G.O資源をランクの数だけ得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망 시 보유한 기본 공격 스킬의 속성과 동일한 E.G.O 자원을 등급만큼 얻음\nEN:\nWhen defeated, gain E.G.O Resources based on the Affinity & Rank of each Attack Skill this unit has"
+  },
+  {
+    "key": "MRR547-desc",
+    "original": "ターン開始時、敵のスキル最終威力 +1～3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、敵のスキル最終威力 +1～3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 적의 스킬 최종 위력 +1 ~ 3\nEN:\nTurn Start: All enemy Skills gain Final Power +1~3"
+  },
+  {
+    "key": "MRR544-desc",
+    "original": "ターン開始時、全味方の最終威力 +1～3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、全味方の最終威力 +1～3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 모든 아군의 스킬 최종 위력 +1 ~ 3\nEN:\nTurn Start: All ally Skills gain Final Power +1~3"
+  },
+  {
+    "key": "MRR551-desc",
+    "original": "ターン開始時、体力が最大なら{0}威力を{1}得る、回数が{2}増加 (敵1名ごとに、部位別で戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ターン開始時、体力が最大なら{0}威力を{1}得る、回数が{2}増加 (敵1名ごとに、部位別で戦闘につき1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 체력이 최대라면 {0} 위력 {1} 얻음, 횟수 {2} 증가 (적 1명당 부위별 전투당 1회 발동)\nEN:\nTurn Start: at max HP, gain {1} {0} Potency and +{2} Count (once per enemy per Part per Encounter)"
+  },
+  {
+    "key": "MRR552-desc",
+    "original": "死亡時、次のターンに現体力が最も低い味方1名が{0}を{1}得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "死亡時、次のターンに現体力が最も低い味方1名が{0}を{1}得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사망 시, 다음 턴에 현재 체력이 가장 낮은 아군 1명이 {0} {1} 얻음\nEN:\nOn death, 1 ally with the least current HP gains {1} {0} next turn"
+  },
+  {
+    "key": "MRR553-desc",
+    "original": "E.G.Oスキルのダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "E.G.Oスキルのダメージ量 {0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 스킬의 피해량 {0}%\nEN:\nE.G.O Skills deal +{0}% damage"
+  },
+  {
+    "key": "MRR521-desc",
+    "original": "最初の混乱ラインを除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "最初の混乱ラインを除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫 번째 흐트러짐 선 제거\nEN:\nRemove the first Stagger threshold"
+  },
+  {
+    "key": "MRR557-desc",
+    "original": "クリティカルダメージ量 +(10 + 保有する{0}威力と回数の合計)% (最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量 +(10 + 保有する{0}威力と回数の合計)% (最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 + (10 + 보유한 {0} 위력과 횟수의 합)% (최대 50%)\nEN:\nDeal +(10 + {0} Potency + {0} Count)% damage on Critical Hit (max 50%)"
+  },
+  {
+    "key": "LacerationStackAndTurnAdderIfNotZero-desc",
+    "original": "スキル・コイン効果で付与する{1}威力、回数{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "スキル・コイン効果で付与する{1}威力、回数{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬, 코인 효과로 부여하는 {1} 위력, 횟수 {0}\nEN:\n+{0} to {1} Potency and Count inflicted with Skill & Coin effects"
+  },
+  {
+    "key": "AttackDmgMultiplierSpecificType-desc",
+    "original": "{0}属性スキルのダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "{0}属性スキルのダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 속성 스킬의 피해량 +30%\nEN:\n{0} Skills deal +30% damage"
+  },
+  {
+    "key": "MRR565MaxSpeedAdder-desc",
+    "original": "速度最大値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度最大値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최댓값 {0}\nEN:\nMax Speed {0}"
+  },
+  {
+    "key": "MRR565MinSpeedAdder-desc",
+    "original": "速度最小値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度最小値 {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도 최솟값 {0}\nEN:\nMin Speed {0}"
+  },
+  {
+    "key": "DefaultLevelAdder-desc",
+    "original": "基本攻撃レベル{0}, 基本防御レベル{0}, 基本ユニット防御レベル{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "基本攻撃レベル{0}, 基本防御レベル{0}, 基本ユニット防御レベル{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 레벨 {0}, 기본 방어 레벨 {0}, 기본 유닛 방어 레벨 {0}\nEN:\nBase Offense Level {0}, Base Defense Level {0}, Base Unit Defense Level {0}"
+  }
+]

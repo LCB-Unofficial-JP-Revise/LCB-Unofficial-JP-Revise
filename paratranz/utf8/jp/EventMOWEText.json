@@ -1,0 +1,114 @@
+[
+  {
+    "key": "mowe_stagebutton_not_clear-content",
+    "original": "6.5-15クリア時に解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "6.5-15クリア時に解放\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n6.5-15 클리어 시 개방\nEN:\nClear 6.5-15 to Unlock"
+  },
+  {
+    "key": "mowe_stagebutton_normal-content",
+    "original": "ステージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ステージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지\nEN:\nStages"
+  },
+  {
+    "key": "mowe_stagebutton_end_event-content",
+    "original": "イベント期間終了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント期間終了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 기간 종료\nEN:\nEvent Closed"
+  },
+  {
+    "key": "mowe_storybutton_before_start-content",
+    "original": "<size=75%>イベントストーリー1話を閲覧時に開放</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<size=75%>イベントストーリー1話を閲覧時に開放</size>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;size=75%&gt;이벤트 첫 번째 이야기\n감상 시 개방&lt;/size&gt;\nEN:\n&lt;size=75%&gt;View the 1st event Story Stage \nto Unlock&lt;/size&gt;"
+  },
+  {
+    "key": "mowe_storybutton_normal-content",
+    "original": "上映館へ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "上映館へ移動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상영관 이동\nEN:\nTo Theater"
+  },
+  {
+    "key": "mowe_rewardShopButton-content",
+    "original": "報酬交換\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "報酬交換\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상 교환\nEN:\nReward Exchange"
+  },
+  {
+    "key": "mowe_scrap_guide_title-content",
+    "original": "イベントアイテム案内\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベントアイテム案内\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 재화 안내\nEN:\nEvent Currency Guide"
+  },
+  {
+    "key": "mowe_scrap_guide_desc-content",
+    "original": "イベント・メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると低確率で<color=#ff99e6>[フィクサー乗客復旧パック]</color>を獲得することができます。\n\n<color=#ff99e6>[フィクサー乗客復旧パック]</color>は <color=#ff99e6>[一般乗客復旧パック]</color>20個に変換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント・メインストーリーのステージとダンジョン、または鏡ダンジョンをクリアすると低確率で<color=#ff99e6>[フィクサー乗客復旧パック]</color>を獲得することができます。\n\n<color=#ff99e6>[フィクサー乗客復旧パック]</color>は <color=#ff99e6>[一般乗客復旧パック]</color>20個に変換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로&lt;color=#ff99e6&gt;[해결사 승객 복구팩]&lt;/color&gt;을 획득할 수 있습니다.\n\n&lt;color=#ff99e6&gt;[해결사 승객 복구팩]&lt;/color&gt;은 획득 즉시, &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt; 20개로 전환됩니다.\nEN:\nRarely, you may obtain &lt;color=#ff99e6&gt;[Fixer Recov. Pack]&lt;/color&gt; from clearing Event Stages, Main Story Stages, or Mirror Dungeons.\n\n&lt;color=#ff99e6&gt;[Fixer Recov. Pack]&lt;/color&gt; is immediately converted to 20 &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; upon acquisition."
+  },
+  {
+    "key": "mowe_rewardpage_desc-content",
+    "original": "イベントステージとダンジョンをクリアする度に<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。これ以外にもメインストーリー\nステージとダンジョンを初回クリアするか、鏡ダンジョンクリア時に<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。\n\nイベント・メインストーリーのステージ、または鏡ダンジョンをクリアすれば低確率で<color=#ff99e6>[フィクサー乗客復旧パック]</color>獲得することができ、<color=#ff99e6>[フィクサー乗客復旧パック]</color>は獲得すると即時<color=#ff99e6>[一般乗客復旧パック]</color>20個に変換されます。\n\n<color=#ff99e6>[報酬交換]</color>ウィンドウより<color=#ff99e6>[一般乗客復旧パック]</color>を支払い、様々な報酬を獲得できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベントステージとダンジョンをクリアする度に<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。これ以外にもメインストーリー\nステージとダンジョンを初回クリアするか、鏡ダンジョンクリア時に<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。\n\nイベント・メインストーリーのステージ、または鏡ダンジョンをクリアすれば低確率で<color=#ff99e6>[フィクサー乗客復旧パック]</color>獲得することができ、<color=#ff99e6>[フィクサー乗客復旧パック]</color>は獲得すると即時<color=#ff99e6>[一般乗客復旧パック]</color>20個に変換されます。\n\n<color=#ff99e6>[報酬交換]</color>ウィンドウより<color=#ff99e6>[一般乗客復旧パック]</color>を支払い、様々な報酬を獲得できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 스테이지를 클리어할 때마다 &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt;을 획득할 수 있습니다. 이외에도 주요 이야기\n스테이지를 최초로 클리어하거나 거울 던전 클리어 시, &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt;을 획득할 수 있습니다.\n\n이벤트와 주요 이야기의 스테이지 또는 거울 던전을 클리어하면 낮은 확률로 &lt;color=#ff99e6&gt;[해결사 승객 복구팩]&lt;/color&gt;을 획득할 수 있으며, &lt;color=#ff99e6&gt;[해결사 승객 복구팩]&lt;/color&gt;은 획득 즉시 &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt; 20개로 전환됩니다.\n\n&lt;color=#ff99e6&gt;[보상 교환]&lt;/color&gt; 창에서 &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt;을 지불하여 다양한 보상을 얻을 수 있습니다.\nEN:\nDuring the event, you can earn &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; by clearing event Stages. You can also obtain &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; by clearing Main Story Stages for the first time, or by clearing the Mirror Dungeon.\n\nRarely, you may obtain &lt;color=#ff99e6&gt;[Fixer Recov. Pack]&lt;/color&gt; from clearing Event Stages, Main Story Stages, or Mirror Dungeons,\nand &lt;color=#ff99e6&gt;[Fixer Recov. Pack]&lt;/color&gt; is automatically converted to 20 &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; upon acquisition.\n\nIn the &lt;color=#ff99e6&gt;[Reward Exchange]&lt;/color&gt; window, you can purchase various rewards by spending &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; you have collected."
+  },
+  {
+    "key": "mowe_reward_popup_desc-content",
+    "original": "イベントステージ、メインストーリー\n初回クリア、鏡ダンジョンをクリアすることで\n<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。\n\n<color=#ff99e6>[報酬交換]</color>ウィンドウより<color=#ff99e6>[一般乗客復旧パック]</color>を\n支払い、様々な報酬を獲得できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベントステージ、メインストーリー\n初回クリア、鏡ダンジョンをクリアすることで\n<color=#ff99e6>[一般乗客復旧パック]</color>を獲得できます。\n\n<color=#ff99e6>[報酬交換]</color>ウィンドウより<color=#ff99e6>[一般乗客復旧パック]</color>を\n支払い、様々な報酬を獲得できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 스테이지와 주요 이야기\n최초 클리어, 거울 던전 클리어를 통해\n&lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt;을 획득할 수 있습니다.\n\n&lt;color=#ff99e6&gt;[보상 교환]&lt;/color&gt; 창에서 &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt;을\n지불하여 다양한 보상을 얻을 수 있습니다.\nEN:\nEarn &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; via the following methods:\nEvent Stage & Dungeon clears, Mirror Dungeon clears,\nand Main Story Stage & Dungeon first-time clears.\n\nIn the &lt;color=#ff99e6&gt;[Reward Exchange]&lt;/color&gt; window, you can purchase various rewards\nby spending &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; you have collected."
+  },
+  {
+    "key": "mowe_reward_popup_num_of_owned_items-content",
+    "original": "保有アイテム数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "保有アイテム数\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유 아이템 수\nEN:\nItems Owned"
+  },
+  {
+    "key": "mowe_bonusUI_Title-content",
+    "original": "増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증가\nEN:\nGain"
+  },
+  {
+    "key": "mowe_bonusUI_Title_contain_false-content",
+    "original": "未保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "未保有\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미보유\nEN:\nNot Owned"
+  },
+  {
+    "key": "mowe_bonusUI_Desc-content",
+    "original": "イベント期間中、該当人格・E.G.Oを編成すると<color=#ff99e6>[一般乗客復旧パック]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#ff99e6>120%</color>まで適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント期間中、該当人格・E.G.Oを編成すると<color=#ff99e6>[一般乗客復旧パック]</color>の獲得量が上昇します。\n獲得量上昇値の合計は、最大<color=#ff99e6>120%</color>まで適用されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 기간 동안 해당 인격, E.G.O 편성 시, &lt;color=#ff99e6&gt;[일반 승객 복구팩]&lt;/color&gt;의 획득량이 상승합니다.\n획득량 상승치 합계는 최대 &lt;color=#ff99e6&gt;120%&lt;/color&gt;까지 적용됩니다.\nEN:\nDuring the event period, deploying the following Identities or E.G.O on your team will\nboost the amount of &lt;color=#ff99e6&gt;[Civilian Recov. Pack]&lt;/color&gt; earned.\nYou can earn a maximum of &lt;color=#ff99e6&gt;120%&lt;/color&gt; boost to the amount of event currency earned."
+  },
+  {
+    "key": "mowe_bonus_popup_title-content",
+    "original": "イベント特化対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント特化対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 특화 대상\nEN:\nEvent Bonus Units"
+  },
+  {
+    "key": "mowe_bonus_preview-content",
+    "original": "イベント特化対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "イベント特化対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 특화 대상\nEN:\nEvent Bonus Units"
+  }
+]

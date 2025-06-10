@@ -1,0 +1,44 @@
+[
+  {
+    "key": "TheDrifter_LowMorale-name",
+    "original": "朴刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朴刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n박도\nEN:\nPodao"
+  },
+  {
+    "key": "TheDrifter_LowMorale-desc",
+    "original": "- 士気低下\n- 一方攻撃による被ダメージ量 +10%, 反撃による与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 一方攻撃による被ダメージ量 +10%, 反撃による与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기저하\n- 일방 공격에 의한 받는 피해량 +10%, 반격으로 주는 피해량 +30%\nEN:\n- Low Morale\n- Take +10% damage from Unopposed Attacks; deal +30% damage with Counterattacks"
+  },
+  {
+    "key": "TheDrifter_Panic-name",
+    "original": "朴刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "朴刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n박도\nEN:\nPodao"
+  },
+  {
+    "key": "TheDrifter_Panic-desc",
+    "original": "- パニック\n- 一方攻撃による被ダメージ量 +20%, 反撃による与ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- パニック\n- 一方攻撃による被ダメージ量 +20%, 反撃による与ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 일방 공격에 의한 받는 피해량 +20%, 반격으로 주는 피해량 +50%\nEN:\n- Panic\n- Take +20% damage from Unopposed Attacks; deal +50% damage with Counterattacks"
+  },
+  {
+    "key": "SipOfAlcohol-name",
+    "original": "ひとくち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "ひとくち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 모금\nEN:\nSwig"
+  },
+  {
+    "key": "SipOfAlcohol-desc",
+    "original": "- 最大値: 5\n- ターン終了時に数値が3以上なら、全体力の3%だけ体力を回復(本体・部位)\n- ターン終了時に数値が5なら、次のターンに攻撃威力増加3, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値: 5\n- ターン終了時に数値が3以上なら、全体力の3%だけ体力を回復(本体・部位)\n- ターン終了時に数値が5なら、次のターンに攻撃威力増加3, 脆弱2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대값: 5\n- 턴 종료 시 수치가 3 이상이면, 전체 체력의 3%만큼 회복 (본체, 부위)\n- 턴 종료 시 수치가 5라면, 다음 턴에 공격 위력 증가 3, 취약 2 얻음\nEN:\n- Max Stack :5\n- Turn End: at 3 Stack, heal 3% HP (Core, Part)\n- Turn End: at 5 Stack, gain 3 Attack Power Up and 2 Fragile next turn"
+  }
+]
