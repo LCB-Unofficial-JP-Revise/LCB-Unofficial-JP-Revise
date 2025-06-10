@@ -1,0 +1,44 @@
+name: Sync Paratranz
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-paratranz:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r Utilities/Importer/requirements.txt
+
+      - name: Run Script
+        run: python Utilities/Importer/JP_TRImporter.py
+        env:
+          PARATRANZ_PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
+          PARATRANZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+
+      - name: Commit changes if any
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [[ -n $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "Apply Paratranz sync from workflow"
+            git push
+          else
+            echo "No changes to commit"
+          fi
