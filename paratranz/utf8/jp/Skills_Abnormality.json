@@ -1250,7 +1250,7 @@
     "original": "[StartBattle] 次のターン、対象を注視する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "[StartBattle] 次のターン、対象を注視する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[StartBattle] 다음 턴동안 대상을 주시함\nEN:\n[StartBattle] Gaze into the target for the next turn"
+    "context": "KR:\n[StartBattle] 다음 턴동안 대상을 주시함\nEN:\n[StartBattle] Gazes into the target for the next turn"
   },
   {
     "key": "802904-levelList[0].name",
@@ -3312,8 +3312,8 @@
   },
   {
     "key": "804301-levelList[0].name",
-    "original": "爽やかな記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "爽やかな記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "え辛い記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "え辛い記憶\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아릿한 기억\nEN:\nStinging Memories"
   },
@@ -3329,21 +3329,21 @@
     "original": "[OnSucceedAttack] 沈潜 2, 破裂 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 沈潜 2, 破裂 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 침잠 2, 파열 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture next turn"
+    "context": "KR:\n[OnSucceedAttack] 침잠 2, 파열 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture"
   },
   {
     "key": "804301-levelList[0].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] 沈潜 2, 破裂 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 沈潜 2, 破裂 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 침잠 2, 파열 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture next turn"
+    "context": "KR:\n[OnSucceedAttack] 침잠 2, 파열 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture"
   },
   {
     "key": "804301-levelList[0].coinlist[2].coindescs[0].desc",
     "original": "[OnSucceedAttack] 沈潜 2, 破裂 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 沈潜 2, 破裂 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 침잠 2, 파열 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture next turn"
+    "context": "KR:\n[OnSucceedAttack] 침잠 2, 파열 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Sinking and 2 Rupture"
   },
   {
     "key": "804302-levelList[0].name",
@@ -4271,10 +4271,10 @@
   },
   {
     "key": "805803-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに防御力減少を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに防御力減少を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに防御レベル減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに防御レベル減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어력 감소 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Defense Down next turn"
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 방어 레벨 2 감소\nEN:\n[OnSucceedAttack] Reduce target's Defense Level by 2 next turn"
   },
   {
     "key": "805804-levelList[0].name",

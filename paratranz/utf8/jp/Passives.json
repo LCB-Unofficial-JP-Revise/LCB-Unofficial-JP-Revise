@@ -3126,7 +3126,7 @@
     "original": "戦闘開始時、[Breath]を最も多く保有する味方1名の斬撃スキル属性のクリティカルダメージ量 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "戦闘開始時、[Breath]を最も多く保有する味方1名の斬撃スキル属性のクリティカルダメージ量 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n전투 시작 시 [Breath]을 가장 많이 보유한 아군 1명의 참격 속성 스킬의 크리티컬 피해량 +15%\nEN:\nCombat Start: 1 ally with the most [Breath] deals +15% damage on Critical Hit"
+    "context": "KR:\n전투 시작 시 [Breath]을 가장 많이 보유한 아군 1명의 참격 속성 스킬의 크리티컬 피해량 +15%\nEN:\nCombat Start: 1 ally with the most [Breath] deals +15% damage on Critical Hit with Slash Skills"
   },
   {
     "key": "1020801-name",
@@ -5797,8 +5797,8 @@
   },
   {
     "key": "1121102-desc",
-    "original": "[FirePunchFuel] 100を持って開始\n- 数値が50を超過しているなら、[FirePunchFuel]になる\n- 数値が50以下なら、[FirePunchFuel]が[FirePunchFuelOverheated]になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[FirePunchFuel] 100を持って開始\n- 数値が50を超過しているなら、[FirePunchFuel]になる\n- 数値が50以下なら、[FirePunchFuel]が[FirePunchFuelOverheated]になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[FirePunchFuel] 100を持って開始[TabExplain]\n- 数値が50を超過しているなら、[FirePunchFuel]になる\n- 数値が50以下なら、[FirePunchFuel]が[FirePunchFuelOverheated]になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[FirePunchFuel] 100を持って開始[TabExplain]\n- 数値が50を超過しているなら、[FirePunchFuel]になる\n- 数値が50以下なら、[FirePunchFuel]が[FirePunchFuelOverheated]になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[FirePunchFuel] 100을 가지고 시작\n- 수치가 50 초과면, [FirePunchFuel]로 교체됨\n- 수치가 50 이하면, [FirePunchFuel]가 [FirePunchFuelOverheated]로 교체됨\nEN:\nBegin Encounters with 100 [FirePunchFuel]\n- At over 50 Stack, become [FirePunchFuel]\n- At 50 or less Stack, any [FirePunchFuel] becomes [FirePunchFuelOverheated]"
   },
@@ -6203,8 +6203,8 @@
   },
   {
     "key": "1081202-desc",
-    "original": "戦闘から退却するとき、味方へ編成順に次のターンにて攻撃レベル増加1を付与\n- 付与対象数 : 自分の[StartXichun]数値\n- 付与対象が「ジア家」なら、代わりに次のターンに攻撃レベル増加2を付与\n- 次のターンに復帰、待機解除される人格には付与されない\n\n待機解除または復帰で出現したターンに自分が[WaitingXichun]を得て、戦闘開始時にスキル順最速で「赤撃 - 始[TabExplain]」をランダムな対象へ使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘から退却するとき、味方へ編成順に次のターンにて攻撃レベル増加1を付与\n- 付与対象数 : 自分の[StartXichun]数値\n- 付与対象が「ジア家」なら、代わりに次のターンに攻撃レベル増加2を付与\n- 次のターンに復帰、待機解除される人格には付与されない\n\n待機解除または復帰で出現したターンに自分が[WaitingXichun]を得て、戦闘開始時にスキル順最速で「赤撃 - 始[TabExplain]」をランダムな対象へ使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘から退却するとき、味方へ編成順に次のターンにて攻撃レベル増加1を付与\n- 付与対象数 : 自分の[StartXichun]数値\n- 付与対象が「ジア家」なら、代わりに次のターンに攻撃レベル増加2を付与\n- 次のターンに復帰、待機解除される人格には付与されない\n\n待機解除または復帰で出現したターンに自分が[WaitingXichun]を得て、戦闘開始時にスキル順最速で「赤撃 - 始[TabExplain] 」をランダムな対象へ使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "戦闘から退却するとき、味方へ編成順に次のターンにて攻撃レベル増加1を付与\n- 付与対象数 : 自分の[StartXichun]数値\n- 付与対象が「ジア家」なら、代わりに次のターンに攻撃レベル増加2を付与\n- 次のターンに復帰、待機解除される人格には付与されない\n\n待機解除または復帰で出現したターンに自分が[WaitingXichun]を得て、戦闘開始時にスキル順最速で「赤撃 - 始[TabExplain] 」をランダムな対象へ使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투에서 퇴각할 때, 아군에게 편성 순서 순으로 다음 턴에 공격 레벨 증가 1 부여\n- 부여 대상 수 : 자신의 [StartXichun] 수치\n- 부여 대상이 \"가씨 가문\"이면, 대신 다음 턴에 공격 레벨 증가 2 부여\n- 다음 턴에 복귀, 대기 해제되는 인격에게는 부여되지 않음\n\n대기 해제 또는 복귀로 등장한 턴에 자신이 [WaitingXichun]를 얻고, 전투 시작시 스킬 순서상 가장 먼저 '적격 - 시【始】'를 무작위 대상에게 사용함\nEN:\nUpon Retreat: apply 1 Offense Level Up next turn to allies in their Deployment order\n- Number of affected allies = [StartXichun] Stack on self\n- If the affected ally is a \"Jia Family\" unit, apply 2 Offense Level Up next turn instead\n- Does not affect allies that either Return or Substitute next turn\n\nOn the turn this unit Substituted or Returned to the field, gain [WaitingXichun]; then, at Combat Start, as the very first Skill in the Skill order, use 'Crimson Strike - Launcher【始】' against a random target."
   },

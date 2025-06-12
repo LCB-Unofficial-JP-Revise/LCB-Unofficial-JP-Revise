@@ -2038,10 +2038,10 @@
   },
   {
     "key": "1081205-levelList[0].desc",
-    "original": "[CantDuel]\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel]\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[CantDuel]\n[BeforeAttack] 자신의 [WaitingXichun]를 전부 소모하여, (자신의 [WaitingXichun] X 2)만큼 가중치 증가 (최대 5)\n[WhenUse] [Breath] 5 얻음, 자신의 [Breath] 횟수 2 증가\nEN:\n[CantDuel]\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count"
+    "context": "KR:\n[CantDuel]\n[WhenUse] [Breath] 5 얻음, 자신의 [Breath] 횟수 2 증가\n[BeforeAttack] 자신의 [WaitingXichun]를 전부 소모하여, (자신의 [WaitingXichun] X 2)만큼 가중치 증가 (최대 5)\nEN:\n[CantDuel]\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)"
   },
   {
     "key": "1081205-levelList[0].coinlist[1].coindescs[0].desc",
@@ -2059,10 +2059,10 @@
   },
   {
     "key": "1081205-levelList[1].desc",
-    "original": "[CantDuel]\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n<style=\"highlight\">[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n<style=\"highlight\">[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +1</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n<style=\"highlight\">[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +1</style>\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel]\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n<style=\"highlight\">[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +1</style>\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[CantDuel]\n[BeforeAttack] 자신의 [WaitingXichun]를 전부 소모하여, (자신의 [WaitingXichun] X 2)만큼 가중치 증가 (최대 5)\n[WhenUse] [Breath] 5 얻음, 자신의 [Breath] 횟수 2 증가\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [WaitingXichun]가 3 이상이면, 코인 위력 +1&lt;/style&gt;\nEN:\n[CantDuel]\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n&lt;style=\"highlight\"&gt;[WhenUse] At 3+ [WaitingXichun], Coin Power +1&lt;/style&gt;"
+    "context": "KR:\n[CantDuel]\n[WhenUse] [Breath] 5 얻음, 자신의 [Breath] 횟수 2 증가\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [WaitingXichun]가 3 이상이면, 코인 위력 +1&lt;/style&gt;\n[BeforeAttack] 자신의 [WaitingXichun]를 전부 소모하여, (자신의 [WaitingXichun] X 2)만큼 가중치 증가 (최대 5)\nEN:\n[CantDuel]\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n&lt;style=\"highlight\"&gt;[WhenUse] At 3+ [WaitingXichun], Coin Power +1&lt;/style&gt;\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)"
   },
   {
     "key": "1081205-levelList[1].coinlist[1].coindescs[0].desc",
@@ -2080,10 +2080,10 @@
   },
   {
     "key": "1081205-levelList[2].desc",
-    "original": "[CantDuel]\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +<style=\"highlight\">2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +<style=\"highlight\">2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +<style=\"highlight\">2</style>\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[CantDuel]\n[WhenUse] [Breath]5を得る、自分の[Breath]回数が2増加\n[WhenUse] 自分の[WaitingXichun]が3以上なら、コイン威力 +<style=\"highlight\">2</style>\n[BeforeAttack] 自分の[WaitingXichun]を全て消耗し、(自分の[WaitingXichun] × 2)だけ加重値が増加 (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[CantDuel]\n[BeforeAttack] 자신의 [WaitingXichun]를 전부 소모하여, (자신의 [WaitingXichun] X 2)만큼 가중치 증가 (최대 5)\n[WhenUse] [Breath] 5 얻음, 자신의 [Breath] 횟수 2 증가\n[WhenUse] 자신의 [WaitingXichun]가 3 이상이면, 코인 위력 +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\nEN:\n[CantDuel]\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n[WhenUse] At 3+ [WaitingXichun], Coin Power +&lt;style=\"highlight\"&gt;2&lt;/style&gt;"
+    "context": "KR:\n[CantDuel]\n[WhenUse] [Breath] 5 얻음, 자신의 [Breath] 횟수 2 증가\n[WhenUse] 자신의 [WaitingXichun]가 3 이상이면, 코인 위력 +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\n[BeforeAttack] 자신의 [WaitingXichun]를 전부 소모하여, (자신의 [WaitingXichun] X 2)만큼 가중치 증가 (최대 5)\nEN:\n[CantDuel]\n[WhenUse] Gain 5 [Breath] and +2 [Breath] Count\n[WhenUse] At 3+ [WaitingXichun], Coin Power +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\n[BeforeAttack] Consume all [WaitingXichun] on self to gain +([WaitingXichun] on self x 2) Atk Weight (max 5)"
   },
   {
     "key": "1081205-levelList[2].coinlist[1].coindescs[0].desc",

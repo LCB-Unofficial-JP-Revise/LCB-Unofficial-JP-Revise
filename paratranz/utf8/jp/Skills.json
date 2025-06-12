@@ -9608,7 +9608,7 @@
     "original": "[OnSucceedAttack] 振動爆発。振動爆発時に振動 回数が2減少。\n充電 回数を最大4消耗し、消耗した充電 回数だけ破裂 回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 振動爆発。振動爆発時に振動 回数が2減少。\n充電 回数を最大4消耗し、消耗した充電 回数だけ破裂 回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수가 2 감소하고,\n충전 횟수를 최대 4 소모하여 소모한 충전 횟수만큼 파열 횟수 증가\nEN:\n[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to inflict Rupture Count equal to Charge Count spent"
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수가 2 감소하고,\n충전 횟수를 최대 4 소모하여 소모한 충전 횟수만큼 파열 횟수 증가\nEN:\n[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2 and consume up to 4 Charge Count on self to inflict Rupture Count equal to Charge Count consumed"
   },
   {
     "key": "1120503-levelList[0].coinlist[1].coindescs[0].desc",
@@ -9657,7 +9657,7 @@
     "original": "[OnSucceedAttack] 振動爆発。振動爆発時に振動 回数が2減少。\n充電 回数を最大4消耗し、消耗した充電 回数だけ破裂 回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 振動爆発。振動爆発時に振動 回数が2減少。\n充電 回数を最大4消耗し、消耗した充電 回数だけ破裂 回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수가 2 감소하고,\n충전 횟수를 최대 4 소모하여 소모한 충전 횟수만큼 파열 횟수 증가\nEN:\n[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2;\nSpend up to 4 Charge Count to inflict Rupture Count equal to Charge Count spent"
+    "context": "KR:\n[OnSucceedAttack] 진동 폭발. 진동 폭발 시 진동 횟수가 2 감소하고,\n충전 횟수를 최대 4 소모하여 소모한 충전 횟수만큼 파열 횟수 증가\nEN:\n[OnSucceedAttack] Trigger Tremor Burst, then reduce Tremor Count by 2 and consume up to 4 Charge Count on self to inflict Rupture Count equal to Charge Count consumed"
   },
   {
     "key": "1120503-levelList[1].coinlist[1].coindescs[0].desc",

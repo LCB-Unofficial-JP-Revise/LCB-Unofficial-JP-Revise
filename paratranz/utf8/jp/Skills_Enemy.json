@@ -2002,13 +2002,6 @@
     "context": "KR:\n[OnSucceedAttack] 파열 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Rupture"
   },
   {
-    "key": "9004302-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] スキルの表面数だけ麻痺を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] スキルの表面数だけ麻痺を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "stage": 1,
-    "context": "KR:\n[OnSucceedAttackHead] 스킬의 코인 앞면 수만큼 마비 부여\nEN:\n[OnSucceedAttackHead] Inflict Paralyze for each Heads this skill lands"
-  },
-  {
     "key": "9004303-levelList[0].name",
     "original": "防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "防御\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
@@ -2045,10 +2038,10 @@
   },
   {
     "key": "9004402-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 防御力減少 2を付与、出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 防御力減少 2を付与、出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 防御レベルが2減少、出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 防御レベルが2減少、出血 回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttackHead] 방어력 감소 2 부여, 출혈 횟수 1 증가\nEN:\n[OnSucceedAttackHead] Inflict 2 Defense Down and +1 Bleed Count"
+    "context": "KR:\n[OnSucceedAttackHead] 방어 레벨 2 감소, 출혈 횟수 1 증가\nEN:\n[OnSucceedAttackHead] Reduce target's Defense Level by 2 and inflict +1 Bleed Count"
   },
   {
     "key": "9004403-levelList[0].name",
@@ -2087,10 +2080,10 @@
   },
   {
     "key": "9004502-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに束縛 1、防御力減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに束縛 1、防御力減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに束縛 1を付与、防御レベルが2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに束縛 1を付与、防御レベルが2減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 1, 방어력 감소 2 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bind and 2 Defense Down next turn"
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 속박 1, 방어 레벨 2 감소\nEN:\n[OnSucceedAttack] Inflict 1 Bind and reduce target's Defense Level by 2 next turn"
   },
   {
     "key": "9004503-levelList[0].name",
@@ -2297,10 +2290,10 @@
   },
   {
     "key": "9004902-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに脆弱 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 다음 턴에 취약 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Fragile next turn"
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 취약 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 Fragile next turn"
   },
   {
     "key": "9004903-levelList[0].name",
@@ -2374,10 +2367,10 @@
   },
   {
     "key": "9005002-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに攻撃威力減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに攻撃威力減少 2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに攻撃レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに攻撃レベル減少 3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 공격 레벨 감소 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
   },
   {
     "key": "9005003-levelList[0].name",
