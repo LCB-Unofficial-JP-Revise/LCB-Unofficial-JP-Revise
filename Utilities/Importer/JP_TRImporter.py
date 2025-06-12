@@ -353,11 +353,28 @@ def generate_csv_report(input_root, rel_path, basename, output_dir, sources, ori
             relative_path_to_report = os.path.relpath(full_json_path, input_root)
             line_number = find_line_number(full_json_path, translation)
             print(full_json_path)
+
+            # カテゴリ抽出
+            kr_comment = cmt["CMT_KR"]
+            categories = []
+
+            if regex.search(r"오식\d*:", kr_comment): # 誤植
+                categories.append("오식")
+            if regex.search(r"오역 의심\d*:", kr_comment): # 誤訳の疑い
+                categories.append("오역 의심")
+            if regex.search(r"표현 개선\d*:", kr_comment): # 表現改善
+                categories.append("표현 개선")
+
+            # 優先順に並び替え
+            priority = {"오식": 0, "오역 의심": 1, "표현 개선": 2}
+            categories.sort(key=lambda x: priority[x])
+            category = ", ".join(categories)
             
             # データ行を作成
             row = [
                 f"{relative_path_to_report}:{line_number}",
                 key,
+                category,
                 original,
                 translation,
                 revised,
