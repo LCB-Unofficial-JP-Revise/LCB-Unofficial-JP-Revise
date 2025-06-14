@@ -19,6 +19,10 @@ This project aims to identify and correct typographical errors and some mistrans
 
 - `Localize_Fixed/jp_mod/`  
   Custom language Mod built from the above Japanese localization files
+  
+#### 🔍 Easy Comparison Method
+
+By using a diff tool such as [WinMerge](https://winmerge.org) to compare `Localize/jp/` and `Localize_Fixed/jp_fixed/`, you can easily check and apply the differences between files.
 
 ## 🛠 Other Contents
 
