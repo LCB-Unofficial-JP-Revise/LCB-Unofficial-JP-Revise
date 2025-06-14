@@ -3,6 +3,7 @@ import shutil
 import json
 import regex
 from collections import defaultdict
+from natsort import natsorted
 import csv
 import zipfile
 import glob
@@ -325,65 +326,66 @@ def generate_csv_report(input_root, rel_path, basename, output_dir, sources, ori
         os.makedirs(os.path.dirname(report_path), exist_ok=True)
     else:
         report_path = os.path.join(csv_name)
-    file_exists = os.path.isfile(report_path)
     
+    # データ行を蓄積
+    rows = []
+    
+    for key in originals:
+        source = sources.get(key, "")
+        original = source.replace('\n', '\\n')
+        translation = originals.get(key, "").replace('\n', '\\n')
+        revised = translations.get(key, "").replace('\n', '\\n')
+        cmt = comments.get(key, {"CMT_JP": "", "CMT_KR": "", "CMT_EN": ""})
+        
+        if not (cmt["CMT_JP"] or cmt["CMT_KR"] or cmt["CMT_EN"]):
+            continue
+
+        relative_path_to_report = os.path.relpath(full_json_path, input_root)
+        line_number = find_line_number(full_json_path, translation)
+
+        kr_comment = cmt["CMT_KR"]
+        categories = []
+        if regex.search(r"오식\d*:", kr_comment):
+            categories.append("오식")
+        if regex.search(r"오역 의심\d*:", kr_comment):
+            categories.append("오역 의심")
+        if regex.search(r"표현 개선\d*:", kr_comment):
+            categories.append("표현 개선")
+
+        priority = {"오식": 0, "오역 의심": 1, "표현 개선": 2}
+        categories.sort(key=lambda x: priority[x])
+        category = ", ".join(categories)
+
+        row = [
+            f"{relative_path_to_report}:{line_number}",
+            key,
+            category,
+            original,
+            translation,
+            revised,
+            cmt["CMT_JP"].replace('\n', ' '),
+            cmt["CMT_KR"].replace('\n', ' '),
+            cmt["CMT_EN"].replace('\n', ' ')
+        ]
+        rows.append(row)
+    
+    if not rows:
+        return
+
+    # 1列目の「path:line」順に自然ソート
+    rows = natsorted(rows, key=lambda x: x[0])
+
+    file_exists = os.path.isfile(report_path)
     with open(report_path, 'a', encoding='utf-8-sig', newline='') as txtfile:
-        # ヘッダー行の書き込み
         if not file_exists:
             header = [
-                "경로", "키", "원문", "번역문", # パス, キー, 原文, 翻訳文,
-                "수정문", "(일) 코멘트", "(한) 코멘트", # 修正文, (日)コメント, (韓)コメント, 
-                "(영) 코멘트" # (英)コメント
+                "경로", "키", "원문", "번역문", 
+                "수정문", "(일) 코멘트", "(한) 코멘트", 
+                "(영) 코멘트"
             ]
             txtfile.write('\t'.join(header) + '\n')
-        
-        # データ行の書き込み
-        for key in originals:
-            source = sources.get(key, "")
-            original = source.replace('\n', '\\n')
-            translation = originals.get(key, "").replace('\n', '\\n')
-            revised = translations.get(key, "").replace('\n', '\\n')
-            cmt = comments.get(key, {"CMT_JP": "", "CMT_KR": "", "CMT_EN": ""})
-            
-            # コメントがすべて空なら出力しない
-            if not (cmt["CMT_JP"] or cmt["CMT_KR"] or cmt["CMT_EN"]):
-                continue
-                
-            # 相対パスと行番号を取得
-            relative_path_to_report = os.path.relpath(full_json_path, input_root)
-            line_number = find_line_number(full_json_path, translation)
-            print(full_json_path)
 
-            # カテゴリ抽出
-            kr_comment = cmt["CMT_KR"]
-            categories = []
-
-            if regex.search(r"오식\d*:", kr_comment): # 誤植
-                categories.append("오식")
-            if regex.search(r"오역 의심\d*:", kr_comment): # 誤訳の疑い
-                categories.append("오역 의심")
-            if regex.search(r"표현 개선\d*:", kr_comment): # 表現改善
-                categories.append("표현 개선")
-
-            # 優先順に並び替え
-            priority = {"오식": 0, "오역 의심": 1, "표현 개선": 2}
-            categories.sort(key=lambda x: priority[x])
-            category = ", ".join(categories)
-            
-            # データ行を作成
-            row = [
-                f"{relative_path_to_report}:{line_number}",
-                key,
-                category,
-                original,
-                translation,
-                revised,
-                cmt["CMT_JP"].replace('\n', ' '),
-                cmt["CMT_KR"].replace('\n', ' '),
-                cmt["CMT_EN"].replace('\n', ' ')
-            ]
-            
-            # タブ区切りで出力
+        for row in rows:
             txtfile.write('\t'.join(row) + '\n')
 
 def process_all_json(input_root, translation_root, json_output_lang_root, json_output_mod_root, output_root):
