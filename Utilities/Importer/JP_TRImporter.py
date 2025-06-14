@@ -315,28 +315,20 @@ def find_line_number(file_path, search_text):
         print(f"行番号の取得に失敗しました: {file_path}, エラー: {e}")
     return "-"
 
-def generate_csv_report(input_root, rel_path, basename, output_dir, sources, originals, translations, comments, full_json_path):
-    """CSVレポートを生成"""
-
-    is_storydata = "StoryData" in rel_path.replace("\\", "/") # StoryData系かどうかを判定
-    csv_name = REPORT_FILES.get("story") if is_storydata else REPORT_FILES.get("general")
-
-    if LOCAL_MODE:
-        report_path = os.path.join(output_dir, csv_name)
-        os.makedirs(os.path.dirname(report_path), exist_ok=True)
-    else:
-        report_path = os.path.join(csv_name)
-    
-    # データ行を蓄積
+def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, translations, comments, full_json_path):
+    """CSV出力用の行データを収集"""
     rows = []
-    
+
+    is_storydata = "StoryData" in rel_path.replace("\\", "/")
+    csv_key = "story" if is_storydata else "general"
+
     for key in originals:
         source = sources.get(key, "")
         original = source.replace('\n', '\\n')
         translation = originals.get(key, "").replace('\n', '\\n')
         revised = translations.get(key, "").replace('\n', '\\n')
         cmt = comments.get(key, {"CMT_JP": "", "CMT_KR": "", "CMT_EN": ""})
-        
+
         if not (cmt["CMT_JP"] or cmt["CMT_KR"] or cmt["CMT_EN"]):
             continue
 
@@ -345,11 +337,11 @@ def generate_csv_report(input_root, rel_path, basename, output_dir, sources, ori
 
         kr_comment = cmt["CMT_KR"]
         categories = []
-        if regex.search(r"오식\d*:", kr_comment):
+        if regex.search(r"오식\d*:", kr_comment): # 誤植
             categories.append("오식")
-        if regex.search(r"오역 의심\d*:", kr_comment):
+        if regex.search(r"오역 의심\d*:", kr_comment): # 誤訳の疑い
             categories.append("오역 의심")
-        if regex.search(r"표현 개선\d*:", kr_comment):
+        if regex.search(r"표현 개선\d*:", kr_comment): # 表現改善
             categories.append("표현 개선")
 
         priority = {"오식": 0, "오역 의심": 1, "표현 개선": 2}
@@ -367,26 +359,34 @@ def generate_csv_report(input_root, rel_path, basename, output_dir, sources, ori
             cmt["CMT_KR"].replace('\n', ' '),
             cmt["CMT_EN"].replace('\n', ' ')
         ]
-        rows.append(row)
+        rows.append((csv_key, row))
     
-    if not rows:
-        return
+    return rows
 
-    # 1列目の「path:line」順に自然ソート
-    rows = natsorted(rows, key=lambda x: x[0])
+def write_csv_report(output_dir, collected_rows):
+    """収集したCSV行をファイルごとに自然順で書き出す"""
+    from collections import defaultdict
+    from natsort import natsorted
 
-    file_exists = os.path.isfile(report_path)
-    with open(report_path, 'a', encoding='utf-8-sig', newline='') as txtfile:
-        if not file_exists:
-            header = [
-                "경로", "키", "원문", "번역문", 
-                "수정문", "(일) 코멘트", "(한) 코멘트", 
-                "(영) 코멘트"
-            ]
+    grouped_rows = defaultdict(list)
+    for csv_key, row in collected_rows:
+        grouped_rows[csv_key].append(row)
+
+    for csv_key, rows in grouped_rows.items():
+        csv_name = REPORT_FILES.get(csv_key)
+        report_path = os.path.join(output_dir, csv_name) if LOCAL_MODE else csv_name
+        os.makedirs(os.path.dirname(report_path), exist_ok=True)
+
+        header = [
+            "경로", "키", "원문", "번역문", # パス, キー, 原文, 翻訳文,
+            "수정문", "(일) 코멘트", "(한) 코멘트", # 修正文, (日)コメント, (韓)コメント, 
+            "(영) 코멘트" # (英)コメント
+        ]
+
+        with open(report_path, 'w', encoding='utf-8-sig', newline='') as txtfile:
             txtfile.write('\t'.join(header) + '\n')
-
-        for row in rows:
-            txtfile.write('\t'.join(row) + '\n')
+            for row in natsorted(rows, key=lambda r: r[0]):  # 1列目で自然順
+                txtfile.write('\t'.join(row) + '\n')
 
 def process_all_json(input_root, translation_root, json_output_lang_root, json_output_mod_root, output_root):
     """各JSONファイルの総処理"""
@@ -429,6 +429,9 @@ def process_all_json(input_root, translation_root, json_output_lang_root, json_o
         organized_translations_by_file[basename] = organize_duplicate_translations(translations)
     
     print("Processing files...")
+
+    all_report_rows = []  # 全レポート行を格納
+
     for root, _, files in os.walk(input_root):
         for filename in [f for f in files if f.endswith(".json")]:
             input_path = os.path.join(root, filename)
@@ -484,23 +487,24 @@ def process_all_json(input_root, translation_root, json_output_lang_root, json_o
                     if has_trailing_newline:
                         f.write('\n')
 
-                # CSVレポートを生成
-                generate_csv_report(
+                # レポート行を収集
+                rows = collect_csv_report_rows(
                     input_root=input_root,
                     rel_path=rel_path,
                     basename=basename,
-                    output_dir=output_root,
                     sources=sources,
                     originals=originals,
                     translations=translations,
                     comments=comments,
                     full_json_path=input_path
                 )
+                all_report_rows.extend(rows)
 
             except Exception as e:
                 print(f"Error processing {input_path}: {e}")
 
-
+    # CSVレポートを出力
+    write_csv_report(output_root, all_report_rows)
 
 # def download_paratranz_artifact(token_id=12345, projects_id='test_id_12345', output_path='artifact.zip'):
 def download_paratranz_artifact(token_id, projects_id, output_file='paratranz_artifact.zip'):
