@@ -3,7 +3,7 @@ import shutil
 import json
 import regex
 from collections import defaultdict
-from natsort import natsorted
+from natsort import natsort_keygen
 import csv
 import zipfile
 import glob
@@ -365,17 +365,27 @@ def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, 
 
 def write_csv_report(output_dir, collected_rows):
     """収集したCSV行をファイルごとに自然順で書き出す"""
-    from collections import defaultdict
-    from natsort import natsorted
-
     grouped_rows = defaultdict(list)
     for csv_key, row in collected_rows:
         grouped_rows[csv_key].append(row)
 
+    # 自然順のキーを生成
+    natkey = natsort_keygen()
+
+    def sort_key(row):
+        """1列目の 'path:line' を分解して階層・自然順にソート"""
+        full_path, _, line_str = row[0].rpartition(":")
+        line_num = int(line_str) if line_str.isdigit() else 0
+        path_parts = full_path.split(os.sep)  # ディレクトリ階層に分解
+        return (len(path_parts), natkey(full_path), line_num)
+
     for csv_key, rows in grouped_rows.items():
         csv_name = REPORT_FILES.get(csv_key)
-        report_path = os.path.join(output_dir, csv_name) if LOCAL_MODE else csv_name
-        os.makedirs(os.path.dirname(report_path), exist_ok=True)
+        if LOCAL_MODE:
+            report_path = os.path.join(output_dir, csv_name)
+            os.makedirs(os.path.dirname(report_path), exist_ok=True)
+        else:
+            report_path = csv_name
 
         header = [
             "경로", "키", "원문", "번역문", # パス, キー, 原文, 翻訳文,
@@ -385,7 +395,7 @@ def write_csv_report(output_dir, collected_rows):
 
         with open(report_path, 'w', encoding='utf-8-sig', newline='') as txtfile:
             txtfile.write('\t'.join(header) + '\n')
-            for row in natsorted(rows, key=lambda r: r[0]):  # 1列目で自然順
+            for row in sorted(rows, key=sort_key):
                 txtfile.write('\t'.join(row) + '\n')
 
 def process_all_json(input_root, translation_root, json_output_lang_root, json_output_mod_root, output_root):
