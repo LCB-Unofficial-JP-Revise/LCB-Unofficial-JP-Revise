@@ -2011,7 +2011,7 @@
   {
     "key": "1081204-levelList[0].desc",
     "original": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n[OnSucceedEvade] [Breath]2を得る (1ターンに隙最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n[OnSucceedEvade] [Breath]2を得る (1ターンに隙最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n[OnSucceedEvade] [Breath]2を得る (1ターンにつき最大2回)\n<CMT_KR>오식: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「隙」最大2回)\" 정확: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「つき」最大2回)\"\n<CMT_EN>Typo: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「隙」最大2回)\" Correction: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「つき」最大2回)\"\n<CMT_JP>誤植: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「隙」最大2回)\" 訂正後: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「つき」最大2回)\"",
     "stage": 1,
     "context": "KR:\n[StartBattle] 자신의 [StartXichun]가 3 이상이면, 턴 종료 시 [RetreatForCommon]함.\n- 퇴각 시 대기 순서 1번이 됨 (대기 인원의 대기 해제보다 우선적으로 복귀함)\n[OnSucceedEvade] [Breath] 2 얻음. (턴 당 최대 2회)\nEN:\n[StartBattle] At 3+ [StartXichun], perform a [RetreatForCommon] at Turn End.\n- Upon Retreat, move to the frontmost place in the Backup units' Deployment order (Returns first before the other Backup units Substitute in)\n[OnSucceedEvade] Gain 2 [Breath] (2 times per turn)"
   },
@@ -2025,7 +2025,7 @@
   {
     "key": "1081204-levelList[1].desc",
     "original": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n<style=\"highlight\">[WhenUse] [Breath]回数が1増加 (1ターンにつき最大2回)</style>\n[OnSucceedEvade] [Breath]2を得る (1ターンに隙最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n<style=\"highlight\">[WhenUse] [Breath]回数が1増加 (1ターンにつき最大2回)</style>\n[OnSucceedEvade] [Breath]2を得る (1ターンに隙最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n<style=\"highlight\">[WhenUse] [Breath]回数が1増加 (1ターンにつき最大2回)</style>\n[OnSucceedEvade] [Breath]2を得る (1ターンにつき最大2回)\n<CMT_KR>오식: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「隙」最大2回)\" 정확: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「つき」最大2回)\"\n<CMT_EN>Typo: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「隙」最大2回)\" Correction: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「つき」最大2回)\"\n<CMT_JP>誤植: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「隙」最大2回)\" 訂正後: \"[OnSucceedEvade] [Breath]2を得る (1ターンに「つき」最大2回)\"",
     "stage": 1,
     "context": "KR:\n[StartBattle] 자신의 [StartXichun]가 3 이상이면, 턴 종료 시 [RetreatForCommon]함.\n- 퇴각 시 대기 순서 1번이 됨 (대기 인원의 대기 해제보다 우선적으로 복귀함)\n&lt;style=\"highlight\"&gt;[WhenUse] [Breath] 횟수 1 증가 (턴 당 최대 2회)&lt;/style&gt;\n[OnSucceedEvade] [Breath] 2 얻음. (턴 당 최대 2회)\nEN:\n[StartBattle] At 3+ [StartXichun], perform a [RetreatForCommon] at Turn End.\n- Upon Retreat, move to the frontmost place in the Backup units' Deployment order (Returns first before the other Backup units Substitute in)\n&lt;style=\"highlight\"&gt;[WhenUse] Gain +1 [Breath] Count (2 times per turn)&lt;/style&gt;\n[OnSucceedEvade] Gain 2 [Breath] (2 times per turn)"
   },
