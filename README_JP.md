@@ -20,7 +20,11 @@
 
 - `Localize_Fixed/jp_mod/`  
   上記の日本語翻訳ファイルから作られたカスタム言語Mod
-  
+
+#### 🔍 簡単な比較方法
+
+[WinMerge](https://winmerge.org/) などの差分比較ソフトで `Localize/jp/` と `Localize_Fixed/jp_fixed/` を比較することで、ファイル間の変更点を簡単にチェックしたり取り込んだりすることができます。
+
 ## 🛠 その他の構成物
 
 - `Localize/kr/, Localize/en/, Localize/jp/`  
