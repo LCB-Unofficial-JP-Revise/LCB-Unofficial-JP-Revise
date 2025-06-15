@@ -281,17 +281,32 @@ def apply_translation_to_obj(obj, translations, original_formats, organized_tran
     
     return obj
 
-def detect_indent_spaces(file_path):
-    """JSONファイルのインデント空白数を検出"""
-    pattern = regex.compile(r'^( +)["{\[]')
-    
-    with open(file_path, 'r', encoding='utf-8') as f:
+def collect_linewise_indents(file_path):
+    """元のJSONファイルの各行インデント（スペース数）を収集"""
+    indents = []
+    with open(file_path, encoding='utf-8') as f:
         for line in f:
-            match = pattern.match(line)
-            if match:
-                return len(match.group(1))
-    
-    return 2
+            leading_spaces = len(line) - len(line.lstrip(' '))
+            indents.append(leading_spaces)
+    return indents
+
+def apply_linewise_indent(original_path, temp_path, final_output_path, insert_trailing_lf=False):
+    """元ファイルの行ごとのインデントを適用して最終ファイルを出力"""
+    original_indents = collect_linewise_indents(original_path)
+
+    with open(temp_path, encoding='utf-8') as temp_f:
+        new_lines = temp_f.readlines()
+
+    if insert_trailing_lf:
+        new_lines.append('\n')
+
+    with open(final_output_path, 'w', encoding='utf-8') as final_f:
+        for i, line in enumerate(new_lines):
+            if i < len(original_indents):
+                adjusted_line = ' ' * original_indents[i] + line.lstrip(' ')
+            else:
+                adjusted_line = line
+            final_f.write(adjusted_line)
 
 def check_trailing_newline(file_path):
     """ファイル末尾の改行有無をチェック"""
@@ -454,7 +469,6 @@ def process_all_json(input_root, translation_root, json_output_lang_root, json_o
             os.makedirs(os.path.dirname(output_mod_path), exist_ok=True)
 
             # ファイル形式を検出
-            indent_spaces = detect_indent_spaces(input_path)
             has_trailing_newline = check_trailing_newline(input_path)
             
             try:
@@ -487,15 +501,14 @@ def process_all_json(input_root, translation_root, json_output_lang_root, json_o
                             )
                 
                 # 翻訳済みJSONファイルを出力
-                with open(output_path, 'w', encoding='utf-8') as f:
-                    json.dump(original_json, f, ensure_ascii=False, indent=indent_spaces)
-                    if has_trailing_newline:
-                        f.write('\n')
+                tmp_path = output_path + '_temp'
+                with open(tmp_path, 'w', encoding='utf-8') as f:
+                    json.dump(original_json, f, ensure_ascii=False, indent=2)
 
-                with open(output_mod_path, 'w', encoding='utf-8') as f:
-                    json.dump(original_json, f, ensure_ascii=False, indent=indent_spaces)
-                    if has_trailing_newline:
-                        f.write('\n')
+                apply_linewise_indent(original_path=input_path, temp_path=tmp_path, final_output_path=output_path, insert_trailing_lf=has_trailing_newline)
+                apply_linewise_indent(original_path=input_path, temp_path=tmp_path, final_output_path=output_mod_path, insert_trailing_lf=has_trailing_newline)
+
+                os.remove(tmp_path)
 
                 # レポート行を収集
                 rows = collect_csv_report_rows(
