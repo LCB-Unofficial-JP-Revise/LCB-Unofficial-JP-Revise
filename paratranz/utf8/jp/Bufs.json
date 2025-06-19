@@ -7495,5 +7495,96 @@
     "translation": "- ターン終了時、混乱状態を解除して戦闘から離脱する(強制混乱を除く、死亡処理されない)\n- 連続戦闘の場合、退却時に待機人員へ自分のスロット数を渡して交代し、待機人員リストの最後へ移動(次のターンに交代可能な待機人員がいなければ離脱する。復帰時は退却順に復帰)\n- 戦闘復帰時に自分に付与された一部効果を除いた全効果を除去、退却時の体力と精神力が維持される(精神力が0未満なら、0に初期化)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 턴 종료 시 흐트러짐 상태를 해제하고 전투에서 이탈함 (강제 흐트러짐 제외, 사망으로 처리되지 않음)\n- 연속 전투인 경우, 퇴각 시 대기 인원에게 자신의 슬롯 수를 이전한 뒤 교체되고, 대기 인원 목록의 마지막 순서로 이동 (다음 턴에 교체 가능한 대기 인원이 없으면 이탈함. 복귀 시 퇴각 순서대로 복귀)\n- 전투 복귀 시 자신에게 부여된 일부 효과를 제외한 모든 효과 제거, 퇴각 시의 체력과 정신력이 유지됨 (정신력이 0 미만이면, 0으로 초기화)\nEN:\n- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
+  },
+  {
+    "key": "FireBulletPropellant-name",
+    "original": "灼熱推進弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "灼熱推進弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n작열 추진탄\nEN:\nScorch Propellant Ammo"
+  },
+  {
+    "key": "FireBulletPropellant-desc",
+    "original": "- 最大値 : 15\n- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 弾丸として扱う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 最大値 : 15\n- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 弾丸として扱う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값 : 15\n- 특수 탄환\n- 특정 스킬 사용 시 소모\n- 탄환으로 취급함\nEN:\n- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills\n- Counts as \"Ammo\""
+  },
+  {
+    "key": "SingBulletSupport-name",
+    "original": "(엄지 싱클 탄환 보급 받는 대상 이펙트)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "(엄지 싱클 탄환 보급 받는 대상 이펙트)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n(엄지 싱클 탄환 보급 받는 대상 이펙트)\nEN:\n(엄지 싱클 탄환 보급 받는 대상 이펙트)"
+  },
+  {
+    "key": "BulletPropellantAlly-name",
+    "original": "虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호표탄\nEN:\nTigermark Round"
+  },
+  {
+    "key": "BulletPropellantAlly-desc",
+    "original": "- 特殊弾丸\n- 虎標弾、猛虎標弾の累計消耗数の合計が8以上なら、パッシブで得る剛氣が剛氣-心に変更\n· 累計消耗数の合計 : {0}\n- 最大値 : 12\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 特殊弾丸\n- 虎標弾、猛虎標弾の累計消耗数の合計が8以上なら、パッシブで得る剛氣が剛氣-心に変更\n· 累計消耗数の合計 : {0}\n- 最大値 : 12\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 특수 탄환\n- 호표탄, 맹호표탄의 누적 소모 합이 8 이상이면, 패시브로 얻는 강기 [剛氣]가 강기-신 [剛氣-心]으로 변경\n· 누적 소모 합 : {0}\n- 최댓값 : 12\nEN:\n- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Cumulative Rounds spent: {0}\n- Max Capacity: 12"
+  },
+  {
+    "key": "BulletPropellantSpecialAlly-name",
+    "original": "猛虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛虎標弾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹호표탄\nEN:\nSavage Tigermark Round"
+  },
+  {
+    "key": "BulletPropellantSpecialAlly-desc",
+    "original": "- 特殊弾丸\n- 虎標弾、猛虎標弾の累計消耗数の合計が8以上なら、パッシブで得る剛氣が剛氣-心に変更\n· 累計消耗数の合計 : {0}\n- 虎標弾の効果が適用される\n- 最大値 : 8\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 特殊弾丸\n- 虎標弾、猛虎標弾の累計消耗数の合計が8以上なら、パッシブで得る剛氣が剛氣-心に変更\n· 累計消耗数の合計 : {0}\n- 虎標弾の効果が適用される\n- 最大値 : 8\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 특수 탄환\n- 호표탄, 맹호표탄의 누적 소모 합이 8 이상이면, 패시브로 얻는 강기 [剛氣]가 강기-신 [剛氣-心]으로 변경\n· 누적 소모 합 : {0}\n- 호표탄의 효과가 적용됨\n- 최댓값 : 8\nEN:\n- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Cumulative Rounds spent: {0}\n- Actives the same way as Tigermark Round does\n- Max Capacity: 8"
+  },
+  {
+    "key": "IrritationAlly-name",
+    "original": "剛気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剛気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강기 [剛氣]\nEN:\nUnrelenting Spirit [剛氣]"
+  },
+  {
+    "key": "IrritationAlly-desc",
+    "original": "- 速度の最小・最大値が1増加\n- 自分の速度が対象より3以上高ければ、ダメージ量 +(対象との速度差 × 2.5)% (最大20%)\n- 敵にスキルで付与する振動威力と振動回数の付与値 +1\n- 自分が消耗した虎標弾・猛虎標弾の合計が8以上なら、ターン終了時に次のターンにてこのバフが剛氣-心に変更\n- 最大値 : 1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 速度の最小・最大値が1増加\n- 自分の速度が対象より3以上高ければ、ダメージ量 +(対象との速度差 × 2.5)% (最大20%)\n- 敵にスキルで付与する振動威力と振動回数の付与値 +1\n- 自分が消耗した虎標弾・猛虎標弾の合計が8以上なら、ターン終了時に次のターンにてこのバフが剛氣-心に変更\n- 最大値 : 1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 속도 최솟값, 최댓값 1 증가\n- 자신의 속도가 대상보다 3 이상 높으면, 피해량 +(대상과의 속도 차이 x 2.5)% (최대 20%)\n- 적에게 스킬로 부여하는 진동 위력과 진동 횟수 부여값 +1\n- 소모한 호표탄, 맹호표탄 합이 8 이상이면, 턴 종료 시 다음 턴에 이 버프가 강기-신[剛氣-心]으로 변경\n- 최댓값 : 1\nEN:\n- Min & Max Speed +1\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 2.5)% damage (max 20%)\n- Inflict +1 more Tremor Potency and Tremor Count with this unit's Skills\n- If this unit has spent 8+ (sum of Tigermark Round and Savage Tigermark Round): at Turn End, convert this buff to Unrelenting Spirit - Shin [剛氣-心] next turn\n- Max Stack: 1"
+  },
+  {
+    "key": "HugeIrritationAlly-name",
+    "original": "剛気-心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "剛気-心\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강기-신 [剛氣-心]\nEN:\nUnrelenting Spirit - Shin [剛氣-心]"
+  },
+  {
+    "key": "HugeIrritationAlly-desc",
+    "original": "- 速度の最小・最大値が3増加\n- 自分の速度が対象より3以上高ければ、ダメージ量 +(対象との速度差 × 5)% (最大40%)\n- 敵にスキルで付与する振動威力と振動回数の付与値 +2\n- 最大値 : 1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 速度の最小・最大値が3増加\n- 自分の速度が対象より3以上高ければ、ダメージ量 +(対象との速度差 × 5)% (最大40%)\n- 敵にスキルで付与する振動威力と振動回数の付与値 +2\n- 最大値 : 1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 속도 최솟값, 최댓값 3 증가\n- 자신의 속도가 대상보다 3 이상 높으면, 피해량 +(대상과의 속도 차이 x 5)% (최대 40%)\n- 적에게 스킬로 부여하는 진동 위력과 진동 횟수 부여값 +2\n- 최댓값 : 1\nEN:\n- Min & Max Speed +3\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 40%)\n- Inflict +2 more Tremor Potency and Tremor Count with this unit's Skills\n- Max Stack: 1"
+  },
+  {
+    "key": "BeastEyesAlly-name",
+    "original": "オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오버히트\nEN:\nOverheat"
+  },
+  {
+    "key": "BeastEyesAlly-desc",
+    "original": "- 猛虎標弾を得れば、この効果が消失する\n- 速度の最小・最大値が2増加\n- 基本攻撃スキルのマッチ威力が(虎標弾・猛虎標弾の累計消耗数 ÷ 2)だけ減少(最大10)する代わりに下記の効果を得る (全て獲得)\n· 累計消耗数の合計 : {0}\n· 8～ : ターン開始時、失った体力10%につき保護1を得る(最大5)\n· 14～ : マッチ敗北時、基本攻撃スキルの破壊不能コインのダメージ量 +(75 + 失った体力の比率)% (最大150%)\n· 20～ : 自分より残体力の比率が高い対象への与ダメージ量が(体力比の差)%だけ増加 (最大50%、E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 猛虎標弾を得れば、この効果が消失する\n- 速度の最小・最大値が2増加\n- 基本攻撃スキルのマッチ威力が(虎標弾・猛虎標弾の累計消耗数 ÷ 2)だけ減少(最大10)する代わりに下記の効果を得る (全て獲得)\n· 累計消耗数の合計 : {0}\n· 8～ : ターン開始時、失った体力10%につき保護1を得る(最大5)\n· 14～ : マッチ敗北時、基本攻撃スキルの破壊不能コインのダメージ量 +(75 + 失った体力の比率)% (最大150%)\n· 20～ : 自分より残体力の比率が高い対象への与ダメージ量が(体力比の差)%だけ増加 (最大50%、E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 맹호표탄을 얻으면, 이 효과가 사라짐\n- 속도 최솟값, 최댓값 2 증가\n- 기본 공격 스킬의 합 위력이 (호표탄, 맹호표탄의 누적 소모 합/2)만큼 감소(최대 10)하는 대신 다음 효과 얻음 (전부 획득)\n· 누적 소모 합 : {0}\n· 8 ~ : 턴 시작 시 잃은 체력 10%당 보호 1 얻음 (최대 5)\n· 14 ~ : 합 패배 시, 기본 공격 스킬의 파괴 불가 코인 피해량 +(75 + 잃은 체력 비율)% (최대 150%)\n· 20 ~ : 자신보다 남은 체력 비율이 더 높은 대상에게 입히는 피해량이 (체력 비율 차이)%만큼 증가 (최대 50%, E.G.O 스킬 제외)\nEN:\n- Loses this effect when this unit gains Savage Tigermark Round\n- Min & Max Speed +2\n- Base Attack Skills Lose (cumulative number of Tigermark & Savage Tigermark Rounds spent / 2) Clash Power (max 10); however, gain the following effects(cumulative):\n· Cumulative Rounds spent: {0}\n· 8+ Rounds spent: Gain 1 Protection for every 10% missing HP on self at Turn Start (max 5)\n· 14+ Rounds spent: On Clash Lose, Unbreakable Coins of this unit's Base Attack Skills deal +(75 + missing HP percentage on self)% damage (max 150%)\n· 20+ Rounds Spent: Deal +(HP percentage difference)% damage against targets with higher remaining HP percentage than this unit (max 50%; except E.G.O Skills)"
   }
 ]

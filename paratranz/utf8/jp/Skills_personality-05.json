@@ -1356,5 +1356,677 @@
     "translation": "[WhenUse] 自分の速度が攻撃者より3以上高ければ、コイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 자신의 속도가 공격자보다 3 이상 높으면, 코인 위력 +2\nEN:\n[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Coin Power +2"
+  },
+  {
+    "key": "1051201-levelList[0].name",
+    "original": "二連斬-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二連斬-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이연참-폭[爆]\nEN:\nDouble Slash - Blast [爆]"
+  },
+  {
+    "key": "1051201-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantAlly]"
+  },
+  {
+    "key": "1051201-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vibration]"
+  },
+  {
+    "key": "1051201-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1051201-levelList[1].name",
+    "original": "二連斬-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二連斬-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이연참-폭[爆]\nEN:\nDouble Slash - Blast [爆]"
+  },
+  {
+    "key": "1051201-levelList[1].desc",
+    "original": "<style=\"highlight\">メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;메인 타겟 대상의 [Combustion]과 [Vibration]의 합 4당, 최종 위력 +1 (최대 2)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Vibration]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Vibration]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Vibration] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 [Vibration]&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Vibration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[2].name",
+    "original": "二連斬-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "二連斬-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이연참-폭[爆]\nEN:\nDouble Slash - Blast [爆]"
+  },
+  {
+    "key": "1051201-levelList[2].desc",
+    "original": "メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합 4당, 최종 위력 +1 (최대 &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\nEN:\nFinal Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max &lt;style=\"highlight\"&gt;3&lt;/style&gt;)"
+  },
+  {
+    "key": "1051201-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Vibration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051201-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Vibration]"
+  },
+  {
+    "key": "1051201-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Combustion]"
+  },
+  {
+    "key": "1051202-levelList[0].name",
+    "original": "三連撃-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三連撃-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n삼연격-폭[爆]\nEN:\nTriple Slash - Blast [爆]"
+  },
+  {
+    "key": "1051202-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantAlly]"
+  },
+  {
+    "key": "1051202-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vibration]"
+  },
+  {
+    "key": "1051202-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]"
+  },
+  {
+    "key": "1051202-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantAlly]"
+  },
+  {
+    "key": "1051202-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count"
+  },
+  {
+    "key": "1051202-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Combustion] Count"
+  },
+  {
+    "key": "1051202-levelList[1].name",
+    "original": "三連撃-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三連撃-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n삼연격-폭[爆]\nEN:\nTriple Slash - Blast [爆]"
+  },
+  {
+    "key": "1051202-levelList[1].desc",
+    "original": "<style=\"highlight\">メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;메인 타겟 대상의 [Combustion]과 [Vibration]의 합 4당, 최종 위력 +1 (최대 2)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Vibration]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Vibration]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Vibration] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 [Vibration]&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Vibration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Combustion]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Combustion] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[1].coinlist[2].coindescs[3].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 対象の[Vibration]回数が3以上なら、[VibrationExplosion]。対象の[Vibration]回数が1減少</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 対象の[Vibration]回数が3以上なら、[VibrationExplosion]。対象の[Vibration]回数が1減少</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 대상의 [Vibration] 횟수가 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[2].name",
+    "original": "三連撃-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "三連撃-【爆】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n삼연격-폭[爆]\nEN:\nTriple Slash - Blast [爆]"
+  },
+  {
+    "key": "1051202-levelList[2].desc",
+    "original": "メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大<style=\"highlight\">4</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットの[Combustion]と[Vibration]の合計4につき、最終威力 +1 (最大<style=\"highlight\">4</style>)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합 4당, 최종 위력 +1 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\nEN:\nFinal Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Vibration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Vibration]"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Combustion]"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict +&lt;style=\"highlight\"&gt;2&lt;/style&gt; [Vibration] Count"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+2&lt;/style&gt; [Combustion] Count"
+  },
+  {
+    "key": "1051202-levelList[2].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] 対象の[Vibration]回数が3以上なら、[VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Vibration]回数が3以上なら、[VibrationExplosion]。対象の[Vibration]回数が1減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Vibration] 횟수가 3 이상이면, [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051203-levelList[0].name",
+    "original": "快刀亂麻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "快刀亂麻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쾌도난마 [快刀亂麻]\nEN:\nTanglecleaver [快刀亂麻]"
+  },
+  {
+    "key": "1051203-levelList[0].desc",
+    "original": "[BulletPropellantSpecialAlly]があれば、「超絶猛虎殺撃乱斬」として発動\n- [BeforeUse] [BulletPropellantSpecialAlly]がなければ発動キャンセル\nメインターゲットの[Combustion]と[Vibration]の合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]があれば、「超絶猛虎殺撃乱斬」として発動\n- [BeforeUse] [BulletPropellantSpecialAlly]がなければ発動キャンセル\nメインターゲットの[Combustion]と[Vibration]の合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly]이 있으면, '초절맹호살격난참'으로 발동됨\n- [BeforeUse] [BulletPropellantSpecialAlly]이 없으면 발동 취소\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합이 8 이상이면, 코인 위력 +1\nEN:\nIf this unit has [BulletPropellantSpecialAlly], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead\n- [BeforeUse] If this unit does not have [BulletPropellantSpecialAlly], cancel activation\nIf the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantAlly]"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vibration]"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Combustion]"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantAlly]"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Vibration] Count"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Combustion] Count"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantAlly]"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "このコイン効果で[BulletPropellantAlly]を消耗したなら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコイン効果で[BulletPropellantAlly]を消耗したなら、ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인 효과로 [BulletPropellantAlly]을 소모하였다면, 피해량 +20%\nEN:\nIf this unit spent [BulletPropellantAlly] due to this Coin's effect, deal +20% damage"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]\nEN:\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+  },
+  {
+    "key": "1051203-levelList[0].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantAlly]消耗時、効果が1回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantAlly]消耗時、効果が1回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [BulletPropellantAlly] 소모 시, 효과 1회 추가 발동\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect once more"
+  },
+  {
+    "key": "1051203-levelList[1].name",
+    "original": "快刀亂麻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "快刀亂麻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쾌도난마 [快刀亂麻]\nEN:\nTanglecleaver [快刀亂麻]"
+  },
+  {
+    "key": "1051203-levelList[1].desc",
+    "original": "[BulletPropellantSpecialAlly]があれば、「超絶猛虎殺撃乱斬」として発動\n- [BeforeUse] [BulletPropellantSpecialAlly]がなければ発動キャンセル\nメインターゲットの[Combustion]と[Vibration]の<style=\"highlight\">合計8につき、コイン威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]があれば、「超絶猛虎殺撃乱斬」として発動\n- [BeforeUse] [BulletPropellantSpecialAlly]がなければ発動キャンセル\nメインターゲットの[Combustion]と[Vibration]の<style=\"highlight\">合計8につき、コイン威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly]이 있으면, '초절맹호살격난참'으로 발동됨\n- [BeforeUse] [BulletPropellantSpecialAlly]이 없으면 발동 취소\n메인 타겟 대상의 [Combustion]과 [Vibration]의 &lt;style=\"highlight\"&gt;합 8당, 코인 위력 +1 (최대 2)&lt;/style&gt;\nEN:\nIf this unit has [BulletPropellantSpecialAlly], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead\n- [BeforeUse] If this unit does not have [BulletPropellantSpecialAlly], cancel activation\n&lt;style=\"highlight\"&gt;Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on the main target), (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Vibration]"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Combustion]"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [Vibration] Count"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [Combustion] Count"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "このコイン効果で[BulletPropellantAlly]を消耗したなら、ダメージ量 <style=\"highlight\">+50%</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "このコイン効果で[BulletPropellantAlly]を消耗したなら、ダメージ量 <style=\"highlight\">+50%</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인 효과로 [BulletPropellantAlly]을 소모하였다면, 피해량 &lt;style=\"highlight\"&gt;+50%&lt;/style&gt;\nEN:\nIf this unit spent [BulletPropellantAlly] due to this Coin's effect, deal &lt;style=\"highlight\"&gt;+50%&lt;/style&gt; damage"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[2].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051203-levelList[1].coinlist[2].coindescs[3].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantAlly]消耗時、効果が<style=\"highlight\">2</style>回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantAlly]消耗時、効果が<style=\"highlight\">2</style>回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [BulletPropellantAlly] 소모 시, 효과 &lt;style=\"highlight\"&gt;2&lt;/style&gt;회 추가 발동\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect &lt;style=\"highlight\"&gt;2&lt;/style&gt; more times"
+  },
+  {
+    "key": "1051204-levelList[0].name",
+    "original": "血が騒いでくるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血が騒いでくるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끓어오르는군.\nEN:\nI'm Burning Up."
+  },
+  {
+    "key": "1051204-levelList[0].desc",
+    "original": "[DuelCounter]\nメインターゲットの[Combustion]と[Vibration]の合計が4以上なら、最終威力 +1\n[BulletPropellantAlly] または[BulletPropellantSpecialAlly]が0なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DuelCounter]\nメインターゲットの[Combustion]と[Vibration]の合計が4以上なら、最終威力 +1\n[BulletPropellantAlly] または[BulletPropellantSpecialAlly]が0なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합이 4 이상이면, 최종 위력 +1\n[BulletPropellantAlly] 또는 [BulletPropellantSpecialAlly]이 0이면, 합 위력 +1\nEN:\n[DuelCounter]\nIf the main target has 4+ (sum of [Combustion] and [Vibration]), Final Power +1\nIf [BulletPropellantAlly] (or [BulletPropellantSpecialAlly]) is at 0, Clash Power +1"
+  },
+  {
+    "key": "1051204-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加(1ターンにつき2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가 (턴당 2회)\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count (2 times per turn)"
+  },
+  {
+    "key": "1051204-levelList[1].name",
+    "original": "血が騒いでくるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "血が騒いでくるな。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끓어오르는군.\nEN:\nI'm Burning Up."
+  },
+  {
+    "key": "1051204-levelList[1].desc",
+    "original": "[DuelCounter]\nメインターゲットの[Combustion]と[Vibration]の<style=\"highlight\">合計4につき、最終威力 +1 (最大2)</style>\n[BulletPropellantAlly] または[BulletPropellantSpecialAlly]が0なら、マッチ威力 <style=\"highlight\">+2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[DuelCounter]\nメインターゲットの[Combustion]と[Vibration]の<style=\"highlight\">合計4につき、最終威力 +1 (最大2)</style>\n[BulletPropellantAlly] または[BulletPropellantSpecialAlly]が0なら、マッチ威力 <style=\"highlight\">+2</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n메인 타겟 대상의 [Combustion]과 [Vibration]의 &lt;style=\"highlight\"&gt;합 4당, 최종 위력 +1 (최대 2)&lt;/style&gt;\n[BulletPropellantAlly] 또는 [BulletPropellantSpecialAlly]이 0이면, 합 위력 &lt;style=\"highlight\"&gt;+2&lt;/style&gt;\nEN:\n[DuelCounter]\n&lt;style=\"highlight\"&gt;Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)&lt;/style&gt;\nIf [BulletPropellantAlly] (or [BulletPropellantSpecialAlly]) is at 0, Clash Power &lt;style=\"highlight\"&gt;+2&lt;/style&gt;"
+  },
+  {
+    "key": "1051204-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Vibration]1を付与(1ターンにつき2回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Vibration]1を付与(1ターンにつき2回)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Vibration] 1 부여 (턴당 2회)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 [Vibration] (2 times per turn)&lt;/style&gt;"
+  },
+  {
+    "key": "1051204-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が1増加(1ターンにつき2回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が1増加(1ターンにつき2回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 1 증가 (턴당 2회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +1 [Vibration] Count (2 times per turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051205-levelList[0].name",
+    "original": "超絶猛虎殺撃乱斬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "超絶猛虎殺撃乱斬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초절맹호살격난참 [超絕猛虎殺擊亂斬]\nEN:\nSavage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]"
+  },
+  {
+    "key": "1051205-levelList[0].desc",
+    "original": "メインターゲットの[Combustion]と[Vibration]を合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットの[Combustion]と[Vibration]を合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합이 8 이상이면, 코인 위력 +1\nEN:\nIf the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vibration]"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Vibration] Count"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantSpecialAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantSpecialAlly]"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Combustion]"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[BulletPropellantSpecialAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantSpecialAlly]"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Combustion] Count"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[4].coindescs[0].desc",
+    "original": "[BulletPropellantSpecialAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly] 1 소모\nEN:\nSpend 1 [BulletPropellantSpecialAlly]"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]\nEN:\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+  },
+  {
+    "key": "1051205-levelList[0].coinlist[4].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantSpecialAlly]消耗時、効果が1回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantSpecialAlly]消耗時、効果が1回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [BulletPropellantSpecialAlly] 소모 시, 효과 1회 추가 발동\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantSpecialAlly], activate the above effect once more"
+  },
+  {
+    "key": "1051205-levelList[1].name",
+    "original": "超絶猛虎殺撃乱斬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "超絶猛虎殺撃乱斬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초절맹호살격난참 [超絕猛虎殺擊亂斬]\nEN:\nSavage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]"
+  },
+  {
+    "key": "1051205-levelList[1].desc",
+    "original": "メインターゲットの[Combustion]と[Vibration]の<style=\"highlight\">合計8につき、コイン威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "メインターゲットの[Combustion]と[Vibration]の<style=\"highlight\">合計8につき、コイン威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟 대상의 [Combustion]과 [Vibration]의 &lt;style=\"highlight\"&gt;합 8당, 코인 위력 +1 (최대 2)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on the main target) (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Vibration]"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [Vibration] Count"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[BulletPropellantSpecialAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantSpecialAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Combustion]"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[3].coindescs[0].desc",
+    "original": "[BulletPropellantSpecialAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantSpecialAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [Combustion] Count"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[4].coindescs[0].desc",
+    "original": "[BulletPropellantSpecialAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantSpecialAlly]を1消耗<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantSpecialAlly] 1 소모&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nSpend 1 [BulletPropellantSpecialAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1051205-levelList[1].coinlist[4].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantSpecialAlly]消耗時、効果が<style=\"highlight\">2</style>回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n- [BulletPropellantSpecialAlly]消耗時、効果が<style=\"highlight\">2</style>回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\n- [BulletPropellantSpecialAlly] 소모 시, 효과 &lt;style=\"highlight\"&gt;2&lt;/style&gt;회 추가 발동\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantSpecialAlly], activate the above effect &lt;style=\"highlight\"&gt;2&lt;/style&gt; more times"
   }
 ]

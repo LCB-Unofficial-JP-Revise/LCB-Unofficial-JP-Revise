@@ -130,7 +130,7 @@
     "original": "<color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>体力を{amount}</color><color=#ebcaa2>回復</color>, <color=#80c9ff>精神力を{amount}</color><color=#ebcaa2>回復</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "<color=#ebcaa2>{conditions}{targets}</color> <color=#00ff9c>体力を{amount}</color><color=#ebcaa2>回復</color>, <color=#80c9ff>精神力を{amount}</color><color=#ebcaa2>回復</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n&lt;color=#ebcaa2&gt;{conditions}{targets}&lt;/color&gt; &lt;color=#00ff9c&gt;{amount}만큼 체력&lt;/color&gt; &lt;color=#ebcaa2&gt;회복&lt;/color&gt;, &lt;color=#80c9ff&gt;{amount}만큼 정신력&lt;/color&gt; &lt;color=#ebcaa2&gt;회복&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{targets} {conditions}&lt;/color&gt; &lt;color=#ebcaa2&gt;healed for&lt;/color&gt; &lt;color=#00ff9c&gt;{amount} HP&lt;/color&gt; and &lt;color=#80c9ff&gt;{amount} SP.&lt;/color&gt;"
+    "context": "KR:\n&lt;color=#ebcaa2&gt;{conditions}{targets}&lt;/color&gt; &lt;color=#00ff9c&gt;{hpAmount}만큼 체력&lt;/color&gt; &lt;color=#ebcaa2&gt;회복&lt;/color&gt;, &lt;color=#80c9ff&gt;{mpAmount}만큼 정신력&lt;/color&gt; &lt;color=#ebcaa2&gt;회복&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{targets} {conditions}&lt;/color&gt; &lt;color=#ebcaa2&gt;healed for&lt;/color&gt; &lt;color=#00ff9c&gt;{hpAmount} HP&lt;/color&gt; and &lt;color=#80c9ff&gt;{mpAmount} SP.&lt;/color&gt;"
   },
   {
     "key": "LoseHpMpSameAmount-content",
@@ -144,7 +144,7 @@
     "original": "<color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>体力に{amount}</color><color=#ebcaa2>ダメージ</color>、<color=#fe4b48>精神力に{amount}</color><color=#ebcaa2>ダメージ！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "<color=#ebcaa2>{conditions}{targets}</color> <color=#e30000>体力に{amount}</color><color=#ebcaa2>ダメージ</color>、<color=#fe4b48>精神力に{amount}</color><color=#ebcaa2>ダメージ！</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n&lt;color=#ebcaa2&gt;{conditions}{targets}&lt;/color&gt; &lt;color=#e30000&gt;{amount}만큼 체력&lt;/color&gt; &lt;color=#ebcaa2&gt;피해&lt;/color&gt;, &lt;color=#fe4b48&gt;{amount}만큼 정신력&lt;/color&gt; &lt;color=#ebcaa2&gt;피해!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{targets} {conditions}&lt;/color&gt; &lt;color=#ebcaa2&gt;took&lt;/color&gt; &lt;color=#e30000&gt;{amount} HP&lt;/color&gt; and &lt;color=#fe4b48&gt;{amount} SP damage!&lt;/color&gt;"
+    "context": "KR:\n&lt;color=#ebcaa2&gt;{conditions}{targets}&lt;/color&gt; &lt;color=#e30000&gt;{hpAmount}만큼 체력&lt;/color&gt; &lt;color=#ebcaa2&gt;피해&lt;/color&gt;, &lt;color=#fe4b48&gt;{mpAmount}만큼 정신력&lt;/color&gt; &lt;color=#ebcaa2&gt;피해!&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{targets} {conditions}&lt;/color&gt; &lt;color=#ebcaa2&gt;took&lt;/color&gt; &lt;color=#e30000&gt;{hpAmount} HP&lt;/color&gt; and &lt;color=#fe4b48&gt;{mpAmount} SP damage!&lt;/color&gt;"
   },
   {
     "key": "GetConfirmedEgogift-content",

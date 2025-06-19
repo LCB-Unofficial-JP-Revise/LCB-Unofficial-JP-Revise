@@ -996,7 +996,7 @@
   {
     "key": "1110221-name",
     "original": "死亡確認射撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死亡確認射撃\n<CMT_KR>오역 의심: \"검계는 검을 사용하는 전투 조직임에도 불구하고, 현재의 번역어인 \"사망 확인 사격(射撃)\"은 총이나 화살을 사용해 확인사살하는 것을 연상시킵니다. 만약 검으로 확인사살하는 것이 본래 의도라면, \"확인'자'(刺)살\", (確認刺殺) 등과 같은 번역어가 더 적절할 것입니다.\"\n<CMT_EN>Possible mistranslation: \"Although \"검계\" is a combat organization that uses swords, the current translation \"confirmation shooting\" (死亡確認射撃) evokes the image of using a gun or arrow to perform a coup de grâce. If the original intent was to convey a sword-based coup de grâce, a translation like \"confirmation stabbing\" (確認刺殺) would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"검계は剣を使う戦闘組織ですが、現在の「死亡確認射撃」という訳語では銃あるいは矢を使って確認射殺することを連想させます。もし剣によってとどめを刺すことが本来の意図なら、「確認刺殺」などの訳語がより適切でしょう。\"",
+    "translation": "死亡確認射撃\n<CMT_KR>오역 의심: \"검계는 검을 사용하는 전투 조직임에도 불구하고, 현재의 번역어인 \"사망 확인 사격(射撃)\"은 총이나 화살을 사용해 확인사살하는 것을 연상시킵니다. 만약 검으로 확인사살하는 것이 본래 의도라면, \"확인'자'(刺)살\", (確認刺殺) 등과 같은 번역어가 더 적절할 것입니다.\"\n<CMT_EN>Possible mistranslation: \"Although \"Blade Lineage\" is a combat organization that uses swords, the current translation \"confirmation shooting\" (死亡確認射撃) evokes the image of using a gun or arrow to perform a coup de grâce. If the original intent was to convey a sword-based coup de grâce, a translation like \"confirmation stabbing\" (確認刺殺) would be more appropriate.\"\n<CMT_JP>誤訳の疑い: \"剣契は剣を使う戦闘組織ですが、現在の「死亡確認射撃」という訳語では銃あるいは矢を使って確認射殺することを連想させます。もし剣によってとどめを刺すことが本来の意図なら、「確認刺殺」などの訳語がより適切でしょう。\"",
     "stage": 1,
     "context": "KR:\n확인사살\nEN:\nDouble Tap"
   },
@@ -5672,7 +5672,7 @@
   {
     "key": "1081101-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘開始時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>오식: \"戦闘「」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\" 정확: \"戦闘「開始」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\"\n<CMT_EN>Typo: \"戦闘「」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\" Correction: \"戦闘「開始」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\"\n<CMT_JP>誤植: \"戦闘「」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\" 訂正後: \"戦闘「開始」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\"",
+    "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard"
   },
@@ -5707,7 +5707,7 @@
   {
     "key": "1081111-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘開始時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>오식: \"戦闘「」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\" 정확: \"戦闘「開始」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\"\n<CMT_EN>Typo: \"戦闘「」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\" Correction: \"戦闘「開始」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\"\n<CMT_JP>誤植: \"戦闘「」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\" 訂正後: \"戦闘「開始」時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\"",
+    "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\n&lt;style=\"highlight\"&gt;- 색욕 공명이 4 이상이면, 자신을 제외한 모든 흑운회 소속 아군에게 [BlackCloud] 1 부여&lt;/style&gt;\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n&lt;style=\"highlight\"&gt;- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies&lt;/style&gt;"
   },
@@ -6235,5 +6235,131 @@
     "translation": "戦闘開始時、体力が50%以下かつ守備スキルを使用した人格をターン終了時に退却させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시 체력이 50%이하이고 수비 스킬을 사용한 인격을 턴 종료 시, 퇴각 시킴\nEN:\nTurn End: Retreat the Identity that, at Combat Start, has 50% or less HP and has used a Defense Skill this turn"
+  },
+  {
+    "key": "1101301-name",
+    "original": "弾丸上納\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弾丸上納\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탄환 상납\nEN:\nAmmunition Tribute"
+  },
+  {
+    "key": "1101301-desc",
+    "original": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。(最大消耗値: 3個) (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。(最大消耗値: 3個) (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면 (소수점 올림), 해당 인격이 소모한 [Bullet] 수 만큼 자신의 [FireBulletPropellant]을 소모하고, [FireBulletPropellant]을 소모한 만큼 해당 인격이 사용하는 [Bullet]을 보급함. (최대 소모 값: 3개) (전투당 1회)\n\n- [Bullet]을 보급 받는 인격이 자신보다 계급이 높은 엄지 소속 인격이면, 해당 인격이 사용하는 [Bullet]을 1개 더 보급함\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 보급함\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 보급함\nEN:\nWhen the 1 ally Identity with the fastest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), spend [FireBulletPropellant] on self equal to the total [Bullet] count the affected unit spent and supply them with the same amount of [Bullet] as [FireBulletPropellant] this unit just spent. (can spend up to 3 ammunition) (once per Encounter)\n\n- If the [Bullet] receiving Identity is a Thumb Identity of a higher rank, supply 1 additional [Bullet] they use\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will be supplied at random.\n- If either Potency or Count is maxed out, supply whichever is not maxed."
+  },
+  {
+    "key": "1101311-name",
+    "original": "弾丸上納\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "弾丸上納\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탄환 상납\nEN:\nAmmunition Tribute"
+  },
+  {
+    "key": "1101311-desc",
+    "original": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。<style=\"highlight\">(最大消耗値: 5個)</style> (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。<style=\"highlight\">(最大消耗値: 5個)</style> (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면 (소수점 올림), 해당 인격이 소모한 [Bullet] 수 만큼 자신의 [FireBulletPropellant]을 소모하고, [FireBulletPropellant]을 소모한 만큼 해당 인격이 사용하는 [Bullet]을 보급함. &lt;style=\"highlight\"&gt;(최대 소모 값: 5개)&lt;/style&gt; (전투당 1회)\n\n- [Bullet]을 보급 받는 인격이 자신보다 계급이 높은 엄지 소속 인격이면, 해당 인격이 사용하는 [Bullet]을 1개 더 보급함\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 보급함\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 보급함\nEN:\nWhen the 1 ally Identity with the fastest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), spend [FireBulletPropellant] on self equal to the total [Bullet] count the affected unit spent and supply them with the same amount of [Bullet] as [FireBulletPropellant] this unit just spent. &lt;style=\"highlight\"&gt;(can spend up to 5 ammunition)&lt;/style&gt; (once per Encounter)\n\n- If the [Bullet] receiving Identity is a Thumb Identity of a higher rank, supply 1 additional [Bullet] they use\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will be supplied at random.\n- If either Potency or Count is maxed out, supply whichever is not maxed."
+  },
+  {
+    "key": "1101312-name",
+    "original": "銃剣術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "銃剣術\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총검술\nEN:\nBayonets"
+  },
+  {
+    "key": "1101312-desc",
+    "original": "常時適用: [FireBulletPropellant]を15個保有\n\nスキルやパッシブで[FireBulletPropellant]を消耗したなら、次のターンにて消耗した数だけ[AttackDmgUp]を得る (最大3)\n\n[FireBulletPropellant]を消耗するコインをトスするとき、[FireBulletPropellant]がない場合も攻撃がキャンセルされない代わりに該当コインの的中時[Combustion]付与、[Combustion]回数増加効果が発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "常時適用: [FireBulletPropellant]を15個保有\n\nスキルやパッシブで[FireBulletPropellant]を消耗したなら、次のターンにて消耗した数だけ[AttackDmgUp]を得る (最大3)\n\n[FireBulletPropellant]を消耗するコインをトスするとき、[FireBulletPropellant]がない場合も攻撃がキャンセルされない代わりに該当コインの的中時[Combustion]付与、[Combustion]回数増加効果が発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상시 적용: [FireBulletPropellant] 15개 보유\n\n스킬이나 패시브로 [FireBulletPropellant]을 소모했다면, 다음 턴에 소모한 만큼 [AttackDmgUp]를 얻음 (최대 3)\n\n[FireBulletPropellant]을 소모하는 코인을 굴릴 때, [FireBulletPropellant]이 없는 경우에도 공격이 취소되지 않는 대신 해당 코인의 적중 시 [Combustion] 부여, [Combustion] 횟수 증가 효과가 발동하지 않음\nEN:\nAlways Active: begin Encounters with 15 [FireBulletPropellant]\n\nIf this unit spent [FireBulletPropellant] with Skills or Passives, gain [AttackDmgUp] equal to the amount spent next turn (max 3)\n\nWhen flipping a Coin that spends [FireBulletPropellant]: while not having [FireBulletPropellant] does not cancel this unit's attacks, the Coin's On Hit \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate"
+  },
+  {
+    "key": "1101321-name",
+    "original": "再装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "再装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n재장전\nEN:\nReloader"
+  },
+  {
+    "key": "1101321-desc",
+    "original": "[Bullet]を使う人格のうち編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら、[Bullet]を最大値の半分だけ再び得る(小数点繰り上げ、戦闘につき1回、最大[Bullet]獲得値 : 5)\n\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに得る\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として得る\n- [Bullet]を使用する人格がいなければ、この効果は発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[Bullet]を使う人格のうち編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら、[Bullet]を最大値の半分だけ再び得る(小数点繰り上げ、戦闘につき1回、最大[Bullet]獲得値 : 5)\n\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに得る\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として得る\n- [Bullet]を使用する人格がいなければ、この効果は発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면, [Bullet]을 최대치의 절반만큼 다시 얻음 (소수점 올림, 전투당 1회, 최대 [Bullet] 획득 값 : 5)\n\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 얻음\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 얻음\n- [Bullet]을 사용하는 인격이 없으면, 이 효과는 발동하지 않음\nEN:\nWhen the 1 ally Identity with the fastest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), regain half of the maximum [Bullet] capacity (rounded up; once per Encounter; max [Bullet] regained: 5)\n\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will gain them at random\n- If either Potency or Count of [Bullet] is maxed out, gain whichever is not maxed\n- This effect does not activate if there are no Identities that use [Bullet]"
+  },
+  {
+    "key": "1051202-name",
+    "original": "揷翅虎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "揷翅虎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n삽시호 [揷翅虎]\nEN:\nChachihu [揷翅虎]"
+  },
+  {
+    "key": "1051202-desc",
+    "original": "常時適用 : [BulletPropellantAlly]を12個保有\n\n[BulletPropellantAlly]、[BulletPropellantSpecialAlly]を消耗するコインをトスするとき、該当する特殊弾丸がない場合も攻撃がキャンセルされない代わりに該当コインの的中時[Combustion]付与、[Combustion]回数増加効果が発動しない\n\nこの戦闘にて初めて守備スキルを装着するか[BulletPropellantAlly]を全て使用、または混乱したなら、該当ターン終了時に[BulletPropellantSpecialAlly]8発を装填して[IrritationAlly]1を得る(戦闘につき1回)\n- 混乱状態で効果発動時、混乱状態を解除 (強制混乱を除外)\n- [BulletPropellantAlly]が残っているなら全て消滅\n- 自分が消耗した[BulletPropellantAlly]と[BulletPropellantSpecialAlly]の合計が8以上なら、[IrritationAlly]が[HugeIrritationAlly]へ変更\n\n[BulletPropellantSpecialAlly]の最後の弾丸を消耗する基本攻撃スキルを使用する場合、\n- 攻撃開始前に攻撃加重値 +2\n- 次のターンに[BeastEyesAlly]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "常時適用 : [BulletPropellantAlly]を12個保有\n\n[BulletPropellantAlly]、[BulletPropellantSpecialAlly]を消耗するコインをトスするとき、該当する特殊弾丸がない場合も攻撃がキャンセルされない代わりに該当コインの的中時[Combustion]付与、[Combustion]回数増加効果が発動しない\n\nこの戦闘にて初めて守備スキルを装着するか[BulletPropellantAlly]を全て使用、または混乱したなら、該当ターン終了時に[BulletPropellantSpecialAlly]8発を装填して[IrritationAlly]1を得る(戦闘につき1回)\n- 混乱状態で効果発動時、混乱状態を解除 (強制混乱を除外)\n- [BulletPropellantAlly]が残っているなら全て消滅\n- 自分が消耗した[BulletPropellantAlly]と[BulletPropellantSpecialAlly]の合計が8以上なら、[IrritationAlly]が[HugeIrritationAlly]へ変更\n\n[BulletPropellantSpecialAlly]の最後の弾丸を消耗する基本攻撃スキルを使用する場合、\n- 攻撃開始前に攻撃加重値 +2\n- 次のターンに[BeastEyesAlly]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상시 적용 : [BulletPropellantAlly] 12개 보유\n\n[BulletPropellantAlly], [BulletPropellantSpecialAlly]을 소모하는 코인을 굴릴 때, 해당 특수 탄환이 없는 경우에도 공격을 취소하지 않는 대신 해당 코인의 적중 시 [Combustion] 부여, [Combustion] 횟수 증가 효과가 발동하지 않음\n\n이번 전투에서 처음으로 수비 스킬을 장착하였거나 [BulletPropellantAlly]을 전부 사용, 또는 흐트러졌다면, 해당 턴 종료 시 [BulletPropellantSpecialAlly] 8발을 장전하고 [IrritationAlly] 1 얻음 (전투당 1회)\n- 흐트러짐 상태에서 효과 발동 시, 흐트러짐 상태 해제 (강제 흐트러짐 제외)\n- [BulletPropellantAlly]이 남아있으면 전부 소멸\n- 자신이 소모한 [BulletPropellantAlly]과 [BulletPropellantSpecialAlly]의 합이 8 이상이면, [IrritationAlly]가 [HugeIrritationAlly]으로 변경\n\n[BulletPropellantSpecialAlly]의 마지막 탄환을 소모하는 기본 공격 스킬을 사용할 경우,\n- 공격 시작 전 공격 가중치 +2\n- 다음 턴에 [BeastEyesAlly] 1 얻음\nEN:\nAlways Active: begin Encounters with 12 [BulletPropellantAlly]\n\nWhen flipping a Coin that consumes [BulletPropellantAlly] or [BulletPropellantSpecialAlly]: while not having those 'Unique Ammo' does not cancel this unit's attacks, the Coin's On Hit \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIf this unit equipped Defense Skills for the first time in this Encounter, or if this unit spent all of his [BulletPropellantAlly], or if this unit is Staggered: at the end of that turn, reload 8 [BulletPropellantSpecialAlly] and gain 1 [IrritationAlly] (once per Encounter)\n- If this effect activates while this unit is Staggered, recover from Stagger (unless it's a forced Stagger)\n- Remove all [BulletPropellantAlly] if this unit has any leftover [BulletPropellantAlly]\n- At 8+ (sum of [BulletPropellantAlly] and [BulletPropellantSpecialAlly] spent), convert [IrritationAlly] to [HugeIrritationAlly]\n\nWhen this unit uses a Base Attack Skill that spends the final Round of [BulletPropellantSpecialAlly]...\n- Gain Atk Weight +2 before attacking\n- Gain 1 [BeastEyesAlly] next turn"
+  },
+  {
+    "key": "1051201-name",
+    "original": "天退星刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "天退星刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n천퇴성도 [天退星刀]\nEN:\nTiantui Star's Blade [天退星刀]"
+  },
+  {
+    "key": "1051201-desc",
+    "original": "[BulletPropellantAlly]保有時、\n- 1以上なら「快刀亂麻」の全コインが[SuperCoin]に変更\n- [BulletPropellantAlly]を消耗するスキルコインの威力 +1 (消耗可能な数だけ適用)\n\n[BulletPropellantSpecialAlly]保有時、\n- 1以上なら、基本攻撃スキルの全コインが[SuperCoin]に変更\n- 0なら基本攻撃スキルの特殊弾丸を消耗できるコインが[SuperCoin]に変更\n- [BulletPropellantSpecialAlly]を消耗するスキルのコイン威力 +2 (消耗可能な数だけ適用)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]保有時、\n- 1以上なら「快刀亂麻」の全コインが[SuperCoin]に変更\n- [BulletPropellantAlly]を消耗するスキルコインの威力 +1 (消耗可能な数だけ適用)\n\n[BulletPropellantSpecialAlly]保有時、\n- 1以上なら、基本攻撃スキルの全コインが[SuperCoin]に変更\n- 0なら基本攻撃スキルの特殊弾丸を消耗できるコインが[SuperCoin]に変更\n- [BulletPropellantSpecialAlly]を消耗するスキルのコイン威力 +2 (消耗可能な数だけ適用)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 보유 시,\n- 1 이상이면 '쾌도난마'의 모든 코인이 [SuperCoin]으로 변경\n- [BulletPropellantAlly]을 소모하는 스킬 코인 위력 +1 (소모 가능한 만큼만 적용)\n\n[BulletPropellantSpecialAlly] 보유 시,\n- 1 이상이면 기본 공격 스킬의 모든 코인이 [SuperCoin]으로 변경\n- 0 이면 기본 공격 스킬의 특수 탄환을 소모할 수 있는 코인이 [SuperCoin]으로 변경\n- [BulletPropellantSpecialAlly]을 소모하는 스킬 코인 위력 +2 (소모 가능한 만큼만 적용)\nEN:\nWhen this unit has [BulletPropellantAlly]:\n- At 1+ [BulletPropellantAlly], convert all Coins of 'Tanglecleaver' into [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +1 Power (activates only as long as the Coin has Rounds left to spend)\n\nWhen this unit has [BulletPropellantSpecialAlly]:\n- At 1+ [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills to [SuperCoin]s\n- At 0 [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills that spend 'Unique Ammo' to [SuperCoin]s\n- Skill Coins that spend [BulletPropellantSpecialAlly] gain +2 Power (activates only as long as the Coin has Rounds left to spend)"
+  },
+  {
+    "key": "1051211-name",
+    "original": "天退星刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "天退星刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n천퇴성도 [天退星刀]\nEN:\nTiantui Star's Blade [天退星刀]"
+  },
+  {
+    "key": "1051211-desc",
+    "original": "[BulletPropellantAlly]保有時、\n- 1以上なら「快刀亂麻」の全コインが[SuperCoin]に変更\n- [BulletPropellantAlly]を消耗するスキルコインの威力 +1, <style=\"highlight\">ダメージ量 +10%</style> (消耗可能な数だけ適用)\n\n[BulletPropellantSpecialAlly]保有時、\n- 1以上なら、基本攻撃スキルの全コインが[SuperCoin]に変更\n- 0なら基本攻撃スキルの特殊弾丸を消耗できるコインが[SuperCoin]に変更\n- [BulletPropellantSpecialAlly]を消耗するスキルのコイン威力 +2, <style=\"highlight\">ダメージ量 +30%, 該当コインが的中時に付与する[Combustion]威力と[Combustion]回数の付与値 +2</style> (消耗可能な数だけ適用)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "[BulletPropellantAlly]保有時、\n- 1以上なら「快刀亂麻」の全コインが[SuperCoin]に変更\n- [BulletPropellantAlly]を消耗するスキルコインの威力 +1, <style=\"highlight\">ダメージ量 +10%</style> (消耗可能な数だけ適用)\n\n[BulletPropellantSpecialAlly]保有時、\n- 1以上なら、基本攻撃スキルの全コインが[SuperCoin]に変更\n- 0なら基本攻撃スキルの特殊弾丸を消耗できるコインが[SuperCoin]に変更\n- [BulletPropellantSpecialAlly]を消耗するスキルのコイン威力 +2, <style=\"highlight\">ダメージ量 +30%, 該当コインが的中時に付与する[Combustion]威力と[Combustion]回数の付与値 +2</style> (消耗可能な数だけ適用)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BulletPropellantAlly] 보유 시,\n- 1 이상이면 '쾌도난마'의 모든 코인이 [SuperCoin]으로 변경\n- [BulletPropellantAlly]을 소모하는 스킬 코인 위력 +1, &lt;style=\"highlight\"&gt;피해량 +10%&lt;/style&gt; (소모 가능한 만큼만 적용)\n\n[BulletPropellantSpecialAlly] 보유 시,\n- 1 이상이면 기본 공격 스킬의 모든 코인이 [SuperCoin]으로 변경\n- 0 이면 기본 공격 스킬의 특수 탄환을 소모할 수 있는 코인이 [SuperCoin]으로 변경\n- [BulletPropellantSpecialAlly]을 소모하는 스킬 코인 위력 +2, &lt;style=\"highlight\"&gt;피해량 +30%, 해당 코인으로 적중 시 부여하는 [Combustion] 위력과 [Combustion] 횟수 부여값 +2&lt;/style&gt; (소모 가능한 만큼만 적용)\nEN:\nWhen this unit has [BulletPropellantAlly]:\n- At 1+ [BulletPropellantAlly], convert all Coins of 'Tanglecleaver' into [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +1 Power &lt;style=\"highlight\"&gt;and deal +10% damage&lt;/style&gt; (activates only as long as the Coin has Rounds left to spend)\n\nWhen this unit has [BulletPropellantSpecialAlly]:\n- At 1+ [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills to [SuperCoin]s\n- At 0 [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills that spend 'Unique Ammo' to [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +2 Power, &lt;style=\"highlight\"&gt;deal +30% damage, and inflict +2 more [Combustion] Potency and [Combustion] Count On Hit with those Coins&lt;/style&gt; (activates only as long as the Coin has Rounds left to spend)"
+  },
+  {
+    "key": "1051221-name",
+    "original": "猛虎の跳躍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛虎の跳躍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹호의 도약\nEN:\nSavage Tiger's Lunge"
+  },
+  {
+    "key": "1051221-desc",
+    "original": "速度が最も高い味方1名が[Bullet]を消耗するスキルを使用時、対象より速度が3以上高ければ、与ダメージ量 +(対象との速度差 × 2)% (最大10%)\n([Bullet]がなければ適用されない。ただし、[Bullet]バフは保有しているが数値が0の場合は効果が適用される)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度が最も高い味方1名が[Bullet]を消耗するスキルを使用時、対象より速度が3以上高ければ、与ダメージ量 +(対象との速度差 × 2)% (最大10%)\n([Bullet]がなければ適用されない。ただし、[Bullet]バフは保有しているが数値が0の場合は効果が適用される)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도가 가장 빠른 아군 1명이 [Bullet]을 소모하는 스킬 사용 시 대상보다 속도가 3 이상 높다면, 가하는 피해량 +(대상과의 속도 차이 x 2)% (최대 10%)\n([Bullet]이 없으면 적용되지 않음. 단, [Bullet] 버프는 보유하였으나 수치가 0인 경우에는 효과가 적용됨)\nEN:\nWhen 1 ally with the fastest Speed uses a Skill that spends [Bullet], if their Speed is faster than the target's by 3 or more, deal +(Speed difference × 2)% more damage (max 10%).\n(This effect does not activate if the affected unit lacks the [Bullet] buff entirely. However, it will activate if they have the [Bullet] buff, even if they have 0 rounds left)"
+  },
+  {
+    "key": "1051231-name",
+    "original": "猛虎の跳躍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "猛虎の跳躍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맹호의 도약\nEN:\nSavage Tiger's Lunge"
+  },
+  {
+    "key": "1051231-desc",
+    "original": "速度が最も高い味方1名が[Bullet]を消耗するスキルを使用時、対象より速度が3以上高ければ、与ダメージ量 +(対象との速度差 × <style=\"highlight\">3</style>)% (最大<style=\"highlight\">15%</style>)\n([Bullet]がなければ適用されない。ただし、[Bullet]バフは保有しているが数値が0の場合は効果が適用される)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "速度が最も高い味方1名が[Bullet]を消耗するスキルを使用時、対象より速度が3以上高ければ、与ダメージ量 +(対象との速度差 × <style=\"highlight\">3</style>)% (最大<style=\"highlight\">15%</style>)\n([Bullet]がなければ適用されない。ただし、[Bullet]バフは保有しているが数値が0の場合は効果が適用される)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도가 가장 빠른 아군 1명이 [Bullet]을 소모하는 스킬 사용 시 대상보다 속도가 3 이상 높다면, 가하는 피해량 +(대상과의 속도 차이 x &lt;style=\"highlight\"&gt;3&lt;/style&gt;)% (최대 &lt;style=\"highlight\"&gt;15%&lt;/style&gt;)\n([Bullet]이 없으면 적용되지 않음. 단, [Bullet] 버프는 보유하였으나 수치가 0인 경우에는 효과가 적용됨)\nEN:\nWhen 1 ally with the fastest Speed uses a Skill that spends [Bullet], if their Speed is faster than the target's by 3 or more, deal +(Speed difference × &lt;style=\"highlight\"&gt;3&lt;/style&gt;)% more damage (max &lt;style=\"highlight\"&gt;15%&lt;/style&gt;).\n(This effect does not activate if the affected unit lacks the [Bullet] buff entirely. However, it will activate if they have the [Bullet] buff, even if they have 0 rounds left)"
   }
 ]

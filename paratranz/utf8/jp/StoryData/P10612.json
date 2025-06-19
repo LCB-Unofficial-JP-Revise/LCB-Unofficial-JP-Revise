@@ -505,8 +505,8 @@
   },
   {
     "key": "39-content",
-    "original": "R社の鶏肋と呼ばれるほど\n欠点や条件がベタベタとレッテルが貼られてる第4群だけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "R社の鶏肋(けいろく)と呼ばれるほど\n欠点や条件がベタベタとレッテル貼りされている第4群だけど…。\n<CMT_KR>표현 개선1: 조사 ''が''가 중복되어 일본어 문장으로서 부자연스러우므로, 자연스럽게 고쳤습니다.\" 표현 개선2: \"어려운 한자어이므로 독음(루비)을 추가함\"\n<CMT_EN>Wording fix1: \"The particle ''が'' appears redundantly in the sentence, making the Japanese unnatural. Revised to improve fluency.\" Wording fix2: \"Furigana (reading aid) added for a difficult kanji word\"\n<CMT_JP>表現改善1: \"格助詞「が」が重複しており日本語として不自然なため、自然な文章になるよう改訂\" 表現改善2: \"難読語のためルビを付加\"",
+    "original": "R社の<ruby=けいろく>鶏肋</ruby>と呼ばれるほど欠点や条件が\nベタベタとレッテル貼りされてる第4群だけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "R社の<ruby=けいろく>鶏肋</ruby>と呼ばれるほど欠点や条件が\nベタベタとレッテル貼りされてる第4群だけど…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nR사의 계륵이라 불릴 만큼 단점과 조건이 덕지덕지 붙어있는 제 4무리지만…\nEN:\nSome called the 4th Pack R Corp.'s white elephant with all of its conditions and downsides, but..."
   },

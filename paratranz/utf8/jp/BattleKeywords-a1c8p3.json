@@ -22,10 +22,10 @@
   },
   {
     "key": "VibrationIgnition-desc",
-    "original": "- 振動 爆発時、(振動 威力と火傷 威力の合計 ÷ 2)だけ憤怒ダメージを受けて回数が1減少\n- 振動 爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 振動 爆発時、(振動 威力と火傷 威力の合計 ÷ 2)だけ憤怒ダメージを受けて回数が1減少\n- 振動 爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 振動 爆発時、(振動 威力と火傷 威力の合計 ÷ 2)だけ憤怒ダメージを受けて火傷 回数が1減少\n- 振動 爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "translation": "- 振動 爆発時、(振動 威力と火傷 威力の合計 ÷ 2)だけ憤怒ダメージを受けて火傷 回数が1減少\n- 振動 爆発スキルで被ダメージ時、効果威力だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n- 진동 폭발 시 (진동 위력과 화상 위력의 합/2)만큼 분노 피해를 입고 화상 횟수 1 감소\n- 진동 폭발 스킬로 피격 시, 효과 위력만큼 흐트러짐 손상\n- 턴 종료 후 횟수 1 감소\n(진동 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)\nEN:\n- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold equal by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)"
+    "context": "KR:\n- 진동 폭발 시 (진동 위력과 화상 위력의 합/2)만큼 분노 피해를 입고 화상 횟수 1 감소\n- 진동 폭발 스킬로 피격 시, 효과 위력만큼 흐트러짐 손상\n- 턴 종료 후 횟수 1 감소\n(진동 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)\nEN:\n- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)"
   },
   {
     "key": "BulletPropellant-name",
