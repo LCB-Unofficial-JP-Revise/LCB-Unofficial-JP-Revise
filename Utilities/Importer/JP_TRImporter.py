@@ -2,6 +2,7 @@ import os
 import shutil
 import json
 import regex
+from datetime import datetime
 from collections import defaultdict
 from natsort import natsort_keygen
 import csv
@@ -378,6 +379,24 @@ def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, 
     
     return rows
 
+def load_existing_timestamps(csv_path):
+    """既存レポートから (경로, 키) をキーにして変更日時をマッピングし、内容も記録"""
+    timestamps = {}
+    contents = {}
+    if os.path.exists(csv_path):
+        with open(csv_path, encoding='utf-8-sig') as f:
+            reader = csv.reader(f, delimiter='\t')
+            headers = next(reader, [])
+            date_idx = 2 if len(headers) > 2 and "수정 시각" in headers[2] else None
+            for row in reader:
+                if len(row) >= 10:
+                    path, key = row[0], row[1]
+                    timestamp = row[date_idx] if date_idx is not None else ""
+                    timestamps[(path, key)] = timestamp
+                    contents[(path, key)] = row  # 行全体を格納
+    return timestamps, contents
+
+
 def write_csv_report(output_dir, collected_rows):
     """収集したCSV行をファイルごとに自然順で書き出す"""
     grouped_rows = defaultdict(list)
@@ -402,16 +421,44 @@ def write_csv_report(output_dir, collected_rows):
         else:
             report_path = csv_name
 
+        # 古いレポートを一時保存（比較用）
+        old_path = report_path + '.old'
+        if os.path.exists(report_path):
+            shutil.move(report_path, old_path)
+        else:
+            old_path = None
+
+        existing_timestamps, existing_rows = load_existing_timestamps(old_path) if old_path else ({}, {})
+
+        now = datetime.now().strftime('%Y-%m-%d')
+        updated_rows = []
+
+        for row in rows:
+            path, key = row[0], row[1]
+            row_key = (path, key)
+            old_row = existing_rows.get(row_key)
+
+            if not old_row or row[4:9] != old_row[5:10]:
+                timestamp = now
+            else:
+                timestamp = old_row[2]
+
+            updated_row = row[:2] + [timestamp] + row[2:]
+            updated_rows.append(updated_row)
+
         header = [
-            "경로", "키", "원문", "번역문", # パス, キー, 原文, 翻訳文,
-            "수정문", "(일) 코멘트", "(한) 코멘트", # 修正文, (日)コメント, (韓)コメント, 
-            "(영) 코멘트" # (英)コメント
+            "경로", "키", "갱신 시각", "카테고리", "원문", "번역문", # パス, キー, 更新日時, カテゴリ, 原文, 翻訳文,
+            "수정문", "(일) 코멘트", "(한) 코멘트", "(영) 코멘트" # 修正文, (日)コメント, (韓)コメント, (英)コメント
         ]
 
         with open(report_path, 'w', encoding='utf-8-sig', newline='') as txtfile:
             txtfile.write('\t'.join(header) + '\n')
-            for row in sorted(rows, key=sort_key):
+            for row in sorted(updated_rows, key=sort_key):
                 txtfile.write('\t'.join(row) + '\n')
+
+        if old_path and os.path.exists(old_path):
+            os.remove(old_path)
+
 
 def process_all_json(input_root, translation_root, json_output_lang_root, json_output_mod_root, output_root):
     """各JSONファイルの総処理"""
@@ -431,16 +478,7 @@ def process_all_json(input_root, translation_root, json_output_lang_root, json_o
             else:
                 os.remove(item_path)
     
-    # CSVレポートファイルを事前に削除
-    csv_files = [REPORT_FILES.get("story"), REPORT_FILES.get("general")]
-    for csv_name in csv_files:
-        if LOCAL_MODE:
-            csv_path = os.path.join(output_root, csv_name)
-        else:
-            csv_path = csv_name
-        
-        if os.path.isfile(csv_path):
-            os.remove(csv_path)
+
 
     print("Loading translations...")
     originals_by_file, translations_by_file, sources_by_file, comments_by_file = load_translations_and_comments_by_filename(translation_root)
