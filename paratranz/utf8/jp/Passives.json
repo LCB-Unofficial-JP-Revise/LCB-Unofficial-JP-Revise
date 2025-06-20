@@ -5673,7 +5673,7 @@
     "key": "1081101-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard"
   },
   {
@@ -5708,7 +5708,7 @@
     "key": "1081111-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
     "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\n&lt;style=\"highlight\"&gt;- 색욕 공명이 4 이상이면, 자신을 제외한 모든 흑운회 소속 아군에게 [BlackCloud] 1 부여&lt;/style&gt;\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n&lt;style=\"highlight\"&gt;- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies&lt;/style&gt;"
   },
   {
