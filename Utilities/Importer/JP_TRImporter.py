@@ -348,7 +348,7 @@ def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, 
         if not (cmt["CMT_JP"] or cmt["CMT_KR"] or cmt["CMT_EN"]):
             continue
 
-        relative_path_to_report = os.path.relpath(full_json_path, input_root)
+        relative_path_to_report = os.path.relpath(full_json_path, input_root).replace('\\', '/')
         line_number = find_line_number(full_json_path, translation)
 
         kr_comment = cmt["CMT_KR"]
