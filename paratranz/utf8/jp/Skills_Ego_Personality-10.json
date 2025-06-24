@@ -1066,7 +1066,7 @@
   {
     "key": "2100811-levelList[0].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
   },
@@ -1115,7 +1115,7 @@
   {
     "key": "2100811-levelList[1].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -1171,7 +1171,7 @@
   {
     "key": "2100811-levelList[2].coinlist[1].coindescs[2].desc",
     "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -1220,7 +1220,7 @@
   {
     "key": "2100821-levelList[0].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
   },
@@ -1269,7 +1269,7 @@
   {
     "key": "2100821-levelList[1].coinlist[1].coindescs[0].desc",
     "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -1325,7 +1325,7 @@
   {
     "key": "2100821-levelList[2].coinlist[1].coindescs[1].desc",
     "original": "[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値に30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>오식: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 정확: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_EN>Typo: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" Correction: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"\n<CMT_JP>誤植: \"[OnSucceedAttack] 自分の現体力が体力最大値「に」30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\" 訂正後: \"[OnSucceedAttack] 自分の現体力が体力最大値「の」30%未満か、\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
