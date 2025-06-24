@@ -1,0 +1,69 @@
+name: Manual Snapshot Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'リソースのバージョン (例: 1.0)'
+        required: true
+        type: string
+      snapshot_date:
+        description: 'リリース日 (例: 250620, 省略すると1週間前の木曜日に)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    env:
+      TZ: Asia/Tokyo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Determine snapshot date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.snapshot_date }}" ]; then
+            echo "date=${{ github.event.inputs.snapshot_date }}" >> "$GITHUB_OUTPUT"
+          else
+            SNAPSHOT_DATE=$(date -d "$(date -d 'TZ=\"Asia/Tokyo\" now' '+%Y-%m-%d') -$(($(date +%u) + 3)) days" +'%y%m%d')
+            echo "date=${SNAPSHOT_DATE}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set release metadata
+        id: meta
+        run: |
+          echo "tag=${{ github.event.inputs.version }}" >> "$GITHUB_OUTPUT"
+          echo "name=${{ github.event.inputs.version }}" >> "$GITHUB_OUTPUT"
+          echo "body=v${{ github.event.inputs.version }} (${{ steps.date.outputs.date }}) Snapshot" >> "$GITHUB_OUTPUT"
+          echo "zipname=release-${{ github.event.inputs.version }}.zip" >> "$GITHUB_OUTPUT"
+
+      - name: Archive source files
+        run: |
+          zip -rv "${{ steps.meta.outputs.zipname }}" . \
+            -x "Utilities/*" \
+               "Utilities/**" \
+               ".github/*" \
+               ".github/**" \
+               ".git/*" \
+               ".git/**" \
+               ".gitignore"
+      
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.meta.outputs.tag }}
+          name: ${{ steps.meta.outputs.name }}
+          body: ${{ steps.meta.outputs.body }}
+          draft: false
+          prerelease: false
+          files: ${{ steps.meta.outputs.zipname }}
+      
+      - name: Clean up temporary files
+        run: rm -f "${{ steps.meta.outputs.zipname }}"
