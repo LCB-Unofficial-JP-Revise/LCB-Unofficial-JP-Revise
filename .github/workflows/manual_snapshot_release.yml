@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: 'リソースのバージョン (例: 1.0)'
+        description: 'ゲームのバージョン (例: 1.0)'
         required: true
         type: string
       snapshot_date:
