@@ -1,603 +1,603 @@
 [
   {
     "key": "114501-name",
-    "original": "親指幹部 カポIIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "親指幹部 カポIIII\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "親指幹部 カポIIII\n<CMT_KR>\n<CMT_JP>",
+    "translation": "親指幹部 カポIIII\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄지 간부 카포 IIII\nEN:\nThe Thumb's Officer, Capo IIII"
   },
   {
     "key": "114501-desc",
-    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ侵攻時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>오식: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" 정확: \"マッチ「進行」時、\"\n<CMT_EN>Typo: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" Correction: \"マッチ「進行」時、\"\n<CMT_JP>誤植: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" 訂正後: \"マッチ「進行」時、\"",
+    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ侵攻時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>오기: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" 정확: \"マッチ「進行」時、\"\n<CMT_JP>誤記: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" 訂正後: \"マッチ「進行」時、\"",
     "stage": 1,
     "context": "KR:\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -30%\n\n[BulletPropellant]을 소모하는 코인을 굴릴 때, [BulletPropellant]이 없는 경우에도 공격을 취소하지 않는 대신 해당 코인의 적중 시 [Combustion] 부여, [Combustion] 횟수 증가 효과가 발동하지 않음\n\n합 진행 시, (1 + 합을 진행한 횟수/3)만큼 대상의 [Vibration] 횟수 증가\n(최대 3, 하나의 대상에게 턴당 최대 3회 적용)\nEN:\nTake -30% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n\nWhen flipping a Coin that consumes [BulletPropellant]: while not having [BulletPropellant] does not cancel this unit's attacks, the Coin's \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIn a Clash, inflict +(1 + (# of Clashes / 3)) [Vibration] Count\n(max 3; 3 times per turn against the same target)"
   },
   {
     "key": "114502-name",
-    "original": "東部十剣\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "東部十剣\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "東部十剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "東部十剣\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n동부십검\nEN:\nTen Blades of the East"
   },
   {
     "key": "114502-desc",
-    "original": "ステージ開始時とパターンが変更されるターン開始時、\n- [Bothersome]1を得る\n- 自分の失った体力10%につき、精神力を5回復(最大40)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時とパターンが変更されるターン開始時、\n- [Bothersome]1を得る\n- 自分の失った体力10%につき、精神力を5回復(最大40)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時とパターンが変更されるターン開始時、\n- [Bothersome]1を得る\n- 自分の失った体力10%につき、精神力を5回復(最大40)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時とパターンが変更されるターン開始時、\n- [Bothersome]1を得る\n- 自分の失った体力10%につき、精神力を5回復(最大40)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시와 패턴이 변경되는 턴 시작 시,\n- [Bothersome] 1 얻음\n- 자신의 잃은 체력 10%당 정신력 5 회복 (최대 40)\nEN:\nAt Encounter Start, and at the Turn Start of gaining a new pattern:\n- Gain 1 [Bothersome]\n- Heal 5 SP for every 10% missing HP on self (max 40)"
   },
   {
     "key": "114503-name",
-    "original": "獲物選び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "獲物選び\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "獲物選び\n<CMT_KR>\n<CMT_JP>",
+    "translation": "獲物選び\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사냥감 선정\nEN:\nChosen Prey"
   },
   {
     "key": "114503-desc",
-    "original": "ターン開始時、前ターンにて自分へ最もダメージを与えた対象へ[Prey]1を付与\n\nレイホンが[Prey]を保有している対象を攻撃終了時、対象が\n- 混乱した場合、全ての敵の精神力が10減少してこのターンと次のターンに[ParryingResultDown]1を付与 (1ターンにつき1回)\n- 死亡した場合、上記の効果が1回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、前ターンにて自分へ最もダメージを与えた対象へ[Prey]1を付与\n\nレイホンが[Prey]を保有している対象を攻撃終了時、対象が\n- 混乱した場合、全ての敵の精神力が10減少してこのターンと次のターンに[ParryingResultDown]1を付与 (1ターンにつき1回)\n- 死亡した場合、上記の効果が1回追加で発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、前ターンにて自分へ最もダメージを与えた対象へ[Prey]1を付与\n\nレイホンが[Prey]を保有している対象を攻撃終了時、対象が\n- 混乱した場合、全ての敵の精神力が10減少してこのターンと次のターンに[ParryingResultDown]1を付与 (1ターンにつき1回)\n- 死亡した場合、上記の効果が1回追加で発動\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、前ターンにて自分へ最もダメージを与えた対象へ[Prey]1を付与\n\nレイホンが[Prey]を保有している対象を攻撃終了時、対象が\n- 混乱した場合、全ての敵の精神力が10減少してこのターンと次のターンに[ParryingResultDown]1を付与 (1ターンにつき1回)\n- 死亡した場合、上記の効果が1回追加で発動\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, 이전 턴에 자신에게 가장 많은 피해를 입힌 대상에게 [Prey] 1 부여\n\n뇌횡이 [Prey]을 보유한 대상을 공격하여 공격 종료 시 대상이\n- 흐트러진 경우, 모든 적의 정신력이 10 감소하고 이번 턴과 다음 턴에 [ParryingResultDown] 1 부여 (턴당 1회)\n- 사망한 경우, 위의 효과가 1회 추가로 발동\nEN:\nTurn Start: inflict 1 [Prey] against the target that dealt the most damage to this unit last turn\n\nAfter Lei Heng attacks the target with [Prey], if the target is:\n- Staggered, all enemies lose 10 SP and gain 1 [ParryingResultDown] for this turn and next turn (once per turn)\n- Defeated, activate the above effect once more"
   },
   {
     "key": "114504-name",
-    "original": "天退星刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "天退星刀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "天退星刀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "天退星刀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n천퇴성도 [天退星刀]\nEN:\nTiantui Star's Blade [天退星刀]"
   },
   {
     "key": "114504-desc",
-    "original": "一方攻撃的中時、ダメージ量が30%増加し、次のターンに[Vulnerable]1を付与\n\n[BulletPropellant]を消耗して、的中したスキルコインのダメージ量が20%だけ増加し、次のターンに[DefenseDown]2を付与\n\n対象が守備スキルを装着した場合は、上記の効果が適用されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "一方攻撃的中時、ダメージ量が30%増加し、次のターンに[Vulnerable]1を付与\n\n[BulletPropellant]を消耗して、的中したスキルコインのダメージ量が20%だけ増加し、次のターンに[DefenseDown]2を付与\n\n対象が守備スキルを装着した場合は、上記の効果が適用されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "一方攻撃的中時、ダメージ量が30%増加し、次のターンに[Vulnerable]1を付与\n\n[BulletPropellant]を消耗して、的中したスキルコインのダメージ量が20%だけ増加し、次のターンに[DefenseDown]2を付与\n\n対象が守備スキルを装着した場合は、上記の効果が適用されない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "一方攻撃的中時、ダメージ量が30%増加し、次のターンに[Vulnerable]1を付与\n\n[BulletPropellant]を消耗して、的中したスキルコインのダメージ量が20%だけ増加し、次のターンに[DefenseDown]2を付与\n\n対象が守備スキルを装着した場合は、上記の効果が適用されない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n일방 공격 적중 시 피해량이 30%만큼 증가하고, 다음 턴에 [Vulnerable] 1 부여\n\n[BulletPropellant]을 소모하여 적중한 스킬 코인의 피해량이 20%만큼 증가하고, 다음 턴에 [DefenseDown] 2 부여\n\n대상이 수비 스킬을 장착한 경우에는 위의 효과가 적용되지 않음\nEN:\nUnopposed Attacks deal +30% damage On Hit and inflict 1 [Vulnerable] next turn\n\nSkill Coins that spent [BulletPropellant] deal +20% damage On Hit and inflict 2 [DefenseDown] next turn\n\nThe above effects do not activate if the target equipped a Defense Skill"
   },
   {
     "key": "114505-name",
-    "original": "虎標弾装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "虎標弾装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "虎標弾装填\n<CMT_KR>\n<CMT_JP>",
+    "translation": "虎標弾装填\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n호표탄 장전\nEN:\nTigermark Round Reload"
   },
   {
     "key": "114505-desc",
-    "original": "ターン終了時に体力が90%以下になるか、2ターン目終了時、[BulletPropellant]を装填して次のターンにパターンが変更される\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に体力が90%以下になるか、2ターン目終了時、[BulletPropellant]を装填して次のターンにパターンが変更される\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に体力が90%以下になるか、2ターン目終了時、[BulletPropellant]を装填して次のターンにパターンが変更される\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に体力が90%以下になるか、2ターン目終了時、[BulletPropellant]を装填して次のターンにパターンが変更される\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시점에 체력이 90% 이하가 되었거나 2번째 턴 종료 시, [BulletPropellant]을 장전하고 다음 턴에 패턴이 변경됨\n- 흐트러짐 상태면, 흐트러짐 해제\nEN:\nTurn End: at 90% or less HP, or at the end of the 2nd turn, reload [BulletPropellant] and gain a new pattern next turn\n- If this unit is Staggered, recover from Stagger"
   },
   {
     "key": "114506-name",
-    "original": "レイホン【雷横】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "レイホン【雷横】\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "レイホン【雷横】\n<CMT_KR>\n<CMT_JP>",
+    "translation": "レイホン【雷横】\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뇌횡 [雷橫]\nEN:\nLei Heng [雷橫]"
   },
   {
     "key": "114506-desc",
-    "original": "ターン終了時に体力が80%以下になるか、4ターン目終了時に次のターンにパターンが変更される\n- 強力な攻撃(「快刀亂麻」)を使用し、3ターン目ごとに繰り返す。このスキルを使用するターンの速度の最小・最大値 +10\n- 該当ターン開始時、[BattleSense]25を得る\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に体力が80%以下になるか、4ターン目終了時に次のターンにパターンが変更される\n- 強力な攻撃(「快刀亂麻」)を使用し、3ターン目ごとに繰り返す。このスキルを使用するターンの速度の最小・最大値 +10\n- 該当ターン開始時、[BattleSense]25を得る\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に体力が80%以下になるか、4ターン目終了時に次のターンにパターンが変更される\n- 強力な攻撃(「快刀亂麻」)を使用し、3ターン目ごとに繰り返す。このスキルを使用するターンの速度の最小・最大値 +10\n- 該当ターン開始時、[BattleSense]25を得る\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に体力が80%以下になるか、4ターン目終了時に次のターンにパターンが変更される\n- 強力な攻撃(「快刀亂麻」)を使用し、3ターン目ごとに繰り返す。このスキルを使用するターンの速度の最小・最大値 +10\n- 該当ターン開始時、[BattleSense]25を得る\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시점에 체력이 80% 이하가 되었거나 4번째 턴 종료 시, 다음 턴에 패턴이 변경됨\n- 강력한 공격('쾌도난마')을 사용하며, 3번째 턴마다 반복함. 이 스킬을 사용하는 턴의 속도 최솟값, 최댓값 +10\n- 해당 턴 시작 시, [BattleSense] 25 얻음\n- 흐트러짐 상태면, 흐트러짐 해제\nEN:\nTurn End: at 80% or less HP, or at the end of the 4th turn, gain a new pattern next turn\n- Use a powerful attack ('Tanglecleaver'), repeat every 3rd turn. +10 to Min & Max Speed for turns in which this unit uses this Skill\n- At the start of that turn, gain 25 [BattleSense]\n- If this unit is Staggered, recover from Stagger"
   },
   {
     "key": "114507-name",
-    "original": "天退星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "天退星\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "天退星\n<CMT_KR>\n<CMT_JP>",
+    "translation": "天退星\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n천퇴성 [天退星]\nEN:\nTiantui Star [天退星]"
   },
   {
     "key": "114507-desc",
-    "original": "ターン終了時点で体力が60%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて2回目に使用するのであれば、次のターンにパターンが変更される\n- 該当ターン開始時、[Irritation]1を得る\n- 該当ターン開始時、[BulletPropellantSpecial]18を得て即装填\n· [BulletPropellantSpecial]を全て消耗する場合、この効果が[BulletPropellant]に変更されて次のターンに身なりの整った親指 ソルダート2名を召喚し、[BulletPropellantSpecial]を補給\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時点で体力が60%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて2回目に使用するのであれば、次のターンにパターンが変更される\n- 該当ターン開始時、[Irritation]1を得る\n- 該当ターン開始時、[BulletPropellantSpecial]18を得て即装填\n· [BulletPropellantSpecial]を全て消耗する場合、この効果が[BulletPropellant]に変更されて次のターンに身なりの整った親指 ソルダート2名を召喚し、[BulletPropellantSpecial]を補給\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時点で体力が60%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて2回目に使用するのであれば、次のターンにパターンが変更される\n- 該当ターン開始時、[Irritation]1を得る\n- 該当ターン開始時、[BulletPropellantSpecial]18を得て即装填\n· [BulletPropellantSpecial]を全て消耗する場合、この効果が[BulletPropellant]に変更されて次のターンに身なりの整った親指 ソルダート2名を召喚し、[BulletPropellantSpecial]を補給\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時点で体力が60%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて2回目に使用するのであれば、次のターンにパターンが変更される\n- 該当ターン開始時、[Irritation]1を得る\n- 該当ターン開始時、[BulletPropellantSpecial]18を得て即装填\n· [BulletPropellantSpecial]を全て消耗する場合、この効果が[BulletPropellant]に変更されて次のターンに身なりの整った親指 ソルダート2名を召喚し、[BulletPropellantSpecial]を補給\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시점에 체력이 60% 이하가 되었거나 다음 턴에 강력한 공격('쾌도난마')을 이번 전투에서 두 번째로 사용할 예정이면, 다음 턴에 패턴이 변경됨\n- 해당 턴 시작 시, [Irritation] 1 얻음\n- 해당 턴 시작 시, [BulletPropellantSpecial] 18 얻고 즉시 장전\n· [BulletPropellantSpecial]을 전부 소모할 경우, 해당 효과가 [BulletPropellant]으로 변경되고 다음 턴에 각 잡힌 엄지 솔다토 2명을 소환하여 [BulletPropellantSpecial]을 보급받음\n- 흐트러짐 상태면, 흐트러짐 해제\nEN:\nIf this unit's HP dropped to 60% or below at Turn End, or if this unit is set to use a powerful attack ('Tanglecleaver') next turn for the second time this Encounter, gain a new pattern next turn\n- When that turn starts, gain 1 [Irritation]\n- When that turn starts, gain 18 [BulletPropellantSpecial] and reload immediately\n· If this unit spends all [BulletPropellantSpecial], convert the effect to [BulletPropellant] and summon 2 of \"Rigid Soldato of the Thumb\" units next turn and have them supply this unit with [BulletPropellantSpecial]\n- When Staggered, recover from Stagger"
   },
   {
     "key": "114508-name",
-    "original": "小指 天退星雷横\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "小指 天退星雷横\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "小指 天退星雷横\n<CMT_KR>\n<CMT_JP>",
+    "translation": "小指 天退星雷横\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n소지 천퇴성 뇌횡\nEN:\nLei Heng, The Pinky's Tiantui Star"
   },
   {
     "key": "114508-desc",
-    "original": "ターン終了時点で体力が40%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて3回目に使用するのであれば、次のターンにパターンが変更される\n- 強力な攻撃「快刀亂麻」が「超絶猛虎殺撃乱斬」に変更される。このスキルを使用するターン速度の最小・最大値 +15\n- [BattleSense]が[RestoredBattleSense]に変更\n- [Irritation]が[HugeIrritation]に変更\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時点で体力が40%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて3回目に使用するのであれば、次のターンにパターンが変更される\n- 強力な攻撃「快刀亂麻」が「超絶猛虎殺撃乱斬」に変更される。このスキルを使用するターン速度の最小・最大値 +15\n- [BattleSense]が[RestoredBattleSense]に変更\n- [Irritation]が[HugeIrritation]に変更\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時点で体力が40%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて3回目に使用するのであれば、次のターンにパターンが変更される\n- 強力な攻撃「快刀亂麻」が「超絶猛虎殺撃乱斬」に変更される。このスキルを使用するターン速度の最小・最大値 +15\n- [BattleSense]が[RestoredBattleSense]に変更\n- [Irritation]が[HugeIrritation]に変更\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時点で体力が40%以下になるか、次のターンに強力な攻撃(「快刀亂麻」)を今回の戦闘にて3回目に使用するのであれば、次のターンにパターンが変更される\n- 強力な攻撃「快刀亂麻」が「超絶猛虎殺撃乱斬」に変更される。このスキルを使用するターン速度の最小・最大値 +15\n- [BattleSense]が[RestoredBattleSense]に変更\n- [Irritation]が[HugeIrritation]に変更\n- 混乱状態なら、混乱を解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시점에 체력이 40% 이하가 되었거나 다음 턴에 강력한 공격('쾌도난마')을 이번 전투에서 세 번째로 사용할 예정이면, 다음 턴에 패턴이 변경됨\n- 강력한 공격 '쾌도난마'가 '초절맹호살격난참'으로 변경됨. 이 스킬을 사용하는 턴의 속도 최솟값, 최댓값 +15\n- [BattleSense]이 [RestoredBattleSense]으로 변경\n- [Irritation]가 [HugeIrritation]으로 변경\n- 흐트러짐 상태면, 흐트러짐 해제\nEN:\nTurn End: at 40% or less HP, or if this unit is set to use a powerful attack ('Tanglecleaver') next turn for the third time this Encounter, gain a new pattern next turn\n- Replace the powerful attack 'Tanglecleaver' with 'Savage Tigerslayer's Perfected Flurry of Blades'. +15 to Min & Max Speed for turns in which this unit uses this Skill\n- Convert [BattleSense] to [RestoredBattleSense]\n- Convert [Irritation] to [HugeIrritation]\n- If this unit is Staggered, recover from Stagger"
   },
   {
     "key": "114510-name",
-    "original": "揷翅虎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "揷翅虎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "揷翅虎\n<CMT_KR>\n<CMT_JP>",
+    "translation": "揷翅虎\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n삽시호 [揷翅虎]\nEN:\nChachihu [揷翅虎]"
   },
   {
     "key": "114510-desc",
-    "original": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시 자신의 속도에 비례하여,\n- 수치만큼 정신력을 회복. 정신력이 0 미만이면 회복 수치가 2배로 적용됨\n- (수치/3)만큼 [SlashDamageUp] 얻음 (최대 5)\n\n전투 시작 시 자신이 [Binding]을 3 이상 보유하였다면 위의 효과가 발동하지 않고, 보유한 [Binding] 수치만큼 [DefenseDown] 얻음 (최대 9)\nEN:\nCombat Start: based on this unit's Speed value,\n- Heal SP equal to Speed value. At less than 0 SP, double the heal amount\n- Gain (Speed Value / 3) [SlashDamageUp] (max 5)\n\nEncounter Start: if this unit has 3+ [Binding], the above effect does not activate; gain [DefenseDown] equal to [Binding] on self (max 9)"
   },
   {
     "key": "114512-name",
-    "original": "天退星刀オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "天退星刀オーバーヒート\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "天退星刀オーバーヒート\n<CMT_KR>\n<CMT_JP>",
+    "translation": "天退星刀オーバーヒート\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n천퇴성도 오버히트\nEN:\nTiantui Star's Blade - Overheat"
   },
   {
     "key": "114512-desc",
-    "original": "強力な攻撃(「快刀亂麻」・「超絶猛虎殺撃乱斬」)を使用したなら、この戦闘の間に強力な攻撃を使用した回数だけ次のターンに[Complacency]を得る (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "強力な攻撃(「快刀亂麻」・「超絶猛虎殺撃乱斬」)を使用したなら、この戦闘の間に強力な攻撃を使用した回数だけ次のターンに[Complacency]を得る (最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "強力な攻撃(「快刀亂麻」・「超絶猛虎殺撃乱斬」)を使用したなら、この戦闘の間に強力な攻撃を使用した回数だけ次のターンに[Complacency]を得る (最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "強力な攻撃(「快刀亂麻」・「超絶猛虎殺撃乱斬」)を使用したなら、この戦闘の間に強力な攻撃を使用した回数だけ次のターンに[Complacency]を得る (最大5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n강력한 공격('쾌도난마', '초절맹호살격난참')을 사용하였다면, 이번 전투 동안 강력한 공격을 사용한 횟수만큼 다음 턴에 [Complacency] 얻음 (최대 5)\nEN:\nIf this unit used a powerful attack ('Tanglecleaver' or 'Savage Tigerslayer's Perfected Flurry of Blades'), gain [Complacency] next turn equal to the number of times those skills were used (max 5)"
   },
   {
     "key": "117101-name",
-    "original": "猛虎標弾支援\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "猛虎標弾支援\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "猛虎標弾支援\n<CMT_KR>\n<CMT_JP>",
+    "translation": "猛虎標弾支援\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n맹호표탄 지원\nEN:\nSavage Tigermark Support"
   },
   {
     "key": "117101-desc",
-    "original": "ターン終了時、[Vulnerable]5を得る\nターン終了時、レイホンへ[BulletPropellantSpecial]を支給する\n\n死亡時にレイホンへ[BulletPropellantSpecial]を支給できず、次のターンにレイホンが[Vulnerable]1, [ParryingResultDown]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、[Vulnerable]5を得る\nターン終了時、レイホンへ[BulletPropellantSpecial]を支給する\n\n死亡時にレイホンへ[BulletPropellantSpecial]を支給できず、次のターンにレイホンが[Vulnerable]1, [ParryingResultDown]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、[Vulnerable]5を得る\nターン終了時、レイホンへ[BulletPropellantSpecial]を支給する\n\n死亡時にレイホンへ[BulletPropellantSpecial]を支給できず、次のターンにレイホンが[Vulnerable]1, [ParryingResultDown]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、[Vulnerable]5を得る\nターン終了時、レイホンへ[BulletPropellantSpecial]を支給する\n\n死亡時にレイホンへ[BulletPropellantSpecial]を支給できず、次のターンにレイホンが[Vulnerable]1, [ParryingResultDown]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [Vulnerable] 5 얻음\n턴 종료 시, 뇌횡에게 [BulletPropellantSpecial]을 지원함.\n\n사망 시 뇌횡에게 [BulletPropellantSpecial]을 지원하지 못하고, 다음 턴에 뇌횡이 [Vulnerable] 1, [ParryingResultDown] 1 얻음\nEN:\nTurn Start: gain 5 [Vulnerable]\nTurn End: supply [BulletPropellantSpecial] to Lei Heng\n\nIf this unit is killed, this unit cannot supply [BulletPropellantSpecial] for Lei Heng; Lei Heng gains 1 [Vulnerable] and 1 [ParryingResultDown] next turn"
   },
   {
     "key": "113501-name",
-    "original": "逃した弟弟の手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "逃した弟弟の手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "逃した弟弟の手\n<CMT_KR>\n<CMT_JP>",
+    "translation": "逃した弟弟の手\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n놓쳤던 동생의 손\nEN:\nMy Little Brother's Hand I Let Slip"
   },
   {
     "key": "113501-desc",
-    "original": "敵へ自分の攻撃的中時、[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\n敵に自分が攻撃されると、攻撃者へ[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\nターン開始時にホンルが戦闘に出現しているなら、ホンルに[GazeReplica]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "敵へ自分の攻撃的中時、[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\n敵に自分が攻撃されると、攻撃者へ[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\nターン開始時にホンルが戦闘に出現しているなら、ホンルに[GazeReplica]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "敵へ自分の攻撃的中時、[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\n敵に自分が攻撃されると、攻撃者へ[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\nターン開始時にホンルが戦闘に出現しているなら、ホンルに[GazeReplica]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵へ自分の攻撃的中時、[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\n敵に自分が攻撃されると、攻撃者へ[GazeReplica]1を付与 (人格ごとに1ターンにつき1回)\nターン開始時にホンルが戦闘に出現しているなら、ホンルに[GazeReplica]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적에게 자신의 공격 적중 시, [GazeReplica] 1 부여 (인격 당 턴 당 1회)\n적에게 자신이 공격당하면, 공격자에게 [GazeReplica] 1 부여 (인격 당 턴 당 1회)\n턴 시작시 홍루가 전투에 등장해 있으면, 홍루에게 [GazeReplica] 1 부여\nEN:\nOn Hit against an enemy, inflict 1 [GazeReplica] (once per Identity per turn)\nWhen attacked by an enemy, inflict 1 [GazeReplica] against the attacker (once per Identity per turn)\nTurn Start: if Hong Lu is on the field, inflict 1 [GazeReplica] against Hong Lu"
   },
   {
     "key": "113502-name",
-    "original": "掌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "掌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "掌\n<CMT_KR>\n<CMT_JP>",
+    "translation": "掌\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n손아귀\nEN:\nGrasp"
   },
   {
     "key": "113502-desc",
-    "original": "[GraspReplica]が付与された対象を優先して攻撃\n[GraspReplica]が付与された対象がいるならパターンが変更されて、全耐性 +0.1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[GraspReplica]が付与された対象を優先して攻撃\n[GraspReplica]が付与された対象がいるならパターンが変更されて、全耐性 +0.1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[GraspReplica]が付与された対象を優先して攻撃\n[GraspReplica]が付与された対象がいるならパターンが変更されて、全耐性 +0.1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[GraspReplica]が付与された対象を優先して攻撃\n[GraspReplica]が付与された対象がいるならパターンが変更されて、全耐性 +0.1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[GraspReplica]가 부여된 대상 우선 공격\n[GraspReplica]가 부여된 대상이 있으면 패턴이 변경되고, 모든 내성 +0.1\nEN:\nPrioritizes targets with [GraspReplica]\nGains a new pattern when there are targets with [GraspReplica]; +0.1 to all Resistances"
   },
   {
     "key": "113503-name",
-    "original": "E.G.O侵蝕 - N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.O侵蝕 - N社\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.O侵蝕 - N社\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O侵蝕 - N社\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 침식 - N사\nEN:\nE.G.O Corrosion - N Corp."
   },
   {
     "key": "113503-desc",
-    "original": "このキャラクターが登場してから1ターンが経過する度に、ターン終了時に[EgoErodeReplica]1を得る\n- ターン終了時、自分の体力が最大値の50%未満か精神力が-20以下なら、[EgoErodeReplica]1を追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このキャラクターが登場してから1ターンが経過する度に、ターン終了時に[EgoErodeReplica]1を得る\n- ターン終了時、自分の体力が最大値の50%未満か精神力が-20以下なら、[EgoErodeReplica]1を追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このキャラクターが登場してから1ターンが経過する度に、ターン終了時に[EgoErodeReplica]1を得る\n- ターン終了時、自分の体力が最大値の50%未満か精神力が-20以下なら、[EgoErodeReplica]1を追加で得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このキャラクターが登場してから1ターンが経過する度に、ターン終了時に[EgoErodeReplica]1を得る\n- ターン終了時、自分の体力が最大値の50%未満か精神力が-20以下なら、[EgoErodeReplica]1を追加で得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 캐릭터가 등장한지 1턴 경과할 때마다 턴 종료시 [EgoErodeReplica] 1 얻음\n- 턴 종료시 자신의 체력이 최대 체력의 50% 미만이거나 정신력이 -20 이하면, [EgoErodeReplica] 1 추가로 얻음\nEN:\nAfter entering this Encounter, gain 1 [EgoErodeReplica] at every passing Turn End\n- Turn End: at less than 50% HP, or at -20 SP or less, gain 1 additional [EgoErodeReplica]"
   },
   {
     "key": "113504-name",
-    "original": "E.G.O瞬間感応度 最大化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.O瞬間感応度 最大化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.O瞬間感応度 最大化\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O瞬間感応度 最大化\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 순간 감응도 최대화\nEN:\nE.G.O Temporary Max Attunement"
   },
   {
     "key": "113504-desc",
-    "original": "[GazeReplica]が4以上の囚人が4名以上なら、「畏敬[TabExplain]、軽蔑[TabExplain]【潜在解放】」スキルを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[GazeReplica]が4以上の囚人が4名以上なら、「畏敬[TabExplain]、軽蔑[TabExplain]【潜在解放】」スキルを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[GazeReplica]が4以上の囚人が4名以上なら、「畏敬[TabExplain]、軽蔑[TabExplain]【潜在解放】」スキルを使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[GazeReplica]が4以上の囚人が4名以上なら、「畏敬[TabExplain]、軽蔑[TabExplain]【潜在解放】」スキルを使用\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[GazeReplica]이 4 이상인 수감자들이 4명 이상이면, '경외[TabExplain], 경멸[TabExplain] 【잠재 해방】' 스킬 사용\nEN:\nIf there are 4+ Sinners with 4+ [GazeReplica] Stacks, use the Skill 'Awe[TabExplain], Contempt[TabExplain] 【Unleashed】' Skill"
   },
   {
     "key": "113505-name",
-    "original": "俺だけ狙っちゃいけないだろうに\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "俺だけ狙っちゃいけないだろうに\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "俺だけ狙っちゃいけないだろうに\n<CMT_KR>\n<CMT_JP>",
+    "translation": "俺だけ狙っちゃいけないだろうに\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n나만 노려봐서는 안 될 텐데\nEN:\nBetter avert your gazes"
   },
   {
     "key": "113505-desc",
-    "original": "味方がいるとき、敵5名以上が自分をメインターゲットに指定していると、該当する敵の体力・精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "味方がいるとき、敵5名以上が自分をメインターゲットに指定していると、該当する敵の体力・精神力が10減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "味方がいるとき、敵5名以上が自分をメインターゲットに指定していると、該当する敵の体力・精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方がいるとき、敵5名以上が自分をメインターゲットに指定していると、該当する敵の体力・精神力が10減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아군이 있을 때 적 5명 이상이 자신을 메인 타겟으로 지정하면, 해당 적의 체력, 정신력 10 감소\nEN:\nWhere there are other surviving allies, if this unit becomes the main target from 5+ enemies, those enemies lose 10 HP and SP"
   },
   {
     "key": "113601-name",
-    "original": "凶弾コスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "凶弾コスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "凶弾コスト\n<CMT_KR>\n<CMT_JP>",
+    "translation": "凶弾コスト\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흉탄 비용\nEN:\nThe Cost of Fell Bullets"
   },
   {
     "key": "113601-desc",
-    "original": "攻撃的中時、精神力が5回復\nマッチ敗北時、精神力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃的中時、精神力が5回復\nマッチ敗北時、精神力が5減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃的中時、精神力が5回復\nマッチ敗北時、精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃的中時、精神力が5回復\nマッチ敗北時、精神力が5減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격 적중 시, 정신력 5 회복\n합 패배 시, 정신력 5 감소\nEN:\nOn Hit, heal 5 SP; on Clash Lose, lose 5 SP"
   },
   {
     "key": "113602-name",
-    "original": "躍進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "躍進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "躍進\n<CMT_KR>\n<CMT_JP>",
+    "translation": "躍進\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n약진\nEN:\nCharge Forth"
   },
   {
     "key": "113602-desc",
-    "original": "敵討伐時、[Breath]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "敵討伐時、[Breath]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "敵討伐時、[Breath]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵討伐時、[Breath]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적 처치 시, [Breath] 횟수 3 증가\nEN:\nOn enemy Kill, gain +3 [Breath] Count"
   },
   {
     "key": "113603-name",
-    "original": "朋よ、新たな時代が来ているのだよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "朋よ、新たな時代が来ているのだよ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "朋よ、新たな時代が来ているのだよ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "朋よ、新たな時代が来ているのだよ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n벗이여, 새로운 시대가 오고 있다네.\nEN:\nA new era is upon us, my dear fellow."
   },
   {
     "key": "113603-desc",
-    "original": "精神力が-20なら、特殊パターンを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "精神力が-20なら、特殊パターンを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "精神力が-20なら、特殊パターンを使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "精神力が-20なら、特殊パターンを使用\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n정신력이 -20 미만이면, 특수 패턴 사용\nEN:\nAt less than -20 SP, use a special pattern"
   },
   {
     "key": "113604-name",
-    "original": "どうか新たな理想(イサン)のため献身してくれたまえ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "どうか新たな理想(イサン)のため献身してくれたまえ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "どうか新たな理想(イサン)のため献身してくれたまえ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "どうか新たな理想(イサン)のため献身してくれたまえ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n부디 새로운 이상을 위해 헌신해주게.\nEN:\nPlease, dedicate yourself for the new ideal."
   },
   {
     "key": "113604-desc",
-    "original": "ジア・ファンを除くN社職員の体力が50%未満なら、特殊パターンを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ジア・ファンを除くN社職員の体力が50%未満なら、特殊パターンを使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ジア・ファンを除くN社職員の体力が50%未満なら、特殊パターンを使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ジア・ファンを除くN社職員の体力が50%未満なら、特殊パターンを使用\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가환을 제외한 N사 직원의 체력이 50% 미만이면, 특수 패턴 사용\nEN:\nIf an N Corp. Employee(except Jia Huan)'s HP is less than 50%, use a special pattern"
   },
   {
     "key": "114601-name",
-    "original": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "-\n<CMT_KR>\n<CMT_JP>",
+    "translation": "-\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n-\nEN:\n-"
   },
   {
     "key": "114601-desc",
-    "original": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 50% 미만으로 감소하지 않음\nEN:\nHP does not drop below 50%"
   },
   {
     "key": "114602-name",
-    "original": "バオユや、ここで家主の代が途絶えてはならぬ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "バオユや、ここで家主の代が途絶えてはならぬ…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "バオユや、ここで家主の代が途絶えてはならぬ…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "バオユや、ここで家主の代が途絶えてはならぬ…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보옥아 여기서 가주의 대가 끊기면 안된다…\nEN:\nLittle Baoyu, the lineage of Family Hierarchs cannot end here..."
   },
   {
     "key": "114602-desc",
-    "original": "ホンル死亡時に戦闘敗北。全スキルがホンルを優先ターゲットする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ホンル死亡時に戦闘敗北。全スキルがホンルを優先ターゲットする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ホンル死亡時に戦闘敗北。全スキルがホンルを優先ターゲットする。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ホンル死亡時に戦闘敗北。全スキルがホンルを優先ターゲットする。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍루 사망 시 전투 패배. 모든 스킬이 홍루를 우선 타겟팅함\nEN:\nLose Encounter when Hong Lu dies. All Skills prioritize Hong Lu"
   },
   {
     "key": "114603-name",
-    "original": "誰がご老人方のお世話をし、仙皇蟲様の意を鴻園に広めるというのだ！！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がご老人方のお世話をし、仙皇蟲様の意を鴻園に広めるというのだ！！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がご老人方のお世話をし、仙皇蟲様の意を鴻園に広めるというのだ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がご老人方のお世話をし、仙皇蟲様の意を鴻園に広めるというのだ！！！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 어르신들의 수발을 들고 선황충님의 뜻을 홍원에 펼쳐주겠느냐!!!\nEN:\nWho shall serve the elders, who shall convey the revered Xianhuang Worm's will to Hongyuan then?!!!"
   },
   {
     "key": "114603-desc",
-    "original": "ホンルにマッチ勝利後的中時、[PileObedient]1を付与(スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ホンルにマッチ勝利後的中時、[PileObedient]1を付与(スキルごとに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ホンルにマッチ勝利後的中時、[PileObedient]1を付与(スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ホンルにマッチ勝利後的中時、[PileObedient]1を付与(スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍루에게 합 승리 후 적중 시 [PileObedient] 1 부여 (스킬당 1회)\nEN:\nOn Hit after Clash Win against Hong Lu: inflict 1 [PileObedient] (once per Skill)"
   },
   {
     "key": "114604-name",
-    "original": "黄金の枝の同化 - 不感応\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "黄金の枝の同化 - 不感応\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "黄金の枝の同化 - 不感応\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黄金の枝の同化 - 不感応\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n황금가지의 동화 - 부감응\nEN:\nGolden Bough Assimilation - Malattunement"
   },
   {
     "key": "114604-desc",
-    "original": "戦闘開始時、[GoldenBoughSync]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、[GoldenBoughSync]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘開始時、[GoldenBoughSync]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、[GoldenBoughSync]を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시 [GoldenBoughSync] 얻음\nEN:\nEncounter Start: gain [GoldenBoughSync]"
   },
   {
     "key": "114605-name",
-    "original": "鴻園禁断 - 全黒仙丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "鴻園禁断 - 全黒仙丸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "鴻園禁断 - 全黒仙丸\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鴻園禁断 - 全黒仙丸\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍원금단 - 전흑선환[全黑仙丸]\nEN:\nForbidden Pill of Hongyuan - Completed Heixian Bolus [全黑仙丸]"
   },
   {
     "key": "114605-desc",
-    "original": "互いに異なる種類のスキルを使用する度に[AttackUp]1, [DefenseDown]1を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "互いに異なる種類のスキルを使用する度に[AttackUp]1, [DefenseDown]1を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "互いに異なる種類のスキルを使用する度に[AttackUp]1, [DefenseDown]1を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "互いに異なる種類のスキルを使用する度に[AttackUp]1, [DefenseDown]1を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n서로 다른 종류의 스킬을 사용할 때마다 [AttackUp] 1, [DefenseDown] 1 얻음 (턴당 3회)\nEN:\nGain 1 [AttackUp] and 1 [DefenseDown] every time this unit uses a different type of Skill (3 times per turn)"
   },
   {
     "key": "114606-name",
-    "original": "古より鴻園は仙人たちの意のままに導かれてきた\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "古より鴻園は仙人たちの意のままに導かれてきた\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "古より鴻園は仙人たちの意のままに導かれてきた\n<CMT_KR>\n<CMT_JP>",
+    "translation": "古より鴻園は仙人たちの意のままに導かれてきた\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n예로부터 홍원은 선인들의 뜻에 따라 다뤄져왔다\nEN:\nHongyuan has always been a putty in the hands of the revered Xianren"
   },
   {
     "key": "114606-desc",
-    "original": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき、次のターン開始時[Enhancement]2, [Endurance]2を得て、ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき、次のターン開始時[Enhancement]2, [Endurance]2を得て、ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき、次のターン開始時[Enhancement]2, [Endurance]2を得て、ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき、次のターン開始時[Enhancement]2, [Endurance]2を得て、ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨\n\n패닉 상태가 해제될 때, 다음 턴에 [Enhancement] 2, [Endurance] 2를 얻고, 홍루에게 [Obedient]이 있으면 정신력 15 회복\nEN:\nTurn End: if Panicked, recover from Panic at the next Turn Start and reset SP to 0\n\nWhen recovering from Panic, gain 2 [Enhancement] and 2 [Endurance] next turn; if Hong Lu has [Obedient], heal 15 SP"
   },
   {
     "key": "115201-name",
-    "original": "この小娘をお見守りください…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この小娘をお見守りください…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この小娘をお見守りください…！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この小娘をお見守りください…！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n소녀를 지켜봐주세요…!\nEN:\nWatch this little girl...!"
   },
   {
     "key": "115201-desc",
-    "original": "ホンル死亡時に戦闘敗北。ターン開始時、自分の召喚したユニットがいれば精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ホンル死亡時に戦闘敗北。ターン開始時、自分の召喚したユニットがいれば精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ホンル死亡時に戦闘敗北。ターン開始時、自分の召喚したユニットがいれば精神力を10回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ホンル死亡時に戦闘敗北。ターン開始時、自分の召喚したユニットがいれば精神力を10回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍루 사망 시 전투 패배. 턴 시작 시 자신이 소환한 유닛이 있으면 정신력 10 회복\nEN:\nLose Encounter when Hong Lu dies. If there are this unit's summoned units at Turn Start, heal 10 SP"
   },
   {
     "key": "115202-name",
-    "original": "黄金の枝の同化 - ねじれ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "黄金の枝の同化 - ねじれ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "黄金の枝の同化 - ねじれ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黄金の枝の同化 - ねじれ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n황금가지의 동화- 뒤틀림\nEN:\nGolden Bough Assimilation - Distortion"
   },
   {
     "key": "115202-desc",
-    "original": "フェーズ2開始時、[GoldenBoughSyncDistorted]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "フェーズ2開始時、[GoldenBoughSyncDistorted]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "フェーズ2開始時、[GoldenBoughSyncDistorted]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "フェーズ2開始時、[GoldenBoughSyncDistorted]を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n2페이즈 시작 시 [GoldenBoughSyncDistorted] 얻음\nEN:\nStart of the 2nd Phase: gain [GoldenBoughSyncDistorted]"
   },
   {
     "key": "115203-name",
-    "original": "全ての家主は仙皇蟲さまに身を捧げ、その志を受け継いできたというのに\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全ての家主は仙皇蟲さまに身を捧げ、その志を受け継いできたというのに\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全ての家主は仙皇蟲さまに身を捧げ、その志を受け継いできたというのに\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全ての家主は仙皇蟲さまに身を捧げ、その志を受け継いできたというのに\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 가주는 선황충님에게 몸을 내어드리고 그 뜻을 이어받아왔거늘\nEN:\nEvery Family Hierarch has the duty to surrender their bodies to the Xianhuang Worm and his honored will"
   },
   {
     "key": "115203-desc",
-    "original": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき\n- 次のターン開始時[Enhancement]2, [Endurance]2,[Agility]1を得る\n- 自分が召喚したユニットがいるなら精神力を15回復\n- ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき\n- 次のターン開始時[Enhancement]2, [Endurance]2,[Agility]1を得る\n- 自分が召喚したユニットがいるなら精神力を15回復\n- ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき\n- 次のターン開始時[Enhancement]2, [Endurance]2,[Agility]1を得る\n- 自分が召喚したユニットがいるなら精神力を15回復\n- ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、次のターンにパニック状態を解除して精神力を0に初期化する。\n\nパニック状態が解除されるとき\n- 次のターン開始時[Enhancement]2, [Endurance]2,[Agility]1を得る\n- 自分が召喚したユニットがいるなら精神力を15回復\n- ホンルに[Obedient]があるなら精神力を15回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨\n\n패닉 상태가 해제될 때,\n- 다음 턴에 [Enhancement] 2, [Endurance] 2, [Agility] 1을 얻음\n- 자신이 소환한 유닛이 있으면 정신력 15 회복\n- 홍루에게 [Obedient]이 있으면 정신력 15 회복\nEN:\nTurn End: if Panicked, recover from Panic at the next Turn Start and reset SP to 0\n\nWhen recovering from Panic,\n- gain 2 [Enhancement], 2 [Endurance], and 1 [Agility] next turn\n- If there are units summoned by this unit, heal 15 SP\n- If Hong Lu has [Obedient], heal 15 SP"
   },
   {
     "key": "115204-name",
-    "original": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "-\n<CMT_KR>\n<CMT_JP>",
+    "translation": "-\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n-\nEN:\n-"
   },
   {
     "key": "115204-desc",
-    "original": "体力が最大値の85%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最大値の85%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最大値の85%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の85%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 85% 미만으로 감소하지 않음\nEN:\nHP does not drop below 85%"
   },
   {
     "key": "115205-name",
-    "original": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "-\n<CMT_KR>\n<CMT_JP>",
+    "translation": "-\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n-\nEN:\n-"
   },
   {
     "key": "115205-desc",
-    "original": "体力が最大値の65%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最大値の65%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最大値の65%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の65%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 65% 미만으로 감소하지 않음\nEN:\nHP does not drop below 65%"
   },
   {
     "key": "115206-name",
-    "original": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "-\n<CMT_KR>\n<CMT_JP>",
+    "translation": "-\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n-\nEN:\n-"
   },
   {
     "key": "115206-desc",
-    "original": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 50% 미만으로 감소하지 않음\nEN:\nHP does not drop below 50%"
   },
   {
     "key": "115207-name",
-    "original": "金玉其外 敗絮其中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "金玉其外 敗絮其中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "金玉其外 敗絮其中\n<CMT_KR>\n<CMT_JP>",
+    "translation": "金玉其外 敗絮其中\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n금옥기외 패서기중[金玉其外 敗絮其中]\nEN:\nRot and Decay in the Husk of Gold and Jade [金玉其外 敗絮其中]"
   },
   {
     "key": "115207-desc",
-    "original": "[Burst]が10以上付与されているときの被ダメージ量 +10%\n付与されたマイナス効果数が5個以上なら、被ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Burst]が10以上付与されているときの被ダメージ量 +10%\n付与されたマイナス効果数が5個以上なら、被ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Burst]が10以上付与されているときの被ダメージ量 +10%\n付与されたマイナス効果数が5個以上なら、被ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Burst]が10以上付与されているときの被ダメージ量 +10%\n付与されたマイナス効果数が5個以上なら、被ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Burst]이 10 이상 부여되어 있을 때 받는 피해량 +10%\n부여된 부정적인 효과 수가 5개 이상이면 받는 피해량 +10%\nEN:\nIf this unit has 10+ [Burst], take +10% damage\nIf this unit has 5+ types of negative effects, take +10% damage"
   },
   {
     "key": "115208-name",
-    "original": "仙皇蟲が宿らぬ当主は、鴻園のために動くはずもない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "仙皇蟲が宿らぬ当主は、鴻園のために動くはずもない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "仙皇蟲が宿らぬ当主は、鴻園のために動くはずもない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "仙皇蟲が宿らぬ当主は、鴻園のために動くはずもない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선황충이 임하지 않은 가주는 홍원을 위해 움직이지도 않을 터\nEN:\nA Family Hierarch without the revered Xianhuang Worm will never serve Hongyuan"
   },
   {
     "key": "115208-desc",
-    "original": "体力が0になると、胴体部位が次のターンに混乱状態になる\n以降摘出された状態になり、胴体部位が[Vulnerable]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が0になると、胴体部位が次のターンに混乱状態になる\n以降摘出された状態になり、胴体部位が[Vulnerable]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が0になると、胴体部位が次のターンに混乱状態になる\n以降摘出された状態になり、胴体部位が[Vulnerable]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が0になると、胴体部位が次のターンに混乱状態になる\n以降摘出された状態になり、胴体部位が[Vulnerable]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 0이 되면, 몸통 부위가 다음 턴에 흐트러짐 상태가 됨\n이후 적출된 상태가 되고, 몸통 부위가 [Vulnerable] 2를 얻음\nEN:\nAt 0 HP, the Body Part becomes Staggered next turn\nThen, this Part becomes Severed, and the Body Part gains 2 [Vulnerable]"
   },
   {
     "key": "115209-name",
-    "original": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "-\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "-\n<CMT_KR>\n<CMT_JP>",
+    "translation": "-\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n-\nEN:\n-"
   },
   {
     "key": "115209-desc",
-    "original": "体力が最大値の20%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最大値の20%未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最大値の20%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の20%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 20% 미만으로 감소하지 않음\nEN:\nHP does not drop below 20%"
   },
   {
     "key": "115301-name",
-    "original": "仙人様よ、どうかご覧くださいませ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "仙人様よ、どうかご覧くださいませ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "仙人様よ、どうかご覧くださいませ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "仙人様よ、どうかご覧くださいませ！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선인이시여 봐주십시오!\nEN:\nWitness Me, O Revered Xianren!"
   },
   {
     "key": "115301-desc",
-    "original": "このユニットが生きている間、ターン開始時にジア・ムーの本体と全部位がバリア200を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このユニットが生きている間、ターン開始時にジア・ムーの本体と全部位がバリア200を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このユニットが生きている間、ターン開始時にジア・ムーの本体と全部位がバリア200を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このユニットが生きている間、ターン開始時にジア・ムーの本体と全部位がバリア200を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 유닛이 살아있는 동안 가모가 턴 시작 시 본체와 모든 부위가 보호막 200 얻음\nEN:\nWhen this unit is present, Jia Mu gains 200 Shield for her Core and every Part"
   },
   {
     "key": "115302-name",
-    "original": "宝玉の務め\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "宝玉の務め\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "宝玉の務め\n<CMT_KR>\n<CMT_JP>",
+    "translation": "宝玉の務め\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보옥의 소임\nEN:\nDuties of the Precious Jade"
   },
   {
     "key": "115302-desc",
-    "original": "このユニットが生きている間、閉じ込められているキャラクターへ以下の効果が適用される\n- 行動不能状態になる\n- バフ、体力、精神力が更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このユニットが生きている間、閉じ込められているキャラクターへ以下の効果が適用される\n- 行動不能状態になる\n- バフ、体力、精神力が更新されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このユニットが生きている間、閉じ込められているキャラクターへ以下の効果が適用される\n- 行動不能状態になる\n- バフ、体力、精神力が更新されない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このユニットが生きている間、閉じ込められているキャラクターへ以下の効果が適用される\n- 行動不能状態になる\n- バフ、体力、精神力が更新されない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 유닛이 살아있는 동안 갇혀 있는 캐릭터에게 아래의 효과가 적용됨\n- 행동 불가능 상태가 됨\n- 버프, 체력, 정신력이 갱신되지 않음\nEN:\nAs long as this unit is present, apply the following effects to the caged unit:\n- Become 'immobilized'\n- This unit's buffs, HP, and SP cannot be changed"
   },
   {
     "key": "115303-name",
-    "original": "出家\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "出家\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "出家\n<CMT_KR>\n<CMT_JP>",
+    "translation": "出家\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n출가\nEN:\nDeparture"
   },
   {
     "key": "115303-desc",
-    "original": "このユニットが倒されると、閉じ込められていたキャラクターが次のターンに戦闘へ復帰する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このユニットが倒されると、閉じ込められていたキャラクターが次のターンに戦闘へ復帰する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このユニットが倒されると、閉じ込められていたキャラクターが次のターンに戦闘へ復帰する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このユニットが倒されると、閉じ込められていたキャラクターが次のターンに戦闘へ復帰する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 유닛이 처치되면 다음 턴에 갇혀 있던 캐릭터가 전투에 복귀함.\nEN:\nWhen this unit is defeated, return the caged character to the battle next turn"
   },
   {
     "key": "115304-name",
-    "original": "破邪顕正\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "破邪顕正\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "破邪顕正\n<CMT_KR>\n<CMT_JP>",
+    "translation": "破邪顕正\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n파사현정[破邪顯正]\nEN:\nRefute the Evil; Restore Justice [破邪顯正]"
   },
   {
     "key": "115304-desc",
-    "original": "このユニットが囚人たちに倒されると下記の効果が発動する\n- 全味方の精神力を10回復 、次のターンに[AttackDmgUp]2を付与\n- ジア・ムーへ、次のターンから2ターンの間[Binding]5, [AttackDown]3, [Vulnerable]5を付与\n- このユニットに閉じ込められていたキャラクターの精神力が45まで回復。復帰時に[Enhancement]2を得る\n- 全E.G.O資源を3ずつ獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このユニットが囚人たちに倒されると下記の効果が発動する\n- 全味方の精神力を10回復 、次のターンに[AttackDmgUp]2を付与\n- ジア・ムーへ、次のターンから2ターンの間[Binding]5, [AttackDown]3, [Vulnerable]5を付与\n- このユニットに閉じ込められていたキャラクターの精神力が45まで回復。復帰時に[Enhancement]2を得る\n- 全E.G.O資源を3ずつ獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このユニットが囚人たちに倒されると下記の効果が発動する\n- 全味方の精神力を10回復 、次のターンに[AttackDmgUp]2を付与\n- ジア・ムーへ、次のターンから2ターンの間[Binding]5, [AttackDown]3, [Vulnerable]5を付与\n- このユニットに閉じ込められていたキャラクターの精神力が45まで回復。復帰時に[Enhancement]2を得る\n- 全E.G.O資源を3ずつ獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このユニットが囚人たちに倒されると下記の効果が発動する\n- 全味方の精神力を10回復 、次のターンに[AttackDmgUp]2を付与\n- ジア・ムーへ、次のターンから2ターンの間[Binding]5, [AttackDown]3, [Vulnerable]5を付与\n- このユニットに閉じ込められていたキャラクターの精神力が45まで回復。復帰時に[Enhancement]2を得る\n- 全E.G.O資源を3ずつ獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 유닛이 수감자들에게 처치되면 아래의 효과가 발동됨\n- 모든 아군 정신력 10 회복, 다음 턴에 [AttackDmgUp] 2 부여\n- 가모에게 다음 2턴 동안 [Binding] 5, [AttackDown] 3, [Vulnerable] 5 부여\n- 이 유닛에 갇혀있던 캐릭터의 정신력이 45까지 회복. 복귀 시 [Enhancement] 2 얻음\n- 모든 E.G.O 자원 3개씩 획득\nEN:\nIf this unit is defeated by the Sinners, activate the following effects:\n- All allies heal 10 SP; all allies gain 2 [AttackDmgUp] next turn\n- Inflict 5 [Binding], 3 [AttackDown], and 5 [Vulnerable] against Jia Mu for the next 2 turns\n- The unit that was caged in this unit heals up to 45 SP. Gain 2 [Enhancement] upon its return\n- Gain 3 E.G.O Resources to all Affinities"
   },
   {
     "key": "115401-name",
-    "original": "至高なる不死の仙人様よ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "至高なる不死の仙人様よ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "至高なる不死の仙人様よ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "至高なる不死の仙人様よ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지고한 불사의 선인이시여\nEN:\nO The Supreme Xianren of Immortality"
   },
   {
     "key": "115401-desc",
-    "original": "[SupremeEternalLife]効果を保有している\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SupremeEternalLife]効果を保有している\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SupremeEternalLife]効果を保有している\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SupremeEternalLife]効果を保有している\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SupremeEternalLife] 효과를 보유하고 있음\nEN:\nHas the [SupremeEternalLife] effect"
   },
   {
     "key": "115402-name",
-    "original": "不老不死は永遠に続かん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "不老不死は永遠に続かん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "不老不死は永遠に続かん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不老不死は永遠に続かん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불로불사는 영원토록 이어지리\nEN:\nLet us be eternally free from aging and death"
   },
   {
     "key": "115402-desc",
-    "original": "体力が1未満にならない\n体力が1になるとき、[SupremeEternalLife]効果が[ImperfectEternalLife]に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が1未満にならない\n体力が1になるとき、[SupremeEternalLife]効果が[ImperfectEternalLife]に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が1未満にならない\n体力が1になるとき、[SupremeEternalLife]効果が[ImperfectEternalLife]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が1未満にならない\n体力が1になるとき、[SupremeEternalLife]効果が[ImperfectEternalLife]に変更される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 1 미만으로 감소하지 않음\n체력이 1이 될 때, [SupremeEternalLife] 효과가 [ImperfectEternalLife]로 변경됨\nEN:\nHP does not drop below 1\n\nAt 1 HP, replace [SupremeEternalLife] with [ImperfectEternalLife]"
   },
   {
     "key": "115403-name",
-    "original": "不老不死の知識\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "不老不死の知識\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "不老不死の知識\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不老不死の知識\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불로불사의 지식\nEN:\nKnowledge of Immortality"
   },
   {
     "key": "115403-desc",
-    "original": "被ダメージ時に体力が1になると、自分を攻撃した囚人の精神力を10回復させ、数の少ないE.G.O資源の中からランダムな属性資源を3個獲得(このユニットが生存している間に1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被ダメージ時に体力が1になると、自分を攻撃した囚人の精神力を10回復させ、数の少ないE.G.O資源の中からランダムな属性資源を3個獲得(このユニットが生存している間に1回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被ダメージ時に体力が1になると、自分を攻撃した囚人の精神力を10回復させ、数の少ないE.G.O資源の中からランダムな属性資源を3個獲得(このユニットが生存している間に1回発動)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被ダメージ時に体力が1になると、自分を攻撃した囚人の精神力を10回復させ、数の少ないE.G.O資源の中からランダムな属性資源を3個獲得(このユニットが生存している間に1回発動)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피격 시 체력이 1이 되면, 자신을 공격한 수감자의 정신력을 10 회복시키고, 수량이 부족한 E.G.O 자원 중 무작위 속성 자원 3개 획득 (이 유닛이 생존해있는동안 1회 발동)\nEN:\nIf this unit's HP drops to 1 upon getting hit, heal 10 SP to the Sinner who attacked this unit; then, gain 3 random E.G.O Resources for the least-owned Sin Affinities (activates once for this unit)"
   },
   {
     "key": "114513-name",
-    "original": "パニック回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "パニック回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "パニック回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "パニック回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패닉 회복\nEN:\nPanic Recovery"
   },
   {
     "key": "114513-desc",
-    "original": "ターン終了時にパニック状態なら、精神力が0になる\n\nパニック状態が解除されると次のターン開始時、自分の失った体力の比率だけ精神力を回復 (最大30)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にパニック状態なら、精神力が0になる\n\nパニック状態が解除されると次のターン開始時、自分の失った体力の比率だけ精神力を回復 (最大30)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にパニック状態なら、精神力が0になる\n\nパニック状態が解除されると次のターン開始時、自分の失った体力の比率だけ精神力を回復 (最大30)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、精神力が0になる\n\nパニック状態が解除されると次のターン開始時、自分の失った体力の比率だけ精神力を回復 (最大30)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 패닉 상태라면, 정신력이 0이 됨\n\n패닉 상태가 해제되면 다음 턴 시작 시, 자신의 잃은 체력 비율 수치만큼 정신력 회복 (최대 30)\nEN:\nTurn End: if this unit is Panicked, reset SP to 0\n\nWhen recovering from Panic: at the next Turn Start, heal SP by this unit's missing HP (max 30)"
   }

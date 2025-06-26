@@ -1,204 +1,204 @@
 [
   {
     "key": "837101-name",
-    "original": "余裕の機会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "余裕の機会\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "余裕の機会\n<CMT_KR>\n<CMT_JP>",
+    "translation": "余裕の機会\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n여유로운 기회\nEN:\nCasual Opportunity"
   },
   {
     "key": "837101-desc",
-    "original": "ターン開始時に自分の速度が敵よりも高ければ、[PenetrateDamageUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時に自分の速度が敵よりも高ければ、[PenetrateDamageUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時に自分の速度が敵よりも高ければ、[PenetrateDamageUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時に自分の速度が敵よりも高ければ、[PenetrateDamageUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 자신의 속도가 적보다 높으면, [PenetrateDamageUp] 1 얻음\nEN:\nTurn Start: if this unit's Speed is faster than the target's, gain 1 [PenetrateDamageUp]"
   },
   {
     "key": "837102-name",
-    "original": "ゆったりと息を整える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ゆったりと息を整える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ゆったりと息を整える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ゆったりと息を整える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n느긋한 숨고르기\nEN:\nLeisurely Breathing"
   },
   {
     "key": "837102-desc",
-    "original": "ターン終了時に精神力を7回復\nターン終了時、(自分の[Breath] ÷ 4)だけ次のターンに[Agility]を得る(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に精神力を7回復\nターン終了時、(自分の[Breath] ÷ 4)だけ次のターンに[Agility]を得る(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に精神力を7回復\nターン終了時、(自分の[Breath] ÷ 4)だけ次のターンに[Agility]を得る(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に精神力を7回復\nターン終了時、(自分の[Breath] ÷ 4)だけ次のターンに[Agility]を得る(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 정신력 7 회복\n턴 종료 시 (자신의 [Breath] / 4)만큼 다음 턴에 [Agility] 얻음 (최대 3)\nEN:\nTurn End: Heal 7 SP\nTurn End: Gain [Agility] equal to ([Breath] on self/4) next turn (max 3)"
   },
   {
     "key": "837103-name",
-    "original": "一騎打ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "一騎打ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "一騎打ち\n<CMT_KR>\n<CMT_JP>",
+    "translation": "一騎打ち\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n1:1 대결\nEN:\nSingle Combat"
   },
   {
     "key": "837103-desc",
-    "original": "対象が混乱状態のとき、「サリュー」を使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象が混乱状態のとき、「サリュー」を使用する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象が混乱状態のとき、「サリュー」を使用する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象が混乱状態のとき、「サリュー」を使用する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상이 흐트러짐 상태일 때, '살뤼'를 사용함\nEN:\nUse Salut if the target is Staggered"
   },
   {
     "key": "837104-name",
-    "original": "集中攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "集中攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "集中攻撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "集中攻撃\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n집중 공격\nEN:\nFocused Attack"
   },
   {
     "key": "837104-desc",
-    "original": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃的無かったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃出来なかったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>오식: \"前のターンにて攻撃「的無」かったときは初期化される。\" 정확: \"前のターンにて攻撃「出来な」かったときは初期化される。\"\n<CMT_EN>Typo: \"前のターンにて攻撃「的無」かったときは初期化される。\" Correction: \"前のターンにて攻撃「出来な」かったときは初期化される。\"\n<CMT_JP>誤植: \"前のターンにて攻撃「的無」かったときは初期化される。\" 訂正後: \"前のターンにて攻撃「出来な」かったときは初期化される。\"",
+    "original": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃的無かったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃出来なかったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>오기: \"前のターンにて攻撃「的無」かったときは初期化される。\" 정확: \"前のターンにて攻撃「出来な」かったときは初期化される。\"\n<CMT_JP>誤記: \"前のターンにて攻撃「的無」かったときは初期化される。\" 訂正後: \"前のターンにて攻撃「出来な」かったときは初期化される。\"",
     "stage": 1,
     "context": "KR:\n이전 턴에 공격 성공한 슬롯에 스킬 사용시 누적된 공격 성공 턴 수에 따라 다음과 같은 효과를 얻음.\n이전 턴에 공격하지 못했을 때, 초기화됨.\n- 공격 성공 누적 1턴: 합 위력 +1\n- 공격 성공 누적 2턴: 기본 위력 + 1\n- 공격 성공 누적 3턴: 기본 위력 + 1, 코인 위력 + 1\nEN:\nWhen using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\nResets if this unit failed to attack last turn.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
   },
   {
     "key": "837201-name",
-    "original": "アンタから切ってあげる！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "アンタから切ってあげる！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "アンタから切ってあげる！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アンタから切ってあげる！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n너부터 오려줄게!\nEN:\nI'll Cut You First!"
   },
   {
     "key": "837201-desc",
-    "original": "[LineCutting]を優先して攻撃。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[LineCutting]を優先して攻撃。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[LineCutting]を優先して攻撃。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[LineCutting]を優先して攻撃。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[LineCutting]을 우선 공격함.\nEN:\nPrioritizes [LineCutting]."
   },
   {
     "key": "837202-name",
-    "original": "硬血式鋏\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "硬血式鋏\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "硬血式鋏\n<CMT_KR>\n<CMT_JP>",
+    "translation": "硬血式鋏\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경혈식 가위\nEN:\nHardblood Scissor"
   },
   {
     "key": "837202-desc",
-    "original": "マッチ勝利時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n[SuperCoin]スキルでマッチ敗北後に的中時、この効果は発動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n[SuperCoin]スキルでマッチ敗北後に的中時、この効果は発動しない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n[SuperCoin]スキルでマッチ敗北後に的中時、この効果は発動しない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、対象に[Laceration]があれば、被ダメージ量の40%だけ部位と本体の体力を回復\n攻撃終了時に体力を100回復した場合、精神力を10回復\n[SuperCoin]スキルでマッチ敗北後に的中時、この効果は発動しない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시 대상에게 [Laceration]이 있으면, 입힌 체력 피해량의 40%만큼 부위와 본체 체력 회복\n공격 종료 시 체력을 100만큼 회복한 경우, 정신력 10 회복\n파괴 불가 코인의 경우 합 패배 후 적중 시 이 효과는 발동되지 않음.\nEN:\nOn Clash Win, if the target has [Laceration], heal this unit's Part & Core by 40% of the HP damage dealt.\nAfter Attack, if this unit healed at least 100 HP, heal 10 SP\nThis effect does not activate On Hit with an Unbreakable Coin Skill if it loses the Clash."
   },
   {
     "key": "837202-summary",
-    "original": "出血状態の敵を攻撃時に体力が回復。体力を100回復したなら精神力も回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "出血状態の敵を攻撃時に体力が回復。体力を100回復したなら精神力も回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "出血状態の敵を攻撃時に体力が回復。体力を100回復したなら精神力も回復。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "出血状態の敵を攻撃時に体力が回復。体力を100回復したなら精神力も回復。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n출혈 상태인 적 공격시 체력 회복. 체력을 100 회복했으면 정신력도 회복.\nEN:\nHeal when attacking enemies with Bleed. When this unit heals 100 HP, heal SP as well."
   },
   {
     "key": "837203-name",
-    "original": "美しくないものは要らないわぁ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "美しくないものは要らないわぁ！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "美しくないものは要らないわぁ！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "美しくないものは要らないわぁ！！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아름답지 않은 건 필요없어!!\nEN:\nI Don't Need Ugly Things!!"
   },
   {
     "key": "837203-desc",
-    "original": "敵の中で全体力の30%だけが残ってる敵がいれば、「美しくないものは要らないわぁ！！」スキルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "敵の中で全体力の30%だけが残ってる敵がいれば、「美しくないものは要らないわぁ！！」スキルを使用する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "敵の中で全体力の30%だけが残ってる敵がいれば、「美しくないものは要らないわぁ！！」スキルを使用する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵の中で全体力の30%だけが残ってる敵がいれば、「美しくないものは要らないわぁ！！」スキルを使用する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적 중에서 전체 체력의 30%만큼 남은 적이 있다면, '아름답지 않은 건 필요없어!!'스킬을 사용함.\nEN:\nIf there are any enemies with 30% or less HP, use 'I Don't Need Ugly Things!!' Skill."
   },
   {
     "key": "837204-name",
-    "original": "まだ終わってない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "まだ終わってない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "まだ終わってない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "まだ終わってない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아직 끝나지 않았어\nEN:\nIt's Not Over Yet"
   },
   {
     "key": "837204-desc",
-    "original": "自分の体力が残り40%になったとき、パターン変更\nパターン変更時、毎ターン[Laceration]10, [BloodScissor]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の体力が残り40%になったとき、パターン変更\nパターン変更時、毎ターン[Laceration]10, [BloodScissor]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の体力が残り40%になったとき、パターン変更\nパターン変更時、毎ターン[Laceration]10, [BloodScissor]2を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の体力が残り40%になったとき、パターン変更\nパターン変更時、毎ターン[Laceration]10, [BloodScissor]2を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 전체 체력의 40%가 남았을 때, 패턴 변경\n패턴 변경 시, 매 턴마다 [Laceration] 10, [BloodScissor] 2를 얻음.\nEN:\nGains a new pattern at 40% of this unit's max HP\nUpon pattern change, gain 10 [Laceration] and 2 [BloodScissor]."
   },
   {
     "key": "837205-name",
-    "original": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血餐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血餐\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血餐\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈찬\nEN:\nBloodfeast"
   },
   {
     "key": "837205-desc",
-    "original": "このキャラクターが戦闘に登場するか、登場敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を更に顕わにする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このキャラクターが戦闘に登場するか、登場敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を更に顕わにする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このキャラクターが戦闘に登場するか、登場敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を更に顕わにする。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このキャラクターが戦闘に登場するか、登場敵リストに含まれているなら、1ターン目から全キャラクターが受ける[Laceration]ダメージだけ[BloodDinner]が増加する。このキャラクターが戦闘に登場するたび、戦場にまき散らされた伏在する血を更に顕わにする。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 캐릭터가 전투에 등장해 있거나, 등장할 적 리스트에 포함되어 있으면, 1턴부터 모든 캐릭터가 받은 [Laceration] 피해만큼 [BloodDinner]이 증가함.\n이 캐릭터가 전투에 등장할 때 전장에 흩뿌려진 잠재된 피가 더욱 드러난다.\nEN:\nIf this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface."
   },
   {
     "key": "837206-name",
-    "original": "血を宿した鋏\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血を宿した鋏\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血を宿した鋏\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血を宿した鋏\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 머금은 가위\nEN:\nBloodsteeped Scissors"
   },
   {
     "key": "837206-desc",
-    "original": "戦闘開始時、[BloodScissor]を10得る\n- [BloodScissor]が1未満に減少しない\n- [BloodScissor]が10以上なら、[BloodScissorTwo]に変換される\n- [BloodScissor]が20以上なら、[BloodScissorThree]に変換される\n[BloodScissor]が消耗されて足りなくなったら前の段階になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、[BloodScissor]を10得る\n- [BloodScissor]が1未満に減少しない\n- [BloodScissor]が10以上なら、[BloodScissorTwo]に変換される\n- [BloodScissor]が20以上なら、[BloodScissorThree]に変換される\n[BloodScissor]が消耗されて足りなくなったら前の段階になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘開始時、[BloodScissor]を10得る\n- [BloodScissor]が1未満に減少しない\n- [BloodScissor]が10以上なら、[BloodScissorTwo]に変換される\n- [BloodScissor]が20以上なら、[BloodScissorThree]に変換される\n[BloodScissor]が消耗されて足りなくなったら前の段階になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、[BloodScissor]を10得る\n- [BloodScissor]が1未満に減少しない\n- [BloodScissor]が10以上なら、[BloodScissorTwo]に変換される\n- [BloodScissor]が20以上なら、[BloodScissorThree]に変換される\n[BloodScissor]が消耗されて足りなくなったら前の段階になる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시, [BloodScissor]을 10 얻음\n- [BloodScissor]이 1 미만으로 감소하지 않음\n- [BloodScissor]이 10 이상이면, [BloodScissorTwo] 로 전환됨.\n- [BloodScissor]이 20 이상이면, [BloodScissorThree] 로 전환됨\n[BloodScissor]이 소모되어, 부족해지면 이전 단계가 됨\nEN:\nCombat Start: gain 10 [BloodScissor]\n- [BloodScissor] cannot drop below 1\n- At 10+ [BloodScissor], convert them to [BloodScissorTwo].\n- At 20+ [BloodScissor], convert them to [BloodScissorThree].\nIf this unit consumes [BloodScissor] and drops below the above thresholds, convert them accordingly."
   },
   {
     "key": "837207-name",
-    "original": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "餓えと老衰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "餓えと老衰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n굶주림과 노쇠\nEN:\nStarved and Withered"
   },
   {
     "key": "837207-desc",
-    "original": "戦闘開始時、[StarvingBarberTwo]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、[StarvingBarberTwo]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘開始時、[StarvingBarberTwo]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、[StarvingBarberTwo]を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시, [StarvingBarberTwo] 얻음\nEN:\nCombat Start: gain [StarvingBarberTwo]"
   },
   {
     "key": "837208-name",
-    "original": "血…血…血…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血…血…血…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血…血…血…！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血…血…血…！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피... 피... 피...!\nEN:\nBlood... Blood... Blood...!"
   },
   {
     "key": "837208-desc",
-    "original": "ターン終了時にパニック状態なら、次のターン開始時にパニック状態を解除し、精神力が0に初期化される。\nパニック状態が解除されるとき\n- [BloodDinner]を30消耗し、次のターンに[Enhancement]2, [BloodScissor]1を得て、精神力を20回復。 \n- [BloodDinner]を消耗できなければ、[Laceration]を30得て、[Laceration]によるダメージを即発動させてから、[Laceration]回数が3減少する。以降、次のターンに[Enhancement]2, [AttackDmgUp]2を得て、精神力を20回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にパニック状態なら、次のターン開始時にパニック状態を解除し、精神力が0に初期化される。\nパニック状態が解除されるとき\n- [BloodDinner]を30消耗し、次のターンに[Enhancement]2, [BloodScissor]1を得て、精神力を20回復。 \n- [BloodDinner]を消耗できなければ、[Laceration]を30得て、[Laceration]によるダメージを即発動させてから、[Laceration]回数が3減少する。以降、次のターンに[Enhancement]2, [AttackDmgUp]2を得て、精神力を20回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にパニック状態なら、次のターン開始時にパニック状態を解除し、精神力が0に初期化される。\nパニック状態が解除されるとき\n- [BloodDinner]を30消耗し、次のターンに[Enhancement]2, [BloodScissor]1を得て、精神力を20回復。 \n- [BloodDinner]を消耗できなければ、[Laceration]を30得て、[Laceration]によるダメージを即発動させてから、[Laceration]回数が3減少する。以降、次のターンに[Enhancement]2, [AttackDmgUp]2を得て、精神力を20回復。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、次のターン開始時にパニック状態を解除し、精神力が0に初期化される。\nパニック状態が解除されるとき\n- [BloodDinner]を30消耗し、次のターンに[Enhancement]2, [BloodScissor]1を得て、精神力を20回復。 \n- [BloodDinner]を消耗できなければ、[Laceration]を30得て、[Laceration]によるダメージを即発動させてから、[Laceration]回数が3減少する。以降、次のターンに[Enhancement]2, [AttackDmgUp]2を得て、精神力を20回復。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 패닉 상태면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력이 0으로 초기화 됨.\n패닉 상태가 해제될 때\n- [BloodDinner]을 30 소모하여 다음 턴에 [Enhancement] 2,  [BloodScissor]을 1 얻고, 정신력 20 회복.\n- [BloodDinner]을 소모하지 못했으면, [Laceration]을 30 얻고, [Laceration]로 인한 피해를 즉시 발동시킨 후, [Laceration] 횟수가 3 감소함. 이후 다음 턴에 [Enhancement] 2, [AttackDmgUp] 2를 얻고, 정신력 20 회복.\nEN:\nTurn End: If Panicked, recover from Panic at the next Turn Start and reset SP to 0.\nWhen recovering from Panic:\n- Consume 30 [BloodDinner] to gain 2 [Enhancement] and 1 [BloodScissor] next turn, and heal 20 SP.\n- If this unit failed to consume [BloodDinner], gain 30 [Laceration], immediately take the damage from [Laceration], then lose 3 [Laceration] Count. Then, gain 2 [Enhancement], 2 [AttackDmgUp], and heal 20 SP next turn."
   },
   {
     "key": "9999997-name",
-    "original": "パニック回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "パニック回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "パニック回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "パニック回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패닉 회복\nEN:\nPanic Recovery"
   },
   {
     "key": "9999997-desc",
-    "original": "ターン終了時にパニック状態なら、精神力が0になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にパニック状態なら、精神力が0になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にパニック状態なら、精神力が0になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にパニック状態なら、精神力が0になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 패닉 상태라면 정신력이 0이됨.\nEN:\nTurn End: if in Panic, reset SP to 0."
   },
   {
     "key": "9999996-name",
-    "original": "パニック変更不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "パニック変更不可\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "パニック変更不可\n<CMT_KR>\n<CMT_JP>",
+    "translation": "パニック変更不可\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패닉 변경 불가\nEN:\nFixed Panic"
   },
   {
     "key": "9999996-desc",
-    "original": "パニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "パニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "パニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "パニックタイプを変更するバフ獲得時、パニックタイプが変更されない。その代わり、精神力の無い対象に付与される効果が付与される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패닉 유형을 변경하는 버프 획득 시, 패닉 유형이 변경되지 않음. 대신 정신력이 없는 대상에게 부여되는 효과가 부여됨\nEN:\nThis unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP."
   }

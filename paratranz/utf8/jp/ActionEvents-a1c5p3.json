@@ -1,162 +1,162 @@
 [
   {
     "key": "10501-name",
-    "original": "ボート確認\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ボート確認\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ボート確認\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ボート確認\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보트 확인\nEN:\nChecking the Boat"
   },
   {
     "key": "10501-desc",
-    "original": "舟が動いて間もない内に…。\n\n「うわっ！」\n\n舟の底からガタガタと音が聞こえ始めた。\n\n「なんだ…？」\n\n「何かが引っ掻いているような気がしまするな！」\n\n「…不吉だ。確認した方が良いと思いますけど。」\n\nどうするべきだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "舟が動いて間もない内に…。\n\n「うわっ！」\n\n舟の底からガタガタと音が聞こえ始めた。\n\n「なんだ…？」\n\n「何かが引っ掻いているような気がしまするな！」\n\n「…不吉だ。確認した方が良いと思いますけど。」\n\nどうするべきだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "舟が動いて間もない内に…。\n\n「うわっ！」\n\n舟の底からガタガタと音が聞こえ始めた。\n\n「なんだ…？」\n\n「何かが引っ掻いているような気がしまするな！」\n\n「…不吉だ。確認した方が良いと思いますけど。」\n\nどうするべきだろう？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "舟が動いて間もない内に…。\n\n「うわっ！」\n\n舟の底からガタガタと音が聞こえ始めた。\n\n「なんだ…？」\n\n「何かが引っ掻いているような気がしまするな！」\n\n「…不吉だ。確認した方が良いと思いますけど。」\n\nどうするべきだろう？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n배가 움직인 지 얼마 되지 않았는데…\n\n\"우왓!\"\n\n배의 밑바닥에서 덜컹거리는 소리가 들려오기 시작했다.\n\n\"뭐지…?\"\n\n\"뭔가가 긁어 대는 것 같기도 하네만!\"\n\n\"…불길해. 확인하는 게 좋겠는데요.\"\n\n어떻게 해야 할까?\nEN:\nSo soon after setting sail...\n\n\"Woah!\"\n\n... We started hearing something shaking underneath the ship.\n\n\"What's that...?\"\n\n\"Forsooth, there may be a foe underneath our ship, scratching!\n\n\"... Yeah, that's ominous. We should check it out.\"\n\nWhat do we do?"
   },
   {
     "key": "10501-options[0].message",
-    "original": "舟の下を確認してみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "舟の下を確認してみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "舟の下を確認してみる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "舟の下を確認してみる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n배 아래를 확인해본다.\nEN:\nCheck underneath the ship."
   },
   {
     "key": "10501-options[0].messageDesc",
-    "original": "イシュメールの精神力+10。次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "イシュメールの精神力+10。次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "イシュメールの精神力+10。次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イシュメールの精神力+10。次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이스마엘의 정신력 +10. 다음 선택지 등장\nEN:\nIshmael gains 10 SP. Proceed to the next choice prompt."
   },
   {
     "key": "10501-options[1].message",
-    "original": "何が起こるか分からない。じっとしている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "何が起こるか分からない。じっとしている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "何が起こるか分からない。じっとしている。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "何が起こるか分からない。じっとしている。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n무슨 일이 일어날 지 알 수 없다. 가만히 있는다.\nEN:\nWe don't know what'll happen if we do. Let's stay put."
   },
   {
     "key": "10501-options[1].messageDesc",
-    "original": "イシュメールの精神力-10、50%の確率で戦闘が発生。勝利時にE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "イシュメールの精神力-10、50%の確率で戦闘が発生。勝利時にE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "イシュメールの精神力-10、50%の確率で戦闘が発生。勝利時にE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イシュメールの精神力-10、50%の確率で戦闘が発生。勝利時にE.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이스마엘의 정신력 -10, 50%확률로 전투 발생. 승리 시 E.G.O GIFT 획득\nEN:\nIshmael loses 10 SP. 50% chance for a Combat Encounter. Gain an E.G.O Gift upon victory"
   },
   {
     "key": "10501-options[1].result[0]",
-    "original": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\n「…止まったようだ。」\n\n「時には無視することが正解になることもあります。」\n\n少し時間が経つと、引っ掻く音はいつの間にか静かになった。\n\n…少なくとも舟から出る音じゃなかったようだ。運が良かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\n「…止まったようだ。」\n\n「時には無視することが正解になることもあります。」\n\n少し時間が経つと、引っ掻く音はいつの間にか静かになった。\n\n…少なくとも舟から出る音じゃなかったようだ。運が良かった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\n「…止まったようだ。」\n\n「時には無視することが正解になることもあります。」\n\n少し時間が経つと、引っ掻く音はいつの間にか静かになった。\n\n…少なくとも舟から出る音じゃなかったようだ。運が良かった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\n「…止まったようだ。」\n\n「時には無視することが正解になることもあります。」\n\n少し時間が経つと、引っ掻く音はいつの間にか静かになった。\n\n…少なくとも舟から出る音じゃなかったようだ。運が良かった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"이걸 그냥 무시하겠다고요? 대체…\"\n\n짜증이 난 수감자는 화를 내뱉으려다, 문득 무의미 하다 생각한 듯 속으로 숨을 삼킨 것 같다.\n\n\"…긁는 소리가 계속 커져 가고 있다.\"\n\n이 배는 일반적인 배와 다르다고 했으니, 그저 그런 이유 때문에 이러는 것일지도 모르지.\n\n\"…멎은 것 같군.\"\n\n\"때로는 무시하는 게 정답일 때도 있죠.\"\n\n조금 시간이 지나자, 긁어대는 소리는 언제 그랬냐는 듯 잠잠해졌다.\n\n…적어도 배에서 나는 소리는 아니었던 모양이다. 운이 좋았어.\nEN:\n\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... but stopped herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\n\"... It has ceased.\"\n\n\"Sometimes, inaction can be a solution indeed.\"\n\nFew minutes later, the scratching noises stopped.\n\n... I guess it wasn't the boat that made the noise. We got lucky."
   },
   {
     "key": "10501-options[1].result[1]",
-    "original": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\nそうじゃ…なければ…。\n\n「そういえばあの海賊たちも…。」\n\n「船底に釘を付けたのはこういう意味だったのか。」\n\n舟底を引っ掻く音が段々と横にずれ、上がってくると遂に姿を現した。\n\n…人魚だった。\n\n「クソッ、やっぱり確認すればよかったってのに。」\n\nブツブツ言う声に返せる言葉は無かった。\n\n這い上ってきた人魚に立ち向かうしかなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\nそうじゃ…なければ…。\n\n「そういえばあの海賊たちも…。」\n\n「船底に釘を付けたのはこういう意味だったのか。」\n\n舟底を引っ掻く音が段々と横にずれ、上がってくると遂に姿を現した。\n\n…人魚だった。\n\n「クソッ、やっぱり確認すればよかったってのに。」\n\nブツブツ言う声に返せる言葉は無かった。\n\n這い上ってきた人魚に立ち向かうしかなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\nそうじゃ…なければ…。\n\n「そういえばあの海賊たちも…。」\n\n「船底に釘を付けたのはこういう意味だったのか。」\n\n舟底を引っ掻く音が段々と横にずれ、上がってくると遂に姿を現した。\n\n…人魚だった。\n\n「クソッ、やっぱり確認すればよかったってのに。」\n\nブツブツ言う声に返せる言葉は無かった。\n\n這い上ってきた人魚に立ち向かうしかなかった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「これを無視するんですか？一体…。」\n\n怒った囚人は不満を吐き出した。するとふと無意味だと悟ったのか、溜め息を呑み込んだようだ。\n\n「…引っ掻く音が段々と大きくなっている。」\n\nこの舟は一般的な舟と違うと聞いたが、ただそれが理由でこうなっているだけかもしれない。\n\nそうじゃ…なければ…。\n\n「そういえばあの海賊たちも…。」\n\n「船底に釘を付けたのはこういう意味だったのか。」\n\n舟底を引っ掻く音が段々と横にずれ、上がってくると遂に姿を現した。\n\n…人魚だった。\n\n「クソッ、やっぱり確認すればよかったってのに。」\n\nブツブツ言う声に返せる言葉は無かった。\n\n這い上ってきた人魚に立ち向かうしかなかった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"이걸 그냥 무시하겠다고요? 대체…\"\n\n짜증이 난 수감자는 화를 내뱉으려다, 문득 무의미 하다 생각한 듯 속으로 숨을 삼킨 것 같다.\n\n\"…긁는 소리가 계속 커져 가고 있다.\"\n\n이 배는 일반적인 배와 다르다고 했으니, 그저 그런 이유 때문에 이러는 것일지도 모르지.\n\n그게… 아니라면…\n\n\"그러고보니 그 해적들도…\"\n\n\"밑바닥에 못을 박은 게 이런 뜻이었나.\"\n\n밑바닥을 긁는 소리가 점점 옆으로 기어 올라오더니, 기어이 모습을 드러냈다.\n\n…인어였다.\n\n\"젠장, 역시 확인하는 게 맞았어.\"\n\n투덜대는 소리에 대꾸해 줄 수 있는 말은 없었다.\n\n기어올라온 인어를 상대해야 할 뿐이다.\nEN:\n\"You're going to ignore that? What the hell is...\"\n\nThe annoyed Sinner was about to say something... before stopping herself. Maybe she thought it was a waste of effort.\n\n\"... The scratching noises are intensifying.\"\n\nTo be fair, this is no normal ship... so maybe this ship just makes scratching noises from time to time.\n\nIf it doesn't...\n\n\"Wait, that reminds me. The pirate ships...\"\n\n\"I guess this is what those spikes were for.\"\n\nThe scratching noises continue to intensify, until it moves to the side of the ship. Soon, the source of scratching noises reveals itself.\n\n... Mermaids.\n\n\"Damnit, we should've checked.\"\n\nI had nothing to say to that.\n\nWe had to fight."
   },
   {
     "key": "10504-name",
-    "original": "動脈\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "動脈\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "動脈\n<CMT_KR>\n<CMT_JP>",
+    "translation": "動脈\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n동맥\nEN:\nThe Artery"
   },
   {
     "key": "10504-desc",
-    "original": "ここがエイハブの言った動脈に違いない。これを切れば、心臓の中央へ向かう道が開けるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ここがエイハブの言った動脈に違いない。これを切れば、心臓の中央へ向かう道が開けるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ここがエイハブの言った動脈に違いない。これを切れば、心臓の中央へ向かう道が開けるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ここがエイハブの言った動脈に違いない。これを切れば、心臓の中央へ向かう道が開けるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이곳이 에이해브가 말한 동맥임에 틀림 없다.이걸 잘라내면, 심장의 중앙으로 가는 길이 열릴 것이다.\nEN:\nThis has to be the artery Ahab was talking about. Once we cut this thing open... our path to the center of the heart will open."
   },
   {
     "key": "10504-options[0].message",
-    "original": "動脈を切る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "動脈を切る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "動脈を切る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "動脈を切る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n동맥을 자른다.\nEN:\nCut open the artery."
   },
   {
     "key": "10504-options[0].messageDesc",
-    "original": "次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 선택지 등장\nEN:\nProceed to the next choice prompt"
   },
   {
     "key": "10505-name",
-    "original": "補給品を回収する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "補給品を回収する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "補給品を回収する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "補給品を回収する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보급품 챙기기\nEN:\nSupply Crates"
   },
   {
     "key": "10505-desc",
-    "original": "「あれは…木箱か？」\n\n囚人たちの指差す場所を見ると、色んな箱が乱雑に積まれているのが見えた。\n\n「何かの補給のため、準備された物品のように見える。」\n\nとある箱には双鉤海賊団のマークがあり、また別の箱にはLCCBのロゴがあった。\n\n鯨がこれすらも一緒に呑み込んだようだ。\n\n「あれらを少し持って行くのはどうかと思いまするが！」\n\n心臓の付近では何が起こるか分からない。\n\n対策として何かを持っていった方が良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「あれは…木箱か？」\n\n囚人たちの指差す場所を見ると、色んな箱が乱雑に積まれているのが見えた。\n\n「何かの補給のため、準備された物品のように見える。」\n\nとある箱には双鉤海賊団のマークがあり、また別の箱にはLCCBのロゴがあった。\n\n鯨がこれすらも一緒に呑み込んだようだ。\n\n「あれらを少し持って行くのはどうかと思いまするが！」\n\n心臓の付近では何が起こるか分からない。\n\n対策として何かを持っていった方が良いだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「あれは…木箱か？」\n\n囚人たちの指差す場所を見ると、色んな箱が乱雑に積まれているのが見えた。\n\n「何かの補給のため、準備された物品のように見える。」\n\nとある箱には双鉤海賊団のマークがあり、また別の箱にはLCCBのロゴがあった。\n\n鯨がこれすらも一緒に呑み込んだようだ。\n\n「あれらを少し持って行くのはどうかと思いまするが！」\n\n心臓の付近では何が起こるか分からない。\n\n対策として何かを持っていった方が良いだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「あれは…木箱か？」\n\n囚人たちの指差す場所を見ると、色んな箱が乱雑に積まれているのが見えた。\n\n「何かの補給のため、準備された物品のように見える。」\n\nとある箱には双鉤海賊団のマークがあり、また別の箱にはLCCBのロゴがあった。\n\n鯨がこれすらも一緒に呑み込んだようだ。\n\n「あれらを少し持って行くのはどうかと思いまするが！」\n\n心臓の付近では何が起こるか分からない。\n\n対策として何かを持っていった方が良いだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"저건… 나무 상자인가?\"\n\n수감자들이 가리킨 곳을 쳐다보니, 어떤 상자들이 어지럽게 쌓여있는 것이 보였다.\n\n\"무언가의 보급을 위해 준비된 물건들로 보인다.\"\n\n어떤 상자에는 쌍갈고리 해적단의 문양이 보이고, 또 어떤 상자에는 LCCB의 로고가 그려져 있기도 하다.\n\n고래가 이것까지 삼킨 모양이다.\n\n\"저것을 좀 챙겨가는게 어떨까 싶소만!\"\n\n심장 근처에서 어떤 일이 생길 지 모른다.\n\n대비책으로 뭔가를 챙겨가는게 좋을까?\nEN:\n\"Is that... a wooden crate?\"\n\nThe Sinners found a haphazardly thrown pile of crates.\n\n\"It can be extrapolated from their appearances that they were to be used as supply crates.\"\n\nSome boxes has the Twinhook Pirates' logo drawn on them. Some of them has the Before Team's logo.\n\nThe Whale must've swallowed these crates, too.\n\n\"'Tis wise to procure some of them as our provisions!\"\n\nRight. We don't know what'll happen once we get to the heart.\n\nShould we take some of them, just in case?"
   },
   {
     "key": "10505-options[0].message",
-    "original": "補給品箱を漁ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "補給品箱を漁ってみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "補給品箱を漁ってみる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "補給品箱を漁ってみる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보급 상자를 뒤져본다.\nEN:\nRummage through the supply crates."
   },
   {
     "key": "10505-options[0].messageDesc",
-    "original": "次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 선택지 등장\nEN:\nProceed to the next choice prompt."
   },
   {
     "key": "10505-options[1].message",
-    "original": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "その場から離れる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자리를 떠난다.\nEN:\nLeave."
   },
   {
     "key": "10505-options[1].messageDesc",
-    "original": "何も起こらなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "何も起こらなかった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "何も起こらなかった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "何も起こらなかった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아무 일도 일어나지 않았다.\nEN:\nNothing happened."
   },
   {
     "key": "10505-options[1].result[0]",
-    "original": "ああいう怪しいものに触って良いことはほぼ無かった気がする。\n\n私たちはそのまま部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ああいう怪しいものに触って良いことはほぼ無かった気がする。\n\n私たちはそのまま部屋を出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ああいう怪しいものに触って良いことはほぼ無かった気がする。\n\n私たちはそのまま部屋を出た。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ああいう怪しいものに触って良いことはほぼ無かった気がする。\n\n私たちはそのまま部屋を出た。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이렇게 수상한 것들을 건드려서 좋은 일이 일어나는 경우는 드물었던 것 같다.\n\n우리는 그대로 방을 떠났다.\nEN:\nNothing good ever comes from messing with suspicious items like these.\n\nWe left the room as it is."
   },
   {
     "key": "810601-name",
-    "original": "エイハブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "エイハブ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "エイハブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "エイハブ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n에이해브\nEN:\nAhab"
   },
   {
     "key": "810601-desc",
-    "original": "「私は失敗した。」\n\n「<…！>」\n\nアレは幻影だろうか、あるいは別のイシュメールだろうか？\n\n船長の後方に、白い膜に覆われたイシュメールが現れた。\n\n「結局私は何も解決できなかった。」\n\n「穢らわしく、友だちの棺を引っ掴んで一人で生き残っただけ。」\n\n狂笑を禁じ得ない船長がその独白に言葉を被せてきた。「そうだ！イシュメール！お前は共に過ごした船員を、誰も救えなかったのさ！」\n\n「お前はまたやめるんだろうな。怖いから！出来るわけないと思うんだろう！」\n\n囚人たちは動揺している。\n\n「あのアマめ…。」\n\n「イシュメールさん！あの人の言うことを聞いちゃダメです！戯言を言ってるだけです！」\n\n「<……。>」\n\n管理人は沈黙を守る。\n\nすると、静かに一言を発した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「私は失敗した。」\n\n「<…！>」\n\nアレは幻影だろうか、あるいは別のイシュメールだろうか？\n\n船長の後方に、白い膜に覆われたイシュメールが現れた。\n\n「結局私は何も解決できなかった。」\n\n「穢らわしく、友だちの棺を引っ掴んで一人で生き残っただけ。」\n\n狂笑を禁じ得ない船長がその独白に言葉を被せてきた。「そうだ！イシュメール！お前は共に過ごした船員を、誰も救えなかったのさ！」\n\n「お前はまたやめるんだろうな。怖いから！出来るわけないと思うんだろう！」\n\n囚人たちは動揺している。\n\n「あのアマめ…。」\n\n「イシュメールさん！あの人の言うことを聞いちゃダメです！戯言を言ってるだけです！」\n\n「<……。>」\n\n管理人は沈黙を守る。\n\nすると、静かに一言を発した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「私は失敗した。」\n\n「<…！>」\n\nアレは幻影だろうか、あるいは別のイシュメールだろうか？\n\n船長の後方に、白い膜に覆われたイシュメールが現れた。\n\n「結局私は何も解決できなかった。」\n\n「穢らわしく、友だちの棺を引っ掴んで一人で生き残っただけ。」\n\n狂笑を禁じ得ない船長がその独白に言葉を被せてきた。「そうだ！イシュメール！お前は共に過ごした船員を、誰も救えなかったのさ！」\n\n「お前はまたやめるんだろうな。怖いから！出来るわけないと思うんだろう！」\n\n囚人たちは動揺している。\n\n「あのアマめ…。」\n\n「イシュメールさん！あの人の言うことを聞いちゃダメです！戯言を言ってるだけです！」\n\n「<……。>」\n\n管理人は沈黙を守る。\n\nすると、静かに一言を発した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「私は失敗した。」\n\n「<…！>」\n\nアレは幻影だろうか、あるいは別のイシュメールだろうか？\n\n船長の後方に、白い膜に覆われたイシュメールが現れた。\n\n「結局私は何も解決できなかった。」\n\n「穢らわしく、友だちの棺を引っ掴んで一人で生き残っただけ。」\n\n狂笑を禁じ得ない船長がその独白に言葉を被せてきた。「そうだ！イシュメール！お前は共に過ごした船員を、誰も救えなかったのさ！」\n\n「お前はまたやめるんだろうな。怖いから！出来るわけないと思うんだろう！」\n\n囚人たちは動揺している。\n\n「あのアマめ…。」\n\n「イシュメールさん！あの人の言うことを聞いちゃダメです！戯言を言ってるだけです！」\n\n「<……。>」\n\n管理人は沈黙を守る。\n\nすると、静かに一言を発した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"나는 실패했어.\"\n\n\"&lt;…!&gt;\"\n\n저것은 환영일까, 아니면 또 다른 이스마엘일까?\n\n선장의 뒤쪽으로, 하얀 막에 덮어 씌워진 듯한 이스마엘이 나타났어.\n\n\"결국 나는 아무것도 해결하지 못했어.\"\n\n\"추잡하게, 혼자서 친구의 관을 붙잡고 살아났을 뿐.\"\n\n광소를 참지 못하는 선장이 그 독백에 말을 얹어.\"맞아! 이스마엘! 결국 너는 함께 하던 선원, 그 누구도 구할 수 없었지!\"\n\n\"너는 또 그만두겠지. 두려우니까! 할 수 없을 거라고 생각하겠지!\"\n\n수감자들은 동요하네.\n\n\"저 새끼가…\"\n\n\"이스마엘 씨! 저 자의 말을 듣지 마세요! 헛소리를 하고 있을 뿐이에요!\"\n\n\"&lt;…….&gt;\"\n\n관리자는 침묵을 지켜.\n\n그러다가, 조용하게 한 마디를 꺼내.\nEN:\n\"I failed.\"\n\n\"&lt;...!&gt;\"\n\nIs that an illusion? Or... is that also Ishmael?\n\nBehind the Captain appears a silhouette of Ishmael, encased in that pale membrane.\n\n\"I couldn't solve anything. I failed everything.\"\n\n\"All I managed to do was survive. Pathetically, like a wretch. Hanging on to my dear friend's coffin.\"\n\nThe Captain guffaws madly. \"Indeed, Ishmael! You couldn't save anyone! Not your crew! Not your friend! Nobody!\"\n\n\"And you will give up again. Because you are afraid! You will give up even before you start!\"\n\nThe Sinners start to get agitated.\n\n\"That bloody bastard...!\"\n\n\"Don't listen to her, Ishmael! S-she doesn't know what she's talking about!\n\n\"&lt;......&gt;\"\n\nThe Manager holds their silence.\n\nThen utters."
   },
   {
     "key": "810601-options[0].message",
-    "original": "あれは、イシュメールじゃない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "あれは、イシュメールじゃない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "あれは、イシュメールじゃない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あれは、イシュメールじゃない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n저건, 이스마엘이 아냐.\nEN:\nThat's not Ishmael."
   },
   {
     "key": "810601-options[0].messageDesc",
-    "original": "次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次の選択肢が出現\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次の選択肢が出現\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 선택지 등장\nEN:\nProceed to the next choice prompt."
   }

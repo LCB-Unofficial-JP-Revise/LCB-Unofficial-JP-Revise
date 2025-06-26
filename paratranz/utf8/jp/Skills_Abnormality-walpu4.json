@@ -1,267 +1,267 @@
 [
   {
     "key": "836301-levelList[0].name",
-    "original": "理解\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "理解\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "理解\n<CMT_KR>\n<CMT_JP>",
+    "translation": "理解\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이해\nEN:\nUnderstanding"
   },
   {
     "key": "836301-levelList[0].desc",
-    "original": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 1 얻음\nEN:\nIf target has 10- SP, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]"
   },
   {
     "key": "836301-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836302-levelList[0].name",
-    "original": "認知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "認知\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "認知\n<CMT_KR>\n<CMT_JP>",
+    "translation": "認知\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n인지\nEN:\nPerception"
   },
   {
     "key": "836302-levelList[0].desc",
-    "original": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 2 얻음\nEN:\nIf target has 10- SP, Clash Power +1\n[WhenUse] Gain 2 [VioletUnderstand]"
   },
   {
     "key": "836302-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VioletTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
   },
   {
     "key": "836302-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836303-levelList[0].name",
-    "original": "救い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "救い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "救い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "救い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n구원\nEN:\nSalvation"
   },
   {
     "key": "836303-levelList[0].desc",
-    "original": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が10以下ならマッチ威力 +1\n[WhenUse] [VioletUnderstand]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 10 이하면 합 위력 +1\n[WhenUse] [VioletUnderstand] 1 얻음\nEN:\nIf target has 10- SP, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]"
   },
   {
     "key": "836303-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VioletTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
   },
   {
     "key": "836303-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836304-levelList[0].name",
-    "original": "理解不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "理解不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "理解不能\n<CMT_KR>\n<CMT_JP>",
+    "translation": "理解不能\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이해 불능\nEN:\nWhat is Incomprehensible"
   },
   {
     "key": "836304-levelList[0].desc",
-    "original": "[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [VioletUnderstand]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [VioletUnderstand] 2 얻음\nEN:\n[WhenUse] Gain 2 [VioletUnderstand]"
   },
   {
     "key": "836305-levelList[0].name",
-    "original": "崩壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "崩壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "崩壊\n<CMT_KR>\n<CMT_JP>",
+    "translation": "崩壊\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n붕괴\nEN:\nDecay"
   },
   {
     "key": "836305-levelList[0].desc",
-    "original": "[CantDuel]\n[EndSkill] 死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n[EndSkill] 死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n[EndSkill] 死亡\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n[EndSkill] 死亡\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\n[EndSkill] 사망\nEN:\n[CantDuel]\n[EndSkill] Dies"
   },
   {
     "key": "836305-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [VioletTakeDamageUp] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp] next turn"
   },
   {
     "key": "836305-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 精神力ダメージを10～14与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 精神力ダメージを10～14与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 精神力ダメージを10～14与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力ダメージを10～14与える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 정신력 피해를 10 ~ 14 입힘\nEN:\n[OnSucceedAttack] Deal 10~14 SP damage"
   },
   {
     "key": "836601-levelList[0].name",
-    "original": "慈悲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "慈悲\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "慈悲\n<CMT_KR>\n<CMT_JP>",
+    "translation": "慈悲\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자비\nEN:\nMercy"
   },
   {
     "key": "836601-levelList[0].desc",
-    "original": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 20 이하면 합 위력 +1\nEN:\nIf target has 20- SP, Clash Power +1"
   },
   {
     "key": "836601-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VioletTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
   },
   {
     "key": "836601-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836602-levelList[0].name",
-    "original": "愛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "愛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "愛\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사랑\nEN:\nLove"
   },
   {
     "key": "836602-levelList[0].desc",
-    "original": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 20 이하면 합 위력 +1\nEN:\nIf target has 20- SP, Clash Power +1"
   },
   {
     "key": "836602-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VioletTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
   },
   {
     "key": "836602-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836603-levelList[0].name",
-    "original": "点滅する理解の文字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "点滅する理解の文字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "点滅する理解の文字\n<CMT_KR>\n<CMT_JP>",
+    "translation": "点滅する理解の文字\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n점멸하는 이해의 문자\nEN:\nFlickering Glyphs of Understanding"
   },
   {
     "key": "836603-levelList[0].desc",
-    "original": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\nEN:\n[CantDuel]"
   },
   {
     "key": "836603-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836603-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836604-levelList[0].name",
-    "original": "点滅する理解の文字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "点滅する理解の文字\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "点滅する理解の文字\n<CMT_KR>\n<CMT_JP>",
+    "translation": "点滅する理解の文字\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n점멸하는 이해의 문자\nEN:\nFlickering Glyphs of Understanding"
   },
   {
     "key": "836604-levelList[0].desc",
-    "original": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が20以下ならマッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 20 이하면 합 위력 +1\nEN:\nIf target has 20- SP, Clash Power +1"
   },
   {
     "key": "836604-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VioletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VioletTakeDamageUp] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp]"
   },
   {
     "key": "836604-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MentalCrack]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MentalCrack] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [MentalCrack]"
   },
   {
     "key": "836605-levelList[0].name",
-    "original": "理解不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "理解不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "理解不能\n<CMT_KR>\n<CMT_JP>",
+    "translation": "理解不能\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이해 불능\nEN:\nWhat is Incomprehensible"
   },
   {
     "key": "836605-levelList[0].desc",
-    "original": "[WhenUse] [Protection]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [Protection]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [Protection]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [Protection]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [Protection] 2 얻음\nEN:\n[WhenUse] Gain 2 [Protection]"
   },
   {
     "key": "836606-levelList[0].name",
-    "original": "押し寄せる安息の腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "押し寄せる安息の腕\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "押し寄せる安息の腕\n<CMT_KR>\n<CMT_JP>",
+    "translation": "押し寄せる安息の腕\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n쇄도하는 안식의 팔\nEN:\nRushing Arms of Rest"
   },
   {
     "key": "836606-levelList[0].desc",
-    "original": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\nEN:\n[CantDuel]"
   },
   {
     "key": "836606-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 100ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 100ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 100ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 100ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 체력 100 피해\nEN:\n[OnSucceedAttack] Deal 100 HP damage"
   }

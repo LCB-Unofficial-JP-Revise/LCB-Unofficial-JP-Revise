@@ -1,463 +1,463 @@
 [
   {
     "key": "9021301-levelList[0].name",
-    "original": "傷を破裂させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傷を破裂させる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傷を破裂させる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傷を破裂させる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상처 터뜨리기\nEN:\nBurst Wounds"
   },
   {
     "key": "9021301-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
   },
   {
     "key": "9021301-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
   },
   {
     "key": "9021302-levelList[0].name",
-    "original": "傷を縛り付ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傷を縛り付ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傷を縛り付ける\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傷を縛り付ける\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상처 옭아매기\nEN:\nSnag Wounds"
   },
   {
     "key": "9021302-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Laceration]이 2 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 2+ [Laceration], Coin Power +1"
   },
   {
     "key": "9021302-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "9021302-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "9021303-levelList[0].name",
-    "original": "肉片を溶かす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "肉片を溶かす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "肉片を溶かす\n<CMT_KR>\n<CMT_JP>",
+    "translation": "肉片を溶かす\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n살점 녹이기\nEN:\nFlesh Melting"
   },
   {
     "key": "9021303-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Laceration]이 3 이상이면, 합 위력 +1\nEN:\n[WhenUse] If target has 3+ [Laceration], Clash Power +1"
   },
   {
     "key": "9021303-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
   },
   {
     "key": "9021303-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [Agility] next turn"
   },
   {
     "key": "9021304-levelList[0].name",
-    "original": "差し込める陰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "差し込める陰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "差し込める陰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "差し込める陰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n드리우는 그늘\nEN:\nCasting Shade"
   },
   {
     "key": "9021304-levelList[0].desc",
-    "original": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [Paralysis] 1 부여\nEN:\n[WhenUse] Inflict 1 [Paralysis]"
   },
   {
     "key": "9021401-levelList[0].name",
-    "original": "傷口穿ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傷口穿ち\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傷口穿ち\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傷口穿ち\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상처 헤집기\nEN:\nTear Up Wound"
   },
   {
     "key": "9021401-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
   },
   {
     "key": "9021401-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Laceration] Count"
   },
   {
     "key": "9021402-levelList[0].name",
-    "original": "傷を舐る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傷を舐る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傷を舐る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傷を舐る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상처 훑기\nEN:\nSkim Wounds"
   },
   {
     "key": "9021402-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Laceration]が2以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Laceration]이 2 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 2+ [Laceration], Coin Power +1"
   },
   {
     "key": "9021402-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "9021402-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "9021403-levelList[0].name",
-    "original": "肉片を引きちぎる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "肉片を引きちぎる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "肉片を引きちぎる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "肉片を引きちぎる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n살점 뜯기\nEN:\nFlesh Tearing"
   },
   {
     "key": "9021403-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Laceration]が3以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Laceration]이 3 이상이면, 합 위력 +1\nEN:\n[WhenUse] If target has 3+ [Laceration], Clash Power +1"
   },
   {
     "key": "9021403-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration]"
   },
   {
     "key": "9021403-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [Agility] next turn"
   },
   {
     "key": "9021404-levelList[0].name",
-    "original": "差し込める陰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "差し込める陰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "差し込める陰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "差し込める陰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n드리우는 그늘\nEN:\nCasting Shade"
   },
   {
     "key": "9021404-levelList[0].desc",
-    "original": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [Paralysis] 1 부여\nEN:\n[WhenUse] Inflict 1 [Paralysis]"
   },
   {
     "key": "9021701-levelList[0].name",
-    "original": "ガチで突く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ガチで突く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ガチで突く\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ガチで突く\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n진탕 찌르기\nEN:\nConcussive Stab"
   },
   {
     "key": "9021701-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)"
   },
   {
     "key": "9021701-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Vibration]"
   },
   {
     "key": "9021701-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Vibration] Count"
   },
   {
     "key": "9021702-levelList[0].name",
-    "original": "灼熱突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "灼熱突き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "灼熱突き\n<CMT_KR>\n<CMT_JP>",
+    "translation": "灼熱突き\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n작열 찌르기\nEN:\nBurning Stab"
   },
   {
     "key": "9021702-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)"
   },
   {
     "key": "9021702-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion]"
   },
   {
     "key": "9021702-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Combustion] Count"
   },
   {
     "key": "9021703-levelList[0].name",
-    "original": "推進斬り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "推進斬り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "推進斬り\n<CMT_KR>\n<CMT_JP>",
+    "translation": "推進斬り\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n추진 베기\nEN:\nPropulsion Slice"
   },
   {
     "key": "9021703-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\n[DefeatDuel] 피해량이 75%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)\n[DefeatDuel] Deal -75% damage and damage dealt by this Skill cannot Stagger the target"
   },
   {
     "key": "9021703-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "9021703-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BudgetBulletPropellant] 1 소모\nEN:\nSpend 1 [BudgetBulletPropellant]"
   },
   {
     "key": "9021703-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Vibration]"
   },
   {
     "key": "9021703-levelList[0].coinlist[0].coindescs[3].desc",
-    "original": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Combustion]"
   },
   {
     "key": "9021703-levelList[0].coinlist[0].coindescs[4].desc",
-    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]\nEN:\n[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
   },
   {
     "key": "9021703-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "9021703-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BudgetBulletPropellant] 1 소모.\nEN:\nSpend 1 [BudgetBulletPropellant]"
   },
   {
     "key": "9021703-levelList[0].coinlist[1].coindescs[2].desc",
-    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "9021704-levelList[0].name",
-    "original": "推進弾 再装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "推進弾 再装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "推進弾 再装填\n<CMT_KR>\n<CMT_JP>",
+    "translation": "推進弾 再装填\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n추진탄 재장전\nEN:\nPropellant Ammo Reload"
   },
   {
     "key": "9021704-levelList[0].desc",
-    "original": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[StartBattle] [FullReload] (턴 당 1회)\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합이 6 이상이면, 코인 위력 +3\n[WhenUse] 다음 턴에 [AttackDmgUp] 1 얻음\nEN:\n[StartBattle] [FullReload] (once per turn)\n[WhenUse] If target has 6+ (sum of [Combustion] and [Vibration]), Coin Power +3\n[WhenUse] Gain 1 [AttackDmgUp] next turn"
   },
   {
     "key": "9021801-levelList[0].name",
-    "original": "ガチで貫く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ガチで貫く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ガチで貫く\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ガチで貫く\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n진탕 꿰뚫기\nEN:\nConcussive Penetration"
   },
   {
     "key": "9021801-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)"
   },
   {
     "key": "9021801-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vibration]"
   },
   {
     "key": "9021801-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Vibration] Count"
   },
   {
     "key": "9021802-levelList[0].name",
-    "original": "灼熱貫き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "灼熱貫き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "灼熱貫き\n<CMT_KR>\n<CMT_JP>",
+    "translation": "灼熱貫き\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n작열 꿰뚫기\nEN:\nBurning Penetration"
   },
   {
     "key": "9021802-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)"
   },
   {
     "key": "9021802-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Combustion]"
   },
   {
     "key": "9021802-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Combustion] Count"
   },
   {
     "key": "9021803-levelList[0].name",
-    "original": "追進裂き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "追進裂き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "追進裂き\n<CMT_KR>\n<CMT_JP>",
+    "translation": "追進裂き\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n추진 가르기\nEN:\nPropulsion Cleave"
   },
   {
     "key": "9021803-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]と[Vibration]の合計7につき、コイン威力 +1 (最大2)\n[DefeatDuel] ダメージ量が75%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합 7 당, 코인 위력 +1 (최대 2)\n[DefeatDuel] 피해량이 75%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Combustion] and [Vibration] on target) (max 2)\n[DefeatDuel] Deal -75% damage and damage dealt by this Skill cannot Stagger the target"
   },
   {
     "key": "9021803-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "9021803-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BudgetBulletPropellant] 1 소모\nEN:\nSpend 1 [BudgetBulletPropellant]"
   },
   {
     "key": "9021803-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Vibration]2を付与、[Vibration]回数が2増加,\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]2を付与、[Vibration]回数が2増加,\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]2を付与、[Vibration]回数が2増加,\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]2を付与、[Vibration]回数が2増加,\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 2 부여, [Vibration] 횟수 2 증가,\nEN:\n[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count,"
   },
   {
     "key": "9021803-levelList[0].coinlist[0].coindescs[3].desc",
-    "original": "[OnSucceedAttack] [Combustion]を2付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]を2付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]を2付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]を2付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 2 부여, [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
   },
   {
     "key": "9021803-levelList[0].coinlist[0].coindescs[4].desc",
-    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]へ[Switch_Vibration]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [VibrationIgnition]로 [Switch_Vibration]\nEN:\n[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
   },
   {
     "key": "9021803-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "9021803-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BudgetBulletPropellant]を1消耗\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BudgetBulletPropellant] 1 소모.\nEN:\nSpend 1 [BudgetBulletPropellant]"
   },
   {
     "key": "9021803-levelList[0].coinlist[1].coindescs[2].desc",
-    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "9021804-levelList[0].name",
-    "original": "推進弾 再装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "推進弾 再装填\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "推進弾 再装填\n<CMT_KR>\n<CMT_JP>",
+    "translation": "推進弾 再装填\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n추진탄 재장전\nEN:\nPropellant Ammo Reload"
   },
   {
     "key": "9021804-levelList[0].desc",
-    "original": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] [FullReload] (1ターンにつき1回)\n[WhenUse] 対象の[Combustion]と[Vibration]の合計が6以上なら、コイン +3\n[WhenUse] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[StartBattle] [FullReload] (턴 당 1회)\n[WhenUse] 대상의 [Combustion]과 [Vibration]의 합이 6 이상이면, 코인 위력 +3\n[WhenUse] 다음 턴에 [AttackDmgUp] 1 얻음\nEN:\n[StartBattle] [FullReload] (once per turn)\n[WhenUse] If target has 6+ (sum of [Combustion] and [Vibration]), Coin Power +3\n[WhenUse] Gain 1 [AttackDmgUp] next turn"
   }

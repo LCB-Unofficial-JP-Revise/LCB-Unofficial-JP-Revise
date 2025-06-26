@@ -1,631 +1,631 @@
 [
   {
     "key": "837901-name",
-    "original": "아파하는 테디 선택지 선택 이벤트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "아파하는 테디 선택지 선택 이벤트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "아파하는 테디 선택지 선택 이벤트\n<CMT_KR>\n<CMT_JP>",
+    "translation": "아파하는 테디 선택지 선택 이벤트\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아파하는 테디 선택지 선택 이벤트\nEN:\n아파하는 테디 선택지 선택 이벤트"
   },
   {
     "key": "837901-subDesc",
-    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_JP>",
+    "translation": "사용 안하는 텍스트\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사용 안하는 텍스트\nEN:\nUNUSED TEXT"
   },
   {
     "key": "837901-desc",
-    "original": "尖った釘がいっぱい刺さったクマの人形が、おぼろげな様子で私たちのことを見つめてくる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "尖った釘がいっぱい刺さったクマの人形が、おぼろげな様子で私たちのことを見つめてくる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "尖った釘がいっぱい刺さったクマの人形が、おぼろげな様子で私たちのことを見つめてくる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "尖った釘がいっぱい刺さったクマの人形が、おぼろげな様子で私たちのことを見つめてくる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뾰족한 못이 잔뜩 박힌 곰 인형이 아련한 기색으로 우리를 바라본다.\nEN:\nA bear plush looks at us with a sad expression. Several sharp nails are impaling its body."
   },
   {
     "key": "837901-options[0].message",
-    "original": "抱きしめてあげる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "抱きしめてあげる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "抱きしめてあげる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "抱きしめてあげる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n안아준다.\nEN:\nHug the teddy bear."
   },
   {
     "key": "837901-options[0].messageDesc",
-    "original": "選択時、幻想体のマッチ威力減少。色欲判定成功時、判定した人格の体力が若干減少して精神力が大幅に回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、幻想体のマッチ威力減少。色欲判定成功時、判定した人格の体力が若干減少して精神力が大幅に回復。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、幻想体のマッチ威力減少。色欲判定成功時、判定した人格の体力が若干減少して精神力が大幅に回復。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、幻想体のマッチ威力減少。色欲判定成功時、判定した人格の体力が若干減少して精神力が大幅に回復。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 환상체 합 위력 감소. 색욕 판정 성공 시, 판정한 인격 체력 약간 감소하고 정신력 대폭 회복\nEN:\nSelect to reduce the Abnormality's Clash Power. Pass a Lust check, and the selected Identity loses some HP but greatly heals SP"
   },
   {
     "key": "837901-options[1].message",
-    "original": "視線を避ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "視線を避ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "視線を避ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "視線を避ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시선을 피한다.\nEN:\nLook away."
   },
   {
     "key": "837901-options[1].messageDesc",
-    "original": "選択時、全人格の精神力が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、全人格の精神力が減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、全人格の精神力が減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、全人格の精神力が減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 모든 인격 정신력 감소\nEN:\nAll Identities lose SP"
   },
   {
     "key": "837901-options[1].result[0]",
-    "original": "釘があまりにも脅威的だったためだろうか。\n\n誰もクマのぬいぐるみに近づこうとはしなかった。\n\nクマの人形が傷ついたかのように体をだらりと垂らすと。\n\n囚人の大半は悲痛な顔をした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "釘があまりにも脅威的だったためだろうか。\n\n誰もクマのぬいぐるみに近づこうとはしなかった。\n\nクマの人形が傷ついたかのように体をだらりと垂らすと。\n\n囚人の大半は悲痛な顔をした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "釘があまりにも脅威的だったためだろうか。\n\n誰もクマのぬいぐるみに近づこうとはしなかった。\n\nクマの人形が傷ついたかのように体をだらりと垂らすと。\n\n囚人の大半は悲痛な顔をした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "釘があまりにも脅威的だったためだろうか。\n\n誰もクマのぬいぐるみに近づこうとはしなかった。\n\nクマの人形が傷ついたかのように体をだらりと垂らすと。\n\n囚人の大半は悲痛な顔をした。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n못이 너무나 위협적이었던 탓일까.\n\n아무도 곰 인형에게 다가가려 하지 않았다.\n\n곰 인형이 상처 받은 듯 몸을 축 늘어뜨리자.\n\n대부분의 수감자들이 마음 아프다는 표정을 지었다.\nEN:\nPerhaps the nails looked too threatening.\n\nNo one wanted to get close to the bear plush.\n\nIt slumps its shoulders, clearly hurt.\n\nIt's clear that most Sinners felt bad about this decision."
   },
   {
     "key": "10701-desc",
-    "original": "ゆがんだ空間の中、ぼやけた看板へと近づいた。\n\nラ・マンチャランドへようこそ。\n\n看板の下に書かれた文句の下に、販売しているチケットとその価格が書かれている。\n\n中に入るためにはここでチケットを購入しなければならないようだ。\n\nどんなチケットを買おうかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ゆがんだ空間の中、ぼやけた看板へと近づいた。\n\nラ・マンチャランドへようこそ。\n\n看板の下に書かれた文句の下に、販売しているチケットとその価格が書かれている。\n\n中に入るためにはここでチケットを購入しなければならないようだ。\n\nどんなチケットを買おうかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ゆがんだ空間の中、ぼやけた看板へと近づいた。\n\nラ・マンチャランドへようこそ。\n\n看板の下に書かれた文句の下に、販売しているチケットとその価格が書かれている。\n\n中に入るためにはここでチケットを購入しなければならないようだ。\n\nどんなチケットを買おうかな？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ゆがんだ空間の中、ぼやけた看板へと近づいた。\n\nラ・マンチャランドへようこそ。\n\n看板の下に書かれた文句の下に、販売しているチケットとその価格が書かれている。\n\n中に入るためにはここでチケットを購入しなければならないようだ。\n\nどんなチケットを買おうかな？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n일그러진 공간 속, 흐릿한 간판으로 다가갔다.\n\n라만차랜드에 오신 것을 환영합니다.\n\n간판 밑에 적힌 문구 아래로, 판매하는 티켓과 그 가격이 적혀있다.\n\n안쪽으로 들어가기 위해서는 이곳에서 티켓을 구매해야할 것 같다.\n\n어떤 티켓을 구매할까?\nEN:\nWe approached the faded signpost in this twisted space.\n\n<i>Welcome to La Manchaland.</i>\n\nTwo types of tickets and their prices are written underneath that logo.\n\nLooks like we'll have to purchase a ticket here to enter...\n\nWhich one should we purchase?"
   },
   {
     "key": "10701-options[0].message",
-    "original": "フリーパスを購入する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "フリーパスを購入する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "フリーパスを購入する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "フリーパスを購入する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자유이용권을 구매한다.\nEN:\nPurchase the All-day Pass"
   },
   {
     "key": "10701-options[0].messageDesc",
-    "original": "全味方の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全味方の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全味方の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 아군의 체력 감소. E.G.O 기프트 획득.\nEN:\nAll allies lose HP. Gain an E.G.O Gift."
   },
   {
     "key": "10701-options[0].result[0]",
-    "original": "全ての囚人が血液を支払い、フリーパスを購入した。\n\nブツブツ言う囚人もいたが、幸いなことに全員がフリーパスを買うことに同意してくれた。\n\nそれでもこのチケットさえあれば、全てのアトラクションを自由に利用できるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全ての囚人が血液を支払い、フリーパスを購入した。\n\nブツブツ言う囚人もいたが、幸いなことに全員がフリーパスを買うことに同意してくれた。\n\nそれでもこのチケットさえあれば、全てのアトラクションを自由に利用できるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全ての囚人が血液を支払い、フリーパスを購入した。\n\nブツブツ言う囚人もいたが、幸いなことに全員がフリーパスを買うことに同意してくれた。\n\nそれでもこのチケットさえあれば、全てのアトラクションを自由に利用できるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全ての囚人が血液を支払い、フリーパスを購入した。\n\nブツブツ言う囚人もいたが、幸いなことに全員がフリーパスを買うことに同意してくれた。\n\nそれでもこのチケットさえあれば、全てのアトラクションを自由に利用できるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 수감자가 혈액을 지불하고 자유이용권을 구매했다.\n\n투덜거리는 수감자도 있었지만, 다행히 모두 자유이용권을 사는 것에 동의해주었다.\n\n그래도 이 티켓만 있으면 모든 어트랙션을 자유롭게 탑승할 수 있겠지.\nEN:\nEach Sinner paid for their own All-day Pass with their blood.\n\nSome of them were none to happy about this decision, but they all agreed to go with All-day Passes.\n\nWe should be able to experience every attraction here as long as we have this ticket."
   },
   {
     "key": "10701-options[1].message",
-    "original": "入園パスを購入する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "入園パスを購入する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "入園パスを購入する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "入園パスを購入する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n일반이용권을 구매한다.\nEN:\nPurchase the Standard Pass"
   },
   {
     "key": "10701-options[1].messageDesc",
-    "original": "全キャラクターが出血を得るE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全キャラクターが出血を得るE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全キャラクターが出血を得るE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全キャラクターが出血を得るE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 캐릭터가 출혈을 얻는 E.G.O 기프트 획득\nEN:\nAll allies gain E.G.O Gifts that gain Bleed"
   },
   {
     "key": "10701-options[1].result[0]",
-    "original": "最初から血をたくさん出すのは良くない選択ではないか？\n\n囚人たちと相談して血液を払わなくてもいい入園パスを購入した。\n\nチケットを確認したところ、アトラクションに搭乗する前に一定量の血液を支払わなければならないと書かれている。\n\n注意して使えば、フリーパスより効率がいいかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "最初から血をたくさん出すのは良くない選択ではないか？\n\n囚人たちと相談して血液を払わなくてもいい入園パスを購入した。\n\nチケットを確認したところ、アトラクションに搭乗する前に一定量の血液を支払わなければならないと書かれている。\n\n注意して使えば、フリーパスより効率がいいかもしれない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "最初から血をたくさん出すのは良くない選択ではないか？\n\n囚人たちと相談して血液を払わなくてもいい入園パスを購入した。\n\nチケットを確認したところ、アトラクションに搭乗する前に一定量の血液を支払わなければならないと書かれている。\n\n注意して使えば、フリーパスより効率がいいかもしれない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最初から血をたくさん出すのは良くない選択ではないか？\n\n囚人たちと相談して血液を払わなくてもいい入園パスを購入した。\n\nチケットを確認したところ、アトラクションに搭乗する前に一定量の血液を支払わなければならないと書かれている。\n\n注意して使えば、フリーパスより効率がいいかもしれない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n처음부터 피를 잔뜩 내어주는 것은 좋지 못한 선택이 아닐까?\n\n수감자들과 상의하여 혈액을 지불하지 않아도 되는 일반이용권을 구매했다.\n\n티켓을 확인해보니, 어트랙션을 탑승하기 전 일정량의 혈액을 지불해야한다고 적혀있다.\n\n주의해서 사용한다면, 자유이용권보다 효율이 좋을지도 모르겠다.\nEN:\nIt might be unwise to lose so much blood here at the entrance.\n\nAfter a discussion with the Sinners, we decided to go with the Standard Pass, which does not require a payment of blood.\n\nThere's a disclaimer on the ticket: 'visitors must pay a certain amount of blood before participating in an attraction'.\n\nWe might be able to get more of our blood's worth, as long as we carefully choose which attraction we want to go for."
   },
   {
     "key": "1070101-desc",
-    "original": "入口を通り過ぎ、ラ・マンチャランドの中へ入った。\n\nこの迷路のような遊園地を抜けるには、どのエリアに行くのがいいんだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "入口を通り過ぎ、ラ・マンチャランドの中へ入った。\n\nこの迷路のような遊園地を抜けるには、どのエリアに行くのがいいんだろう？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "入口を通り過ぎ、ラ・マンチャランドの中へ入った。\n\nこの迷路のような遊園地を抜けるには、どのエリアに行くのがいいんだろう？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "入口を通り過ぎ、ラ・マンチャランドの中へ入った。\n\nこの迷路のような遊園地を抜けるには、どのエリアに行くのがいいんだろう？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n입구를 지나 라만차랜드 안으로 들어왔다.\n\n이 미로같은 놀이공원을 빠져나가려면, 어떤 구역으로 가는 것이 좋을까?\nEN:\nWe walked past the entrance and into La Manchaland.\n\nWhich Area should we visit first in order to escape this maze-like amusement park?"
   },
   {
     "key": "1070101-options[0].message",
-    "original": "ファンタジー・ブラッドシューティングに挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ファンタジー・ブラッドシューティングに挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ファンタジー・ブラッドシューティングに挑戦する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ファンタジー・ブラッドシューティングに挑戦する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n판타지 블러드 슈팅에 도전한다.\nEN:\nParticipate in a game of Fantasy Blood-shooting."
   },
   {
     "key": "1070101-options[0].messageDesc",
-    "original": "戦闘発生。戦闘クリア時にE.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘発生。戦闘クリア時にE.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘発生。戦闘クリア時にE.G.O GIFT獲得。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘発生。戦闘クリア時にE.G.O GIFT獲得。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 발생. 전투 클리어 시 E.G.O 기프트 획득\nEN:\nBegin a combat encounter. Win to gain an E.G.O Gift"
   },
   {
     "key": "1070101-options[0].result[0]",
-    "original": "できるだけ多くの血鬼を倒せば、出られる道が開かれるんじゃないかな？\n\n何人かの囚人の意見によって、ファンタジー・ブラッドシューティングに再び挑戦してみることにした。\n\n最後までクリアされた冒険家に勝利の証を差し上げます！\n\n過去に録音されたような、血鬼の応援の声が聞こえてくる。\n\n一度やったんだし、今回も最後までクリアできるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "できるだけ多くの血鬼を倒せば、出られる道が開かれるんじゃないかな？\n\n何人かの囚人の意見によって、ファンタジー・ブラッドシューティングに再び挑戦してみることにした。\n\n最後までクリアされた冒険家に勝利の証を差し上げます！\n\n過去に録音されたような、血鬼の応援の声が聞こえてくる。\n\n一度やったんだし、今回も最後までクリアできるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "できるだけ多くの血鬼を倒せば、出られる道が開かれるんじゃないかな？\n\n何人かの囚人の意見によって、ファンタジー・ブラッドシューティングに再び挑戦してみることにした。\n\n最後までクリアされた冒険家に勝利の証を差し上げます！\n\n過去に録音されたような、血鬼の応援の声が聞こえてくる。\n\n一度やったんだし、今回も最後までクリアできるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "できるだけ多くの血鬼を倒せば、出られる道が開かれるんじゃないかな？\n\n何人かの囚人の意見によって、ファンタジー・ブラッドシューティングに再び挑戦してみることにした。\n\n最後までクリアされた冒険家に勝利の証を差し上げます！\n\n過去に録音されたような、血鬼の応援の声が聞こえてくる。\n\n一度やったんだし、今回も最後までクリアできるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n최대한 많은 혈귀를 해치우면, 나갈 수 있는 길이 열리지 않을까?\n\n몇몇 수감자의 의견에 따라 판타지 블러드 슈팅에 다시 도전해보기로 했다.\n\n마지막까지 클리어하신 모험가에게 승리의 증표를 드립니다!\n\n과거에 녹음된 듯한, 혈귀의 응원소리가 들려온다.\n\n한번 해보았으니, 이번에도 끝까지 깰 수 있겠지.\nEN:\nMaybe the way out will open if we defeat as many Bloodfiends as we can.\n\nSome Sinners suggested that we attempt the Fantasy Blood-shooting again.\n\n<i>To Adventurers who make it to the end of the attraction, we grant you a Token of Victory!</i>\n\nThrough the pre-recorded voiceline, a Bloodfiend cheers us on.\n\nWe've already done this once; I'm sure we can do it again."
   },
   {
     "key": "1070101-options[1].message",
-    "original": "告解所に行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "告解所に行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "告解所に行く。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "告解所に行く。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n고해소에 간다.\nEN:\nHead to the Confessional."
   },
   {
     "key": "1070101-options[1].messageDesc",
-    "original": "傲慢判定進行。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傲慢判定進行。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傲慢判定進行。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傲慢判定進行。判定成功時、E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n오만 판정 진행. 판정 성공 시 E.G.O 기프트 획득\nEN:\nRun a Pride check. Pass to gain an E.G.O Gift."
   },
   {
     "key": "1070101-options[2].message",
-    "original": "パレードを見物する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "パレードを見物する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "パレードを見物する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "パレードを見物する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n퍼레이드를 구경한다.\nEN:\nWatch the Parade"
   },
   {
     "key": "1070101-options[2].messageDesc",
-    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 기프트 획득\nEN:\nGain an E.G.O Gift"
   },
   {
     "key": "1070103-desc",
-    "original": "つつがなくパレードエリアに移動できた。\n\n行列に沿って前へ進むと、どこからか現れた血鬼が声をかけてくる。\n\n「パレードを背景に記念写真を一枚いかがですか？」\n「少しの血液さえあれば、この瞬間を永遠に残すことができますよ！」\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "つつがなくパレードエリアに移動できた。\n\n行列に沿って前へ進むと、どこからか現れた血鬼が声をかけてくる。\n\n「パレードを背景に記念写真を一枚いかがですか？」\n「少しの血液さえあれば、この瞬間を永遠に残すことができますよ！」\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "つつがなくパレードエリアに移動できた。\n\n行列に沿って前へ進むと、どこからか現れた血鬼が声をかけてくる。\n\n「パレードを背景に記念写真を一枚いかがですか？」\n「少しの血液さえあれば、この瞬間を永遠に残すことができますよ！」\n\nどうしようか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "つつがなくパレードエリアに移動できた。\n\n行列に沿って前へ進むと、どこからか現れた血鬼が声をかけてくる。\n\n「パレードを背景に記念写真を一枚いかがですか？」\n「少しの血液さえあれば、この瞬間を永遠に残すことができますよ！」\n\nどうしようか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지체할 것 없이 퍼레이드 구역으로 이동했다.\n\n행렬을 따라 앞으로 나아가다보면, 어디선가 나타난 혈귀가 말을 걸어온다.\n\n“퍼레이드를 배경으로 기념 사진 하나 어떠세요?”\n“약간의 혈액만 있으면, 이 순간을 영원히 남길 수 있어요!”\n\n어떻게 할까?\nEN:\nWe made it to the Parade Area without wasting any more time.\n\nAfter a while of walking along the Parade to the front, a Bloodfiend suddenly came up to us.\n\n\"Why not take a commemorative pic with the Parade as the background?\"\n\"A little bit of blood, and you can remember this moment for-ever-and-ever!\"\n\nWhat should we do?"
   },
   {
     "key": "1070103-options[0].message",
-    "original": "血を差し出して写真を撮る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血を差し出して写真を撮る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血を差し出して写真を撮る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血を差し出して写真を撮る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 지불하고 사진을 찍는다.\nEN:\nPay with blood and get a commemorative picture taken."
   },
   {
     "key": "1070103-options[0].messageDesc",
-    "original": "一部囚人の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "一部囚人の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "一部囚人の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "一部囚人の体力減少。E.G.O GIFT獲得。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n일부 수감자 체력 감소. E.G.O 기프트 획득\nEN:\nSome Sinners lose HP. Gain an E.G.O Gift"
   },
   {
     "key": "1070103-options[0].result[0]",
-    "original": "数人の囚人が血液を支払い、写真を撮ることにした。\n\n皆一緒に写真を撮るために集まっているので、ドンキホーテの空席がひときわ大きく感じられた。\n\nカシャッという音と共に出てきた写真を受け取ると、パレードの行列が遠ざかり、空間が元に戻った。\n\n手にした写真もいつの間にか消え、血鬼たちが使っていた仮面だけが手に残っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "数人の囚人が血液を支払い、写真を撮ることにした。\n\n皆一緒に写真を撮るために集まっているので、ドンキホーテの空席がひときわ大きく感じられた。\n\nカシャッという音と共に出てきた写真を受け取ると、パレードの行列が遠ざかり、空間が元に戻った。\n\n手にした写真もいつの間にか消え、血鬼たちが使っていた仮面だけが手に残っていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "数人の囚人が血液を支払い、写真を撮ることにした。\n\n皆一緒に写真を撮るために集まっているので、ドンキホーテの空席がひときわ大きく感じられた。\n\nカシャッという音と共に出てきた写真を受け取ると、パレードの行列が遠ざかり、空間が元に戻った。\n\n手にした写真もいつの間にか消え、血鬼たちが使っていた仮面だけが手に残っていた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "数人の囚人が血液を支払い、写真を撮ることにした。\n\n皆一緒に写真を撮るために集まっているので、ドンキホーテの空席がひときわ大きく感じられた。\n\nカシャッという音と共に出てきた写真を受け取ると、パレードの行列が遠ざかり、空間が元に戻った。\n\n手にした写真もいつの間にか消え、血鬼たちが使っていた仮面だけが手に残っていた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n몇몇 수감자들이 혈액을 지불하고 사진을 찍기로 했다.\n\n다 같이 사진을 찍기 위해 모여있으니, 돈키호테의 빈자리가 유독 크게 느껴진다.\n\n찰칵, 하는 소리와 함께 나온 사진을 받아들자, 퍼레이드의 행렬이 멀어지며 공간이 원래대로 돌아왔다.\n\n손에 쥔 사진도 어느새 사라지고, 혈귀들이 쓰던 가면만이 손에 남아있다.\nEN:\nSome Sinners agreed to pay with blood for some pictures.\n\nI can't help but feel the pain of Don Quixote's absence now that we're standing all together for a group photo.\n\nWhen we received the photograph, which appeared after the flash, the Parade marched far, far away from us as the warped space returned to normal.\n\nThe photograph in my hands was gone, replaced with a Bloodfiend's mask."
   },
   {
     "key": "1070103-options[1].message",
-    "original": "ここから逃れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ここから逃れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ここから逃れる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ここから逃れる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 곳에서 벗어난다.\nEN:\nGet out of here."
   },
   {
     "key": "1070103-options[1].result[0]",
-    "original": "写真を撮りながら無駄にする時間は無い。\n\n行列から抜け出し、このまま前へ進むことにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "写真を撮りながら無駄にする時間は無い。\n\n行列から抜け出し、このまま前へ進むことにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "写真を撮りながら無駄にする時間は無い。\n\n行列から抜け出し、このまま前へ進むことにした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "写真を撮りながら無駄にする時間は無い。\n\n行列から抜け出し、このまま前へ進むことにした。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사진을 찍으며 낭비할 시간은 없다.\n\n행렬을 벗어나 계속 앞으로 나아가기로 했다.\nEN:\nThere's no time to waste on pictures.\n\nWe decided to continue walking past the Parade."
   },
   {
     "key": "10702-desc",
-    "original": "巨大な隔離室の扉が見える。\n\n迷路を通り抜けるためには、あそこを越えなければならないようだ。\n\n道のそばに見慣れない機械が見える。\n\nラ・マンチャランドのイベント期間中に使用した景品抽選マシンのようだ。\n\n少しの血液でお役に立てる商品を！\n\n派手なフォントで宣伝文句が書いてある。\n\n機械から何か役に立つものが出てくるんじゃないかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "巨大な隔離室の扉が見える。\n\n迷路を通り抜けるためには、あそこを越えなければならないようだ。\n\n道のそばに見慣れない機械が見える。\n\nラ・マンチャランドのイベント期間中に使用した景品抽選マシンのようだ。\n\n少しの血液でお役に立てる商品を！\n\n派手なフォントで宣伝文句が書いてある。\n\n機械から何か役に立つものが出てくるんじゃないかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "巨大な隔離室の扉が見える。\n\n迷路を通り抜けるためには、あそこを越えなければならないようだ。\n\n道のそばに見慣れない機械が見える。\n\nラ・マンチャランドのイベント期間中に使用した景品抽選マシンのようだ。\n\n少しの血液でお役に立てる商品を！\n\n派手なフォントで宣伝文句が書いてある。\n\n機械から何か役に立つものが出てくるんじゃないかな？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "巨大な隔離室の扉が見える。\n\n迷路を通り抜けるためには、あそこを越えなければならないようだ。\n\n道のそばに見慣れない機械が見える。\n\nラ・マンチャランドのイベント期間中に使用した景品抽選マシンのようだ。\n\n少しの血液でお役に立てる商品を！\n\n派手なフォントで宣伝文句が書いてある。\n\n機械から何か役に立つものが出てくるんじゃないかな？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n거대한 격리실의 문이 보인다.\n\n미로를 빠져나가기 위해서는 저곳을 넘어가야할 것 같다.\n\n길 옆에 낯선 기계가 보인다.\n\n라만차랜드에서 이벤트 기간에 사용했던 경품 추첨기인 듯하다.\n\n약간의 혈액으로 유용한 상품을!\n\n화려한 글씨체로 홍보 문구가 쓰여있다.\n\n기계에서 무언가 도움이 될만한 것이 있지 않을까?\nEN:\nWe see a door to a giant containment chamber.\n\nWe're going to have to get through that to escape this maze.\n\nThere's an unfamiliar machine on the road to the chamber.\n\nIt must be a raffle machine La Manchaland used during event periods.\n\n<i>A little bit of blood for something very useful!</i>\n\nThere's an advertisement written in elaborate typography.\n\nMaybe we'll be able to find 'something very useful' in there?"
   },
   {
     "key": "10702-options[0].message",
-    "original": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 지불하고 경품 추첨에 도전한다.\nEN:\nPay with Blood to enter the raffle."
   },
   {
     "key": "10702-options[0].messageDesc",
-    "original": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n무작위 수감자 1명의 체력 감소. 일정 확률로 E.G.O 기프트 획득\nEN:\nA random Sinner loses HP. Random chance to gain an E.G.O Gift"
   },
   {
     "key": "10702-options[0].result[0]",
-    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자가 피를 지불하자, 추첨기가 요란하게 작동을 시작했다.\n\n꽝입니다!\n\n어딘가 슬픈 음악과 함께 기계가 작동을 멈추고 조용해졌다.\n\n쉽게 뽑을 수 있는 경품은 아닌 모양이다.\nEN:\nWhen the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>You get... nothing!</i>\n\nWith a sad jingle, the machine comes to a slow stop before falling silent.\n\nThe chances of pulling what we want is probably pretty low."
   },
   {
     "key": "10702-options[0].result[1]",
-    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자가 피를 지불하자, 추첨기가 요란하게 작동을 시작했다.\n\n축하합니다!\n\n신나는 음악과 함께 기계에서 피로 이루어진 큐브 모양 결정이 나왔다.\n\n어딘가 쓸모가 있을지도.\nEN:\nWhen the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>YOU WIN! YOU WIN!</i>\n\nA loud, jolly jingle plays, and a cube-shaped crystal made of blood rolls out of the machine.\n\nIt might be useful for something."
   },
   {
     "key": "10702-options[1].message",
-    "original": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경품 추첨기를 부순다.\nEN:\nDestroy the raffle machine."
   },
   {
     "key": "10702-options[1].messageDesc",
-    "original": "…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...\nEN:\n..."
   },
   {
     "key": "10702-options[1].result[0]",
-    "original": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주변에는 수감자들 말고 아무도 보이지 않는다.\n\n굳이 수감자들의 피를 지불해서 추첨기를 돌릴 필요가 있을까?\n\n문득 추첨기를 부숴서 경품을 가져가면 된다는 생각이 들었다.\n\n기계를 부수라고 지시하자, 몇몇 수감자들이 신나게 추첨기를 박살냈다.\n\n그러자 기계가 기이하게 왜곡되더니, 거대한 죄종이 나타났다.\nEN:\nIt wasn't like there was anyone around to stop us.\n\nWhy pay with Sinners' blood to activate this raffle machine?\n\nCan't we just crack the thing open and take the prize in there?\n\nI order the Sinners to break the machine, and some Sinners were all too happy to oblige.\n\nThe machine begins to warp into a bizarre shape—then a massive peccatulum appears before us."
   },
   {
     "key": "10702-options[2].message",
-    "original": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "その場から離れる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "その場から離れる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자리를 떠난다.\nEN:\nLeave."
   },
   {
     "key": "10702-options[2].result[0]",
-    "original": "私たちに役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "私たちの役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>오식: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 정확: \"「私たちの役に立ちそうな」景品はなさそうだ。\"\n<CMT_EN>Typo: \"「私たちに役に立ちそうな」景品はなさそうだ。\" Correction: \"「私たちの役に立ちそうな」景品はなさそうだ。\"\n<CMT_JP>誤植: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 訂正後: \"「私たちの役に立ちそうな」景品はなさそうだ。\"",
+    "original": "私たちに役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私たちの役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>오기: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 정확: \"「私たちの役に立ちそうな」景品はなさそうだ。\"\n<CMT_JP>誤記: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 訂正後: \"「私たちの役に立ちそうな」景品はなさそうだ。\"",
     "stage": 1,
     "context": "KR:\n우리에게 도움이 될만한 경품은 없을 것 같다.\n\n추첨기를 무시하고 계속 앞으로 나아가기로 했다.\nEN:\nI doubt there's anything that's useful for us in there.\n\nWe decided to ignore the raffle machine and keep moving forward."
   },
   {
     "key": "1070201-desc",
-    "original": "少しの血液でお役に立てる商品が得られなかった。\n\n宣伝文句が嘘をついているんだろうか？\n\n単に運が悪かったのかもしれない。\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "少しの血液でお役に立てる商品が得られなかった。\n\n宣伝文句が嘘をついているんだろうか？\n\n単に運が悪かったのかもしれない。\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "少しの血液でお役に立てる商品が得られなかった。\n\n宣伝文句が嘘をついているんだろうか？\n\n単に運が悪かったのかもしれない。\n\nどうしようか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "少しの血液でお役に立てる商品が得られなかった。\n\n宣伝文句が嘘をついているんだろうか？\n\n単に運が悪かったのかもしれない。\n\nどうしようか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n약간의 혈액으로는 유용한 상품을 얻지 못했다.\n\n홍보 문구가 거짓말을 하고 있는 걸까?\n\n단순히 운이 좋지 않았던 걸지도 모른다.\n\n어떻게 할까?\nEN:\nA little bit of blood didn't give us anything.\n\nIs the advertisement text lying to us?\n\nOr maybe we were just unlucky.\n\nWhat should we do?"
   },
   {
     "key": "1070201-options[0].message",
-    "original": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血を差し出して景品抽選に挑戦する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 지불하고 경품 추첨에 도전한다.\nEN:\nPay with Blood to enter the raffle."
   },
   {
     "key": "1070201-options[0].messageDesc",
-    "original": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ランダムな囚人1名の体力が減少。一定確率でE.G.Oギフトを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n무작위 수감자 1명의 체력 감소. 일정 확률로 E.G.O 기프트 획득\nEN:\nA random Sinner loses HP. Random chance to gain an E.G.O Gift"
   },
   {
     "key": "1070201-options[0].result[0]",
-    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nハズレです！\n\nどこか悲しい音楽と共に機械が作動を止め、静かになった。\n\n簡単に取れる景品ではないようだ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자가 피를 지불하자, 추첨기가 요란하게 작동을 시작했다.\n\n꽝입니다!\n\n어딘가 슬픈 음악과 함께 기계가 작동을 멈추고 조용해졌다.\n\n쉽게 뽑을 수 있는 경품은 아닌 모양이다.\nEN:\nWhen the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>You get... nothing!</i>\n\nWith a sad jingle, the machine comes to a slow stop before falling silent.\n\nThe chances of pulling what we want is probably pretty low."
   },
   {
     "key": "1070201-options[0].result[1]",
-    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人が血を払うと、抽選機がけたたましく動き出した。\n\nおめでとうございます！\n\n楽しい音楽と共に、機械から血でできたキューブ型の結晶が出てきた。\n\nなにか使い道があるかも。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자가 피를 지불하자, 추첨기가 요란하게 작동을 시작했다.\n\n축하합니다!\n\n신나는 음악과 함께 기계에서 피로 이루어진 큐브 모양 결정이 나왔다.\n\n어딘가 쓸모가 있을지도.\nEN:\nWhen the Sinner pays with their blood, the raffle machine begins to whir loudly.\n\n<i>YOU WIN! YOU WIN!</i>\n\nA loud, jolly jingle plays, and a cube-shaped crystal made of blood rolls out of the machine.\n\nIt might be useful for something."
   },
   {
     "key": "1070201-options[1].message",
-    "original": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "景品抽選マシンを壊す。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경품 추첨기를 부순다.\nEN:\nDestroy the raffle machine."
   },
   {
     "key": "1070201-options[1].messageDesc",
-    "original": "…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...\nEN:\n..."
   },
   {
     "key": "1070201-options[1].result[0]",
-    "original": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "周辺には囚人以外に誰も見当たらない。\n\nあえて囚人たちの血を払って抽選マシンを回す必要はあるんだろうか？\n\nふと、抽選機を壊して景品を持っていけばいいのではと思った。\n\n機械を壊すように指示すると、何人かの囚人が楽しそうに抽選マシンをぶっ壊した。\n\nすると機械が奇妙に歪み、巨大な大罪が現れた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주변에는 수감자들 말고 아무도 보이지 않는다.\n\n굳이 수감자들의 피를 지불해서 추첨기를 돌릴 필요가 있을까?\n\n문득 추첨기를 부숴서 경품을 가져가면 된다는 생각이 들었다.\n\n기계를 부수라고 지시하자, 몇몇 수감자들이 신나게 추첨기를 박살냈다.\n\n그러자 기계가 기이하게 왜곡되더니, 거대한 죄종이 나타났다.\nEN:\nIt wasn't like there was anyone around to stop us.\n\nWhy pay with Sinners' blood to activate this raffle machine?\n\nCan't we just crack the thing open and take the prize in there?\n\nI order the Sinners to break the machine, and some Sinners were all too happy to oblige.\n\nThe machine begins to warp into a bizarre shape—then a massive peccatulum appears before us."
   },
   {
     "key": "1070201-options[2].message",
-    "original": "離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "離れる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "離れる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "離れる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n벗어난다.\nEN:\nLeave."
   },
   {
     "key": "1070201-options[2].result[0]",
-    "original": "私たちに役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "私たちの役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>오식: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 정확: \"「私たちの役に立ちそうな」景品はなさそうだ。\"\n<CMT_EN>Typo: \"「私たちに役に立ちそうな」景品はなさそうだ。\" Correction: \"「私たちの役に立ちそうな」景品はなさそうだ。\"\n<CMT_JP>誤植: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 訂正後: \"「私たちの役に立ちそうな」景品はなさそうだ。\"",
+    "original": "私たちに役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私たちの役に立ちそうな景品はなさそうだ。\n\n抽選マシンを無視して前に進み続けることにした。\n<CMT_KR>오기: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 정확: \"「私たちの役に立ちそうな」景品はなさそうだ。\"\n<CMT_JP>誤記: \"「私たちに役に立ちそうな」景品はなさそうだ。\" 訂正後: \"「私たちの役に立ちそうな」景品はなさそうだ。\"",
     "stage": 1,
     "context": "KR:\n우리에게 도움이 될만한 경품은 없을 것 같다.\n\n추첨기를 무시하고 계속 앞으로 나아가기로 했다.\nEN:\nI doubt there's anything that's useful for us in there.\n\nWe decided to ignore the raffle machine and keep moving forward."
   },
   {
     "key": "10703-desc",
-    "original": "「騎士とその従者が偉大なる冒険に出ている間。」\n\n「彼らの家族は、与えられた食事をしながら寂しい時間を過ごしました。」\n\n「その待つ時間に価値があったかどうかは分かりませんけどね。」\n\n冷笑的なナレーションがどこからか聞こえてくる。\n\n囚人たちの前には、その家族たちが食べていた食べ物が残っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「騎士とその従者が偉大なる冒険に出ている間。」\n\n「彼らの家族は、与えられた食事をしながら寂しい時間を過ごしました。」\n\n「その待つ時間に価値があったかどうかは分かりませんけどね。」\n\n冷笑的なナレーションがどこからか聞こえてくる。\n\n囚人たちの前には、その家族たちが食べていた食べ物が残っている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「騎士とその従者が偉大なる冒険に出ている間。」\n\n「彼らの家族は、与えられた食事をしながら寂しい時間を過ごしました。」\n\n「その待つ時間に価値があったかどうかは分かりませんけどね。」\n\n冷笑的なナレーションがどこからか聞こえてくる。\n\n囚人たちの前には、その家族たちが食べていた食べ物が残っている。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「騎士とその従者が偉大なる冒険に出ている間。」\n\n「彼らの家族は、与えられた食事をしながら寂しい時間を過ごしました。」\n\n「その待つ時間に価値があったかどうかは分かりませんけどね。」\n\n冷笑的なナレーションがどこからか聞こえてくる。\n\n囚人たちの前には、その家族たちが食べていた食べ物が残っている。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“기사와 그 종자가 대단한 모험을 떠난 사이.”\n\n“그들의 가족은 주어진 식사나 하며 쓸쓸한 시간을 보냈습니다.”\n\n“그 기다림에 가치가 있었는지는 모르겠지만요.”\n\n냉소적인 내레이션이 어디선가 들려온다.\n\n수감자들의 앞에 그 가족들이 먹던 음식이 남아있다.\nEN:\n\"While the noble Knight and his Squire was on their most wonderful adventure...\"\n\n\"The rest of their Family waited, chewing slowly on what subsistence they were availed.\"\n\n\"Though it is unclear whether all that waiting was worth it.\"\n\nA sarcastic, disembodied narration echoes from somewhere.\n\nBefore the Sinners, the 'subsistence' that the Family was eating appeared."
   },
   {
     "key": "10703-options[0].message",
-    "original": "血液バーを食べる。(不味い)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べる。(不味い)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べる。(不味い)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べる。(不味い)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 먹는다. (맛이 없다.)\nEN:\nEat the hemobar. (It is flavorless.)"
   },
   {
     "key": "10703-options[1].message",
-    "original": "やめておく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "やめておく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "やめておく。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "やめておく。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그만 둔다.\nEN:\nLeave it."
   },
   {
     "key": "10703-options[1].result[0]",
-    "original": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n먹지 않고 주변을 둘러보고 있자, 공간이 일렁이며 길이 열렸다.\n\n쉴 틈은 없다. 계속 나아가자.\nEN:\nWe waited for a while, refusing to eat that thing. The space around us warped and twisted, before opening a path ahead.\n\nThere's no time to rest. Let's keep moving."
   },
   {
     "key": "1070301-desc",
-    "original": "「彼らはあたふたと食べ物を平らげました。固くて、美味しくもないあの食べ物をです。」\n\n「しかし、そんなことで満たされる飢えではないでしょう。」\n\n「その虚しさに耐えられず、彼らは再び食べ物を手に握りました。」\n\n「食べ続ければ、その飢えが解消されるとでも思っているかのように。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「彼らはあたふたと食べ物を平らげました。固くて、美味しくもないあの食べ物をです。」\n\n「しかし、そんなことで満たされる飢えではないでしょう。」\n\n「その虚しさに耐えられず、彼らは再び食べ物を手に握りました。」\n\n「食べ続ければ、その飢えが解消されるとでも思っているかのように。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「彼らはあたふたと食べ物を平らげました。固くて、美味しくもないあの食べ物をです。」\n\n「しかし、そんなことで満たされる飢えではないでしょう。」\n\n「その虚しさに耐えられず、彼らは再び食べ物を手に握りました。」\n\n「食べ続ければ、その飢えが解消されるとでも思っているかのように。」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「彼らはあたふたと食べ物を平らげました。固くて、美味しくもないあの食べ物をです。」\n\n「しかし、そんなことで満たされる飢えではないでしょう。」\n\n「その虚しさに耐えられず、彼らは再び食べ物を手に握りました。」\n\n「食べ続ければ、その飢えが解消されるとでも思っているかのように。」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“그들은 허겁지겁 음식을 먹어 치웠습니다. 딱딱하고, 맛도 없는 그 음식을요.”\n\n“하지만 그런 것으로 채워질 허기가 아니겠죠.”\n\n“그 허전함을 참지 못하고 그들은 다시 음식을 손에 쥐었습니다.”\n\n“계속 먹으면 그 허기가 해소될 것처럼.”\nEN:\n\"They gobble down on that dry, flavorless 'food'.\"\n\n\"But their hunger is not the kind to be sated by such supplements.\"\n\n\"Unable to bear that hollow feeling, they tried to eat more of that food.\"\n\n\"As though they were trying to convince themselves that gorging on that thing would free them from this starvation.\""
   },
   {
     "key": "1070301-options[0].message",
-    "original": "血液バーを食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 먹는다.\nEN:\nEat the hemobar."
   },
   {
     "key": "1070301-options[1].message",
-    "original": "血液バーを食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 먹는다.\nEN:\nEat the hemobar."
   },
   {
     "key": "1070301-options[2].message",
-    "original": "やめておく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "やめておく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "やめておく。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "やめておく。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그만 둔다.\nEN:\nStop eating."
   },
   {
     "key": "1070301-options[2].result[0]",
-    "original": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n먹지 않고 주변을 둘러보고 있자, 공간이 일렁이며 길이 열렸다.\n\n쉴 틈은 없다. 계속 나아가자.\nEN:\nWe waited for a while, refusing to eat that thing. The space around us warped and twisted, before opening a path ahead.\n\nThere's no time to rest. Let's keep moving."
   },
   {
     "key": "1070302-desc",
-    "original": "「彼らは今回も食べ物をすべて平らげました。」\n\n「食べて、また食べて、口の中いっぱいに満たされるまで食べ物を詰め込みました。」\n\n「しかし、残念ながら…彼らはまだお腹が空いていました。」\n\n「愚かな家族は再び…その不味い食べ物を思う存分、前にずらりと並べていますね。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「彼らは今回も食べ物をすべて平らげました。」\n\n「食べて、また食べて、口の中いっぱいに満たされるまで食べ物を詰め込みました。」\n\n「しかし、残念ながら…彼らはまだお腹が空いていました。」\n\n「愚かな家族は再び…その不味い食べ物を思う存分、前にずらりと並べていますね。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「彼らは今回も食べ物をすべて平らげました。」\n\n「食べて、また食べて、口の中いっぱいに満たされるまで食べ物を詰め込みました。」\n\n「しかし、残念ながら…彼らはまだお腹が空いていました。」\n\n「愚かな家族は再び…その不味い食べ物を思う存分、前にずらりと並べていますね。」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「彼らは今回も食べ物をすべて平らげました。」\n\n「食べて、また食べて、口の中いっぱいに満たされるまで食べ物を詰め込みました。」\n\n「しかし、残念ながら…彼らはまだお腹が空いていました。」\n\n「愚かな家族は再び…その不味い食べ物を思う存分、前にずらりと並べていますね。」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“그들은 이번에도 음식을 모두 먹어 치웠습니다.”\n\n“먹고, 또 먹고, 입안이 가득 찰 때까지 음식을 쑤셔 넣었죠.”\n\n“그런데 안타깝게도… 그들은 여전히 배가 고팠습니다.”\n\n“어리석은 가족들은 또다시… 그 맛없는 음식을 양껏 앞에 늘어놓고 있네요.”\nEN:\n\"Once again, they gobbled up the food.\"\n\n\"They ate, and ate, and ate until they could no longer stuff any more of it into their mouths.\"\n\n\"But oh, how unfortunate... They were <i>still hungry</i>.\"\n\n\"The Family once again witlessly begins to set their table with that flavorless food.\""
   },
   {
     "key": "1070302-options[0].message",
-    "original": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바 10개를 먹는다.\nEN:\nEat ten hemobars."
   },
   {
     "key": "1070302-options[0].messageDesc",
-    "original": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주의) 계속 먹을 경우 패널티가 있는 E.G.O GIFT 획득\nEN:\nWARNING) Continuing to eat will result in gaining an E.G.O Gift with a downside"
   },
   {
     "key": "1070302-options[1].message",
-    "original": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바 10개를 먹는다.\nEN:\nEat ten hemobars."
   },
   {
     "key": "1070302-options[1].messageDesc",
-    "original": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주의) 계속 먹을 경우 패널티가 있는 E.G.O GIFT 획득\nEN:\nWARNING) Continuing to eat will result in gaining an E.G.O Gift with a downside"
   },
   {
     "key": "1070302-options[2].message",
-    "original": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを10個食べる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바 10개를 먹는다.\nEN:\nEat ten hemobars."
   },
   {
     "key": "1070302-options[2].messageDesc",
-    "original": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "注意) 食べ続ける場合、ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주의) 계속 먹을 경우 패널티가 있는 E.G.O GIFT 획득\nEN:\nWARNING) Continuing to eat will result in gaining an E.G.O Gift with a downside"
   },
   {
     "key": "1070302-options[3].message",
-    "original": "やめておく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "やめておく。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "やめておく。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "やめておく。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그만 둔다.\nEN:\nStop eating."
   },
   {
     "key": "1070302-options[3].result[0]",
-    "original": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "食べずに周りを見回していると、空間が揺らめきながら道が開かれた。\n\n休む暇はない。進み続けよう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n먹지 않고 주변을 둘러보고 있자, 공간이 일렁이며 길이 열렸다.\n\n쉴 틈은 없다. 계속 나아가자.\nEN:\nWe waited for a while, refusing to eat that thing. The space around us warped and twisted, before opening a path ahead.\n\nThere's no time to rest. Let's keep moving."
   },
   {
     "key": "1070303-desc",
-    "original": "「それでも純真な彼らは、量が少ないからお腹が空いていると考えているようです。」\n\n「いつまで無意味な食事を繰り返すのか…見守ることにしましょう。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「それでも純真な彼らは、量が少ないからお腹が空いていると考えているようです。」\n\n「いつまで無意味な食事を繰り返すのか…見守ることにしましょう。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「それでも純真な彼らは、量が少ないからお腹が空いていると考えているようです。」\n\n「いつまで無意味な食事を繰り返すのか…見守ることにしましょう。」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「それでも純真な彼らは、量が少ないからお腹が空いていると考えているようです。」\n\n「いつまで無意味な食事を繰り返すのか…見守ることにしましょう。」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“여전히 순진한 그들은 많이 먹지 못해서 배고프다고 생각하는 모양입니다.”\n\n“언제까지 무의미한 식사를 반복할지… 지켜보도록 하죠.”\nEN:\n\"It seems that they, in their endless naïveté, still believe that they simply haven't eaten enough food.\"\n\n\"Let's see how long this... meaningless banquet lasts.\""
   },
   {
     "key": "1070303-options[0].message",
-    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 계속 먹는다.\nEN:\nKeep eating the hemobars."
   },
   {
     "key": "1070303-options[0].messageDesc",
-    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패널티가 있는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift with downsides"
   },
   {
     "key": "1070303-options[0].result[0]",
-    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“가족들은 먹고, 또 먹으며 간절히 바랐습니다.”\n\n“더 이상 배고프지 않기를.”\n\n“그 다음에는 기대를 품었죠.”\n\n“기사와 그 종자가 돌아오면 이 배고픔이 해소되지 않을까.”\n\n“당연히 그들이 돌아온다해도 허기는 채워지지 않을 겁니다.”\n\n“영원히.”\n\n내레이션이 끝나자, 끝없는 허기가 전해져 온다.\n\n모든 수감자가 굶주림을 느끼는 듯, 힘들어하는 모습이다.\n\n하지만 배를 채우고 갈 시간도 없이 길이 열렸다.\n\n이번에도 앞으로 나아가는 수밖에.\nEN:\n\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
   },
   {
     "key": "1070303-options[1].message",
-    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 계속 먹는다.\nEN:\nKeep eating the hemobars."
   },
   {
     "key": "1070303-options[1].messageDesc",
-    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패널티가 있는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift with downsides"
   },
   {
     "key": "1070303-options[1].result[0]",
-    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“가족들은 먹고, 또 먹으며 간절히 바랐습니다.”\n\n“더 이상 배고프지 않기를.”\n\n“그 다음에는 기대를 품었죠.”\n\n“기사와 그 종자가 돌아오면 이 배고픔이 해소되지 않을까.”\n\n“당연히 그들이 돌아온다해도 허기는 채워지지 않을 겁니다.”\n\n“영원히.”\n\n내레이션이 끝나자, 끝없는 허기가 전해져 온다.\n\n모든 수감자가 굶주림을 느끼는 듯, 힘들어하는 모습이다.\n\n하지만 배를 채우고 갈 시간도 없이 길이 열렸다.\n\n이번에도 앞으로 나아가는 수밖에.\nEN:\n\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
   },
   {
     "key": "1070303-options[2].message",
-    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 계속 먹는다.\nEN:\nKeep eating the hemobars."
   },
   {
     "key": "1070303-options[2].messageDesc",
-    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패널티가 있는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift with downsides"
   },
   {
     "key": "1070303-options[2].result[0]",
-    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“가족들은 먹고, 또 먹으며 간절히 바랐습니다.”\n\n“더 이상 배고프지 않기를.”\n\n“그 다음에는 기대를 품었죠.”\n\n“기사와 그 종자가 돌아오면 이 배고픔이 해소되지 않을까.”\n\n“당연히 그들이 돌아온다해도 허기는 채워지지 않을 겁니다.”\n\n“영원히.”\n\n내레이션이 끝나자, 끝없는 허기가 전해져 온다.\n\n모든 수감자가 굶주림을 느끼는 듯, 힘들어하는 모습이다.\n\n하지만 배를 채우고 갈 시간도 없이 길이 열렸다.\n\n이번에도 앞으로 나아가는 수밖에.\nEN:\n\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
   },
   {
     "key": "1070303-options[3].message",
-    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血液バーを食べ続ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n혈액바를 계속 먹는다.\nEN:\nKeep eating the hemobars."
   },
   {
     "key": "1070303-options[3].messageDesc",
-    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ペナルティーのあるE.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패널티가 있는 E.G.O GIFT 획득\nEN:\nGain an E.G.O Gift with downsides"
   },
   {
     "key": "1070303-options[3].result[0]",
-    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「家族は食べて、また食べながら切に願っていました。」\n\n「これ以上お腹が空かないことを。」\n\n「その次は期待を抱いていました。」\n\n「騎士とその従者が帰ってくれば、この空腹が解消されるのではないか。」\n\n「当然彼らが帰って来たとしても、餓えは満たされないでしょう。」\n\n「永遠に。」\n\nナレーションが終わると、絶え間ない餓えが伝わってくる。\n\n全ての囚人が、餓えを感じてるかのように苦しんでいる様子だ。\n\nしかし、腹を満たして行く時間もなく道は開かれた。\n\n今回も前に進むしかない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“가족들은 먹고, 또 먹으며 간절히 바랐습니다.”\n\n“더 이상 배고프지 않기를.”\n\n“그 다음에는 기대를 품었죠.”\n\n“기사와 그 종자가 돌아오면 이 배고픔이 해소되지 않을까.”\n\n“당연히 그들이 돌아온다해도 허기는 채워지지 않을 겁니다.”\n\n“영원히.”\n\n내레이션이 끝나자, 끝없는 허기가 전해져 온다.\n\n모든 수감자가 굶주림을 느끼는 듯, 힘들어하는 모습이다.\n\n하지만 배를 채우고 갈 시간도 없이 길이 열렸다.\n\n이번에도 앞으로 나아가는 수밖에.\nEN:\n\"The family ate, and ate, and ate in that desperate wish.\"\n\n\"That this painful hunger might go away.\"\n\n\"What came next was an anticipation, of sorts.\"\n\n\"That maybe, just maybe, this hunger might go away once the Knight and his Squire returns from their adventure.\"\n\n\"But it won't go away.\"\n\n\"It never will.\"\n\nWe begin to feel a sudden, bottomless hunger once the narration ends.\n\nEvery Sinner lurches over from hunger so intense that it became pain.\n\nBut the path opens, without any time for us to fill our stomachs.\n\nNo choice but to keep moving, I suppose."
   },
   {
     "key": "10704-desc",
-    "original": "尖った茨が道を塞いでいる。\n\n「騎士と従者の冒険は長い間続きました。」\n\n「彼らはいろんな、そして数多くの冒険を楽しんだのです。」\n\n「その中でどんな冒険が一番興味深かったですか？」\n\nナレーションが聞こえてくる。\n\n何て答えればいいんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "尖った茨が道を塞いでいる。\n\n「騎士と従者の冒険は長い間続きました。」\n\n「彼らはいろんな、そして数多くの冒険を楽しんだのです。」\n\n「その中でどんな冒険が一番興味深かったですか？」\n\nナレーションが聞こえてくる。\n\n何て答えればいいんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "尖った茨が道を塞いでいる。\n\n「騎士と従者の冒険は長い間続きました。」\n\n「彼らはいろんな、そして数多くの冒険を楽しんだのです。」\n\n「その中でどんな冒険が一番興味深かったですか？」\n\nナレーションが聞こえてくる。\n\n何て答えればいいんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "尖った茨が道を塞いでいる。\n\n「騎士と従者の冒険は長い間続きました。」\n\n「彼らはいろんな、そして数多くの冒険を楽しんだのです。」\n\n「その中でどんな冒険が一番興味深かったですか？」\n\nナレーションが聞こえてくる。\n\n何て答えればいいんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뾰족한 가시덤불이 길을 막아서고 있다.\n\n”기사와 종자의 모험은 오랫동안 계속 이어졌습니다.”\n\n”그들은 다양하고 많은 모험을 즐겼죠.”\n\n”그 중 어떤 모험이 가장 흥미로웠나요?”\n\n내레이션이 들려온다.\n\n어떤 대답을 해야할까?\nEN:\nA mass of brambles, its thorns sharp, stands in our way.\n\n\"The Knight and the Squire adventured together for a long, long time.\"\n\n\"They enjoyed so many adventures together.\"\n\n\"Which one of them was the most interesting?\"\n\nThe narration, again.\n\nWhat should we say?"
   },
   {
     "key": "10704-options[0].message",
-    "original": "当然、大きな巨人たちと勝負をしたことである\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "当然、大きな巨人たちと勝負をしたことである\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "当然、大きな巨人たちと勝負をしたことである\n<CMT_KR>\n<CMT_JP>",
+    "translation": "当然、大きな巨人たちと勝負をしたことである\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n당연히 거대한 거인들과 승부를 벌인 일이지\nEN:\nForsooth, 'twas the battle against the mountainous giants"
   },
   {
     "key": "10704-options[0].messageDesc",
-    "original": "憤怒・傲慢属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憤怒・傲慢属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憤怒・傲慢属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憤怒・傲慢属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분노, 오만 속성 E.G.O 자원 획득\nEN:\nGain Wrath and Pride E.G.O resources"
   },
   {
     "key": "10704-options[0].result[0]",
-    "original": "「騎士と従者は遠い昔、巨人たちと熾烈な勝負を繰り広げました。」\n\n「つまらないことに…全ての勝負は騎士の勝利に終わりました。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「騎士と従者は遠い昔、巨人たちと熾烈な勝負を繰り広げました。」\n\n「つまらないことに…全ての勝負は騎士の勝利に終わりました。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「騎士と従者は遠い昔、巨人たちと熾烈な勝負を繰り広げました。」\n\n「つまらないことに…全ての勝負は騎士の勝利に終わりました。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「騎士と従者は遠い昔、巨人たちと熾烈な勝負を繰り広げました。」\n\n「つまらないことに…全ての勝負は騎士の勝利に終わりました。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“기사와 종자는 먼옛날 거인들과 치열한 승부를 벌였습니다.”\n\n”재미없게도… 모든 승부는 기사의 승리로 끝이 났죠.”\n\n”다음에는 어떤 모험이 기다리고 있을까요?”\nEN:\n\"A long, long time ago, the Knight and the Squire warred against the giants.\"\n\n\"But it wasn't very exciting, as it always ended with the Knight's victory.\"\n\n\"What other adventure awaits, one must wonder.\""
   },
   {
     "key": "10704-options[1].message",
-    "original": "困難に陥った村を救ったことである\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "困難に陥った村を救ったことである\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "困難に陥った村を救ったことである\n<CMT_KR>\n<CMT_JP>",
+    "translation": "困難に陥った村を救ったことである\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n곤경에 처한 마을을 구해준 일이라네\nEN:\n'Twas the deliverance of a troubled village from evil, verily"
   },
   {
     "key": "10704-options[1].messageDesc",
-    "original": "色欲・暴食属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "色欲・暴食属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "色欲・暴食属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・暴食属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n색욕, 탐식 속성 E.G.O 자원 획득\nEN:\nGain Lust and Gluttony E.G.O resources"
   },
   {
     "key": "10704-options[1].result[0]",
-    "original": "「騎士と従者は、困難に陥った村を救いました。」\n\n「力を隠している彼らにとっては、あまりにも簡単なことでしたね。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「騎士と従者は、困難に陥った村を救いました。」\n\n「力を隠している彼らにとっては、あまりにも簡単なことでしたね。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「騎士と従者は、困難に陥った村を救いました。」\n\n「力を隠している彼らにとっては、あまりにも簡単なことでしたね。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「騎士と従者は、困難に陥った村を救いました。」\n\n「力を隠している彼らにとっては、あまりにも簡単なことでしたね。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“기사와 종자는 곤경에 처한 마을을 구해냈습니다.”\n\n”힘을 숨기고 있는 그들에겐 너무나 손쉬운 일이었죠.”\n\n”다음에는 어떤 모험이 기다리고 있을까요?”\nEN:\n\"The Knight and the Squire rescued the troubled village.\"\n\n\"It was so, so easy for them, as they were two mighty beings hiding their true strengths.\"\n\n\"What other adventure awaits, one must wonder.\""
   },
   {
     "key": "10704-options[2].message",
-    "original": "マンブリーノの兜を得たことである\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マンブリーノの兜を得たことである\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マンブリーノの兜を得たことである\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マンブリーノの兜を得たことである\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n맘브리노 투구를 얻은 일이지\nEN:\nIndeed, 'twas the adventure for the helm of Mambrino"
   },
   {
     "key": "10704-options[2].messageDesc",
-    "original": "憂鬱・嫉妬属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憂鬱・嫉妬属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憂鬱・嫉妬属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憂鬱・嫉妬属性のE.G.O資源獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n우울, 질투 속성 E.G.O 자원 획득\nEN:\nGain Gloom and Envy E.G.O resources"
   },
   {
     "key": "10704-options[2].result[0]",
-    "original": "「騎士と従者は困難な旅路の末、偉大なるマンブリーノの兜を得ました。」\n\n「その兜がどんな力を持っているかは、露知らずにです。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「騎士と従者は困難な旅路の末、偉大なるマンブリーノの兜を得ました。」\n\n「その兜がどんな力を持っているかは、露知らずにです。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「騎士と従者は困難な旅路の末、偉大なるマンブリーノの兜を得ました。」\n\n「その兜がどんな力を持っているかは、露知らずにです。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「騎士と従者は困難な旅路の末、偉大なるマンブリーノの兜を得ました。」\n\n「その兜がどんな力を持っているかは、露知らずにです。」\n\n「次はどんな冒険が待っているのでしょうか？」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n“기사와 종자는 힘겨운 여정 끝에 위대한 맘브리노 투구를 얻었습니다.”\n\n”그 투구가 어떤 힘을 가지고 있는지는 꿈에도 모른 채 말이죠.”\n\n”다음에는 어떤 모험이 기다리고 있을까요?”\nEN:\n\"After a long, trying journey, the Knight and the Squire claimed the great helm of Mambrino as their own.\"\n\n\"Clueless about the helm's true powers.\"\n\n\"What other adventure awaits, one must wonder.\""
   }

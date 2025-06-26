@@ -1,43 +1,43 @@
 [
   {
     "key": "daily_login_event_title-content",
-    "original": "出席チェックイベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "出席チェックイベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "出席チェックイベント\n<CMT_KR>\n<CMT_JP>",
+    "translation": "出席チェックイベント\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n출석 체크 이벤트\nEN:\nRoll Call Event"
   },
   {
     "key": "daily_login_event_description-content",
-    "original": "※ゲーム内のデイリーリセットを基準(D-0 06:00 ~ D+1 05:59 (JST))に、出席当日の報酬を獲得することができます。\n※報酬を受け取らない場合、次の日に期限満了として処理されるので必ずお受け取りください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "※ゲーム内のデイリーリセットを基準(D-0 06:00 ~ D+1 05:59 (JST))に、出席当日の報酬を獲得することができます。\n※報酬を受け取らない場合、次の日に期限満了として処理されるので必ずお受け取りください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "※ゲーム内のデイリーリセットを基準(D-0 06:00 ~ D+1 05:59 (JST))に、出席当日の報酬を獲得することができます。\n※報酬を受け取らない場合、次の日に期限満了として処理されるので必ずお受け取りください。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "※ゲーム内のデイリーリセットを基準(D-0 06:00 ~ D+1 05:59 (JST))に、出席当日の報酬を獲得することができます。\n※報酬を受け取らない場合、次の日に期限満了として処理されるので必ずお受け取りください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n※ 게임 내 일간 초기화를 기준(D-0 06:00 ~ D+1 05:59 (KST))으로, 출석 당일의 보상을 획득할 수 있습니다.\n※ 수령하지 않은 보상의 경우에는 다음 날에 기한 만료로 처리되오니 반드시 보상을 수령해주시길 바랍니다.\nEN:\n※ You can receive log-in rewards each day when entering the game based on the game’s daily resets (D-0 06:00 ~ D+1 05:59 &lt;KST&gt;).\n※ Unclaimed rewards are lost the next day, so please make sure to redeem them in time."
   },
   {
     "key": "daily_login_event_weekly_format-content",
-    "original": "{0}週目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{0}週目\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{0}週目\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{0}週目\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n{0}주차\nEN:\nWeek {0}"
   },
   {
     "key": "daily_login_halloween_title-content",
-    "original": "ハロウィン出席チェックイベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ハロウィン出席チェックイベント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ハロウィン出席チェックイベント\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハロウィン出席チェックイベント\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n할로윈 출석 체크 이벤트\nEN:\nHalloween Attendance Check Event"
   },
   {
     "key": "daily_login_halloween_desc-content",
-    "original": "▶累計7日ログイン時、「抽出10回チケット報酬」を獲得することができます\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "▶累計7日ログイン時、「抽出10回チケット報酬」を獲得することができます\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "▶累計7日ログイン時、「抽出10回チケット報酬」を獲得することができます\n<CMT_KR>\n<CMT_JP>",
+    "translation": "▶累計7日ログイン時、「抽出10回チケット報酬」を獲得することができます\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n▶누적 7일 접속 시, 「추출 10회 티켓 보상」을 얻을 수 있습니다\nEN:\n▶ Receive a 「Decaextraction Ticket」 by collecting 7 Attendance Checks"
   },
   {
     "key": "daily_login_seventh_anniversary_desc-content",
-    "original": "イベント期間中ログイン時、\n抽出10回チケット獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "イベント期間中ログイン時、\n抽出10回チケット獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "イベント期間中ログイン時、\n抽出10回チケット獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イベント期間中ログイン時、\n抽出10回チケット獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이벤트 기간 내 접속 시, 추출 10회 티켓 획득\nEN:\nLog in during the event period\nand receive a Decaextraction Ticket"
   }

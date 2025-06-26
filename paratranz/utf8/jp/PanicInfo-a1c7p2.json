@@ -1,43 +1,43 @@
 [
   {
     "key": "1030-panicName",
-    "original": "虚無のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "虚無のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "虚無のくびき\n<CMT_KR>\n<CMT_JP>",
+    "translation": "虚無のくびき\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n허무의 굴레\nEN:\nBridle of Nihility"
   },
   {
     "key": "1030-lowMoraleDescription",
-    "original": "ターン開始時、[Enhancement]1, [DefenseDown]3を得る。ターン終了時に精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[Enhancement]1, [DefenseDown]3を得る。ターン終了時に精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[Enhancement]1, [DefenseDown]3を得る。ターン終了時に精神力に5ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Enhancement]1, [DefenseDown]3を得る。ターン終了時に精神力に5ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [Enhancement] 1, [DefenseDown] 3 얻음. 턴 종료 시, 정신력 5 피해.\nEN:\nTurn Start: gain 1 [Enhancement] and 3 [DefenseDown]. Take 5 SP at Turn End."
   },
   {
     "key": "1030-panicDescription",
-    "original": "ターン開始時、[Enhancement]2, [DefenseDown]6を得る。ターン終了時に精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[Enhancement]2, [DefenseDown]6を得る。ターン終了時に精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[Enhancement]2, [DefenseDown]6を得る。ターン終了時に精神力を10回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Enhancement]2, [DefenseDown]6を得る。ターン終了時に精神力を10回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [Enhancement] 2, [DefenseDown] 6 얻음. 턴 종료 시, 정신력 10 회복.\nEN:\nTurn Start: gain 2 [Enhancement] and 6 [DefenseDown]. Heal 10 SP at Turn End."
   },
   {
     "key": "9996-panicName",
-    "original": "棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시\nEN:\nThorns"
   },
   {
     "key": "9996-lowMoraleDescription",
-    "original": "マッチ勝利時、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시, [AttackDmgUp] 1 얻음\nEN:\nOn Clash Win, gain 1 [AttackDmgUp]"
   },
   {
     "key": "9996-panicDescription",
-    "original": "マッチ勝利時、[AttackDmgUp]1を得る。ターン終了時、次のターンの間[ParryingResultUp]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、[AttackDmgUp]1を得る。ターン終了時、次のターンの間[ParryingResultUp]2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、[AttackDmgUp]1を得る。ターン終了時、次のターンの間[ParryingResultUp]2を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、[AttackDmgUp]1を得る。ターン終了時、次のターンの間[ParryingResultUp]2を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시, [AttackDmgUp] 1 얻음. 턴 종료 시, 다음 턴에 [ParryingResultUp] 2 얻음.\nEN:\nOn Clash Win, gain 1 [AttackDmgUp]. At Turn End, gain 2 [ParryingResultUp] next turn."
   }

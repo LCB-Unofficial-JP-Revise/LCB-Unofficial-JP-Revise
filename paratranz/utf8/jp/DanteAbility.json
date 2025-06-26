@@ -1,43 +1,43 @@
 [
   {
     "key": "90101-desc",
-    "original": "- 全キャラクターのターゲットが解除されます。\n- ターン開始フェーズの時に発動した効果は更新されません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 全キャラクターのターゲットが解除されます。\n- ターン開始フェーズの時に発動した効果は更新されません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 全キャラクターのターゲットが解除されます。\n- ターン開始フェーズの時に発動した効果は更新されません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 全キャラクターのターゲットが解除されます。\n- ターン開始フェーズの時に発動した効果は更新されません。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 모든 캐릭터의 타겟팅이 해제됩니다.\n- 턴 시작 페이즈 때 발동된 효과는 갱신되지 않습니다.\nEN:\n- Targeting for all Skills will be reset.\n- Effects activated at Turn Start will not be updated."
   },
   {
     "key": "90101-rawDesc",
-    "original": "全ての敵の速度が半減します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全ての敵の速度が半減します。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全ての敵の速度が半減します。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全ての敵の速度が半減します。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 적의 속도가 절반으로 감소합니다.\nEN:\nHalve the Speed of all enemies."
   },
   {
     "key": "80101-desc",
-    "original": "- 全キャラクターの生成されたE.G.Oスキルが初期化され、ターゲットが解除されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 全キャラクターの生成されたE.G.Oスキルが初期化され、ターゲットが解除されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 全キャラクターの生成されたE.G.Oスキルが初期化され、ターゲットが解除されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 全キャラクターの生成されたE.G.Oスキルが初期化され、ターゲットが解除されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 모든 캐릭터의 생성된 E.G.O 스킬이 초기화되고, 타겟팅이 해제됩니다.\nEN:\n- Resets any slotted E.G.O Skills for all characters, and targeting for all Skills will be reset."
   },
   {
     "key": "80101-rawDesc",
-    "original": "E.G.Oスキルを資源消耗無しに1回生成できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.Oスキルを資源消耗無しに1回生成できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.Oスキルを資源消耗無しに1回生成できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.Oスキルを資源消耗無しに1回生成できます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 스킬을 자원 소모 없이 1회 생성할 수 있습니다.\nEN:\nSlot in a single E.G.O Skill without consuming any E.G.O resources."
   },
   {
     "key": "70101-desc",
-    "original": "- 全キャラクターの攻撃レベルと防御レベルが3ターンの間平均化されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 全キャラクターの攻撃レベルと防御レベルが3ターンの間平均化されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 全キャラクターの攻撃レベルと防御レベルが3ターンの間平均化されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 全キャラクターの攻撃レベルと防御レベルが3ターンの間平均化されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 모든 캐릭터의 공격 레벨과 방어 레벨이 3턴 동안 평균을 이룹니다.\nEN:\n- For 3 turns, set all units' Offense and Defense Levels to the average of all units' values."
   },
   {
     "key": "70101-rawDesc",
-    "original": "全キャラクターの攻撃レベルと防御レベルが平均化されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全キャラクターの攻撃レベルと防御レベルが平均化されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全キャラクターの攻撃レベルと防御レベルが平均化されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全キャラクターの攻撃レベルと防御レベルが平均化されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 캐릭터의 공격 레벨과 방어 레벨이 평균을 이룹니다.\nEN:\nSet all units' Offense and Defense Levels to the average of all units' values."
   }

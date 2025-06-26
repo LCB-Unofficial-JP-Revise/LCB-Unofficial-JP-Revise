@@ -1,134 +1,134 @@
 [
   {
     "key": "ADDITIONAL_COST_START-description",
-    "original": "開始コスト +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "開始コスト +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "開始コスト +{0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "開始コスト +{0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nStarting Cost +{0}"
   },
   {
     "key": "ADDITIONAL_COST_AFTER_WIN_BATTLE-description",
-    "original": "戦闘勝利時、コスト{0}を追加で獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘勝利時、コスト{0}を追加で獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘勝利時、コスト{0}を追加で獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘勝利時、コスト{0}を追加で獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nGain {0} more Cost after winning a combat encounter"
   },
   {
     "key": "EGO_RESOURCE-description",
-    "original": "全スキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全スキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全スキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全スキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nE.G.O resource for all Affinities +{0}"
   },
   {
     "key": "EGO_RESOURCE_FORMATION-description",
-    "original": "最初の編成人格が保有するスキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "最初の編成人格が保有するスキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "最初の編成人格が保有するスキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最初の編成人格が保有するスキル属性のE.G.O資源 +{0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nE.G.O resource for Affinities of starting Identities +{0}"
   },
   {
     "key": "HP_RECOVER_RATE_AFTER_WIN_BATTLE-description",
-    "original": "戦闘勝利時、体力を最大値の{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘勝利時、体力を最大値の{0}% 回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘勝利時、体力を最大値の{0}% 回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘勝利時、体力を最大値の{0}% 回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nAfter winning a combat encounter, heal {0}% of Max HP"
   },
   {
     "key": "MP_RECOVER_NUMBER_AFTER_EVENT_ENCOUNTER-description",
-    "original": "イベントエンカウント終了時、精神力を{0}回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "イベントエンカウント終了時、精神力を{0}回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "イベントエンカウント終了時、精神力を{0}回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イベントエンカウント終了時、精神力を{0}回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nAfter an event encounter, heal {0} SP"
   },
   {
     "key": "AttackLevelAdder-description",
-    "original": "攻撃レベル +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃レベル +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃レベル +{0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃レベル +{0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nOffense Level +{0}"
   },
   {
     "key": "AttackLevelMultiply-description",
-    "original": "攻撃レベル +{0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃レベル +{0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃レベル +{0}%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃レベル +{0}%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nOffense Level +{0}%"
   },
   {
     "key": "DefenseLevelAdder-description",
-    "original": "防御レベル +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "防御レベル +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "防御レベル +{0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "防御レベル +{0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nDefense Level +{0}"
   },
   {
     "key": "DefenseLevelMultiply-description",
-    "original": "防御レベル +{0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "防御レベル +{0}%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "防御レベル +{0}%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "防御レベル +{0}%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nDefense Level +{0}%"
   },
   {
     "key": "MaxHpAdder-description",
-    "original": "体力最大値 +{0} 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力最大値 +{0} 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力最大値 +{0} 増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力最大値 +{0} 増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nMax HP +{0}"
   },
   {
     "key": "MaxHpMultiply-description",
-    "original": "体力最大値 +{0}% 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力最大値 +{0}% 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力最大値 +{0}% 増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力最大値 +{0}% 増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nMax HP +{0}%"
   },
   {
     "key": "MaxSpeedUpAdder-description",
-    "original": "速度の最大値 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "速度の最大値 +{0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "速度の最大値 +{0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "速度の最大値 +{0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nMax Speed +{0}"
   },
   {
     "key": "AttackDamageAdder-description",
-    "original": "与ダメージ量 +{0} 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +{0} 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +{0} 増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +{0} 増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nDamage Dealt +{0}"
   },
   {
     "key": "AttackDamageMultiply-description",
-    "original": "与ダメージ量 +{0}% 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +{0}% 増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +{0}% 増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +{0}% 増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nDamage Dealt +{0}%"
   },
   {
     "key": "TakeAttackDamageReducer-description",
-    "original": "被ダメージ量 {0} 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被ダメージ量 {0} 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被ダメージ量 {0} 減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被ダメージ量 {0} 減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nDamage Taken -{0}"
   },
   {
     "key": "TakeAttackDamageMultipliedReducer-description",
-    "original": "被ダメージ量 {0}% 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被ダメージ量 {0}% 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被ダメージ量 {0}% 減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被ダメージ量 {0}% 減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nDamage Taken -{0}%"
   },
   {
     "key": "StickCoinHeadAndTailToMaxPer-description",
-    "original": "{0}ターンごとに使用する味方人格スキルのコイン結果が、種類によって全て表面または裏面に決定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{0}ターンごとに使用する味方人格スキルのコイン結果が、種類によって全て表面または裏面に決定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{0}ターンごとに使用する味方人格スキルのコイン結果が、種類によって全て表面または裏面に決定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{0}ターンごとに使用する味方人格スキルのコイン結果が、種類によって全て表面または裏面に決定\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nEvery {0} turns, all Coins on each skill used by allies land on the same side depending on the Coin's type"
   },
   {
     "key": "RemoveBreakSection-description",
-    "original": "味方人格の最初の混乱区間を無効にする\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "味方人格の最初の混乱区間を無効にする\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "味方人格の最初の混乱区間を無効にする\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方人格の最初の混乱区間を無効にする\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "EN:\nThe 1st stagger thresholds of allies are nullified"
   }

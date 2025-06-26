@@ -1,141 +1,141 @@
 [
   {
     "key": "857701_abm_success_1_1-content",
-    "original": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;모든 수감자의&lt;/color&gt; %{0}/% 사라짐.\nEN:\n&lt;color=#ebcaa2&gt;All Sinners&lt;/color&gt; lose %{0}/%."
   },
   {
     "key": "857701_abm_success_1_2-content",
-    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0}</color> %{1} {2}/% 減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% 減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0}</color> %{1} {2}/% 減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; %{1} {2}/% 감소\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; loses %{2} {1}/%"
   },
   {
     "key": "857701_abm_failure_1_1-content",
-    "original": "<color=#ebcaa2>全囚人の</color> <color=#e30000>{0}と{0}回数</color>をそれぞれ足して囚人の数で割り、全囚人へ<color=#e30000>{0}と{0}回数</color>を付与。(最小1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>全囚人の</color> <color=#e30000>{0}と{0}回数</color>をそれぞれ足して囚人の数で割り、全囚人へ<color=#e30000>{0}と{0}回数</color>を付与。(最小1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>全囚人の</color> <color=#e30000>{0}と{0}回数</color>をそれぞれ足して囚人の数で割り、全囚人へ<color=#e30000>{0}と{0}回数</color>を付与。(最小1)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>全囚人の</color> <color=#e30000>{0}と{0}回数</color>をそれぞれ足して囚人の数で割り、全囚人へ<color=#e30000>{0}と{0}回数</color>を付与。(最小1)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;모든 수감자의&lt;/color&gt; &lt;color=#e30000&gt;{0}과 {0} 횟수&lt;/color&gt;를 각각 더해 수감자 수만큼 나눠 모든 수감자에게 &lt;color=#e30000&gt;{0}과 {0} 횟수&lt;/color&gt; 횟수를 부여함. (최소 1)\nEN:\nAdd up &lt;color=#ebcaa2&gt;{0} and {0}&lt;/color&gt; Count respectively on &lt;color=#ebcaa2&gt;all Sinners&lt;/color&gt;, then divide the sum by the number of Sinners. Inflict the resulting &lt;color=#e30000&gt;{0} and {0} Count&lt;/color&gt; on all Sinners. (Minimum 1)"
   },
   {
     "key": "857801_success_1_1-content",
-    "original": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>全囚人の</color> %{0}/% 消滅。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;모든 수감자의&lt;/color&gt; %{0}/% 사라짐.\nEN:\n&lt;color=#ebcaa2&gt;All Sinners&lt;/color&gt; lose %{0}/%."
   },
   {
     "key": "857801_success_1_2-content",
-    "original": "<color=#ebcaa2>全囚人の</color><color=#80c9ff>精神力 {0}回復</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>全囚人の</color><color=#80c9ff>精神力 {0}回復</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>全囚人の</color><color=#80c9ff>精神力 {0}回復</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>全囚人の</color><color=#80c9ff>精神力 {0}回復</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;모든 수감자의&lt;/color&gt; &lt;color=#80c9ff&gt;정신력 {0} 회복&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;All Sinners&lt;/color&gt; &lt;color=#80c9ff&gt;heal {0} SP.&lt;/color&gt;"
   },
   {
     "key": "857801_success_1_3-content",
-    "original": "<color=#ebcaa2>囚人{0}が次のターンに</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>囚人{0}が次のターンに</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>囚人{0}が次のターンに</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>囚人{0}が次のターンに</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0} 수감자가 다음 턴에&lt;/color&gt; %[{1}] {2}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#ebcaa2&gt;gains&lt;/color&gt; %{2} [{1}]/% next turn."
   },
   {
     "key": "857801_failure_1_1-content",
-    "original": "<color=#ebcaa2>囚人{0}が</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>囚人{0}が</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>囚人{0}が</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>囚人{0}が</color> %[{1}] {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0} 수감자가&lt;/color&gt; %[{1}] {2}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;[{0}]&lt;/color&gt; &lt;color=#ebcaa2&gt;gains&lt;/color&gt; %{2} [{1}]/%"
   },
   {
     "key": "857801_failure_1_2-content",
-    "original": "<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}減少</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}減少</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}減少</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>囚人{0}の</color><color=#fe4b48>精神力 {1}減少</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0} 수감자의 &lt;color=#fe4b48&gt;정신력 {1} 감소&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#fe4b48&gt;loses {1} SP&lt;/color&gt;"
   },
   {
     "key": "857801_failure_1_3-content",
-    "original": "<color=#ebcaa2>囚人{0}の</color><color=#e30000>体力 {1}減少</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>囚人{0}の</color><color=#e30000>体力 {1}減少</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>囚人{0}の</color><color=#e30000>体力 {1}減少</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>囚人{0}の</color><color=#e30000>体力 {1}減少</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0} 수감자의 &lt;color=#e30000&gt;체력 {1} 감소&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#e30000&gt;loses {1} HP&lt;/color&gt;"
   },
   {
     "key": "857101_skinPredector_success_1_2-content",
-    "original": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;스테이지 동안 {0}&lt;/color&gt; %{1} {2}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#ebcaa2&gt;gains&lt;/color&gt; %{2} {1}/% &lt;color=#ebcaa2&gt;for the encounter.&lt;/color&gt;"
   },
   {
     "key": "857101_skinPredector_success_1_3-content",
-    "original": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;스테이지 동안 {0}&lt;/color&gt; %{1} {2}/%, %{3} {4}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#ebcaa2&gt;gains&lt;/color&gt; %{2} {1}/% and %{4} {3}/% &lt;color=#ebcaa2&gt;for the Encounter.&lt;/color&gt;"
   },
   {
     "key": "857101_skinPredector_failure_1_1-content",
-    "original": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>ステージの間、 {0}</color> %{1} {2}/%, %{3} {4}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;스테이지 동안 {0}&lt;/color&gt; %{1} {2}/%, %{3} {4}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#ebcaa2&gt;gains&lt;/color&gt; %{2} {1}/% and %{4} {3}/% &lt;color=#ebcaa2&gt;for the Encounter.&lt;/color&gt;"
   },
   {
     "key": "857101_skinPredector_failure_1_2-content",
-    "original": "<color=#ebcaa2>全囚人が</color> %{0} {1}/%, %{2} {3}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>全囚人が</color> %{0} {1}/%, %{2} {3}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>全囚人が</color> %{0} {1}/%, %{2} {3}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>全囚人が</color> %{0} {1}/%, %{2} {3}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;모든 수감자가&lt;/color&gt; %{0} {1}/%, %{2} {3}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;All Sinners&lt;/color&gt; &lt;color=#ebcaa2&gt;gain&lt;/color&gt; %{1} {0}/% and %{3} {2}/%."
   },
   {
     "key": "858501_soc_success_1_1-content",
-    "original": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0} {1}&lt;/color&gt; &lt;color=#ebcaa2&gt;내성 1.5로 변경&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}'s {1}&lt;/color&gt; &lt;color=#ebcaa2&gt;Resistance becomes 1.5&lt;/color&gt;"
   },
   {
     "key": "858501_soc_failure_1_1-content",
-    "original": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#e30000&gt;체력 {1} 피해&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;[{0}]&lt;/color&gt; &lt;color=#e30000&gt; takes {1} HP damage&lt;/color&gt;"
   },
   {
     "key": "858501_soc_failure_1_2-content",
-    "original": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#fe4b48&gt;정신력 {1} 피해&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#fe4b48&gt;takes {1} SP damage&lt;/color&gt;"
   },
   {
     "key": "858502_soc_success_1_1-content",
-    "original": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0} {1}</color> <color=#ebcaa2>耐性1.5へ変更</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0} {1}&lt;/color&gt; &lt;color=#ebcaa2&gt;내성 1.5로 변경&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}'s {1}&lt;/color&gt; &lt;color=#ebcaa2&gt;Resistance becomes 1.5&lt;/color&gt;"
   },
   {
     "key": "858502_soc_failure_1_1-content",
-    "original": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0}</color><color=#e30000> {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#e30000&gt;체력 {1} 피해&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;[{0}]&lt;/color&gt; &lt;color=#e30000&gt; takes {1} HP damage&lt;/color&gt;"
   },
   {
     "key": "858502_soc_failure_1_2-content",
-    "original": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0}</color><color=#e30000>精神力 {1}ダメージ<color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#fe4b48&gt;정신력 {1} 피해&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; &lt;color=#fe4b48&gt;takes {1} SP damage&lt;/color&gt;"
   },
   {
     "key": "858502_soc_failure_1_3-content",
-    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#ebcaa2>{0}</color> %{1} {2}/% <color=#ebcaa2>獲得。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#ebcaa2&gt;{0}&lt;/color&gt; %{1} {2}/% &lt;color=#ebcaa2&gt;얻음.&lt;/color&gt;\nEN:\n&lt;color=#ebcaa2&gt;[{0}]&lt;/color&gt; &lt;color=#ebcaa2&gt;gains&lt;/color&gt; %{2} {1}/%"
   }

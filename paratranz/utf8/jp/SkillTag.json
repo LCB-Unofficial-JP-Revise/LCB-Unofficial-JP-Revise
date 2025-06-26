@@ -1,442 +1,442 @@
 [
   {
     "key": "OnSucceedAttack-name",
-    "original": "[的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[적중시]\nEN:\n[On Hit]"
   },
   {
     "key": "WhenUse-name",
-    "original": "[使用時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[使用時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[使用時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[使用時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[사용시]\nEN:\n[On Use]"
   },
   {
     "key": "WinDuel-name",
-    "original": "[マッチ勝利時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ勝利時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ勝利時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ勝利時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 승리시]\nEN:\n[Clash Win]"
   },
   {
     "key": "BeforeAttack-name",
-    "original": "[攻撃前]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[攻撃前]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[攻撃前]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[攻撃前]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[공격 시작 전]\nEN:\n[Before Attack]"
   },
   {
     "key": "Wide-name",
-    "original": "[広域]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[広域]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[広域]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[広域]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[광역]\nEN:\n[AoE]"
   },
   {
     "key": "nxPostLine-name",
-    "original": "[前列{n}名]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[前列{n}名]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[前列{n}名]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[前列{n}名]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[전열 {n}명]\nEN:\n[{n} in Front]"
   },
   {
     "key": "nxCenterLine-name",
-    "original": "[中列{n}名]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[中列{n}名]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[中列{n}名]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[中列{n}名]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[중열 {n}명]\nEN:\n[{n} in Middle]"
   },
   {
     "key": "nxBackLine-name",
-    "original": "[後列{n}名]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[後列{n}名]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[後列{n}名]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[後列{n}名]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[후열 {n}명]\nEN:\n[{n} in Back]"
   },
   {
     "key": "CantIdentify-name",
-    "original": "[敵味方識別不可]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[敵味方識別不可]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[敵味方識別不可]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[敵味方識別不可]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[피아식별불가]\nEN:\n[Indiscriminate]"
   },
   {
     "key": "CRIMSON-name",
-    "original": "赤色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "赤色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "赤色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "赤色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빨간색\nEN:\nCrimson"
   },
   {
     "key": "SCARLET-name",
-    "original": "橙色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "橙色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "橙色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "橙色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주황색\nEN:\nScarlet"
   },
   {
     "key": "AMBER-name",
-    "original": "黄色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "黄色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "黄色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黄色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n노란색\nEN:\nAmber"
   },
   {
     "key": "SHAMROCK-name",
-    "original": "緑色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "緑色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "緑色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "緑色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n초록색\nEN:\nShamrock"
   },
   {
     "key": "AZURE-name",
-    "original": "青色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "青色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "青色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "青色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n파란색\nEN:\nAzure"
   },
   {
     "key": "INDIGO-name",
-    "original": "藍色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "藍色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "藍色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "藍色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n남색\nEN:\nIndigo"
   },
   {
     "key": "VIOLET-name",
-    "original": "紫色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "紫色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "紫色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "紫色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보라색\nEN:\nViolet"
   },
   {
     "key": "WHITE-name",
-    "original": "白\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "白\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "白\n<CMT_KR>\n<CMT_JP>",
+    "translation": "白\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흰색\nEN:\nWhite"
   },
   {
     "key": "BLACK-name",
-    "original": "黒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "黒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "黒\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黒\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검정색\nEN:\nBlack"
   },
   {
     "key": "EndSkill-name",
-    "original": "[攻撃後]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[攻撃後]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[攻撃後]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[攻撃後]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[공격 종료시]\nEN:\n[After Attack]"
   },
   {
     "key": "StartBattle-name",
-    "original": "[戦闘開始時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[戦闘開始時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[戦闘開始時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[戦闘開始時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[전투 시작시]\nEN:\n[Combat Start]"
   },
   {
     "key": "DefeatDuel-name",
-    "original": "[マッチ敗北]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ敗北]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ敗北]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ敗北]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 패배]\nEN:\n[Clash Lose]"
   },
   {
     "key": "OnSucceedAttackHead-name",
-    "original": "[表面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[表面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[表面的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[表面的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[앞면 적중시]\nEN:\n[Heads Hit]"
   },
   {
     "key": "OnSucceedAttackTail-name",
-    "original": "[裏面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[裏面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[裏面的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[裏面的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[뒷면 적중시]\nEN:\n[Tails Hit]"
   },
   {
     "key": "OnSucceedEvade-name",
-    "original": "[回避成功時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[回避成功時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[回避成功時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[回避成功時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[회피 성공시]\nEN:\n[On Evade]"
   },
   {
     "key": "AlwaysUse-name",
-    "original": "[常時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[常時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[常時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[常時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[상시]\nEN:\n[Constant]"
   },
   {
     "key": "CantDuel-name",
-    "original": "[マッチ不可]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ不可]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ不可]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ不可]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 불가능]\nEN:\n[Unclashable]"
   },
   {
     "key": "EnemyKill-name",
-    "original": "[敵討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[敵討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[敵討伐時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[敵討伐時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[적 처치 시]\nEN:\n[On Kill]"
   },
   {
     "key": "EnemyKillFail-name",
-    "original": "[敵討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[敵討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[敵討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[敵討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[적 처치 실패 시]\nEN:\n[Failed Kill]"
   },
   {
     "key": "ReUse-name",
-    "original": "[再使用時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[再使用時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[再使用時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[再使用時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[재사용 시]\nEN:\n[On Reuse]"
   },
   {
     "key": "ReUseOnSucceedAttackHead-name",
-    "original": "[再使用表面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[再使用表面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[再使用表面的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[再使用表面的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[재사용 앞면 적중 시]\nEN:\n[Reuse - Heads Hit]"
   },
   {
     "key": "CriticalOnSucceedAttack-name",
-    "original": "[クリティカル的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[クリティカル的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[クリティカル的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[クリティカル的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[크리티컬 적중 시]\nEN:\n[On Crit]"
   },
   {
     "key": "StartDuel-name",
-    "original": "[マッチ開始時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ開始時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ開始時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ開始時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 시작 시]\nEN:\n[Clash Start]"
   },
   {
     "key": "EndBattle-name",
-    "original": "[ターン終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[ターン終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[ターン終了時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ターン終了時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[턴 종료 시]\nEN:\n[Turn End]"
   },
   {
     "key": "OnDefeatEvade-name",
-    "original": "[回避失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[回避失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[回避失敗時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[回避失敗時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[회피 실패시]\nEN:\n[Failed Evade]"
   },
   {
     "key": "EndSkillHead-name",
-    "original": "[表面攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[表面攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[表面攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[表面攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[앞면 공격 종료 시]\nEN:\n[Heads Attack End]"
   },
   {
     "key": "EndSkillTail-name",
-    "original": "[裏面攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[裏面攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[裏面攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[裏面攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[뒷면 공격 종료 시]\nEN:\n[Tails Attack End]"
   },
   {
     "key": "WinDuelAttackHead-name",
-    "original": "[マッチ勝利後表面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ勝利後表面的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ勝利後表面的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ勝利後表面的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 승리 후 앞면 적중시]\nEN:\n[Heads Hit after Clash Win]"
   },
   {
     "key": "WinDuelAttack-name",
-    "original": "[マッチ勝利後的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ勝利後的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ勝利後的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ勝利後的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 승리 후 적중시]\nEN:\n[Hit after Clash Win]"
   },
   {
     "key": "CriticalActivated-name",
-    "original": "[クリティカル発動時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[クリティカル発動時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[クリティカル発動時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[クリティカル発動時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[크리티컬 발동 시]\nEN:\n[On Crit]"
   },
   {
     "key": "CriticalEndSkill-name",
-    "original": "[クリティカル攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[クリティカル攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[クリティカル攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[クリティカル攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[크리티컬 공격 종료 시]\nEN:\n[Crit Attack End]"
   },
   {
     "key": "CantChangeTarget-name",
-    "original": "[対象変更不可]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[対象変更不可]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[対象変更不可]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[対象変更不可]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[대상 변경 불가]\nEN:\n[Target Fixed]"
   },
   {
     "key": "TurnStartBattle-name",
-    "original": "[ターン開始時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[ターン開始時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[ターン開始時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ターン開始時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[턴 시작 시]\nEN:\n[Turn Start]"
   },
   {
     "key": "EndSkillAll-name",
-    "original": "[スキル終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[スキル終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[スキル終了時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[スキル終了時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[스킬 종료 시]\nEN:\n[Skill End]"
   },
   {
     "key": "WhenUse_Force-name",
-    "original": "<color=#26cfff>[使用時]</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#26cfff>[使用時]</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#26cfff>[使用時]</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#26cfff>[使用時]</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#26cfff&gt;[사용시]&lt;/color&gt;\nEN:\n&lt;color=#26cfff&gt;[On Use]&lt;/color&gt;"
   },
   {
     "key": "StartBattle_Force-name",
-    "original": "<color=#93f13e>[戦闘開始時]</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#93f13e>[戦闘開始時]</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#93f13e>[戦闘開始時]</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#93f13e>[戦闘開始時]</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#93f13e&gt;[전투 시작시]&lt;/color&gt;\nEN:\n&lt;color=#93f13e&gt;[Combat Start]&lt;/color&gt;"
   },
   {
     "key": "TargetKill-name",
-    "original": "[対象討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[対象討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[対象討伐時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[対象討伐時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[대상 처치 시]\nEN:\n[On Target Kill]"
   },
   {
     "key": "CriticalTargetKill-name",
-    "original": "[クリティカル討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[クリティカル討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[クリティカル討伐時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[クリティカル討伐時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[크리티컬 처치 시]\nEN:\n[On Crit Kill]"
   },
   {
     "key": "BeforeUse-name",
-    "original": "[使用前]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[使用前]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[使用前]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[使用前]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[사용전]\nEN:\n[Before Use]"
   },
   {
     "key": "DuelCounter-name",
-    "original": "[マッチ可能反撃]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ可能反撃]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ可能反撃]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ可能反撃]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 가능 반격]\nEN:\n[Clashable Counter]"
   },
   {
     "key": "CantBreak-name",
-    "original": "[破壊不能コイン]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[破壊不能コイン]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[破壊不能コイン]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[破壊不能コイン]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[파괴 불가 코인]\nEN:\n[Unbreakable Coin]"
   },
   {
     "key": "DuelGuard-name",
-    "original": "[マッチ可能ガード]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ可能ガード]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ可能ガード]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ可能ガード]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 가능 가드]\nEN:\n[Clashable Guard]"
   },
   {
     "key": "WhenUseEvade-name",
-    "original": "[回避使用時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[回避使用時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[回避使用時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[回避使用時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[회피 사용시]\nEN:\n[On Evade Use]"
   },
   {
     "key": "EndCoin-name",
-    "original": "[このコインの攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[このコインの攻撃終了時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[このコインの攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[このコインの攻撃終了時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[이 코인 공격 종료 시]\nEN:\n[After Current Coin Attack]"
   },
   {
     "key": "CriticalEnemyTargetKillFail-name",
-    "original": "[クリティカル敵討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[クリティカル敵討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[クリティカル敵討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[クリティカル敵討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[크리티컬 적 처치 실패 시]\nEN:\n[On Crit Kill Fail Against Enemy]"
   },
   {
     "key": "CriticalEnemyTargetKill-name",
-    "original": "[クリティカル敵討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[クリティカル敵討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[クリティカル敵討伐時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[クリティカル敵討伐時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[크리티컬 적 처치 시]\nEN:\n[On Crit Kill Against Enemy]"
   },
   {
     "key": "DefeatDuelAttack-name",
-    "original": "[マッチ敗北後的中]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[マッチ敗北後的中]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[マッチ敗北後的中]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[マッチ敗北後的中]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[합 패배 후 적중]\nEN:\n[Hit after Clash Lose]"
   },
   {
     "key": "TargetKillFail-name",
-    "original": "[対象討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[対象討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[対象討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[対象討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[대상 처치 실패시]\nEN:\n[On Target Kill Fail]"
   },
   {
     "key": "AllyKill-name",
-    "original": "[味方討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[味方討伐時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[味方討伐時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[味方討伐時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[아군 처치 시]\nEN:\n[On Ally Kill]"
   },
   {
     "key": "AllyKillFail-name",
-    "original": "[味方討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[味方討伐失敗時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[味方討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[味方討伐失敗時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[아군 처치 실패시]\nEN:\n[On Ally Kill Fail]"
   },
   {
     "key": "UnBrokenCoinOnSucceedAttack-name",
-    "original": "[破壊されずに的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[破壊されずに的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[破壊されずに的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[破壊されずに的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[파괴되지 않고 적중시]\nEN:\n[On Hit without Cracking]"
   },
   {
     "key": "BeforeHit-name",
-    "original": "[被ダメージ直前]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[被ダメージ直前]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[被ダメージ直前]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[被ダメージ直前]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[피격 직전]\nEN:\n[Before Getting Hit]"
   },
   {
     "key": "OnDirectAttack-name",
-    "original": "[一方攻撃時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[一方攻撃時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[一方攻撃時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[一方攻撃時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[일방 공격 시]\nEN:\n[On Unopposed Attack]"
   },
   {
     "key": "ReUseOnSucceedAttack-name",
-    "original": "[再使用的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[再使用的中時]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[再使用的中時]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[再使用的中時]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[재사용 적중시]\nEN:\n[Reuse - On Hit]"
   }

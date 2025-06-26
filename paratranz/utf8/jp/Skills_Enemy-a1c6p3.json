@@ -1,470 +1,470 @@
 [
   {
     "key": "9013601-levelList[0].name",
-    "original": "…ク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…ク\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…ク\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…ク\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...크\nEN:\n...nocking"
   },
   {
     "key": "9013601-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Sinking]が5以上なら、[AttackDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Sinking]が5以上なら、[AttackDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Sinking]が5以上なら、[AttackDown]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]が5以上なら、[AttackDown]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Sinking]이 5이상이면, [AttackDown] 1 부여\nEN:\n[WhenUse] If target has 5+ [Sinking], inflict 1 [AttackDown]"
   },
   {
     "key": "9013601-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
   },
   {
     "key": "9013601-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Binding] next turn"
   },
   {
     "key": "9013601-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
   },
   {
     "key": "9013601-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
   },
   {
     "key": "9013602-levelList[0].name",
-    "original": "…時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…時間\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…時間\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...시간\nEN:\n...to Clean"
   },
   {
     "key": "9013602-levelList[0].desc",
-    "original": "[WhenUse] 対象の精神力が10以下なら、[AttackDown]2を付与\n[WinDuel] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の精神力が10以下なら、[AttackDown]2を付与\n[WinDuel] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の精神力が10以下なら、[AttackDown]2を付与\n[WinDuel] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の精神力が10以下なら、[AttackDown]2を付与\n[WinDuel] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 정신력이 10이하라면, [AttackDown] 2 부여\n[WinDuel] [Vulnerable] 1 부여\nEN:\n[WhenUse] If the target is at 10 or less SP, inflict 2 [AttackDown]\n[WinDuel] Inflict 1 [Vulnerable]"
   },
   {
     "key": "9013602-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[PlusCoinValueDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[PlusCoinValueDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[PlusCoinValueDown]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[PlusCoinValueDown]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [PlusCoinValueDown] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [PlusCoinValueDown] next turn"
   },
   {
     "key": "9013602-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
   },
   {
     "key": "9013602-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
   },
   {
     "key": "9013603-levelList[0].name",
-    "original": "通り…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "通り…！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "通り…！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "通り…！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대로...!\nEN:\n...mmands...!"
   },
   {
     "key": "9013603-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Sinking]3につき、基本威力 +1(最大3)\n[WinDuel] 全味方の精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Sinking]3につき、基本威力 +1(最大3)\n[WinDuel] 全味方の精神力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Sinking]3につき、基本威力 +1(最大3)\n[WinDuel] 全味方の精神力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]3につき、基本威力 +1(最大3)\n[WinDuel] 全味方の精神力を5回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Sinking] 3당 기본 위력 +1 (최대 3)\n[WinDuel] 모든 아군 정신력 5 회복\nEN:\n[WhenUse] Base Power +1 for every 3 [Sinking] on target (max 3)\n[WinDuel] All allies heal 5 SP"
   },
   {
     "key": "9013603-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Sinking]"
   },
   {
     "key": "9013603-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
   },
   {
     "key": "9013603-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Sinking]"
   },
   {
     "key": "9013603-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
   },
   {
     "key": "9013603-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]8を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Sinking]"
   },
   {
     "key": "9013603-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
   },
   {
     "key": "9013604-levelList[0].name",
-    "original": "埃…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "埃…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "埃…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "埃…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n먼지...\nEN:\n...of Dust"
   },
   {
     "key": "9013604-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、マッチ威力 +10％(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、マッチ威力 +10％(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、マッチ威力 +10％(最大30%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +1(最大3)\n[WhenUse] 対象の[Sinking]6につき、マッチ威力 +10％(最大30%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당, 기본 위력 +1 (최대 3)\n[WhenUse] 대상의 [Sinking] 6당, 피해량 +10% (최대 30%)\nEN:\n[WhenUse] Base Power +1 for every 6 [Sinking] on target (max 3)\n[WhenUse] Deal +10% damage for every 6 [Sinking] Count on target (max 30%)"
   },
   {
     "key": "9013604-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소\nEN:\n[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1"
   },
   {
     "key": "9013604-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える。[Sinking]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘. [Sinking] 횟수 1 감소\nEN:\n[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target. Reduce [Sinking] Count on target by 1"
   },
   {
     "key": "9013604-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]だけ憂鬱属性追加ダメージを与える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]만큼 우울 속성 추가 피해 입힘\nEN:\n[OnSucceedAttack] Inflict Gloom Affinity bonus damage equal to [Sinking] on target."
   },
   {
     "key": "9013604-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
   },
   {
     "key": "9013604-levelList[0].coinlist[2].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 対象の[Sinking]回数が3以上なら、このコインを再使用(最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Sinking]回数が3以上なら、このコインを再使用(最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Sinking]回数が3以上なら、このコインを再使用(最大2回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]回数が3以上なら、このコインを再使用(最大2回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking] 횟수가 3이상이면, 이 코인 재사용. (최대 2회)\nEN:\n[OnSucceedAttack] If target has 3+ [Sinking] Count, Reuse this Coin (twice)"
   },
   {
     "key": "9013605-levelList[0].name",
-    "original": "鼠野郎…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "鼠野郎…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "鼠野郎…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鼠野郎…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n쥐새끼...\nEN:\nSlipp..."
   },
   {
     "key": "9013605-levelList[0].desc",
-    "original": "ターン終了時にバリアが残っているなら、50だけ混乱区間を後退\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にバリアが残っているなら、50だけ混乱区間を後退\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にバリアが残っているなら、50だけ混乱区間を後退\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にバリアが残っているなら、50だけ混乱区間を後退\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 보호막이 남아있다면, 50만큼 흐트러짐 회복\nEN:\nIf this unit has remaining Shield HP at Turn End, lower Stagger threshold by 50"
   },
   {
     "key": "9013701-levelList[0].name",
-    "original": "雑輩ども…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "雑輩ども…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "雑輩ども…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "雑輩ども…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n잡배놈...\nEN:\nDamn Pl..."
   },
   {
     "key": "9013701-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] next turn"
   },
   {
     "key": "9013701-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] next turn"
   },
   {
     "key": "9013702-levelList[0].name",
-    "original": "片付け…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "片付け…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "片付け…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "片付け…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n치워...\nEN:\nI'll Remo..."
   },
   {
     "key": "9013702-levelList[0].desc",
-    "original": "[WinDuel] 基本威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WinDuel] 基本威力+1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WinDuel] 基本威力+1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WinDuel] 基本威力+1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WinDuel] 기본 위력 +1\nEN:\n[WinDuel] Base Power +1"
   },
   {
     "key": "9013702-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘\nEN:\n[OnSucceedAttack] If target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage"
   },
   {
     "key": "9013702-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[AttackDown]があるなら、与ダメージ量20%分の打撃ダメージを与える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [AttackDown]이 있다면, 피해량 20%만큼 타격 피해 입힘\nEN:\n[OnSucceedAttack] If target has [AttackDown], deal 20% of damage dealt as bonus Blunt damage"
   },
   {
     "key": "9013703-levelList[0].name",
-    "original": "ボタン…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ボタン…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ボタン…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ボタン…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n단추...\nEN:\nMake Things..."
   },
   {
     "key": "9013703-levelList[0].desc",
-    "original": "[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[DefenseDown]があるなら、ダメージ量の30％だけ打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[DefenseDown]があるなら、ダメージ量の30％だけ打撃ダメージを与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[DefenseDown]があるなら、ダメージ量の30％だけ打撃ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象の[AttackDown]が2以上なら、基本威力 +1\n[WhenUse] 対象に[DefenseDown]があるなら、ダメージ量の30％だけ打撃ダメージを与える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WinDuel] 대상의 [AttackDown]가 2 이상이면, 기본 위력 +1\n[WhenUse] 대상에게 [DefenseDown]이 있다면, 피해량 30%만큼 타격 피해 입힘\nEN:\n[WinDuel] If target has 2+ [AttackDown], Base Power +1\n[WhenUse] If target has [DefenseDown], deal 30% of damage dealt as bonus Blunt damage"
   },
   {
     "key": "9013703-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
   },
   {
     "key": "9013703-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
   },
   {
     "key": "9013703-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力を4回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 정신력 4 회복\nEN:\n[OnSucceedAttack] Heal 4 SP on self"
   },
   {
     "key": "9013704-levelList[0].name",
-    "original": "…してやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…してやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…してやる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…してやる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...주마\nEN:\n... ove You"
   },
   {
     "key": "9013704-levelList[0].desc",
-    "original": "マイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[DefenseDown]3につき、コイン威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[DefenseDown]3につき、コイン威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[DefenseDown]3につき、コイン威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マイナス効果が最も多い対象を優先して攻撃\n[WinDuel]対象の[DefenseDown]3につき、コイン威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n부정적인 효과가 가장 많은 대상 우선 공격\n[WinDuel] 대상의 [DefenseDown] 3당 코인 위력 +1 (최대 3)\nEN:\nPrioritizes targets with the most negative effects\n[WinDuel] Coin Power +1 for every 3 [DefenseDown] on target (max 3)"
   },
   {
     "key": "9013704-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable]"
   },
   {
     "key": "9013704-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
   },
   {
     "key": "9013704-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
   },
   {
     "key": "9013704-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[AttackDown]2につき、ダメージ量 +30%(最大120%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [AttackDown] 2당 +30% (최대 120%)\nEN:\n[OnSucceedAttack] Deal +30% damage for every 2 [AttackDown] on target (max 120%)"
   },
   {
     "key": "9013704-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 対象のマイナス効果が3以上なら、このコインを再使用(1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 대상의 부정적인 효과가 3개 이상이면, 이 코인 재사용 (1회)\nEN:\n[OnSucceedAttackHead] If target has 3+ negative effects, reuse this coin (once)"
   },
   {
     "key": "9013705-levelList[0].name",
-    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ガード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가드\nEN:\nGuard"
   },
   {
     "key": "9013705-levelList[0].desc",
-    "original": "[StartBattle] 生存している味方1名につき、バリアを20を追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] 生存している味方1名につき、バリアを20を追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[StartBattle] 生存している味方1名につき、バリアを20を追加で得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] 生存している味方1名につき、バリアを20を追加で得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[StartBattle] 살아있는 아군 수당 보호막 체력 20을 추가로 얻음\nEN:\n[StartBattle] Gain 20 additional Shield HP for every surviving ally"
   },
   {
     "key": "9013801-levelList[0].name",
-    "original": "マル…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マル…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マル…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マル…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n마르...\nEN:\nMarc..."
   },
   {
     "key": "9013801-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [DefenseDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [DefenseDown] next turn"
   },
   {
     "key": "9013802-levelList[0].name",
-    "original": "…テ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…テ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…テ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…テ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...트\nEN:\n...te"
   },
   {
     "key": "9013802-levelList[0].desc",
-    "original": "[WhenUse] 対象のマイナス効果が2以上なら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果が2以上なら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果が2以上なら、基本威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果が2以上なら、基本威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 2개 이상이면, 기본 위력 +1\nEN:\n[WhenUse] If target has 2+ negative effects, Base Power +1"
   },
   {
     "key": "9013802-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [DefenseDown] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [DefenseDown] next turn"
   },
   {
     "key": "9013803-levelList[0].name",
-    "original": "フ…シュ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "フ…シュ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "フ…シュ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "フ…シュ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n플...쉬\nEN:\nFl...he"
   },
   {
     "key": "9013803-levelList[0].desc",
-    "original": "[WhenUse] 対象のマイナス効果が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果が4以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 4개 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 4+ negative effects, Coin Power +1"
   },
   {
     "key": "9013803-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Binding] next turn"
   },
   {
     "key": "9013803-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[PenetrateTakeDamageUp]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [PenetrateTakeDamageUp] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [PenetrateTakeDamageUp] next turn"
   },
   {
     "key": "9013803-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Binding] next turn"
   },
   {
     "key": "9013804-levelList[0].name",
-    "original": "クー…ワ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クー…ワ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クー…ワ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クー…ワ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n꾸...와\nEN:\nCou...oit"
   },
   {
     "key": "9013804-levelList[0].desc",
-    "original": "[WhenUse] 対象のマイナス効果が5つ以上なら、基本威力 +2\n[WhenUse] 対象のマイナス効果が5つ以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果が5つ以上なら、基本威力 +2\n[WhenUse] 対象のマイナス効果が5つ以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果が5つ以上なら、基本威力 +2\n[WhenUse] 対象のマイナス効果が5つ以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果が5つ以上なら、基本威力 +2\n[WhenUse] 対象のマイナス効果が5つ以上なら、ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +2\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 피해량 +30%\nEN:\n[WhenUse] If target has 5+ negative effects, Base Power +2\n[WhenUse] If target has 5+ negative effects, deal +30% damage"
   },
   {
     "key": "9013804-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vulnerable]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vulnerable] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vulnerable]"
   },
   {
     "key": "9013804-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Vulnerable]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Vulnerable] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
   },
   {
     "key": "9013804-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象のマイナス効果が5以上なら、このコインを再使用(2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象のマイナス効果が5以上なら、このコインを再使用(2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象のマイナス効果が5以上なら、このコインを再使用(2回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象のマイナス効果が5以上なら、このコインを再使用(2回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 부정적인 효과가 5개 이상이면, 이 코인 재사용 (2회)\nEN:\n[OnSucceedAttack] If target has 5+ negative effects, reuse this coin (2 times max)"
   },
   {
     "key": "9013804-levelList[0].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 対象の解除可能なマイナス効果をランダムに1つ除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の解除可能なマイナス効果をランダムに1つ除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の解除可能なマイナス効果をランダムに1つ除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の解除可能なマイナス効果をランダムに1つ除去\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 해제 가능한 부정적인 효과 무작위 하나 제거\nEN:\n[OnSucceedAttack] Remove 1 random removable negative effect applied on target"
   },
   {
     "key": "9013805-levelList[0].name",
-    "original": "…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n...\nEN:\n..."
   },
   {
     "key": "9013805-levelList[0].desc",
-    "original": "[OnSucceedEvade] 精神力を5回復(最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedEvade] 精神力を5回復(最大2回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedEvade] 精神力を5回復(最大2回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] 精神力を5回復(最大2回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedEvade] 정신력 5 회복 (최대 2회)\nEN:\n[OnSucceedEvade] Heal 5 SP (2 times max)"
   }

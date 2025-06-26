@@ -1,253 +1,253 @@
 [
   {
     "key": "FusionVibration-name",
-    "original": "振動絡縺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "振幅絡縺\n<CMT_KR>오식: \"振動絡縺\" 정확: \"振幅絡縺\"\n<CMT_EN>Typo: \"振動絡縺\" Correction: \"振幅絡縺\"\n<CMT_JP>誤植: \"振動絡縺\" 訂正後: \"振幅絡縺\"",
+    "original": "振動絡縺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振幅絡縺\n<CMT_KR>오기: \"振動絡縺\" 정확: \"振幅絡縺\"\n<CMT_JP>誤記: \"振動絡縺\" 訂正後: \"振幅絡縺\"",
     "stage": 1,
     "context": "KR:\n진폭 얽힘\nEN:\nAmplitude Entanglement"
   },
   {
     "key": "FusionVibration-desc",
-    "original": "- 絡縺させる振動効果と、対象の振動系効果を振動 - 重畳に合算。\n- 絡縺時、振動の威力・回数が維持される。\n- 振動 - 重畳に振幅変換発動時、変換させる振動効果が絡縺で適用される。\n- ターン終了時、振動に変換される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 絡縺させる振動効果と、対象の振動系効果を振動 - 重畳に合算。\n- 絡縺時、振動の威力・回数が維持される。\n- 振動 - 重畳に振幅変換発動時、変換させる振動効果が絡縺で適用される。\n- ターン終了時、振動に変換される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 絡縺させる振動効果と、対象の振動系効果を振動 - 重畳に合算。\n- 絡縺時、振動の威力・回数が維持される。\n- 振動 - 重畳に振幅変換発動時、変換させる振動効果が絡縺で適用される。\n- ターン終了時、振動に変換される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 絡縺させる振動効果と、対象の振動系効果を振動 - 重畳に合算。\n- 絡縺時、振動の威力・回数が維持される。\n- 振動 - 重畳に振幅変換発動時、変換させる振動効果が絡縺で適用される。\n- ターン終了時、振動に変換される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 얽힘시키는 진동 효과와 대상의 진동 계열을 진동 - 중첩으로 합침.\n- 얽힘 시 기존 진동의 위력, 횟수가 유지됨.\n- 진동 - 중첩에 진폭 변환 발동 시 변환시키려는 진동 효과가 얽힘으로 적용됨.\n- 턴 종료시, 진동으로 변환됨\nEN:\n- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor."
   },
   {
     "key": "VibrationNesting-name",
-    "original": "振動 - 重畳\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "振動 - 重畳\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "振動 - 重畳\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振動 - 重畳\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n진동 - 중첩\nEN:\nTremor - Superposition"
   },
   {
     "key": "VibrationNesting-desc",
-    "original": "- 振幅絡縺を通じて得られる\n- 振幅変換時、振動 - 重畳に該当特殊振動が追加される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 振幅絡縺を通じて得られる\n- 振幅変換時、振動 - 重畳に該当特殊振動が追加される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 振幅絡縺を通じて得られる\n- 振幅変換時、振動 - 重畳に該当特殊振動が追加される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 振幅絡縺を通じて得られる\n- 振幅変換時、振動 - 重畳に該当特殊振動が追加される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 진폭 얽힘을 통해 얻을 수 얻을 수 있음.\n- 진폭 변환시 진동 - 중첩에 해당 특수 진동이 추가됨.\nEN:\n- Gained through Amplitude Entanglement\n- When triggering Amplitude Conversion, add the effects of the resulting Tremor type to the list of active Tremor effects under Tremor - Superposition."
   },
   {
     "key": "VibrationDistribution-name",
-    "original": "振動 - 分配\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "振動 - 分配\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "振動 - 分配\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振動 - 分配\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n진동 - 분배\nEN:\nTremor - Distribution"
   },
   {
     "key": "VibrationDistribution-desc",
-    "original": "- ターン終了時(味方全体の振動 回数の合計 ÷ 生存している味方の数)だけ、次のターンに攻撃レベル増加を得る(最大5)\n- {1}ターンの間、振動 爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- ターン終了時(味方全体の振動 回数の合計 ÷ 生存している味方の数)だけ、次のターンに攻撃レベル増加を得る(最大5)\n- {1}ターンの間、振動 爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- ターン終了時(味方全体の振動 回数の合計 ÷ 生存している味方の数)だけ、次のターンに攻撃レベル増加を得る(最大5)\n- {1}ターンの間、振動 爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン終了時(味方全体の振動 回数の合計 ÷ 生存している味方の数)だけ、次のターンに攻撃レベル増加を得る(最大5)\n- {1}ターンの間、振動 爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n(振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 턴 종료 시 (아군 전체의 진동 횟수의 합 / 살아있는 아군 수)만큼 다음 턴에 공격 레벨 증가를 얻음 (최대 5)\n- {1}턴 동안 진동 폭발 스킬로 피격 시, {0}만큼 흐트러짐 손상\n- 턴 종료 후 횟수 1 감소\n- (진동 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)\nEN:\n- Turn End: Gain ((sum of all allies' Tremor Count) / (# of surviving allies)) Offense Level Up next turn (max 5)\n- For {1} turns, when hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by {0}\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)"
   },
   {
     "key": "TcorpSpecialInvestigator-name",
-    "original": "T社特別捜査官バッジ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "T社特別捜査官バッジ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "T社特別捜査官バッジ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "T社特別捜査官バッジ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nT사 특별 수사관 배지\nEN:\nT Corp. Special Investigator Badge"
   },
   {
     "key": "TcorpSpecialInvestigator-desc",
-    "original": "- 体力が0になるとき、体力が1未満に減少せずに体力を最大値の80%だけ即回復。混乱状態が解除(戦闘につき1回発動)\n- バフ効果発動時に次のターンから5ターンの間、ターン開始時に攻撃威力増加2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 体力が0になるとき、体力が1未満に減少せずに体力を最大値の80%だけ即回復。混乱状態が解除(戦闘につき1回発動)\n- バフ効果発動時に次のターンから5ターンの間、ターン開始時に攻撃威力増加2を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 体力が0になるとき、体力が1未満に減少せずに体力を最大値の80%だけ即回復。混乱状態が解除(戦闘につき1回発動)\n- バフ効果発動時に次のターンから5ターンの間、ターン開始時に攻撃威力増加2を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 体力が0になるとき、体力が1未満に減少せずに体力を最大値の80%だけ即回復。混乱状態が解除(戦闘につき1回発動)\n- バフ効果発動時に次のターンから5ターンの間、ターン開始時に攻撃威力増加2を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 체력이 0이 될 때, 체력이 1 미만으로 감소하지 않고, 전체 체력의 80%만큼 즉시 회복. 흐트러짐 상태 해제 (전투당 1회 발동)\n- 버프 효과 발동 시 다음 턴부터 5턴 동안 턴 시작 시 공격 위력 증가 2 얻음.\nEN:\n-When this unit takes lethal damage, their HP does not drop below 1, instantly heals 80% of their max HP, and recovers from Stagger. (Once per Encounter)\n- When this buff effect activates, starting next turn, this unit gains 2 Attack Power Up at every Turn Start for 5 turns."
   },
   {
     "key": "VibrationChain-name",
-    "original": "振動 - 鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "振動 - 鎖\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "振動 - 鎖\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振動 - 鎖\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n진동 - 사슬\nEN:\nTremor - Chain"
   },
   {
     "key": "VibrationChain-desc",
-    "original": "- 振動 威力10につき、マッチ威力が1減少(最大3)\n- {1}ターンの間、振動爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n- (振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 振動 威力10につき、マッチ威力が1減少(最大3)\n- {1}ターンの間、振動爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n- (振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 振動 威力10につき、マッチ威力が1減少(最大3)\n- {1}ターンの間、振動爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n- (振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 振動 威力10につき、マッチ威力が1減少(最大3)\n- {1}ターンの間、振動爆発スキルで被ダメージ時に{0}だけ混乱区間が前進\n- ターン終了時に回数が1減少\n- (振動 威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 진동 위력 10 당 합 위력 1 감소 (최대 3)\n- {1}턴 동안 진동 폭발 스킬로 피격 시 {0}만큼 흐트러짐 손상\n- 턴 종료 후 횟수 1 감소\n- (진동 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)\nEN:\n- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- For {1} Turns: When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by {0}.\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)"
   },
   {
     "key": "VibrationChain-summary",
-    "original": "振動威力10につき、マッチ威力が1減少\n{0}だけ混乱区間が前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "振動威力10につき、マッチ威力が1減少\n{0}だけ混乱区間が前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "振動威力10につき、マッチ威力が1減少\n{0}だけ混乱区間が前進\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振動威力10につき、マッチ威力が1減少\n{0}だけ混乱区間が前進\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n진동 위력 10 당 합 위력 1 감소\n{0}만큼 흐트러짐 손상\nEN:\nLose 1 Clash Power for every 10 Tremor Potency on self\nRaise Stagger Threshold by {0}"
   },
   {
     "key": "TimeRentalTwo-name",
-    "original": "T社の時間貸与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "T社の時間貸与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "T社の時間貸与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "T社の時間貸与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nT사의 시간 대여\nEN:\nT Corp. Borrowed Time"
   },
   {
     "key": "TimeRentalTwo-desc",
-    "original": "ターン終了時\n- 次のターンにクイック、マッチ威力増加、脆弱を{1}だけ得る\n- 回数が1なら、ターン終了時効果の代わりに次のターンにて束縛{0}を得る\n- 威力1増加、回数1減少\n- 持っているクイックより束縛が多い場合、時間貸与を解除して混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時\n- 次のターンにクイック、マッチ威力増加、脆弱を{1}だけ得る\n- 回数が1なら、ターン終了時効果の代わりに次のターンにて束縛{0}を得る\n- 威力1増加、回数1減少\n- 持っているクイックより束縛が多い場合、時間貸与を解除して混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時\n- 次のターンにクイック、マッチ威力増加、脆弱を{1}だけ得る\n- 回数が1なら、ターン終了時効果の代わりに次のターンにて束縛{0}を得る\n- 威力1増加、回数1減少\n- 持っているクイックより束縛が多い場合、時間貸与を解除して混乱状態になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時\n- 次のターンにクイック、マッチ威力増加、脆弱を{1}だけ得る\n- 回数が1なら、ターン終了時効果の代わりに次のターンにて束縛{0}を得る\n- 威力1増加、回数1減少\n- 持っているクイックより束縛が多い場合、時間貸与を解除して混乱状態になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료시\n-다음 턴에 신속, 합 위력 증가, 취약 {1} 만큼 얻음.\n- 횟수가 1이면, 턴 종료시 효과를 대신하여 다음 턴에 속박 {0} 얻음\n- 위력 1 증가, 횟수 1 감소\n- 가지고 있는 신속보다 속박이 많을 경우 시간 대여 해제, 흐트러짐 상태가 됨.\nEN:\nTurn End:\n- Gain {1} Haste, Clash Power Up, and Fragile next turn.\n- At 1 Count, gain {0} Bind next turn instead.\n- Gain 1 Stack and lose 1 Count\n- If this unit has more Bind than it has Haste, the Borrowed Time effect expires and this unit gets Staggered."
   },
   {
     "key": "TimeAccumulation-name",
-    "original": "時間漏尽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間漏尽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間漏尽\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間漏尽\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 누진\nEN:\nTime Delay"
   },
   {
     "key": "TimeAccumulation-desc",
-    "original": "この効果がある間、ダメージを受けずに保存する。\nターン終了時に1減少\nターン終了時の数値が1なら、保存したダメージの2倍だけ怠惰ダメージを与えて効果を除去\nこの効果が存在するとき、追加で得たり更新されたりしない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この効果がある間、ダメージを受けずに保存する。\nターン終了時に1減少\nターン終了時の数値が1なら、保存したダメージの2倍だけ怠惰ダメージを与えて効果を除去\nこの効果が存在するとき、追加で得たり更新されたりしない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この効果がある間、ダメージを受けずに保存する。\nターン終了時に1減少\nターン終了時の数値が1なら、保存したダメージの2倍だけ怠惰ダメージを与えて効果を除去\nこの効果が存在するとき、追加で得たり更新されたりしない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この効果がある間、ダメージを受けずに保存する。\nターン終了時に1減少\nターン終了時の数値が1なら、保存したダメージの2倍だけ怠惰ダメージを与えて効果を除去\nこの効果が存在するとき、追加で得たり更新されたりしない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 효과가 있는 동안 피해를 받지 않고 저장함.\n턴 종료 시 1 감소\n턴 종료 시 수치가 1이면, 저장한 피해의 2배만큼 나태 피해를 주고 효과 제거\n이 효과가 존재할 때, 추가로 얻거나 갱신되지 않음\nEN:\nAs long as this effect is active, damage dealt against this unit is stored and not taken.\nTurn End: reduce value by 1\nTurn End: If there is only 1 value left of this effect, the effect expires after dealing (2 x stored damage) Sloth damage to this unit\nWhen this effect is active, its value cannot be gained or be refreshed."
   },
   {
     "key": "ParryingResultDown-name",
-    "original": "マッチ威力減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력 감소\nEN:\nClash Power Down"
   },
   {
     "key": "ParryingResultDown-desc",
-    "original": "マッチ進行時、マッチ威力が数値だけ減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ進行時、マッチ威力が数値だけ減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ進行時、マッチ威力が数値だけ減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ進行時、マッチ威力が数値だけ減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 진행 시, 합 위력이 수치만큼 감소\nEN:\nIn a Clash, lose Clash Power equal to the value"
   },
   {
     "key": "ParryingResultUp-name",
-    "original": "マッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력 증가\nEN:\nClash Power Up"
   },
   {
     "key": "ParryingResultUp-desc",
-    "original": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 진행 시, 합 위력이 수치만큼 증가\nEN:\nIn a Clash, gain Clash Power equal to the value"
   },
   {
     "key": "ParryingResultUp-summary",
-    "original": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ進行時、マッチ威力が数値だけ増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 진행 시, 합 위력이 수치만큼 증가\nEN:\nIn a Clash, gain Clash Power equal to the value"
   },
   {
     "key": "LimitedTime-name",
-    "original": "奪った時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "奪った時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "奪った時間\n<CMT_KR>\n<CMT_JP>",
+    "translation": "奪った時間\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빼앗은 시간\nEN:\nStolen Time"
   },
   {
     "key": "LimitedTime-desc",
-    "original": "- ターン開始時の数値が200以上なら、({0} - 200) ÷ 50だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が200未満なら、(200 - {0}) ÷ 50だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- ターン開始時の数値が200以上なら、({0} - 200) ÷ 50だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が200未満なら、(200 - {0}) ÷ 50だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- ターン開始時の数値が200以上なら、({0} - 200) ÷ 50だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が200未満なら、(200 - {0}) ÷ 50だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時の数値が200以上なら、({0} - 200) ÷ 50だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が200未満なら、(200 - {0}) ÷ 50だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 턴 시작 시 수치가 200 이상이면, ({0} - 200)/50만큼 공격 레벨 증가, 방어 레벨 증가를 얻음.\n- 턴 시작 시 수치가 200 미만이면, (200 - {0})/50 만큼 공격 레벨 감소, 방어 레벨 감소를 얻음.\nEN:\n- Turn Start: At 200+ value, gain ({0}- 200)/50 Offense Level Up & Defense Level Up.\n- Turn Start: At less than 200 value, gain (200 - {0})/50 Offense Level Down & Defense Level Down."
   },
   {
     "key": "OwnTime-name",
-    "original": "分担時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "分担時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "分担時間\n<CMT_KR>\n<CMT_JP>",
+    "translation": "分担時間\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분담 시간\nEN:\nShared Time"
   },
   {
     "key": "OwnTime-desc",
-    "original": "- ターン開始時の数値が40以上なら、({0} - 40) ÷ 10だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が40未満なら、(40 - {0}) ÷ 10だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- ターン開始時の数値が40以上なら、({0} - 40) ÷ 10だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が40未満なら、(40 - {0}) ÷ 10だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- ターン開始時の数値が40以上なら、({0} - 40) ÷ 10だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が40未満なら、(40 - {0}) ÷ 10だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時の数値が40以上なら、({0} - 40) ÷ 10だけ攻撃レベル増加、防御レベル増加を得る。\n- ターン開始時の数値が40未満なら、(40 - {0}) ÷ 10だけ攻撃レベル減少、防御レベル減少を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 턴 시작 시 수치가 40 이상이면, ({0} - 40)/10 만큼 공격 레벨 증가, 방어 레벨 증가를 얻음.\n- 턴 시작 시 수치가 40 미만이면, (40 - {0})/10 만큼 공격 레벨 감소, 방어 레벨 감소를 얻음.\nEN:\n- Turn Start: At 40+ value, gain ({0}- 40)/10 Offense Level Up & Defense Level Up.\n- Turn Start: At less than 40 value, gain (40 - {0})/10 Offense Level Down & Defense Level Down."
   },
   {
     "key": "EquitableDistribution-name",
-    "original": "時間共同分担支出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間共同分担支出\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間共同分担支出\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間共同分担支出\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 공동 분담 지출\nEN:\nJoint Time Expenditure"
   },
   {
     "key": "EquitableDistribution-desc",
-    "original": "分担時間が消耗されるとき、全ての脳が公正に時間を支出する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "分担時間が消耗されるとき、全ての脳が公正に時間を支出する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "分担時間が消耗されるとき、全ての脳が公正に時間を支出する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "分担時間が消耗されるとき、全ての脳が公正に時間を支出する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분담 시간이 소모될 때, 모든 뇌가 공정하게 시간을 지출함.\nEN:\nWhen spending Shared Time, the Brains spend an equal amount of time across the board."
   },
   {
     "key": "UnfairDistribution-name",
-    "original": "内部分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "内部分裂\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "内部分裂\n<CMT_KR>\n<CMT_JP>",
+    "translation": "内部分裂\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n내부 분열\nEN:\nInfighting"
   },
   {
     "key": "UnfairDistribution-desc",
-    "original": "分担時間が消耗した時、それぞれの脳が気まぐれに時間を支出する\nターン開始時、残った時間が同一でない部位の数だけ全ての部位が保護を失う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "分担時間が消耗した時、それぞれの脳が気まぐれに時間を支出する\nターン開始時、残った時間が同一でない部位の数だけ全ての部位が保護を失う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "分担時間が消耗した時、それぞれの脳が気まぐれに時間を支出する\nターン開始時、残った時間が同一でない部位の数だけ全ての部位が保護を失う\n<CMT_KR>\n<CMT_JP>",
+    "translation": "分担時間が消耗した時、それぞれの脳が気まぐれに時間を支出する\nターン開始時、残った時間が同一でない部位の数だけ全ての部位が保護を失う\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분담 시간이 소모될 때 각 뇌가 내키는대로 시간을 지출함.\n턴 시작 시 남은 시간이 동일하지 않은 부위의 수만큼 모든 부위가 보호를 잃음.\nEN:\nWhen spending Shared Time, the Brains no longer spend an equal amount of time across the board.\nTurn Start: all parts lose Protection equal to the number of Parts with different remaining Time values."
   },
   {
     "key": "TimeAcceleration-name",
-    "original": "時間加速\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間加速\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間加速\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間加速\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 가속\nEN:\nTime Acceleration"
   },
   {
     "key": "TimeAcceleration-desc",
-    "original": "- 自分の速度が5増加\n- 自分のスキルが強化\n- 脆弱1を得て、振動爆発・スキル・コイン効果で受ける混乱区間前進量が50%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 自分の速度が5増加\n- 自分のスキルが強化\n- 脆弱1を得て、振動爆発・スキル・コイン効果で受ける混乱区間前進量が50%増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 自分の速度が5増加\n- 自分のスキルが強化\n- 脆弱1を得て、振動爆発・スキル・コイン効果で受ける混乱区間前進量が50%増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分の速度が5増加\n- 自分のスキルが強化\n- 脆弱1を得て、振動爆発・スキル・コイン効果で受ける混乱区間前進量が50%増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 자신의 속도 5 증가\n- 자신의 스킬이 강화됨.\n- 취약 1을 얻고, 진동 폭발, 스킬, 코인 효과로 받는 흐트러짐 손상이 50% 증가함.\nEN:\n- Gain 5 Speed\n- Enhances this unit's Skills.\n- Gain 1 Fragile; when Tremor Burst, Skill or Coin effect raises this unit's Stagger Threshold, it raises it by +50% more."
   },
   {
     "key": "Yurodivy_LowMorale-name",
-    "original": "崩れた団結\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "崩れた団結\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "崩れた団結\n<CMT_KR>\n<CMT_JP>",
+    "translation": "崩れた団結\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어긋난 단결\nEN:\nBroken Unity"
   },
   {
     "key": "Yurodivy_LowMorale-desc",
-    "original": "- 士気低下\n脆弱1を得る。被ダメージ時、自分の振動回数が1増加。(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 士気低下\n脆弱1を得る。被ダメージ時、自分の振動回数が1増加。(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 士気低下\n脆弱1を得る。被ダメージ時、自分の振動回数が1増加。(最大3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 士気低下\n脆弱1を得る。被ダメージ時、自分の振動回数が1増加。(最大3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 사기 저하\n취약 1 얻음. 피격시, 자신의 진동 횟수 1 증가. (최대 3회)\nEN:\n- Low Morale\nGain 1 Fragile. Gain 1 Tremor Count when hit. (3 times max)"
   },
   {
     "key": "Yurodivy_Panic-name",
-    "original": "崩れた団結\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "崩れた団結\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "崩れた団結\n<CMT_KR>\n<CMT_JP>",
+    "translation": "崩れた団結\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어긋난 단결\nEN:\nBroken Unity"
   },
   {
     "key": "Yurodivy_Panic-desc",
-    "original": "- パニック\n脆弱2を得る。被ダメージ時、自分の振動回数が2増加。(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- パニック\n脆弱2を得る。被ダメージ時、自分の振動回数が2増加。(最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- パニック\n脆弱2を得る。被ダメージ時、自分の振動回数が2増加。(最大3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- パニック\n脆弱2を得る。被ダメージ時、自分の振動回数が2増加。(最大3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 패닉\n취약 2 얻음. 피격 시, 자신의 진동 횟수 2 증가. (최대 3회)\nEN:\n- Panic\nGain 2 Fragile. Gain 2 Tremor Count when hit. (3 times max)"
   },
   {
     "key": "TimeKillerWatch-name",
-    "original": "時間救済対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間救済対象\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間救済対象\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間救済対象\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 구제 대상\nEN:\nTime Relief Entitlement"
   },
   {
     "key": "TimeKillerWatch-desc",
-    "original": "時間加速状態の間、時間殺人鬼の攻撃対象になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間加速状態の間、時間殺人鬼の攻撃対象になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間加速状態の間、時間殺人鬼の攻撃対象になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間加速状態の間、時間殺人鬼の攻撃対象になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 가속 상태동안 시간 살인마의 공격 대상이 됨.\nEN:\nTargeted by the Time Ripper while Time Acceleration is active."
   }

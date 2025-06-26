@@ -1,43 +1,43 @@
 [
   {
     "key": "1027-panicName",
-    "original": "飢え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "飢え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "飢え\n<CMT_KR>\n<CMT_JP>",
+    "translation": "飢え\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n굶주림\nEN:\nHunger"
   },
   {
     "key": "1027-lowMoraleDescription",
-    "original": "ターン開始時、[Binding]1, [Enhancement]2を得る。ターン終了時、精神力5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[Binding]1, [Enhancement]2を得る。ターン終了時、精神力5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[Binding]1, [Enhancement]2を得る。ターン終了時、精神力5ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Binding]1, [Enhancement]2を得る。ターン終了時、精神力5ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [Binding] 1, [Enhancement] 2 얻음. 턴 종료 시, 정신력 5 피해\nEN:\nTurn Start: Gain 1 [Binding] and 2 [Enhancement]. Take 5 SP damage at Turn End"
   },
   {
     "key": "1027-panicDescription",
-    "original": "ターン開始時、[Binding]2, [Enhancement]4を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[Binding]2, [Enhancement]4を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[Binding]2, [Enhancement]4を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Binding]2, [Enhancement]4を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [Binding] 2, [Enhancement] 4 얻음.\nEN:\nTurn Start: gain 2 [Binding] and 4 [Enhancement]."
   },
   {
     "key": "1028-panicName",
-    "original": "1対1戦力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "1対1戦力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "1対1戦力\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1対1戦力\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n1:1 전력\nEN:\nDuel Specialist"
   },
   {
     "key": "1028-lowMoraleDescription",
-    "original": "ターン開始時、[AttackUp]2を得る。マッチ敗北時、[DefenseDown]1を得る(1ターンにつき最大3)。速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[AttackUp]2を得る。マッチ敗北時、[DefenseDown]1を得る(1ターンにつき最大3)。速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[AttackUp]2を得る。マッチ敗北時、[DefenseDown]1を得る(1ターンにつき最大3)。速度最小値 -1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[AttackUp]2を得る。マッチ敗北時、[DefenseDown]1を得る(1ターンにつき最大3)。速度最小値 -1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [AttackUp] 2 얻음. 합 패배 시 [DefenseDown] 1얻음 (턴 당 최대 3). 속도 최솟값 -1\nEN:\nTurn Start: Gain 2 [AttackUp]. On Clash Lose, gain 1 [DefenseDown] (max 3 per turn). Min. Speed -1"
   },
   {
     "key": "1028-panicDescription",
-    "original": "ターン開始時、[AttackUp]4を得る。マッチ敗北時、[DefenseDown]2を得る(1ターンにつき最大6)。速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[AttackUp]4を得る。マッチ敗北時、[DefenseDown]2を得る(1ターンにつき最大6)。速度最小値 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[AttackUp]4を得る。マッチ敗北時、[DefenseDown]2を得る(1ターンにつき最大6)。速度最小値 -1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[AttackUp]4を得る。マッチ敗北時、[DefenseDown]2を得る(1ターンにつき最大6)。速度最小値 -1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [AttackUp] 4 얻음. 합 패배 시 [DefenseDown] 2얻음 (턴 당 최대 6). 속도 최솟값 -1\nEN:\nTurn Start: Gain 4 [AttackUp]. On Clash Lose, gain 2 [DefenseDown] (max 6 per turn). Min. Speed -1"
   }

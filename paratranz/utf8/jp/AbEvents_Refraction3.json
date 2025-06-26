@@ -1,442 +1,442 @@
 [
   {
     "key": "857701-title",
-    "original": "紅炎蛾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "紅炎蛾\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "紅炎蛾\n<CMT_KR>\n<CMT_JP>",
+    "translation": "紅炎蛾\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍염나방\nEN:\nArdor Blossom Moth"
   },
   {
     "key": "857701-prevDesc",
-    "original": "赤く燃えているその炎の中には、暗い影がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "赤く燃えているその炎の中には、暗い影がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "赤く燃えているその炎の中には、暗い影がある。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "赤く燃えているその炎の中には、暗い影がある。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n발갛게 타고 있는 그 불꽃 속엔 어두운 그림자가 있어.\nEN:\nA dark shadow lingers amidst the licking tongues of the crimson flame."
   },
   {
     "key": "857701-eventDesc",
-    "original": "花火の形状をした蛾、その真ん中には暗い影がある。\n\nその形状が正確には見えなったけど…なんとなく、その影が蛾の核だということが分かった。\n\nそれを引き剥がすことができれば、少しの間かもしれないけど炎を消すことができるのではないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "花火の形状をした蛾、その真ん中には暗い影がある。\n\nその形状が正確には見えなかったけど…なんとなく、その影が蛾の核だということが分かった。\n\nそれを引き剥がすことができれば、少しの間かもしれないけど炎を消すことができるのではないか。\n<CMT_KR>오식: \"その形状が正確には見えな「」ったけど…なんとなく、その影が蛾の核だということが分かった。\"  정확: \"その形状が正確には見えな「か」ったけど…\"\n<CMT_EN>Typo: \"その形状が正確には見えな「」ったけど…なんとなく、その影が蛾の核だということが分かった。\"  Correction: \"その形状が正確には見えな「か」ったけど…\"\n<CMT_JP>誤植: \"その形状が正確には見えな「」ったけど…なんとなく、その影が蛾の核だということが分かった。\"  訂正後: \"その形状が正確には見えな「か」ったけど…\"",
+    "original": "花火の形状をした蛾、その真ん中には暗い影がある。\n\nその形状が正確には見えなったけど…なんとなく、その影が蛾の核だということが分かった。\n\nそれを引き剥がすことができれば、少しの間かもしれないけど炎を消すことができるのではないか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "花火の形状をした蛾、その真ん中には暗い影がある。\n\nその形状が正確には見えなかったけど…なんとなく、その影が蛾の核だということが分かった。\n\nそれを引き剥がすことができれば、少しの間かもしれないけど炎を消すことができるのではないか。\n<CMT_KR>오기: \"その形状が正確には見えな「」ったけど…なんとなく、その影が蛾の核だということが分かった。\"  정확: \"その形状が正確には見えな「か」ったけど…\"\n<CMT_JP>誤記: \"その形状が正確には見えな「」ったけど…なんとなく、その影が蛾の核だということが分かった。\"  訂正後: \"その形状が正確には見えな「か」ったけど…\"",
     "stage": 1,
     "context": "KR:\n불꽃의 형상을 한 나방, 그 가운데엔 어두운 그림자가 있어.\n\n그 형태가 정확하게 보이지는 않았지만… 어쩐지 그 그림자가 나방의 핵심이라는 걸 알 수 있었지.\n\n그걸 떼어낼 수 있다면, 잠시나마 불꽃을 사그라뜨릴 수 있지는 않을까.\nEN:\nA dark shadow lingers at the center of the flaming moth.\n\nIts form was vague and mercurial, yet... somehow, you can tell that the shadow is the very core of the moth.\n\nIf that shadow could be separated from the flames, perhaps its heat may momentarily subside."
   },
   {
     "key": "857701-behaveDesc",
-    "original": "どんな囚人があれに触れられるだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "どんな囚人があれに触れられるだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "どんな囚人があれに触れられるだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "どんな囚人があれに触れられるだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어떤 수감자가 저것에 닿을 수 있을까?\nEN:\nWho will reach out for the shadow?"
   },
   {
     "key": "857701-successDesc[0]",
-    "original": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\n手先から爛れていったが、囚人[{0}]の精神力の方がさらに熱かったんだろうか。\n\n蛾が何かしようとする前に、囚人[{0}]その中の黒いものを捕まえて外に放り投げた。\n\nその瞬間、蛾と囚人たちについていた炎と火種が消えた。\n\nまるで、炎が初めからそこになかったかのように。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\n手先から爛れていったが、囚人[{0}]の精神力の方がさらに熱かったんだろうか。\n\n蛾が何かしようとする前に、囚人[{0}]はその中の黒いものを捕まえて外に放り投げた。\n\nその瞬間、蛾と囚人たちについていた炎と火種が消えた。\n\nまるで、炎が初めからそこになかったかのように。\n<CMT_KR>오식: \"蛾が何かしようとする前に、囚人[{0}]「」その中の黒いものを捕まえて外に放り投げた。\" 정확: \"囚人[{0}]「は」その中の黒いものを捕まえて外に放り投げた。\"\n<CMT_EN>Typo: \"蛾が何かしようとする前に、囚人[{0}]「」その中の黒いものを捕まえて外に放り投げた。\" Correction: \"囚人[{0}]「は」その中の黒いものを捕まえて外に放り投げた。\"\n<CMT_JP>誤植: \"蛾が何かしようとする前に、囚人[{0}]「」その中の黒いものを捕まえて外に放り投げた。\" 訂正後: \"囚人[{0}]「は」その中の黒いものを捕まえて外に放り投げた。\"",
+    "original": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\n手先から爛れていったが、囚人[{0}]の精神力の方がさらに熱かったんだろうか。\n\n蛾が何かしようとする前に、囚人[{0}]その中の黒いものを捕まえて外に放り投げた。\n\nその瞬間、蛾と囚人たちについていた炎と火種が消えた。\n\nまるで、炎が初めからそこになかったかのように。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\n手先から爛れていったが、囚人[{0}]の精神力の方がさらに熱かったんだろうか。\n\n蛾が何かしようとする前に、囚人[{0}]はその中の黒いものを捕まえて外に放り投げた。\n\nその瞬間、蛾と囚人たちについていた炎と火種が消えた。\n\nまるで、炎が初めからそこになかったかのように。\n<CMT_KR>오기: \"蛾が何かしようとする前に、囚人[{0}]「」その中の黒いものを捕まえて外に放り投げた。\" 정확: \"囚人[{0}]「は」その中の黒いものを捕まえて外に放り投げた。\"\n<CMT_JP>誤記: \"蛾が何かしようとする前に、囚人[{0}]「」その中の黒いものを捕まえて外に放り投げた。\" 訂正後: \"囚人[{0}]「は」その中の黒いものを捕まえて外に放り投げた。\"",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 타들어 가는 고통을 참으며, 불꽃을 향해 손을 뻗었어.\n\n손끝부터 짓물러 가고 있지만, [{0}] 수감자의 정신력이 더욱 뜨거웠던 걸까.\n\n나방이 무얼 해보기도 전에, [{0}] 수감자는 그 속의 까만 것을 잡아 밖으로 집어 던졌지.\n\n그 순간, 나방과 수감자들에게 붙어있던 불꽃과 불씨가 사그라들었어.\n\n마치, 불꽃이 처음부터 그곳에 없었던 것처럼.\nEN:\n[{0}] reaches out toward the flames, enduring through the burning fire.\n\nTheir fingertips begin to blister and bubble, but perhaps [{0}]'s passion burned hotter tham the flames itself.\n\nBefore the moth could do anything, [{0}] wrest the dark thing from the flames and hurled it away from the fire.\n\nThe fire and the embers on both the moth and the Sinners immediately subsided.\n\nAs though the flames had never burned."
   },
   {
     "key": "857701-failureDesc[0]",
-    "original": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\nしかし、皮膚が爛れてくその苦痛を長く我慢することは難しかったのか、結局は影に触れることができないまま腕を抜いてしまったんだ。\n\n一度与えられた機会を逃した代価は、惨憺たる結果になるしかないよね。\n\n蛾の羽ばたきがだんだん大きくなり始め、炎がそれに応えるように大きく強く燃え上がった。\n\nその炎が囚人たちを襲ったというのは当然の因果だろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\nしかし、皮膚が爛れてくその苦痛を長く我慢することは難しかったのか、結局は影に触れることができないまま腕を抜いてしまったんだ。\n\n一度与えられた機会を逃した代価は、惨憺たる結果になるしかないよね。\n\n蛾の羽ばたきがだんだん大きくなり始め、炎がそれに応えるように大きく強く燃え上がった。\n\nその炎が囚人たちを襲ったというのは当然の因果だろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\nしかし、皮膚が爛れてくその苦痛を長く我慢することは難しかったのか、結局は影に触れることができないまま腕を抜いてしまったんだ。\n\n一度与えられた機会を逃した代価は、惨憺たる結果になるしかないよね。\n\n蛾の羽ばたきがだんだん大きくなり始め、炎がそれに応えるように大きく強く燃え上がった。\n\nその炎が囚人たちを襲ったというのは当然の因果だろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は燃え上がる苦痛をこらえ、炎に向かって手を伸ばした。\n\nしかし、皮膚が爛れてくその苦痛を長く我慢することは難しかったのか、結局は影に触れることができないまま腕を抜いてしまったんだ。\n\n一度与えられた機会を逃した代価は、惨憺たる結果になるしかないよね。\n\n蛾の羽ばたきがだんだん大きくなり始め、炎がそれに応えるように大きく強く燃え上がった。\n\nその炎が囚人たちを襲ったというのは当然の因果だろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 타들어 가는 고통을 참으며, 불꽃을 향해 손을 뻗었어.\n\n하지만 피부가 짓물러가는 그 고통을 오래 참기는 어려웠는지, 결국 그림자에 닿지 못하고 팔을 빼고 말았지.\n\n한 번 주어진 기회를 놓친 대가는 참담할 수밖에 없는 법이야.\n\n나방의 날갯짓이 점점 커지기 시작하더니, 불꽃이 그에 화답하듯이 크고 강하게 타올랐어.\n\n그 불꽃이 수감자들을 덮쳤다는 건 당연한 인과겠지.\nEN:\n[{0}] reaches out toward the flames, enduring through the burning fire.\n\nBut the pain of their very skin blistering and bubbling from the heat was far too much for them to bear. [{0}] pulled away from the flames before they reached the shadow.\n\nThe price of letting this opportunity fall through their fingers was devastating.\n\nThe moth begins to beat its wings faster and with unforeseen vigor; and the flames began rising higher and higher in return.\n\nIt need not be said that a world of fire soon descended upon the Sinners."
   },
   {
     "key": "857801-title",
-    "original": "宿した綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "宿した綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "宿した綿花\n<CMT_KR>\n<CMT_JP>",
+    "translation": "宿した綿花\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n머금은 목화\nEN:\nDrenched Gossypium"
   },
   {
     "key": "857801-prevDesc",
-    "original": "血を欲すツルがあちこちに刺さっている。どうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血を欲すツルがあちこちに刺さっている。どうすればいいかな？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血を欲すツルがあちこちに刺さっている。どうすればいいかな？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血を欲すツルがあちこちに刺さっている。どうすればいいかな？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 탐하는 덩굴이 여기저기 꽂혀있어. 어떻게 해야 할까?\nEN:\nBloodseeking vines puncture the Sinners. What will you do?"
   },
   {
     "key": "857801-eventDesc",
-    "original": "囚人たちが戦いを続ける度に、綿花のツルはひとつふたつ身体に突き刺さっていく。\n\n次々に血を吸っていくそのツルは、すぐに白い綿花の赤い部分を次々に増やしていく。\n\nどうにか引き剥がす方法はないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人たちが戦いを続ける度に、綿花のツルはひとつふたつ身体に突き刺さっていく。\n\n次々に血を吸っていくそのツルは、すぐに白い綿花の赤い部分を次々に増やしていく。\n\nどうにか引き剥がす方法はないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人たちが戦いを続ける度に、綿花のツルはひとつふたつ身体に突き刺さっていく。\n\n次々に血を吸っていくそのツルは、すぐに白い綿花の赤い部分を次々に増やしていく。\n\nどうにか引き剥がす方法はないだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人たちが戦いを続ける度に、綿花のツルはひとつふたつ身体に突き刺さっていく。\n\n次々に血を吸っていくそのツルは、すぐに白い綿花の赤い部分を次々に増やしていく。\n\nどうにか引き剥がす方法はないだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자들이 싸움을 이어 나갈 때마다 목화의 덩굴은 하나 둘 씩 몸에 꽂히고 있어.\n\n자꾸만 피를 가져가는 그 덩굴은, 곧바로 흰 목화의 붉은 부분을 차례차례 늘려가고 있지.\n\n어떻게 떼어낼 방법은 없는 걸까?\nEN:\nAs the fight prolonged, more and more vines from the Gossypium begin puncturing the Sinners.\n\nThe vines continue to drain blood from them, and the red patch on the white cotton part of the Gossypium grows.\n\nHow can these vines be detached from the Sinners?"
   },
   {
     "key": "857801-behaveDesc",
-    "original": "誰が前へ出ようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰が前へ出ようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰が前へ出ようか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰が前へ出ようか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 나서 볼까?\nEN:\nWho will step forth?"
   },
   {
     "key": "857801-successDesc[0]",
-    "original": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながら多くの囚人たちのツルを抜いた。\n\n当然、肌と筋肉が裂けて血がだらだらと流れたけど…。\n\nおかげで、もう綿花に血が吸われなくて済むようになったね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながら多くの囚人たちのツルを抜いた。\n\n当然、肌と筋肉が裂けて血がだらだらと流れたけど…。\n\nおかげで、もう綿花に血が吸われなくて済むようになったね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながら多くの囚人たちのツルを抜いた。\n\n当然、肌と筋肉が裂けて血がだらだらと流れたけど…。\n\nおかげで、もう綿花に血が吸われなくて済むようになったね。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながら多くの囚人たちのツルを抜いた。\n\n当然、肌と筋肉が裂けて血がだらだらと流れたけど…。\n\nおかげで、もう綿花に血が吸われなくて済むようになったね。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 덩굴은 찢거나 잘라낼 수는 없어.\n\n해볼 만한 것은, 다소 고통스럽겠지만… 누군가가 대신 나서서 덩굴을 잡아 뜯어 주는 방법이 있겠지.\n\n[{0}] 수감자는 목화가 다른 수감자들에 정신이 팔린 사이, 재빠르게 달리면서 여러 수감자들의 덩굴을 뽑아냈어.\n\n당연히, 살갗과 근육이 찢어지고 피가 줄줄 흘러내렸지만…\n\n덕분에, 더 이상 목화에게 피가 빨려가진 않아도 되게 되었네.\nEN:\nThese vines cannot be torn or cut.\n\nThough it may be painful, the only possible solution would be for someone else to pull the vines out of the Sinners.\n\nWhile the Gossypium busies itself fighting the other Sinners, [{0}] rushes forward to deftly pluck out the vines.\n\nOf course, this left their flesh and muscles torn and bleeding...\n\n... but at least that blood won't be going to the Gossypium."
   },
   {
     "key": "857801-failureDesc[0]",
-    "original": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながらツルを引っ張ったけど…。\n\n既に予想していたのか、そのツルたちは囚人[{0}]の腕を捕らえ、そのままめりめりと根を張ってしまった。\n\nやぶ蛇って、こういうことを言うんだよね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながらツルを引っ張ったけど…。\n\n既に予想していたのか、そのツルたちは囚人[{0}]の腕を捕らえ、そのままめりめりと根を張ってしまった。\n\nやぶ蛇って、こういうことを言うんだよね。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながらツルを引っ張ったけど…。\n\n既に予想していたのか、そのツルたちは囚人[{0}]の腕を捕らえ、そのままめりめりと根を張ってしまった。\n\nやぶ蛇って、こういうことを言うんだよね。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このツルは引き裂いたり切ったりすることはできない。\n\nできそうなのは、多少苦しいかもしれないけど…誰かが代わりに前へ出てツルを引き抜くことくらいだろう。\n\n囚人[{0}]は綿花が他の囚人たちに気を取られている間、素早く走りながらツルを引っ張ったけど…。\n\n既に予想していたのか、そのツルたちは囚人[{0}]の腕を捕らえ、そのままめりめりと根を張ってしまった。\n\nやぶ蛇って、こういうことを言うんだよね。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 덩굴은 찢거나 잘라낼 수는 없어.\n\n해볼 만한 것은, 다소 고통스럽겠지만… 누군가가 대신 나서서 덩굴을 잡아 뜯어 주는 방법이 있겠지.\n\n[{0}] 수감자는 목화가 다른 수감자들에 정신이 팔린 사이, 수감자들을 향해 달려가 덩굴을 잡아챘지만…\n\n이미 예상이라고 하고 있었던 건지, 그 덩굴들은 [{0}] 수감자의 팔을 타고 붙잡아, 그대로 콰득 거리며 뿌리를 박아버렸지.\n\n긁어 부스럼은, 이런 걸 두고 말하는 거지.\nEN:\nThese vines cannot be torn or cut.\n\nThough it may be painful, the only possible solution would be for someone else to pull the vines out of the Sinners.\n\nWhile the Gossypium busies itself fighting the other Sinners, [{0}] rushes forward to pluck out the vines.\n\n... it was as though the Gossypium knew exactly what they were about to do. The vines latched onto [{0}]'s arm and immediatelly dug under their skin.\n\nIt may have been better to do nothing at all."
   },
   {
     "key": "858501-prevDesc",
-    "original": "頭から爪先まで、全身へと喰い混むように強烈な視線が感じられる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "頭から爪先まで、全身へと喰い混むように強烈な視線が感じられる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "頭から爪先まで、全身へと喰い混むように強烈な視線が感じられる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "頭から爪先まで、全身へと喰い混むように強烈な視線が感じられる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n위에서 아래로 온몸을 파헤치듯 강렬한 시선이 느껴진다.\nEN:\nA piercing gaze sizes us up. It feels as though the gaze is seeing right through us."
   },
   {
     "key": "85850101-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850101-eventDesc",
-    "original": "全てを切り裂く視線は、軽蔑の螺旋すら切り裂くことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを切り裂く視線は、軽蔑の螺旋すら切り裂くことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを切り裂く視線は、軽蔑の螺旋すら切り裂くことができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを切り裂く視線は、軽蔑の螺旋すら切り裂くことができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 잘라내는 시선은 경멸의 나선마저 잘라낼 수 있을 것이다.\nEN:\nThe gaze that cleaves all can cleave even the Spiral of Contempt."
   },
   {
     "key": "85850101-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850101-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850101-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850102-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850102-eventDesc",
-    "original": "全てを貫く視線は、軽蔑の螺旋すら貫くことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを貫く視線は、軽蔑の螺旋すら貫くことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを貫く視線は、軽蔑の螺旋すら貫くことができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを貫く視線は、軽蔑の螺旋すら貫くことができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 꿰뚫는 시선은 경멸의 나선마저 꿰뚫을 수 있을 것이다.\nEN:\nThe gaze that pierces all can pierce even the Spiral of Contempt."
   },
   {
     "key": "85850102-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850102-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850102-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850103-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850103-eventDesc",
-    "original": "全てを押し潰す視線は、軽蔑の螺旋すら押し潰すことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを押し潰す視線は、軽蔑の螺旋すら押し潰すことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを押し潰す視線は、軽蔑の螺旋すら押し潰すことができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを押し潰す視線は、軽蔑の螺旋すら押し潰すことができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 짓누르는 시선은 경멸의 나선마저 짓누를 수 있을 것이다.\nEN:\nThe gaze that crushes all can crush even the Spiral of Contempt."
   },
   {
     "key": "85850103-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850103-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850103-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850201-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850201-eventDesc",
-    "original": "全てを燃やす視線は、軽蔑の螺旋すら燃やすことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを燃やす視線は、軽蔑の螺旋すら燃やすことができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを燃やす視線は、軽蔑の螺旋すら燃やすことができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを燃やす視線は、軽蔑の螺旋すら燃やすことができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 불태우는 시선은 경멸의 나선마저 불태울 수 있을 것이다.\nEN:\nThe gaze that burns all can burn even the Spiral of Contempt."
   },
   {
     "key": "85850201-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850201-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850201-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850202-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850202-eventDesc",
-    "original": "全てを傷付ける視線は、軽蔑の螺旋すら傷付けることができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを傷付ける視線は、軽蔑の螺旋すら傷付けることができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを傷付ける視線は、軽蔑の螺旋すら傷付けることができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを傷付ける視線は、軽蔑の螺旋すら傷付けることができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 상처내는 시선은 경멸의 나선마저 상처낼 수 있을 것이다.\nEN:\nThe gaze that wounds all can wound even the Spiral of Contempt."
   },
   {
     "key": "85850202-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850202-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850202-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850203-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850203-eventDesc",
-    "original": "全てを見張る視線は、軽蔑の螺旋すら見張ることができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを見張る視線は、軽蔑の螺旋すら見張ることができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを見張る視線は、軽蔑の螺旋すら見張ることができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを見張る視線は、軽蔑の螺旋すら見張ることができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 지켜보는 시선은 경멸의 나선마저 지켜보게 할 수 있을 것이다.\nEN:\nThe gaze that beholds all can make even the Spiral of Contempt behold."
   },
   {
     "key": "85850203-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850203-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850203-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850204-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850204-eventDesc",
-    "original": "全てを貪食する視線は、軽蔑の螺旋すら貪食することができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを貪食する視線は、軽蔑の螺旋すら貪食することができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを貪食する視線は、軽蔑の螺旋すら貪食することができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを貪食する視線は、軽蔑の螺旋すら貪食することができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 탐식하는 시선은 경멸의 나선마저 탐식할 수 있을 것이다.\nEN:\nThe gaze that devours all can devour even the Spiral of Contempt."
   },
   {
     "key": "85850204-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850204-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850204-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850205-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850205-eventDesc",
-    "original": "全てを沈滞させる視線は、軽蔑の螺旋すら沈滞させることができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを沈滞させる視線は、軽蔑の螺旋すら沈滞させることができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを沈滞させる視線は、軽蔑の螺旋すら沈滞させることができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを沈滞させる視線は、軽蔑の螺旋すら沈滞させることができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 침체하는 시선은 경멸의 나선마저 침체시킬 수 있을 것이다.\nEN:\nThe gaze that beglooms all can begloom even the Spiral of Contempt."
   },
   {
     "key": "85850205-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850205-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850205-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850206-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850206-eventDesc",
-    "original": "全てを蔑視する視線は、軽蔑の螺旋すら蔑視することができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを蔑視する視線は、軽蔑の螺旋すら蔑視することができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを蔑視する視線は、軽蔑の螺旋すら蔑視することができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを蔑視する視線は、軽蔑の螺旋すら蔑視することができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 멸시하는 시선은 경멸의 나선마저 멸시할 수 있을 것이다.\nEN:\nThe gaze filled with scorn for all things can scorn even the Spiral of Contempt."
   },
   {
     "key": "85850206-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850206-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850206-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   },
   {
     "key": "85850207-title",
-    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "軽蔑の螺旋\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경멸의 나선\nEN:\nSpiral of Contempt"
   },
   {
     "key": "85850207-eventDesc",
-    "original": "全てを嫉妬する視線は、軽蔑の螺旋すら嫉妬することができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを嫉妬する視線は、軽蔑の螺旋すら嫉妬することができるだろう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを嫉妬する視線は、軽蔑の螺旋すら嫉妬することができるだろう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを嫉妬する視線は、軽蔑の螺旋すら嫉妬することができるだろう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 질투하는 시선은 경멸의 나선마저 질투할 수 있을 것이다.\nEN:\nThe gaze filled with envy for all things can envy even the Spiral of Contempt."
   },
   {
     "key": "85850207-behaveDesc",
-    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がこの視線を、軽蔑の視線へ伝えるんだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누가 이 시선을 경멸의 나선에게 전해줄까?\nEN:\nWho will convey this gaze unto the Spiral of Contempt?"
   },
   {
     "key": "85850207-successDesc[0]",
-    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は軽蔑の螺旋へ、自分が全身で感じた視線を伝えた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 경멸의 나선에게 자신이 온몸으로 느낀 시선을 전해주었다.\nEN:\n[{0}] conveyed to the Spiral of Contempt the gaze they once felt with their entire body."
   },
   {
     "key": "85850207-failureDesc[0]",
-    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人[{0}]は自身が感じた視線を伝えようとしたが、軽蔑の螺旋はそれもまた軽蔑した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[{0}] 수감자는 자신이 느낀 시선을 전해주려했으나, 경멸의 나선은 그 또한 경멸했다.\nEN:\n[{0}] attempted to convey to the Spiral of Contempt the gaze they once felt, but it contempted that as well."
   }

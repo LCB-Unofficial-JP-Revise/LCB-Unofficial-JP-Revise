@@ -1,85 +1,85 @@
 [
   {
     "key": "A1c971a-name",
-    "original": "湧き上がる憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "湧き上がる憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "湧き上がる憤怒\n<CMT_KR>\n<CMT_JP>",
+    "translation": "湧き上がる憤怒\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n끓어오르는 분노\nEN:\nBoiling Wrath"
   },
   {
     "key": "A1c971a-desc",
-    "original": "毎ターン開始時、ターン数だけ火傷を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン開始時、ターン数だけ火傷を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン開始時、ターン数だけ火傷を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン開始時、ターン数だけ火傷を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴 시작 시, 턴 수만큼 화상을 얻음.\nEN:\nEvery Turn Start: gain Burn equal to Turn Count"
   },
   {
     "key": "A1c971b-name",
-    "original": "広がる憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "広がる憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "広がる憂鬱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "広がる憂鬱\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n퍼져나가는 우울\nEN:\nPropagating Gloom"
   },
   {
     "key": "A1c971b-desc",
-    "original": "ターン終了時に数値が1なら、体力が最も低い敵へ自分の残体力だけダメージを与えて死亡する\nターン終了時、1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に数値が1なら、体力が最も低い敵へ自分の残体力だけダメージを与えて死亡する\nターン終了時、1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に数値が1なら、体力が最も低い敵へ自分の残体力だけダメージを与えて死亡する\nターン終了時、1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に数値が1なら、体力が最も低い敵へ自分の残体力だけダメージを与えて死亡する\nターン終了時、1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 수치가 1이라면 체력이 가장 적은 적에게 자신의 현재 체력만큼 피해를 입히고 사망함\n턴 종료 시, 1 감소\nEN:\nTurn End: at 1 Stack, inflict damage equal to this unit's current HP against the enemy with the least HP, then die\nReduced by 1 at Turn End"
   },
   {
     "key": "A1c971c-name",
-    "original": "続く暴食\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "続く暴食\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "続く暴食\n<CMT_KR>\n<CMT_JP>",
+    "translation": "続く暴食\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n계속되는 탐식\nEN:\nPerpetuating Gluttony"
   },
   {
     "key": "A1c971c-desc",
-    "original": "ターン開始時、進行したターン数2につき体力回復量増加1を得る(最大5)\nターン開始時、回復した体力量10につきダメージ量増加1, マッチ威力増加1を得る(最大5)\n\n回復した体力量: {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、進行したターン数2につき体力回復量増加1を得る(最大5)\nターン開始時、回復した体力量10につきダメージ量増加1, マッチ威力増加1を得る(最大5)\n\n回復した体力量: {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、進行したターン数2につき体力回復量増加1を得る(最大5)\nターン開始時、回復した体力量10につきダメージ量増加1, マッチ威力増加1を得る(最大5)\n\n回復した体力量: {0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、進行したターン数2につき体力回復量増加1を得る(最大5)\nターン開始時、回復した体力量10につきダメージ量増加1, マッチ威力増加1を得る(最大5)\n\n回復した体力量: {0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, 진행된 턴 수 2당 체력 회복량 증가 1 얻음 (최대 5)\n턴 시작 시, 회복한 체력량 10당 피해량 증가 1, 합 위력 증가 1 얻음 (최대 5)\n\n회복한 체력량: {0}\nEN:\nTurn Start: gain 1 HP heal boost every 2 turns (max 5)\nTurn Start: gain 1 Damage Up and 1 Clash Power Up for every 10 HP healed (max 5)\n\nHP Healed: {0}"
   },
   {
     "key": "A1c971d-name",
-    "original": "吐き出す呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "吐き出す呼吸\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "吐き出す呼吸\n<CMT_KR>\n<CMT_JP>",
+    "translation": "吐き出す呼吸\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뱉어내는 호흡\nEN:\nGasping Breath"
   },
   {
     "key": "A1c971d-desc",
-    "original": "呼吸を得るときに呼吸を追加で3得るか、呼吸回数が追加で2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "呼吸を得るときに呼吸を追加で3得るか、呼吸回数が追加で2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "呼吸を得るときに呼吸を追加で3得るか、呼吸回数が追加で2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "呼吸を得るときに呼吸を追加で3得るか、呼吸回数が追加で2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n호흡을 얻을 때, 호흡 추가 3 얻음 혹은 호흡 횟수 추가 2 증가\nEN:\nWhen gaining Poise, gain 3 additional Poise or +2 additional Poise Count"
   },
   {
     "key": "A1c971e-name",
-    "original": "傷の中の傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傷の中の傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傷の中の傷\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傷の中の傷\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상처속의 상처\nEN:\nWounded Wound"
   },
   {
     "key": "A1c971e-desc",
-    "original": "的中時に出血を追加で2付与するか、出血回数が1追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "的中時に出血を追加で2付与するか、出血回数が1追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "的中時に出血を追加で2付与するか、出血回数が1追加で増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "的中時に出血を追加で2付与するか、出血回数が1追加で増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적중시, 출혈 추가 2 부여 혹은 출혈 횟수 추가 1 증가\nEN:\nOn Hit, inflict 2 additional Bleed or +1 additional Bleed Count"
   },
   {
     "key": "A1c971f-name",
-    "original": "なまけた怠惰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "なまけた怠惰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "なまけた怠惰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "なまけた怠惰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n게으른 나태\nEN:\nLazy Sloth"
   },
   {
     "key": "A1c971f-desc",
-    "original": "ターン終了時に1減少。\n0になった場合はEXクリア失敗。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に1減少。\n0になった場合はEXクリア失敗。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に1減少。\n0になった場合はEXクリア失敗。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に1減少。\n0になった場合はEXクリア失敗。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 1 감소.\n0이 되면, EX클리어 실패.\nEN:\nReduced by 1 at Turn End.\nFails Extra Condition at 0"
   }

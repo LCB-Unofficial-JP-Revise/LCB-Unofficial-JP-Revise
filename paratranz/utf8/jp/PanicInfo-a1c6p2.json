@@ -1,64 +1,64 @@
 [
   {
     "key": "1019-panicName",
-    "original": "乱れた絵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "乱れた絵\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "乱れた絵\n<CMT_KR>\n<CMT_JP>",
+    "translation": "乱れた絵\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흐트러진 그림\nEN:\nMisshapen Painting"
   },
   {
     "key": "1019-lowMoraleDescription",
-    "original": "[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Enhancement] 1, [Vulnerable] 1 얻음\nEN:\nGain 1 [Enhancement] and 1 [Vulnerable]"
   },
   {
     "key": "1019-panicDescription",
-    "original": "[PlusCoinValueUp]1, [Vulnerable]3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[PlusCoinValueUp]1, [Vulnerable]3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[PlusCoinValueUp]1, [Vulnerable]3を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[PlusCoinValueUp]1, [Vulnerable]3を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[PlusCoinValueUp] 1, [Vulnerable] 3 얻음.\nEN:\nGain 1 [PlusCoinValueUp] and 3 [Vulnerable]."
   },
   {
     "key": "1021-panicName",
-    "original": "復讐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "復讐\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "復讐\n<CMT_KR>\n<CMT_JP>",
+    "translation": "復讐\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n복수\nEN:\nRevenge"
   },
   {
     "key": "1021-lowMoraleDescription",
-    "original": "[DefenseDown]3, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[DefenseDown]3, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[DefenseDown]3, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DefenseDown]3, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[DefenseDown] 3, [AttackDmgUp] 3 얻음\nEN:\nGain 3 [DefenseDown] and 3 [AttackDmgUp]"
   },
   {
     "key": "1021-panicDescription",
-    "original": "[DefenseDown]6, [AttackDmgUp]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[DefenseDown]6, [AttackDmgUp]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[DefenseDown]6, [AttackDmgUp]5を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DefenseDown]6, [AttackDmgUp]5を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[DefenseDown] 6, [AttackDmgUp] 5 얻음\nEN:\nGain 6 [DefenseDown] and 5 [AttackDmgUp]"
   },
   {
     "key": "1022-panicName",
-    "original": "憎悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憎悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憎悪\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎悪\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n증오\nEN:\nHatred"
   },
   {
     "key": "1022-lowMoraleDescription",
-    "original": "マッチ勝利時、次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]を1得る。(1ターンにつき最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]を1得る。(1ターンにつき最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]を1得る。(1ターンにつき最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]を1得る。(1ターンにつき最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시 다음 턴에 [AttackUp]를 1 얻음. (턴 당 최대 3)\n합 패배 시 [DefenseUp]를 1 얻음. (턴 당 최대 3)\nEN:\nClash Win: Gain 1 [AttackUp] next turn. (3 times per turn)\nClash Lose: Gain 1 [DefenseUp]. (3 times per turn)"
   },
   {
     "key": "1022-panicDescription",
-    "original": "マッチ勝利時、このターンと次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]1を得る。(1ターンにつき最大3)\nターン終了時、次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、このターンと次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]1を得る。(1ターンにつき最大3)\nターン終了時、次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、このターンと次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]1を得る。(1ターンにつき最大3)\nターン終了時、次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、このターンと次のターンに[AttackUp]を1得る。(1ターンにつき最大3)\nマッチ敗北時、[DefenseUp]1を得る。(1ターンにつき最大3)\nターン終了時、次のターンに[Agility]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시 이번 턴과 다음 턴에 [AttackUp]를 1 얻음. (턴 당 최대 3)\n합 패배 시 [DefenseUp]를 1 얻음. (턴 당 최대 3)\n턴 종료 시 다음 턴에 [Agility]을 2 얻음\nEN:\nClash Win: Gain 1 [AttackUp] this turn and next turn (3 times per turn)\nClash Lose: Gain 1 [DefenseUp] (3 times per turn)\nTurn End: Gain 2 [Agility] next turn"
   }

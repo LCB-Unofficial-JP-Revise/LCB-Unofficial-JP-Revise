@@ -1,337 +1,337 @@
 [
   {
     "key": "863001-name",
-    "original": "近接戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "近接戦闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "近接戦闘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "近接戦闘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n근접 전투\nEN:\nMelee Combat"
   },
   {
     "key": "863001-desc",
-    "original": "自分より速度が低ければ、速度差だけダメージ量 +10%(最大30%)\n自分より速度が高ければ、速度差だけダメージ量 -10%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分より速度が低ければ、速度差だけダメージ量 +10%(最大30%)\n自分より速度が高ければ、速度差だけダメージ量 -10%(最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分より速度が低ければ、速度差だけダメージ量 +10%(最大30%)\n自分より速度が高ければ、速度差だけダメージ量 -10%(最大30%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分より速度が低ければ、速度差だけダメージ量 +10%(最大30%)\n自分より速度が高ければ、速度差だけダメージ量 -10%(最大30%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신보다 속도가 느리다면, 속도차만큼 피해량 +10% (최대 30%)\n자신보다 속도가 빠르다면, 속도차만큼 피해량 -10% (최대 30%)\nEN:\nIf this unit's Speed is faster than the target's, deal +10% damage for every Speed difference (max 30%)\nIf this unit's Speed is slower than the target's deal -10% damage for every Speed difference (max 30%)"
   },
   {
     "key": "863002-name",
-    "original": "躍進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "躍進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "躍進\n<CMT_KR>\n<CMT_JP>",
+    "translation": "躍進\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n약진\nEN:\nCharge Forth"
   },
   {
     "key": "863002-desc",
-    "original": "自分の[Breath]5につき、速度最小・最大値が1増加(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の[Breath]5につき、速度最小・最大値が1増加(最大4)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の[Breath]5につき、速度最小・最大値が1増加(最大4)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[Breath]5につき、速度最小・最大値が1増加(最大4)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 [Breath] 5 당, 속도 최솟값, 최댓값 1 증가 (최대 4)\nEN:\nRaise Min & Max Speed values by 1 for every 5 [Breath] on self (max 4)"
   },
   {
     "key": "863003-name",
-    "original": "的召喚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "的召喚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "的召喚\n<CMT_KR>\n<CMT_JP>",
+    "translation": "的召喚\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n과녁 소환\nEN:\nSummon Targets"
   },
   {
     "key": "863003-desc",
-    "original": "残り体力が全体力の75%以下のとき、パターン変更\nパターン変更時、元G社部長と強烈になった敗残兵を召喚して現体力が最も低い対象にマークを付与。\n- 自分の速度最小・最大値が1になる。\n- バリア体力300を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "残り体力が全体力の75%以下のとき、パターン変更\nパターン変更時、元G社部長と強烈になった敗残兵を召喚して現体力が最も低い対象にマークを付与。\n- 自分の速度最小・最大値が1になる。\n- バリア体力300を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "残り体力が全体力の75%以下のとき、パターン変更\nパターン変更時、元G社部長と強烈になった敗残兵を召喚して現体力が最も低い対象にマークを付与。\n- 自分の速度最小・最大値が1になる。\n- バリア体力300を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "残り体力が全体力の75%以下のとき、パターン変更\nパターン変更時、元G社部長と強烈になった敗残兵を召喚して現体力が最も低い対象にマークを付与。\n- 自分の速度最小・最大値が1になる。\n- バリア体力300を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n남은 체력이 전체 체력의 75% 이하일 때, 패턴 변경\n패턴 변경 시 옛 G사 부장과 짙어진 패잔병을 소환하고, 현재 체력이 가장 낮은 대상에게 징표 부여.\n- 자신의 속도 최솟값, 최댓값이 1이 됨.\n- 보호막 체력 300을 얻음.\nEN:\nAt 75%- HP, gain a new pattern\nWhen gaining a new pattern, summon G Corp. Head Manager and Downcast Veteran; then, inflict Stigmatized on the target with the least current HP\n- Change Min & Max Speed values on self to 1.\n- Gain 300 Shield HP."
   },
   {
     "key": "863004-name",
-    "original": "対象指定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象指定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象指定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象指定\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상 지정\nEN:\nDesignate Target"
   },
   {
     "key": "863004-desc",
-    "original": "対象指定射撃・対象調整射撃を使用するとき、速度が最も低い対象のうち現体力がもっとも低い対象へ[FellBulletMark]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象指定射撃・対象調整射撃を使用するとき、速度が最も低い対象のうち現体力がもっとも低い対象へ[FellBulletMark]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象指定射撃・対象調整射撃を使用するとき、速度が最も低い対象のうち現体力がもっとも低い対象へ[FellBulletMark]付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象指定射撃・対象調整射撃を使用するとき、速度が最も低い対象のうち現体力がもっとも低い対象へ[FellBulletMark]付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상 지정 사격, 대상 조정 사격을 사용할 때, 속도가 가장 느린 대상 중 현재 체력이 가장 낮은 대상에게 [FellBulletMark] 부여\nEN:\nWhen using Designated Target Fire or Target Readjustment Fire: among targets with the slowest Speed, inflict [FellBulletMark] against target with the least current HP"
   },
   {
     "key": "863201-name",
-    "original": "酸素供給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "酸素供給\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "酸素供給\n<CMT_KR>\n<CMT_JP>",
+    "translation": "酸素供給\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n산소 공급\nEN:\nOxygen Supply"
   },
   {
     "key": "863201-desc",
-    "original": "過ぎ去りし日の寝袋が出現した最初のターン開始時、[Breath]威力10, [Breath]回数10を得る\n\nターン終了時に[Breath]威力または[Breath]回数が10未満なら、本体の体力最大値2%だけ頭の体力を消耗し、[Breath]5を得て[Breath]回数が5増加(この効果で破壊されたり死亡しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎ去りし日の寝袋が出現した最初のターン開始時、[Breath]威力10, [Breath]回数10を得る\n\nターン終了時に[Breath]威力または[Breath]回数が10未満なら、本体の体力最大値2%だけ頭の体力を消耗し、[Breath]5を得て[Breath]回数が5増加(この効果で破壊されたり死亡しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎ去りし日の寝袋が出現した最初のターン開始時、[Breath]威力10, [Breath]回数10を得る\n\nターン終了時に[Breath]威力または[Breath]回数が10未満なら、本体の体力最大値2%だけ頭の体力を消耗し、[Breath]5を得て[Breath]回数が5増加(この効果で破壊されたり死亡しない)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎ去りし日の寝袋が出現した最初のターン開始時、[Breath]威力10, [Breath]回数10を得る\n\nターン終了時に[Breath]威力または[Breath]回数が10未満なら、本体の体力最大値2%だけ頭の体力を消耗し、[Breath]5を得て[Breath]回数が5増加(この効果で破壊されたり死亡しない)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날의 침낭이 등장한 첫 턴 시작 시, [Breath] 위력 10, [Breath] 횟수 10을 얻음\n\n턴 종료 시 [Breath] 위력 또는 [Breath] 횟수가 10 미만이면, 본체의 최대 체력의 2%만큼 머리의 체력을 소모하여 [Breath] 5 얻고 [Breath] 횟수 5 증가 (이 효과로 파괴되거나 사망하지 않음)\nEN:\nAt the first Turn Start of the turn Sleeping Bag of a Bygone Day appeared, it gains 10 [Breath] Potency and +10 [Breath] Count\n\nTurn End: at less than 10 [Breath] Potency or [Breath] Count, consume HP from the Head Part equal to 2% of the Core's max HP to gain 5 [Breath] and +5 [Breath] Count (cannot be Part broken or defeated due to this effect)"
   },
   {
     "key": "863202-name",
-    "original": "深い吸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "深い吸気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "深い吸気\n<CMT_KR>\n<CMT_JP>",
+    "translation": "深い吸気\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n깊은 들숨\nEN:\nDeep Breath"
   },
   {
     "key": "863202-desc",
-    "original": "[Breath]によって発動するクリティカル発生率が1.5倍に増加\n\nクリティカル発動時、\n- [Breath]威力が15以上なら、(保有する[Breath]威力 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]威力 × 4)%だけ増加\n- [Breath]回数が15以上なら、(保有する[Breath]回数 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]回数 × 8)%だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Breath]によって発動するクリティカル発生率が1.5倍に増加\n\nクリティカル発動時、\n- [Breath]威力が15以上なら、(保有する[Breath]威力 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]威力 × 4)%だけ増加\n- [Breath]回数が15以上なら、(保有する[Breath]回数 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]回数 × 8)%だけ増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Breath]によって発動するクリティカル発生率が1.5倍に増加\n\nクリティカル発動時、\n- [Breath]威力が15以上なら、(保有する[Breath]威力 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]威力 × 4)%だけ増加\n- [Breath]回数が15以上なら、(保有する[Breath]回数 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]回数 × 8)%だけ増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Breath]によって発動するクリティカル発生率が1.5倍に増加\n\nクリティカル発動時、\n- [Breath]威力が15以上なら、(保有する[Breath]威力 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]威力 × 4)%だけ増加\n- [Breath]回数が15以上なら、(保有する[Breath]回数 ÷ 5)だけ消耗してクリティカルダメージ量が(消耗した[Breath]回数 × 8)%だけ増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Breath]으로 인하여 발동하는 크리티컬 확률이 1.5배로 증가\n\n크리티컬 발동 시,\n- [Breath] 위력이 15 이상이면, (보유한 [Breath] 위력/5)만큼 소모하여 크리티컬 피해량이 (소모한 [Breath] 위력 x 4)%만큼 증가\n- [Breath] 횟수가 15 이상이면, (보유한 [Breath] 횟수/5)만큼 소모하여 크리티컬 피해량이 (소모한 [Breath] 횟수 x 8)%만큼 증가\nEN:\nMultiply Critical Chance from [Breath] effects by x 1.5\n\nOn Crit:\n- At 15+ [Breath] Potency, consume up to ([Breath] Potency on self / 5) [Breath] Potency to deal +([Breath] Potency consumed x 4)% damage on Crit\n- At 15+ [Breath] Count, consume up t ([Breath] Count on self / 5) [Breath] Count to deal +([Breath] Count consumed x 8)% damage on Crit"
   },
   {
     "key": "863203-name",
-    "original": "酸素飽和状態\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "酸素飽和状態\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "酸素飽和状態\n<CMT_KR>\n<CMT_JP>",
+    "translation": "酸素飽和状態\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n산소 포화 상태\nEN:\nOxygen-saturated"
   },
   {
     "key": "863203-desc",
-    "original": "「それは…私のだ！」を使用するターンなら、自分の速度が1に固定されてターン開始時、ステージ内の全対象へ[Breath]威力6, [Breath]回数を6付与\n\n該当ターン終了時に[Breath]威力5, [Breath]回数5を超過した数値だけ全て消耗し、次のターン開始時その数値だけ頭に[Breath]威力と[Breath]回数を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「それは…私のだ！」を使用するターンなら、自分の速度が1に固定されてターン開始時、ステージ内の全対象へ[Breath]威力6, [Breath]回数を6付与\n\n該当ターン終了時に[Breath]威力5, [Breath]回数5を超過した数値だけ全て消耗し、次のターン開始時その数値だけ頭に[Breath]威力と[Breath]回数を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「それは…私のだ！」を使用するターンなら、自分の速度が1に固定されてターン開始時、ステージ内の全対象へ[Breath]威力6, [Breath]回数を6付与\n\n該当ターン終了時に[Breath]威力5, [Breath]回数5を超過した数値だけ全て消耗し、次のターン開始時その数値だけ頭に[Breath]威力と[Breath]回数を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「それは…私のだ！」を使用するターンなら、自分の速度が1に固定されてターン開始時、ステージ内の全対象へ[Breath]威力6, [Breath]回数を6付与\n\n該当ターン終了時に[Breath]威力5, [Breath]回数5を超過した数値だけ全て消耗し、次のターン開始時その数値だけ頭に[Breath]威力と[Breath]回数を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n‘그건… 내꺼야!’를 사용하는 턴이면 자신의 속도가 1로 고정되고 턴 시작 시, 스테이지 내 모든 대상에게 [Breath] 위력 6, [Breath] 횟수 6 부여\n\n해당 턴 종료 시에 [Breath] 위력 5, [Breath] 횟수 5를 초과한 수치만큼 전부 소모하고, 다음 턴 시작 시 그 수치만큼 머리에 [Breath] 위력과 [Breath] 횟수를 부여\nEN:\nIn the turn this unit uses 'That's... Mine!', fix its Speed to 1. At Turn Start, apply 6 [Breath] Potency and +6 [Breath] Count to all units present on the Stage.\n\nAt the end of the same turn, consume any excess [Breath] Potency and [Breath] Count past 5 Potency and 5 Count; then, at the next Turn Start, apply the same amount of [Breath] Potency and [Breath] Count consumed to the Head Part"
   },
   {
     "key": "863204-name",
-    "original": "肋骨破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "肋骨破壊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "肋骨破壊\n<CMT_KR>\n<CMT_JP>",
+    "translation": "肋骨破壊\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n늑골 파괴\nEN:\nShattered Ribcage"
   },
   {
     "key": "863204-desc",
-    "original": "胴体は開示、次のターンにて胴体部位が消えて人間部位が顕わになる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "胴体は開示、次のターンにて胴体部位が消えて人間部位が顕わになる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "胴体は開示、次のターンにて胴体部位が消えて人間部位が顕わになる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "胴体は開示、次のターンにて胴体部位が消えて人間部位が顕わになる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n몸통 파괴 시, 다음 턴에 몸통 부위가 사라지고 사람 부위가 드러남\nEN:\nWhen the Body Part is broken, remove the Body Part next turn and replace it with a Person Part"
   },
   {
     "key": "863205-name",
-    "original": "肋骨再生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "肋骨再生\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "肋骨再生\n<CMT_KR>\n<CMT_JP>",
+    "translation": "肋骨再生\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n늑골 재생\nEN:\nRibcage Regeneration"
   },
   {
     "key": "863205-desc",
-    "original": "ターン終了時、人間が保有する[Breath]威力と[Breath]回数が半減される\n次のターンに人間部位が消え、胴体部位が回復して復活する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、人間が保有する[Breath]威力と[Breath]回数が半減される\n次のターンに人間部位が消え、胴体部位が回復して復活する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、人間が保有する[Breath]威力と[Breath]回数が半減される\n次のターンに人間部位が消え、胴体部位が回復して復活する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、人間が保有する[Breath]威力と[Breath]回数が半減される\n次のターンに人間部位が消え、胴体部位が回復して復活する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 종료 시, 사람이 보유한 [Breath] 위력과 [Breath] 횟수가 반감됨\n다음 턴에 사람 부위가 사라지고 몸통 부위가 회복되어 드러남\nEN:\nAt Combat End, halve the [Breath] Potency and [Breath] Count on the Person Part\nNext Turn, the Person Part disappears and is replaced by Body Part"
   },
   {
     "key": "863206-name",
-    "original": "断たれる苦痛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "断たれる苦痛\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "断たれる苦痛\n<CMT_KR>\n<CMT_JP>",
+    "translation": "断たれる苦痛\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n끊어지는 고통\nEN:\nExcruciating Suffering"
   },
   {
     "key": "863206-desc",
-    "original": "マッチにて敗北し、ダメージを受ける度に[Breath]威力が1減少\n\n一方攻撃でダメージを受けるたび、[Breath]回数が1減少\n\nクリティカル、パッシブ発動有無と関係なく[Breath]威力と[Breath]回数が常に5未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチにて敗北し、ダメージを受ける度に[Breath]威力が1減少\n\n一方攻撃でダメージを受けるたび、[Breath]回数が1減少\n\nクリティカル、パッシブ発動有無と関係なく[Breath]威力と[Breath]回数が常に5未満に下がらない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチにて敗北し、ダメージを受ける度に[Breath]威力が1減少\n\n一方攻撃でダメージを受けるたび、[Breath]回数が1減少\n\nクリティカル、パッシブ発動有無と関係なく[Breath]威力と[Breath]回数が常に5未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチにて敗北し、ダメージを受ける度に[Breath]威力が1減少\n\n一方攻撃でダメージを受けるたび、[Breath]回数が1減少\n\nクリティカル、パッシブ発動有無と関係なく[Breath]威力と[Breath]回数が常に5未満に下がらない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합에서 패배하여 피격받을 때마다 [Breath] 위력 1 감소\n\n일방 공격으로 피격받을 때마다 [Breath] 횟수 1 감소\n\n크리티컬, 패시브 발동 여부와 관계 없이 [Breath] 위력과 [Breath] 횟수가 항상 5 미만으로 내려가지 않음\nEN:\nEvery time this unit loses a Clash and takes a hit, lose 1 [Breath] Potency\n\nEvery time this unit is hit by an Unopposed Attack, lose 1 [Breath] Count\n\nThis unit's [Breath] Potency and [Breath] Count, regardless of whether an attack hit Critically or whether its Passive activated, does not drop below 5"
   },
   {
     "key": "863207-name",
-    "original": "絶叫\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "絶叫\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "絶叫\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶叫\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n절규 소리\nEN:\nAnguished Screaming"
   },
   {
     "key": "863207-desc",
-    "original": "本体の体力が40%以下になれば、次のターンに「苦痛を共にする」を使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "本体の体力が40%以下になれば、次のターンに「苦痛を共にする」を使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "本体の体力が40%以下になれば、次のターンに「苦痛を共にする」を使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "本体の体力が40%以下になれば、次のターンに「苦痛を共にする」を使用\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n본체의 체력이 40% 이하가 되면 다음 턴에 ‘고통 함께하기’를 사용\nEN:\nAt 40% or less Core HP, use 'Share the Pain' next turn"
   },
   {
     "key": "863208-name",
-    "original": "後遺症\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "後遺症\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "後遺症\n<CMT_KR>\n<CMT_JP>",
+    "translation": "後遺症\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n후유증\nEN:\nAfter Effect"
   },
   {
     "key": "863208-desc",
-    "original": "人間が死亡時、次のターンまで胴体と頭と斬撃・貫通・打撃耐性 +0.2(戦闘につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "人間が死亡時、次のターンまで胴体と頭と斬撃・貫通・打撃耐性 +0.2(戦闘につき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "人間が死亡時、次のターンまで胴体と頭と斬撃・貫通・打撃耐性 +0.2(戦闘につき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "人間が死亡時、次のターンまで胴体と頭と斬撃・貫通・打撃耐性 +0.2(戦闘につき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사람 사망 시, 다음 턴까지 몸통과 머리의 참격, 관통, 타격 내성 +0.2 (전투당 1회)\nEN:\nWhen the Person dies, both the Body and the Head Parts gain +0.2 Resistance to Slash, Pierce, and Blunt until next turn (once per Encounter)"
   },
   {
     "key": "863301-name",
-    "original": "耽溺する花びら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "耽溺する花びら\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "耽溺する花びら\n<CMT_KR>\n<CMT_JP>",
+    "translation": "耽溺する花びら\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n탐닉하는 꽃잎\nEN:\nIndulgent Petals"
   },
   {
     "key": "863301-desc",
-    "original": "ターン終了時に[BloodDinner]が20以上なら、最大50まで消耗して消耗した[BloodDinner]だけ本体と頭部の体力を回復\n- 頭部位が混乱するか、破壊された状態なら発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に[BloodDinner]が20以上なら、最大50まで消耗して消耗した[BloodDinner]だけ本体と頭部の体力を回復\n- 頭部位が混乱するか、破壊された状態なら発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に[BloodDinner]が20以上なら、最大50まで消耗して消耗した[BloodDinner]だけ本体と頭部の体力を回復\n- 頭部位が混乱するか、破壊された状態なら発動しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に[BloodDinner]が20以上なら、最大50まで消耗して消耗した[BloodDinner]だけ本体と頭部の体力を回復\n- 頭部位が混乱するか、破壊された状態なら発動しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료시 [BloodDinner]이 20 이상이면, 최대 50까지 소모하여 소모한 [BloodDinner]만큼 본체와 머리 부위 체력 회복\n- 머리 부위가 흐트러졌거나, 파괴된 상태면 발동하지 않음\nEN:\nTurn End: at 20+ [BloodDinner], consume up to 50 [BloodDinner] and heal the Core and the Head Parts equal to [BloodDinner] consumed\n- Does not activate if the Head Part is either Staggered or Destroyed"
   },
   {
     "key": "863302-name",
-    "original": "一滴の養分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "一滴の養分\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "一滴の養分\n<CMT_KR>\n<CMT_JP>",
+    "translation": "一滴の養分\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n한 방울의 양분\nEN:\nA Drop of Nourishment"
   },
   {
     "key": "863302-desc",
-    "original": "攻撃終了時、自分の攻撃スキルで与えたダメージ量の半分だけ本体・部位体力を回復\n- 頭部位が混乱したり、破壊された状態なら破壊されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃終了時、自分の攻撃スキルで与えたダメージ量の半分だけ本体・部位体力を回復\n- 頭部位が混乱したり、破壊された状態なら破壊されない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃終了時、自分の攻撃スキルで与えたダメージ量の半分だけ本体・部位体力を回復\n- 頭部位が混乱したり、破壊された状態なら破壊されない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃終了時、自分の攻撃スキルで与えたダメージ量の半分だけ本体・部位体力を回復\n- 頭部位が混乱したり、破壊された状態なら破壊されない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격 종료 시 자신의 공격 스킬로 입힌 피해량의 절반만큼 본체, 부위 체력 회복\n- 머리 부위가 흐트러졌거나, 파괴된 상태면 발동하지 않음\nEN:\nAfter Attack, heal the Core and the Part equal to the amount of damage this unit's Attack Skill dealt\n- Does not activate if the Head Part is either Staggered or Destroyed"
   },
   {
     "key": "863303-name",
-    "original": "渇望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "渇望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "渇望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "渇望\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n갈망\nEN:\nYearning"
   },
   {
     "key": "863303-desc",
-    "original": "ターン終了時、このターンに自分が体力を回復したなら、回復した体力10につき次のターンにて[AttackUp]1, [DefenseDown]1を得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、このターンに自分が体力を回復したなら、回復した体力10につき次のターンにて[AttackUp]1, [DefenseDown]1を得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、このターンに自分が体力を回復したなら、回復した体力10につき次のターンにて[AttackUp]1, [DefenseDown]1を得る(最大10)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、このターンに自分が体力を回復したなら、回復した体力10につき次のターンにて[AttackUp]1, [DefenseDown]1を得る(最大10)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료시 이번 턴에 자신이 체력을 회복했으면, 회복한 체력 10 당 다음 턴에 [AttackUp] 1, [DefenseDown] 1 얻음 (최대 10)\nEN:\nTurn End: if this unit healed HP, gain 1 [AttackUp] and 1 [DefenseDown] next turn for every 10 HP healed (max 10)"
   },
   {
     "key": "863304-name",
-    "original": "残酷な血香\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "残酷な血香\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "残酷な血香\n<CMT_KR>\n<CMT_JP>",
+    "translation": "残酷な血香\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n잔혹한 혈향\nEN:\nBloodthirsty Stench"
   },
   {
     "key": "863304-desc",
-    "original": "現在の[BloodDinner]が100以上なら、特殊スキルを使用\nターン終了時、自分の[BloodDinner_Accumulation]が500以上か、自分の現体力が体力最大値の60%未満なら、パターンが変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "現在の[BloodDinner]が100以上なら、特殊スキルを使用\nターン終了時、自分の[BloodDinner_Accumulation]が500以上か、自分の現体力が体力最大値の60%未満なら、パターンが変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "現在の[BloodDinner]が100以上なら、特殊スキルを使用\nターン終了時、自分の[BloodDinner_Accumulation]が500以上か、自分の現体力が体力最大値の60%未満なら、パターンが変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在の[BloodDinner]が100以上なら、特殊スキルを使用\nターン終了時、自分の[BloodDinner_Accumulation]が500以上か、自分の現体力が体力最大値の60%未満なら、パターンが変更される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n현재 [BloodDinner]이 100 이상이면 특수 스킬 사용\n턴 종료시, 자신의 [BloodDinner_Accumulation]이 500 이상이거나, 자신의 현재 체력이 최대 체력의 60% 미만이면 패턴이 변경됨\nEN:\nAt 100+ [BloodDinner], use a special Skill\nTurn End: at 500+ [BloodDinner_Accumulation] by this unit, or if this unit is at less than 60% HP, gain a new pattern"
   },
   {
     "key": "863305-name",
-    "original": "屈折された罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "屈折された罪悪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "屈折された罪悪\n<CMT_KR>\n<CMT_JP>",
+    "translation": "屈折された罪悪\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n굴절된 죄악\nEN:\nRefracted Sin"
   },
   {
     "key": "863305-desc",
-    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]の威力が50まで累積される(特殊火傷・出血・振動・破裂・沈潜を含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]の威力が50まで累積される(特殊火傷・出血・振動・破裂・沈潜を含む)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]の威力が50まで累積される(特殊火傷・出血・振動・破裂・沈潜を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]の威力が50まで累積される(特殊火傷・出血・振動・破裂・沈潜を含む)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]의 위력이 50까지만 누적됨 (특수 화상, 출혈, 진동, 파열, 침잠 포함)\nEN:\n[Combustion], [Laceration], [Vibration], [Burst], and [Sinking] Potency only stacks up to 50 (including the Unique variations of above Keywords)"
   },
   {
     "key": "863306-name",
-    "original": "鋭い棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "鋭い棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "鋭い棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鋭い棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n날카로운 가시\nEN:\nSharp Thorn"
   },
   {
     "key": "863306-desc",
-    "original": "胴体部位にスキルでダメージを受けると、攻撃者に[Laceration]回数1が増加(人格ごとに1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "胴体部位にスキルでダメージを受けると、攻撃者に[Laceration]回数1が増加(人格ごとに1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "胴体部位にスキルでダメージを受けると、攻撃者に[Laceration]回数1が増加(人格ごとに1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "胴体部位にスキルでダメージを受けると、攻撃者に[Laceration]回数1が増加(人格ごとに1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n몸통 부위에 스킬로 피해를 입으면, 공격자의 [Laceration] 횟수 1 증가 (인격 당 턴 당 1회)\nEN:\nIf this unit's Body Part takes damage from an enemy Skill, inflict +1 [Laceration] Count on the attacker (once per turn per Identity)"
   },
   {
     "key": "863307-name",
-    "original": "果てしない渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "果てしない渇き\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "果てしない渇き\n<CMT_KR>\n<CMT_JP>",
+    "translation": "果てしない渇き\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n끝없는 갈증\nEN:\nEndless Thirst"
   },
   {
     "key": "863307-desc",
-    "original": "ターン開始時、自分の[BloodDinner_Accumulation]100につき[DefenseDown]1を得る(最大10)\nターン開始時、自分の[BloodDinner_Accumulation]200につき[TakeHpHealIncrease]1を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、自分の[BloodDinner_Accumulation]100につき[DefenseDown]1を得る(最大10)\nターン開始時、自分の[BloodDinner_Accumulation]200につき[TakeHpHealIncrease]1を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、自分の[BloodDinner_Accumulation]100につき[DefenseDown]1を得る(最大10)\nターン開始時、自分の[BloodDinner_Accumulation]200につき[TakeHpHealIncrease]1を得る(最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、自分の[BloodDinner_Accumulation]100につき[DefenseDown]1を得る(最大10)\nターン開始時、自分の[BloodDinner_Accumulation]200につき[TakeHpHealIncrease]1を得る(最大5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작시 자신의 [BloodDinner_Accumulation] 100 당 [DefenseDown] 1 얻음 (최대 10)\n턴 시작시 자신의 [BloodDinner_Accumulation] 200 당 [TakeHpHealIncrease] 1 얻음 (최대 5)\nEN:\nTurn Start: gain 1 [DefenseDown] for every 100 [BloodDinner_Accumulation] by this unit (max 10)\nTurn Start: gain 1 [TakeHpHealIncrease] for every 200 [BloodDinner_Accumulation] by this unit (max 5)"
   },
   {
     "key": "863308-name",
-    "original": "果てしない渇望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "果てしない渇望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "果てしない渇望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "果てしない渇望\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n끝없는 갈망\nEN:\nEndless Yearning"
   },
   {
     "key": "863308-desc",
-    "original": "3の倍数のターンになるたび、選択肢イベントが発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "3の倍数のターンになるたび、選択肢イベントが発生。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "3の倍数のターンになるたび、選択肢イベントが発生。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "3の倍数のターンになるたび、選択肢イベントが発生。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n3배수 턴마다 선택지 이벤트 발생.\nEN:\nTriggers a Choice Event every 'multiple of 3' turns."
   },
   {
     "key": "863309-name",
-    "original": "屈折率増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "屈折率増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "屈折率増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "屈折率増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n굴절률 증가\nEN:\nIncreased Refraction Rate"
   },
   {
     "key": "863309-desc",
-    "original": "このキャラクターが出現して9ターンが経過すれば、次のターンから10ターン以上経過したターンにつき、[AttackUp]を1ずつ得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このキャラクターが出現して9ターンが経過すれば、次のターンから10ターン以上経過したターンにつき、[AttackUp]を1ずつ得る(最大10)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このキャラクターが出現して9ターンが経過すれば、次のターンから10ターン以上経過したターンにつき、[AttackUp]を1ずつ得る(最大10)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このキャラクターが出現して9ターンが経過すれば、次のターンから10ターン以上経過したターンにつき、[AttackUp]を1ずつ得る(最大10)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 캐릭터가 등장한지 9턴 경과하면, 다음 턴부터 [AttackUp]를 10턴 이상 경과한 턴 당 1씩 얻음 (최대 10)\nEN:\nIf 9 turns have passed since this unit appeared on the field, starting next turn, gain 1 [AttackUp] every turn past the 10th turn (max 10)"
   },
   {
     "key": "863101-name",
-    "original": "指定射殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "指定射殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "指定射殺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "指定射殺\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지정 사살\nEN:\nDesignated Execution"
   },
   {
     "key": "863101-desc",
-    "original": "凶弾の射手に殺されたとき、次のターンに凶弾の射手へ[Agility]1, [Enhancement]1, [AttackDmgUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "凶弾の射手に殺されたとき、次のターンに凶弾の射手へ[Agility]1, [Enhancement]1, [AttackDmgUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "凶弾の射手に殺されたとき、次のターンに凶弾の射手へ[Agility]1, [Enhancement]1, [AttackDmgUp]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "凶弾の射手に殺されたとき、次のターンに凶弾の射手へ[Agility]1, [Enhancement]1, [AttackDmgUp]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흉탄의 사수에게 사망 시 다음 턴에 흉탄의 사수에게 [Agility] 1, [Enhancement] 1, [AttackDmgUp] 2 부여\nEN:\nWhen killed by Der Fluchschütze, apply 1 [Agility], 1 [Enhancement], and 2 [AttackDmgUp] next turn to Der Fluchschütze"
   },
   {
     "key": "863102-name",
-    "original": "先手必勝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "先手必勝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "先手必勝\n<CMT_KR>\n<CMT_JP>",
+    "translation": "先手必勝\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선수필승\nEN:\nFirst Strike Wins"
   },
   {
     "key": "863102-desc",
-    "original": "囚人に殺されたとき、自分を倒した属性のE.G.O資源を3つ与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人に殺されたとき、自分を倒した属性のE.G.O資源を3つ与える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人に殺されたとき、自分を倒した属性のE.G.O資源を3つ与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人に殺されたとき、自分を倒した属性のE.G.O資源を3つ与える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자에게 사망 시 자신을 처치한 속성의 E.G.O 자원 3개를 줌\nEN:\nWhen killed by a Sinner, give 3 E.G.O resources in the affinity of the Skill that killed this unit"
   },
   {
     "key": "863103-name",
-    "original": "私じゃない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "私じゃない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "私じゃない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私じゃない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n내가 아니야\nEN:\nNot Me"
   },
   {
     "key": "863103-desc",
-    "original": "戦闘開始時、自分にマークが無ければバリア300を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘開始時、自分にマークが無ければバリア300を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘開始時、自分にマークが無ければバリア300を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、自分にマークが無ければバリア300を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시 자신에게 징표가 없으면, 보호막 300을 얻음.\nEN:\nIf this unit doesn't have Stigmatized at Combat Start, gain 300 Shield."
   }

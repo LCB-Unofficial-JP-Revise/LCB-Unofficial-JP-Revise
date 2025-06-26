@@ -1,176 +1,176 @@
 [
   {
     "key": "receive_integrate_account_code-content",
-    "original": "連携コード生成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携コード生成\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携コード生成\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携コード生成\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 코드 발급\nEN:\nSend Merge Code"
   },
   {
     "key": "receive_integrate_account_code_description-content",
-    "original": "生成されたアカウント連携コードを、時間内に連携してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "生成されたアカウント連携コードを、時間内に連携してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "生成されたアカウント連携コードを、時間内に連携してください。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "生成されたアカウント連携コードを、時間内に連携してください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n발급된 계정 연동 코드를 시간 내에 연동해주시기 바랍니다.\nEN:\nAfter receiving your code, please make sure to complete the process before it expires."
   },
   {
     "key": "request_integrate_account_code-content",
-    "original": "生成リクエスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "生成リクエスト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "生成リクエスト\n<CMT_KR>\n<CMT_JP>",
+    "translation": "生成リクエスト\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n발급 신청\nEN:\nRequest Code"
   },
   {
     "key": "input_integrate_account_code-content",
-    "original": "連携コード入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携コード入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携コード入力\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携コード入力\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 코드 입력\nEN:\nMerge Code Input"
   },
   {
     "key": "input_code-content",
-    "original": "コード入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コード入力\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コード入力\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コード入力\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n코드 입력\nEN:\nEnter Code"
   },
   {
     "key": "integrate_account_code-content",
-    "original": "アカウント連携コード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "アカウント連携コード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "アカウント連携コード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アカウント連携コード\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n계정 연동 코드\nEN:\nAccount Merger Code"
   },
   {
     "key": "input_integrate_account_code_description-content",
-    "original": "UIDと発給コードを入力してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "UIDと発給コードを入力してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "UIDと発給コードを入力してください。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "UIDと発給コードを入力してください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nUID와 발급된 코드를 입력하세요\nEN:\nPlease enter your UID and the provided code."
   },
   {
     "key": "unable_to_integrate_account-content",
-    "original": "連携を進行することが出来ません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携を進行することが出来ません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携を進行することが出来ません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携を進行することが出来ません。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동을 진행할 수 없습니다.\nEN:\nCould not merge account."
   },
   {
     "key": "not_exist_integrate_code-content",
-    "original": "連携コードが存在しません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携コードが存在しません。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携コードが存在しません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携コードが存在しません。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 코드가 존재하지 않습니다.\nEN:\nThe merge code does not exist."
   },
   {
     "key": "select_account_for_integrate-content",
-    "original": "連携するアカウントを選択してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携するアカウントを選択してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携するアカウントを選択してください。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携するアカウントを選択してください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동할 계정을 선택하세요.\nEN:\nPlease select an account to merge."
   },
   {
     "key": "current_account-content",
-    "original": "現在のアカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "現在のアカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "現在のアカウント\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在のアカウント\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n현재 계정\nEN:\nCurrent Account"
   },
   {
     "key": "new_account-content",
-    "original": "新しいアカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "新しいアカウント\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "新しいアカウント\n<CMT_KR>\n<CMT_JP>",
+    "translation": "新しいアカウント\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n새로운 계정\nEN:\nNew Account"
   },
   {
     "key": "warning_none_integrate_account_removed-content",
-    "original": "※選択されないアカウントは削除されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "※選択されないアカウントは削除されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "※選択されないアカウントは削除されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "※選択されないアカウントは削除されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n※ 선택되지 않은 계정은 삭제됩니다.\nEN:\n※ The unselected account will be deleted."
   },
   {
     "key": "ask_to_integrate_account-content",
-    "original": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택한 계정으로 연동을 진행하시겠습니까?\nEN:\nMerge data to the selected account?"
   },
   {
     "key": "ask_to_integrate_account_warning-content",
-    "original": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選んだアカウントにて連携を進行しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택한 계정으로 연동을 진행하시겠습니까?\nEN:\nMerge data to the selected account?"
   },
   {
     "key": "receiving_integrate_account_code-content",
-    "original": "コード発給中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コード発給中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コード発給中\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コード発給中\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n발급 중\nEN:\nSending code…"
   },
   {
     "key": "success_integrate_account_message-content",
-    "original": "アカウントの連携が正常に処理されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "アカウントの連携が正常に処理されました。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "アカウントの連携が正常に処理されました。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アカウントの連携が正常に処理されました。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n계정 연동이 정상적으로 처리되었습니다.\nEN:\nAccount data merged successfully."
   },
   {
     "key": "warning_before_integrate-content",
-    "original": "<color=red>選択されないアカウントは削除されます。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=red>選択されないアカウントは削除されます。</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=red>選択されないアカウントは削除されます。</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=red>選択されないアカウントは削除されます。</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=red&gt;선택되지 않은 계정은 삭제됩니다.&lt;/color&gt;\nEN:\n&lt;color=red&gt;The unselected account will be deleted.&lt;/color&gt;"
   },
   {
     "key": "link_error_link_failed-content",
-    "original": "連携不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携不能\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携不能\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携不能\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 불가\nEN:\nCannot Merge"
   },
   {
     "key": "link_error_expired-content",
-    "original": "連携コードの期限が切れました\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携コードの期限が切れました\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携コードの期限が切れました\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携コードの期限が切れました\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 코드가 만료되었습니다.\nEN:\nThe merge code has expired."
   },
   {
     "key": "link_error-content",
-    "original": "連携に失敗しました。\nゲストアカウントや、同一プラットフォームでの連携は不可能です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携に失敗しました。\nゲストアカウントや、同一プラットフォームでの連携は不可能です。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携に失敗しました。\nゲストアカウントや、同一プラットフォームでの連携は不可能です。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携に失敗しました。\nゲストアカウントや、同一プラットフォームでの連携は不可能です。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동에 실패하였습니다.\n게스트 계정이거나 동일한 플랫폼의 계정에 연동을 시도할 경우, 연동이 불가능합니다.\nEN:\nFailed to integrate account data.\nYou cannot merge data with an account of the same platform or a guest account."
   },
   {
     "key": "input_unlink_account-content",
-    "original": "連携解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 해제\nEN:\nUnlink Accounts"
   },
   {
     "key": "alarm_unlink_account-content",
-    "original": "連携解除 完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携解除 完了\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携解除 完了\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携解除 完了\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 해제 완료\nEN:\nAccount Unlinked"
   },
   {
     "key": "unlink_account_ask_title-content",
-    "original": "連携解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "連携解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "連携解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "連携解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연동 해제\nEN:\nUnlink Accounts"
   },
   {
     "key": "unlink_account_ask_content-content",
-    "original": "該当アカウントの連携を解除します。\n連携解除時、{0}日間解除ができなくなります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "該当アカウントの連携を解除します。\n連携解除時、{0}日間解除ができなくなります。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "該当アカウントの連携を解除します。\n連携解除時、{0}日間解除ができなくなります。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "該当アカウントの連携を解除します。\n連携解除時、{0}日間解除ができなくなります。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n해당 계정들의 연동을 해제합니다.\n연동 해제 시, {0}일간 해제가 불가능합니다.\nEN:\nUnlink the following Accounts.\nOnce you unlink, you will not be able to unlink again for {0} days."
   }

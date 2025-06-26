@@ -1,113 +1,113 @@
 [
   {
     "key": "899901-levelList[0].name",
-    "original": "キャンディーちょうだい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "キャンディーちょうだい。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "キャンディーちょうだい。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "キャンディーちょうだい。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사탕 줘.\nEN:\nGimme Candy."
   },
   {
     "key": "899901-levelList[0].desc",
-    "original": "[CandyForCharon]を持つ対象を優先して攻撃\n[EndSkill] 対象に[CandyForCharon]がないなら、[CandyForCharon]を付与する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CandyForCharon]を持つ対象を優先して攻撃\n[EndSkill] 対象に[CandyForCharon]がないなら、[CandyForCharon]を付与する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CandyForCharon]を持つ対象を優先して攻撃\n[EndSkill] 対象に[CandyForCharon]がないなら、[CandyForCharon]を付与する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CandyForCharon]を持つ対象を優先して攻撃\n[EndSkill] 対象に[CandyForCharon]がないなら、[CandyForCharon]を付与する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CandyForCharon]을 가진 대상 우선 공격\n[EndSkill] 대상에게 [CandyForCharon]이 없다면, [CandyForCharon]을 부여함\nEN:\nPrioritizes targets with [CandyForCharon]\n[EndSkill] If the target does not have [CandyForCharon], inflict [CandyForCharon]"
   },
   {
     "key": "899901-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "899901-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象に[CandyForCharon]があるなら、対象は次のターンに混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[CandyForCharon]があるなら、対象は次のターンに混乱状態になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[CandyForCharon]があるなら、対象は次のターンに混乱状態になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[CandyForCharon]があるなら、対象は次のターンに混乱状態になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [CandyForCharon]이 있으면, 대상은 다음 턴 흐트러짐 상태가 됨.\nEN:\n[OnSucceedAttack] If target has [CandyForCharon], the target becomes Staggered next turn."
   },
   {
     "key": "899902-levelList[0].name",
-    "original": "ない。キャンディー。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ない。キャンディー。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ない。キャンディー。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ない。キャンディー。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n없어. 사탕.\nEN:\nNo Candy."
   },
   {
     "key": "899903-levelList[0].name",
-    "original": "あんたたち…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "あんたたち…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "あんたたち…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あんたたち…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n너희들…\nEN:\nYou..."
   },
   {
     "key": "899903-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "899903-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "899904-levelList[0].name",
-    "original": "…コミが、おこった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "…コミが、おこった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "…コミが、おこった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "…コミが、おこった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n…꼬미가, 화났어.\nEN:\n... Kkomi's angry."
   },
   {
     "key": "899904-levelList[0].desc",
-    "original": "[BeforeAttack] [CandyForCharon]を持つ人格の数だけ攻撃加重値が増加\n[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BeforeAttack] [CandyForCharon]を持つ人格の数だけ攻撃加重値が増加\n[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BeforeAttack] [CandyForCharon]を持つ人格の数だけ攻撃加重値が増加\n[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] [CandyForCharon]を持つ人格の数だけ攻撃加重値が増加\n[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BeforeAttack] [CandyForCharon]을 가진 인격 수만큼 공격 가중치 증가\n[WhenUse] [CandyForCharon]을 가진 인격 수만큼 합 위력이 증가\nEN:\n[BeforeAttack] Gain Atk Weight equal to number of enemies with [CandyForCharon]\n[WhenUse] Gain Clash Power equal to the number of enemies with [CandyForCharon]"
   },
   {
     "key": "899904-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "899904-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "899905-levelList[0].name",
-    "original": "ぶるんぶるん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ぶるんぶるん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ぶるんぶるん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ぶるんぶるん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n부릉부릉\nEN:\nVroom-Vroom"
   },
   {
     "key": "899905-levelList[0].desc",
-    "original": "[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n[CandyForCharon]を持つ人格の数だけダメージ量 +10% (最大100%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n[CandyForCharon]を持つ人格の数だけダメージ量 +10% (最大100%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n[CandyForCharon]を持つ人格の数だけダメージ量 +10% (最大100%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [CandyForCharon]を持つ人格の数だけマッチ威力が増加\n[CandyForCharon]を持つ人格の数だけダメージ量 +10% (最大100%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [CandyForCharon]을 가진 인격 수만큼 합 위력이 증가\n[CandyForCharon]을 가진 인격 수만큼 피해량 +10% (최대 100%)\nEN:\n[WhenUse] Gain Clash Power equal to the number of Identities with [CandyForCharon]\nDeal +10% damage for every Identity with [CandyForCharon] (max 100%)"
   },
   {
     "key": "899906-levelList[0].name",
-    "original": "なぐった。コミを。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "なぐった。コミを。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "なぐった。コミを。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "なぐった。コミを。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n때렸어. 꼬미를\nEN:\nYou hit Kkomi."
   },
   {
     "key": "899906-levelList[0].desc",
-    "original": "[WhenUse] 次のターンに[ParryingResultUp]2, [Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンに[ParryingResultUp]2, [Agility]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンに[ParryingResultUp]2, [Agility]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[ParryingResultUp]2, [Agility]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 [ParryingResultUp] 2, [Agility] 2 얻음\nEN:\n[WhenUse] Gain 2 [ParryingResultUp] and 2 [Agility] next turn"
   }

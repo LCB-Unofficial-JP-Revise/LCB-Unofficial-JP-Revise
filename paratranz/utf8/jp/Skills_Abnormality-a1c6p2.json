@@ -1,834 +1,834 @@
 [
   {
     "key": "815901-levelList[0].name",
-    "original": "掌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "掌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "掌\n<CMT_KR>\n<CMT_JP>",
+    "translation": "掌\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n손아귀\nEN:\nGrasp"
   },
   {
     "key": "815901-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与、[Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与、[Vibration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与、[Vibration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与、[Vibration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여. [Vibration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count"
   },
   {
     "key": "815901-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttackHead] Inflict 2 [Binding] next turn"
   },
   {
     "key": "815902-levelList[0].name",
-    "original": "石を積む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "石を積む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "石を積む\n<CMT_KR>\n<CMT_JP>",
+    "translation": "石を積む\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n돌 쌓기\nEN:\nPiling Rocks"
   },
   {
     "key": "815902-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Vibration]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Vibration]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Vibration]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Vibration]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Vibration]이 5 이상이면, 합 위력 +1\nEN:\n[WhenUse] If target has 5+ [Vibration], Clash Power +1"
   },
   {
     "key": "815902-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Vibration] Count"
   },
   {
     "key": "815902-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
   },
   {
     "key": "815902-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]8を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]8を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Vibration]"
   },
   {
     "key": "815902-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
   },
   {
     "key": "815903-levelList[0].name",
-    "original": "怠惰な押潰し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "怠惰な押潰し\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "怠惰な押潰し\n<CMT_KR>\n<CMT_JP>",
+    "translation": "怠惰な押潰し\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n나태한 짓누름\nEN:\nSlothful Press"
   },
   {
     "key": "815903-levelList[0].desc",
-    "original": "[WhenUse] 自分より速度が低ければ、差だけマッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 自分より速度が低ければ、差だけマッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 自分より速度が低ければ、差だけマッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分より速度が低ければ、差だけマッチ威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 자신보다 속도가 낮다면, 차이만큼 합 위력 +1 (최대 3)\nEN:\n[WhenUse] If this unit's Speed is faster than the target's, Clash Power +1 for each Speed difference (max 3)"
   },
   {
     "key": "815903-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Binding] next turn"
   },
   {
     "key": "815903-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
   },
   {
     "key": "815903-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]"
   },
   {
     "key": "815904-levelList[0].name",
-    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ガード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가드\nEN:\nGuard"
   },
   {
     "key": "815904-levelList[0].desc",
-    "original": "[WhenUse] [Protection]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [Protection]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [Protection]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [Protection]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [Protection] 3 얻음\nEN:\n[WhenUse] Gain 3 [Protection]"
   },
   {
     "key": "816001-levelList[0].name",
-    "original": "噛みつく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "噛みつく\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "噛みつく\n<CMT_KR>\n<CMT_JP>",
+    "translation": "噛みつく\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n깨물기\nEN:\nMaul"
   },
   {
     "key": "816001-levelList[0].desc",
-    "original": "この攻撃スキルが的中時、次のターンに[TakeHpHealIncrease]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この攻撃スキルが的中時、次のターンに[TakeHpHealIncrease]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この攻撃スキルが的中時、次のターンに[TakeHpHealIncrease]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この攻撃スキルが的中時、次のターンに[TakeHpHealIncrease]を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 공격 스킬 적중시 다음 턴에 [TakeHpHealIncrease]를 얻음\nEN:\nWhen this Attack Skill hits, gain [TakeHpHealIncrease] next turn"
   },
   {
     "key": "816001-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
   },
   {
     "key": "816001-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
   },
   {
     "key": "816002-levelList[0].name",
-    "original": "食事の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "食事の時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "食事の時間\n<CMT_KR>\n<CMT_JP>",
+    "translation": "食事の時間\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n식사 시간\nEN:\nDevouring"
   },
   {
     "key": "816002-levelList[0].desc",
-    "original": "[WhenUse] 対象に[Burst]威力があるなら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象に[Burst]威力があるなら、基本威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象に[Burst]威力があるなら、基本威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Burst]威力があるなら、基本威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상에게 [Burst]이 있다면, 기본 위력 +1\nEN:\n[WhenUse] If target has [Burst], Base Power +1"
   },
   {
     "key": "816002-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "816002-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 3 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 3 HP"
   },
   {
     "key": "816002-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "816002-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 3 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 3 HP"
   },
   {
     "key": "816002-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "816002-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 3 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 3 HP"
   },
   {
     "key": "816002-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "816002-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を3回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 3 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 3 HP"
   },
   {
     "key": "816003-levelList[0].name",
-    "original": "貪欲な食事時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "貪欲な食事時間\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "貪欲な食事時間\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貪欲な食事時間\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n탐욕스러운 식사 시간\nEN:\nRavenous Devouring"
   },
   {
     "key": "816003-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, [DefenseDown] 2 부여\n자신의 [TakeHpHealIncrease] 수치만큼, 기본 위력 +1 (최대 3)\nEN:\n[WhenUse] If target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] value on self (max 3)"
   },
   {
     "key": "816003-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "816003-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 5 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 5 HP"
   },
   {
     "key": "816003-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Burst]"
   },
   {
     "key": "816003-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 5 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 5 HP"
   },
   {
     "key": "816003-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "816003-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 5 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 5 HP"
   },
   {
     "key": "816003-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Burst]"
   },
   {
     "key": "816003-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 本体および部位体力を5回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 본체 및 부위 체력 5 회복\nEN:\n[OnSucceedAttackHead] Core and Part both gain 5 HP"
   },
   {
     "key": "816004-levelList[0].name",
-    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "反撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n반격\nEN:\nCounter"
   },
   {
     "key": "816004-levelList[0].desc",
-    "original": "自分の本体体力が50%以下なら、このスキルのコイン的中時に本体および部位体力が10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の本体体力が50%以下なら、このスキルのコイン的中時に本体および部位体力が10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の本体体力が50%以下なら、このスキルのコイン的中時に本体および部位体力が10回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の本体体力が50%以下なら、このスキルのコイン的中時に本体および部位体力が10回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 본체 체력이 50%이하라면, 이 스킬의 코인 적중시 본체 및 부위 체력 10 회복\nEN:\nAt less than 50% Core HP, Core and Part heal on Coin Hit"
   },
   {
     "key": "816004-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count"
   },
   {
     "key": "816004-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3付与、[Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여, [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 3 [Burst] and +2 [Burst] Count"
   },
   {
     "key": "816401-levelList[0].name",
-    "original": "バットで殴る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "バットで殴る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "バットで殴る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "バットで殴る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n배트치기\nEN:\nBat Bash"
   },
   {
     "key": "816401-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Burst] Count"
   },
   {
     "key": "816401-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
   },
   {
     "key": "816402-levelList[0].name",
-    "original": "打ち落とす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "打ち落とす\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "打ち落とす\n<CMT_KR>\n<CMT_JP>",
+    "translation": "打ち落とす\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n내려박기\nEN:\nSmackdown"
   },
   {
     "key": "816402-levelList[0].desc",
-    "original": "[WinDuel] 次のターンに[Enhancement]、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WinDuel] 次のターンに[Enhancement]、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WinDuel] 次のターンに[Enhancement]、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WinDuel] 次のターンに[Enhancement]、[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WinDuel] 다음 턴에 [Enhancement], [AttackDmgUp] 1 얻음\nEN:\n[WinDuel] Gain 1 [Enhancement] and 1 [AttackDmgUp] next turn"
   },
   {
     "key": "816402-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Burst] Count"
   },
   {
     "key": "816402-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
   },
   {
     "key": "816402-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
   },
   {
     "key": "816402-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Burst]だけ[Laceration]を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Burst]만큼 [Laceration] 부여\nEN:\n[OnSucceedAttack] Inflict [Laceration] equal to [Burst] on target"
   },
   {
     "key": "816403-levelList[0].name",
-    "original": "腹いせ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "腹いせ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "腹いせ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "腹いせ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분풀기\nEN:\nUpheaval"
   },
   {
     "key": "816403-levelList[0].desc",
-    "original": "対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Burst]が5以上なら、マッチ威力 +1\n対象の[Laceration]が5以上なら、マッチ威力 +1\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 [Burst]이 5 이상이면, 합 위력 +1\n대상의 [Laceration]이 5 이상이면, 합 위력 +1\n[WinDuel] [Burst] 횟수 3 증가\nEN:\nIf target has 5+ [Burst], Clash Power +1\nIf target has 5+ [Laceration], Clash Power +1\n[WinDuel] Inflict +3 [Burst] Count"
   },
   {
     "key": "816403-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 코인 위력 +1\nEN:\n[OnSucceedAttackHead] Next Coin has +1 Power"
   },
   {
     "key": "816403-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 코인 위력 +2\nEN:\n[OnSucceedAttackHead] Next Coin has +2 Power"
   },
   {
     "key": "816403-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Paralysis]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Paralysis]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Paralysis]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Paralysis] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
   },
   {
     "key": "816403-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Laceration]"
   },
   {
     "key": "816404-levelList[0].name",
-    "original": "贖罪の時間だ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "贖罪の時間だ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "贖罪の時間だ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "贖罪の時間だ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n속죄의 시간이다\nEN:\nTime to Repent"
   },
   {
     "key": "816404-levelList[0].desc",
-    "original": "[CantChangeTarget]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantChangeTarget]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantChangeTarget]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantChangeTarget]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantChangeTarget]\nEN:\n[CantChangeTarget]"
   },
   {
     "key": "816404-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]回数 3, [Burst]回数3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]回数 3, [Burst]回数3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]回数 3, [Burst]回数3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数 3, [Burst]回数3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수  3, [Burst]  횟수 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration] Count and 3 [Burst] Count"
   },
   {
     "key": "816404-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 3, [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]"
   },
   {
     "key": "816404-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration] 3, [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 3, [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Burst]"
   },
   {
     "key": "816404-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Enhancement] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [Enhancement] next turn"
   },
   {
     "key": "816405-levelList[0].name",
-    "original": "もっと苦しむんだな！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "もっと苦しむんだな！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "もっと苦しむんだな！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "もっと苦しむんだな！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n더욱 고통스러워야해!\nEN:\nYou Must Suffer More!"
   },
   {
     "key": "816405-levelList[0].desc",
-    "original": "[CantChangeTarget]\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantChangeTarget]\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantChangeTarget]\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantChangeTarget]\n[WinDuel] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantChangeTarget]\n[WinDuel] [Burst] 횟수 3 증가\nEN:\n[CantChangeTarget]\n[WinDuel] Inflict 3 [Burst] Count"
   },
   {
     "key": "816405-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 코인 위력 +1\nEN:\n[OnSucceedAttackHead] Next Coin has +1 Power"
   },
   {
     "key": "816405-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のコイン威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 코인 위력 +2\nEN:\n[OnSucceedAttackHead] Next Coin has +2 Power"
   },
   {
     "key": "816405-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]8を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 8 부여\nEN:\n[OnSucceedAttack] Inflict 8 [Laceration]"
   },
   {
     "key": "816406-levelList[0].name",
-    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ガード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가드\nEN:\nGuard"
   },
   {
     "key": "816406-levelList[0].desc",
-    "original": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 [Enhancement] 1 얻음\nEN:\n[WhenUse] Gain 1 [Enhancement] next turn"
   },
   {
     "key": "816407-levelList[0].name",
-    "original": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "反撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "反撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "反撃\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n반격\nEN:\nCounter"
   },
   {
     "key": "816407-levelList[0].desc",
-    "original": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 [Enhancement] 1 얻음\nEN:\n[WhenUse] Gain 1 [Enhancement] next turn"
   },
   {
     "key": "816407-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration]"
   },
   {
     "key": "816501-levelList[0].name",
-    "original": "片付けてやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "片付けてやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "片付けてやる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "片付けてやる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n치워주마\nEN:\nI'll Remove You"
   },
   {
     "key": "816501-levelList[0].desc",
-    "original": "この攻撃スキルが与えたダメージ量の10％だけ、本体および部位体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この攻撃スキルが与えたダメージ量の10％だけ、本体および部位体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この攻撃スキルが与えたダメージ量の10％だけ、本体および部位体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この攻撃スキルが与えたダメージ量の10％だけ、本体および部位体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 공격 스킬이 입힌 피해량의 10%만큼 본체 및 부위 체력 회복\nEN:\nCore and Part heal by 10% of the damage dealt by this Attack Skill"
   },
   {
     "key": "816501-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp]"
   },
   {
     "key": "816501-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp]"
   },
   {
     "key": "816501-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 [Agility] next turn"
   },
   {
     "key": "816502-levelList[0].name",
-    "original": "クソ野郎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クソ野郎\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クソ野郎\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クソ野郎\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빌어먹을 놈\nEN:\nBloody Bastard!"
   },
   {
     "key": "816502-levelList[0].desc",
-    "original": "対象より速度が高ければ、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象より速度が高ければ、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象より速度が高ければ、マッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象より速度が高ければ、マッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상보다 속도가 빠르다면, 합 위력+2\nEN:\nIf this unit's Speed is faster than the target's Clash Power +2"
   },
   {
     "key": "816502-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "816502-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "816502-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象より速度が3以上高ければ、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象より速度が3以上高ければ、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象より速度が3以上高ければ、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象より速度が3以上高ければ、このコインを再使用(最大1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상보다 속도가 3이상 빠르다면, 이 코인 재사용 (최대 1회)\nEN:\n[OnSucceedAttack] If this unit's Speed is faster than the target's by 3 or more, reuse this Coin (once)"
   },
   {
     "key": "816503-levelList[0].name",
-    "original": "俺の家だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "俺の家だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "俺の家だ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "俺の家だ！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n내 집이다!\nEN:\nThis Is My Home!"
   },
   {
     "key": "816503-levelList[0].desc",
-    "original": "体力が最も低い対象を優先して攻撃\n[WhenUse] 対象の現体力の比率が70%未満なら、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最も低い対象を優先して攻撃\n[WhenUse] 対象の現体力の比率が70%未満なら、マッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最も低い対象を優先して攻撃\n[WhenUse] 対象の現体力の比率が70%未満なら、マッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最も低い対象を優先して攻撃\n[WhenUse] 対象の現体力の比率が70%未満なら、マッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 가장 낮은 대상 우선 공격\n[WhenUse] 대상의 현재 체력 비율이 70% 미만이면, 합 위력 +2\nEN:\nPrioritize targets with the least HP\n[WhenUse] If target has less than 70% HP, Clash Power +2"
   },
   {
     "key": "816503-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [Agility] next turn"
   },
   {
     "key": "816503-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable]"
   },
   {
     "key": "816503-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "816503-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]5を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 5 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "816503-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が20以上なら、与ダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が20以上なら、与ダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が20以上なら、与ダメージ量 +100%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が20以上なら、与ダメージ量 +100%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 20이상이면, 피해량 +100%\nEN:\n[OnSucceedAttack] If target has 20+ [Laceration], deal +100% damage"
   },
   {
     "key": "816503-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[EnemyKill] このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EnemyKill] このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EnemyKill] このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EnemyKill] このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EnemyKill] 이 스킬 재사용 (최대 1)\nEN:\n[EnemyKill] Reuse this Skill (1 time max)"
   },
   {
     "key": "816504-levelList[0].name",
-    "original": "てめぇだけは…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "てめぇだけは…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "てめぇだけは…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "てめぇだけは…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n네놈만은…\nEN:\nI'll Get You...!"
   },
   {
     "key": "816504-levelList[0].desc",
-    "original": "ヒースクリフを優先して攻撃\n[WhenUse] 速度が最も低い敵の場合、基本威力 +3\n[WhenUse] 次のターンに[AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ヒースクリフを優先して攻撃\n[WhenUse] 速度が最も低い敵の場合、基本威力 +3\n[WhenUse] 次のターンに[AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ヒースクリフを優先して攻撃\n[WhenUse] 速度が最も低い敵の場合、基本威力 +3\n[WhenUse] 次のターンに[AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ヒースクリフを優先して攻撃\n[WhenUse] 速度が最も低い敵の場合、基本威力 +3\n[WhenUse] 次のターンに[AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n히스클리프 우선 공격\n[WhenUse] 속도가 가장 낮은 적일 경우, 기본 위력 +3\n[WhenUse] 다음 턴에 [AaCfPbBe], [Vulnerable] 2, [Paralysis] 3, [Binding] 5 부여\nEN:\nPrioritizes Heathcliff\n[WhenUse] If the target is the enemy with the slowest Speed, Base Power +3\n[WhenUse] Inflict [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], and 5 [Binding] next turn"
   },
   {
     "key": "816504-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] next turn"
   },
   {
     "key": "816504-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackUp] next turn"
   },
   {
     "key": "816505-levelList[0].name",
-    "original": "返せ…！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "返せ…！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "返せ…！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "返せ…！！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n돌려줘…!!\nEN:\nGive It Back...!!"
   },
   {
     "key": "816505-levelList[0].desc",
-    "original": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\nEN:\n[CantDuel]"
   },
   {
     "key": "816505-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음\nEN:\n[OnSucceedAttackHead] Gain 2 [AttackUp] next turn"
   },
   {
     "key": "816505-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음\nEN:\n[OnSucceedAttackHead] Gain 2 [AttackUp] next turn"
   },
   {
     "key": "816505-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [AttackUp] 2 얻음\nEN:\n[OnSucceedAttackHead] Gain 2 [AttackUp] next turn"
   },
   {
     "key": "816505-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%\nEN:\n[OnSucceedAttack] If target has 10+ [Laceration], deal +30% damage"
   },
   {
     "key": "816505-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の50%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の50%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の50%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が5以上なら、ダメージ量の50%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 5이상이면, 피해량의 50%만큼 체력 회복\nEN:\n[OnSucceedAttack] If target has 5+ [Laceration], heal by 50% of damage dealt"
   },
   {
     "key": "816506-levelList[0].name",
-    "original": "この野郎め…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この野郎め…\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この野郎め…\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この野郎め…\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 새끼가…\nEN:\nYou Little..."
   },
   {
     "key": "816506-levelList[0].desc",
-    "original": "[AaCfPbBe]を持つ対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[AaCfPbBe]を持つ対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[AaCfPbBe]を持つ対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[AaCfPbBe]を持つ対象を優先して攻撃\n対象の速度が自分より3以上低ければ、このスキルを再使用(最大1)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[AaCfPbBe]을 가지고 있는 대상 우선 공격\n대상의 속도가 자신보다 3 이상 낮다면, 이 스킬 재사용 (최대 1)\nEN:\nPrioritizes targets with [AaCfPbBe]\nIf this unit's Speed is faster than the target's by 3 or more, reuse this Skill (1 time max)"
   },
   {
     "key": "816506-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복\nEN:\n[OnSucceedAttack] Heal Core and Part by 50% of damage dealt"
   },
   {
     "key": "816506-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量の50%分、本体および部位体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 피해량의 50%만큼 본체 및 부위 체력 회복\nEN:\n[OnSucceedAttack] Heal Core and Part by 50% of damage dealt"
   },
   {
     "key": "816507-levelList[0].name",
-    "original": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ガード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ガード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ガード\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가드\nEN:\nGuard"
   },
   {
     "key": "816507-levelList[0].desc",
-    "original": "ターン終了時にバリアが残っているなら、次のターンに[Protection]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にバリアが残っているなら、次のターンに[Protection]4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にバリアが残っているなら、次のターンに[Protection]4を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にバリアが残っているなら、次のターンに[Protection]4を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료시 보호막 체력이 남아있다면, 다음 턴에 [Protection] 4 얻음\nEN:\nIf this Unit has remaining Shield HP at Turn End, gain 4 [Protection] next turn"
   },
   {
     "key": "816508-levelList[0].name",
-    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "回避\n<CMT_KR>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회피\nEN:\nEvade"
   },
   {
     "key": "816508-levelList[0].desc",
-    "original": "[OnSucceedEvade] 次のターンに[Binding]1を付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedEvade] 次のターンに[Binding]1を付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedEvade] 次のターンに[Binding]1を付与(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] 次のターンに[Binding]1を付与(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedEvade] 다음 턴에 [Binding] 1 부여 (최대 2)\nEN:\n[OnSucceedEvade] Inflict 1 [Binding] next turn (2 times max)"
   },
   {
     "key": "816509-levelList[0].name",
-    "original": "ここは俺の居場所だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ここは俺の居場所だ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ここは俺の居場所だ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ここは俺の居場所だ！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n여긴 내자리야!\nEN:\nThis is My Place!"
   },
   {
     "key": "816509-levelList[0].desc",
-    "original": "自分の速度が対象より高ければ、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の速度が対象より高ければ、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の速度が対象より高ければ、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の速度が対象より高ければ、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 속도가 대상보다 높으면 코인 위력 +1\nEN:\nIf this unit's Speed is faster than the target's, Coin Power +1"
   },
   {
     "key": "816509-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%\nEN:\n[OnSucceedAttack] If target has 10+ [Laceration], deal +30% damage"
   },
   {
     "key": "816509-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%\nEN:\n[OnSucceedAttack] If target has 10+ [Laceration], deal +30% damage"
   },
   {
     "key": "816509-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%\nEN:\n[OnSucceedAttack] If target has 10+ [Laceration], deal +30% damage"
   },
   {
     "key": "816509-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、与ダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량 +30%\nEN:\n[OnSucceedAttack] If target has 10+ [Laceration], deal +30% damage"
   },
   {
     "key": "816509-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、ダメージ量の70%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、ダメージ量の70%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、ダメージ量の70%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]が10以上なら、ダメージ量の70%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]이 10이상이면, 피해량의 70%만큼 체력 회복\nEN:\n[OnSucceedAttack] If target has 10+ [Laceration], heal by 70% of damage dealt"
   }

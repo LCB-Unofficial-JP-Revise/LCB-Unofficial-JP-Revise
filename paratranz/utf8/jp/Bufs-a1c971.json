@@ -1,29 +1,29 @@
 [
   {
     "key": "Bloodthirst-name",
-    "original": "血の渇望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血の渇望\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血の渇望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血の渇望\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피갈망\nEN:\nYearning for Blood"
   },
   {
     "key": "Bloodthirst-desc",
-    "original": "- 基本攻撃・防御レベルが35減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 基本攻撃・防御レベルが35減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 基本攻撃・防御レベルが35減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 基本攻撃・防御レベルが35減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 기본 공격 레벨 35 감소\n- 기본 방어 레벨 35 감소\nEN:\n- Lose 35 Base Offense Level\n- Lose 35 Base Defense Level"
   },
   {
     "key": "ObservedPerson-name",
-    "original": "被観察者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被観察者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被観察者\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被観察者\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피관찰자\nEN:\nSubject of Observation"
   },
   {
     "key": "ObservedPerson-desc",
-    "original": "- 最大30\n- ターン開始時に3増加(獲得した次のターンから適用)\n- ねじれたホーエンハイムから攻撃スキル効果でダメージを受けるか与えるたびに1増加\n- (数値 × 4)%だけ敵からの被ダメージ量が増加\n- (数値 × 2)%だけ与ダメージ量が増加する代わり、的中時の与ダメージ量の(数値 ÷ 2)%だけ体力ダメージを受ける(この効果で混乱しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 最大30\n- ターン開始時に3増加(獲得した次のターンから適用)\n- ねじれたホーエンハイムから攻撃スキル効果でダメージを受けるか与えるたびに1増加\n- (数値 × 4)%だけ敵からの被ダメージ量が増加\n- (数値 × 2)%だけ与ダメージ量が増加する代わり、的中時の与ダメージ量の(数値 ÷ 2)%だけ体力ダメージを受ける(この効果で混乱しない)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 最大30\n- ターン開始時に3増加(獲得した次のターンから適用)\n- ねじれたホーエンハイムから攻撃スキル効果でダメージを受けるか与えるたびに1増加\n- (数値 × 4)%だけ敵からの被ダメージ量が増加\n- (数値 × 2)%だけ与ダメージ量が増加する代わり、的中時の与ダメージ量の(数値 ÷ 2)%だけ体力ダメージを受ける(この効果で混乱しない)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大30\n- ターン開始時に3増加(獲得した次のターンから適用)\n- ねじれたホーエンハイムから攻撃スキル効果でダメージを受けるか与えるたびに1増加\n- (数値 × 4)%だけ敵からの被ダメージ量が増加\n- (数値 × 2)%だけ与ダメージ量が増加する代わり、的中時の与ダメージ量の(数値 ÷ 2)%だけ体力ダメージを受ける(この効果で混乱しない)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 30\n- 턴 시작 시, 3 증가 (획득한 다음 턴부터 적용)\n- 뒤틀린 호엔하임에게 공격 스킬 효과로 피해를 받거나 입힐 때마다 1 증가\n- (수치 x 4)%만큼 적에게 받는 피해량 증가\n- (수치 x 2)%만큼 가하는 피해량이 증가하는 대신 적중 시 입힌 피해량의 (수치 / 2)%만큼 체력 피해를 입음 (이 효과로 흐트러지지 않음)\nEN:\n- Max Stack: 30\n- Turn Start: gain 3 Stack (starting from the turn after this unit gained this effect)\n- Gain 1 Stack every time this unit takes or deals damage with an Attack Skill effect against Distorted Hohenheim\n- Take +(Stack x 4)% damage from enemies\n- Deal +(Stack x 2)% damage, but On Hit, take (Stack / 2)% of the damage dealt as HP damage (cannot be Staggered from this effect)"
   }

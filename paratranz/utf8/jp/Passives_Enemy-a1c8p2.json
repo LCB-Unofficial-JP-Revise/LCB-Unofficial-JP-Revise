@@ -1,197 +1,197 @@
 [
   {
     "key": "9021001-name",
-    "original": "家主候補の牽制\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "家主候補の牽制\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "家主候補の牽制\n<CMT_KR>\n<CMT_JP>",
+    "translation": "家主候補の牽制\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가주 후보 견제\nEN:\nRival Candidate"
   },
   {
     "key": "9021001-desc",
-    "original": "対象がホンルならダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象がホンルならダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象がホンルならダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象がホンルならダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상이 홍루라면, 피해량 +10%\nEN:\nDeal +10% damage against Hong Lu"
   },
   {
     "key": "9021002-name",
-    "original": "シー(史)製充電回路\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "シー(史)製充電回路\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "シー(史)製充電回路\n<CMT_KR>\n<CMT_JP>",
+    "translation": "シー(史)製充電回路\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사(史)제 충전 회로\nEN:\nShi(史) Family Charge Circuitry"
   },
   {
     "key": "9021002-desc",
-    "original": "戦闘中、累計で自分の[Charge]回数を10消耗する度に[Charge]1を得る\nターン終了時に[Charge]が2以上なら、次のターンに[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘中、累計で自分の[Charge]回数を10消耗する度に[Charge]1を得る\nターン終了時に[Charge]が2以上なら、次のターンに[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘中、累計で自分の[Charge]回数を10消耗する度に[Charge]1を得る\nターン終了時に[Charge]が2以上なら、次のターンに[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中、累計で自分の[Charge]回数を10消耗する度に[Charge]1を得る\nターン終了時に[Charge]が2以上なら、次のターンに[ParryingResultUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 중 누적으로 자신의 [Charge] 횟수 10을 소모할 때마다, [Charge] 1 얻음\n턴 종료 시, [Charge]이 2 이상이면, 다음 턴에 [ParryingResultUp] 1 얻음\nEN:\nGain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nTurn End: At 2+ [Charge], gain 1 [ParryingResultUp] next turn"
   },
   {
     "key": "9021003-name",
-    "original": "充電回路発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "充電回路発動\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "充電回路発動\n<CMT_KR>\n<CMT_JP>",
+    "translation": "充電回路発動\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n충전 회로 발동\nEN:\nCharge Circuitry Activation"
   },
   {
     "key": "9021003-desc",
-    "original": "対象の[Burst]6につき、ダメージ量 +5％(最大10%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の[Burst]6につき、ダメージ量 +5％(最大10%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の[Burst]6につき、ダメージ量 +5％(最大10%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Burst]6につき、ダメージ量 +5％(最大10%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 [Burst] 6 당, 피해량 +5% (최대 10%)\nEN:\nDeal +5% damage for every 6 [Burst] on target (Max 10%)"
   },
   {
     "key": "9021004-name",
-    "original": "過負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過負荷\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過負荷\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n과부하\nEN:\nOverload"
   },
   {
     "key": "9021004-desc",
-    "original": "ターン終了時、自分の[Charge]が3以上なら、次のターンに[DefenseDown]3, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、自分の[Charge]が3以上なら、次のターンに[DefenseDown]3, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、自分の[Charge]が3以上なら、次のターンに[DefenseDown]3, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、自分の[Charge]が3以上なら、次のターンに[DefenseDown]3, [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 자신의 [Charge]이 3 이상이면, 다음 턴에 [DefenseDown] 3, [AttackDmgUp] 1 얻음\nEN:\nTurn End: at 3+ [Charge], gain 3 [DefenseDown] and 1 [AttackDmgUp] next turn"
   },
   {
     "key": "9021201-name",
-    "original": "酷い過負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "酷い過負荷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "酷い過負荷\n<CMT_KR>\n<CMT_JP>",
+    "translation": "酷い過負荷\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n심한 과부하\nEN:\nSevere Overload"
   },
   {
     "key": "9021201-desc",
-    "original": "ターン終了時、自分の[Charge]が5以上なら、次のターンに[DefenseDown]4, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、自分の[Charge]が5以上なら、次のターンに[DefenseDown]4, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、自分の[Charge]が5以上なら、次のターンに[DefenseDown]4, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、自分の[Charge]が5以上なら、次のターンに[DefenseDown]4, [AttackDmgUp]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 자신의 [Charge]이 5 이상이면, 다음 턴에 [DefenseDown] 4, [AttackDmgUp] 3 얻음\nEN:\nTurn End: at 5+ [Charge], gain 4 [DefenseDown] and 3 [AttackDmgUp] next turn"
   },
   {
     "key": "9020501-name",
-    "original": "実験目標 - 成長\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "実験目標 - 成長\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "実験目標 - 成長\n<CMT_KR>\n<CMT_JP>",
+    "translation": "実験目標 - 成長\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n실험 목표 - 생장\nEN:\nExperiment Goal - Maturation"
   },
   {
     "key": "9020501-desc",
-    "original": "ターン開始時、(このターンの間、敵にスキル攻撃でダメージ受けた回数 ÷ 2)だけ[DefenseUp]を得る (最大10)\n\n初めて混乱してからはこの効果が消滅し、次のターンからターン開始時に[DefenseDown]10を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、(このターンの間、敵にスキル攻撃でダメージ受けた回数 ÷ 2)だけ[DefenseUp]を得る (最大10)\n\n初めて混乱してからはこの効果が消滅し、次のターンからターン開始時に[DefenseDown]10を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、(このターンの間、敵にスキル攻撃でダメージ受けた回数 ÷ 2)だけ[DefenseUp]を得る (最大10)\n\n初めて混乱してからはこの効果が消滅し、次のターンからターン開始時に[DefenseDown]10を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、(このターンの間、敵にスキル攻撃でダメージ受けた回数 ÷ 2)だけ[DefenseUp]を得る (最大10)\n\n初めて混乱してからはこの効果が消滅し、次のターンからターン開始時に[DefenseDown]10を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, (이번 전투 동안 적에게 스킬 공격으로 피해를 받은 횟수/2)만큼 [DefenseUp] 얻음 (최대 10)\n\n처음으로 흐트러진 이후에는 이 효과가 사라지고, 다음 턴 부터 턴 시작 시 [DefenseDown] 10 얻음\nEN:\nTurn Start: gain [DefenseUp] equal to (number of times this unit was hit by the enemies' Skill Attacks / 2) (max 10)\n\nLose this effect when Staggered for the first time; then, at the next Turn Start, gain 10 [DefenseDown]"
   },
   {
     "key": "9020601-name",
-    "original": "実験目標 - 発芽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "実験目標 - 発芽\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "実験目標 - 発芽\n<CMT_KR>\n<CMT_JP>",
+    "translation": "実験目標 - 発芽\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n실험 목표 - 발아\nEN:\nExperiment Goal - Germination"
   },
   {
     "key": "9020601-desc",
-    "original": "体力が最大値でなければターン開始時、失った体力の80%だけ自分の体力を回復\n- 回復するたび、このパッシブ効果が半減 (最低10%まで減少、体力を1以上回復する場合にのみ適用される)\n- 混乱状態ではこの効果が発動しない\n\n初めて混乱してから、または回復効果が最小になると毎ターン開始時に[Vulnerable]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最大値でなければターン開始時、失った体力の80%だけ自分の体力を回復\n- 回復するたび、このパッシブ効果が半減 (最低10%まで減少、体力を1以上回復する場合にのみ適用される)\n- 混乱状態ではこの効果が発動しない\n\n初めて混乱してから、または回復効果が最小になると毎ターン開始時に[Vulnerable]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最大値でなければターン開始時、失った体力の80%だけ自分の体力を回復\n- 回復するたび、このパッシブ効果が半減 (最低10%まで減少、体力を1以上回復する場合にのみ適用される)\n- 混乱状態ではこの効果が発動しない\n\n初めて混乱してから、または回復効果が最小になると毎ターン開始時に[Vulnerable]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値でなければターン開始時、失った体力の80%だけ自分の体力を回復\n- 回復するたび、このパッシブ効果が半減 (最低10%まで減少、体力を1以上回復する場合にのみ適用される)\n- 混乱状態ではこの効果が発動しない\n\n初めて混乱してから、または回復効果が最小になると毎ターン開始時に[Vulnerable]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 상태가 아니면 턴 시작 시, 잃은 체력의 80%만큼 자신의 체력을 회복\n- 회복할 때마다 이 패시브의 효과가 절반으로 감소 (최소 10%까지 감소, 체력을 1 이상 회복하는 경우에만 적용됨)\n- 흐트러짐 상태에서는 이 효과가 발동하지 않음\n\n처음으로 흐트러진 이후 또는 회복 효과가 최소가 되면 매 턴 시작 시 [Vulnerable] 3 얻음\nEN:\nTurn Start: if this unit isn't at max HP, heal 80% of the missing HP\n- With every healing, halve the healing effect of this Passive by half (halves down to 10% minimum; applies only when this unit heals more than 1 HP)\n- Does not activate when Staggered\n\nAfter this unit is Staggered for the first time, or when the healing effect is reduced to its minimum, gain 3 [Vulnerable] at every Turn Start"
   },
   {
     "key": "9020701-name",
-    "original": "実験目標 - 満開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "実験目標 - 満開\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "実験目標 - 満開\n<CMT_KR>\n<CMT_JP>",
+    "translation": "実験目標 - 満開\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n실험 목표 - 만발\nEN:\nExperiment Goal - Blossom"
   },
   {
     "key": "9020701-desc",
-    "original": "今回の戦闘にて体力が0になるダメージを受けたとき、次のターンまで体力が1のまま保たれてダメージ量 +50% (戦闘につき1回)\n\n混乱状態ではこの効果が発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "今回の戦闘にて体力が0になるダメージを受けたとき、次のターンまで体力が1のまま保たれてダメージ量 +50% (戦闘につき1回)\n\n混乱状態ではこの効果が発動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "今回の戦闘にて体力が0になるダメージを受けたとき、次のターンまで体力が1のまま保たれてダメージ量 +50% (戦闘につき1回)\n\n混乱状態ではこの効果が発動しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "今回の戦闘にて体力が0になるダメージを受けたとき、次のターンまで体力が1のまま保たれてダメージ量 +50% (戦闘につき1回)\n\n混乱状態ではこの効果が発動しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이번 전투에서 체력이 0이 되는 피해를 받았을 때, 다음 턴까지 체력이 1로 유지되고 피해량 +50% (전투당 1회)\n\n흐트러짐 상태에서는 이 효과가 발동하지 않음\nEN:\nWhen this unit takes damage that brings its HP down to 0, and maintain this unit's HP at 1 until the next turn; deal +50% damage (once per Encounter)\n\nDoes not activate when Staggered"
   },
   {
     "key": "9020801-name",
-    "original": "符術士\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "符術士\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "符術士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "符術士\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n부적술사\nEN:\nTalisman Sorcerer"
   },
   {
     "key": "9020801-desc",
-    "original": "[OminousTalisman]を的に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(0 - 自分の精神力)%だけ増加(最大30%, 最小0%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OminousTalisman]を敵に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(0 - 自分の精神力)%だけ増加(最大30%, 最小0%)\n<CMT_KR>오식: \"[OminousTalisman]を「的」に付与する度に自分の精神力を10消耗する\" 정확: \"[OminousTalisman]を「敵」に付与する度に自分の精神力を10消耗する\"\n<CMT_EN>Typo: \"[OminousTalisman]を「的」に付与する度に自分の精神力を10消耗する\" Correction: \"[OminousTalisman]を「敵」に付与する度に自分の精神力を10消耗する\"\n<CMT_JP>誤植: \"[OminousTalisman]を「的」に付与する度に自分の精神力を10消耗する\" 訂正後: \"[OminousTalisman]を「敵」に付与する度に自分の精神力を10消耗する\"",
+    "original": "[OminousTalisman]を的に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(0 - 自分の精神力)%だけ増加(最大30%, 最小0%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OminousTalisman]を敵に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(0 - 自分の精神力)%だけ増加(最大30%, 最小0%)\n<CMT_KR>오기: \"[OminousTalisman]を「的」に付与する度に自分の精神力を10消耗する\" 정확: \"[OminousTalisman]を「敵」に付与する度に自分の精神力を10消耗する\"\n<CMT_JP>誤記: \"[OminousTalisman]を「的」に付与する度に自分の精神力を10消耗する\" 訂正後: \"[OminousTalisman]を「敵」に付与する度に自分の精神力を10消耗する\"",
     "stage": 1,
     "context": "KR:\n[OminousTalisman]을 적에게 부여할 때마다 자신의 정신력 10을 소모함\n\n[OminousTalisman]을 보유한 대상에게 가하는 피해량이 (0 - 자신의 정신력)%만큼 증가 (최대 30%, 최소 0%)\nEN:\nWhenever this unit inflicts [OminousTalisman] against an enemy, lose 10 SP\n\nAgainst targets with [OminousTalisman], deal +(0 - SP on self)% damage (max 30%, min 0%)"
   },
   {
     "key": "9020802-name",
-    "original": "不吉の転移\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "不吉の転移\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "不吉の転移\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不吉の転移\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불길함 전이\nEN:\nProliferating Misfortune"
   },
   {
     "key": "9020802-desc",
-    "original": "死亡時、[OminousTalisman]のないランダムな敵へ[OminousTalisman]を10付与\n- 全ての敵が[OminousTalisman]を保有しているなら、代わりに全ての敵の[OminousTalisman]1を減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死亡時、[OminousTalisman]のないランダムな敵へ[OminousTalisman]を10付与\n- 全ての敵が[OminousTalisman]を保有しているなら、代わりに全ての敵の[OminousTalisman]1を減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死亡時、[OminousTalisman]のないランダムな敵へ[OminousTalisman]を10付与\n- 全ての敵が[OminousTalisman]を保有しているなら、代わりに全ての敵の[OminousTalisman]1を減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死亡時、[OminousTalisman]のないランダムな敵へ[OminousTalisman]を10付与\n- 全ての敵が[OminousTalisman]を保有しているなら、代わりに全ての敵の[OminousTalisman]1を減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사망 시, [OminousTalisman]이 없는 무작위 적에게 [OminousTalisman] 10 부여\n- 모든 적이 [OminousTalisman]을 보유하였다면, 대신 모든 적의 [OminousTalisman] 1 감소\nEN:\nOn death, apply 10 [OminousTalisman] against a random enemy without [OminousTalisman]\n- If all enemies already have [OminousTalisman], then reduce all enemies' [OminousTalisman] by 1 instead"
   },
   {
     "key": "9020803-name",
-    "original": "慝邪な気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "慝邪な気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "慝邪な気\n<CMT_KR>\n<CMT_JP>",
+    "translation": "慝邪な気\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사특한 기운\nEN:\nWicked Energy"
   },
   {
     "key": "9020803-desc",
-    "original": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を1～2だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を1～2だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を1～2だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を1～2だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OminousTalisman]을 적에게 부여할 때 대상이 이미 [OminousTalisman]을 보유하였다면, 대상이 보유한 [OminousTalisman]을 1~2만큼 소모하고 그 수치만큼 이번 턴과 다음 턴에 [DefenseDown] 부여\nEN:\nWhen inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume 1~2 [OminousTalisman] on the target and inflict the same value as [DefenseDown] Stacks to the target this turn and next turn"
   },
   {
     "key": "9020901-name",
-    "original": "優れた符術士\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "優れた符術士\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "優れた符術士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "優れた符術士\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뛰어난 부적술사\nEN:\nSkilled Talisman Sorcerer"
   },
   {
     "key": "9020901-desc",
-    "original": "[OminousTalisman]を的に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(10 - 自分の精神力)%だけ増加(最大50%, 最小0%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OminousTalisman]を的に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(10 - 自分の精神力)%だけ増加(最大50%, 最小0%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OminousTalisman]を的に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(10 - 自分の精神力)%だけ増加(最大50%, 最小0%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OminousTalisman]を的に付与する度に自分の精神力を10消耗する\n\n[OminousTalisman]を保有する対象への与ダメージ量が(10 - 自分の精神力)%だけ増加(最大50%, 最小0%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OminousTalisman]을 적에게 부여할 때마다 자신의 정신력 10을 소모함\n\n[OminousTalisman]을 보유한 대상에게 가하는 피해량이 (10 - 자신의 정신력)%만큼 증가 (최대 50%, 최소 0%)\nEN:\nWhenever this unit inflicts [OminousTalisman] against an enemy, lose 10 SP\n\nAgainst targets with [OminousTalisman], deal +(10 - SP on self)% damage (max 50%, min 0%)"
   },
   {
     "key": "9020902-name",
-    "original": "吸魂療法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "吸魂療法\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "吸魂療法\n<CMT_KR>\n<CMT_JP>",
+    "translation": "吸魂療法\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흡혼요법\nEN:\nSoul Siphon Technique"
   },
   {
     "key": "9020902-desc",
-    "original": "ターン開始時、自分の体力が50%以下ならランダムな慝邪な呪殺僧を1名犠牲にし、(自分の最大体力10% + 擬製した対象の体力最大値50%)だけ体力を回復、25だけ精神力を回復、混乱状態が解除される(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、自分の体力が50%以下ならランダムな慝邪な呪殺僧を1名犠牲にし、(自分の最大体力10% + 犠牲にした対象の体力最大値50%)だけ体力を回復、25だけ精神力を回復、混乱状態が解除される(1ターンにつき1回)\n<CMT_KR>오식: \"(自分の最大体力10% + 「擬製した」対象の体力最大値50%)だけ体力を回復し、\" 정확: \"(自分の最大体力10% + 「犠牲にした」対象の体力最大値50%)だけ体力を回復し、\"\n<CMT_EN>Typo: \"(自分の最大体力10% + 「擬製した」対象の体力最大値50%)だけ体力を回復し、\" Correction: \"(自分の最大体力10% + 「犠牲にした」対象の体力最大値50%)だけ体力を回復し、\"\n<CMT_JP>誤植: \"(自分の最大体力10% + 「擬製した」対象の体力最大値50%)だけ体力を回復し、\" 訂正後: \"(自分の最大体力10% + 「犠牲にした」対象の体力最大値50%)だけ体力を回復し、\"",
+    "original": "ターン開始時、自分の体力が50%以下ならランダムな慝邪な呪殺僧を1名犠牲にし、(自分の最大体力10% + 擬製した対象の体力最大値50%)だけ体力を回復、25だけ精神力を回復、混乱状態が解除される(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、自分の体力が50%以下ならランダムな慝邪な呪殺僧を1名犠牲にし、(自分の最大体力10% + 犠牲にした対象の体力最大値50%)だけ体力を回復、25だけ精神力を回復、混乱状態が解除される(1ターンにつき1回)\n<CMT_KR>오기: \"(自分の最大体力10% + 「擬製した」対象の体力最大値50%)だけ体力を回復し、\" 정확: \"(自分の最大体力10% + 「犠牲にした」対象の体力最大値50%)だけ体力を回復し、\"\n<CMT_JP>誤記: \"(自分の最大体力10% + 「擬製した」対象の体力最大値50%)だけ体力を回復し、\" 訂正後: \"(自分の最大体力10% + 「犠牲にした」対象の体力最大値50%)だけ体力を回復し、\"",
     "stage": 1,
     "context": "KR:\n턴 시작 시 자신의 체력이 50% 이하면, 무작위 사특한 주살승을 1명 희생하여 (자신의 최대 체력 10% + 희생한 대상의 최대 체력 50%)만큼 체력을 회복, 25만큼 정신력을 회복, 흐트러짐 상태에서 해제됨 (턴당 1회)\nEN:\nTurn Start: at 50% or less HP, sacrifice a random Wicked Deathrite Monk to heal (10% of this unit's HP + 50% of the sacrificed unit's HP) HP, heal 25 SP, and recover from Stagger (once per turn)"
   },
   {
     "key": "9020903-name",
-    "original": "慝邪な気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "慝邪な気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "慝邪な気\n<CMT_KR>\n<CMT_JP>",
+    "translation": "慝邪な気\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사특한 기운\nEN:\nWicked Energy"
   },
   {
     "key": "9020903-desc",
-    "original": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を最大3だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を最大3だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を最大3だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OminousTalisman]を敵に付与するとき、対象が既に[OminousTalisman]を保有しているなら対象の保有する[OminousTalisman]を最大3だけ消耗し、その数値だけ今回と次のターンに[DefenseDown]を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OminousTalisman]을 적에게 부여할 때 대상이 이미 [OminousTalisman]을 보유하였다면, 대상이 보유한 [OminousTalisman]을 최대 3만큼 소모하고 그 수치만큼 이번 턴과 다음 턴에 [DefenseDown] 부여\nEN:\nWhen inflicting [OminousTalisman] on an enemy, if the target already has [OminousTalisman], consume up to 3 [OminousTalisman] on the target and inflict the same value as [DefenseDown] Stacks to the target this turn and next turn"
   }

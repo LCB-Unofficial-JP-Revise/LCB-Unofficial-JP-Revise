@@ -1,365 +1,365 @@
 [
   {
     "key": "1001-panicName",
-    "original": "自傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自傷\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自傷\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自傷\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자해\nEN:\nCompulsion"
   },
   {
     "key": "1001-lowMoraleDescription",
-    "original": "ターン開始時、<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">クイック</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">クイック</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">クイック</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">クイック</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, &lt;sprite name=\"Agility\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Agility\"&gt;신속&lt;/color&gt;&lt;/link&gt;</u> 2, &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"Agility\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Agility\"&gt;Haste&lt;/color&gt;&lt;/link&gt;</u> and 2 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1001-panicDescription",
-    "original": "ターン開始時、自分の体力-10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、自分の体力-10\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、自分の体力-10\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、自分の体力-10\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 자신의 체력 -10\nEN:\nTurn Start: Lose 10 HP."
   },
   {
     "key": "1002-panicName",
-    "original": "非難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "非難\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "非難\n<CMT_KR>\n<CMT_JP>",
+    "translation": "非難\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n비난\nEN:\nOutlash"
   },
   {
     "key": "1002-lowMoraleDescription",
-    "original": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;공격 위력 증가&lt;/color&gt;&lt;/link&gt;</u> 2, &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;Attack Power Up&lt;/color&gt;&lt;/link&gt;</u> and 2 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1002-panicDescription",
-    "original": "ターン開始時、ランダムな味方の精神力を-20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、ランダムな味方の精神力を-20\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、ランダムな味方の精神力を-20\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、ランダムな味方の精神力を-20\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 턴 시작 시 무작위 아군의 정신력 - 20\nEN:\nTurn Start: Random ally loses 20 SP."
   },
   {
     "key": "1003-panicName",
-    "original": "圧倒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "圧倒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "圧倒\n<CMT_KR>\n<CMT_JP>",
+    "translation": "圧倒\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n압도\nEN:\nOverwhelmed"
   },
   {
     "key": "1003-lowMoraleDescription",
-    "original": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"Reduction\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Reduction\"&gt;공격 위력 감소&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"Reduction\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Reduction\"&gt;Attack Power Down&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1003-panicDescription",
-    "original": "1ターンの間行動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "1ターンの間行動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "1ターンの間行動しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1ターンの間行動しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n한 턴 동안 행동하지 않음\nEN:\nDoes not act for this turn."
   },
   {
     "key": "1004-panicName",
-    "original": "萎縮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "萎縮\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "萎縮\n<CMT_KR>\n<CMT_JP>",
+    "translation": "萎縮\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n위축\nEN:\nAtrophied"
   },
   {
     "key": "1004-lowMoraleDescription",
-    "original": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"Reduction\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Reduction\"&gt;공격 위력 감소&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"Reduction\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Reduction\"&gt;Attack Power Down&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1004-panicDescription",
-    "original": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>4を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>4を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">攻撃威力減少</color></link></u>4を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"Reduction\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Reduction\"&gt;공격 위력 감소&lt;/color&gt;&lt;/link&gt;</u> 4를 얻음\nEN:\nTurn Start: Gain 4 &lt;sprite name=\"Reduction\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Reduction\"&gt;Attack Power Down&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1005-panicName",
-    "original": "悔しさ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "悔しさ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "悔しさ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悔しさ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분함\nEN:\nAgitated"
   },
   {
     "key": "1005-lowMoraleDescription",
-    "original": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u> 1, &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nTurn Start: Gain 1 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u> and 2 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1005-panicDescription",
-    "original": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>5を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>5を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u> 2, &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 5를 얻음\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u> and 5 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1006-panicName",
-    "original": "逃走\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "逃走\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "逃走\n<CMT_KR>\n<CMT_JP>",
+    "translation": "逃走\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n도주\nEN:\nRunning"
   },
   {
     "key": "1006-lowMoraleDescription",
-    "original": "行動しない。被ダメージ時、該当スキル終了後に死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "行動しない。被ダメージ時、該当スキル終了後に死亡\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "行動しない。被ダメージ時、該当スキル終了後に死亡\n<CMT_KR>\n<CMT_JP>",
+    "translation": "行動しない。被ダメージ時、該当スキル終了後に死亡\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n행동하지 않음. 피격 시, 해당 스킬 종료 후 사망\nEN:\nDoes not act. When hit, this unit is defeated after the skill ends."
   },
   {
     "key": "1007-panicName",
-    "original": "哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "哀しみ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n슬픔\nEN:\nSorrow"
   },
   {
     "key": "1007-lowMoraleDescription",
-    "original": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴마다 &lt;sprite name=\"AttackDmgDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"AttackDmgDown\"&gt;피해량 감소&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nGain 2 &lt;sprite name=\"AttackDmgDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"AttackDmgDown\"&gt;Damage Down&lt;/color&gt;&lt;/link&gt;</u> each turn"
   },
   {
     "key": "1007-panicDescription",
-    "original": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>5, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>5, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>5, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン<sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">ダメージ量減少</color></link></u>5, <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴마다 &lt;sprite name=\"AttackDmgDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"AttackDmgDown\"&gt;피해량 감소&lt;/color&gt;&lt;/link&gt;</u> 5, &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음\nEN:\nGain 5 &lt;sprite name=\"AttackDmgDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"AttackDmgDown\"&gt;Damage Down&lt;/color&gt;&lt;/link&gt;</u> and 2 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u> each turn"
   },
   {
     "key": "1008-panicName",
-    "original": "狂人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "狂人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "狂人\n<CMT_KR>\n<CMT_JP>",
+    "translation": "狂人\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n광인\nEN:\nMaddened"
   },
   {
     "key": "1008-lowMoraleDescription",
-    "original": "この士気低下を最初に獲得した場合、敵味方識別不可状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この士気低下を最初に獲得した場合、敵味方識別不可状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この士気低下を最初に獲得した場合、敵味方識別不可状態になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この士気低下を最初に獲得した場合、敵味方識別不可状態になる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n첫 사기저하일 때, 피아식별 불가상태\nEN:\nWhen at low morale for the first time, targets units indiscriminately"
   },
   {
     "key": "1008-panicDescription",
-    "original": "敵味方識別不可状態、マッチ威力+1, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "敵味方識別不可状態、マッチ威力+1, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "敵味方識別不可状態、マッチ威力+1, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵味方識別不可状態、マッチ威力+1, <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피아식별 불가상태, 합 위력 +1, &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u> 2 얻음\nEN:\nTargets indiscriminately; Clash Power +1, and gain 2 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1009-panicName",
-    "original": "自殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自殺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自殺\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자살\nEN:\nSuicidal"
   },
   {
     "key": "1009-lowMoraleDescription",
-    "original": "この士気低下を最初に獲得した場合、行動不能状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "この士気低下を最初に獲得した場合、行動不能状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "この士気低下を最初に獲得した場合、行動不能状態になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "この士気低下を最初に獲得した場合、行動不能状態になる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n첫 사기저하 상태였을 때, 행동 불가 상태\nEN:\nWhen at low morale for the first time, become unable to act"
   },
   {
     "key": "1009-panicDescription",
-    "original": "3ターンの間、行動不能状態。3ターン経過後、ターン開始時に死亡。死亡時、全味方の精神力減少条件を満たした際に10追加で減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "3ターンの間、行動不能状態。3ターン経過後、ターン開始時に死亡。死亡時、全味方の精神力減少条件を満たした際に10追加で減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "3ターンの間、行動不能状態。3ターン経過後、ターン開始時に死亡。死亡時、全味方の精神力減少条件を満たした際に10追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "3ターンの間、行動不能状態。3ターン経過後、ターン開始時に死亡。死亡時、全味方の精神力減少条件を満たした際に10追加で減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n3턴 간 행동불가 상태. 3턴 경과 후 턴 시작 시 사망. 사망 시 모든 아군 정신력 감소 조건에 10 추가 감소\nEN:\nCannot act for 3 turns. After 3 turns, unit dies at turn start; all its allies lose additional 10 SP with every SP loss condition"
   },
   {
     "key": "1010-panicName",
-    "original": "徘徊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "徘徊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "徘徊\n<CMT_KR>\n<CMT_JP>",
+    "translation": "徘徊\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n배회\nEN:\nWandering"
   },
   {
     "key": "1010-lowMoraleDescription",
-    "original": "ターン終了時、味方に2精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、味方に2精神力ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、味方に2精神力ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、味方に2精神力ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 아군에게 정신력 2 피해\nEN:\nTurn End: Deal 2 SP damage to allies"
   },
   {
     "key": "1010-panicDescription",
-    "original": "3ターンの間、ターン終了時に味方へ精神力5ダメージ\n3ターン終了時に逃走\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "3ターンの間、ターン終了時に味方へ精神力5ダメージ\n3ターン終了時に逃走\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "3ターンの間、ターン終了時に味方へ精神力5ダメージ\n3ターン終了時に逃走\n<CMT_KR>\n<CMT_JP>",
+    "translation": "3ターンの間、ターン終了時に味方へ精神力5ダメージ\n3ターン終了時に逃走\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n3턴 간 턴 종료 시 아군에게 정신력 5 피해\n3턴 종료 시 도주함\nEN:\nTurn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed"
   },
   {
     "key": "1011-panicName",
-    "original": "不安定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "不安定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "不安定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不安定\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불안정\nEN:\nUnstable"
   },
   {
     "key": "1011-lowMoraleDescription",
-    "original": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">束縛</color></link></u>3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;공격 위력 증가&lt;/color&gt;&lt;/link&gt;</u> 2, &lt;sprite name=\"Binding\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Binding\"&gt;속박&lt;/color&gt;&lt;/link&gt;</u> 3 얻음\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;Attack Power Up&lt;/color&gt;&lt;/link&gt;</u> and 3 &lt;sprite name=\"Binding\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Binding\"&gt;Bind&lt;/color&gt;&lt;/link&gt;</u>"
   },
   {
     "key": "1011-panicDescription",
-    "original": "ターン開始時に混乱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時に混乱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時に混乱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時に混乱\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 흐트러짐\nEN:\nTurn Start: Become staggered"
   },
   {
     "key": "1012-panicName",
-    "original": "哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "哀しみ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "哀しみ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n슬픔\nEN:\nDejection"
   },
   {
     "key": "1012-lowMoraleDescription",
-    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 1 얻음. 합 중 코인이 한 번이라도 뒷면이라면, 해당 합 동안 합 위력 -1.\nEN:\nGain 1 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>; In a clash, if any Coin lands tails, Clash Power -1 for the clash."
   },
   {
     "key": "1012-panicDescription",
-    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に3度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>오식: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" 정확: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"\n<CMT_EN>Typo: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" Correction: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"\n<CMT_JP>誤植: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" 訂正後: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に3度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>오기: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" 정확: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"\n<CMT_JP>誤記: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" 訂正後: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"",
     "stage": 1,
     "context": "KR:\n&lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 3 얻음. 합 중 코인이 한 번이라도 뒷면이라면, 해당 합 동안 합 위력 -3.\nEN:\nGain 3 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
   },
   {
     "key": "9999-panicName",
-    "original": "パニック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "パニック\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "パニック\n<CMT_KR>\n<CMT_JP>",
+    "translation": "パニック\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n패닉\nEN:\nPanic"
   },
   {
     "key": "9999-panicDescription",
-    "original": "1ターンの間行動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "1ターンの間行動しない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "1ターンの間行動しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1ターンの間行動しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n한 턴 동안 행동하지 않음\nEN:\nDoes not act for this turn."
   },
   {
     "key": "1013-panicName",
-    "original": "不順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "不順\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "不順\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不順\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불순\nEN:\nImpurity"
   },
   {
     "key": "1013-lowMoraleDescription",
-    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 1을 얻음. 합 패배시 대상의 정신력 -2\nEN:\nGain 1 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>. Target loses 2 SP if this unit loses the clash"
   },
   {
     "key": "1013-panicDescription",
-    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음. 합 패배시 대상의 정신력 -5\nEN:\nGain 1 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>. Target loses 5 SP if this unit loses the clash"
   },
   {
     "key": "1014-panicName",
-    "original": "報復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "報復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "報復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "報復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n앙갚음\nEN:\nVengeance"
   },
   {
     "key": "1014-lowMoraleDescription",
-    "original": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>1, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>3を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>1, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>3を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>1, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>3を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>1, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>3を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;공격 위력 증가&lt;/color&gt;&lt;/link&gt;</u> 1, &lt;sprite name=\"DefenseDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"DefenseDown\"&gt;방어 레벨 감소&lt;/color&gt;&lt;/link&gt;</u> 3을 얻고, 이전 턴에 받은 누적 피해량에 비례하여 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u>를 얻음\n(최대 체력의 3%당 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u> 1을 얻음)\nEN:\nTurn Start: Gain 1 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;Attack Power Up&lt;/color&gt;&lt;/link&gt;</u> and 3 &lt;sprite name=\"DefenseDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"DefenseDown\"&gt;Defense Level Down&lt;/color&gt;&lt;/link&gt;</u>. Gain &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u> based on the amount of damage taken last turn (1 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u> for every 3% of Max HP lost)"
   },
   {
     "key": "1014-panicDescription",
-    "original": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>6を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>6を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>6を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時<sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">攻撃威力増加</color></link></u>2, <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">防御レベル減少</color></link></u>6を得て、前のターンに受けた累計ダメージ量に比例して<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>を得る\n(最大体力値の3%につき<sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">ダメージ量増加</color></link></u>1を得る)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;공격 위력 증가&lt;/color&gt;&lt;/link&gt;</u> 2, &lt;sprite name=\"DefenseDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"DefenseDown\"&gt;방어 레벨 감소&lt;/color&gt;&lt;/link&gt;</u> 6을 얻고, 이전 턴에 받은 누적 피해량에 비례하여 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u>를 얻음\n(최대 체력의 3%당 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;피해량 증가&lt;/color&gt;&lt;/link&gt;</u> 1을 얻음)\nEN:\nTurn Start: Gain 2 &lt;sprite name=\"Enhancement\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Enhancement\"&gt;Attack Power Up&lt;/color&gt;&lt;/link&gt;</u> and 6 &lt;sprite name=\"DefenseDown\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"DefenseDown\"&gt;Defense Level Down&lt;/color&gt;&lt;/link&gt;</u>. Gain &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u> based on the amount of damage taken last turn (1 &lt;sprite name=\"AttackDmgUp\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"AttackDmgUp\"&gt;Damage Up&lt;/color&gt;&lt;/link&gt;</u> for every 3% of Max HP lost)"
   },
   {
     "key": "1015-panicName",
-    "original": "白い恐慌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "白い恐慌\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "白い恐慌\n<CMT_KR>\n<CMT_JP>",
+    "translation": "白い恐慌\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n하얀 공황\nEN:\nPallid Panic"
   },
   {
     "key": "1015-lowMoraleDescription",
-    "original": "[MentalSystemResultDecrease_Typo] +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[MentalSystemResultDecrease_Typo] +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[MentalSystemResultDecrease_Typo] +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[MentalSystemResultDecrease_Typo] +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[MentalSystemResultDecrease_Typo] +2\nEN:\n[MentalSystemResultDecrease_Typo] +2"
   },
   {
     "key": "1015-panicDescription",
-    "original": "毎ターン終了時、次のターンに<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link></u> 2を得る。\n自分が使用する全てのコインが裏面になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン終了時、次のターンに<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link></u> 2を得る。\n自分が使用する全てのコインが裏面になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン終了時、次のターンに<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link></u> 2を得る。\n自分が使用する全てのコインが裏面になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン終了時、次のターンに<sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">束縛</color></link></u> 2を得る。\n自分が使用する全てのコインが裏面になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴 종료 시 다음 턴에 &lt;sprite name=\"Binding\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Binding\"&gt;속박&lt;/color&gt;&lt;/link&gt;</u> 2를 얻음.\n자신이 사용하는 모든 코인이 뒷면이 나옴.\nEN:\nEvery Turn End: Gain 2 &lt;sprite name=\"Binding\"&gt;&lt;color=#f8c200&gt;<u>&lt;link=\"Binding\"&gt;Bind&lt;/color&gt;&lt;/link&gt;</u>.\nEvery Coin this unit flips lands on tails."
   },
   {
     "key": "1016-panicName",
-    "original": "怨恨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "怨恨\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "怨恨\n<CMT_KR>\n<CMT_JP>",
+    "translation": "怨恨\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n원한\nEN:\nResentment"
   },
   {
     "key": "1016-lowMoraleDescription",
-    "original": "ターン開始時に[AttackDmgUp]2, [DefenseDown]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時に[AttackDmgUp]2, [DefenseDown]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時に[AttackDmgUp]2, [DefenseDown]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時に[AttackDmgUp]2, [DefenseDown]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 [AttackDmgUp] 2, [DefenseDown] 3을 얻음\nEN:\nTurn Start: gain 2 [AttackDmgUp] and 3 [DefenseDown]"
   },
   {
     "key": "1016-panicDescription",
-    "original": "ターン開始時に[Enhancement]1, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時に[Enhancement]1, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時に[Enhancement]1, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時に[Enhancement]1, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 [Enhancement] 1, [DefenseDown] 5를 얻음\nEN:\nTurn Start: gain 1 [Enhancement] and 5 [DefenseDown]"
   },
   {
     "key": "1026-panicName",
-    "original": "破綻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "破綻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "破綻\n<CMT_KR>\n<CMT_JP>",
+    "translation": "破綻\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n파탄\nEN:\nRuin"
   },
   {
     "key": "1026-lowMoraleDescription",
-    "original": "毎ターン終了時、[Sinking]3を得る。自分のマッチ威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン終了時、[Sinking]3を得る。自分のマッチ威力 -1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン終了時、[Sinking]3を得る。自分のマッチ威力 -1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン終了時、[Sinking]3を得る。自分のマッチ威力 -1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴 종료 시 [Sinking] 3 얻음, 자신의 합 위력 -1\nEN:\nGain 3 [Sinking] at every Turn End; Clash Power -1"
   },
   {
     "key": "1026-panicDescription",
-    "original": "毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴 종료 시 [Sinking] 5 얻음, [Sinking] 횟수 3 증가, 자신의 합 위력 -2\nEN:\nGain 5 [Sinking] and +3 [Sinking] Count at every Turn End; Clash Power -2"
   }

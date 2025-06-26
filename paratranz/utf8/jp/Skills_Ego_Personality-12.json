@@ -1,995 +1,995 @@
 [
   {
     "key": "2120511-levelList[0].name",
-    "original": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "茨の花園\n<CMT_KR>\n<CMT_JP>",
+    "translation": "茨の花園\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시 화원\nEN:\nGarden of Thorns"
   },
   {
     "key": "2120511-levelList[0].abName",
-    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
   },
   {
     "key": "2120511-levelList[0].desc",
-    "original": "[BeforeAttack] 最も高い共鳴が3以上なら、攻撃加重値 +1\n[WhenUse] 味方1名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BeforeAttack] 最も高い共鳴が3以上なら、攻撃加重値 +1\n[WhenUse] 味方1名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BeforeAttack] 最も高い共鳴が3以上なら、攻撃加重値 +1\n[WhenUse] 味方1名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 最も高い共鳴が3以上なら、攻撃加重値 +1\n[WhenUse] 味方1名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BeforeAttack] 가장 높은 공명이 3 이상이면, 공격 가중치 +1\n[WhenUse] 아군 1 + (가장 높은 공명 수)명에게 해당 공명 속성의 피해량 증가와 위력 증가를 1 부여\n- 해당 공명이 4 이상이면, 해당 속성 피해량 증가를 1 추가 부여\nEN:\n[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) Damage Up' and '1 (Corresponding Sin Affinity) Power Up' to (1 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Damage Up'"
   },
   {
     "key": "2120511-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[EndSkill] 現体力の比率が最も低い味方1名の体力を最大値の15％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 現体力の比率が最も低い味方1名の体力を最大値の15％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 現体力の比率が最も低い味方1名の体力を最大値の15％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 現体力の比率が最も低い味方1名の体力を最大値の15％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 체력 비율이 가장 낮은 아군 1명의 체력을 최대 체력의 15% 만큼 회복\n- (가장 높은 공명 수 - 2)만큼 회복 대상 증가 (최대 3)\nEN:\n[EndSkill] Heal 1 ally with the lowest HP percentage for 15% HP of their max HP\n- Heal (highest Reson. - 2) more allies (max 3)"
   },
   {
     "key": "2120511-levelList[1].name",
-    "original": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "茨の花園\n<CMT_KR>\n<CMT_JP>",
+    "translation": "茨の花園\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시 화원\nEN:\nGarden of Thorns"
   },
   {
     "key": "2120511-levelList[1].abName",
-    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
   },
   {
     "key": "2120511-levelList[1].desc",
-    "original": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[WhenUse] 味方2名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[WhenUse] 味方2名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[WhenUse] 味方2名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n[WhenUse] 味方2名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BeforeAttack] (가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\n[WhenUse] 아군 2 + (가장 높은 공명 수)명에게 해당 공명 속성의 피해량 증가와 위력 증가를 1 부여\n- 해당 공명이 4 이상이면, 해당 속성 피해량 증가를 1 추가 부여\n- 해당 공명이 5 이상이면, 해당 속성 위력 증가를 1 추가 부여\nEN:\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (Max 2)\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) Damage Up' and '1 (Corresponding Sin Affinity) Power Up' to (2 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Damage Up'\n- At 5+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Power Up'"
   },
   {
     "key": "2120511-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の18％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の18％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の18％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 現体力の比率が最も低い味方2名の体力を最大値の18％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 체력 비율이 가장 낮은 아군 2명의 체력을 최대 체력의 18% 만큼 회복\n- (가장 높은 공명 수 - 2)만큼 회복 대상 증가 (최대 3)\nEN:\n[EndSkill] Heal 2 allies with the lowest HP percentages for 18% HP of their max HP\n- Heal (highest Reson. - 2) more allies (max 3)"
   },
   {
     "key": "2120511-levelList[2].name",
-    "original": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "茨の花園\n<CMT_KR>\n<CMT_JP>",
+    "translation": "茨の花園\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시 화원\nEN:\nGarden of Thorns"
   },
   {
     "key": "2120511-levelList[2].abName",
-    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
   },
   {
     "key": "2120511-levelList[2].desc",
-    "original": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n[WhenUse] 味方4名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n[WhenUse] 味方4名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n[WhenUse] 味方4名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n[WhenUse] 味方4名 + (最も多い共鳴数)名へ、該当共鳴の属性のダメージ量増加と威力増加を1付与\n- 該当共鳴が4以上なら、該当属性のダメージ量増加を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力増加を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BeforeAttack] (가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 3)\n[WhenUse] 아군 4 + (가장 높은 공명 수)명에게 해당 공명 속성의 피해량 증가와 위력 증가를 1 부여\n- 해당 공명이 4 이상이면, 해당 속성 피해량 증가를 1 추가 부여\n- 해당 공명이 5 이상이면, 해당 속성 위력 증가를 1 추가 부여\n- 해당 공명이 완전 공명 6 이상이면, 다음 턴에도 동일한 효과 부여\nEN:\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (Max 3)\n[WhenUse] Apply 1 '(Corresponding Sin Affinity) Damage Up' and '1 (Corresponding Sin Affinity) Power Up' to (4 + # of highest Reson.) allies.\n- At 4+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Damage Up'\n- At 5+ Corresponding Reson., apply 1 additional '(Corresponding Sin Affinity) Power Up'\n- At 6+ Corresponding A-Reson., apply the above effects next turn as well"
   },
   {
     "key": "2120511-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[EndSkill] 現体力の比率が最も低い味方4名の体力を最大値の22％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 現体力の比率が最も低い味方4名の体力を最大値の22％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 現体力の比率が最も低い味方4名の体力を最大値の22％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 現体力の比率が最も低い味方4名の体力を最大値の22％分回復\n- (最も多い完全共鳴共鳴数 - 2)だけ回復対象が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 체력 비율이 가장 낮은 아군 4명의 체력을 최대 체력의 22% 만큼 회복\n- (가장 높은 공명 수 - 2)만큼 회복 대상 증가 (최대 3)\nEN:\n[EndSkill] Heal 4 allies with the lowest HP percentages for 22% HP of their max HP\n- Heal (highest Reson. - 2) more allies (max 3)"
   },
   {
     "key": "2120521-levelList[0].name",
-    "original": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "茨の花園\n<CMT_KR>\n<CMT_JP>",
+    "translation": "茨の花園\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시 화원\nEN:\nGarden of Thorns"
   },
   {
     "key": "2120521-levelList[0].abName",
-    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
   },
   {
     "key": "2120521-levelList[0].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最も多い共鳴が3以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最も多い共鳴が3以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最も多い共鳴が3以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 最も多い共鳴が3以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 가장 높은 공명이 3 이상이면, 공격 가중치 +1\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ highest Reson., Atk Weight +1"
   },
   {
     "key": "2120521-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AttackDmgDown] 1 부여. 다음 턴에 [Binding] 2 부여.\nEN:\n[OnSucceedAttack] Inflict 1 [AttackDmgDown]. Inflict 2 [Binding] next turn."
   },
   {
     "key": "2120521-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 가장 높은 공명 속성의 취약과 위력 감소를 1 부여\n- 해당 공명이 4 이상이면, 해당 속성 취약을 1 추가 부여\nEN:\n[OnSucceedAttack] Inflict 1 'Fragility' and 1 'Power Down' for the Sin Affinity with the highest Reson. count\n- At 4+ Corresponding Reson., inflict 1 additional '(Corresponding Sin Affinity) Fragility'"
   },
   {
     "key": "2120521-levelList[1].name",
-    "original": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "茨の花園\n<CMT_KR>\n<CMT_JP>",
+    "translation": "茨の花園\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시 화원\nEN:\nGarden of Thorns"
   },
   {
     "key": "2120521-levelList[1].abName",
-    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
   },
   {
     "key": "2120521-levelList[1].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 2)\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)"
   },
   {
     "key": "2120521-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AttackDmgDown] 1 부여. 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 1 [AttackDmgDown]. Inflict 2 [Binding] next turn"
   },
   {
     "key": "2120521-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 가장 높은 공명 속성의 취약과 위력 감소를 1 부여\n- 해당 공명이 4 이상이면, 해당 속성 취약을 1 추가 부여\n- 해당 공명이 5 이상이면, 해당 속성 위력 감소를 1 추가 부여\nEN:\n[OnSucceedAttack] Inflict 1 'Fragility' and 1 'Power Down' for the Sin Affinity with the highest Resonance count\n- At 4+ Corresponding Reson., inflict 1 additional '(Corresponding Sin Affinity) Fragility'\n- At 5+ Corresponding Reson., inflict 1 additional '(Corresponding Sin Affinity) Power Down'"
   },
   {
     "key": "2120521-levelList[2].name",
-    "original": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "茨の花園\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "茨の花園\n<CMT_KR>\n<CMT_JP>",
+    "translation": "茨の花園\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시 화원\nEN:\nGarden of Thorns"
   },
   {
     "key": "2120521-levelList[2].abName",
-    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇の表示板\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미 표지판\nEN:\nSign of Roses"
   },
   {
     "key": "2120521-levelList[2].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] (最も多い共鳴数 - 2)だけ攻撃加重値が増加(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] (가장 높은 공명 수 - 2)만큼 공격 가중치 증가 (최대 3)\nEN:\n[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 3)"
   },
   {
     "key": "2120521-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AttackDmgDown]1を付与。次のターンに[Binding]2を付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AttackDmgDown] 1 부여. 다음 턴에 [Binding] 2 부여\nEN:\n[OnSucceedAttack] Inflict 1 [AttackDmgDown]. Inflict 2 [Binding] next turn"
   },
   {
     "key": "2120521-levelList[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 最も多い完全共鳴属性の脆弱と、威力減少を1付与\n- 該当共鳴が4以上なら、該当属性の脆弱を1追加で付与\n- 該当共鳴が5以上なら、該当属性の威力減少を1追加で付与\n- 該当共鳴が完全共鳴6以上なら、次のターンにも同じ効果を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 가장 높은 공명 속성의 취약과 위력 감소를 1 부여\n- 해당 공명이 4 이상이면, 해당 속성 취약을 1 추가 부여\n- 해당 공명이 5 이상이면, 해당 속성 위력 감소를 1 추가 부여\n- 해당 공명이 완전 공명 6 이상이면, 다음 턴에도 동일한 효과 부여\nEN:\n[OnSucceedAttack] Inflict 1 'Fragility' and 1 'Power Down' for the Sin Affinity with the highest Resonance count\n- At 4+ Corresponding Reson., inflict 1 additional '(Corresponding Sin Affinity) Fragility'\n- At 5+ Corresponding Reson., inflict 1 additional '(Corresponding Sin Affinity) Power Down'\n- At 6+ Corresponding A-Reson., apply the above effects next turn as well"
   },
   {
     "key": "2120611-levelList[0].name",
-    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날\nEN:\nBygone Days"
   },
   {
     "key": "2120611-levelList[0].abName",
-    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
   },
   {
     "key": "2120611-levelList[0].desc",
-    "original": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を10回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を10回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を10回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を10回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 자신과 자신을 제외한 정신력이 가장 낮은 아군 2명의 정신력 10 회복\n- 대상이 사망하지 않았다면, 대상의 [Sinking] 횟수를 5 소모하고, 대상의 [Sinking] 위력만큼 회복 대상의 정신력 추가 회복 (최대 회복량 : 20)\n- 대상이 사망했다면, 무작위 적 2명에게 [Sinking] 3 부여 (집중 전투인 경우, 무작위 부위에 부여)\nEN:\n[EndSkill] Heal 10 SP to self and 2 other allies with the least SP\n- If target survives this attack, consume 5 [Sinking] Count on target, then heal additional SP(to self & affected allies) equal to [Sinking] Potency on target (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] on 2 random enemies (For Focused Encounters, random Parts)"
   },
   {
     "key": "2120611-levelList[1].name",
-    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날\nEN:\nBygone Days"
   },
   {
     "key": "2120611-levelList[1].abName",
-    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
   },
   {
     "key": "2120611-levelList[1].desc",
-    "original": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">12</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3, <style=\"highlight\">[Curse]1</style>を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">12</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3, <style=\"highlight\">[Curse]1</style>を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">12</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3, <style=\"highlight\">[Curse]1</style>を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">12</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を5消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵2名へ[Sinking]3, <style=\"highlight\">[Curse]1</style>を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 자신과 자신을 제외한 정신력이 가장 낮은 아군 2명의 정신력 &lt;style=\"highlight\"&gt;12&lt;/style&gt; 회복\n- 대상이 사망하지 않았다면, 대상의 [Sinking] 횟수를 5 소모하고, 대상의 [Sinking] 위력만큼 회복 대상의 정신력 추가 회복 (최대 회복량 : 20)\n- 대상이 사망했다면, 무작위 적 2명에게 [Sinking] 3, &lt;style=\"highlight\"&gt;[Curse] 1&lt;/style&gt; 부여 (집중 전투인 경우, 무작위 부위에 부여)\nEN:\n[EndSkill] Heal &lt;style=\"highlight\"&gt;12&lt;/style&gt; SP to self and 2 other allies with the least SP\n- If target survives this attack, consume 5 [Sinking] Count on target, then heal additional SP(to self & affected allies) equal to [Sinking] Potency on target (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] and &lt;style=\"highlight\"&gt;1 [Curse]&lt;/style&gt; on 2 random enemies (For Focused Encounters, random Parts)"
   },
   {
     "key": "2120611-levelList[2].name",
-    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날\nEN:\nBygone Days"
   },
   {
     "key": "2120611-levelList[2].abName",
-    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
   },
   {
     "key": "2120611-levelList[2].desc",
-    "original": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">15</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を<style=\"highlight\">3</style>消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵<style=\"highlight\">3</style>名へ[Sinking]3, [Curse]1を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">15</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を<style=\"highlight\">3</style>消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵<style=\"highlight\">3</style>名へ[Sinking]3, [Curse]1を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">15</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を<style=\"highlight\">3</style>消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵<style=\"highlight\">3</style>名へ[Sinking]3, [Curse]1を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分と、自分を除いた精神力が最も低い味方2名の精神力を<style=\"highlight\">15</style>回復\n- 対象が死亡しなかったなら対象の[Sinking]回数を<style=\"highlight\">3</style>消耗し、対象の[Sinking]威力だけ回復対象の精神力を追加で回復(最大回復量 : 20)\n- 対象が死亡したなら、ランダムな敵<style=\"highlight\">3</style>名へ[Sinking]3, [Curse]1を付与(集中戦闘の場合、ランダムな部位へ付与)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 자신과 자신을 제외한 정신력이 가장 낮은 아군 2명의 정신력 &lt;style=\"highlight\"&gt;15&lt;/style&gt; 회복\n- 대상이 사망하지 않았다면, 대상의 [Sinking] 횟수를 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 소모하고, 대상의 [Sinking] 위력만큼 회복 대상의 정신력 추가 회복 (최대 회복량 : 20)\n- 대상이 사망했다면, 무작위 적 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 명에게 [Sinking] 3, [Curse] 1 부여 (집중 전투인 경우, 무작위 부위에 부여)\nEN:\n[EndSkill] Heal &lt;style=\"highlight\"&gt;15&lt;/style&gt; SP to self and 2 other allies with the least SP\n- If target survives this attack, consume &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Sinking] Count on target, then heal additional SP(to self & affected allies) equal to [Sinking] Potency on target (Max SP heal: 20)\n- If target is defeated, inflict 3 [Sinking] and 1 [Curse] on &lt;style=\"highlight\"&gt;3&lt;/style&gt; random enemies (For Focused Encounters, random Parts)"
   },
   {
     "key": "2120621-levelList[0].name",
-    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날\nEN:\nBygone Days"
   },
   {
     "key": "2120621-levelList[0].abName",
-    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
   },
   {
     "key": "2120621-levelList[0].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
   },
   {
     "key": "2120621-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴が3以上なら、追加で1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴が3以上なら、追加で1付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴が3以上なら、追加で1付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴が3以上なら、追加で1付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AzureTakeDamageUp] 2 부여. 우울 공명이 3 이상이면 추가 1 부여\nEN:\n[OnSucceedAttack] Inflict 2 [AzureTakeDamageUp]. At 3+ Gloom Reson., inflict 1 additional [AzureTakeDamageUp]"
   },
   {
     "key": "2120621-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
   },
   {
     "key": "2120621-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Curse] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Curse]"
   },
   {
     "key": "2120621-levelList[1].name",
-    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날\nEN:\nBygone Days"
   },
   {
     "key": "2120621-levelList[1].abName",
-    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
   },
   {
     "key": "2120621-levelList[1].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\nEN:\n[CantIdentify]\nTargets randomly"
   },
   {
     "key": "2120621-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴3につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴3につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴3につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴3につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AzureTakeDamageUp] 2 부여. 우울 공명 3 당 추가 1 부여 (최대 2)\nEN:\n[OnSucceedAttack] Inflict 2 [AzureTakeDamageUp]. Inflict 1 additional [AzureTakeDamageUp] for every 3 Gloom Reson. (max 2)"
   },
   {
     "key": "2120621-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
   },
   {
     "key": "2120621-levelList[1].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Curse] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Curse]"
   },
   {
     "key": "2120621-levelList[2].name",
-    "original": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過ぎし日\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過ぎし日\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지난 날\nEN:\nBygone Days"
   },
   {
     "key": "2120621-levelList[2].abName",
-    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
+    "translation": "在りし日の肖像\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n어느 날의 초상\nEN:\nPortrait of a Certain Day"
   },
   {
     "key": "2120621-levelList[2].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Curse]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Curse]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Curse]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象に[Curse]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n대상에게 [Curse]가 있으면 피해량 +50%\nEN:\n[CantIdentify]\nTargets randomly\nIf target has [Curse], deal +50% damage"
   },
   {
     "key": "2120621-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴2につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴2につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴2につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [AzureTakeDamageUp]2を付与。憂鬱共鳴2につき、追加で1付与(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [AzureTakeDamageUp] 2 부여. 우울 공명 2 당 추가 1 부여 (최대 2)\nEN:\n[OnSucceedAttack] Inflict 2 [AzureTakeDamageUp]. Inflict 1 additional [AzureTakeDamageUp] for every 2 Gloom Reson. (max 2)"
   },
   {
     "key": "2120621-levelList[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
   },
   {
     "key": "2120621-levelList[2].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Curse]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Curse]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Curse]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Curse]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Curse] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Curse]"
   },
   {
     "key": "2120711-levelList[0].name",
-    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄숙한 애도\nEN:\nSolemn Lament"
   },
   {
     "key": "2120711-levelList[0].abName",
-    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죽은 나비들의 장례\nEN:\nFuneral of the Dead Butterflies"
   },
   {
     "key": "2120711-levelList[0].desc",
-    "original": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 스킬의 코인을 굴릴 때, 공격 대상 중에 하나를 무작위로 선택해 공격.\n- 첫 코인은 반드시 메인 공격 대상에게 적중함.\n- 모든 적중시 효과, 해당 코인의 피해는 위 효과에서 선택된 공격 대상에게만 적용됨.\n이 스킬의 효과로 [SinkingWhite] 부여시 앞면이 나올 확률로 죽은나비를 부여. 부여하지 않은 경우, 산나비를 부여. ([SinkingWhite] 1당 개별 판정)\nEN:\nWhen this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)"
   },
   {
     "key": "2120711-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 ~ 2부여\nEN:\n[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 精神力が2～6減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 精神力が2～6減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 精神力が2～6減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力が2～6減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 정신력 2 ~ 6 감소\nEN:\n[OnSucceedAttack] Lose 2~6 SP"
   },
   {
     "key": "2120711-levelList[0].coinlist[2].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 정신력이 0 이상이면, 이 코인 재사용 (스킬 당 최대 5회)\nEN:\n[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)"
   },
   {
     "key": "2120711-levelList[1].name",
-    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄숙한 애도\nEN:\nSolemn Lament"
   },
   {
     "key": "2120711-levelList[1].abName",
-    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죽은 나비들의 장례\nEN:\nFuneral of the Dead Butterflies"
   },
   {
     "key": "2120711-levelList[1].desc",
-    "original": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<style=\"highlight\">[EndSkill] (的中したコイン3の数 × 2)だけ精神力が回復</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<style=\"highlight\">[EndSkill] (的中したコイン3の数 × 2)だけ精神力が回復</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<style=\"highlight\">[EndSkill] (的中したコイン3の数 × 2)だけ精神力が回復</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n<style=\"highlight\">[EndSkill] (的中したコイン3の数 × 2)だけ精神力が回復</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 스킬의 코인을 굴릴 때, 공격 대상 중에 하나를 무작위로 선택해 공격.\n- 첫 코인은 반드시 메인 공격 대상에게 적중함.\n- 모든 적중시 효과, 해당 코인의 피해는 위 효과에서 선택된 공격 대상에게만 적용됨.\n이 스킬의 효과로 [SinkingWhite] 부여시 앞면이 나올 확률로 죽은나비를 부여. 부여하지 않은 경우, 산나비를 부여. ([SinkingWhite] 1당 개별 판정)\n&lt;style=\"highlight\"&gt;[EndSkill] (적중한 3코인 수 x 2)만큼 정신력 회복&lt;/style&gt;\nEN:\nWhen this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n&lt;style=\"highlight\"&gt;[EndSkill] Heal (# of Coin 3 hits x 2) SP&lt;/style&gt;"
   },
   {
     "key": "2120711-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[1].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 ~ 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120711-levelList[1].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 정신력 2 ~ 6 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Lose 2~6 SP&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120711-levelList[1].coinlist[2].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 정신력이 0 이상이면, 이 코인 재사용 (스킬 당 최대 5회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120711-levelList[2].name",
-    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄숙한 애도\nEN:\nSolemn Lament"
   },
   {
     "key": "2120711-levelList[2].abName",
-    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죽은 나비들의 장례\nEN:\nFuneral of the Dead Butterflies"
   },
   {
     "key": "2120711-levelList[2].desc",
-    "original": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n[EndSkill] <style=\"highlight\">(的中したコイン3の数 × 3)</style>だけ精神力が回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n[EndSkill] <style=\"highlight\">(的中したコイン3の数 × 3)</style>だけ精神力が回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n[EndSkill] <style=\"highlight\">(的中したコイン3の数 × 3)</style>だけ精神力が回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このスキルのコインをトスするとき、攻撃対象のうち1つをランダムに選択して攻撃。\n- 1枚目のコインは必ずメイン攻撃対象に的中。\n- 全ての的中時効果・該当コインのダメージは上記の効果で選ばれた攻撃対象にのみ適用。\nこのスキルの効果で[SinkingWhite]付与時、表面が出る確率で死んだ蝶を付与。付与されなかった場合、生きた蝶を付与。([SinkingWhite]1につき個別判定)\n[EndSkill] <style=\"highlight\">(的中したコイン3の数 × 3)</style>だけ精神力が回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 스킬의 코인을 굴릴 때, 공격 대상 중에 하나를 무작위로 선택해 공격.\n- 첫 코인은 반드시 메인 공격 대상에게 적중함.\n- 모든 적중시 효과, 해당 코인의 피해는 위 효과에서 선택된 공격 대상에게만 적용됨.\n이 스킬의 효과로 [SinkingWhite] 부여시 앞면이 나올 확률로 죽은나비를 부여. 부여하지 않은 경우, 산나비를 부여. ([SinkingWhite] 1당 개별 판정)\n[EndSkill] &lt;style=\"highlight\"&gt;(적중한 3코인 수 x 3)&lt;/style&gt;만큼 정신력 회복\nEN:\nWhen this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n[EndSkill] Heal &lt;style=\"highlight\"&gt;(# of Coin 3 hits x 3)&lt;/style&gt; SP"
   },
   {
     "key": "2120711-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 random [SinkingWhite]"
   },
   {
     "key": "2120711-levelList[2].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ランダムに[SinkingWhite]1～2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 무작위 [SinkingWhite] 1 ~ 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120711-levelList[2].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力が2～6減少<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 정신력 2 ~ 6 감소&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Lose 2~6 SP&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120711-levelList[2].coinlist[2].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の精神力が0以上なら、このコインを再使用(スキルごとに最大5回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 정신력이 0 이상이면, 이 코인 재사용 (스킬 당 최대 5회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[0].name",
-    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄숙한 애도\nEN:\nSolemn Lament"
   },
   {
     "key": "2120721-levelList[0].abName",
-    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죽은 나비들의 장례\nEN:\nFuneral of the Dead Butterflies"
   },
   {
     "key": "2120721-levelList[0].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n대상의 정신력이 0 미만이면, 정신력이 낮을수록 피해량이 증가 (최대 45%)\n정신력이 없는 대상에게는 [Sinking] 2당 피해량 1% 증가 (최대 45%)\nEN:\n[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% damage for every 2 [Sinking] on target (max 45%)"
   },
   {
     "key": "2120721-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [SinkingWhite](산나비) 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [SinkingWhite](The Living)"
   },
   {
     "key": "2120721-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [SinkingWhite](죽은나비) 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [SinkingWhite](The Departed)"
   },
   {
     "key": "2120721-levelList[1].name",
-    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄숙한 애도\nEN:\nSolemn Lament"
   },
   {
     "key": "2120721-levelList[1].abName",
-    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죽은 나비들의 장례\nEN:\nFuneral of the Dead Butterflies"
   },
   {
     "key": "2120721-levelList[1].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<style=\"highlight\">[EnemyKill] 精神力を5回復</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<style=\"highlight\">[EnemyKill] 精神力を5回復</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<style=\"highlight\">[EnemyKill] 精神力を5回復</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n<style=\"highlight\">[EnemyKill] 精神力を5回復</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n대상의 정신력이 0 미만이면, 정신력이 낮을수록 피해량이 증가 (최대 45%)\n정신력이 없는 대상에게는 [Sinking] 2당 피해량 1% 증가 (최대 45%)\n&lt;style=\"highlight\"&gt;[EnemyKill] 정신력 5 회복&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% damage for every 2 [Sinking] on target (max 45%)\n&lt;style=\"highlight\"&gt;[EnemyKill] Heal 5 SP&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SinkingWhite](生きた蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [SinkingWhite](산나비) 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [SinkingWhite](The Living)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [SinkingWhite](죽은나비) 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [SinkingWhite](The Departed)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[1].coinlist[0].coindescs[2].desc",
-    "original": "<style=\"highlight\">[OnSucceedAttack] [Sinking]回数が3増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<style=\"highlight\">[OnSucceedAttack] [Sinking]回数が3増加</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Sinking]回数が3増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Sinking]回数が3増加</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Sinking] 횟수 3 증가&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict +3 [Sinking] Count&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[2].name",
-    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "厳粛な哀悼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엄숙한 애도\nEN:\nSolemn Lament"
   },
   {
     "key": "2120721-levelList[2].abName",
-    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死んだ蝶たちの葬儀\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죽은 나비들의 장례\nEN:\nFuneral of the Dead Butterflies"
   },
   {
     "key": "2120721-levelList[2].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n[EnemyKill] 精神力を5回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n[EnemyKill] 精神力を5回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n[EnemyKill] 精神力を5回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、精神力が低くなるほどダメージ量が増加(最大45%)\n精神力が無い対象は[Sinking]2につきダメージ量が1%増加(最大45%)\n[EnemyKill] 精神力を5回復<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n대상의 정신력이 0 미만이면, 정신력이 낮을수록 피해량이 증가 (최대 45%)\n정신력이 없는 대상에게는 [Sinking] 2당 피해량 1% 증가 (최대 45%)\n[EnemyKill] 정신력 5 회복&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% damage for every 2 [Sinking] on target (max 45%)\n[EnemyKill] Heal 5 SP&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [SinkingWhite](生きた蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [SinkingWhite](生きた蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [SinkingWhite](生きた蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SinkingWhite](生きた蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [SinkingWhite](산나비) 5 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 5 [SinkingWhite](The Living)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [SinkingWhite](死んだ蝶)5を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [SinkingWhite](죽은나비) 5 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 5 [SinkingWhite](The Departed)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[2].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Sinking]回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120721-levelList[2].coinlist[0].coindescs[3].desc",
-    "original": "<style=\"highlight\">[OnSucceedAttack] 対象の体力が50%以下なら、対象の全ての[SinkingWhite]だけ憂鬱ダメージ\n- 生きた蝶と死んだ蝶の合計で計算</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<style=\"highlight\">[OnSucceedAttack] 対象の体力が50%以下なら、対象の全ての[SinkingWhite]だけ憂鬱ダメージ\n- 生きた蝶と死んだ蝶の合計で計算</style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<style=\"highlight\">[OnSucceedAttack] 対象の体力が50%以下なら、対象の全ての[SinkingWhite]だけ憂鬱ダメージ\n- 生きた蝶と死んだ蝶の合計で計算</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] 対象の体力が50%以下なら、対象の全ての[SinkingWhite]だけ憂鬱ダメージ\n- 生きた蝶と死んだ蝶の合計で計算</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] 대상의 체력이 50% 이하면, 대상의 모든 [SinkingWhite]만큼 우울 피해\n- 산나비와 죽은나비의 합으로 계산&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] If target has 50%- HP, inflict Gloom Damage equal to \"All\" [SinkingWhite] values on target\n- \"All\" = the sum of both The Living and The Departed on target&lt;/style&gt;"
   },
   {
     "key": "2120811-levelList[0].name",
-    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
   },
   {
     "key": "2120811-levelList[0].abName",
-    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
   },
   {
     "key": "2120811-levelList[0].desc",
-    "original": "[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 10 회복하고 다음 턴에 [Enhancement] 1 얻음\nEN:\n[EndSkill] At max HP, heal 10 SP at Turn End and gain 1 [Enhancement] next turn"
   },
   {
     "key": "2120811-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration]"
   },
   {
     "key": "2120811-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "2120811-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
   },
   {
     "key": "2120811-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여\nEN:\n[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn"
   },
   {
     "key": "2120811-levelList[1].name",
-    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
   },
   {
     "key": "2120811-levelList[1].abName",
-    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
   },
   {
     "key": "2120811-levelList[1].desc",
-    "original": "<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;style=\"highlight\"&gt;대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)&lt;/style&gt;\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 10 회복하고 다음 턴에 [Enhancement] 1 얻음\nEN:\n&lt;style=\"highlight\"&gt;If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)&lt;/style&gt;\n[EndSkill] At max HP, heal 10 SP at Turn End and gain 1 [Enhancement] next turn"
   },
   {
     "key": "2120811-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration]"
   },
   {
     "key": "2120811-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "2120811-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 잃은 체력의 (2 + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)\nEN:\n[OnSucceedAttack] Heal (2 + highest Reson.)% of the missing HP on self (max 30% per Skill)"
   },
   {
     "key": "2120811-levelList[1].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120811-levelList[1].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120811-levelList[2].name",
-    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
   },
   {
     "key": "2120811-levelList[2].abName",
-    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
   },
   {
     "key": "2120811-levelList[2].desc",
-    "original": "対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 &lt;style=\"highlight\"&gt;15&lt;/style&gt; 회복하고 다음 턴에 [Enhancement] 1 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\nIf target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[EndSkill] At max HP, heal &lt;style=\"highlight\"&gt;15&lt;/style&gt; SP at Turn End and gain 1 [Enhancement] next turn&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120811-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration]"
   },
   {
     "key": "2120811-levelList[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "2120811-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 잃은 체력의 (&lt;style=\"highlight\"&gt;3&lt;/style&gt; + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)\nEN:\n[OnSucceedAttack] Heal (&lt;style=\"highlight\"&gt;3&lt;/style&gt; + highest Reson.)% of the missing HP on self (max 30% per Skill)"
   },
   {
     "key": "2120811-levelList[2].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120811-levelList[2].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を1</style>付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を1</style>付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を1</style>付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を1</style>付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1, &lt;style=\"highlight\"&gt;가장 높은 공명 속성의 취약을 1&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] &lt;style=\"highlight\"&gt;and Fragility[TabExplain] against the Affinity of the highest Reson.&lt;/style&gt; next turn"
   },
   {
     "key": "2120821-levelList[0].name",
-    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
   },
   {
     "key": "2120821-levelList[0].abName",
-    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
   },
   {
     "key": "2120821-levelList[0].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を10回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 10 회복하고 다음 턴에 [Enhancement] 1 얻음\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Heal 10 HP on self\n[EndSkill] At max HP, heal 10 SP at Turn End and gain 1 [Enhancement] next turn"
   },
   {
     "key": "2120821-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration]"
   },
   {
     "key": "2120821-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "2120821-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]"
   },
   {
     "key": "2120821-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여\nEN:\n[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn"
   },
   {
     "key": "2120821-levelList[1].name",
-    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
   },
   {
     "key": "2120821-levelList[1].abName",
-    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
   },
   {
     "key": "2120821-levelList[1].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n<style=\"highlight\">対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)</style>\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">15</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n&lt;style=\"highlight\"&gt;대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)&lt;/style&gt;\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 &lt;style=\"highlight\"&gt;15&lt;/style&gt; 회복하고 다음 턴에 [Enhancement] 1 얻음\nEN:\n[CantIdentify]\nTargets randomly\n&lt;style=\"highlight\"&gt;If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)&lt;/style&gt;\n[BeforeAttack] Heal 10 HP on self\n[EndSkill] At max HP, heal &lt;style=\"highlight\"&gt;15&lt;/style&gt; SP at Turn End and gain 1 [Enhancement] next turn"
   },
   {
     "key": "2120821-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration]"
   },
   {
     "key": "2120821-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "2120821-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の失った体力の(2 + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 잃은 체력의 (2 + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)\nEN:\n[OnSucceedAttack] Heal (2 + highest Reson.)% of the missing HP (max 30% per Skill)"
   },
   {
     "key": "2120821-levelList[1].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120821-levelList[1].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120821-levelList[2].name",
-    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリスマスの悪夢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리스마스 악몽\nEN:\nChristmas Nightmare"
   },
   {
     "key": "2120821-levelList[2].abName",
-    "original": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心地よいベッド\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아늑한 침대\nEN:\nCozy Bed"
   },
   {
     "key": "2120821-levelList[2].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">20</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">20</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">20</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n対象の精神力が0未満なら、0未満の精神力1につきダメージ量 +1%(最大45%)\n[BeforeAttack] 自分の体力を10回復\n[EndSkill] 自分の体力が最大値なら、ターン終了時に精神力を<style=\"highlight\">20</style>回復して次のターンにて[Enhancement]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n대상의 정신력이 0 미만이면, 0 미만의 정신력 1 당 피해량 +1% (최대 45%)\n[BeforeAttack] 자신의 체력 10 회복\n[EndSkill] 자신의 체력이 최대치면, 턴 종료시 정신력을 &lt;style=\"highlight\"&gt;20&lt;/style&gt; 회복하고 다음 턴에 [Enhancement] 1 얻음\nEN:\n[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[BeforeAttack] Heal 10 HP on self\n[EndSkill] At max HP, heal &lt;style=\"highlight\"&gt;20&lt;/style&gt; SP at Turn End and gain 1 [Enhancement] next turn"
   },
   {
     "key": "2120821-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Vibration]"
   },
   {
     "key": "2120821-levelList[2].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [VibrationExplosion]。対象の[Vibration]回数が1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [VibrationExplosion]. 대상의 [Vibration] 횟수 1 감소\nEN:\n[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
   },
   {
     "key": "2120821-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の失った体力の(<style=\"highlight\">3</style> + 最大共鳴数)%だけ体力を回復(スキルごとに最大30%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 잃은 체력의 (&lt;style=\"highlight\"&gt;3&lt;/style&gt; + 최대 공명 수)% 만큼 회복 (스킬 당 최대 30%)\nEN:\n[OnSucceedAttack] Heal (&lt;style=\"highlight\"&gt;3&lt;/style&gt; + highest Reson.)% of the missing HP on self (max 30% per Skill)"
   },
   {
     "key": "2120821-levelList[2].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]4を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Sinking] 4 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 4 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2120821-levelList[2].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を2</style>付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を2</style>付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を2</style>付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が混乱・士気低下・パニック状態なら次のターンに[Reduction]1を付与、<style=\"highlight\">最も高い共鳴属性の脆弱を2</style>付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상이 흐트러짐, 사기저하, 패닉 상태면 다음 턴에 [Reduction] 1, &lt;style=\"highlight\"&gt;가장 높은 공명 속성의 취약을 2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] &lt;style=\"highlight\"&gt;and 2 Fragility[TabExplain] against the Affinity of the highest Reson.&lt;/style&gt; next turn"
   }

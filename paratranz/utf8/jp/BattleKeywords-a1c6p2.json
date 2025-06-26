@@ -1,99 +1,99 @@
 [
   {
     "key": "AaCfPbBe-name",
-    "original": "獲物の目印\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "獲物の目印\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "獲物の目印\n<CMT_KR>\n<CMT_JP>",
+    "translation": "獲物の目印\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사냥감 표시\nEN:\nMarked Prey"
   },
   {
     "key": "AaCfPbBe-desc",
-    "original": "- 被ダメージごとにダメージ量の10%だけ、追加で斬撃ダメージを受ける。次のターンに消滅。\n- このターンの間、ダメージを受けなければ攻撃終了時に劣等感 を1付与して消滅\n- 最大1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 被ダメージごとにダメージ量の10%だけ、追加で斬撃ダメージを受ける。次のターンに消滅。\n- このターンの間、ダメージを受けなければ攻撃終了時に劣等感 を1付与して消滅\n- 最大1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 被ダメージごとにダメージ量の10%だけ、追加で斬撃ダメージを受ける。次のターンに消滅。\n- このターンの間、ダメージを受けなければ攻撃終了時に劣等感 を1付与して消滅\n- 最大1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 被ダメージごとにダメージ量の10%だけ、追加で斬撃ダメージを受ける。次のターンに消滅。\n- このターンの間、ダメージを受けなければ攻撃終了時に劣等感 を1付与して消滅\n- 最大1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 피격시마다 받는 체력 피해량의 10%만큼 추가 참격 피해를 입음. 다음 턴에 소멸.\n- 이번 턴동안 피해 받지 않고 공격 종료시, 열등감 1 부여 이후 소멸\n- 최대 1\nEN:\n- With every hit this unit takes, take bonus Slash damage equal to 10% of the HP damage taken. Expires next turn.\n- If this unit does not take damage during this turn, inflict 1 Inferiority Complex after attack then expires\n- Max Value: 1"
   },
   {
     "key": "AaCfPbBe-summary",
-    "original": "被ダメージ量の10%だけ、追加で斬撃ダメージを受ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被ダメージ量の10%だけ、追加で斬撃ダメージを受ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被ダメージ量の10%だけ、追加で斬撃ダメージを受ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被ダメージ量の10%だけ、追加で斬撃ダメージを受ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n받는 체력 피해량의 10%만큼 추가 참격 피해를 입음.\nEN:\nTake bonus Slash damage equal to 10% of the HP damage taken"
   },
   {
     "key": "AaCfPbBf-name",
-    "original": "劣等感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "劣等感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "劣等感\n<CMT_KR>\n<CMT_JP>",
+    "translation": "劣等感\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n열등감\nEN:\nInferiority Complex"
   },
   {
     "key": "AaCfPbBf-desc",
-    "original": "- 被ダメージごとにダメージ量の(20% × 数値)だけダメージを受ける。\n- 最大5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 被ダメージごとにダメージ量の(20% × 数値)だけダメージを受ける。\n- 最大5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 被ダメージごとにダメージ量の(20% × 数値)だけダメージを受ける。\n- 最大5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 被ダメージごとにダメージ量の(20% × 数値)だけダメージを受ける。\n- 最大5\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 피격시마다 받는 체력 피해량의 (20% * 수치)만큼 피해를 입음.\n- 최대 5\nEN:\n- Every time this unit is hit, take ((20% of HP damage taken) * Value) damage\n- Max Value: 5"
   },
   {
     "key": "AaCfPbBf-summary",
-    "original": "被ダメージ量の(20% × 数値)だけ、ダメージを受ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被ダメージ量の(20% × 数値)だけ、ダメージを受ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被ダメージ量の(20% × 数値)だけ、ダメージを受ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被ダメージ量の(20% × 数値)だけ、ダメージを受ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n받는 체력 피해량의 (20% * 수치)만큼 피해를 입음.\nEN:\nTake ((20% of HP damage taken) * Value) damage"
   },
   {
     "key": "AaCfPbBa-name",
-    "original": "爆発する憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "爆発する憂鬱\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "爆発する憂鬱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "爆発する憂鬱\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n폭발하는 우울\nEN:\nExplosive Gloom"
   },
   {
     "key": "AaCfPbBa-desc",
-    "original": "- 憂鬱属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に精神力ダメージ3, 自分は沈潜 回数1を得て、次のターンに攻撃レベル増加1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 憂鬱属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に精神力ダメージ3, 自分は沈潜 回数1を得て、次のターンに攻撃レベル増加1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 憂鬱属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に精神力ダメージ3, 自分は沈潜 回数1を得て、次のターンに攻撃レベル増加1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 憂鬱属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に精神力ダメージ3, 自分は沈潜 回数1を得て、次のターンに攻撃レベル増加1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 우울 속성 내성 +0.3\n- 그 외 속성 내성 -0.5\n- 피격 시 대상에게 정신력 피해 3, 자신은 침잠 횟수를 1 얻고, 다음 턴에 공격 레벨 증가 1 얻음 (턴 당 최대 9회 발동)\nEN:\n- Gloom Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Offense Level Up next turn (9 times per turn)"
   },
   {
     "key": "AaCfPbBb-name",
-    "original": "爆発する嫉妬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "爆発する嫉妬\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "爆発する嫉妬\n<CMT_KR>\n<CMT_JP>",
+    "translation": "爆発する嫉妬\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n폭발하는 질투\nEN:\nExplosive Envy"
   },
   {
     "key": "AaCfPbBb-desc",
-    "original": "- 嫉妬属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 出血 2, 出血 回数2を付与。次のターンに防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 嫉妬属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 出血 2, 出血 回数2を付与。次のターンに防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 嫉妬属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 出血 2, 出血 回数2を付与。次のターンに防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 嫉妬属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 出血 2, 出血 回数2を付与。次のターンに防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 질투 속성 내성 +0.3\n- 그 외 속성 내성 -0.5\n- 피격 시 대상에게 공격 레벨 증가 1, 출혈 2, 출혈 횟수 2 부여, 다음 턴에 방어 레벨 감소 1 얻음 (턴 당 최대 9회 발동)\nEN:\n- Envy Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: apply 1 Offense Level Up, inflict 2 Bleed, and 2 Bleed Count on attacker, and gain 1 Defense Level Down next turn (9 times per turn)"
   },
   {
     "key": "AaCfPbBc-name",
-    "original": "爆発する憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "爆発する憤怒\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "爆発する憤怒\n<CMT_KR>\n<CMT_JP>",
+    "translation": "爆発する憤怒\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n폭발하는 분노\nEN:\nExplosive Wrath"
   },
   {
     "key": "AaCfPbBc-desc",
-    "original": "- 憤怒属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 憤怒属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 憤怒属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 憤怒属性耐性 +0.3 \n- その他の属性耐性 -0.5\n- 被ダメージ時、対象に攻撃レベル増加 1, 防御レベル減少1を得る(1ターンにつき最大9回発動)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 분노 속성 내성 +0.3\n- 그 외 속성 내성 -0.5\n- 피격 시 다음 턴에 공격 레벨 증가 1, 방어 레벨 감소 1 얻음 (턴 당 최대 9회 발동)\nEN:\n- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: Gain 1 Offense Level Up and 1 Defense Level Down next turn (9 times per turn)"
   },
   {
     "key": "AaCfPbBd-name",
-    "original": "深い喪失\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "深い喪失\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "深い喪失\n<CMT_KR>\n<CMT_JP>",
+    "translation": "深い喪失\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n깊은 상실\nEN:\nDeep Bereavement"
   },
   {
     "key": "AaCfPbBd-desc",
-    "original": "ターン開始時に速度が5減少、防御レベル減少 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時に速度が5減少、防御レベル減少 5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時に速度が5減少、防御レベル減少 5を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時に速度が5減少、防御レベル減少 5を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 속도 5 감소, 방어 레벨 감소 5 얻음\nEN:\nTurn Start: Lose 5 Speed and gain 5 Defense Level Down"
   }

@@ -1,344 +1,344 @@
 [
   {
     "key": "2036-name",
-    "original": "銀の時計ケース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "銀の時計ケース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "銀の時計ケース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "銀の時計ケース\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n은빛 시계 케이스\nEN:\nSilver Watch Case"
   },
   {
     "key": "2036-desc",
-    "original": "[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)で敵へダメージを与えたとき、与ダメージ量 +10%\n\n該当スキルで敵へこのターンの間、最初に[VibrationExplosion]を適用したなら、次のターンに[Vibration]回数2を付与(1ターンに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)で敵へダメージを与えたとき、与ダメージ量 +10%\n\n該当スキルで敵へこのターンの間、最初に[VibrationExplosion]を適用したなら、次のターンに[Vibration]回数2を付与(1ターンに1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)で敵へダメージを与えたとき、与ダメージ量 +10%\n\n該当スキルで敵へこのターンの間、最初に[VibrationExplosion]を適用したなら、次のターンに[Vibration]回数2を付与(1ターンに1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)で敵へダメージを与えたとき、与ダメージ量 +10%\n\n該当スキルで敵へこのターンの間、最初に[VibrationExplosion]を適用したなら、次のターンに[Vibration]回数2を付与(1ターンに1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬(E.G.O 스킬 제외)로 적에게 피해를 입힐 때, 가하는 피해량 +10%.\n\n해당 스킬로 적에게 이번 턴 동안 처음으로 [VibrationExplosion]을 적용하였다면, 다음 턴에 [Vibration] 횟수 2 부여 (턴 당 1회).\nEN:\nWhen dealing damage to an enemy with Attack Skills(Not counting E.G.O Skills) that inflict [Vibration] Potency, Count, or Unique Tremor, deal +10% damage.\n\nIf the Skill triggered [VibrationExplosion] on the enemy for the first time this turn, inflict +2 [Vibration] Count next turn (once per turn)"
   },
   {
     "key": "2036-simpleDesc[0].simpleDesc",
-    "original": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가하는 피해량 +10%\nEN:\nDeal +10% damage"
   },
   {
     "key": "2036-simpleDesc[1].simpleDesc",
-    "original": "次のターンに[Vibration]回数2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターンに[Vibration]回数2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターンに[Vibration]回数2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターンに[Vibration]回数2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴에 [Vibration] 횟수 2 부여\nEN:\nInflict +2 [Vibration] Count next turn"
   },
   {
     "key": "2037-name",
-    "original": "色褪せた時計ケース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "色褪せた時計ケース\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "色褪せた時計ケース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた時計ケース\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빛바랜 시계 케이스\nEN:\nFaded Watch Case"
   },
   {
     "key": "2037-desc",
-    "original": "自分より速度が高い敵とマッチを進行するとき、マッチ威力 +1\n\n自分より速度が高い敵へダメージを与えるとき、次のターンに対象へ[Vibration]威力3, [Vibration]回数2を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分より速度が高い敵とマッチを進行するとき、マッチ威力 +1\n\n自分より速度が高い敵へダメージを与えるとき、次のターンに対象へ[Vibration]威力3, [Vibration]回数2を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分より速度が高い敵とマッチを進行するとき、マッチ威力 +1\n\n自分より速度が高い敵へダメージを与えるとき、次のターンに対象へ[Vibration]威力3, [Vibration]回数2を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分より速度が高い敵とマッチを進行するとき、マッチ威力 +1\n\n自分より速度が高い敵へダメージを与えるとき、次のターンに対象へ[Vibration]威力3, [Vibration]回数2を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신보다 속도가 높은 적과 합을 진행할 때, 합 위력 +1.\n\n자신보다 속도가 높은 적에게 피해를 가할 때, 다음 턴에 대상에게 [Vibration] 위력 3, [Vibration] 횟수 2 부여 (턴 당 1회).\nEN:\nWhen Clashing with a faster enemy, Clash Power +1.\n\nWhen dealing damage to a faster enemy, inflict 3 [Vibration] Potency and +2 [Vibration] Count next turn. (once per turn)"
   },
   {
     "key": "2037-simpleDesc[0].simpleDesc",
-    "original": "マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력 +1\nEN:\nClash Power +1"
   },
   {
     "key": "2037-simpleDesc[1].simpleDesc",
-    "original": "次のターンに[Vibration]威力3, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターンに[Vibration]威力3, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターンに[Vibration]威力3, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターンに[Vibration]威力3, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴에 [Vibration] 위력 3, [Vibration] 횟수 2 부여\nEN:\nInflict 3 [Vibration] Potency and +2 [Vibration] Count next turn"
   },
   {
     "key": "2038-name",
-    "original": "警告状\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "警告状\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "警告状\n<CMT_KR>\n<CMT_JP>",
+    "translation": "警告状\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n경고장\nEN:\nWarning Notice"
   },
   {
     "key": "2038-desc",
-    "original": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 속도가 제일 빠른 적 1명에게 다음 턴에 [Binding] 1 부여 (환상체일 경우, 부위 하나).\n\n대상이 [Vibration] 또는 특수 진동을 보유한 경우, 효과가 강화되어 [Binding] 2 부여.\n\n아군이 [Binding]을 보유한 대상을 공격할 때, 가하는 피해량 +(5 + [[Binding] 수치x2.5])% (최대 15%).\nEN:\nTurn End: Inflict 1 [Binding] to the fastest enemy next turn. (for Abnormalities, a Part)\n\nIf the target has [Vibration] or 'Unique Tremor', inflict 2 [Binding] instead.\n\nWhen an ally attacks targets with [Binding], deal +(5 + (2.5 x [Binding] value)) more damage. (max 15%)"
   },
   {
     "key": "2038-simpleDesc[0].simpleDesc",
-    "original": "次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴에 [Binding] 1 부여\nEN:\nApply 1 [Binding] next turn"
   },
   {
     "key": "2038-simpleDesc[1].simpleDesc",
-    "original": "与ダメージ量 +(5 + [[Binding]数値 × 2.5])%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +(5 + [[Binding]数値 × 2.5])%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +(5 + [[Binding]数値 × 2.5])%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +(5 + [[Binding]数値 × 2.5])%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가하는 피해량 +(5 + [[Binding] 수치x2.5])%\nEN:\nDeal +(5 + (2.5 x [Binding] value)) more damage"
   },
   {
     "key": "2039-name",
-    "original": "エッチングされた時計の針\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "エッチングされた時計の針\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "エッチングされた時計の針\n<CMT_KR>\n<CMT_JP>",
+    "translation": "エッチングされた時計の針\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n에칭 시계침\nEN:\nEtched Clock Hands"
   },
   {
     "key": "2039-desc",
-    "original": "ウェーブの最初のターン開始時、速度が最も低い敵3名に(9 - 現在の速度)だけ[Vibration]威力を付与(最低3)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵への与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ウェーブの最初のターン開始時、速度が最も低い敵3名に(9 - 現在の速度)だけ[Vibration]威力を付与(最低3)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵への与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ウェーブの最初のターン開始時、速度が最も低い敵3名に(9 - 現在の速度)だけ[Vibration]威力を付与(最低3)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵への与ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの最初のターン開始時、速度が最も低い敵3名に(9 - 現在の速度)だけ[Vibration]威力を付与(最低3)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵への与ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 3명에게 (9-현재 속도)만큼 [Vibration] 위력 부여 (최소 3).\n\n턴 시작 시 [Vibration] 또는 특수 진동을 12 이상 보유한 적을 대상으로 가하는 피해량 +10%.\nEN:\nFirst Turn Start of a wave: inflict (9 - current Speed) [Vibration] Potency to 3 enemies with the slowest Speed. (min. 3)\n\nDeal +10% damage against targets with 12+ [Vibration] or 'Unique Tremor' at Turn Start."
   },
   {
     "key": "2039-simpleDesc[0].simpleDesc",
-    "original": "(9 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "(9 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "(9 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "(9 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n(9-현재 속도)만큼 [Vibration] 위력 부여\nEN:\nInflict (9 - current Speed) [Vibration] Potency"
   },
   {
     "key": "2039-simpleDesc[1].simpleDesc",
-    "original": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가하는 피해량 +10%.\nEN:\nDeal +10% damage"
   },
   {
     "key": "2040-name",
-    "original": "錆びた時計の針\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "錆びた時計の針\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "錆びた時計の針\n<CMT_KR>\n<CMT_JP>",
+    "translation": "錆びた時計の針\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n녹슨 시계침\nEN:\nRusted Clock Hands"
   },
   {
     "key": "2040-desc",
-    "original": "ウェーブの最初のターン開始時、速度が最も高い敵1名に(9 - 現在の速度)だけ[Vibration]威力(最低3)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵からの被ダメージ量 -10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ウェーブの最初のターン開始時、速度が最も高い敵1名に(9 - 現在の速度)だけ[Vibration]威力(最低3)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵からの被ダメージ量 -10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ウェーブの最初のターン開始時、速度が最も高い敵1名に(9 - 現在の速度)だけ[Vibration]威力(最低3)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵からの被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの最初のターン開始時、速度が最も高い敵1名に(9 - 現在の速度)だけ[Vibration]威力(最低3)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n\nターン開始時、[Vibration]または特殊振動を12以上保有した敵からの被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n웨이브 첫 턴 시작 시, 속도가 제일 높은 적 1명에게 (9-현재 속도)만큼 [Vibration] 위력(최소 3)과 그 수치의 절반만큼 [Vibration] 횟수를 부여(올림하여 처리, 환상체일 경우 부위 하나).\n\n턴 시작 시 [Vibration] 또는 특수 진동을 12 이상 보유한 적에게 받는 피해량 -10%.\nEN:\nFirst Turn Start of a wave: inflict (9 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)\n\nTake -10% damage from targets with 12+ [Vibration] or 'Unique Tremor' at Turn Start."
   },
   {
     "key": "2040-simpleDesc[0].simpleDesc",
-    "original": "(9 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "(9 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "(9 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "(9 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n(9-현재 속도)만큼 [Vibration] 위력과 그 수치의 절반만큼 [Vibration] 횟수 부여\nEN:\nInflict (9 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
   },
   {
     "key": "2040-simpleDesc[1].simpleDesc",
-    "original": "被ダメージ量 -10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "被ダメージ量 -10%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n받는 피해량 -10%.\nEN:\nDamage Taken -10%."
   },
   {
     "key": "2041-name",
-    "original": "落水の杯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "落水の杯\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "落水の杯\n<CMT_KR>\n<CMT_JP>",
+    "translation": "落水の杯\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n낙수의 잔\nEN:\nChalice of Trickle-down"
   },
   {
     "key": "2041-desc",
-    "original": "[Vibration]威力、[Vibration]回数、または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)を保有する味方が敵とのマッチで勝利時、[Vibration]威力2, [Vibration]回数2を付与(1ターンにつき2回)\n\nユロージヴィ所属の人格の場合は効果が強化され、[Vibration]威力3, [Vibration]回数3を付与(1ターンにつき3回)\n\n該当人格が自分より攻撃レベルが高い敵とマッチ進行時にマッチ威力+2、マッチ勝利時の与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Vibration]威力、[Vibration]回数、または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)を保有する味方が敵とのマッチで勝利時、[Vibration]威力2, [Vibration]回数2を付与(1ターンにつき2回)\n\nユロージヴィ所属の人格の場合は効果が強化され、[Vibration]威力3, [Vibration]回数3を付与(1ターンにつき3回)\n\n該当人格が自分より攻撃レベルが高い敵とマッチ進行時にマッチ威力+2、マッチ勝利時の与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Vibration]威力、[Vibration]回数、または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)を保有する味方が敵とのマッチで勝利時、[Vibration]威力2, [Vibration]回数2を付与(1ターンにつき2回)\n\nユロージヴィ所属の人格の場合は効果が強化され、[Vibration]威力3, [Vibration]回数3を付与(1ターンにつき3回)\n\n該当人格が自分より攻撃レベルが高い敵とマッチ進行時にマッチ威力+2、マッチ勝利時の与ダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力、[Vibration]回数、または特殊振動を付与する攻撃スキル(E.G.Oスキルを除く)を保有する味方が敵とのマッチで勝利時、[Vibration]威力2, [Vibration]回数2を付与(1ターンにつき2回)\n\nユロージヴィ所属の人格の場合は効果が強化され、[Vibration]威力3, [Vibration]回数3を付与(1ターンにつき3回)\n\n該当人格が自分より攻撃レベルが高い敵とマッチ進行時にマッチ威力+2、マッチ勝利時の与ダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬(E.G.O 스킬 제외)을 보유한 아군이 적과 합하여 승리 시, [Vibration] 위력 2, [Vibration] 횟수 2 부여 (턴 당 2회).\n\n유로지비 소속 인격일 경우 효과가 강화되어, [Vibration] 위력 3, [Vibration] 횟수 3 부여 (턴 당 3회)\n\n해당 인격이 자신보다 공격 레벨이 높은 적과 합 진행 시 합 위력 +2, 합하여 승리 시 가하는 피해량 +20%.\nEN:\nWhen an ally with Attack Skills(Not E.G.O Skills) that inflict [Vibration] Potency, Count, or 'Unique Tremor' wins a Clash, inflict 2 [Vibration] Potency and +2 [Vibration] Count. (2 times per turn)\n\nYurodivy Identities: inflict 3 [Vibration] Potency and +3 [Vibration] Count instead (3 times per turn)\n\nIf the affected Identity Clashes against targets with higher Offense Levels, Clash Power +2; deal +20% damage when attacking after winning the Clash."
   },
   {
     "key": "2041-simpleDesc[0].simpleDesc",
-    "original": "[Vibration]威力2, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Vibration]威力2, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Vibration]威力2, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力2, [Vibration]回数を2付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 2, [Vibration] 횟수 2 부여\nEN:\nInflict 2 [Vibration] Potency and +2 [Vibration] Count"
   },
   {
     "key": "2041-simpleDesc[1].simpleDesc",
-    "original": "[Vibration]威力3, [Vibration]回数を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Vibration]威力3, [Vibration]回数を3付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Vibration]威力3, [Vibration]回数を3付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力3, [Vibration]回数を3付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 3, [Vibration] 횟수 3 부여\nEN:\nInflict 3 [Vibration] Potency and +3 [Vibration] Count"
   },
   {
     "key": "2041-simpleDesc[2].simpleDesc",
-    "original": "マッチ威力 +2, 与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力 +2, 与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力 +2, 与ダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 与ダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력+2, 가하는 피해량 +20%\nEN:\nClash Power +2, deal +20% damage"
   },
   {
     "key": "2042-name",
-    "original": "先払いした時間領収書\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "先払いした時間領収書\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "先払いした時間領収書\n<CMT_KR>\n<CMT_JP>",
+    "translation": "先払いした時間領収書\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선불 시간 영수증\nEN:\nPrepaid Time Receipt"
   },
   {
     "key": "2042-desc",
-    "original": "自分より速度が2以上高い敵への与ダメージ量 +(5 + 速度差 × 2.5)%(最大15%)\n\nターン終了時、このターンの間自分より速度が2以上高い敵に攻撃スキル(E.G.Oスキルを除く)を使って1度でもダメージを与えたのなら、次のターン対象に[Binding]2, [ResultReduction]1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分より速度が2以上高い敵への与ダメージ量 +(5 + 速度差 × 2.5)%(最大15%)\n\nターン終了時、このターンの間自分より速度が2以上高い敵に攻撃スキル(E.G.Oスキルを除く)を使って1度でもダメージを与えたのなら、次のターン対象に[Binding]2, [ResultReduction]1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分より速度が2以上高い敵への与ダメージ量 +(5 + 速度差 × 2.5)%(最大15%)\n\nターン終了時、このターンの間自分より速度が2以上高い敵に攻撃スキル(E.G.Oスキルを除く)を使って1度でもダメージを与えたのなら、次のターン対象に[Binding]2, [ResultReduction]1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分より速度が2以上高い敵への与ダメージ量 +(5 + 速度差 × 2.5)%(最大15%)\n\nターン終了時、このターンの間自分より速度が2以上高い敵に攻撃スキル(E.G.Oスキルを除く)を使って1度でもダメージを与えたのなら、次のターン対象に[Binding]2, [ResultReduction]1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신보다 속도가 2 이상 높은 적에게 가하는 피해량 +(5 + 속도 차이x2.5)% (최대 15%).\n\n턴 종료 시 이번 턴 동안 자신보다 속도가 2 이상 높은 적에게 공격 스킬(E.G.O 스킬 제외)을 사용하여 한 번이라도 피해를 입혔다면, 다음 턴에 대상에게 [Binding] 2, [ResultReduction] 1을 부여 (턴 당 1회).\nEN:\nDeal +(5 + (2.5 x Speed difference))% damage against faster enemies with 2+ Speed difference. (max 15%)\n\nTurn End: If an ally dealt damage with an Attack Skill (Not counting E.G.O Skills) this turn against faster enemies with 2+ Speed difference, inflict 2 [Binding] and 1 [ResultReduction] to the enemy next turn. (once per turn)"
   },
   {
     "key": "2042-simpleDesc[0].simpleDesc",
-    "original": "与ダメージ量 +(5 + 速度差 × 2.5)%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +(5 + 速度差 × 2.5)%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +(5 + 速度差 × 2.5)%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +(5 + 速度差 × 2.5)%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가하는 피해량 +(5 + 속도 차이x2.5)%\nEN:\nDeal +(5 + (2.5 x Speed difference))% damage against"
   },
   {
     "key": "2042-simpleDesc[1].simpleDesc",
-    "original": "次のターンに[Binding]2, [ResultReduction]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターンに[Binding]2, [ResultReduction]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターンに[Binding]2, [ResultReduction]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターンに[Binding]2, [ResultReduction]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴에 [Binding] 2, [ResultReduction] 1을 부여\nEN:\nInflict 2 [Binding] and 1 [ResultReduction] to the enemy next turn"
   },
   {
     "key": "2043-name",
-    "original": "懐中時計 : タイプL\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "懐中時計 : タイプL\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "懐中時計 : タイプL\n<CMT_KR>\n<CMT_JP>",
+    "translation": "懐中時計 : タイプL\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회중시계 : 타입 L\nEN:\nPocket Watch : Type L"
   },
   {
     "key": "2043-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동(E.G.O 스킬 제외).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 공격 스킬(E.G.O 스킬 포함)을 사용하여 적을 [Switch_Vibration]할 경우, 변환되는 [Vibration] 위력과 [Vibration] 횟수 값이 1.5배로 적용(다른 유형으로 변환되는 경우에만 적용)되고 다음 턴에 [DefenseDown] 5를 부여 (턴 당 1회).\n\n웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 3명에게 (12-현재 속도)만큼 [Vibration] 위력 부여 (최소 6).\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' triggers [Switch_Vibration] on an enemy with Attack Skills(Including E.G.O Skills): multiply the [Vibration] Potency and Count by 1.5(only when actually Converting them into different 'Tremor' types) and inflict 5 [DefenseDown] next turn. (once per turn)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) to 3 enemies with the slowest Speed."
   },
   {
     "key": "2043-simpleDesc[0].simpleDesc",
-    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 3의 코인 위력 +2, 피해량 +25%\nEN:\nSkill 3 gains Coin Power +2 and deals +25% damage"
   },
   {
     "key": "2043-simpleDesc[1].simpleDesc",
-    "original": "変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n변환되는 [Vibration] 위력과 [Vibration] 횟수 값이 1.5배로 적용\nEN:\nMultiply [Vibration] Potency and Count by 1.5 when triggering Amplitude Conversion"
   },
   {
     "key": "2043-simpleDesc[2].simpleDesc",
-    "original": "(12 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "(12 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "(12 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "(12 - 現在の速度)だけ[Vibration]威力を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n(12-현재 속도)만큼 [Vibration] 위력 부여\nEN:\nInflict (12 - current Speed) [Vibration] Potency"
   },
   {
     "key": "2044-name",
-    "original": "懐中時計 : タイプE\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "懐中時計 : タイプE\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "懐中時計 : タイプE\n<CMT_KR>\n<CMT_JP>",
+    "translation": "懐中時計 : タイプE\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회중시계 : 타입 E\nEN:\nPocket Watch : Type E"
   },
   {
     "key": "2044-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동(E.G.O 스킬 제외).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 자신보다 속도가 2 이상 느린 적에게 피해를 입힐 때 가하는 피해량 +(대상이 보유한 [Vibration] 위력, 최대 25)%, 피해를 입힐 때마다 [DefenseDown] 2 부여 (최대 6).\n\n웨이브 첫 턴 시작 시, 속도가 제일 높은 적 1명에게 (12-현재 속도)만큼 [Vibration] 위력(최소 6)과 그 수치의 절반만큼 [Vibration] 횟수를 부여(올림하여 처리, 환상체일 경우 부위 하나).\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' deals damage to a slower enemy with 2+ Speed difference between them: deal +([Vibration] Potency on target, max 25)% damage and inflict 2 [DefenseDown] every time the ally deals damage (max 6)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) and (12 -current Speed)/2 [Vibration] Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)"
   },
   {
     "key": "2044-simpleDesc[0].simpleDesc",
-    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 3의 코인 위력 +2, 피해량 +25%\nEN:\nSkill 3 gains Coin Power +2 and deals +25% damage"
   },
   {
     "key": "2044-simpleDesc[1].simpleDesc",
-    "original": "与ダメージ量 +(対象が保有する[Vibration]威力)%, ダメージを与えるたびに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "与ダメージ量 +(対象が保有する[Vibration]威力)%, ダメージを与えるたびに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "与ダメージ量 +(対象が保有する[Vibration]威力)%, ダメージを与えるたびに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +(対象が保有する[Vibration]威力)%, ダメージを与えるたびに[DefenseDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가하는 피해량 +(대상이 보유한 [Vibration] 위력)%, 피해를 입힐 때마다 [DefenseDown] 2 부여\nEN:\nDeal +([Vibration] Potency on target)% damage; inflict 2 [DefenseDown] every time the ally deals damage"
   },
   {
     "key": "2044-simpleDesc[2].simpleDesc",
-    "original": "(12 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "(12 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "(12 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "(12 - 現在の速度)だけ[Vibration]威力と、その数値の半分だけ[Vibration]回数を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n(12-현재 속도)만큼 [Vibration] 위력과 그 수치의 절반만큼 [Vibration] 횟수 부여\nEN:\nInflict (12 - current Speed) [Vibration] Potency (min. 3) and (9 - current Speed)/2 [Vibration] Count"
   },
   {
     "key": "2045-name",
-    "original": "懐中時計 : タイプY\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "懐中時計 : タイプY\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "懐中時計 : タイプY\n<CMT_KR>\n<CMT_JP>",
+    "translation": "懐中時計 : タイプY\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회중시계 : 타입 Y\nEN:\nPocket Watch : Type Y"
   },
   {
     "key": "2045-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)。\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)。\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)。\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く)。\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동(E.G.O 스킬 제외).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n유로지비 소속 인격일 경우 효과가 강화되어 스킬 3의 코인 위력 +2, 피해량 +(25 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합, 최대 100)%.\n\n유로지비 소속 인격이 턴 시작 시, 자신의 [Vibration] 횟수 3 증가.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nYurodivy Identities: Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% damage. (max 100%)\n\nYurodivy Identities: gain +3 [Vibration] Count at Turn Start."
   },
   {
     "key": "2045-simpleDesc[0].simpleDesc",
-    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 3의 코인 위력 +2, 피해량 +25%\nEN:\nSkill 3 gains Coin Power +2 and deals +25% damage"
   },
   {
     "key": "2045-simpleDesc[1].simpleDesc",
-    "original": "スキル3のコイン威力 +2, ダメージ量 +(25 + 対象の[Vibration]威力と[Vibration]回数の合計)%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル3のコイン威力 +2, ダメージ量 +(25 + 対象の[Vibration]威力と[Vibration]回数の合計)%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル3のコイン威力 +2, ダメージ量 +(25 + 対象の[Vibration]威力と[Vibration]回数の合計)%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル3のコイン威力 +2, ダメージ量 +(25 + 対象の[Vibration]威力と[Vibration]回数の合計)%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 3의 코인 위력 +2, 피해량 +(25 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합)%\nEN:\nSkill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% damage."
   },
   {
     "key": "2045-simpleDesc[2].simpleDesc",
-    "original": "[Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Vibration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 횟수 3 증가\nEN:\nGain +3 [Vibration] Count"
   },
   {
     "key": "2046-name",
-    "original": "懐中時計 : タイプP\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "懐中時計 : タイプP\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "懐中時計 : タイプP\n<CMT_KR>\n<CMT_JP>",
+    "translation": "懐中時計 : タイプP\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회중시계 : 타입 P\nEN:\nPocket Watch : Type P"
   },
   {
     "key": "2046-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동(E.G.O 스킬 제외).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 합을 진행할 때, 자신보다 속도가 2 이상 높은 적과 진행할 경우 합 위력 +2, 가하는 피해량 +(대상이 보유한 [Vibration] 위력, 최대 50)%.\n\n 턴 시작 시, 속도가 제일 느린 아군 셋이 속도가 느린 순으로 [AttackUp] 5, [AttackUp] 3, [AttackUp] 2를 얻음.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (Not counting E.G.O Skills)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' Clashes against a faster enemy with 2+ Speed difference: Clash Power +2 and deal +([Vibration] Potency on target)% damage. (max 50%)\n\nTurn Start: from slowest to fastest, the 3 slowest allies gain 5 [AttackUp], 3 [AttackUp], and 2 [AttackUp] respectively."
   },
   {
     "key": "2046-simpleDesc[0].simpleDesc",
-    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル3のコイン威力 +2, ダメージ量 +25%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 3의 코인 위력 +2, 피해량 +25%\nEN:\nSkill 3 gains Coin Power +2 and deals +25% damage"
   },
   {
     "key": "2046-simpleDesc[1].simpleDesc",
-    "original": "マッチ威力 +2, 与ダメージ量 + (対象が保有する[Vibration]威力)%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力 +2, 与ダメージ量 + (対象が保有する[Vibration]威力)%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力 +2, 与ダメージ量 + (対象が保有する[Vibration]威力)%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力 +2, 与ダメージ量 + (対象が保有する[Vibration]威力)%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력 +2, 가하는 피해량 +(대상이 보유한 [Vibration] 위력)%\nEN:\nClash Power +2 and deal +([Vibration] Potency on target)% damage"
   },
   {
     "key": "2046-simpleDesc[2].simpleDesc",
-    "original": "[AttackUp]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[AttackUp]を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[AttackUp]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[AttackUp]を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[AttackUp] 얻음\nEN:\nGain [AttackUp]"
   }

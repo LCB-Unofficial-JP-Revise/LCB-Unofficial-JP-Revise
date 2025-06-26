@@ -1,288 +1,288 @@
 [
   {
     "key": "112701-levelList[0].name",
-    "original": "試験は終わりだ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "試験は終わりだ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "試験は終わりだ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "試験は終わりだ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시험은 끝났다\nEN:\nNo More Tests"
   },
   {
     "key": "112701-levelList[0].desc",
-    "original": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 [HitDamageUp] 3 얻음\n[WhenUse] 메인 타겟의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\nEN:\n[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s"
   },
   {
     "key": "112701-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Binding] next turn"
   },
   {
     "key": "112702-levelList[0].name",
-    "original": "苦痛を刻む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "苦痛を刻む\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "苦痛を刻む\n<CMT_KR>\n<CMT_JP>",
+    "translation": "苦痛を刻む\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n고통 새기기\nEN:\nPromised Suffering"
   },
   {
     "key": "112702-levelList[0].desc",
-    "original": "[MiddleFingerBook]数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[MiddleFingerBook]数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[MiddleFingerBook]数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[MiddleFingerBook]数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[MiddleFingerBook] 수치가 가장 높은 대상을 우선 지정\n[WhenUse] 대상의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\nEN:\nPrioritizes targets with the highest [MiddleFingerBook] Stack\n[WhenUse] If target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s"
   },
   {
     "key": "112702-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이번 턴과 다음 턴에 [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn"
   },
   {
     "key": "112702-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このターンと次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이번 턴과 다음 턴에 [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Vulnerable] this turn and next turn"
   },
   {
     "key": "112702-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 3)만큼 타격 추가 피해\nEN:\n[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 3) Blunt bonus damage"
   },
   {
     "key": "112702-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の全ての[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の全ての[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の全ての[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の全ての[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 모든 [MiddleFingerBook] 제거\nEN:\n[OnSucceedAttack] Remove all [MiddleFingerBook] on the target"
   },
   {
     "key": "112703-levelList[0].name",
-    "original": "お遊びはここまで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "お遊びはここまで\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "お遊びはここまで\n<CMT_KR>\n<CMT_JP>",
+    "translation": "お遊びはここまで\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장난이 길었군\nEN:\nEnough games"
   },
   {
     "key": "112703-levelList[0].desc",
-    "original": "[StartBattle] 全ての味方の精神力を10回復\n[EndBattle] パニック状態の味方がいるなら、次のターン開始時にパニック状態を解除して精神力を0に初期化\n[EndBattle] 次のターンに自分を含む全味方へ[HitResultUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] 全ての味方の精神力を10回復\n[EndBattle] パニック状態の味方がいるなら、次のターン開始時にパニック状態を解除して精神力を0に初期化\n[EndBattle] 次のターンに自分を含む全味方へ[HitResultUp]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[StartBattle] 全ての味方の精神力を10回復\n[EndBattle] パニック状態の味方がいるなら、次のターン開始時にパニック状態を解除して精神力を0に初期化\n[EndBattle] 次のターンに自分を含む全味方へ[HitResultUp]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] 全ての味方の精神力を10回復\n[EndBattle] パニック状態の味方がいるなら、次のターン開始時にパニック状態を解除して精神力を0に初期化\n[EndBattle] 次のターンに自分を含む全味方へ[HitResultUp]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[StartBattle] 모든 아군의 정신력 10 회복\n[EndBattle] 패닉 상태인 아군이 있으면, 다음 턴 시작 시 패닉 상태를 해제하고, 정신력을 0으로 초기화함\n[EndBattle] 다음 턴에 자신을 포함한 모든 아군에게 [HitResultUp] 1 부여\nEN:\n[StartBattle] Heal all allies' SP by 10\n[EndBattle] If there are Panicked allies, recover them from Panic at the next Turn Start and reset their SP to 0\n[EndBattle] Apply 1 [HitResultUp] to all allies, including this unit"
   },
   {
     "key": "112704-levelList[0].name",
-    "original": "全員、処刑だ！！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全員、処刑だ！！！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全員、処刑だ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全員、処刑だ！！！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전원, 처형이다!!!\nEN:\nCOMPLETE AND TOTAL EXTERMINATION!!!"
   },
   {
     "key": "112704-levelList[0].desc",
-    "original": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n속도에 상관없이 이 스킬과 합을 할 수 있음\n메인 타겟의 [MiddleFingerBook] 수치가 5 이상이면, 최종 위력 +5\n[EndSkill] 공격 당한 모든 대상의 [MiddleFingerBook] 제거\nEN:\nCan Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit"
   },
   {
     "key": "112704-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "112704-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 10)만큼 타격 추가 피해\nEN:\n[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 10) Blunt bonus damage"
   },
   {
     "key": "112601-levelList[0].name",
-    "original": "初撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "初撃\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "初撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "初撃\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n초격\nEN:\nStartling Strike"
   },
   {
     "key": "112601-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\nEN:\n[WhenUse] If target has 5+ [Burst], Clash Power +1"
   },
   {
     "key": "112601-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
   },
   {
     "key": "112602-levelList[0].name",
-    "original": "刺殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "刺殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "刺殺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "刺殺\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n척살\nEN:\nPerforating Kill"
   },
   {
     "key": "112602-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] [LegStrength]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] [LegStrength]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] [LegStrength]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、マッチ威力 +1\n[WhenUse] [LegStrength]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, 합 위력 +1\n[WhenUse] [LegStrength] 3 얻음\nEN:\n[WhenUse] If target has 5+ [Burst], Clash Power +1\n[WhenUse] Gain 3 [LegStrength]"
   },
   {
     "key": "112602-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "112602-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象に[BurstAgility]があれば、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[BurstAgility]があれば、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[BurstAgility]があれば、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[BurstAgility]があれば、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [BurstAgility]이 있으면, 다음 턴에 [Agility] 1 얻음\nEN:\n[OnSucceedAttack] If target has [BurstAgility], gain 1 [Agility] next turn"
   },
   {
     "key": "112603-levelList[0].name",
-    "original": "標刻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "標刻\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "標刻\n<CMT_KR>\n<CMT_JP>",
+    "translation": "標刻\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n표각\nEN:\nEtching Strike"
   },
   {
     "key": "112603-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, 코인 위력 +1\nEN:\n[WhenUse] If target has 5+ [Burst], Coin Power +1"
   },
   {
     "key": "112603-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
   },
   {
     "key": "112603-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
   },
   {
     "key": "112603-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BurstAgility]を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [BurstAgility] 부여\nEN:\n[OnSucceedAttack] Inflict [BurstAgility]"
   },
   {
     "key": "112604-levelList[0].name",
-    "original": "刻呪殺剣 - 瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "刻呪殺剣 - 瞬歩\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "刻呪殺剣 - 瞬歩\n<CMT_KR>\n<CMT_JP>",
+    "translation": "刻呪殺剣 - 瞬歩\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n각주살검 - 순보\nEN:\nCursewrit Butcherblade - Blinkstep"
   },
   {
     "key": "112604-levelList[0].desc",
-    "original": "[BurstAgility]を持つ対象を優先して攻撃する\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[EndSkill] 自分の速度が10以上かつ対象が死亡したなら、このスキルをランダムな対象1名へ再使用する(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BurstAgility]を持つ対象を優先して攻撃する\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[EndSkill] 自分の速度が10以上かつ対象が死亡したなら、このスキルをランダムな対象1名へ再使用する(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BurstAgility]を持つ対象を優先して攻撃する\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[EndSkill] 自分の速度が10以上かつ対象が死亡したなら、このスキルをランダムな対象1名へ再使用する(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BurstAgility]を持つ対象を優先して攻撃する\n自分と対象の速度差2につきダメージ量 +15% (最大60%)\n[WhenUse] 対象の[Burst]5につき、コイン威力 +1 (最大2)\n[WhenUse] 対象の[Burst]回数2につき、基本威力 +1 (最大3)\n[EndSkill] 自分の速度が10以上かつ対象が死亡したなら、このスキルをランダムな対象1名へ再使用する(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BurstAgility]이 있는 대상을 우선 공격함\n자신과 대상의 속도 차이 2 당 피해량 +15% (최대 60%)\n[WhenUse] 대상의 [Burst]이 5 당, 코인 위력 +1 (최대 2)\n[WhenUse] 대상의 [Burst] 횟수 2 당, 기본 위력 +1 (최대 3)\n[EndSkill] 자신의 속도가 10 이상이고 대상이 사망했다면, 이 스킬을 무작위 대상 한 명에게 다시 사용함 (턴 당 1회)\nEN:\nPrioritizes targets with [BurstAgility]\nDeal +15% damage for every 2 Speed difference between this unit and the target (max 60%)\n[WhenUse] Coin Power +1 for every 5 [Burst] on the target (max 2)\n[WhenUse] Base Power +1 for every 2 [Burst] Count on the target (max 3)\n[EndSkill] At 10+ Speed, and if the target is defeated, Reuse this Skill against a random enemy (once per turn)"
   },
   {
     "key": "112604-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "112604-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Burst] Count"
   },
   {
     "key": "112604-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "112604-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Burst]"
   },
   {
     "key": "112604-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   },
   {
     "key": "112604-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "対象に[BurstAgility]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対象に[BurstAgility]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対象に[BurstAgility]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象に[BurstAgility]があれば、ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대상에게 [BurstAgility]이 있으면, 피해량 +50%\nEN:\nIf target has [BurstAgility], deal +50% damage"
   },
   {
     "key": "112604-levelList[0].coinlist[2].coindescs[2].desc",
-    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 5 부여\nEN:\n[OnSucceedAttack] Inflict 5 [Burst]"
   },
   {
     "key": "112605-levelList[0].name",
-    "original": "刻呪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "刻呪\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "刻呪\n<CMT_KR>\n<CMT_JP>",
+    "translation": "刻呪\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n각주\nEN:\nCursewrit"
   },
   {
     "key": "112605-levelList[0].desc",
-    "original": "[DuelCounter]\n[WhenUse] 対象に[BurstAgility]があるなら、このスキルで付与する[Burst]回数が1追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[DuelCounter]\n[WhenUse] 対象に[BurstAgility]があるなら、このスキルで付与する[Burst]回数が1追加で増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[DuelCounter]\n[WhenUse] 対象に[BurstAgility]があるなら、このスキルで付与する[Burst]回数が1追加で増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[WhenUse] 対象に[BurstAgility]があるなら、このスキルで付与する[Burst]回数が1追加で増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[DuelCounter]\n[WhenUse] 대상에게 [BurstAgility]이 있으면, 이 스킬에서 부여하는 [Burst] 횟수 1 추가 증가\nEN:\n[DuelCounter]\n[WhenUse] If target has [BurstAgility], inflict +1 more [Burst] Count with this Skill"
   },
   {
     "key": "112605-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "112605-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
   },
   {
     "key": "112605-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
   }

@@ -1,295 +1,295 @@
 [
   {
     "key": "9020301-name",
-    "original": "楽な任務\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "楽な任務\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "楽な任務\n<CMT_KR>\n<CMT_JP>",
+    "translation": "楽な任務\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수월한 임무\nEN:\nEasy Money"
   },
   {
     "key": "9020301-desc",
-    "original": "ターン終了時、このターンに攻撃が的中したなら次のターンに[Enhancement]1を得る\n対象がホンルなら、次のターンに[ParryingResultUp]1, [AttackDmgUp]1を追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、このターンに攻撃が的中したなら次のターンに[Enhancement]1を得る\n対象がホンルなら、次のターンに[ParryingResultUp]1, [AttackDmgUp]1を追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、このターンに攻撃が的中したなら次のターンに[Enhancement]1を得る\n対象がホンルなら、次のターンに[ParryingResultUp]1, [AttackDmgUp]1を追加で得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、このターンに攻撃が的中したなら次のターンに[Enhancement]1を得る\n対象がホンルなら、次のターンに[ParryingResultUp]1, [AttackDmgUp]1を追加で得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 이번 턴에 공격이 적중했다면 다음 턴에 [Enhancement] 1 을 얻음\n대상이 홍루라면, 다음 턴에 [ParryingResultUp] 1, [AttackDmgUp] 1을 추가로 얻음\nEN:\nTurn End: If this unit hit a target this turn, gain 1 [Enhancement] next turn\nIf the target is Hong Lu, gain 1 [ParryingResultUp] and 1 [AttackDmgUp] next turn as well"
   },
   {
     "key": "9020302-name",
-    "original": "こんなはずじゃ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "こんなはずじゃ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "こんなはずじゃ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "こんなはずじゃ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이게 아닌데\nEN:\noh no"
   },
   {
     "key": "9020302-desc",
-    "original": "マッチ敗北時、精神力が5減少\n混乱時、次のターンに[Vulnerable]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ敗北時、精神力が5減少\n混乱時、次のターンに[Vulnerable]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ敗北時、精神力が5減少\n混乱時、次のターンに[Vulnerable]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ敗北時、精神力が5減少\n混乱時、次のターンに[Vulnerable]2を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 패배 시, 정신력 5 감소\n흐트러짐 시, 다음 턴에 [Vulnerable] 2를 얻음 (턴 당 1회)\nEN:\nLose 5 SP on Clash Lose\nWhen Staggered, gain 2 [Vulnerable] next turn (once per turn)"
   },
   {
     "key": "9020101-name",
-    "original": "訓練用木人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "訓練用木人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "訓練用木人\n<CMT_KR>\n<CMT_JP>",
+    "translation": "訓練用木人\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n훈련용 인형\nEN:\nTraining Dummy"
   },
   {
     "key": "9020101-desc",
-    "original": "10未満のダメージを無効化する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "10未満のダメージを無効化する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "10未満のダメージを無効化する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "10未満のダメージを無効化する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n받은 피해가 최소 10 이상이어야 피해를 받음\n그 이하의 피해는 0으로 받음\nEN:\nCan be damaged only with damages equal to or higher than 10\nAll damage under 10 is nullified"
   },
   {
     "key": "9020102-name",
-    "original": "成長する訓練用木人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "成長する訓練用木人\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "成長する訓練用木人\n<CMT_KR>\n<CMT_JP>",
+    "translation": "成長する訓練用木人\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n성장하는 훈련용 인형\nEN:\nUpgradable Training Dummy"
   },
   {
     "key": "9020102-desc",
-    "original": "ターン終了時にスキル的中が成功しなければ、成功できなかった数だけ次のターンに[ParryingResultUp]を得る\n敵にスキル的中時、累積した値が初期化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時にスキル的中が成功しなければ、成功できなかった数だけ次のターンに[ParryingResultUp]を得る\n敵にスキル的中時、累積した値が初期化される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時にスキル的中が成功しなければ、成功できなかった数だけ次のターンに[ParryingResultUp]を得る\n敵にスキル的中時、累積した値が初期化される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時にスキル的中が成功しなければ、成功できなかった数だけ次のターンに[ParryingResultUp]を得る\n敵にスキル的中時、累積した値が初期化される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 스킬 적중을 성공하지 못했으면, 성공하지 못한 턴 수만큼 다음 턴에 [ParryingResultUp] 얻음\n적에게 스킬 적중 시 누적된 값이 초기화됨\nEN:\nTurn End: if this unit failed to hit with a Skill, gain [ParryingResultUp] next turn equal to the number of turns this unit failed to hit\nIf this unit hits an enemy with a Skill, reset the above stack"
   },
   {
     "key": "9020103-name",
-    "original": "基本技を固める\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "基本技を固める\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "基本技を固める\n<CMT_KR>\n<CMT_JP>",
+    "translation": "基本技を固める\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n기본기 다지기\nEN:\nRemember the Basics"
   },
   {
     "key": "9020103-desc",
-    "original": "ターン終了時、攻撃スキル4つ以上にダメージを受けたなら、自分を攻撃した全ての敵へダメージを受けた数だけ次のターンにて[AttackDmgUp]1を付与\n攻撃スキル3つ以下に攻撃されたなら、累積された値が初期化される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、攻撃スキル4つ以上にダメージを受けたなら、自分を攻撃した全ての敵へダメージを受けた数だけ次のターンにて[AttackDmgUp]1を付与\n攻撃スキル3つ以下に攻撃されたなら、累積された値が初期化される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、攻撃スキル4つ以上にダメージを受けたなら、自分を攻撃した全ての敵へダメージを受けた数だけ次のターンにて[AttackDmgUp]1を付与\n攻撃スキル3つ以下に攻撃されたなら、累積された値が初期化される。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、攻撃スキル4つ以上にダメージを受けたなら、自分を攻撃した全ての敵へダメージを受けた数だけ次のターンにて[AttackDmgUp]1を付与\n攻撃スキル3つ以下に攻撃されたなら、累積された値が初期化される。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 공격 스킬 4개 이상에 피격 당했으면, 자신을 공격한 모든 적에게 피격당한 턴 수만큼 다음 턴에 [AttackDmgUp] 1 부여\n공격 스킬 3개 이하에 피격 당했다면, 누적된 값이 초기화됨\nEN:\nTurn End: if this unit was hit by 4 or more Attack Skills, to all enemies that attacked this unit, apply 1 [AttackDmgUp] next turn for every turn this unit was hit\nIf this unit was hit by 3 or fewer Attack Skills, reset the above stack"
   },
   {
     "key": "9019501-name",
-    "original": "逸れていった呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "逸れていった呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "逸れていった呪い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "逸れていった呪い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엇나간 저주\nEN:\nOff-mark Curse"
   },
   {
     "key": "9019501-desc",
-    "original": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が半減する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が半減する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が半減する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が半減する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흐트러짐 상태가 되었을 때, 마지막으로 공격한 대상의 [Burst] 위력과 [Burst] 횟수가 절반으로 감소함\nEN:\nWhen this unit is Staggered, halve the [Burst] Potency and [Burst] Count on the target this unit hit last"
   },
   {
     "key": "9019502-name",
-    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n단지에 깃든 저주\nEN:\nJar-haunting Curse"
   },
   {
     "key": "9019502-desc",
-    "original": "ターン終了時、このターンにスキルが的中したなら次のターンに[Enhancement]1を得る\n自滅する場合、次のターンに全味方へ[Enhancement]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、このターンにスキルが的中したなら次のターンに[Enhancement]1を得る\n自滅する場合、次のターンに全味方へ[Enhancement]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、このターンにスキルが的中したなら次のターンに[Enhancement]1を得る\n自滅する場合、次のターンに全味方へ[Enhancement]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、このターンにスキルが的中したなら次のターンに[Enhancement]1を得る\n自滅する場合、次のターンに全味方へ[Enhancement]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 이번 턴에 스킬 적중했다면 다음 턴에 [Enhancement] 1 얻음\n자신이 스스로 사망할 경우, 다음 턴에 모든 아군에게 [Enhancement] 1 부여\nEN:\nTurn End: If this unit hit a target this turn, gain 1 [Enhancement] next turn\nIf this unit kills itself, apply 1 [Enhancement] to all allies"
   },
   {
     "key": "9019601-name",
-    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n단지에 깃든 저주\nEN:\nJar-haunting Curse"
   },
   {
     "key": "9019601-desc",
-    "original": "スキル的中時、対象の残った[Burst]回数が1なら、[Burst]回数が1増加(1ターンにつき2回)\n攻撃的中時、対象の残った[Burst]が1なら、[Burst]2を付与(1ターンにつき2回)\n自滅する場合、全ての敵へ[Burst]2を付与、[Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル的中時、対象の残った[Burst]回数が1なら、[Burst]回数が1増加(1ターンにつき2回)\n攻撃的中時、対象の残った[Burst]が1なら、[Burst]2を付与(1ターンにつき2回)\n自滅する場合、全ての敵へ[Burst]2を付与、[Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル的中時、対象の残った[Burst]回数が1なら、[Burst]回数が1増加(1ターンにつき2回)\n攻撃的中時、対象の残った[Burst]が1なら、[Burst]2を付与(1ターンにつき2回)\n自滅する場合、全ての敵へ[Burst]2を付与、[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル的中時、対象の残った[Burst]回数が1なら、[Burst]回数が1増加(1ターンにつき2回)\n攻撃的中時、対象の残った[Burst]が1なら、[Burst]2を付与(1ターンにつき2回)\n自滅する場合、全ての敵へ[Burst]2を付与、[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 적중 시, 대상의 남은 [Burst] 횟수가 1이라면, [Burst] 횟수 1 증가 (턴 당 2회)\n공격 적중 시, 대상의 남은 [Burst]이 1이라면, [Burst] 2 부여 (턴 당 2회)\n자신이 스스로 사망할 경우, 모든 적에게 [Burst] 2 부여, [Burst] 횟수 1 증가\nEN:\nOn Skill hit: if target has 1 remaining [Burst] Count, inflict +1 [Burst] Count (2 times per turn)\nOn Hit: if target has 1 remaining [Burst], inflict 2 [Burst] (2 times per turn)\nIf this unit kills itself, inflict 2 [Burst] and +1 [Burst] Count on all enemies"
   },
   {
     "key": "9019701-name",
-    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n단지에 깃든 저주\nEN:\nJar-haunting Curse"
   },
   {
     "key": "9019701-desc",
-    "original": "スキル的中時、[Burst]が4以上の対象なら、次のターンに[DefenseDown]1を付与(1ターンにつき3回)\n自滅する場合、次のターンに全ての敵へ[DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル的中時、[Burst]が4以上の対象なら、次のターンに[DefenseDown]1を付与(1ターンにつき3回)\n自滅する場合、次のターンに全ての敵へ[DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル的中時、[Burst]が4以上の対象なら、次のターンに[DefenseDown]1を付与(1ターンにつき3回)\n自滅する場合、次のターンに全ての敵へ[DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル的中時、[Burst]が4以上の対象なら、次のターンに[DefenseDown]1を付与(1ターンにつき3回)\n自滅する場合、次のターンに全ての敵へ[DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 적중 시, [Burst]이 4 이상인 대상이라면, 다음 턴에 [DefenseDown] 1 부여 (턴 당 3회)\n자신이 스스로 사망할 경우, 다음 턴에 모든 적에게 [DefenseDown] 3 부여\nEN:\nOn Skill hit: if target has 4+ [Burst], inflict 1 [DefenseDown] next turn (3 times per turn)\nIf this unit kills itself, inflict 3 [DefenseDown] on all enemies"
   },
   {
     "key": "9102201-name",
-    "original": "逸れていった呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "逸れていった呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "逸れていった呪い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "逸れていった呪い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n엇나간 저주\nEN:\nOff-mark Curse"
   },
   {
     "key": "9102201-desc",
-    "original": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が0になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が0になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が0になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "混乱状態になったとき、最後に攻撃した対象の[Burst]威力と[Burst]回数が0になる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흐트러짐 상태가 되었을 때, 마지막으로 공격한 대상의 [Burst] 위력과 [Burst] 횟수가 전부 감소\nEN:\nWhen this unit is Staggered, eliminate the [Burst] Potency and [Burst] Count on the target this unit hit last"
   },
   {
     "key": "9102202-name",
-    "original": "呪鬼の壺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "呪鬼の壺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "呪鬼の壺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "呪鬼の壺\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주귀 단지\nEN:\nCursed Spirit Jar"
   },
   {
     "key": "9102202-desc",
-    "original": "的中時、対象の([Burst]威力 + [Burst]回数)が5以上なら、[DefenseDown]1を付与(1ターンにつき最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "的中時、対象の([Burst]威力 + [Burst]回数)が5以上なら、[DefenseDown]1を付与(1ターンにつき最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "的中時、対象の([Burst]威力 + [Burst]回数)が5以上なら、[DefenseDown]1を付与(1ターンにつき最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "的中時、対象の([Burst]威力 + [Burst]回数)が5以上なら、[DefenseDown]1を付与(1ターンにつき最大5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적중시 대상의 ([Burst] 위력 + [Burst] 횟수)가 5 이상이면, [DefenseDown] 1 부여 (턴 당 최대 5)\nEN:\nOn Hit, if the target has 5+ ([Burst] Potency + [Burst] Count), inflict 1 [DefenseDown] (5 times per turn)"
   },
   {
     "key": "9102203-name",
-    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "壺に宿った呪い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n단지에 깃든 저주\nEN:\nJar-haunting Curse"
   },
   {
     "key": "9102203-desc",
-    "original": "ターン終了時、出場して進行したターン数によって全ての敵へ[Poison]を付与(最大5)\n自滅する場合、次のターンに全ての敵へ(進行したターン × 5)だけ[Poison]を付与する(最大25), [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、出場して進行したターン数によって全ての敵へ[Poison]を付与(最大5)\n自滅する場合、次のターンに全ての敵へ(進行したターン × 5)だけ[Poison]を付与する(最大25), [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、出場して進行したターン数によって全ての敵へ[Poison]を付与(最大5)\n自滅する場合、次のターンに全ての敵へ(進行したターン × 5)だけ[Poison]を付与する(最大25), [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、出場して進行したターン数によって全ての敵へ[Poison]を付与(最大5)\n自滅する場合、次のターンに全ての敵へ(進行したターン × 5)だけ[Poison]を付与する(最大25), [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 등장하고 진행된 턴 수에 따라 모든 적에게 [Poison]을 부여함 (최대 5)\n자신이 스스로 사망할 경우, 다음 턴에 모든 적에게 (진행된 턴 x 5)만큼 [Poison]을 부여함 (최대 25), [Burst] 횟수 2 증가\nEN:\nTurn End: against all enemies, inflict [Poison] equal to the number of turns that passed since this unit joined the battle (max 5)\nIf this unit kills itself, apply (# of turns x 5) [Poison] and inflict +2 [Burst] Count on all enemies next turn (max 25)"
   },
   {
     "key": "9019801-name",
-    "original": "その間の被害\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "その間の被害\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "その間の被害\n<CMT_KR>\n<CMT_JP>",
+    "translation": "その間の被害\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그간의 피해\nEN:\nDamage Taken"
   },
   {
     "key": "9019801-desc",
-    "original": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +10%\n戦闘中にダメージを受けたとき、マッチ勝利時、与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +10%\n戦闘中にダメージを受けたとき、マッチ勝利時、与ダメージ量 +20%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +10%\n戦闘中にダメージを受けたとき、マッチ勝利時、与ダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +10%\n戦闘中にダメージを受けたとき、マッチ勝利時、与ダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 중 피격당했을 때, 해당 턴동안 가하는 피해량 +10%\n전투 중 피격당했을 때, 합 승리시, 가하는 피해량 +20%\nEN:\nWhen hit during the combat phase: +10% damage for the turn\nWhen hit during the combat phase: on Clash Win, +20% damage"
   },
   {
     "key": "9019802-name",
-    "original": "ターゲット - ジア・バオユ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターゲット - ジア・バオユ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターゲット - ジア・バオユ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターゲット - ジア・バオユ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n목표 - 가보옥\nEN:\nTarget - Jia Baoyu"
   },
   {
     "key": "9019802-desc",
-    "original": "ホンルを優先攻撃する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ホンルを優先攻撃する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ホンルを優先攻撃する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ホンルを優先攻撃する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍루를 우선 공격함\nEN:\nPrioritizes Hong Lu"
   },
   {
     "key": "9019803-name",
-    "original": "鮮明になっていく目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "鮮明になっていく目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "鮮明になっていく目標\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鮮明になっていく目標\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n또렷해지는 목표\nEN:\nFocusing on Target"
   },
   {
     "key": "9019803-desc",
-    "original": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 체력이 70% 이상일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면 다음 턴에 [Reduction] 1 얻음\n자신의 체력이 70% 미만일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴동안 부여하는 [Laceration], [Laceration] 횟수 +1\nEN:\nAt 70%+ HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 1 [Reduction] next turn\nAt less than 70% HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, inflict +1 more [Laceration] and [Laceration] Count next turn"
   },
   {
     "key": "9020001-name",
-    "original": "任務遂行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "任務遂行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "任務遂行\n<CMT_KR>\n<CMT_JP>",
+    "translation": "任務遂行\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n임무 수행\nEN:\nMission Progress"
   },
   {
     "key": "9020001-desc",
-    "original": "自分の失った体力1%につき、与ダメージ量 +0.5%(最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の失った体力1%につき、与ダメージ量 +0.5%(最大50%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の失った体力1%につき、与ダメージ量 +0.5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の失った体力1%につき、与ダメージ量 +0.5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 잃은 체력 1%당 가하는 피해량 +0.5% (최대 50%)\nEN:\nDeal +0.5% damage for every 1% missing HP on self (max 50%)"
   },
   {
     "key": "9020002-name",
-    "original": "明確になっていく目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "明確になっていく目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "明確になっていく目標\n<CMT_KR>\n<CMT_JP>",
+    "translation": "明確になっていく目標\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뚜렷해지는 목표\nEN:\nHoning in on Target"
   },
   {
     "key": "9020002-desc",
-    "original": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[Enhancement]1を得る\n- 次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[Enhancement]1を得る\n- 次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[Enhancement]1を得る\n- 次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ次のターンに[Reduction]1を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[Enhancement]1を得る\n- 次のターンの間付与する[Laceration]、[Laceration]回数 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 체력이 70% 이상일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면 다음 턴에 [Reduction] 1 얻음\n자신의 체력이 70% 미만일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴에 [Enhancement] 1 얻음\n- 다음 턴동안 부여하는 [Laceration], [Laceration] 횟수 +1\nEN:\nAt 70%+ HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 1 [Reduction] next turn\nAt less than 70% HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 1 [Enhancement] next turn\n- inflict +1 more [Laceration] and [Laceration] Count next turn"
   },
   {
     "key": "9102101-name",
-    "original": "その間の被害\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "その間の被害\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "その間の被害\n<CMT_KR>\n<CMT_JP>",
+    "translation": "その間の被害\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그간의 피해\nEN:\nDamage Taken"
   },
   {
     "key": "9102101-desc",
-    "original": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +20%\n戦闘中にマッチ敗北時、該当スキルからの被ダメージ量 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +20%\n戦闘中にマッチ敗北時、該当スキルからの被ダメージ量 +15%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +20%\n戦闘中にマッチ敗北時、該当スキルからの被ダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中にダメージを受けたとき、そのターンの間与ダメージ量 +20%\n戦闘中にマッチ敗北時、該当スキルからの被ダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 중 피격당했을 때, 해당 턴동안 가하는 피해량 +20%\n전투 중 합 패배시 해당 스킬로부터 받는 피해량 +15%\nEN:\nWhen hit during the combat phase: +20% damage for the turn\nDuring the combat phase: On Clash Lose, take +15% damage from the Skill"
   },
   {
     "key": "9102102-name",
-    "original": "泥酔修行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "泥酔修行\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "泥酔修行\n<CMT_KR>\n<CMT_JP>",
+    "translation": "泥酔修行\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n만취 수행\nEN:\nPlastered Training"
   },
   {
     "key": "9102102-desc",
-    "original": "自分の失った体力1%につき、与ダメージ量 +2%(最大100%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の失った体力1%につき、与ダメージ量 +2%(最大100%)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の失った体力1%につき、与ダメージ量 +2%(最大100%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の失った体力1%につき、与ダメージ量 +2%(最大100%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 잃은 체력 1%당 가하는 피해량 +2% (최대 100%)\nEN:\nDeal +2% damage for every 1% missing HP on self (max 100%)"
   },
   {
     "key": "9102103-name",
-    "original": "こりゃこりゃ…ひっく、これはいかん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "こりゃこりゃ…ひっく、これはいかん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "こりゃこりゃ…ひっく、これはいかん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "こりゃこりゃ…ひっく、これはいかん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이런 이런… 딸꾹 이러면 안되겠지\nEN:\nWell, well... Hic. This won't do"
   },
   {
     "key": "9102103-desc",
-    "original": "自分の体力が50%を切ったとき、混乱状態を解除してこのターンを終了する。\n次のターンに速度が10に固定される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の体力が50%を切ったとき、混乱状態を解除してこのターンを終了する。\n次のターンに速度が10に固定される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の体力が50%を切ったとき、混乱状態を解除してこのターンを終了する。\n次のターンに速度が10に固定される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の体力が50%を切ったとき、混乱状態を解除してこのターンを終了する。\n次のターンに速度が10に固定される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 체력이 50% 남았을 때, 흐트러짐 상태를 해제하고 이번 턴을 종료함.\n다음 턴에 속도가 10으로 고정됨\nEN:\nAt 50% HP, recover from Stagger and end this turn.\nFix this unit's Speed to 10 next turn"
   },
   {
     "key": "9102104-name",
-    "original": "揺るぎない目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "揺るぎない目標\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "揺るぎない目標\n<CMT_KR>\n<CMT_JP>",
+    "translation": "揺るぎない目標\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n확고해진 목표\nEN:\nClear Target"
   },
   {
     "key": "9102104-desc",
-    "original": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackDown]3を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackUp]6を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackDown]3を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackUp]6を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackDown]3を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackUp]6を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の体力が70%以上のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackDown]3を得る\n自分の体力が70%未満のとき、ターン終了時にホンルにスキルが的中しなければ、次のターンに[AttackUp]6を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 체력이 70% 이상일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴에 [AttackDown] 3 얻음\n자신의 체력이 70% 미만일 때, 턴 종료 시, 홍루에게 스킬이 적중하지 못했다면, 다음 턴에 [AttackUp] 6 얻음\nEN:\nAt 70%+ HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 3 [AttackDown] next turn\nAt less than 70% HP: at Turn End, if this unit failed to hit Hong Lu with a Skill, gain 6 [AttackUp] next turn"
   }

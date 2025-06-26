@@ -1,176 +1,176 @@
 [
   {
     "key": "40000101-levelList[0].name",
-    "original": "赤擊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "赤擊\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "赤擊\n<CMT_KR>\n<CMT_JP>",
+    "translation": "赤擊\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적격\nEN:\nCrimson Strike"
   },
   {
     "key": "40000101-levelList[0].desc",
-    "original": "[WhenUse] 対象のマイナス効果が5つ以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]3につき、基本威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果が5つ以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]3につき、基本威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果が5つ以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]3につき、基本威力 +1(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果が5つ以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]3につき、基本威力 +1(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] 3당, 기본 위력 +1 (최대 2)\nEN:\n[WhenUse] If target has 5+ negative effects, Clash Power +1\n[WhenUse] Base Power +1 for every 3 [Burst] on target (max 2)"
   },
   {
     "key": "40000101-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "40000101-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 [AttackUp] next turn"
   },
   {
     "key": "40000101-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "40000101-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに [AttackUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [AttackUp] 1 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 [AttackUp] next turn"
   },
   {
     "key": "40000102-levelList[0].name",
-    "original": "赤鳳\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "赤鳳\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "赤鳳\n<CMT_KR>\n<CMT_JP>",
+    "translation": "赤鳳\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적봉\nEN:\nCrimson Phoenix"
   },
   {
     "key": "40000102-levelList[0].desc",
-    "original": "[WhenUse] 対象のマイナス効果が5つ以上なら、コイン威力 +1\n[WhenUse] 対象の[Burst]6につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果が5つ以上なら、コイン威力 +1\n[WhenUse] 対象の[Burst]6につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果が5つ以上なら、コイン威力 +1\n[WhenUse] 対象の[Burst]6につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果が5つ以上なら、コイン威力 +1\n[WhenUse] 対象の[Burst]6につき、コイン威力 +1(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 코인 위력 +1\n[WhenUse] 대상의 [Burst] 6당, 코인 위력 +1 (최대 2)\nEN:\n[WhenUse] If target has 5+ negative effects, Coin Power +1\n[WhenUse] Coin Power +1 for every 6 [Burst] on target (max 2)"
   },
   {
     "key": "40000102-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
   },
   {
     "key": "40000102-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [DefenseDown] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [DefenseDown]"
   },
   {
     "key": "40000102-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Burst] Count"
   },
   {
     "key": "40000102-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackUp] 3 얻음\nEN:\n[OnSucceedAttack] Gain 3 [AttackUp] next turn"
   },
   {
     "key": "40000102-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[Burst]だけ[Breath]を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Burst]だけ[Breath]を得る(最大5)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Burst]だけ[Breath]を得る(最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Burst]だけ[Breath]を得る(最大5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Burst]만큼 [Breath] 얻음 (최대 5)\nEN:\n[OnSucceedAttack] Gain [Breath] equal to [Burst] on target (max 5)"
   },
   {
     "key": "40000102-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 対象の[Burst]回数だけ[Breath]回数増加(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 対象の[Burst]回数だけ[Breath]回数増加(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 対象の[Burst]回数だけ[Breath]回数増加(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 対象の[Burst]回数だけ[Breath]回数増加(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 대상의 [Burst] 횟수만큼 [Breath] 횟수 증가 (최대 2)\nEN:\n[OnSucceedAttackHead] Gain [Breath] Count equal to [Burst] Count on target (max 2)"
   },
   {
     "key": "40000102-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "[CriticalOnSucceedAttack] ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalOnSucceedAttack] ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalOnSucceedAttack] ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalOnSucceedAttack] 피해량 +50%\nEN:\n[CriticalOnSucceedAttack] Deal +50% damage"
   },
   {
     "key": "40000102-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[CriticalEnemyTargetKillFail] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalEnemyTargetKillFail] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalEnemyTargetKillFail] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalEnemyTargetKillFail] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalEnemyTargetKillFail] [Burst] 횟수 2 증가\nEN:\n[CriticalEnemyTargetKillFail] Inflict +2 [Burst] Count"
   },
   {
     "key": "40000102-levelList[0].coinlist[3].coindescs[2].desc",
-    "original": "[CriticalEnemyTargetKill] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalEnemyTargetKill] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalEnemyTargetKill] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalEnemyTargetKill] 次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalEnemyTargetKill] 다음 턴에 [AttackUp] 3 얻음\nEN:\n[CriticalEnemyTargetKill] Gain 3 [AttackUp] next turn"
   },
   {
     "key": "40000103-levelList[0].name",
-    "original": "赤春\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "赤春\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "赤春\n<CMT_KR>\n<CMT_JP>",
+    "translation": "赤春\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적춘\nEN:\nCrimson Spring"
   },
   {
     "key": "40000103-levelList[0].desc",
-    "original": "[BeforeAttack] 対象のマイナス効果4につき攻撃加重値 +1(最大2)\n[WhenUse] 対象のマイナス効果が5以上なら基本威力 +5\n[WhenUse] 対象の([Burst] + [Burst]回数)の合計が15以上なら、コイン威力 +5\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[BeforeAttack] 対象のマイナス効果4につき攻撃加重値 +1(最大2)\n[WhenUse] 対象のマイナス効果が5以上なら基本威力 +5\n[WhenUse] 対象の([Burst] + [Burst]回数)の合計が15以上なら、コイン威力 +5\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[BeforeAttack] 対象のマイナス効果4につき攻撃加重値 +1(最大2)\n[WhenUse] 対象のマイナス効果が5以上なら基本威力 +5\n[WhenUse] 対象の([Burst] + [Burst]回数)の合計が15以上なら、コイン威力 +5\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 対象のマイナス効果4につき攻撃加重値 +1(最大2)\n[WhenUse] 対象のマイナス効果が5以上なら基本威力 +5\n[WhenUse] 対象の([Burst] + [Burst]回数)の合計が15以上なら、コイン威力 +5\n[WinDuel] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[BeforeAttack] 대상의 부정적인 효과 4개당 공격 가중치 +1 (최대 2)\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 기본 위력 +5\n[WhenUse] 대상의 ([Burst] + [Burst] 횟수)의 합이 15 이상이면, 코인 위력 +5\n[WinDuel] [Burst] 횟수 2 증가\nEN:\n[StartBattle] Gain +1 Atk Weight for every 4 negative effect on target (max 2)\n[WhenUse] If target has 5+ negative effects, Base Power +5\n[WhenUse] If the sum of the target's [Burst] and [Burst] Count is at 15+, Coin Power +5\n[WinDuel] Inflict +2 [Burst] Count"
   },
   {
     "key": "40000103-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 出血 7を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 出血 7を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 出血 7を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 7を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 출혈 7 부여\nEN:\n[OnSucceedAttack] Inflict 7 Bleed"
   },
   {
     "key": "40000103-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[CriticalOnSucceedAttack] ダメージ量 +200%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalOnSucceedAttack] ダメージ量 +200%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalOnSucceedAttack] ダメージ量 +200%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] ダメージ量 +200%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalOnSucceedAttack] 피해량 +200%\nEN:\n[CriticalOnSucceedAttack] Deal +200% damage"
   },
   {
     "key": "40000103-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[CriticalOnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalOnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalOnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] 出血 回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalOnSucceedAttack] 출혈 횟수 3 증가\nEN:\n[CriticalOnSucceedAttack] Inflict +3 Bleed Count"
   },
   {
     "key": "40000103-levelList[0].coinlist[0].coindescs[3].desc",
-    "original": "[CriticalOnSucceedAttack] [Breath]2を得る、[Breath]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalOnSucceedAttack] [Breath]2を得る、[Breath]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalOnSucceedAttack] [Breath]2を得る、[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Breath]2を得る、[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalOnSucceedAttack] [Breath] 2 얻음. [Breath] 횟수 1 증가\nEN:\n[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count"
   },
   {
     "key": "40000104-levelList[0].name",
-    "original": "秀回\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "秀回\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "秀回\n<CMT_KR>\n<CMT_JP>",
+    "translation": "秀回\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수회\nEN:\nAdept Evasion"
   },
   {
     "key": "40000104-levelList[0].desc",
-    "original": "[OnSucceedEvade] 次のターンに[Breath]1を得る(1ターンにつき最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedEvade] 次のターンに[Breath]1を得る(1ターンにつき最大3回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedEvade] 次のターンに[Breath]1を得る(1ターンにつき最大3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] 次のターンに[Breath]1を得る(1ターンにつき最大3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedEvade] 다음 턴에 [Breath] 1 얻음. (턴 당 최대 3번)\nEN:\n[OnSucceedEvade] Gain 1 [Breath] next turn. (3 times per turn)"
   }

@@ -1,365 +1,365 @@
 [
   {
     "key": "9732-name",
-    "original": "一般席割引バウチャー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "一般席割引バウチャー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "一般席割引バウチャー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "一般席割引バウチャー\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n일반석 할인 바우처\nEN:\nEconomy Class Discount Voucher"
   },
   {
     "key": "9732-desc",
-    "original": "ターン終了時、速度が5以下の最も遅い人格が次のターンにて[Agility]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、速度が5以下の最も遅い人格が次のターンにて[Agility]1を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、速度が5以下の最も遅い人格が次のターンにて[Agility]1を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、速度が5以下の最も遅い人格が次のターンにて[Agility]1を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 속도가 5 이하인 가장 느린 인격이 다음 턴에 [Agility] 1 얻음.\nEN:\nTurn End: among Identities with 5- Speed, the one with the slowest Speed gains 1 [Agility] next turn."
   },
   {
     "key": "9732-simpleDesc[0].simpleDesc",
-    "original": "次のターンにクイック +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターンにクイック +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターンにクイック +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターンにクイック +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴에 신속 +1\nEN:\nGain 1 Haste next turn"
   },
   {
     "key": "9733-name",
-    "original": "アイスクリームの缶詰め\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "アイスクリームの缶詰め\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "アイスクリームの缶詰め\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アイスクリームの缶詰め\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아이스크림 통조림\nEN:\nCanned Ice Cream"
   },
   {
     "key": "9733-desc",
-    "original": "味方が自分の攻撃スキル効果で体力を失ったなら、次のターン開始時にそのスキル効果で失った体力数値の半分だけ回復(小数点切り捨て)\n\n味方がE.G.Oスキル効果で体力を回復するとき、体力回復効果が12.5%だけ増加(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "味方が自分の攻撃スキル効果で体力を失ったなら、次のターン開始時にそのスキル効果で失った体力数値の半分だけ回復(小数点切り捨て)\n\n味方がE.G.Oスキル効果で体力を回復するとき、体力回復効果が12.5%だけ増加(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "味方が自分の攻撃スキル効果で体力を失ったなら、次のターン開始時にそのスキル効果で失った体力数値の半分だけ回復(小数点切り捨て)\n\n味方がE.G.Oスキル効果で体力を回復するとき、体力回復効果が12.5%だけ増加(小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が自分の攻撃スキル効果で体力を失ったなら、次のターン開始時にそのスキル効果で失った体力数値の半分だけ回復(小数点切り捨て)\n\n味方がE.G.Oスキル効果で体力を回復するとき、体力回復効果が12.5%だけ増加(小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아군이 자신의 공격 스킬 효과로 체력을 잃었다면, 다음 턴 시작 시 해당 스킬 효과로 잃은 체력 수치의 절반만큼 회복 (버림하여 처리).\n\n아군이 E.G.O 스킬 효과로 체력을 회복할 때, 체력 회복 효과가 12.5%만큼 증가 (버림하여 처리).\nEN:\nWhen an ally loses HP due to their own Attack Skill effect, heal half of the HP lost due to the Skill effect at the next Turn Start. (rounded down)\n\nWhen an ally heals HP due to an E.G.O Skill effect, heal +12.5% more HP. (rounded down)"
   },
   {
     "key": "9733-simpleDesc[0].simpleDesc",
-    "original": "次のターン開始時、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターン開始時、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターン開始時、体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターン開始時、体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴 시작 시, 체력 회복\nEN:\nHeal HP at the next Turn Start"
   },
   {
     "key": "9733-simpleDesc[1].simpleDesc",
-    "original": "E.G.O体力回復効果増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.O体力回復効果増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.O体力回復効果増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O体力回復効果増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 체력 회복 효과 증가\nEN:\nEnhance E.G.O HP Heal effects"
   },
   {
     "key": "9734-name",
-    "original": "E式次元短剣\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E式次元短剣\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E式次元短剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E式次元短剣\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE식 차원 단검\nEN:\nE-Type Dimensional Dagger"
   },
   {
     "key": "9734-desc",
-    "original": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +1, ダメージ量 +5%\n\n該当スキルが単一コインの場合は効果が強化され、マッチ威力 +1, ダメージ量 +12.5%\n\nW社所属人格が嫉妬属性スキル(E.G.Oスキルを含む)で敵へダメージを与えたなら、体力回復減少 2を付与(重ねがけ不可)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +1, ダメージ量 +5%\n\n該当スキルが単一コインの場合は効果が強化され、マッチ威力 +1, ダメージ量 +12.5%\n\nW社所属人格が嫉妬属性スキル(E.G.Oスキルを含む)で敵へダメージを与えたなら、体力回復減少 2を付与(重ねがけ不可)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +1, ダメージ量 +5%\n\n該当スキルが単一コインの場合は効果が強化され、マッチ威力 +1, ダメージ量 +12.5%\n\nW社所属人格が嫉妬属性スキル(E.G.Oスキルを含む)で敵へダメージを与えたなら、体力回復減少 2を付与(重ねがけ不可)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +1, ダメージ量 +5%\n\n該当スキルが単一コインの場合は効果が強化され、マッチ威力 +1, ダメージ量 +12.5%\n\nW社所属人格が嫉妬属性スキル(E.G.Oスキルを含む)で敵へダメージを与えたなら、体力回復減少 2を付与(重ねがけ不可)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Charge] 횟수 또는 특수 충전을 증가시키는 스킬 1의 합 위력 +1, 피해량 +5%.\n\n해당 스킬이 단일 코인인 경우에는 효과가 강화되어, 합 위력 +1, 피해량 +12.5%.\n\nW사 소속 인격이 질투 속성 스킬(E.G.O 스킬 포함)로 적에게 피해를 입혔다면, 체력 회복 감소 2 부여 (중첩 불가).\nEN:\nSkill 1s that gain [Charge] Count or 'Unique Charge' gain Clash Power +1 and deal +5% damage.\n\nIf that Skill 1 was a Single-coin Skill, gain Clash Power +1 and deal +12.5% damage instead.\n\nIf a W Corp. Identity dealt damage to an enemy with an Envy Skill(including E.G.O Skills), inflict 2 HP Healing Down. (does not stack)"
   },
   {
     "key": "9734-simpleDesc[0].simpleDesc",
-    "original": "スキル1のマッチ威力, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル1のマッチ威力, ダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル1のマッチ威力, ダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル1のマッチ威力, ダメージ量増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 1 합 위력, 피해량 증가\nEN:\nSkill 1 gains Clash Power and deals more damage"
   },
   {
     "key": "9734-simpleDesc[1].simpleDesc",
-    "original": "スキル1のマッチ威力とダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル1のマッチ威力とダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル1のマッチ威力とダメージ量が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル1のマッチ威力とダメージ量が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 1 합 위력과 피해량 증가\nEN:\nSkill 1 gains Clash Power and deals more damage"
   },
   {
     "key": "9734-simpleDesc[2].simpleDesc",
-    "original": "体力回復減少 2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力回復減少 2付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力回復減少 2付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力回復減少 2付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력 회복 감소 2 부여\nEN:\nInflict 2 HP Healing Down"
   },
   {
     "key": "9735-name",
-    "original": "携帯用力場バッテリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "携帯用力場バッテリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "携帯用力場バッテリー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "携帯用力場バッテリー\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n휴대용 역장 배터리\nEN:\nPortable Barrier Battery"
   },
   {
     "key": "9735-desc",
-    "original": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +2\n\n該当スキルを使用するとき、[Charge]回数2, [ChargeForceField]1を得る(1ターンにつき1回)\n\nW社所属人格が戦闘中、スキルの直接的なダメージ以外の効果によりダメージを受けたなら、[ChargeForceField]5を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +2\n\n該当スキルを使用するとき、[Charge]回数2, [ChargeForceField]1を得る(1ターンにつき1回)\n\nW社所属人格が戦闘中、スキルの直接的なダメージ以外の効果によりダメージを受けたなら、[ChargeForceField]5を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +2\n\n該当スキルを使用するとき、[Charge]回数2, [ChargeForceField]1を得る(1ターンにつき1回)\n\nW社所属人格が戦闘中、スキルの直接的なダメージ以外の効果によりダメージを受けたなら、[ChargeForceField]5を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Charge]回数または特殊充電を増加させるスキル1のマッチ威力 +2\n\n該当スキルを使用するとき、[Charge]回数2, [ChargeForceField]1を得る(1ターンにつき1回)\n\nW社所属人格が戦闘中、スキルの直接的なダメージ以外の効果によりダメージを受けたなら、[ChargeForceField]5を得る(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Charge] 횟수 또는 특수 충전을 증가시키는 스킬 1의 합 위력 +2.\n\n해당 스킬 사용 시, [Charge] 횟수 2, [ChargeForceField] 1 얻음 (턴 당 1회).\n\nW사 소속 인격이 전투 중 스킬의 직접적인 피해를 제외한 효과에 의해 체력 피해를 입었다면, [ChargeForceField] 5 얻음 (턴 당 1회).\nEN:\nSkill 1s that gain [Charge] Count or 'Unique Charge' gain Clash Power +2.\n\nWhen using a Skill 1 that gains [Charge] Count, gain +2 [Charge] Count and 1 [ChargeForceField]. (once per turn)\n\nIf a W Corp. Identity takes HP damage due to any effect other than a direct damage, gain 5 [ChargeForceField]. (once per turn)"
   },
   {
     "key": "9735-simpleDesc[0].simpleDesc",
-    "original": "スキル1のマッチ威力と充電 回数増加、充電力場 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "スキル1のマッチ威力と充電 回数増加、充電力場 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "スキル1のマッチ威力と充電 回数増加、充電力場 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル1のマッチ威力と充電 回数増加、充電力場 を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스킬 1 합 위력과 충전 횟수 증가, 충전 역장 얻음\nEN:\nSkill 1 gains Clash Power, Charge Count, and Charge Barrier"
   },
   {
     "key": "9735-simpleDesc[1].simpleDesc",
-    "original": "充電力場 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "充電力場 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "充電力場 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "充電力場 を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n충전 역장 얻음\nEN:\nGain Charge Barrier"
   },
   {
     "key": "9736-name",
-    "original": "生体発電型バッテリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "生体発電型バッテリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "生体発電型バッテリー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "生体発電型バッテリー\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n생체 발전형 배터리\nEN:\nBiogenerative Battery"
   },
   {
     "key": "9736-desc",
-    "original": "[Charge]回数または特殊充電を保有する味方がマッチを進行した回数だけ攻撃レベルが増加(最大6, 攻撃終了時に初期化)\n\nターン終了時に[Charge]回数と特殊充電の合計が10以上の人格が次のターンに[Agility]1を得る。[Charge]回数と特殊充電の合計が18以上なら、[AttackUp]3を追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Charge]回数または特殊充電を保有する味方がマッチを進行した回数だけ攻撃レベルが増加(最大6, 攻撃終了時に初期化)\n\nターン終了時に[Charge]回数と特殊充電の合計が10以上の人格が次のターンに[Agility]1を得る。[Charge]回数と特殊充電の合計が18以上なら、[AttackUp]3を追加で得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Charge]回数または特殊充電を保有する味方がマッチを進行した回数だけ攻撃レベルが増加(最大6, 攻撃終了時に初期化)\n\nターン終了時に[Charge]回数と特殊充電の合計が10以上の人格が次のターンに[Agility]1を得る。[Charge]回数と特殊充電の合計が18以上なら、[AttackUp]3を追加で得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Charge]回数または特殊充電を保有する味方がマッチを進行した回数だけ攻撃レベルが増加(最大6, 攻撃終了時に初期化)\n\nターン終了時に[Charge]回数と特殊充電の合計が10以上の人格が次のターンに[Agility]1を得る。[Charge]回数と特殊充電の合計が18以上なら、[AttackUp]3を追加で得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Charge] 횟수 또는 특수 충전을 보유한 아군이 합을 진행한 횟수만큼 공격 레벨이 증가 (최대 6, 공격 종료 시 초기화).\n\n턴 종료 시 [Charge] 횟수와 특수 충전의 합이 10 이상인 인격이 다음 턴에 [Agility] 1 얻음. [Charge] 횟수와 특수 충전의 합이 18 이상이면, [AttackUp] 3을 추가로 얻음.\nEN:\nAllies with [Charge] Count or 'Unique Charge' gain 1 Offense Level with every Clash. (max 6. Resets After Attack)\n\nTurn End: Identities with 10+ ([Charge] Count + 'Unique Charge') gain 1 [Agility] next turn. At 18+ ([Charge] Count + 'Unique Charge'), gain 3 [AttackUp] as well."
   },
   {
     "key": "9736-simpleDesc[0].simpleDesc",
-    "original": "攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃レベル増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃レベル増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃レベル増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격 레벨 증가\nEN:\nGain Offense Level"
   },
   {
     "key": "9736-simpleDesc[1].simpleDesc",
-    "original": "クイック を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クイック を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クイック を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クイック を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n신속 얻음\nEN:\nGain Haste"
   },
   {
     "key": "9736-simpleDesc[2].simpleDesc",
-    "original": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격 레벨 증가 얻음\nEN:\nGain Offense Level Up"
   },
   {
     "key": "9737-name",
-    "original": "心臓リアクトモジュール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "心臓リアクトモジュール\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "心臓リアクトモジュール\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心臓リアクトモジュール\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n심장 리액트 모듈\nEN:\nCardiovascular Reactive Module"
   },
   {
     "key": "9737-desc",
-    "original": "[Charge]回数または特殊充電を保有した味方が敗北したとき、[Charge]回数と特殊充電の合計だけバリアを得る(1ターンにつき1回)\n\n体力が半分以下なら効果が強化され、(充電 回数と特殊充電の合計 × 2)だけバリアを得る(1ターンにつき1回)\n\nマルチクラック事務所所属の人格がこの戦闘中にダメージを受けたなら、次のターンにて、前のターンで失った体力の33%だけ回復(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Charge]回数または特殊充電を保有した味方が敗北したとき、[Charge]回数と特殊充電の合計だけバリアを得る(1ターンにつき1回)\n\n体力が半分以下なら効果が強化され、(充電 回数と特殊充電の合計 × 2)だけバリアを得る(1ターンにつき1回)\n\nマルチクラック事務所所属の人格がこの戦闘中にダメージを受けたなら、次のターンにて、前のターンで失った体力の33%だけ回復(小数点切り捨て)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Charge]回数または特殊充電を保有した味方が敗北したとき、[Charge]回数と特殊充電の合計だけバリアを得る(1ターンにつき1回)\n\n体力が半分以下なら効果が強化され、(充電 回数と特殊充電の合計 × 2)だけバリアを得る(1ターンにつき1回)\n\nマルチクラック事務所所属の人格がこの戦闘中にダメージを受けたなら、次のターンにて、前のターンで失った体力の33%だけ回復(小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Charge]回数または特殊充電を保有した味方が敗北したとき、[Charge]回数と特殊充電の合計だけバリアを得る(1ターンにつき1回)\n\n体力が半分以下なら効果が強化され、(充電 回数と特殊充電の合計 × 2)だけバリアを得る(1ターンにつき1回)\n\nマルチクラック事務所所属の人格がこの戦闘中にダメージを受けたなら、次のターンにて、前のターンで失った体力の33%だけ回復(小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Charge] 횟수 또는 특수 충전을 보유한 아군이 합 패배 시, [Charge] 횟수와 특수 충전의 합만큼 보호막을 얻음 (턴 당 1회).\n\n체력이 절반 이하인 경우 효과가 강화되어, (충전 횟수와 특수 충전의 합 x 2)만큼 보호막을 얻음 (턴 당 1회)\n\n멀티크랙 사무소 소속 인격이 이번 전투 동안 체력 피해를 입었다면, 다음 턴에 이전 턴 동안 잃은 체력의 33%만큼 회복 (버림하여 처리)\nEN:\nWhen an ally with [Charge] Count or 'Unique Charge' loses a Clash, gain Shield equal to ([Charge] Count + 'Unique Charge'). (once per turn)\n\nWhen at 50%- HP, gain (([Charge] Count + 'Unique Charge') x 2) Shield instead. (once per turn)\n\nIf a MultiCrack Office Identity received HP damage during this Encounter: next turn, they heal 33% of the HP lost last turn. (rounded down)"
   },
   {
     "key": "9737-simpleDesc[0].simpleDesc",
-    "original": "バリアを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "バリアを得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "バリアを得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "バリアを得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보호막 얻음\nEN:\nGain Shield"
   },
   {
     "key": "9737-simpleDesc[1].simpleDesc",
-    "original": "前のターンの間に失った体力に比例して回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "前のターンの間に失った体力に比例して回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "前のターンの間に失った体力に比例して回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "前のターンの間に失った体力に比例して回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이전 턴 동안 잃은 체력 비례로 회복\nEN:\nHeal HP based on HP lost last turn"
   },
   {
     "key": "9738-name",
-    "original": "義体関節サーボモーター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "義体関節サーボモーター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "義体関節サーボモーター\n<CMT_KR>\n<CMT_JP>",
+    "translation": "義体関節サーボモーター\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n의체관절 서보모터\nEN:\nProsthetic Joint Servos"
   },
   {
     "key": "9738-desc",
-    "original": "味方が[Charge]回数または特殊充電を獲得する基本攻撃スキルを使用した回数だけ、次のターンに[Agility]と[Charge]回数を得る(最大2)\n\nマルチクラック事務所所属の人格が基本攻撃スキルで[Charge]回数を獲得するか消耗するたび、[Charge]回数を1追加で得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "味方が[Charge]回数または特殊充電を獲得する基本攻撃スキルを使用した回数だけ、次のターンに[Agility]と[Charge]回数を得る(最大2)\n\nマルチクラック事務所所属の人格が基本攻撃スキルで[Charge]回数を獲得するか消耗するたび、[Charge]回数を1追加で得る(最大2)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "味方が[Charge]回数または特殊充電を獲得する基本攻撃スキルを使用した回数だけ、次のターンに[Agility]と[Charge]回数を得る(最大2)\n\nマルチクラック事務所所属の人格が基本攻撃スキルで[Charge]回数を獲得するか消耗するたび、[Charge]回数を1追加で得る(最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が[Charge]回数または特殊充電を獲得する基本攻撃スキルを使用した回数だけ、次のターンに[Agility]と[Charge]回数を得る(最大2)\n\nマルチクラック事務所所属の人格が基本攻撃スキルで[Charge]回数を獲得するか消耗するたび、[Charge]回数を1追加で得る(最大2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아군이 [Charge] 횟수 또는 특수 충전을 획득하는 기본 공격 스킬을 사용한 횟수만큼 다음 턴에 [Agility]과 [Charge] 횟수를 얻음 (최대 2).\n\n멀티크랙 사무소 소속 인격이 기본 공격 스킬로 [Charge] 횟수를 획득하거나 소모할 때마다 [Charge] 횟수 1 추가로 얻음 (최대 2).\nEN:\nNext turn: allies gain [Agility] and [Charge] Count equal to the number of [Charge] Count or 'Unique Charge' gaining base Attack Skills they used this turn. (max 2)\n\nWhen a MultiCrack Office Identity gains or consumes [Charge] Count with a base Attack Skill, they gain +1 additional [Charge] Count. (max 2)"
   },
   {
     "key": "9738-simpleDesc[0].simpleDesc",
-    "original": "クイック と充電 回数を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クイック と充電 回数を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クイック と充電 回数を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クイック と充電 回数を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n신속과 충전 횟수 얻음\nEN:\nGain Haste and Charge Count"
   },
   {
     "key": "9738-simpleDesc[1].simpleDesc",
-    "original": "充電 回数を追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "充電 回数を追加で得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "充電 回数を追加で得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "充電 回数を追加で得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n충전 횟수 추가로 얻음\nEN:\nGain more Charge Count"
   },
   {
     "key": "9739-name",
-    "original": "結晶化した血液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "結晶化した血液\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "結晶化した血液\n<CMT_KR>\n<CMT_JP>",
+    "translation": "結晶化した血液\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n결정화된 혈액\nEN:\nCrystallized Blood"
   },
   {
     "key": "9739-desc",
-    "original": "ターン終了時に自分が[Laceration]状態なら、自分が保有する[Laceration]威力が半減して(減少した[Laceration]威力 × 自分が保有する[Laceration]回数)だけ体力を回復(小数点切り捨て、該当ギフト効果で1度に体力最大値の10%まで回復)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時に自分が[Laceration]状態なら、自分が保有する[Laceration]威力が半減して(減少した[Laceration]威力 × 自分が保有する[Laceration]回数)だけ体力を回復(小数点切り捨て、該当ギフト効果で1度に体力最大値の10%まで回復)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時に自分が[Laceration]状態なら、自分が保有する[Laceration]威力が半減して(減少した[Laceration]威力 × 自分が保有する[Laceration]回数)だけ体力を回復(小数点切り捨て、該当ギフト効果で1度に体力最大値の10%まで回復)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に自分が[Laceration]状態なら、自分が保有する[Laceration]威力が半減して(減少した[Laceration]威力 × 自分が保有する[Laceration]回数)だけ体力を回復(小数点切り捨て、該当ギフト効果で1度に体力最大値の10%まで回復)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 자신이 [Laceration] 상태일 경우, 자신이 보유한 [Laceration] 위력이 절반으로 감소하고 (감소한 [Laceration] 위력 x 자신이 보유한 [Laceration] 횟수)만큼 체력 회복 (버림으로 처리, 해당 기프트 효과로 한 번에 최대 체력의 10%까지 회복).\nEN:\nTurn End: If this unit has [Laceration], halve the [Laceration] Potency on self and heal ([Laceration] Potency reduced x [Laceration] Count on self) HP. (rounded down. Can heal up to 10% of max HP at once)"
   },
   {
     "key": "9739-simpleDesc[0].simpleDesc",
-    "original": "自分の出血 威力を半減、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自分の出血 威力を半減、体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自分の出血 威力を半減、体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の出血 威力を半減、体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 출혈 위력 절반으로 감소, 체력 회복\nEN:\nHalve Bleed Potency on self, heal HP"
   },
   {
     "key": "9740-name",
-    "original": "自律作動式関節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "自律作動式関節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "自律作動式関節\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自律作動式関節\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자율 작동식 관절\nEN:\nAutomated Joints"
   },
   {
     "key": "9740-desc",
-    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\nターン終了時に[Charge]回数または特殊充電を保有した味方が、この戦闘中に[Charge]回数と特殊充電を消耗する基本攻撃スキルを使用した回数だけ、次のターンにて[Agility]1(最大2), [AttackDmgUp]1(最大3)を得る。\n\nマルチクラック事務所所属の人格が保有する[Charge]が5以上なら、基本攻撃スキルのコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\nターン終了時に[Charge]回数または特殊充電を保有した味方が、この戦闘中に[Charge]回数と特殊充電を消耗する基本攻撃スキルを使用した回数だけ、次のターンにて[Agility]1(最大2), [AttackDmgUp]1(最大3)を得る。\n\nマルチクラック事務所所属の人格が保有する[Charge]が5以上なら、基本攻撃スキルのコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\nターン終了時に[Charge]回数または特殊充電を保有した味方が、この戦闘中に[Charge]回数と特殊充電を消耗する基本攻撃スキルを使用した回数だけ、次のターンにて[Agility]1(最大2), [AttackDmgUp]1(最大3)を得る。\n\nマルチクラック事務所所属の人格が保有する[Charge]が5以上なら、基本攻撃スキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\nターン終了時に[Charge]回数または特殊充電を保有した味方が、この戦闘中に[Charge]回数と特殊充電を消耗する基本攻撃スキルを使用した回数だけ、次のターンにて[Agility]1(最大2), [AttackDmgUp]1(最大3)を得る。\n\nマルチクラック事務所所属の人格が保有する[Charge]が5以上なら、基本攻撃スキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인격을 기준으로 함).\n\n[Charge] 횟수 또는 특수 충전을 소모하는 기본 공격 스킬의 코인 위력 +1, 피해량 +(해당 스킬로 소모한 [Charge] 횟수와 특수 충전의 합 x 4)% (최대 40%).\n\n턴 종료 시 [Charge] 횟수 또는 특수 충전을 보유한 아군이 이번 전투 동안 [Charge] 횟수와 특수 충전을 소모하는 기본 공격 스킬을 사용한 횟수만큼 다음 턴에 [Agility] 1 (최대 2), [AttackDmgUp] 1 (최대 3) 얻음.\n\n멀티크랙 사무소 소속 인격이 보유한 [Charge]이 5 이상이면, 기본 공격 스킬의 코인 위력 +1.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count or 'Unique Charge': gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% damage (max 40%)\n\nTurn End: allies with [Charge] Count or 'Unique Charge' gain 1 [Agility] (max 2) and 1 [AttackDmgUp] (max 3) for every instance they used a base Attack Skill that consumes [Charge] Count or 'Unique Charge' in this Encounter.\n\nIf a MultiCrack Office Identity has 5+ [Charge], they gain Coin Power +1 to base Attack Skills."
   },
   {
     "key": "9740-simpleDesc[0].simpleDesc",
-    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n코인 위력과 피해량 증가\nEN:\nGain Coin Power and deal more damage"
   },
   {
     "key": "9740-simpleDesc[1].simpleDesc",
-    "original": "次のターンにクイック とダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次のターンにクイック とダメージ量増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次のターンにクイック とダメージ量増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次のターンにクイック とダメージ量増加 を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 턴에 신속과 피해량 증가 얻음\nEN:\nGain Haste and Damage Up next turn"
   },
   {
     "key": "9740-simpleDesc[2].simpleDesc",
-    "original": "コイン威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コイン威力増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コイン威力増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コイン威力増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n코인 위력 증가\nEN:\nGain Coin Power"
   },
   {
     "key": "9741-name",
-    "original": "過充電されたバッテリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "過充電されたバッテリー\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "過充電されたバッテリー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "過充電されたバッテリー\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n과충전된 배터리\nEN:\nOvercharged Battery"
   },
   {
     "key": "9741-desc",
-    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +2. マッチ勝利時に[Charge]回数が3増加し、マッチ敗北時に[Charge]回数が6減少。\n\n嫉妬属性基本攻撃スキルでマッチ勝利後時、[VioletTakeDamageUp]1を付与(最大3回まで重畳)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +2. マッチ勝利時に[Charge]回数が3増加し、マッチ敗北時に[Charge]回数が6減少。\n\n嫉妬属性基本攻撃スキルでマッチ勝利後時、[VioletTakeDamageUp]1を付与(最大3回まで重畳)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +2. マッチ勝利時に[Charge]回数が3増加し、マッチ敗北時に[Charge]回数が6減少。\n\n嫉妬属性基本攻撃スキルでマッチ勝利後時、[VioletTakeDamageUp]1を付与(最大3回まで重畳)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +2. マッチ勝利時に[Charge]回数が3増加し、マッチ敗北時に[Charge]回数が6減少。\n\n嫉妬属性基本攻撃スキルでマッチ勝利後時、[VioletTakeDamageUp]1を付与(最大3回まで重畳)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인격을 기준으로 함).\n\n[Charge] 횟수 또는 특수 충전을 소모하는 기본 공격 스킬의 코인 위력 +1, 피해량 +(해당 스킬로 소모한 [Charge] 횟수와 특수 충전의 합 x 4)% (최대 40%).\n\n[Charge] 횟수 또는 특수 충전을 보유한 아군이 기본 공격 스킬로 합 진행 시 합 위력 +2, 합 승리 시 [Charge] 횟수가 3 증가하고 합 패배 시 [Charge] 횟수 6 감소.\n\n질투 속성 기본 공격 스킬로 합 승리 시, [VioletTakeDamageUp] 1 부여 (최대 3회까지 중첩).\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count or 'Unique Charge': gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% damage (max 40%)\n\nWhen allies with [Charge] Count or 'Unique Charge' engage in Clashes with base Attack Skills: Clash Power +2; gain +3 [Charge] Count upon Clash Win, and lose 6 [Charge] Count upon Clash Lose.\n\nWhen winning a Clash with an Envy Affinity base Attack Skill, inflict 1 [VioletTakeDamageUp]. (stacks 3 times)"
   },
   {
     "key": "9741-simpleDesc[0].simpleDesc",
-    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n코인 위력과 피해량 증가\nEN:\nGain Coin Power and deal more damage"
   },
   {
     "key": "9741-simpleDesc[1].simpleDesc",
-    "original": "マッチ威力増加。マッチ勝利時に充電 回数増加、マッチ敗北時に充電 回数減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力増加。マッチ勝利時に充電 回数増加、マッチ敗北時に充電 回数減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力増加。マッチ勝利時に充電 回数増加、マッチ敗北時に充電 回数減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力増加。マッチ勝利時に充電 回数増加、マッチ敗北時に充電 回数減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력 증가, 합 승리 시 충전 횟수 증가, 합 패배 시 충전 횟수 감소\nEN:\nGain Clash Power; gain Charge Count upon Clash Win, lose Charge Count upon Clash Lose"
   },
   {
     "key": "9741-simpleDesc[2].simpleDesc",
-    "original": "嫉妬脆弱 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "嫉妬脆弱 を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "嫉妬脆弱 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "嫉妬脆弱 を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n질투 취약 부여\nEN:\nInflict Envy Fragility"
   },
   {
     "key": "9742-name",
-    "original": "永久動力サーボモーター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "永久動力サーボモーター\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "永久動力サーボモーター\n<CMT_KR>\n<CMT_JP>",
+    "translation": "永久動力サーボモーター\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n영구동력 서보모터\nEN:\nPerpetual Generator Servos"
   },
   {
     "key": "9742-desc",
-    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +1. ターン開始時、この戦闘の間、該当マッチで勝利した回数だけ[AttackUp]2を得る(最大6)。\n\n戦闘中、死に至るダメージを受けたときは保有した[Charge]回数と特殊充電を全て消耗し、体力を最大値の(10 + 消耗した充電 回数と特殊充電の合計)%だけ即時回復(戦闘につき1回)。死亡するまで[Protection]3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +1. ターン開始時、この戦闘の間、該当マッチで勝利した回数だけ[AttackUp]2を得る(最大6)。\n\n戦闘中、死に至るダメージを受けたときは保有した[Charge]回数と特殊充電を全て消耗し、体力を最大値の(10 + 消耗した充電 回数と特殊充電の合計)%だけ即時回復(戦闘につき1回)。死亡するまで[Protection]3を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +1. ターン開始時、この戦闘の間、該当マッチで勝利した回数だけ[AttackUp]2を得る(最大6)。\n\n戦闘中、死に至るダメージを受けたときは保有した[Charge]回数と特殊充電を全て消耗し、体力を最大値の(10 + 消耗した充電 回数と特殊充電の合計)%だけ即時回復(戦闘につき1回)。死亡するまで[Protection]3を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n[Charge]回数または特殊充電を保有した味方が基本攻撃スキルでマッチ進行時、マッチ威力 +1. ターン開始時、この戦闘の間、該当マッチで勝利した回数だけ[AttackUp]2を得る(最大6)。\n\n戦闘中、死に至るダメージを受けたときは保有した[Charge]回数と特殊充電を全て消耗し、体力を最大値の(10 + 消耗した充電 回数と特殊充電の合計)%だけ即時回復(戦闘につき1回)。死亡するまで[Protection]3を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인격을 기준으로 함).\n\n[Charge] 횟수 또는 특수 충전을 소모하는 기본 공격 스킬의 코인 위력 +1, 피해량 +(해당 스킬로 소모한 [Charge] 횟수와 특수 충전의 합 x 4)% (최대 40%).\n\n[Charge] 횟수 또는 특수 충전을 보유한 아군이 기본 공격 스킬로 합 진행 시 합 위력 +1, 턴 시작 시 이번 전투 동안 해당 합에서 승리한 횟수만큼 [AttackUp] 2 얻음 (최대 6).\n\n전투 중 사망에 이르는 피해를 받을 때, 보유한 [Charge] 횟수와 특수 충전을 전부 소모하고 최대 체력의 (10 + 소모한 충전 횟수와 특수 충전의 합)%만큼 즉시 회복 (전투당 1회), 사망 전까지 [Protection] 3 얻음.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count or 'Unique Charge': gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% damage (max 40%)\n\nWhen allies with [Charge] Count or 'Unique Charge' engage in a Clash with base Attack Skills: Clash Power +1; gain 2 [AttackUp] at Turn Start for every instance of Clash Win in that Clash during this Encounter. (max 6)\n\nIn this Encounter, when an ally takes damage that would kill them, consume all [Charge] Count and 'Unique Charge' on self; then, immediately heal (10 + sum of [Charge] Count and 'Unique Charge' consumed)% HP (once per Encounter); then, gain 3 [Protection] until the ally is defeated."
   },
   {
     "key": "9742-simpleDesc[0].simpleDesc",
-    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n코인 위력과 피해량 증가\nEN:\nGain Coin Power and deal more damage"
   },
   {
     "key": "9742-simpleDesc[1].simpleDesc",
-    "original": "マッチ威力増加 、攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ威力増加 、攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ威力増加 、攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ威力増加 、攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 위력 증가, 공격 레벨 증가 얻음\nEN:\nGain Clash Power and Offense Level Up"
   },
   {
     "key": "9742-simpleDesc[2].simpleDesc",
-    "original": "死亡直前に充電 回数を消耗して即時回復、保護 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死亡直前に充電 回数を消耗して即時回復、保護 を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死亡直前に充電 回数を消耗して即時回復、保護 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死亡直前に充電 回数を消耗して即時回復、保護 を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사망 직전에 충전 횟수를 소모하여 즉시 회복, 보호 얻음\nEN:\nImmediately before death, consume Charge Count to instantly heal and gain Protection"
   },
   {
     "key": "9743-name",
-    "original": "ハーツ・パワード・ジュエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ハーツ・パワード・ジュエル\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ハーツ・パワード・ジュエル\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハーツ・パワード・ジュエル\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n하츠 파워드 쥬얼\nEN:\nHearts-powered Jewel"
   },
   {
     "key": "9743-desc",
-    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n保有している[Charge]回数と特殊充電の合計が15以上の状態で[Charge]回数を消耗するスキル3を使用するとき、攻撃終了時に[Charge]回数または特殊充電が残っていれば、これを全部消耗してよダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\n\n[Charge]回数の最大値+5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n保有している[Charge]回数と特殊充電の合計が15以上の状態で[Charge]回数を消耗するスキル3を使用するとき、攻撃終了時に[Charge]回数または特殊充電が残っていれば、これを全部消耗して与ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\n\n[Charge]回数の最大値+5\n<CMT_KR>오식: \"これを全部消耗して「よ」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\" 정확: \"これを全部消耗して「与」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ\"\n<CMT_EN>Typo: \"これを全部消耗して「よ」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\" Correction: \"これを全部消耗して「与」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ\"\n<CMT_JP>誤植: \"これを全部消耗して「よ」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\" 訂正後: \"これを全部消耗して「与」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ\"",
+    "original": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n保有している[Charge]回数と特殊充電の合計が15以上の状態で[Charge]回数を消耗するスキル3を使用するとき、攻撃終了時に[Charge]回数または特殊充電が残っていれば、これを全部消耗してよダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\n\n[Charge]回数の最大値+5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Charge]回数または特殊充電を消耗する基本攻撃スキルのコイン威力 +1, ダメージ量 +(該当スキルで消耗した[Charge]回数と特殊充電の合計 × 4)% (最大40%)\n\n保有している[Charge]回数と特殊充電の合計が15以上の状態で[Charge]回数を消耗するスキル3を使用するとき、攻撃終了時に[Charge]回数または特殊充電が残っていれば、これを全部消耗して与ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\n\n[Charge]回数の最大値+5\n<CMT_KR>오기: \"これを全部消耗して「よ」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\" 정확: \"これを全部消耗して「与」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ\"\n<CMT_JP>誤記: \"これを全部消耗して「よ」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ追加固定ダメージを与える(最大75%)。\" 訂正後: \"これを全部消耗して「与」ダメージの(消耗した[Charge]回数と特殊充電の合計 × 7.5)%だけ\"",
     "stage": 1,
     "context": "KR:\n스테이지 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인격을 기준으로 함).\n\n[Charge] 횟수 또는 특수 충전을 소모하는 기본 공격 스킬의 코인 위력 +1, 피해량 +(해당 스킬로 소모한 [Charge] 횟수와 특수 충전의 합 x 4)% (최대 40%)\n\n보유한 [Charge] 횟수와 특수 충전의 합이 15 이상인 상태에서 [Charge] 횟수 또는 특수 충전을 소모하는 스킬 3을 사용할 경우, 공격 종료 시에 [Charge] 횟수 또는 특수 충전이 남아있다면 이를 전부 소모하여 입힌 피해의 (소모한 [Charge] 횟수와 특수 충전의 합 x 7.5)%만큼 추가 고정 피해를 입힘 (최대 75%).\n\n[Charge] 횟수 최대치 +5.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nBase Attack Skills that consume [Charge] Count: gain Coin Power +1 and deal +(sum of [Charge] Count and 'Unique Charge' consumed by that Skill x 4)% damage (max 40%)\n\nWhen allies have 15+ ([Charge] Count + 'Unique Charge'): when they use a Skill 3 that consumes [Charge] Count or 'Unique Charge', and if there are remaining [Charge] Count or 'Unique Charge' After Attack, consume all remaining [Charge] Count and 'Unique Charge' to deal (sum of [Charge] Count and 'Unique Charge' consumed x 7.5)% fixed bonus damage. (max 75%)\n\nMax [Charge] Count +5."
   },
   {
     "key": "9743-simpleDesc[0].simpleDesc",
-    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コイン威力とダメージ量増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n코인 위력과 피해량 증가\nEN:\nGain Coin Power and deal more damage"
   },
   {
     "key": "9743-simpleDesc[1].simpleDesc",
-    "original": "充電 回数を追加で消耗して追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "充電 回数を追加で消耗して追加ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "充電 回数を追加で消耗して追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "充電 回数を追加で消耗して追加ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n충전 횟수를 추가로 소모하여 추가 피해\nEN:\nSpend additional Charge Count to deal bonus damage"
   },
   {
     "key": "9743-simpleDesc[2].simpleDesc",
-    "original": "充電 回数最大値 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "充電 回数最大値 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "充電 回数最大値 +5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "充電 回数最大値 +5\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n충전 횟수 최대치 +5\nEN:\nMax Charge Count +5"
   }

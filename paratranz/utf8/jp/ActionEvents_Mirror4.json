@@ -1,645 +1,645 @@
 [
   {
     "key": "971001-name",
-    "original": "チキン派\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "チキン派\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "チキン派\n<CMT_KR>\n<CMT_JP>",
+    "translation": "チキン派\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n치킨파\nEN:\nThe Chicken Strife"
   },
   {
     "key": "971001-desc",
-    "original": "道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n길을 막고 있는 자들이 눈에 띈다.\n책상에 마주 앉아 서로에게 고함을 치고 있다.\n\"이 풍부한 육즙을 봐! 줄줄 흘러내리면서 강조되는 살코기 결... 이게 참 치킨이지!\"\n\"틀렸다. 기름기 한톨 찾아볼 수 없는 담백한 이 맛. 이게 진짜 치킨이지.\"\n둘은 동시에 이쪽을 바라보며 말한다.\n\"거기 너! 둘 중 뭐가 더 맛있나!\"\nEN:\nSome folks are blocking the way.\nThey’re sitting on a deck, yelling at each other.\n“Look at this succulent piece! The rich juice running down the fibers of luscious meat… This is what chicken is about!”\n“Wrong. This piece has a clean taste, with not an ounce of grease tainting the tongue. This is the real deal.”\nThe two turn around at the same time to face you.\n“You there! Tell us which is better!”"
   },
   {
     "key": "971001-options[0].message",
-    "original": "全部同じチキンだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全部同じチキンだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全部同じチキンだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全部同じチキンだ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모두 같은 치킨이다.\nEN:\nChicken’s chicken, duh."
   },
   {
     "key": "971001-options[0].messageDesc",
-    "original": "選択時、火傷E.G.O GIFT・破裂E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、火傷E.G.O GIFT・破裂E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、火傷E.G.O GIFT・破裂E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、火傷E.G.O GIFT・破裂E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 화상 E.G.O GIFT · 파열 E.G.O GIFT 획득\nEN:\nSelect to gain a Burn E.G.O Gift and a Rupture E.G.O Gift"
   },
   {
     "key": "971001-options[0].result[0]",
-    "original": "「それは…そうだな。」\n「反論できない正論である。」\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\n「変なことで戦っていたな、うん。」\n「そうだな…チキンがいつも正しいというのが真理なのに。」\n彼らは熱い握手を交わし、真ん中のチキンをバケツごと私たちにくれた。\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「それは…そうだな。」\n「反論できない正論である。」\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\n「変なことで戦っていたな、うん。」\n「そうだな…チキンがいつも正しいというのが真理なのに。」\n彼らは熱い握手を交わし、真ん中のチキンをバケツごと私たちにくれた。\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「それは…そうだな。」\n「反論できない正論である。」\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\n「変なことで戦っていたな、うん。」\n「そうだな…チキンがいつも正しいというのが真理なのに。」\n彼らは熱い握手を交わし、真ん中のチキンをバケツごと私たちにくれた。\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「それは…そうだな。」\n「反論できない正論である。」\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\n「変なことで戦っていたな、うん。」\n「そうだな…チキンがいつも正しいというのが真理なのに。」\n彼らは熱い握手を交わし、真ん中のチキンをバケツごと私たちにくれた。\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"그건... 그렇지.\"\n\"반박할 수 없는 정론이로군.\"\n그들은 삿대질 하던 손을 내리고 흥분을 가라앉혔다.\n\"이상한걸로 싸우고 있었군, 그래.\"\n\"그래... 진리는 치킨이 언제나 옳다는 것인데.\"\n그들은 뜨거운 악수를 나누더니, 가운데 놓인 치킨을 버켓 째로 우리에게 주었다.\n\"현명한 자는 둘 다 먹을 자격이 있지. 받아주길 바란다.\"\nEN:\n“That’s… true.”\n“An irrefutable point.”\nThey lowered their hands and settled down.\n“What a strange thing we were fighting over.”\n“They’re right… The one truth is that the chicken is always right.”\nAfter a passionate handshake, the two gave you their bucket of chicken.\n“A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.”"
   },
   {
     "key": "971001-options[1].message",
-    "original": "肉汁の饗宴、もも肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "肉汁の饗宴、もも肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "肉汁の饗宴、もも肉だ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "肉汁の饗宴、もも肉だ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n육즙의 향연, 다리살이다.\nEN:\nGotta be the drumsticks, all rich and juicy."
   },
   {
     "key": "971001-options[1].messageDesc",
-    "original": "選択時、火傷E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、火傷E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、火傷E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、火傷E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 화상 E.G.O GIFT 획득\nEN:\nSelect to gain a Burn E.G.O Gift"
   },
   {
     "key": "971001-options[1].result[0]",
-    "original": "「ほれみろ！もも肉が美味しいって言ってるだろ！」\n「味が分からない者だな。」\n胸肉を握った者は呆れたように溜め息をついた。\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\n「これからも、もも肉をよろしく！」\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「ほれみろ！もも肉が美味しいって言ってるだろ！」\n「味が分からない者だな。」\n胸肉を握った者は呆れたように溜め息をついた。\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\n「これからも、もも肉をよろしく！」\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「ほれみろ！もも肉が美味しいって言ってるだろ！」\n「味が分からない者だな。」\n胸肉を握った者は呆れたように溜め息をついた。\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\n「これからも、もも肉をよろしく！」\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「ほれみろ！もも肉が美味しいって言ってるだろ！」\n「味が分からない者だな。」\n胸肉を握った者は呆れたように溜め息をついた。\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\n「これからも、もも肉をよろしく！」\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"거봐! 다리살이 맛있다잖아!\"\n\"맛을 알지 못하는 자로군.\"\n가슴살을 쥔 자는 어이가 없다는 듯 한숨을 푹 쉬었다.\n\"어이! 상이다. 네게도 다리를 하나 가질 자격이 있어.\"\n다리살을 쥔 자는 흡족하다는 듯 치킨이 담긴 버켓에서 다리살을 하나 꺼내 주었다.\n\"앞으로도 다리살을 잘 부탁한다고!\"\n뭘 부탁한다는 지는 모르겠지만, 꺼내 준 다리살을 받아들고 나왔다.\nEN:\n“You see! The drumsticks are better!”\n“You don’t know what good taste is.”\nThe person holding a chicken breast let out a baffled sigh.\n“Ey! Here’s your reward. You deserve a drumstick of your own.”\nSatisfied, the one with a drumstick handed you another from the bucket.\n“I’m counting on you to keep that leg up!”\nUnsure of what you’re being trusted with, you left the table with the drumstick."
   },
   {
     "key": "971001-options[2].message",
-    "original": "淡泊なその味、胸肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "淡泊なその味、胸肉だ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "淡泊なその味、胸肉だ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "淡泊なその味、胸肉だ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n담백한 그 맛, 가슴살이다.\nEN:\nThe breast, of course, unsullied and spotless."
   },
   {
     "key": "971001-options[2].messageDesc",
-    "original": "選択時、破裂E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、破裂E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、破裂E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、破裂E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 파열 E.G.O GIFT 획득\nEN:\nSelect to gain a Rupture E.G.O Gift"
   },
   {
     "key": "971001-options[2].result[0]",
-    "original": "「んなバカな！この肉汁の饗宴を手放すのか…？」\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\n胸肉を握った者は満足そうに呟いた。\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\n「増筋なされ、お元気で。」\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「んなバカな！この肉汁の饗宴を手放すのか…？」\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\n胸肉を握った者は満足そうに呟いた。\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\n「増筋なされ、お元気で。」\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「んなバカな！この肉汁の饗宴を手放すのか…？」\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\n胸肉を握った者は満足そうに呟いた。\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\n「増筋なされ、お元気で。」\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「んなバカな！この肉汁の饗宴を手放すのか…？」\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\n胸肉を握った者は満足そうに呟いた。\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\n「増筋なされ、お元気で。」\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"말도 안돼! 이 육즙의 향연을 포기한다고...?\"\n\"육즙이 아니라 지방이다. 건강하고 담백하며, 양도 많은데다 먹기도 편한 가슴살을 선택하는 것이 합리적인 선택이지.\"\n가슴살을 쥔 자는 흡족하다는 듯 그렇게 읊조렸다.\n\"자, 자네에게 상일세. 이 가슴살을 받게나.\"\n치킨이 담긴 버켓에서 커다란 가슴살이 하나 꺼내어졌다.\n\"득근하시게. 건강하시고.\"\n득근이 무슨 말인 지는 모르겠지만, 꺼내 준 가슴살을 받아들고 나왔다.\nEN:\n“There ain’t no way! You’d give up this banquet of juiciness…?”\n“It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat—it’s obviously the reasonable choice.”\nThe person holding a piece of chicken breast pleasantly remarked.\n“Here, a reward for you. Take this breast.”\nA sizable piece was brought out of the bucket.\n“Best of luck with your gains. I hope you stay healthy.”\nUnsure of what you’re supposed to gain, you left the table with the chicken breast."
   },
   {
     "key": "971003-name",
-    "original": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鶏の情熱的なタンゴ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n닭의 열정적인 탱고\nEN:\nTango of Poultry Passion"
   },
   {
     "key": "971003-desc",
-    "original": "にぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "にぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "にぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "にぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시끌벅적한 공간에 조명 하나가 그 곳을 강렬하게 비추고 있다.\n마치 닭들의 무도회... 가 열리고 있는 것 같다.\n\"저건 탱고로군요.\"\n춤인지 씨름인지 모를 무언가를 쳐다보고 있자니, 하나의 닭에게서 양념이 새어나오는 것이 보였다.\n정작 본계는 모르는 듯 한데...\nEN:\nA bright spotlight shines on a portion of the noisy area.\nIt seems as though the chickens are attending a… ball.\n“That’s the tango.”\nLooking at their movements which might be a dance or a tussle, you notice sauce leaking from one of them.\nIt doesn’t seem to be aware of this…"
   },
   {
     "key": "971003-options[0].message",
-    "original": "そのまま話す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "そのまま話す。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "そのまま話す。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "そのまま話す。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사실대로 이야기해준다.\nEN:\nAlert it truthfully."
   },
   {
     "key": "971003-options[0].messageDesc",
-    "original": "選択時、次の選択肢の選択によって出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、次の選択肢の選択によって出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、次の選択肢の選択によって出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、次の選択肢の選択によって出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 다음 선택지의 선택에 따라 출혈 E.G.O GIFT 획득\nEN:\nGain a Bleed E.G.O Gift depending on the result of the following choice"
   },
   {
     "key": "971003-options[0].result[0]",
-    "original": "「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\n「大声出すなよ、アホ…。」\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\n「キエ、キエエエッ…。」\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてたそれは、手(あるいは羽)に糸と針を握っていた。\n縫ってほしいという意味だろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\n「大声出すなよ、アホ…。」\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\n「キエ、キエエエッ…。」\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてきたそれは、手(あるいは羽)に糸と針を握っていた。\n縫ってほしいという意味だろうか？\n<CMT_KR>오식: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  정확: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"\n<CMT_EN>Typo: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  Correction: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"\n<CMT_JP>誤植: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  訂正後: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"",
+    "original": "「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\n「大声出すなよ、アホ…。」\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\n「キエ、キエエエッ…。」\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてたそれは、手(あるいは羽)に糸と針を握っていた。\n縫ってほしいという意味だろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\n「大声出すなよ、アホ…。」\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\n「キエ、キエエエッ…。」\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてきたそれは、手(あるいは羽)に糸と針を握っていた。\n縫ってほしいという意味だろうか？\n<CMT_KR>오기: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  정확: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"\n<CMT_JP>誤記: \"自分には到底できないということだろうか。タレをぽたぽた零しながら近づいて「」たそれは、手(あるいは羽)に糸と針を握っていた。\"  訂正後: \"タレをぽたぽた零しながら近づいて「き」たそれは、\"",
     "stage": 1,
     "context": "KR:\n\"그대!!!!! 양념이 새어나오고 있소!!!!!!\"\n\"크게 말하지 마, 바보야...\"\n지적받은 닭은 황급히 자신의 등(이라고 생각되는 곳)을 만지작 거렸다.\n서글프게도, 그것에게 촘촘하게 매어져야 할 실매듭이 헐거워진 상태였다.\n\"끼에, 끼이에엡...\"\n자신은 도저히 할 수 없다는 것일까. 양념을 뚝뚝 흘리며 다가온 그것은 손(혹은 날개)에 실과 바늘을 쥐고 있었다.\n꿰메어 달라는 뜻일까?\nEN:\n“Heed me!!!!! Sauce is leaking from thy body!!!!!!”\n“Don’t shout it that loud, you dummy…”\nNotified of its leakage, the chicken quickly ran its wings over its back—or what appeared to be its back, rather.\nSadly, the knot had loosened on its stitching.\n“Kieegh, kiiierg…”\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\nDoes it want you to stitch its back?"
   },
   {
     "key": "971003-options[1].message",
-    "original": "知らんぷりをする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "知らんぷりをする。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "知らんぷりをする。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "知らんぷりをする。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모른척 한다.\nEN:\nYou saw nothing."
   },
   {
     "key": "971003-options[1].messageDesc",
-    "original": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 범용 E.G.O GIFT 획득\nEN:\nSelect to gain a Keywordless E.G.O Gift"
   },
   {
     "key": "971003-options[1].result[0]",
-    "original": "「言うべきなりや？」\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\n「タレが全部抜けたらどうしよう。」\n「ただ味付けが薄い鶏になるんじゃないですかね。」\nやがて、タレが流れ出なくなった。\n「キエッ！」\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\n「驚きだ。」\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\nそれらは胴上げをしながら照明の外に消えた。\n残ったのは…こぼれたタレだけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「言うべきなりや？」\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\n「タレが全部抜けたらどうしよう。」\n「ただ味付けが薄い鶏になるんじゃないですかね。」\nやがて、タレが流れ出なくなった。\n「キエッ！」\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\n「驚きだ。」\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\nそれらは胴上げをしながら照明の外に消えた。\n残ったのは…こぼれたタレだけ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「言うべきなりや？」\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\n「タレが全部抜けたらどうしよう。」\n「ただ味付けが薄い鶏になるんじゃないですかね。」\nやがて、タレが流れ出なくなった。\n「キエッ！」\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\n「驚きだ。」\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\nそれらは胴上げをしながら照明の外に消えた。\n残ったのは…こぼれたタレだけ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「言うべきなりや？」\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\n「タレが全部抜けたらどうしよう。」\n「ただ味付けが薄い鶏になるんじゃないですかね。」\nやがて、タレが流れ出なくなった。\n「キエッ！」\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\n「驚きだ。」\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\nそれらは胴上げをしながら照明の外に消えた。\n残ったのは…こぼれたタレだけ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"말해줘야 하지 않겠는가?\"\n\"하지만 말이야~ 지금 꽤 행복해보이지 않아? 좀 더 지켜보는건 어때?\"\n\"양념이 다 빠지면 어떻게 하지.\"\n\"그냥 양념이 덜 배어든 닭이 되는 거 아닐까요.\"\n이윽고, 양념이 더 이상 흘러나오지 않게 되었다.\n\"끼엣!\"\n몸이 가벼워진 걸 눈치챈 것일까? 그것은 갑작스레 고난이도 동작을 선보였다.\n\"놀랍군.\"\n주변에서 춤을 추던 닭들 마저 넋을 놓고 그것을 바라보더니, 이내 기묘한 함성소리 같은 것을 내며 그것에게 다가갔다.\n그것들은 헹가래를 치면서 조명 밖으로 사라져갔다.\n남은 것은... 흐른 양념뿐.\nEN:\n“Should we not inform them?”\n“Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?”\n“What will become of it when it loses all its sauce?”\n“Maybe it’ll just become an underseasoned chicken.”\nIn time, the leakage ceased.\n“Kiehg!”\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\n“Astonishing.”\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\nThey walked out of the light, tossing the special one up and down as a celebration.\nAll that remained… was the spilled sauce."
   },
   {
     "key": "971003-options[2].message",
-    "original": "こっそりヒントを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "こっそりヒントを与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "こっそりヒントを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "こっそりヒントを与える。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n은근슬쩍 힌트를 준다.\nEN:\nGive a few subtle hints."
   },
   {
     "key": "971003-options[2].messageDesc",
-    "original": "選択時、50%の確率で汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、50%の確率で汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、50%の確率で汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、50%の確率で汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 50% 확률로 범용 E.G.O GIFT 획득.\nEN:\nSelect for a 50% chance to gain a Keywordless E.G.O Gift."
   },
   {
     "key": "971003-options[2].result[0]",
-    "original": "「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\n「…もうちょっとそれっぽい演技はできないんですかね。」\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\n「キエ、キエッ。」\n「ギエ。」\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\nその様子は手慣れており、隙が無かった。\n縫合が終わると，それらは照明の外へと姿を消していった。\n残ったのはそれらが使っていた糸と針だけだった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\n「…もうちょっとそれっぽい演技はできないんですかね。」\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\n「キエ、キエッ。」\n「ギエ。」\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\nその様子は手慣れており、隙が無かった。\n縫合が終わると、それらは照明の外へと姿を消していった。\n残ったのはそれらが使っていた糸と針だけだった。\n<CMT_KR>오식: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" 정확: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"\n<CMT_EN>Typo: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" Correction: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"\n<CMT_JP>誤植: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" 訂正後: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"",
+    "original": "「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\n「…もうちょっとそれっぽい演技はできないんですかね。」\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\n「キエ、キエッ。」\n「ギエ。」\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\nその様子は手慣れており、隙が無かった。\n縫合が終わると，それらは照明の外へと姿を消していった。\n残ったのはそれらが使っていた糸と針だけだった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\n「…もうちょっとそれっぽい演技はできないんですかね。」\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\n「キエ、キエッ。」\n「ギエ。」\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\nその様子は手慣れており、隙が無かった。\n縫合が終わると、それらは照明の外へと姿を消していった。\n残ったのはそれらが使っていた糸と針だけだった。\n<CMT_KR>오기: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" 정확: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"\n<CMT_JP>誤記: \"縫合が終わると「，」それらは照明の外へと姿を消していった。\" 訂正後: \"縫合が終わると「、」それらは照明の外へと姿を消していった。\"",
     "stage": 1,
     "context": "KR:\n\"으음~ 맛있는 향기가 나는데, 어~디~서 나는 것인지 모르겠네?!\"\n\"...좀 더 그럴 듯한 연기는 안되나 보네요.\"\n수감자의 외침 덕인지, 격렬하게 춤을 추던 닭들이 동시에 멈춰섰다.\n서로의 등을 살펴보던 닭들은, 곧이어 양념이 새어나오는 진원지를 찾았다.\n\"끼에, 끼엡.\"\n\"기에.\"\n그들은 당황하지 않고 실과 바늘로 그것의 등(이라고 생각되는 곳)을 봉합했다.\n그 모습은 능숙하며 빈틈이 없었다.\n봉합이 끝나자, 그들은 조명 밖으로 총총총 사라져 갔다.\n남은 것은 그들이 쓰던 실과 바늘 뿐이었다.\nEN:\n“Mm-mmm~ Boy, I smell something tasty! I sure wonder where this smell’s coooming frooom~?!”\n“…I suppose it would be foolish of me to expect more believable acting.”\nThe Sinner’s voice caused the chickens to stop their passionate dance at once.\nExamining each other’s backs, they soon found the source of the leakage.\n“Kieh, kierg.”\n“Giiegh.”\nWithout panicking, they brought some thread and a needle to sew up its back—or what appears to be its back.\nThey were unsullied in their expertise.\nOnce the stitching was done, they scuttled into the dark.\nAll that remained was the thread and needle they used."
   },
   {
     "key": "971012-name",
-    "original": "黒い帳簿選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "黒い帳簿選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "黒い帳簿選択肢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黒い帳簿選択肢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검은 장부 선택지\nEN:\nBlack Ledger Choice"
   },
   {
     "key": "971012-desc",
-    "original": "「ここは今から黒雲会が管轄する領域だ。」\n\n「通りたいんなら通行税払えよ！」\n\n何の武装もしていない住民たちに、黒雲会らしき者たちが道を塞いで脅している。\n\n「…一度口実を作って、こうやって私たちの区域まで来て荒らし回ってるのか。」\n\nエンドゥは歯を食いしばりつつ、怒りを隠そうとしなかった。\n\n彼らをどうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「ここは今から黒雲会が管轄する領域だ。」\n\n「通りたいんなら通行税払えよ！」\n\n何の武装もしていない住民たちに、黒雲会らしき者たちが道を塞いで脅している。\n\n「…一度口実を作って、こうやって私たちの区域まで来て荒らし回ってるのか。」\n\nエンドゥは歯を食いしばりつつ、怒りを隠そうとしなかった。\n\n彼らをどうするべきだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「ここは今から黒雲会が管轄する領域だ。」\n\n「通りたいんなら通行税払えよ！」\n\n何の武装もしていない住民たちに、黒雲会らしき者たちが道を塞いで脅している。\n\n「…一度口実を作って、こうやって私たちの区域まで来て荒らし回ってるのか。」\n\nエンドゥは歯を食いしばりつつ、怒りを隠そうとしなかった。\n\n彼らをどうするべきだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「ここは今から黒雲会が管轄する領域だ。」\n\n「通りたいんなら通行税払えよ！」\n\n何の武装もしていない住民たちに、黒雲会らしき者たちが道を塞いで脅している。\n\n「…一度口実を作って、こうやって私たちの区域まで来て荒らし回ってるのか。」\n\nエンドゥは歯を食いしばりつつ、怒りを隠そうとしなかった。\n\n彼らをどうするべきだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"여기는 이제부터 흑운회가 주관하는 영역이다.\"\n\n\"지나가고 싶으면 통행세를 내야할 거 아냐!\"\n\n아무런 무장도 하고 있지 않은 주민들에게, 흑운회로 보이는 자들이 길을 막고 겁박을 하고 있다.\n\n\"...빌미를 한 번 만들더니, 이렇게 우리 구역까지 와서 설치는군.\"\n\n앵두는 이를 아득거리며 분노를 숨기지 않는다.\n\n저들을 어떻게 하는 것이 좋을까?\nEN:\n\"It's us Kurokumo Clan's turf from here on out.\"\n\n\"Is it that hard for you to understand that you gotta pay the toll to use our road? Huh?\"\n\nPeople dressed in Kurokumo Clan garb stand in the way of unarmed civilians, threatening them.\n\n\"... I suppose that excuse was enough for them to tread on our territory as well.\"\n\nAeng-du does not hide her indignation. She is gritting her teeth.\n\nWhat should we do about them?"
   },
   {
     "key": "971012-options[0].message",
-    "original": "住民達を救う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "住民達を救う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "住民達を救う。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "住民達を救う。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주민들을 구한다.\nEN:\nSave the civilians."
   },
   {
     "key": "971012-options[0].messageDesc",
-    "original": "選択時、次の選択肢の選択によって汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、次の選択肢の選択によって汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、次の選択肢の選択によって汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、次の選択肢の選択によって汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 다음 선택지의 선택에 따라 범용 E.G.O GIFT 획득\nEN:\nGain a Keywordless E.G.O Gift depending on the result of the following choice"
   },
   {
     "key": "971012-options[1].message",
-    "original": "知らないふりをして通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "知らないふりをして通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "知らないふりをして通り過ぎる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "知らないふりをして通り過ぎる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모른척 지나간다.\nEN:\nTurn a blind eye."
   },
   {
     "key": "971012-options[1].result[0]",
-    "original": "「都市ではよくあることだ。」\n\n囚人の誰かが、溜め息交じりの声で言った。\n\n「……。」\n\nエンドゥはどうにかならないかという顔で立っているが、飛び出そうとはしない。\n\nこの先の戦闘や、最終的に対峙すべきねじれたキムサッガッを相手にするには…。\n\n必要以上の戦闘は控えた方がいいだろう。\n\nもやもやとした気持ちを残しながら、私たちはその横を通り過ぎた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「都市ではよくあることだ。」\n\n囚人の誰かが、溜め息交じりの声で言った。\n\n「……。」\n\nエンドゥはどうにかならないかという顔で立っているが、飛び出そうとはしない。\n\nこの先の戦闘や、最終的に対峙すべきねじれたキムサッガッを相手にするには…。\n\n必要以上の戦闘は控えた方がいいだろう。\n\nもやもやとした気持ちを残しながら、私たちはその横を通り過ぎた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「都市ではよくあることだ。」\n\n囚人の誰かが、溜め息交じりの声で言った。\n\n「……。」\n\nエンドゥはどうにかならないかという顔で立っているが、飛び出そうとはしない。\n\nこの先の戦闘や、最終的に対峙すべきねじれたキムサッガッを相手にするには…。\n\n必要以上の戦闘は控えた方がいいだろう。\n\nもやもやとした気持ちを残しながら、私たちはその横を通り過ぎた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「都市ではよくあることだ。」\n\n囚人の誰かが、溜め息交じりの声で言った。\n\n「……。」\n\nエンドゥはどうにかならないかという顔で立っているが、飛び出そうとはしない。\n\nこの先の戦闘や、最終的に対峙すべきねじれたキムサッガッを相手にするには…。\n\n必要以上の戦闘は控えた方がいいだろう。\n\nもやもやとした気持ちを残しながら、私たちはその横を通り過ぎた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"도시에서는 흔한 일이야.\"\n\n수감자 중 누군가가 한숨 섞인 목소리로 말했다.\n\n\".......\"\n\n앵두는 어떻게 안되겠냐는 표정을 하고 서 있지만, 막상 뛰쳐나가지는 않는다.\n\n앞으로의 전투나, 결국 마주할 뒤틀린 김삿갓을 상대하려면...\n\n필요 이상의 전투는 지양하는 것이 좋겠지.\n\n찝찝한 마음을 뒤에 남기고, 우리는 소란 옆을 지나갔다.\nEN:\n\"Another day, another mugging in the City.\"\n\nOne of the Sinners mutters with a sigh.\n\n\"......\"\n\nAeng-du stands there with her eyes pleading us to do something, but does not step forward.\n\nWe should avoid unnecessary battles...\n\n... if we are to survive the coming challenges and face Distorted Bamboo-hatted Kim who awaits us at the end of this path.\n\nThis left a bad taste in our mouths as we ignored the commotion and walked away."
   },
   {
     "key": "97101202-name",
-    "original": "黒い帳簿2次選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "黒い帳簿2次選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "黒い帳簿2次選択肢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黒い帳簿2次選択肢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검은 장부 2차 선택지\nEN:\nBlack Ledger Choice #2"
   },
   {
     "key": "97101202-desc",
-    "original": "「あぁ、ありがたい限りでございます…。」\n\n黒雲会の横暴から逃れられた住民たちが、各々頭を下げつつ感謝の意を表した。\n\n「ところで…見たことない身なりでいらっしゃるようですが…。」\n\n「もしや、どなたか教えて貰うことはできませんでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「あぁ、ありがたい限りでございます…。」\n\n黒雲会の横暴から逃れられた住民たちが、各々頭を下げつつ感謝の意を表した。\n\n「ところで…見たことない身なりでいらっしゃるようですが…。」\n\n「もしや、どなたか教えて貰うことはできませんでしょうか？」\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「あぁ、ありがたい限りでございます…。」\n\n黒雲会の横暴から逃れられた住民たちが、各々頭を下げつつ感謝の意を表した。\n\n「ところで…見たことない身なりでいらっしゃるようですが…。」\n\n「もしや、どなたか教えて貰うことはできませんでしょうか？」\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「あぁ、ありがたい限りでございます…。」\n\n黒雲会の横暴から逃れられた住民たちが、各々頭を下げつつ感謝の意を表した。\n\n「ところで…見たことない身なりでいらっしゃるようですが…。」\n\n「もしや、どなたか教えて貰うことはできませんでしょうか？」\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"아이고, 감사합니다...\"\n\n흑운회의 횡포에서 벗어난 주민들이 저마다 고개를 숙이며 감사를 표한다.\n\n\"헌데... 못 보던 행색이십니다만...\"\n\n\"혹시 뉘신지 알 수 있을런지요?\"\nEN:\n\"Thank you, thank you so much...\"\n\nThe civilians, freed from the threat of the Kurokumo Clan, each bow and give us their thanks.\n\n\"But... You're not dressed like a local.\"\n\n\"If you don't mind us prying... who might you be?\""
   },
   {
     "key": "97101202-options[0].message",
-    "original": "通りすがりの人だと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "通りすがりの人だと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "通りすがりの人だと言う。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "通りすがりの人だと言う。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그저 지나가던 사람이라고 말한다.\nEN:\nSay that you're just passing by."
   },
   {
     "key": "97101202-options[0].result[0]",
-    "original": "「はぇい…？」\n\n住民たちは戸惑った表情をしている。\n\n「こんなに沢山の方々を率いて…ただ通り過ぎただけということでっか？」\n\n怪しかったかな、もう少し悩んで答えた方が良かっただろうか…。\n\n「黒雲会となんの関係もないのに、こうやって助けてくださるわけが…。」\n\n彼らはお互いに顔を見合わせ、戸惑いを隠せないようだったが…。\n\n「と、とにかくありがとうございます。」\n\n「ど、どうかお気をつけくだせぇ！」\n\nそんな言葉を残してそそくさと逃げてしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「はぇい…？」\n\n住民たちは戸惑った表情をしている。\n\n「こんなに沢山の方々を率いて…ただ通り過ぎただけということでっか？」\n\n怪しかったかな、もう少し悩んで答えた方が良かっただろうか…。\n\n「黒雲会となんの関係もないのに、こうやって助けてくださるわけが…。」\n\n彼らはお互いに顔を見合わせ、戸惑いを隠せないようだったが…。\n\n「と、とにかくありがとうございます。」\n\n「ど、どうかお気をつけくだせぇ！」\n\nそんな言葉を残してそそくさと逃げてしまった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「はぇい…？」\n\n住民たちは戸惑った表情をしている。\n\n「こんなに沢山の方々を率いて…ただ通り過ぎただけということでっか？」\n\n怪しかったかな、もう少し悩んで答えた方が良かっただろうか…。\n\n「黒雲会となんの関係もないのに、こうやって助けてくださるわけが…。」\n\n彼らはお互いに顔を見合わせ、戸惑いを隠せないようだったが…。\n\n「と、とにかくありがとうございます。」\n\n「ど、どうかお気をつけくだせぇ！」\n\nそんな言葉を残してそそくさと逃げてしまった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「はぇい…？」\n\n住民たちは戸惑った表情をしている。\n\n「こんなに沢山の方々を率いて…ただ通り過ぎただけということでっか？」\n\n怪しかったかな、もう少し悩んで答えた方が良かっただろうか…。\n\n「黒雲会となんの関係もないのに、こうやって助けてくださるわけが…。」\n\n彼らはお互いに顔を見合わせ、戸惑いを隠せないようだったが…。\n\n「と、とにかくありがとうございます。」\n\n「ど、どうかお気をつけくだせぇ！」\n\nそんな言葉を残してそそくさと逃げてしまった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"예에...?\"\n\n주민들은 어리둥절한 표정이다.\n\n\"이렇게 많은 분들을 이끄시고... 그저 지나가고 있단 말씀이신지요?\"\n\n어설펐나, 조금 더 고민을 하고 대답해야했던 걸까...\n\n\"흑운회와 아무 관계가 없는데 이렇게 도움을 주실 이유가...\"\n\n그들은 서로 얼굴을 마주보며 당혹스러움을 감추지 못하다가..\n\n\"아, 아무튼 감사합니다.\"\n\n\"살펴, 살펴 가십시오!\"\n\n그런 말을 남기고 후다닥 달아나버렸다.\nEN:\n\"Huhh...?\"\n\nThe civilians appear puzzled.\n\n\"You're just... 'passing by' with this many people behind you?\"\n\nMaybe I should've given my answer more thought before replying...\n\n\"Why would you help us if you don't have anything to do with the Kurokumo Clan...?\"\n\nThey looked at each other, clearly perplexed.\n\n\"T-thank you anyways.\"\n\n\"Sa-safe travels to you!\"\n\nWith that, they hurriedly left the scene."
   },
   {
     "key": "97101202-options[1].message",
-    "original": "剣契だと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "剣契だと言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "剣契だと言う。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "剣契だと言う。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검계라고 말한다.\nEN:\nSay that you're with the Blade Lineage."
   },
   {
     "key": "97101202-options[1].messageDesc",
-    "original": "傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n오만 유리 판정 성공 시, 범용 E.G.O GIFT 획득\nEN:\nPride Advantage check. Pass to gain a Keywordless E.G.O Gift."
   },
   {
     "key": "971013-name",
-    "original": "錆びた柄 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "錆びた柄 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "錆びた柄 選択肢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "錆びた柄 選択肢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n녹슨 칼자루 선택지\nEN:\nRusted Hilt Choice"
   },
   {
     "key": "971013-desc",
-    "original": "「ここは酒幕(ジュマク)か…。」\n\n酒場のように見える空間で、人々が気持ち良さげに騒いでいる。\n\nその中で、高らかにヤジを飛ばし合ってる様子も見受けられる。\n\n「いや、いや！ 昔から剣は斬るもの！斬るのが正しい剣法だ。」\n\n「何を言うか！一点に力を集中して一気に刺してしまえば、一撃必殺ではないか！」\n\n「…どちらも間違っている。中途半端に斬って刺したところで敵は再び起き上がるものだ。」\n\n「刀の柄や鞘で頭を叩きのめせば、頭がぐらぐらして起き上がれなくなるんだ！」\n\n何か奥深い議論をしているらしいので、少し立ち止まって聞いてたら…。\n\n彼らは、そんな私たちを見て声を掛けてきた。\n\n「君たち！ぱっと見でも武人だと分かるよ！」\n\n「答えてくれ。最も優れた剣撃は何か！」\n\n「当然、斬撃が一番だろう？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「ここは酒幕(ジュマク)か…。」\n\n酒場のように見える空間で、人々が気持ち良さげに騒いでいる。\n\nその中で、高らかにヤジを飛ばし合ってる様子も見受けられる。\n\n「いや、いや！ 昔から剣は斬るもの！斬るのが正しい剣法だ。」\n\n「何を言うか！一点に力を集中して一気に刺してしまえば、一撃必殺ではないか！」\n\n「…どちらも間違っている。中途半端に斬って刺したところで敵は再び起き上がるものだ。」\n\n「刀の柄や鞘で頭を叩きのめせば、頭がぐらぐらして起き上がれなくなるんだ！」\n\n何か奥深い議論をしているらしいので、少し立ち止まって聞いてたら…。\n\n彼らは、そんな私たちを見て声を掛けてきた。\n\n「君たち！ぱっと見でも武人だと分かるよ！」\n\n「答えてくれ。最も優れた剣撃は何か！」\n\n「当然、斬撃が一番だろう？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「ここは酒幕(ジュマク)か…。」\n\n酒場のように見える空間で、人々が気持ち良さげに騒いでいる。\n\nその中で、高らかにヤジを飛ばし合ってる様子も見受けられる。\n\n「いや、いや！ 昔から剣は斬るもの！斬るのが正しい剣法だ。」\n\n「何を言うか！一点に力を集中して一気に刺してしまえば、一撃必殺ではないか！」\n\n「…どちらも間違っている。中途半端に斬って刺したところで敵は再び起き上がるものだ。」\n\n「刀の柄や鞘で頭を叩きのめせば、頭がぐらぐらして起き上がれなくなるんだ！」\n\n何か奥深い議論をしているらしいので、少し立ち止まって聞いてたら…。\n\n彼らは、そんな私たちを見て声を掛けてきた。\n\n「君たち！ぱっと見でも武人だと分かるよ！」\n\n「答えてくれ。最も優れた剣撃は何か！」\n\n「当然、斬撃が一番だろう？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「ここは酒幕(ジュマク)か…。」\n\n酒場のように見える空間で、人々が気持ち良さげに騒いでいる。\n\nその中で、高らかにヤジを飛ばし合ってる様子も見受けられる。\n\n「いや、いや！ 昔から剣は斬るもの！斬るのが正しい剣法だ。」\n\n「何を言うか！一点に力を集中して一気に刺してしまえば、一撃必殺ではないか！」\n\n「…どちらも間違っている。中途半端に斬って刺したところで敵は再び起き上がるものだ。」\n\n「刀の柄や鞘で頭を叩きのめせば、頭がぐらぐらして起き上がれなくなるんだ！」\n\n何か奥深い議論をしているらしいので、少し立ち止まって聞いてたら…。\n\n彼らは、そんな私たちを見て声を掛けてきた。\n\n「君たち！ぱっと見でも武人だと分かるよ！」\n\n「答えてくれ。最も優れた剣撃は何か！」\n\n「当然、斬撃が一番だろう？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"이곳은 주막인가...\"\n\n술집처럼 보이는 공간에서 사람들이 기분 좋은 듯 떠들고 있다.\n\n그 중에, 고성으로 서로 삿대질을 하는 모습도 보인다.\n\n\"아니, 아니! 자고로 검은 베어내는 물건! 베는 것이 옳은 검법이지.\"\n\n\"모르는 소리! 한 점에 힘을 집중해서 한 번에 찔러버리면 일격 필살 아닌가!\"\n\n\"...둘 다 틀렸어. 어설프게 베고 찔러보아야 적은 다시 일어나기 마련.\"\n\n\"칼자루나 검집으로 머리를 두드려 패면, 골이 어질거려 일어나지 못하게 된단 말이다!\"\n\n무언가 심오한 논의를 하는 것 같아, 잠시 멈추어 서서 듣고 있는데...\n\n그들이 그런 우리를 보고 말을 걸었다.\n\n\"그대들! 척 보아도 무인이군!\"\n\n\"답해보게. 가장 우수한 검격이 무엇인가!\"\n\n\"당연히 참격을 제일로 치겠지?\"\n\n무어라 답해야 할까.\nEN:\n\"This must be a tavern...\"\n\nThis bar or an inn is bustling, and its patrons are energetically chattering away. They all seem to be in a rather good mood.\n\nA trio among the crowd is quite boisterously arguing and pointing fingers at each other.\n\n\"No, NO! I don't understand why this is even a matter of dispute! A blade is a weapon made for cutting, and the 'right' way to use a blade is to slash with it.\"\n\n\"You don't know what you're talking about! Stab a single point with all your might, and your foe shall surely fall!\"\n\n\"... You're both wrong. Your half-hearted cuts and stabs won't do anything but piss 'em off. They'll be back on their feet immediately!\"\n\n\"Smack their skulls with the blunt end—hilt or the scabbard, and knock them down for good! Make 'em too dazed to get up!\"\n\nThe trio appeared to be talking about something pretty serious, so we'd stopped to listen to their debate...\n\nThey suddenly turned in our direction and called over to us.\n\n\"You there! Your band can clearly handle your weapons, am I wrong?\"\n\n\"Answer us. What is the best way to wield your sword?\"\n\n\"Of course, to slash is the best way to use a blade, is it not?\"\n\nWhat should I say to that?"
   },
   {
     "key": "971013-options[0].message",
-    "original": "そうだ。剣術は斬撃を加えるのに適した武術である。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "そうだ。剣術は斬撃を加えるのに適した武術である。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "そうだ。剣術は斬撃を加えるのに適した武術である。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "そうだ。剣術は斬撃を加えるのに適した武術である。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n맞다. 검술은 참격을 담기에 적합한 무술이다.\nEN:\nRight. Slashing is the way to go when wielding a blade."
   },
   {
     "key": "971013-options[0].messageDesc",
-    "original": "色欲・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "色欲・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "色欲・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n색욕 · 오만 유리 판정 성공 시, 참격 E.G.O GIFT 획득\nEN:\nLust & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
   },
   {
     "key": "971013-options[1].message",
-    "original": "そうではない。斬撃も、貫通も、打撃にも全て使い道がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "そうではない。斬撃も、貫通も、打撃にも全て使い道がある。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "そうではない。斬撃も、貫通も、打撃にも全て使い道がある。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "そうではない。斬撃も、貫通も、打撃にも全て使い道がある。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그렇지 않다. 참격도, 관통도, 타격도 모두 쓰임새가 있다.\nEN:\nNot true. Slash, Pierce, and Blunt all have their uses."
   },
   {
     "key": "971013-options[1].result[0]",
-    "original": "「ふぅむ。」\n\n三人は居心地の悪そうに、ぶっきらぼうな顔をした。\n\n「正論だ。」\n\n「正論だな。」\n\n「私たちも分かってないわけじゃないさ…。」\n\nイライラしているのか、それぞれ酒を一杯煽った。\n\n「俺たちが戦争を準備でもしようとこんなことを話してるとでも？」\n\n「酒の席でするに良い話題だっていうのに、そんなつまんねぇ答えを…。」\n\n「はぁ、もう良い。帰れ！」\n\n彼らは興味を失ったのか、私たちに背を向けて再び席に着いた…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「ふぅむ。」\n\n三人は居心地の悪そうに、ぶっきらぼうな顔をした。\n\n「正論だ。」\n\n「正論だな。」\n\n「私たちも分かってないわけじゃないさ…。」\n\nイライラしているのか、それぞれ酒を一杯煽った。\n\n「俺たちが戦争を準備でもしようとこんなことを話してるとでも？」\n\n「酒の席でするに良い話題だっていうのに、そんなつまんねぇ答えを…。」\n\n「はぁ、もう良い。帰れ！」\n\n彼らは興味を失ったのか、私たちに背を向けて再び席に着いた…。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「ふぅむ。」\n\n三人は居心地の悪そうに、ぶっきらぼうな顔をした。\n\n「正論だ。」\n\n「正論だな。」\n\n「私たちも分かってないわけじゃないさ…。」\n\nイライラしているのか、それぞれ酒を一杯煽った。\n\n「俺たちが戦争を準備でもしようとこんなことを話してるとでも？」\n\n「酒の席でするに良い話題だっていうのに、そんなつまんねぇ答えを…。」\n\n「はぁ、もう良い。帰れ！」\n\n彼らは興味を失ったのか、私たちに背を向けて再び席に着いた…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「ふぅむ。」\n\n三人は居心地の悪そうに、ぶっきらぼうな顔をした。\n\n「正論だ。」\n\n「正論だな。」\n\n「私たちも分かってないわけじゃないさ…。」\n\nイライラしているのか、それぞれ酒を一杯煽った。\n\n「俺たちが戦争を準備でもしようとこんなことを話してるとでも？」\n\n「酒の席でするに良い話題だっていうのに、そんなつまんねぇ答えを…。」\n\n「はぁ、もう良い。帰れ！」\n\n彼らは興味を失ったのか、私たちに背を向けて再び席に着いた…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"흐음.\"\n\n세 사람은 불편한 듯 불퉁한 표정을 짓는다.\n\n\"정론이네.\"\n\n\"정론이지.\"\n\n\"우리도 그걸 모르는게 아니야...\"\n\n속이 타는지, 각자 술을 한 잔 씩 털어넣는다.\n\n\"우리가 전쟁을 준비하려 이런 말을 하고 있겠는가?\"\n\n\"술자리 화담으로 좋은 주제 일 뿐인데, 그런 재미없는 대답을...\"\n\n\"에잉, 됐소. 가시던 길 가시게!\"\n\n그들은 흥미가 떨어졌는지, 우리를 등지고 다시 탁자에 앉았다...\nEN:\n\"Hm.\"\n\nThe three of them suddenly grow very obviously uncomfortable.\n\n\"That's the right answer, isn't it?\"\n\n\"That's certainly the textbook answer.\"\n\n\"It's not like we don't know what the right answer is...\"\n\nThey all take frustrated swigs from their respective cups.\n\n\"What, you think we're sitting here talking about weapons like generals preparing for war?\"\n\n\"It's just a fun topic to argue about with liquor in our bellies. What a way to kill the mood with that uninspired answer...\"\n\n\"Bah, forget it. Be on your way, then!\"\n\nThey turned away from us and returned to drinking, clearly having lost interest."
   },
   {
     "key": "971014-name",
-    "original": "砕けた刃, 壊れた刃 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "砕けた刃, 壊れた刃 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "砕けた刃, 壊れた刃 選択肢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "砕けた刃, 壊れた刃 選択肢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조각난 칼날, 부서진 칼날 선택지\nEN:\nFractured & Broken Blade Choice"
   },
   {
     "key": "971014-desc",
-    "original": "「何か変だな…霧が…。」\n\nいつの間にか、霧があたりを包み込んでいた。\n\n「聞きしためしあり。夜道歩めると、霧がうっすらと降り立ちし方へ行くと、この世のものならぬものを…。」\n\n「うわぁ！ストップ、ストップ！」\n\n囚人たちがガヤガヤ騒いでいる間、目の前に何かぼやけたものがあることに気づいた。\n\n「舞って…るの？」\n\n正体不明の白い服装をした何かが、大きな剣を持ってひらひらと踊っているようだ。\n\nそしてそれと目が合ったような気がした刹那…。\n\n私の手には、いつの間にか古い鞘に収められた剣が握られていた。\n\n何をしろということだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「何か変だな…霧が…。」\n\nいつの間にか、霧があたりを包み込んでいた。\n\n「聞きしためしあり。夜道歩めると、霧がうっすらと降り立ちし方へ行くと、この世のものならぬものを…。」\n\n「うわぁ！ストップ、ストップ！」\n\n囚人たちがガヤガヤ騒いでいる間、目の前に何かぼやけたものがあることに気づいた。\n\n「舞って…るの？」\n\n正体不明の白い服装をした何かが、大きな剣を持ってひらひらと踊っているようだ。\n\nそしてそれと目が合ったような気がした刹那…。\n\n私の手には、いつの間にか古い鞘に収められた剣が握られていた。\n\n何をしろということだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「何か変だな…霧が…。」\n\nいつの間にか、霧があたりを包み込んでいた。\n\n「聞きしためしあり。夜道歩めると、霧がうっすらと降り立ちし方へ行くと、この世のものならぬものを…。」\n\n「うわぁ！ストップ、ストップ！」\n\n囚人たちがガヤガヤ騒いでいる間、目の前に何かぼやけたものがあることに気づいた。\n\n「舞って…るの？」\n\n正体不明の白い服装をした何かが、大きな剣を持ってひらひらと踊っているようだ。\n\nそしてそれと目が合ったような気がした刹那…。\n\n私の手には、いつの間にか古い鞘に収められた剣が握られていた。\n\n何をしろということだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「何か変だな…霧が…。」\n\nいつの間にか、霧があたりを包み込んでいた。\n\n「聞きしためしあり。夜道歩めると、霧がうっすらと降り立ちし方へ行くと、この世のものならぬものを…。」\n\n「うわぁ！ストップ、ストップ！」\n\n囚人たちがガヤガヤ騒いでいる間、目の前に何かぼやけたものがあることに気づいた。\n\n「舞って…るの？」\n\n正体不明の白い服装をした何かが、大きな剣を持ってひらひらと踊っているようだ。\n\nそしてそれと目が合ったような気がした刹那…。\n\n私の手には、いつの間にか古い鞘に収められた剣が握られていた。\n\n何をしろということだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"무언가 이상하군... 안개가...\"\n\n언제부터인지 모르게, 안개가 주변을 감싸고 있었다.\n\n\"들은 적 있소. 밤길, 걷다보니 스산하게 안개가 내려앉은 곳으로 흘러가더니 이 세상의 것이 아닌 것을...\"\n\n\"으아악! 그만, 그만!\"\n\n수감자들이 왁자지껄 떠드는 동안, 앞에 무언가 흐릿한 것이 있다는 걸 깨달았다.\n\n\"춤을 추고... 있는 거야?\"\n\n정체를 알 수 없는 흰 복장을 입은 무언가가, 커다란 검을 들고 하늘하늘 춤을 추고 있는 것 같다.\n\n그리고 그것과 눈이 마주친 것 같다는 생각이 들자...\n\n내 손아귀에는 어느새 낡은 검집에 검이 꽂힌 채 들려져 있었다.\n\n무얼 하라는 걸까?\nEN:\n\"This is odd... this mist is...\"\n\nI don't know when it happened, but a thick layer of mist had descended all around us.\n\n\"I have heard a tale of one such nightly stroll. In this tale, a clueless traveler heedlessly wanders into a brumous haze, and finds himself afore an otherworldly being—\"\n\n\"AAAGH! Stop, stop it!\"\n\nJust as the Sinners began loudly bickering with each other, I realized that there was something hazy standing in our way.\n\n\"Is that thing... dancing?\"\n\nA mysterious thing, dressed in white, danced gracefully before us with a large blade in hand.\n\nWhen it met my gaze... or, when I thought it did...\n\n... a sheathed blade had materialized in my hand.\n\nWhat does it want me to do with it?"
   },
   {
     "key": "971014-options[0].message",
-    "original": "抜剣の姿勢を取ってみようか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "抜剣の姿勢を取ってみようか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "抜剣の姿勢を取ってみようか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "抜剣の姿勢を取ってみようか。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n발검 자세를 취해볼까.\nEN:\nAssume a stance like I'm about to draw the sword."
   },
   {
     "key": "971014-options[0].messageDesc",
-    "original": "色欲・憂鬱有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "色欲・憂鬱有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "色欲・憂鬱有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・憂鬱有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n색욕 · 우울 유리 판정 성공 시, 출혈 E.G.O GIFT 획득\nEN:\nLust & Gloom Advantage check. Pass to gain a Bleed E.G.O Gift."
   },
   {
     "key": "971014-options[1].message",
-    "original": "剣を抜いて降ろそうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "剣を抜いて降ろそうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "剣を抜いて降ろそうか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "剣を抜いて降ろそうか。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검을 뽑아서 늘어뜨릴까.\nEN:\nUnsheathe the sword and hold it on my side."
   },
   {
     "key": "971014-options[1].messageDesc",
-    "original": "傲慢・憤怒有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傲慢・憤怒有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傲慢・憤怒有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傲慢・憤怒有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n오만 · 분노 유리 판정 성공 시, 호흡 E.G.O GIFT 획득\nEN:\nPride & Wrath Advantage check. Pass to gain a Poise E.G.O Gift."
   },
   {
     "key": "971014-options[2].message",
-    "original": "剣を捨てて逃げよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "剣を捨てて逃げよう。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "剣を捨てて逃げよう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "剣を捨てて逃げよう。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검을 버리고 도망치자.\nEN:\nLeave the sword, let's leave."
   },
   {
     "key": "971014-options[2].result[0]",
-    "original": "対応すべき幻想体でもなく、会社で目標に指定してもいないものである。\n\n分からないものとの戦闘は、必要でないならいつであれ避けた方が無難だ。\n\n私はその場に剣を放り投げ、囚人たちと共に別の場所へと離脱した。\n\n...咽び泣くような笑い声が、ずっと後ろからついてくるような気がした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "対応すべき幻想体でもなく、会社で目標に指定してもいないものである。\n\n分からないものとの戦闘は、必要でないならいつであれ避けた方が無難だ。\n\n私はその場に剣を放り投げ、囚人たちと共に別の場所へと離脱した。\n\n...咽び泣くような笑い声が、ずっと後ろからついてくるような気がした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "対応すべき幻想体でもなく、会社で目標に指定してもいないものである。\n\n分からないものとの戦闘は、必要でないならいつであれ避けた方が無難だ。\n\n私はその場に剣を放り投げ、囚人たちと共に別の場所へと離脱した。\n\n...咽び泣くような笑い声が、ずっと後ろからついてくるような気がした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対応すべき幻想体でもなく、会社で目標に指定してもいないものである。\n\n分からないものとの戦闘は、必要でないならいつであれ避けた方が無難だ。\n\n私はその場に剣を放り投げ、囚人たちと共に別の場所へと離脱した。\n\n...咽び泣くような笑い声が、ずっと後ろからついてくるような気がした。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n대응해야 할 환상체도 아니고, 회사에서 목표로 지정하지도 않은 것이다.\n\n알 수 없는 것과의 전투는 필요하지 않다면 언제나 피하는 것이 좋다.\n\n나는 그 자리에 검을 던지고 수감자들과 함께 다른 곳으로 이탈했다.\n\n...흐느끼는 듯한 웃음소리가 내내 뒤에서 따라오는 것만 같았다.\nEN:\nIt's not an Abnormality we have to deal with, and the company never said that we had to engage them.\n\nI should always avoid battles against unknown entities.\n\nI tossed the sword on the ground before fleeing from the scene with the Sinners.\n\nA weeping laughter seemed to follow me the entire way back."
   },
   {
     "key": "971016-name",
-    "original": "赤い房飾り 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "赤い房飾り 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "赤い房飾り 選択肢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "赤い房飾り 選択肢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n붉은 색술 선택지\nEN:\nRed Tassel Choice"
   },
   {
     "key": "971016-desc",
-    "original": "石垣に沿って歩いていると、剣を身につけている二人の行人の声が聞こえてきた。\n\n「ここの人たちも不憫だな…。」\n\n「まあ、翼がそうするというのに一介の羽たちに何ができるだろうか。」\n\n片方の身なりが少し変わっているので、もしかすると外地の人かもしれない。\n\n「でも、黒雲会のやつらがこうやって攻め込んでくるのは、少しやりすぎだと思うんだけどな。」\n\n「そんな細かいことを気にしようにも、翼はもはや羽ばたくことにしか専念していないから。」\n\n今のS社について話しているみたいだ。\n\n「ちょうど外地の人物が増えたようだ。」\n\nいつの間にか前を歩いていた者たちが立ち止まって私たちのことを見つめていた。\n\n「黒雲会…のようには見えないな。混乱した裏路地で一儲けしようとする良民(ヤンミン)にも見えないし。」\n\n「そうだな、君は昨今の状況をどう見ている？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "石垣に沿って歩いていると、剣を身につけている二人の行人の声が聞こえてきた。\n\n「ここの人たちも不憫だな…。」\n\n「まあ、翼がそうするというのに一介の羽たちに何ができるだろうか。」\n\n片方の身なりが少し変わっているので、もしかすると外地の人かもしれない。\n\n「でも、黒雲会のやつらがこうやって攻め込んでくるのは、少しやりすぎだと思うんだけどな。」\n\n「そんな細かいことを気にしようにも、翼はもはや羽ばたくことにしか専念していないから。」\n\n今のS社について話しているみたいだ。\n\n「ちょうど外地の人物が増えたようだ。」\n\nいつの間にか前を歩いていた者たちが立ち止まって私たちのことを見つめていた。\n\n「黒雲会…のようには見えないな。混乱した裏路地で一儲けしようとする良民(ヤンミン)にも見えないし。」\n\n「そうだな、君は昨今の状況をどう見ている？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "石垣に沿って歩いていると、剣を身につけている二人の行人の声が聞こえてきた。\n\n「ここの人たちも不憫だな…。」\n\n「まあ、翼がそうするというのに一介の羽たちに何ができるだろうか。」\n\n片方の身なりが少し変わっているので、もしかすると外地の人かもしれない。\n\n「でも、黒雲会のやつらがこうやって攻め込んでくるのは、少しやりすぎだと思うんだけどな。」\n\n「そんな細かいことを気にしようにも、翼はもはや羽ばたくことにしか専念していないから。」\n\n今のS社について話しているみたいだ。\n\n「ちょうど外地の人物が増えたようだ。」\n\nいつの間にか前を歩いていた者たちが立ち止まって私たちのことを見つめていた。\n\n「黒雲会…のようには見えないな。混乱した裏路地で一儲けしようとする良民(ヤンミン)にも見えないし。」\n\n「そうだな、君は昨今の状況をどう見ている？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "石垣に沿って歩いていると、剣を身につけている二人の行人の声が聞こえてきた。\n\n「ここの人たちも不憫だな…。」\n\n「まあ、翼がそうするというのに一介の羽たちに何ができるだろうか。」\n\n片方の身なりが少し変わっているので、もしかすると外地の人かもしれない。\n\n「でも、黒雲会のやつらがこうやって攻め込んでくるのは、少しやりすぎだと思うんだけどな。」\n\n「そんな細かいことを気にしようにも、翼はもはや羽ばたくことにしか専念していないから。」\n\n今のS社について話しているみたいだ。\n\n「ちょうど外地の人物が増えたようだ。」\n\nいつの間にか前を歩いていた者たちが立ち止まって私たちのことを見つめていた。\n\n「黒雲会…のようには見えないな。混乱した裏路地で一儲けしようとする良民(ヤンミン)にも見えないし。」\n\n「そうだな、君は昨今の状況をどう見ている？」\n\n何と答えるべきだろうか。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n돌담을 따라 걷는데, 검을 차고 있는 두 행인의 말 소리가 들렸다.\n\n\"이곳 사람들도 딱해...\"\n\n\"뭐, 날개가 그렇게 하겠다는데 그저 깃털들이 무얼 할 수 있겠나.\"\n\n한 명의 옷차림이 조금 유별난 걸 보니, 외지의 사람일 수도 있을 것 같다.\n\n\"하지만, 흑운회 놈들이 이렇게 치고 들어오는 것은 좀 과한 것 같은데.\"\n\n\"그런 자잘한 것에 신경 쓰기엔, 날개는 이미 푸드덕 거리는 일에만 전념하고 있으니.\"\n\n지금의 S사에 대해 이야기 하는 것 같다.\n\n\"마침 외지의 인물이 더 늘은 것 같군.\"\n\n어느새 앞을 걷던 자들이 멈추어 우리를 바라보고 있었다.\n\n\"흑운회... 로는 보이지 않는군. 혼란한 뒷골목에서 한탕 하려는 양민으로 보이지도 않고.\"\n\n\"그래, 자네는 작금의 상황을 어떻게 보는가?\"\n\n무어라 답해야 할까.\nEN:\nWe hear a pair of voices as we walk alongside a stone fence. The two travelers are both carrying blades.\n\n\"I pity the people here...\"\n\n\"Well, the decision of a Wing is absolute for its feathers. There is very little they can do about it.\"\n\nOne of them stands out—their clothing sets them apart from the locals. Maybe they're not from around here.\n\n\"Still, to allow the Kurokumo Clan to make their way in here? That's too much.\"\n\n\"The Wing cares about naught else but fluttering its wings. All else becomes insignificant.\"\n\nSounds like they're talking about the current S Corp.\n\n\"More outsiders, I see. How convenient.\"\n\nThe pair stops in their tracks, then turns around to face us.\n\n\"The Kurokumo Clan... no. You do not wear their garb. You don't appear to be peasants seeking to make some cash in the chaos of the Backstreets, either...\"\n\n\"Well, then. What do you outsiders think of the current climate?\"\n\nHow should I answer this?"
   },
   {
     "key": "971016-options[0].message",
-    "original": "鯨の争いに巻き込まれた海老の背が裂けるのは、都市のどこへ行けど同じではないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "鯨の争いに巻き込まれた海老の背が裂けるのは、都市のどこへ行けど同じではないか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "鯨の争いに巻き込まれた海老の背が裂けるのは、都市のどこへ行けど同じではないか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鯨の争いに巻き込まれた海老の背が裂けるのは、都市のどこへ行けど同じではないか。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n고래 싸움에 새우등이 터져나가는 건 도시 어디를 가나 같지 않나.\nEN:\nIt's the City. That's just what happens to small fries getting mixed up in large-scale conflicts."
   },
   {
     "key": "971016-options[0].messageDesc",
-    "original": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n우울 · 오만 유리 판정 성공 시, 참격 E.G.O GIFT 획득\nEN:\nGloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
   },
   {
     "key": "971016-options[1].message",
-    "original": "無念無想。不憫には思う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "無念無想。不憫には思う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "無念無想。不憫には思う。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "無念無想。不憫には思う。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n무념무상. 안타깝기는 하다.\nEN:\nI have no thoughts regarding the matter. A pity, though."
   },
   {
     "key": "971016-options[1].result[0]",
-    "original": "「不憫か…。」\n\n剣を腰に携えた者が腕を組んだまま溜め息を吐く。\n\n「そうだ、そう考えることもできるだろう。考えは自由にすべきもの。」\n\n「しかし、何の考えもないのであれば、無闇に憐憫を感じることも罪悪であることは分かってほしいな。」\n\n二人はどこか暗い表情を浮かべながら、背を向けてどこかへと歩いていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "「不憫か…。」\n\n剣を腰に携えた者が腕を組んだまま溜め息を吐く。\n\n「そうだ、そう考えることもできるだろう。考えは自由にすべきもの。」\n\n「しかし、何の考えもないのであれば、無闇に憐憫を感じることも罪悪であることは分かってほしいな。」\n\n二人はどこか暗い表情を浮かべながら、背を向けてどこかへと歩いていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "「不憫か…。」\n\n剣を腰に携えた者が腕を組んだまま溜め息を吐く。\n\n「そうだ、そう考えることもできるだろう。考えは自由にすべきもの。」\n\n「しかし、何の考えもないのであれば、無闇に憐憫を感じることも罪悪であることは分かってほしいな。」\n\n二人はどこか暗い表情を浮かべながら、背を向けてどこかへと歩いていった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「不憫か…。」\n\n剣を腰に携えた者が腕を組んだまま溜め息を吐く。\n\n「そうだ、そう考えることもできるだろう。考えは自由にすべきもの。」\n\n「しかし、何の考えもないのであれば、無闇に憐憫を感じることも罪悪であることは分かってほしいな。」\n\n二人はどこか暗い表情を浮かべながら、背を向けてどこかへと歩いていった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n\"안타깝다라...\"\n\n검을 찬 자가 팔짱을 낀 채로 한숨을 푹 쉰다.\n\n\"그래, 그리 생각할 수도 있겠지. 생각은 자유히 해야하는 법.\"\n\n\"그러나 별 생각이 없을 것이라면, 함부로 안타까움을 느끼는 것도 죄악일 수 있음은 알았으면 좋겠군.\"\n\n둘은 어딘가 어두운 표정을 지으며, 등을 돌려 어딘가로 걸어나갔다.\nEN:\n\"A pity, you say...\"\n\nThe sword-carrying man crosses his arms, then sighs.\n\n\"Sure, I suppose that's one way of looking at it. A thought must remain free, indeed.\"\n\n\"Yet, if you have no thoughts regarding the matter, do understand that to feel pity may be a sin of its own.\"\n\nThe pair walks away. They both wear a dark expression."
   },
   {
     "key": "971017-name",
-    "original": "笠, 道袍 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "笠, 道袍 選択肢\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "笠, 道袍 選択肢\n<CMT_KR>\n<CMT_JP>",
+    "translation": "笠, 道袍 選択肢\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n삿갓 도포 선택지\nEN:\nBamboo Hat & Dopo Robe Choice"
   },
   {
     "key": "971017-desc",
-    "original": "目の前に青い文字がふわふわと浮かんでいる。\n\n文字は似たような単語を延々と羅列しているので、理解しづらい。\n\n「正しいことを正しいと言い、間違いを間違いと言うことは正しくなく、」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、正しくないわけではない。」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、間違いではなく、」\n\n「正しいことを正しいと言い、間違いを間違いと言うことが、却ってこの間違いが正しいということになる。」\n\n…この言葉に対する感想が必要なんだろうか？\n\nどういう意味なんだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "目の前に青い文字がふわふわと浮かんでいる。\n\n文字は似たような単語を延々と羅列しているので、理解しづらい。\n\n「正しいことを正しいと言い、間違いを間違いと言うことは正しくなく、」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、正しくないわけではない。」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、間違いではなく、」\n\n「正しいことを正しいと言い、間違いを間違いと言うことが、却ってこの間違いが正しいということになる。」\n\n…この言葉に対する感想が必要なんだろうか？\n\nどういう意味なんだろうか。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "目の前に青い文字がふわふわと浮かんでいる。\n\n文字は似たような単語を延々と羅列しているので、理解しづらい。\n\n「正しいことを正しいと言い、間違いを間違いと言うことは正しくなく、」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、正しくないわけではない。」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、間違いではなく、」\n\n「正しいことを正しいと言い、間違いを間違いと言うことが、却ってこの間違いが正しいということになる。」\n\n…この言葉に対する感想が必要なんだろうか？\n\nどういう意味なんだろうか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "目の前に青い文字がふわふわと浮かんでいる。\n\n文字は似たような単語を延々と羅列しているので、理解しづらい。\n\n「正しいことを正しいと言い、間違いを間違いと言うことは正しくなく、」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、正しくないわけではない。」\n\n「間違いを正しいと言い、正しいことを間違いと言うことは、間違いではなく、」\n\n「正しいことを正しいと言い、間違いを間違いと言うことが、却ってこの間違いが正しいということになる。」\n\n…この言葉に対する感想が必要なんだろうか？\n\nどういう意味なんだろうか。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n눈 앞에 푸른 빛의 글자들이 둥둥 떠다닌다.\n\n글자들은 비슷한 단어들이 줄줄이 쓰여 있어 이해가 어려운 것 같다.\n\n'옳은 것을 옳다 하고 그른 것을 그르다 함이 옳지 않으며,'\n\n'그른 것을 옳다 하고 옳은 것을 그르다 함이 옳지 않음이 아니다.'\n\n'그른 것을 옳다 하고 옳은 것을 그르다 함이 그른 것이 아니며,'\n\n'옳다는 것을 옳다 하고 그른 것을 그르다고 함이 도리어 이 그른 것을 옳다 함이다.'\n\n...이 말에 대한 감상이 필요한 걸까?\n\n무슨 뜻일까.\nEN:\nShimmering blue letters float before you.\n\nThe way that these similar words are ordered makes it difficult to understand what it's trying to say.\n\nTo say what is right is right and what is wrong is wrong is not right,\n\nbut that is not to say that to say what is wrong is right and right is wrong is wrong.\n\nTo say that what is wrong is right and right is wrong is not wrong,\n\nand to say that what is right is right and what is wrong is wrong is, in turn, to say that this wrong is right.\n\n... Does it want my impression of these words?\n\nWhat is it talking about?"
   },
   {
     "key": "971017-options[0].message",
-    "original": "是非が最も重要なことだろうか？大事なのは他にあると言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "是非が最も重要なことだろうか？大事なのは他にあると言う。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "是非が最も重要なことだろうか？大事なのは他にあると言う。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "是非が最も重要なことだろうか？大事なのは他にあると言う。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n옳고 그름이 가장 중요한 것일까? 중요한 건 다른 것이라고 말한다.\nEN:\nWhat is 'right' and what is 'wrong'... is it really that important to tell which is which? Say that what really matters is something else."
   },
   {
     "key": "971017-options[0].messageDesc",
-    "original": "色欲・傲慢有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "色欲・傲慢有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "色欲・傲慢有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・傲慢有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n색욕 · 오만 유리 판정 성공 시, 호흡 E.G.O GIFT 획득\nEN:\nLust & Pride Advantage check. Pass to gain a Poise E.G.O Gift."
   },
   {
     "key": "971017-options[1].message",
-    "original": "それでも正しいことは正しいと言うべきだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "それでも正しいことは正しいと言うべきだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "それでも正しいことは正しいと言うべきだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "それでも正しいことは正しいと言うべきだ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n그래도 옳은 것을 옳다고 말해야 한다.\nEN:\nStill, it must be said that what is right, is right."
   },
   {
     "key": "971017-options[1].messageDesc",
-    "original": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憂鬱・傲慢有利判定成功時、斬撃E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n우울 · 오만 유리 판정 성공 시, 참격 E.G.O GIFT 획득\nEN:\nGloom & Pride Advantage check. Pass to gain a Slash E.G.O Gift."
   },
   {
     "key": "971021-name",
-    "original": "工場の労働者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "工場の労働者\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "工場の労働者\n<CMT_KR>\n<CMT_JP>",
+    "translation": "工場の労働者\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공장 노동자\nEN:\nFactory Laborer"
   },
   {
     "key": "971021-desc",
-    "original": "忙しく稼働している時計工場。\n\n「!@#$!#$#!$@#$!$#@$.」\n\nつやつやの靴にパリッとしたスーツを着た工場主が、油に汚れた作業服を着た職員たちに大声を張り上げている。\n\nすると突然何かを見て、ある職員に近づいて目を血走らせながら怒り始めた。\n\n仕事で手一杯の職員は凄く慌てながら何かを言おうとするが、あまりにも遅いせいで口を開くのにも歳月が流れていきそうだ。\n\nもどかしくて仕方が無いという顔で、工場主がレコーダーまで取り出して自分の声を聞かせてあげたが、意思疎通ができない。\n\n「さっきカメラを確認したんだが2時間も寝ていたな。言い訳はあるか？」\n\n「工… … … … … …」\n\n「… … 場… … … …」\n\n「キビキビ話せ！」\n\nこの状況を解決する情報が、この周辺にあるんじゃないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "忙しく稼働している時計工場。\n\n「!@#$!#$#!$@#$!$#@$.」\n\nつやつやの靴にパリッとしたスーツを着た工場主が、油に汚れた作業服を着た職員たちに大声を張り上げている。\n\nすると突然何かを見て、ある職員に近づいて目を血走らせながら怒り始めた。\n\n仕事で手一杯の職員は凄く慌てながら何かを言おうとするが、あまりにも遅いせいで口を開くのにも歳月が流れていきそうだ。\n\nもどかしくて仕方が無いという顔で、工場主がレコーダーまで取り出して自分の声を聞かせてあげたが、意思疎通ができない。\n\n「さっきカメラを確認したんだが2時間も寝ていたな。言い訳はあるか？」\n\n「工… … … … … …」\n\n「… … 場… … … …」\n\n「キビキビ話せ！」\n\nこの状況を解決する情報が、この周辺にあるんじゃないだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "忙しく稼働している時計工場。\n\n「!@#$!#$#!$@#$!$#@$.」\n\nつやつやの靴にパリッとしたスーツを着た工場主が、油に汚れた作業服を着た職員たちに大声を張り上げている。\n\nすると突然何かを見て、ある職員に近づいて目を血走らせながら怒り始めた。\n\n仕事で手一杯の職員は凄く慌てながら何かを言おうとするが、あまりにも遅いせいで口を開くのにも歳月が流れていきそうだ。\n\nもどかしくて仕方が無いという顔で、工場主がレコーダーまで取り出して自分の声を聞かせてあげたが、意思疎通ができない。\n\n「さっきカメラを確認したんだが2時間も寝ていたな。言い訳はあるか？」\n\n「工… … … … … …」\n\n「… … 場… … … …」\n\n「キビキビ話せ！」\n\nこの状況を解決する情報が、この周辺にあるんじゃないだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "忙しく稼働している時計工場。\n\n「!@#$!#$#!$@#$!$#@$.」\n\nつやつやの靴にパリッとしたスーツを着た工場主が、油に汚れた作業服を着た職員たちに大声を張り上げている。\n\nすると突然何かを見て、ある職員に近づいて目を血走らせながら怒り始めた。\n\n仕事で手一杯の職員は凄く慌てながら何かを言おうとするが、あまりにも遅いせいで口を開くのにも歳月が流れていきそうだ。\n\nもどかしくて仕方が無いという顔で、工場主がレコーダーまで取り出して自分の声を聞かせてあげたが、意思疎通ができない。\n\n「さっきカメラを確認したんだが2時間も寝ていたな。言い訳はあるか？」\n\n「工… … … … … …」\n\n「… … 場… … … …」\n\n「キビキビ話せ！」\n\nこの状況を解決する情報が、この周辺にあるんじゃないだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n바쁘게 돌아가는 어느 시계 공장.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\n번쩍이는 구두에 빳빳한 양복을 차려입은 공장주가 기름때 묻은 작업복 입은 직원들한테 고래고래 소리 지른다.\n\n그러다 갑자기 무언가를 보더니, 한 직원에게 다가가 쌍심지를 켜고 화를 내기 시작했다.\n\n일하기에도 정신없던 직원은 잔뜩 당황해 무언가 말하려 하지만, 너무 느린 나머지 입을 떼는 것조차 한세월이 걸린다.\n\n답답해 죽겠다는 듯, 공장주가 녹음기까지 꺼내 자기 목소리를 들려주지만, 소통이 되질 않는다.\n\n\"방금 카메라를 확인해 보니 2시간을 잤더군. 할 말이 있나?\"\n\n\"공… … … … … …\"\n\n\"… … 장… … … …\"\n\n\"좀 빨리빨리 말해보게!\"\n\n이 상황을 해결할 정보가 주변에 있지 않을까?\nEN:\nJust another busy, busy watch factory.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\nA man in shiny dress shoes and a clean set of suit, clearly the factory's owner, is shouting at his employees in dirty, oil-gunked work clothes.\n\nSomething seems to catch his eye, causing him to glare at one of the employees and scream with anger.\n\nThe employee, who is already occupied with his work, gets flustered and tries to say something. But it takes him ages to even open his mouth.\n\nThe owner pulls out a recorder in a frustrated attempt to communicate, but it doesn't help.\n\n\"I just checked the security camera. You've been napping for two whole hours! Explain yourself.\"\n\n\"F… … … a… … …\"\n\n\"… … c… … … t…\"\n\n\"Can't you speak any faster, man?!\"\n\nMaybe there's something around here to resolve this situation?"
   },
   {
     "key": "971021-options[0].message",
-    "original": "工場を全体的に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "工場を全体的に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "工場を全体的に調べてみる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "工場を全体的に調べてみる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공장을 전체적으로 살펴본다.\nEN:\nTake a look around the factory."
   },
   {
     "key": "971021-options[0].messageDesc",
-    "original": "暴食・傲慢有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "暴食・傲慢有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "暴食・傲慢有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "暴食・傲慢有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n탐식 · 오만 유리 판정 성공 시, 진동 E.G.O GIFT 획득\nEN:\nGluttony & Pride Advantage check. Pass to gain a Tremor E.G.O Gift."
   },
   {
     "key": "971021-options[1].message",
-    "original": "工場主と職員を綿密に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "工場主と職員を綿密に調べてみる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "工場主と職員を綿密に調べてみる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "工場主と職員を綿密に調べてみる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공장주와 직원을 면밀히 살펴본다.\nEN:\nTake a good look at the factory owner and the employee."
   },
   {
     "key": "971021-options[1].messageDesc",
-    "original": "憂鬱・怠惰有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憂鬱・怠惰有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憂鬱・怠惰有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憂鬱・怠惰有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n우울 · 나태 유리 판정 성공 시, 진동 E.G.O GIFT 획득\nEN:\nGloom & Sloth Advantage check. Pass to gain a Tremor E.G.O Gift."
   },
   {
     "key": "971022-name",
-    "original": "T社の税金徴収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "T社の税金徴収\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "T社の税金徴収\n<CMT_KR>\n<CMT_JP>",
+    "translation": "T社の税金徴収\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nT사 세금 징수\nEN:\nT Corp. Tax Collection"
   },
   {
     "key": "971022-desc",
-    "original": "T社の通り、時間徴収者が誰かを引き留めて税金を徴収している。\n\n「納付は時間にしますか？それともお金にしますか？」\n\n「だから…私たちは時間税を全て支払ってるんですよ！それに3億眼だなんて…。」\n\n「寄付贈与税によって発生した時間税です。」\n\n「まさかこの前、裏路地の子供たちに配った時間のせいでこうなさってるんですか？」\n\n「300時間を寄付しただけなのに、3億眼を時間税として支払わないといけないのはおかしいじゃないですか！」\n\n「T社の徴税計算は常に正確です。」\n\n時間徴収者が制圧のため、市民へと大股で近づいていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "T社の通り、時間徴収者が誰かを引き留めて税金を徴収している。\n\n「納付は時間にしますか？それともお金にしますか？」\n\n「だから…私たちは時間税を全て支払ってるんですよ！それに3億眼だなんて…。」\n\n「寄付贈与税によって発生した時間税です。」\n\n「まさかこの前、裏路地の子供たちに配った時間のせいでこうなさってるんですか？」\n\n「300時間を寄付しただけなのに、3億眼を時間税として支払わないといけないのはおかしいじゃないですか！」\n\n「T社の徴税計算は常に正確です。」\n\n時間徴収者が制圧のため、市民へと大股で近づいていった。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "T社の通り、時間徴収者が誰かを引き留めて税金を徴収している。\n\n「納付は時間にしますか？それともお金にしますか？」\n\n「だから…私たちは時間税を全て支払ってるんですよ！それに3億眼だなんて…。」\n\n「寄付贈与税によって発生した時間税です。」\n\n「まさかこの前、裏路地の子供たちに配った時間のせいでこうなさってるんですか？」\n\n「300時間を寄付しただけなのに、3億眼を時間税として支払わないといけないのはおかしいじゃないですか！」\n\n「T社の徴税計算は常に正確です。」\n\n時間徴収者が制圧のため、市民へと大股で近づいていった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "T社の通り、時間徴収者が誰かを引き留めて税金を徴収している。\n\n「納付は時間にしますか？それともお金にしますか？」\n\n「だから…私たちは時間税を全て支払ってるんですよ！それに3億眼だなんて…。」\n\n「寄付贈与税によって発生した時間税です。」\n\n「まさかこの前、裏路地の子供たちに配った時間のせいでこうなさってるんですか？」\n\n「300時間を寄付しただけなのに、3億眼を時間税として支払わないといけないのはおかしいじゃないですか！」\n\n「T社の徴税計算は常に正確です。」\n\n時間徴収者が制圧のため、市民へと大股で近づいていった。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nT사 거리, 시간 징수자가 한 사람을 붙잡고 세금을 징수하고 있다.\n\n\"납부는 시간으로 하십니까? 아니면 돈으로 하십니까?\"\n\n\"그러니까… 저희는 시간세를 다 냈다니까요! 거기다가 3억 안이라니…\"\n\n\"기부 증여세로 인해 발생한 시간세입니다.\"\n\n\"설마 저번에 뒷골목 아이들에게 나눠준 시간 때문에 이러는 거예요?\"\n\n\"300시간을 기부했을 뿐인데, 3억 안을 시간세로 내야 하는 건 이상하잖아요!\"\n\n\"T사의 징세 계산은 언제나 정확합니다.\"\n\n시간 징수자가 제압을 위해 시민에게 성큼성큼 다가간다.\nEN:\nA random T Corp. street. A Collection Staff is collecting taxes from someone.\n\n\"Will you be making your payments in time, or in cash?\"\n\n\"Like I said, we already paid our Time Taxes in full! Besides, three-hundred-million Ahn? That's absurd...!\"\n\n\"The records state that you have accrued additional Time Tax responsibilities due to the donation gift tax.\"\n\n\"No way. Is this because I gave away my time to those kids in the Backstreets?\"\n\n\"I only gave them three hundred hours, so how the hell does that transform into a three-hundred-million Ahn in taxes?! That doesn't make any sense!\"\n\n\"Tax calculations in T Corp. are always exceptionally accurate.\"\n\nThe Time Collector strides toward the citizen to neutralize them."
   },
   {
     "key": "971022-options[0].message",
-    "original": "話しかける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "話しかける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "話しかける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "話しかける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n말을 건다.\nEN:\nTalk to them."
   },
   {
     "key": "971022-options[0].messageDesc",
-    "original": "憂鬱・怠惰有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憂鬱・怠惰有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憂鬱・怠惰有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憂鬱・怠惰有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n우울 · 나태 유리 판정 성공 시, 범용 E.G.O GIFT 획득\nEN:\nGloom & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift."
   },
   {
     "key": "971022-options[1].message",
-    "original": "通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "通り過ぎる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "通り過ぎる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "通り過ぎる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지나친다.\nEN:\nWalk away."
   },
   {
     "key": "971022-options[1].result[0]",
-    "original": "徴収所で上手いこと話を付けるしかなさそうに見える。\n\n出しゃばったところで変わることはない。\n\nふと、こういう考えがT社をこうさせたのだと思い声を掛けようと思ったが…。\n\n既に市民は時間を奪われ、際限なく遅くなっていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "徴収所で上手いこと話を付けるしかなさそうに見える。\n\n出しゃばったところで変わることはない。\n\nふと、こういう考えがT社をこうさせたのだと思い声を掛けようと思ったが…。\n\n既に市民は時間を奪われ、際限なく遅くなっていた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "徴収所で上手いこと話を付けるしかなさそうに見える。\n\n出しゃばったところで変わることはない。\n\nふと、こういう考えがT社をこうさせたのだと思い声を掛けようと思ったが…。\n\n既に市民は時間を奪われ、際限なく遅くなっていた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "徴収所で上手いこと話を付けるしかなさそうに見える。\n\n出しゃばったところで変わることはない。\n\nふと、こういう考えがT社をこうさせたのだと思い声を掛けようと思ったが…。\n\n既に市民は時間を奪われ、際限なく遅くなっていた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n징수소에서 잘 이야기하는 수밖에 없어 보인다.\n\n직접 나선다고 변하는 건 없다.\n\n문득, 이 생각이 T사를 이렇게 만든 거라는 생각에 말을 걸어보려 했지만…\n\n이미 시민은 가진 시간을 빼앗기고 한없이 느려졌다.\nEN:\nLooks like he'll have to defend himself somehow at the Collections Office.\n\nIt's not like you can change anything by stepping in.\n\n... You suddenly come to a realization that this is the kind of thought that transformed T Corp. to a place like this. You whip around and try to intervene...\n\n... But the Time Collector had already extracted time from the citizen, slowing him to a crawl."
   },
   {
     "key": "971023-name",
-    "original": "T社の通り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "T社の通り\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "T社の通り\n<CMT_KR>\n<CMT_JP>",
+    "translation": "T社の通り\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nT사 거리\nEN:\nStreets of T Corp."
   },
   {
     "key": "971023-desc",
-    "original": "それぞれ異なる時間を持った人たちが遅く、速く話しながら行動する。\n\nそのズレに由来する奇妙な音が、通りを不均衡で満たしている。\n\nそのとき、時計を見つめる二人が視界を横切る。\n\n裕福そうな青年は時間が多そうなのに、忙しい足取りで街の方に向かい、\n\n老人に見える人は時間が足りなさそうなのに、余裕そうな顔で路地に入る。\n\n誰について行ってみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "それぞれ異なる時間を持った人たちが遅く、速く話しながら行動する。\n\nそのズレに由来する奇妙な音が、通りを不均衡で満たしている。\n\nそのとき、時計を見つめる二人が視界を横切る。\n\n裕福そうな青年は時間が多そうなのに、忙しい足取りで街の方に向かい、\n\n老人に見える人は時間が足りなさそうなのに、余裕そうな顔で路地に入る。\n\n誰について行ってみようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "それぞれ異なる時間を持った人たちが遅く、速く話しながら行動する。\n\nそのズレに由来する奇妙な音が、通りを不均衡で満たしている。\n\nそのとき、時計を見つめる二人が視界を横切る。\n\n裕福そうな青年は時間が多そうなのに、忙しい足取りで街の方に向かい、\n\n老人に見える人は時間が足りなさそうなのに、余裕そうな顔で路地に入る。\n\n誰について行ってみようか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "それぞれ異なる時間を持った人たちが遅く、速く話しながら行動する。\n\nそのズレに由来する奇妙な音が、通りを不均衡で満たしている。\n\nそのとき、時計を見つめる二人が視界を横切る。\n\n裕福そうな青年は時間が多そうなのに、忙しい足取りで街の方に向かい、\n\n老人に見える人は時間が足りなさそうなのに、余裕そうな顔で路地に入る。\n\n誰について行ってみようか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n저마다 다른 시간을 가진 사람들이 느리고 빠르게 말하고, 행동한다.\n\n그 어긋남에서 오는 기이한 소리가 거리를 불균형으로 가득 채운다.\n\n그때, 시계를 바라보는 두 사람이 시야를 스쳐 간다.\n\n부유해 보이는 청년은 시간이 많아 보이는데도 바쁜 걸음으로 거리 쪽으로 향하고\n\n노인으로 보이는 사람은 시간이 부족해 보이는데도 여유로운 표정으로 골목길로 들어선다.\n\n누구를 따라가 볼까?\nEN:\nPeople from all walks of life, all with different hours to spend in a given day, speak and move about in varying speeds.\n\nThe sound coming from this odd inequality fills the street with incongruence.\n\nTwo people catch your attention in that chaos.\n\nA rich-looking youth, despite his apparent time affluence, is walking in a brisk pace toward the streets...\n\n... and a poor-looking old man, despite his apparent time poverty, is slowly walking into an alley with a leisurely look on his face.\n\nWho to follow?"
   },
   {
     "key": "971023-options[0].message",
-    "original": "青年について行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "青年について行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "青年について行く。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "青年について行く。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n청년을 따라가본다.\nEN:\nFollow the youth."
   },
   {
     "key": "971023-options[0].messageDesc",
-    "original": "傲慢・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傲慢・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傲慢・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傲慢・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n오만 · 탐식 유리 판정 성공 시, 진동 E.G.O GIFT 획득\nEN:\nPride & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
   },
   {
     "key": "971023-options[1].message",
-    "original": "老人について行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "老人について行く。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "老人について行く。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "老人について行く。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n노인을 따라가본다.\nEN:\nFollow the old man."
   },
   {
     "key": "971023-options[1].messageDesc",
-    "original": "怠惰・色欲有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "怠惰・色欲有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "怠惰・色欲有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "怠惰・色欲有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n나태 · 색욕 유리 판정 성공 시, 진동 E.G.O GIFT 획득\nEN:\nSloth & Lust Advantage check. Pass to gain a Tremor E.G.O Gift."
   },
   {
     "key": "971023-options[2].message",
-    "original": "誰にもついていかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "誰にもついていかない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "誰にもついていかない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰にもついていかない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n누구도 쫓아가지 않는다.\nEN:\nDon't follow anyone."
   },
   {
     "key": "971023-options[2].result[0]",
-    "original": "彼らは彼らの時間を過ごしているだけだ。\n\nそれなら私たちもあの人たちを追いかけずに、私たちの時間を過ごさないと。\n\n不公平な時間について考えながら通りを歩いた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "彼らは彼らの時間を過ごしているだけだ。\n\nそれなら私たちもあの人たちを追いかけずに、私たちの時間を過ごさないと。\n\n不公平な時間について考えながら通りを歩いた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "彼らは彼らの時間を過ごしているだけだ。\n\nそれなら私たちもあの人たちを追いかけずに、私たちの時間を過ごさないと。\n\n不公平な時間について考えながら通りを歩いた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "彼らは彼らの時間を過ごしているだけだ。\n\nそれなら私たちもあの人たちを追いかけずに、私たちの時間を過ごさないと。\n\n不公平な時間について考えながら通りを歩いた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n저들은 저들의 시간을 보내고 있을 뿐이다.\n\n그럼 우리도 저 사람들을 쫓아가지 말고, 우리의 시간을 보내야지.\n\n불공평한 시간에 대해 생각하며 거리를 걸었다.\nEN:\nThey're just two people minding their own business, spending their own time as they see fit.\n\nWhy go after them? Let's just spend our time as we see fit.\n\nYou continue down the street, your head brimming with thoughts of time inequality."
   },
   {
     "key": "971024-name",
-    "original": "ユロージヴィ アジト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ユロージヴィ アジト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ユロージヴィ アジト\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ユロージヴィ アジト\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n유로지비 아지트\nEN:\nYurodiviye Hideout"
   },
   {
     "key": "971024-desc",
-    "original": "ユロージヴィたちの秘密アジト。そこでは聖者が伝えてくれた文言を、とある活動団員が熱心に朗読している。\n\n「今や私たちは工場主、有産階級、そして翼の部品となった。」\n\n「赤裸々な利害関係、無情な金銭関係以外に、都市の人々の間にはどんな関係が残っただろうか？」\n\n「それゆえ私たちは冷たい硬貨の代わりに、互いに必要な温かいものを交換し、互いを理解し合い、絶えず分かち合うのである！」\n\n「巣の法は持てる者の安全のための副産物であり、持たざる者を支配する足枷に過ぎないのではないか？」\n\n「それならば我々は巣の法に逆らい、持たざる者の怒りを示そうぞ！」\n\n「ユロージヴィが最後に失うものは鎖だけよ、得るものは腹を空かすことのない世界だ！」\n\nその瞬間、朗読していた活動団員が私たちを指差した。\n\n何かしら反応しないといけなさそうだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ユロージヴィたちの秘密アジト。そこでは聖者が伝えてくれた文言を、とある活動団員が熱心に朗読している。\n\n「今や私たちは工場主、有産階級、そして翼の部品となった。」\n\n「赤裸々な利害関係、無情な金銭関係以外に、都市の人々の間にはどんな関係が残っただろうか？」\n\n「それゆえ私たちは冷たい硬貨の代わりに、互いに必要な温かいものを交換し、互いを理解し合い、絶えず分かち合うのである！」\n\n「巣の法は持てる者の安全のための副産物であり、持たざる者を支配する足枷に過ぎないのではないか？」\n\n「それならば我々は巣の法に逆らい、持たざる者の怒りを示そうぞ！」\n\n「ユロージヴィが最後に失うものは鎖だけよ、得るものは腹を空かすことのない世界だ！」\n\nその瞬間、朗読していた活動団員が私たちを指差した。\n\n何かしら反応しないといけなさそうだ。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ユロージヴィたちの秘密アジト。そこでは聖者が伝えてくれた文言を、とある活動団員が熱心に朗読している。\n\n「今や私たちは工場主、有産階級、そして翼の部品となった。」\n\n「赤裸々な利害関係、無情な金銭関係以外に、都市の人々の間にはどんな関係が残っただろうか？」\n\n「それゆえ私たちは冷たい硬貨の代わりに、互いに必要な温かいものを交換し、互いを理解し合い、絶えず分かち合うのである！」\n\n「巣の法は持てる者の安全のための副産物であり、持たざる者を支配する足枷に過ぎないのではないか？」\n\n「それならば我々は巣の法に逆らい、持たざる者の怒りを示そうぞ！」\n\n「ユロージヴィが最後に失うものは鎖だけよ、得るものは腹を空かすことのない世界だ！」\n\nその瞬間、朗読していた活動団員が私たちを指差した。\n\n何かしら反応しないといけなさそうだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ユロージヴィたちの秘密アジト。そこでは聖者が伝えてくれた文言を、とある活動団員が熱心に朗読している。\n\n「今や私たちは工場主、有産階級、そして翼の部品となった。」\n\n「赤裸々な利害関係、無情な金銭関係以外に、都市の人々の間にはどんな関係が残っただろうか？」\n\n「それゆえ私たちは冷たい硬貨の代わりに、互いに必要な温かいものを交換し、互いを理解し合い、絶えず分かち合うのである！」\n\n「巣の法は持てる者の安全のための副産物であり、持たざる者を支配する足枷に過ぎないのではないか？」\n\n「それならば我々は巣の法に逆らい、持たざる者の怒りを示そうぞ！」\n\n「ユロージヴィが最後に失うものは鎖だけよ、得るものは腹を空かすことのない世界だ！」\n\nその瞬間、朗読していた活動団員が私たちを指差した。\n\n何かしら反応しないといけなさそうだ。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n유로지비들의 비밀 아지트. 그곳에서는 성자가 전해준 글을 한 활동단원이 열심히 낭독하고 있다.\n\n\"우리는 이제 공장주, 유산계급, 그리고 날개의 부품이 되었다.\"\n\n\"적나라한 이해관계, 무정한 금전 관계 이외에 도시의 사람들 사이, 다른 어떤 관계가 남았는가?\"\n\n\"그러니 우리는 차가운 동전 대신, 서로 필요한 따스한 것을 교환하여 서로를 이해하고, 끝없이 나눌 것이다!\"\n\n\"둥지의 법은 가진 자의 안전을 위한 부산물이자, 가지지 못한 자를 지배할 족쇄에 불과하지 않은가?\"\n\n\"그렇다면 우리는 둥지의 법을 거스르고, 가지지 못한 자의 분노를 보여줄 것이다!\"\n\n\"유로지비가 끝에 잃을 것이라고는 사슬뿐이요, 얻을 것은 배곯는 일 하나 없는 세상이다!\"\n\n그 순간, 낭독하던 활동단원이 우리를 가리켰다.\n\n뭐라도 반응하지 않으면 안 될 것 같다.\nEN:\nA secret hideout of the Yurodiviye. A Yurodivy is fervently reciting the texts given to them by the Saint.\n\n\"We have become nothing but cogs in a machine that exists solely for the industrialists, the bourgeoisie, and the Wings.\"\n\n\"What else, what other human relation remains among the Citizens but the narrow self-interest and heartless bonds created by capital?\n\n\"Thus, we shall cast aside the cold, unfeeling metal we call coin; instead, we shall trade our warmth with one another based on our needs!\"\n\n\"To the haves, the laws of the Nests are shields that protect their privileges; yet, to the have-nots, they are chains that shackle us!\"\n\n\"Then we shall defy the laws of the Nest! We shall show them the wrath of the have-nots!\"\n\n\"All that the Yurodiviye have to lose is our chains; all that we have to gain is a world without hunger!\"\n\nThe Yurodivy suddenly points in our direction.\n\nLooks like we're going to have to say something."
   },
   {
     "key": "971024-options[0].message",
-    "original": "と、都市のユロージヴィよ、団結せよ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "と、都市のユロージヴィよ、団結せよ！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "と、都市のユロージヴィよ、団結せよ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "と、都市のユロージヴィよ、団結せよ！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n도, 도시의 유로지비여, 단결하라!\nEN:\nT-the Yurodiviye of the City, Unite!"
   },
   {
     "key": "971024-options[0].messageDesc",
-    "original": "憤怒・嫉妬・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "憤怒・嫉妬・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "憤怒・嫉妬・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憤怒・嫉妬・暴食有利判定成功時、振動E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분노 · 질투 · 탐식 유리 판정 성공 시, 진동 E.G.O GIFT 획득\nEN:\nWrath & Envy & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
   },
   {
     "key": "971024-options[1].message",
-    "original": "良い考えだと思うけど、絶対に実現するわけない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "良い考えだと思うけど、絶対に実現するわけない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "良い考えだと思うけど、絶対に実現するわけない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "良い考えだと思うけど、絶対に実現するわけない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n좋은 생각이지만, 제대로 실행될 리 없어.\nEN:\nI like the idea, but there's no way it'll work right."
   },
   {
     "key": "971024-options[1].result[0]",
-    "original": "囚人の言葉に、辺りの空気が一瞬にして冷たくなる。\n\n隊長と思わしき活動団員がドアを指しながら出て行けと目配せをしてきた。\n\n酷い目に遭う前に、素早くアジトから抜け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人の言葉に、辺りの空気が一瞬にして冷たくなる。\n\n隊長と思わしき活動団員がドアを指しながら出て行けと目配せをしてきた。\n\n酷い目に遭う前に、素早くアジトから抜け出した。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人の言葉に、辺りの空気が一瞬にして冷たくなる。\n\n隊長と思わしき活動団員がドアを指しながら出て行けと目配せをしてきた。\n\n酷い目に遭う前に、素早くアジトから抜け出した。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人の言葉に、辺りの空気が一瞬にして冷たくなる。\n\n隊長と思わしき活動団員がドアを指しながら出て行けと目配せをしてきた。\n\n酷い目に遭う前に、素早くアジトから抜け出した。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자의 말에 주변의 분위기가 싸늘하게 굳는다.\n\n대장으로 보이는 활동단원이 문을 가리키며 나가라 눈짓한다.\n\n화를 입기 전에, 빠르게 아지트에서 빠져나갔다.\nEN:\nAs soon as the Sinner finishes speaking, the room immediately falls cold and silent.\n\nThe Yurodivy who appears to be their leader points at the door and motions you to leave.\n\nYou leave the place before something happens."
   },
   {
     "key": "971025-name",
-    "original": "時間殺人現場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間殺人現場\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間殺人現場\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間殺人現場\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간살인현장\nEN:\nThe Timekilling Scene"
   },
   {
     "key": "971025-desc",
-    "original": "時間殺人鬼にやられて止まってしまった被害者がいる。\n\n時空間転移重畳現象のせいで触ることすらできない。\n\nこの人を助けられる方法はないのだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間殺人鬼にやられて止まってしまった被害者がいる。\n\n時空間転移重畳現象のせいで触ることすらできない。\n\nこの人を助けられる方法はないのだろうか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間殺人鬼にやられて止まってしまった被害者がいる。\n\n時空間転移重畳現象のせいで触ることすらできない。\n\nこの人を助けられる方法はないのだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間殺人鬼にやられて止まってしまった被害者がいる。\n\n時空間転移重畳現象のせいで触ることすらできない。\n\nこの人を助けられる方法はないのだろうか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 살인마에게 당해 멈춰버린 피해자가 있다.\n\n시공간 전위 중첩 현상 때문에 만지는 것조차 불가능하다.\n\n이 사람을 도울 방법이 없을까?\nEN:\nYou see a victim of the Time Ripper.\n\nYou can't even touch them thanks to the spatio-temporal displacement superposition phenomenon.\n\nIs there anything you can do here to help?"
   },
   {
     "key": "971025-options[0].message",
-    "original": "助ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "助ける。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "助ける。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "助ける。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n돕는다.\nEN:\nTry to help."
   },
   {
     "key": "971025-options[0].messageDesc",
-    "original": "怠惰・暴食・傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "怠惰・暴食・傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "怠惰・暴食・傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "怠惰・暴食・傲慢有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n나태 · 탐식 · 오만 유리 판정 성공 시, 범용 E.G.O GIFT 획득\nEN:\nSloth & Gluttony & Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
   },
   {
     "key": "971025-options[1].message",
-    "original": "無視する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "無視する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "無視する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "無視する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n무시한다.\nEN:\nIgnore them and move on."
   },
   {
     "key": "971025-options[1].result[0]",
-    "original": "時間殺人鬼を追わねばならない。\n\nここで無駄にできる時間はない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "時間殺人鬼を追わねばならない。\n\nここで無駄にできる時間はない。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "時間殺人鬼を追わねばならない。\n\nここで無駄にできる時間はない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "時間殺人鬼を追わねばならない。\n\nここで無駄にできる時間はない。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n시간 살인마를 쫓아야 한다.\n\n이곳에서 낭비할 시간은 없다.\nEN:\nYou have to go after the Time Ripper.\n\nNo time to waste."
   }

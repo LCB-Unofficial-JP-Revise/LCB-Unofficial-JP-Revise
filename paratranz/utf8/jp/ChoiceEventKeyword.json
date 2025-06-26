@@ -1,120 +1,120 @@
 [
   {
     "key": "EGO_GIFT-content",
-    "original": "E.G.Oギフト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.Oギフト\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.Oギフト\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.Oギフト\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 기프트\nEN:\nE.G.O Gift"
   },
   {
     "key": "OnStageStart-content",
-    "original": "ステージ進入時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ステージ進入時\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ステージ進入時\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ進入時\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n스테이지 진입 시\nEN:\nUpon Stage Entry"
   },
   {
     "key": "IncludeSkillAttribute-content",
-    "original": "[ATTRIBUTES]属性攻撃スキルを保有している\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[ATTRIBUTES]属性攻撃スキルを保有している\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[ATTRIBUTES]属性攻撃スキルを保有している\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ATTRIBUTES]属性攻撃スキルを保有している\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[ATTRIBUTES] 속성 공격 스킬을 보유한\nEN:\nwith the [ATTRIBUTES] Sin Affinity Attack Skill"
   },
   {
     "key": "NotIncludeSkillAttribute-content",
-    "original": "[ATTRIBUTES]属性攻撃スキルを保有していない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[ATTRIBUTES]属性攻撃スキルを保有していない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[ATTRIBUTES]属性攻撃スキルを保有していない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ATTRIBUTES]属性攻撃スキルを保有していない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[ATTRIBUTES] 속성 공격 스킬을 보유하지 않은\nEN:\nwithout the [ATTRIBUTES] Sin Affinity Attack Skill"
   },
   {
     "key": "NextBattle-content",
-    "original": "次の戦闘に参加する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "次の戦闘に参加する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "次の戦闘に参加する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "次の戦闘に参加する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n다음 전투에 참여하는\nEN:\nparticipating in the next battle"
   },
   {
     "key": "LowestMp-content",
-    "original": "最も精神力の低い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "最も精神力の低い\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "最も精神力の低い\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最も精神力の低い\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가장 정신력이 낮은\nEN:\nwith the lowest SP"
   },
   {
     "key": "FAILURE-content",
-    "original": "判定に失敗した\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "判定に失敗した\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "判定に失敗した\n<CMT_KR>\n<CMT_JP>",
+    "translation": "判定に失敗した\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n판정에 실패한\nEN:\nthat failed the Check"
   },
   {
     "key": "SUCCESS-content",
-    "original": "判定に成功した\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "判定に成功した\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "判定に成功した\n<CMT_KR>\n<CMT_JP>",
+    "translation": "判定に成功した\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n판정에 성공한\nEN:\nthat passed the Check"
   },
   {
     "key": "ADD-content",
-    "original": "加算\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "加算\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "加算\n<CMT_KR>\n<CMT_JP>",
+    "translation": "加算\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n더하기\nEN:\nAdd"
   },
   {
     "key": "SUB-content",
-    "original": "減算\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "減算\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "減算\n<CMT_KR>\n<CMT_JP>",
+    "translation": "減算\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빼기\nEN:\nSubtract"
   },
   {
     "key": "85560101CRIMSON-content",
-    "original": "深紅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "深紅\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "深紅\n<CMT_KR>\n<CMT_JP>",
+    "translation": "深紅\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n붉은\nEN:\nCrimson"
   },
   {
     "key": "85560101SCARLET-content",
-    "original": "緋色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "緋色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "緋色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "緋色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주홍\nEN:\nScarlet"
   },
   {
     "key": "85560101AMBER-content",
-    "original": "琥珀色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "琥珀色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "琥珀色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "琥珀色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n노란\nEN:\nAmber"
   },
   {
     "key": "85560101SHAMROCK-content",
-    "original": "詰草色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "詰草色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "詰草色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "詰草色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n푸른\nEN:\nShamrock"
   },
   {
     "key": "85560101AZURE-content",
-    "original": "紺碧\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "紺碧\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "紺碧\n<CMT_KR>\n<CMT_JP>",
+    "translation": "紺碧\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n새파란\nEN:\nAzure"
   },
   {
     "key": "85560101INDIGO-content",
-    "original": "藍色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "藍色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "藍色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "藍色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n쪽빛\nEN:\nIndigo?"
   },
   {
     "key": "85560101VIOLET-content",
-    "original": "菫色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "菫色\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "菫色\n<CMT_KR>\n<CMT_JP>",
+    "translation": "菫色\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n보랏빛\nEN:\nViolet"
   }

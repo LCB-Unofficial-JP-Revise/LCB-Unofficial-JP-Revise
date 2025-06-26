@@ -1,736 +1,736 @@
 [
   {
     "key": "857801-levelList[0].name",
-    "original": "綿花を植える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "綿花を植える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "綿花を植える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "綿花を植える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n목화 심기\nEN:\nGossypium Planting"
   },
   {
     "key": "857801-levelList[0].desc",
-    "original": "[WhenUse] 対象に[MRcAfBa]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象に[MRcAfBa]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象に[MRcAfBa]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[MRcAfBa]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상에게 [MRcAfBa] 3 부여\nEN:\n[WhenUse] Inflict 3 [MRcAfBa]"
   },
   {
     "key": "857801-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 3 부여, [Laceration] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count"
   },
   {
     "key": "857802-levelList[0].name",
-    "original": "傷を植える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "傷を植える\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "傷を植える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傷を植える\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상처 심기\nEN:\nWound Planting"
   },
   {
     "key": "857802-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
   },
   {
     "key": "857802-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] [Laceration]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Laceration] 4 부여\nEN:\n[OnSucceedAttackHead] Inflict 4 [Laceration]"
   },
   {
     "key": "857803-levelList[0].name",
-    "original": "吸い取る根\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "吸い取る根\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "吸い取る根\n<CMT_KR>\n<CMT_JP>",
+    "translation": "吸い取る根\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빨아들이는 뿌리\nEN:\nDraining Roots"
   },
   {
     "key": "857803-levelList[0].desc",
-    "original": "[CantDuel]\n速度が最も低い[MRcAfBa]を持つ対象を攻撃\n対象の([MRcAfBa] × 10)%だけダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n速度が最も低い[MRcAfBa]を持つ対象を攻撃\n対象の([MRcAfBa] × 10)%だけダメージ量が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n速度が最も低い[MRcAfBa]を持つ対象を攻撃\n対象の([MRcAfBa] × 10)%だけダメージ量が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n速度が最も低い[MRcAfBa]を持つ対象を攻撃\n対象の([MRcAfBa] × 10)%だけダメージ量が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\n속도가 가장 느린 [MRcAfBa]를 가진 대상 공격\n대상의 ([MRcAfBa] X 10)%만큼 피해량이 증가\nEN:\n[CantDuel]\nAmong targets with [MRcAfBa], attack the unit with the slowest Speed;\nDeal +([MRcAfBa] x 10)% damage"
   },
   {
     "key": "857803-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 피해량의 ([MRcAfBa] X 5)%만큼 체력 회복\nEN:\n[OnSucceedAttack] Heal by ([MRcAfBa] x 5)% of damage dealt"
   },
   {
     "key": "857803-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量の([MRcAfBa] X 5)%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 피해량의 ([MRcAfBa] X 5)%만큼 체력 회복\nEN:\n[OnSucceedAttack] Heal by ([MRcAfBa] x 5)% of damage dealt"
   },
   {
     "key": "857804-levelList[0].name",
-    "original": "覆う綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "覆う綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "覆う綿花\n<CMT_KR>\n<CMT_JP>",
+    "translation": "覆う綿花\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뒤덮는 목화\nEN:\nFlourishing Gossypium"
   },
   {
     "key": "857804-levelList[0].desc",
-    "original": "[Laceration]が最も多い対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5, 付与効果が2倍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Laceration]が最も多い対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5, 付与効果が2倍\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Laceration]が最も多い対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5, 付与効果が2倍\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Laceration]が最も多い対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5, 付与効果が2倍\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Laceration]이 가장 많은 대상 공격\n[WhenUse] 메인 타겟이 [Laceration]이 가장 많은 적이면, 기본 위력 +5, 부여하는 효과 2배\nEN:\nAttacks the target with the most [Laceration]\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +5, inflict x2 the effects"
   },
   {
     "key": "857804-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[Binding]2, [ScarletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[Binding]2, [ScarletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[Binding]2, [ScarletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[Binding]2, [ScarletTakeDamageUp]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [Binding] 2, [ScarletTakeDamageUp] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Binding] and 2 [ScarletTakeDamageUp] next turn"
   },
   {
     "key": "857804-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 8 부여, [Laceration] 횟수 4 증가\nEN:\n[OnSucceedAttack] Inflict 8 [Laceration] and +4 [Laceration] Count"
   },
   {
     "key": "857805-levelList[0].name",
-    "original": "撒き散らされる綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "撒き散らされる綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "撒き散らされる綿花\n<CMT_KR>\n<CMT_JP>",
+    "translation": "撒き散らされる綿花\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흩뿌려지는 목화\nEN:\nScattering Gossypium"
   },
   {
     "key": "857805-levelList[0].desc",
-    "original": "体力が最も低い[MRcAfBa]を持つ対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5\n[EndBattle] 次のターンに[MRcAfBb]状態が解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "体力が最も低い[MRcAfBa]を持つ対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5\n[EndBattle] 次のターンに[MRcAfBb]状態が解除\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "体力が最も低い[MRcAfBa]を持つ対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5\n[EndBattle] 次のターンに[MRcAfBb]状態が解除\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最も低い[MRcAfBa]を持つ対象を攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +5\n[EndBattle] 次のターンに[MRcAfBb]状態が解除\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 가장 낮은 [MRcAfBa]를 가진 대상 공격\n[WhenUse] 메인 타겟이 [Laceration]이 가장 많은 적이면, 기본 위력 +5\n[EndBattle] 다음 턴에 [MRcAfBb] 상태가 해제됨.\nEN:\nAmong targets with [MRcAfBa], attack the unit with the least HP\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +5\n[EndBattle] [MRcAfBb] state expires next turn."
   },
   {
     "key": "857805-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration] 4 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "857805-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration] 4 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "857806-levelList[0].name",
-    "original": "乱れる風\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "乱れる風\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "乱れる風\n<CMT_KR>\n<CMT_JP>",
+    "translation": "乱れる風\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흩어지는 바람\nEN:\nScattering Wind"
   },
   {
     "key": "857806-levelList[0].desc",
-    "original": "[OnSucceedEvade] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedEvade] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedEvade] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] [Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedEvade] [Laceration] 3 부여, [Laceration] 횟수 1 증가\nEN:\n[OnSucceedEvade] Inflict 3 [Laceration] and +1 [Laceration] Count"
   },
   {
     "key": "857807-levelList[0].name",
-    "original": "覆い被さる綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "覆い被さる綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "覆い被さる綿花\n<CMT_KR>\n<CMT_JP>",
+    "translation": "覆い被さる綿花\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뒤덮혀오는 목화\nEN:\nEncroaching Gossypium"
   },
   {
     "key": "857807-levelList[0].desc",
-    "original": "[CantDuel]\n速度が最も低い対象を優先して攻撃\nこの攻撃スキルの与ダメージ量が0になる\n[StartBattle] 次のターンにて[MRcAfBb]状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n速度が最も低い対象を優先して攻撃\nこの攻撃スキルの与ダメージ量が0になる\n[StartBattle] 次のターンにて[MRcAfBb]状態になる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n速度が最も低い対象を優先して攻撃\nこの攻撃スキルの与ダメージ量が0になる\n[StartBattle] 次のターンにて[MRcAfBb]状態になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n速度が最も低い対象を優先して攻撃\nこの攻撃スキルの与ダメージ量が0になる\n[StartBattle] 次のターンにて[MRcAfBb]状態になる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\n가장 느린 대상 우선 공격\n이 공격 스킬이 가하는 피해가 0이 됨.\n[StartBattle] 다음 턴에 [MRcAfBb] 상태가 됨.\nEN:\n[CantDuel]\nPrioritizes the unit with the slowest Speed\nDamage dealt by this Attack Skill is fixed to 0.\n[StartBattle] Enter [MRcAfBb] state next turn."
   },
   {
     "key": "857807-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [MRcAfBa]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [MRcAfBa]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [MRcAfBa]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [MRcAfBa]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [MRcAfBa] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [MRcAfBa]"
   },
   {
     "key": "857808-levelList[0].name",
-    "original": "撒き散らされる赤く染まった綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "撒き散らされる赤く染まった綿花\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "撒き散らされる赤く染まった綿花\n<CMT_KR>\n<CMT_JP>",
+    "translation": "撒き散らされる赤く染まった綿花\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흩뿌려지는 붉게 물든 목화\nEN:\nScattering Red-stained Gossypium"
   },
   {
     "key": "857808-levelList[0].desc",
-    "original": "[Laceration]が最も多く有する対象を優先して攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +10\n対象の[Laceration]が10以上なら、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Laceration]が最も多く有する対象を優先して攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +10\n対象の[Laceration]が10以上なら、ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Laceration]が最も多く有する対象を優先して攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +10\n対象の[Laceration]が10以上なら、ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Laceration]が最も多く有する対象を優先して攻撃\n[WhenUse] メインターゲットが[Laceration]を最も多く有しているなら、基本威力 +10\n対象の[Laceration]が10以上なら、ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Laceration]이 가장 많은 대상을 우선 공격\n[WhenUse] 메인 타겟이 [Laceration]이 가장 많은 적이면, 기본 위력 +10\n대상의 [Laceration]이 10 이상이면, 피해량 +50%\nEN:\nPrioritizes the target with the most [Laceration]\n[WhenUse] If the main target is the target with the most [Laceration], Base Power +10\nIf target has 10+ [Laceration], deal +50% damage"
   },
   {
     "key": "857808-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration] 5 부여, [Laceration] 횟수 4 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration] and +4 [Laceration] Count"
   },
   {
     "key": "857808-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 자신의 체력 회복\nEN:\n[OnSucceedAttack] Heal HP equal to [Laceration] on target"
   },
   {
     "key": "857808-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象へ[Laceration]5を付与、[Laceration]回数が4増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [Laceration] 5 부여, [Laceration] 횟수 4 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Laceration] and +4 [Laceration] Count"
   },
   {
     "key": "857808-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Laceration]だけ自分の体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Laceration]만큼 자신의 체력 회복\nEN:\n[OnSucceedAttack] Heal HP equal to [Laceration] on target"
   },
   {
     "key": "857701-levelList[0].name",
-    "original": "火炎強打\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "火炎強打\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "火炎強打\n<CMT_KR>\n<CMT_JP>",
+    "translation": "火炎強打\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n화염 강타\nEN:\nFlame Strike"
   },
   {
     "key": "857701-levelList[0].desc",
-    "original": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [MRcAiBa] 1 얻음\nEN:\n[WhenUse] Gain 1 [MRcAiBa]"
   },
   {
     "key": "857701-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]を3付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]を3付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]を3付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]を3付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 3 부여, [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
   },
   {
     "key": "857702-levelList[0].name",
-    "original": "紅炎翼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "紅炎翼\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "紅炎翼\n<CMT_KR>\n<CMT_JP>",
+    "translation": "紅炎翼\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍염익\nEN:\nArdor Blossom Pinions"
   },
   {
     "key": "857702-levelList[0].desc",
-    "original": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [MRcAiBa]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] [MRcAiBa] 1 얻음\nEN:\n[WhenUse] Gain 1 [MRcAiBa]"
   },
   {
     "key": "857702-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [CrimsonResistDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [CrimsonResistDown] next turn"
   },
   {
     "key": "857703-levelList[0].name",
-    "original": "点火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "点火\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "点火\n<CMT_KR>\n<CMT_JP>",
+    "translation": "点火\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n점화\nEN:\nSpark"
   },
   {
     "key": "857703-levelList[0].desc",
-    "original": "[WinDuel] 対象の[Combustion]だけ[Combustion]を付与\n[WhenUse] 対象の[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WinDuel] 対象の[Combustion]だけ[Combustion]を付与\n[WhenUse] 対象の[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WinDuel] 対象の[Combustion]だけ[Combustion]を付与\n[WhenUse] 対象の[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WinDuel] 対象の[Combustion]だけ[Combustion]を付与\n[WhenUse] 対象の[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WinDuel] 대상의 [Combustion]만큼 [Combustion] 부여.\n[WhenUse] 대상의 [Combustion] 횟수 2 증가.\nEN:\n[WinDuel] Inflict [Combustion] equal to [Combustion] on target.\n[WhenUse] Inflict +2 [Combustion] Count."
   },
   {
     "key": "857703-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象の[MRcAiBb]が3以上なら、[Combustion]回数が2増加、[Combustion]10, [MRcAiBc]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[MRcAiBb]が3以上なら、[Combustion]回数が2増加、[Combustion]10, [MRcAiBc]2を付与。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象の[MRcAiBb]が3以上なら、[Combustion]回数が2増加、[Combustion]10, [MRcAiBc]2を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[MRcAiBb]が3以上なら、[Combustion]回数が2増加、[Combustion]10, [MRcAiBc]2を付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [MRcAiBb]가 3 이상이면, [Combustion] 횟수 2 증가, [Combustion] 10, [MRcAiBc]를 2 부여.\nEN:\n[OnSucceedAttack] If target has 3+ [MRcAiBb], inflict +2 [Combustion] Count, 10 [Combustion], and 2 [MRcAiBc]."
   },
   {
     "key": "857703-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]を6付与、[Combustion]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]を6付与、[Combustion]回数が4増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]を6付与、[Combustion]回数が4増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]を6付与、[Combustion]回数が4増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] 6 부여, [Combustion] 횟수 4 증가\nEN:\n[OnSucceedAttack] Inflict 6 [Combustion] and +4 [Combustion] Count"
   },
   {
     "key": "857703-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[CrimsonResistDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [CrimsonResistDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [CrimsonResistDown] next turn"
   },
   {
     "key": "857704-levelList[0].name",
-    "original": "粉塵爆発\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "粉塵爆発\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "粉塵爆発\n<CMT_KR>\n<CMT_JP>",
+    "translation": "粉塵爆発\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n분진 폭발\nEN:\nDust Explosion"
   },
   {
     "key": "857704-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Combustion]が7以上なら、このスキルのマッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Combustion]が7以上なら、このスキルのマッチ威力 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Combustion]が7以上なら、このスキルのマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Combustion]が7以上なら、このスキルのマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Combustion]이 7이상이면, 이 스킬의 합 위력 +2\nEN:\n[WhenUse] If target has 7+ [Combustion], this Skill gains Clash Power +2"
   },
   {
     "key": "857704-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 횟수 증가\nEN:\n[OnSucceedAttack] Inflict [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857704-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 가장 느린 적에게 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 횟수 증가\nEN:\n[OnSucceedAttackHead] Against the enemy with the slowest Speed, inflict [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857704-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여\nEN:\n[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857704-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 가장 느린 적에게 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여\nEN:\n[OnSucceedAttackHead] Against the enemy with the slowest Speed, inflict [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857705-levelList[0].name",
-    "original": "紅炎殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "紅炎殺\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "紅炎殺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "紅炎殺\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n홍염살\nEN:\nArdor Blossom Star"
   },
   {
     "key": "857705-levelList[0].desc",
-    "original": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "(このターンに紅炎蛾が使用する憤怒スキルの数 × 2)だけマッチ威力が増加\n[WhenUse] 全ての敵へ(紅炎蛾が使用する憤怒スキル数 × 2)だけ[Combustion]を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n(이번 턴에 홍염나방이 사용할 분노 스킬 수 * 2)만큼 합 위력이 증가\n[WhenUse] 모든 적에게 (홍염나방이 사용할 분노 스킬 수 * 2)만큼 [Combustion] 부여\nEN:\nGain Clash Power equal to (# of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn x2)\n[WhenUse] Inflict (# of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn x2) [Combustion] to all enemies"
   },
   {
     "key": "857705-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여\nEN:\n[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857705-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 가장 느린 적에게 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여, [Combustion] 횟수 증가\nEN:\n[OnSucceedAttackHead] Against the enemy with the slowest Speed, Inflict [Combustion] and [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857705-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여\nEN:\n[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857705-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 速度が最も低い敵へ、このターンに紅炎蛾が使用する憤怒スキルの数だけ[Combustion]付与、 [Combustion]回数が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 가장 느린 적에게 이번 턴에 홍염나방이 사용할 분노 스킬 수만큼 [Combustion] 부여, [Combustion] 횟수 증가\nEN:\n[OnSucceedAttackHead] Against the enemy with the slowest Speed, Inflict [Combustion] and [Combustion] Count equal to the number of Wrath Affinity Skills that the Ardor Blossom Moth will use this turn"
   },
   {
     "key": "857705-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] ダメージ量の10%分、混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] ダメージ量の10%分、混乱区間を前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] ダメージ量の10%分、混乱区間を前進\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ダメージ量の10%分、混乱区間を前進\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 피해량의 10%만큼 흐트러짐 손상 입힘\nEN:\n[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
   },
   {
     "key": "857705-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[EndSkill] このダメージで混乱状態になった敵へ[Combustion]10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[EndSkill] このダメージで混乱状態になった敵へ[Combustion]10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[EndSkill] このダメージで混乱状態になった敵へ[Combustion]10を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[EndSkill] このダメージで混乱状態になった敵へ[Combustion]10を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[EndSkill] 이 피해로 흐트러짐 상태가 된 적에게 [Combustion] 10 부여.\nEN:\n[EndSkill] Inflict 10 [Combustion] against targets that have been Staggered by this Attack."
   },
   {
     "key": "857706-levelList[0].name",
-    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "回避\n<CMT_KR>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회피\nEN:\nEvade"
   },
   {
     "key": "857706-levelList[0].desc",
-    "original": "[WhenUseEvade] 対象へ[Combustion]4を付与\n[OnSucceedEvade] 次のターンに[MRcAiBa]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUseEvade] 対象へ[Combustion]4を付与\n[OnSucceedEvade] 次のターンに[MRcAiBa]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUseEvade] 対象へ[Combustion]4を付与\n[OnSucceedEvade] 次のターンに[MRcAiBa]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUseEvade] 対象へ[Combustion]4を付与\n[OnSucceedEvade] 次のターンに[MRcAiBa]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUseEvade] 대상에게 [Combustion] 4 부여.\n[OnSucceedEvade] 다음 턴에 [MRcAiBa] 1 얻음.\nEN:\n[WhenUseEvade] Inflict 4 [Combustion].\n[OnSucceedEvade] Gain 1 [MRcAiBa] next turn."
   },
   {
     "key": "857712-levelList[0].name",
-    "original": "火種を焚き付ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "火種を焚き付ける\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "火種を焚き付ける\n<CMT_KR>\n<CMT_JP>",
+    "translation": "火種を焚き付ける\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불씨 지피기\nEN:\nStoke the Flames"
   },
   {
     "key": "857712-levelList[0].desc",
-    "original": "[CantDuel]\n[CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel]\n[CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel]\n[CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n[CantChangeTarget]\nこの攻撃スキルの与ダメージ量が0になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel]\n[CantChangeTarget]\n이 공격 스킬이 가하는 피해는 0이 됨.\nEN:\n[CantDuel]\n[CantChangeTarget]\nDamage dealt by this Attack Skill is fixed to 0."
   },
   {
     "key": "857712-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[MRcAiBb]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[MRcAiBb]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[MRcAiBb]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[MRcAiBb]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [MRcAiBb] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [MRcAiBb] next turn"
   },
   {
     "key": "858501-levelList[0].name",
-    "original": "貫かん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "貫かん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貫かん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n꿰뚫을지니\nEN:\nIt Shall Penetrate"
   },
   {
     "key": "858501-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
   },
   {
     "key": "858501-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttackHead] Inflict +2 [Laceration] Count"
   },
   {
     "key": "858502-levelList[0].name",
-    "original": "緩やかに浸透せん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "緩やかに浸透せん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "緩やかに浸透せん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "緩やかに浸透せん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n천천히 스며들지니\nEN:\nIt Shall Be Insidious"
   },
   {
     "key": "858502-levelList[0].desc",
-    "original": "[WinDuel] コイン効果で付与する[Vulnerable]と[Binding]が2倍になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WinDuel] コイン効果で付与する[Vulnerable]と[Binding]が2倍になる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WinDuel] コイン効果で付与する[Vulnerable]と[Binding]が2倍になる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WinDuel] コイン効果で付与する[Vulnerable]と[Binding]が2倍になる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WinDuel] 코인 효과로 부여하는 [Vulnerable]과 [Binding]이 2배가 됨.\nEN:\n[WinDuel] Double the [Vulnerable] and [Binding] inflicted by Coin effects."
   },
   {
     "key": "858502-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "858502-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Vulnerable] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Vulnerable] next turn"
   },
   {
     "key": "858502-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
   },
   {
     "key": "858502-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]4を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 4 부여\nEN:\n[OnSucceedAttack] Inflict 4 [Laceration]"
   },
   {
     "key": "858502-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] [Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Laceration] Count"
   },
   {
     "key": "858503-levelList[0].name",
-    "original": "握らん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "握らん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "握らん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "握らん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n쥘지어다\nEN:\nIt Shall Grip"
   },
   {
     "key": "858503-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDown]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDown] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [AttackDown] next turn"
   },
   {
     "key": "858503-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに[DefenseDown]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [DefenseDown] 3 부여\nEN:\n[OnSucceedAttackHead] Inflict 3 [DefenseDown] next turn"
   },
   {
     "key": "858503-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackDmgDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackDmgDown]1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDmgDown]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDmgDown]1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDmgDown] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
   },
   {
     "key": "858503-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 次のターンに [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 次のターンに [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 次のターンに [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンに [AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 [AttackDmgUp] 1 얻음\nEN:\n[OnSucceedAttackHead] Gain 1 [AttackDmgUp] next turn"
   },
   {
     "key": "858504-levelList[0].name",
-    "original": "締め付けん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "締め付けん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "締め付けん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "締め付けん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n옥죄이니\nEN:\nIt Shall Constrict"
   },
   {
     "key": "858504-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [MRcAmBb] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [MRcAmBb]"
   },
   {
     "key": "858504-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDmgUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn"
   },
   {
     "key": "858504-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[MRcAmBb]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [MRcAmBb] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [MRcAmBb]"
   },
   {
     "key": "858504-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンに[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 다음 턴에 [AttackDmgUp] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn"
   },
   {
     "key": "858505-levelList[0].name",
-    "original": "通り過ぎん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "通り過ぎん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "通り過ぎん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "通り過ぎん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n지나칠지니\nEN:\nIt Shall Shun"
   },
   {
     "key": "858505-levelList[0].desc",
-    "original": "掌が生存しているなら、最終威力 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "掌が生存しているなら、最終威力 +5\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "掌が生存しているなら、最終威力 +5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "掌が生存しているなら、最終威力 +5\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n손아귀가 생존해 있다면, 최종 위력 +5\nEN:\nIf there is a surviving 'Grasp' unit, Final Power +5"
   },
   {
     "key": "858505-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 8 부여, [Laceration] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict 8 [Laceration] and +3 [Laceration] Count"
   },
   {
     "key": "858505-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 精神力に10ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 精神力に10ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 精神力に10ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力に10ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 정신력 10 피해\nEN:\n[OnSucceedAttack] Deal 10 SP damage"
   },
   {
     "key": "858505-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttackHead] 混乱区間を20前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 混乱区間を20前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 混乱区間を20前進\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 混乱区間を20前進\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 20만큼 흐트러짐 손상\nEN:\n[OnSucceedAttackHead] Raise Stagger Threshold by 20"
   },
   {
     "key": "858506-levelList[0].name",
-    "original": "全てを軽蔑せん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全てを軽蔑せん\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全てを軽蔑せん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全てを軽蔑せん\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 것을 경멸할지어다\nEN:\nAnd it Shall Contempt All"
   },
   {
     "key": "858506-levelList[0].desc",
-    "original": "掌が生存しているなら、最終威力 +5\n[EndBattle] 全ての敵の視線を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "掌が生存しているなら、最終威力 +5\n[EndBattle] 全ての敵の視線を除去\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "掌が生存しているなら、最終威力 +5\n[EndBattle] 全ての敵の視線を除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "掌が生存しているなら、最終威力 +5\n[EndBattle] 全ての敵の視線を除去\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n손아귀가 생존해 있다면, 최종 위력 +5\n[EndBattle] 모든 적의 시선 제거\nEN:\nIf there is a surviving 'Grasp' unit, Final Power +5\n[EndBattle] Remove [MRcAmBc] from all enemies"
   },
   {
     "key": "858506-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]10を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 10 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "858506-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]8を付与、[Laceration]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Laceration] 8 부여, [Laceration] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 8 [Laceration] and +2 [Laceration] Count"
   },
   {
     "key": "858506-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 精神力に15ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 精神力に15ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 精神力に15ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 精神力に15ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 정신력 15 피해\nEN:\n[OnSucceedAttack] Deal 15 SP damage"
   },
   {
     "key": "858506-levelList[0].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttackHead] 混乱区間を30前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttackHead] 混乱区間を30前進\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttackHead] 混乱区間を30前進\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 混乱区間を30前進\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] 30만큼 흐트러짐 손상\nEN:\n[OnSucceedAttackHead] Raise Stagger Threshold by 30"
   },
   {
     "key": "858507-levelList[0].name",
-    "original": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "回避\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "回避\n<CMT_KR>\n<CMT_JP>",
+    "translation": "回避\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n회피\nEN:\nEvade"
   },
   {
     "key": "858507-levelList[0].desc",
-    "original": "[OnSucceedEvade] 対象へ精神力4ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedEvade] 対象へ精神力4ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedEvade] 対象へ精神力4ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedEvade] 対象へ精神力4ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedEvade] 대상에게 정신력 4 피해\nEN:\n[OnSucceedEvade] Deal 4 SP damage"
   },
   {
     "key": "857101-levelList[0].name",
-    "original": "6章5節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "6章5節\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "6章5節\n<CMT_KR>\n<CMT_JP>",
+    "translation": "6章5節\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n6장 5절\nEN:\n6:5"
   },
   {
     "key": "857101-levelList[0].desc",
-    "original": "[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel][CantChangeTarget]\n対象のダメージを自分が受ける。次のターンに混乱する。\n[AaCePcBa]のないランダムな敵へ次のターンに表号 を付与。\n[EndBattle] 全ての蝋燭 を体力最大値まで回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantDuel][CantChangeTarget]\n대상의 피해를 자신이 받음. 다음 턴에 흐트러짐.\n[AaCePcBa]이 없는 무작위 적에게 다음 턴에 표식 부여.\n[EndBattle] 모든 촛불 체력 최대치까지 회복\nEN:\n[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to Max HP"
   },
   {
     "key": "857101-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 최대 체력을 5%만큼 감소.\nEN:\n[OnSucceedAttack] This unit's max HP decreases by 5%."
   },
   {
     "key": "857101-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신에게 화상 10 부여\nEN:\n[OnSucceedAttack] Inflict 10 Burn on self"
   },
   {
     "key": "857101-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力最大値を5%減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 최대 체력을 5%만큼 감소.\nEN:\n[OnSucceedAttack] This unit's max HP decreases by 5%."
   },
   {
     "key": "857101-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分に火傷 10を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신에게 화상 10 부여\nEN:\n[OnSucceedAttack] Inflict 10 Burn on self"
   },
   {
     "key": "857102-levelList[0].name",
-    "original": "予言を蔑視するでない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "予言を蔑視するでない\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "予言を蔑視するでない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "予言を蔑視するでない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n예언을 멸시치 말라\nEN:\nScorn Not the Prophecy"
   },
   {
     "key": "857102-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[Combustion]を5付与、[Combustion]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상에게 [Combustion] 5 부여, [Combustion] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict 5 [Combustion] and +2 [Combustion] Count on target"
   },
   {
     "key": "857102-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 自分の体力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の体力を20回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 自分の体力を20回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の体力を20回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 체력 20 회복\nEN:\n[OnSucceedAttack] Heal 20 HP on self"
   },
   {
     "key": "858201-levelList[0].name",
-    "original": "広がりゆく白化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "広がりゆく白化\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "広がりゆく白化\n<CMT_KR>\n<CMT_JP>",
+    "translation": "広がりゆく白化\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n퍼져나오는 백화\nEN:\nInsidious Pallidification"
   },
   {
     "key": "858201-levelList[0].desc",
-    "original": "[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.3%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.3%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.3%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] 体力最大値の10%分バリアを得る。クィークェグの自我 1につき、体力最大値の0.3%分バリアを追加で得る。\nバリアがある間、被ダメージ時に対象の精神力を5減少。\n被ダメージ時、クィークェグの自我の破片10につき1回、スキルを再使用\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[StartBattle] 최대 체력의 10%만큼 보호막을 얻음. 퀴케그의 자아 1 당 최대 체력의 0.3%만큼 보호막을 추가로 얻음.\n 보호막이 있는동안 피격 시 대상의 정신력 5 감소.\n피격 시 퀴케그의 자아 10당 스킬 1회 재사용\nEN:\n[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.3% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego"
   },
   {
     "key": "858201-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
   },
   {
     "key": "858201-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 出血 1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 출혈 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 Bleed"
   }

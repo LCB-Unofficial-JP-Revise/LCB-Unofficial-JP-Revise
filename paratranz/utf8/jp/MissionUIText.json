@@ -1,64 +1,64 @@
 [
   {
     "key": "acquire_personality_title-content",
-    "original": "人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "人格選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "人格選択\n<CMT_KR>\n<CMT_JP>",
+    "translation": "人格選択\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n인격 선택\nEN:\nSelect Identity"
   },
   {
     "key": "ask_acquire_personality-content",
-    "original": "{1}の人格[{0}]を選択しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{1}の人格[{0}]を選択しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{1}の人格[{0}]を選択しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{1}の人格[{0}]を選択しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n{1}의 [{0}] 인격을 선택하시겠습니까?\nEN:\nSelect {1}'s [{0}] Identity?"
   },
   {
     "key": "ask_use_item_for_acquire_personality-content",
-    "original": "{0}を使用しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{0}を使用しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{0}を使用しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{0}を使用しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n{0}을 사용하시겠습니까\nEN:\nUse {0}?"
   },
   {
     "key": "tip_able_to_check_personality_by_longclick-content",
-    "original": "※長押しすると人格詳細情報が確認できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "※長押しすると人格詳細情報が確認できます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "※長押しすると人格詳細情報が確認できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "※長押しすると人格詳細情報が確認できます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n※ 롱클릭 시 인격 상세 정보 확인이 가능합니다.\nEN:\n※ Press and hold to view detailed information of the Identity."
   },
   {
     "key": "luxcavation_bonus_on-content",
-    "original": "採光ボーナス適用中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "採光ボーナス適用中\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "採光ボーナス適用中\n<CMT_KR>\n<CMT_JP>",
+    "translation": "採光ボーナス適用中\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n채광 보너스 적용중\nEN:\nLux. Bonus Activated"
   },
   {
     "key": "ask_acquire_personality_already_owned-content",
-    "original": "{1}の人格[{0}]を選択しますか？\n保有中の人格を選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{1}の人格[{0}]を選択しますか？\n保有中の人格を選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{1}の人格[{0}]を選択しますか？\n保有中の人格を選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{1}の人格[{0}]を選択しますか？\n保有中の人格を選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n{1}의 [{0}] 인격을 선택하시겠습니까?\n보유 중인 인격 선택 시 파편으로 교환됩니다.\nEN:\nSelect {1}'s [{0}] Identity?\nSelecting an already-owned Identity will automatically convert your selection to Shards."
   },
   {
     "key": "acquire_ego_title-content",
-    "original": "E.G.O選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.O選択\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.O選択\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O選択\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 선택\nEN:\nSelecting E.G.O"
   },
   {
     "key": "ask_acquire_ego-content",
-    "original": "{1}のE.G.O[{0}]を選択しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{1}のE.G.O[{0}]を選択しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{1}のE.G.O[{0}]を選択しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{1}のE.G.O[{0}]を選択しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n{1}의 [{0}] E.G.O를 선택하시겠습니까?\nEN:\nSelect {1}'s [{0}] E.G.O?"
   },
   {
     "key": "ask_acquire_ego_already_owned-content",
-    "original": "{1}のE.G.O[{0}]を選択しますか？\n保有中のE.G.Oを選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "{1}のE.G.O[{0}]を選択しますか？\n保有中のE.G.Oを選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "{1}のE.G.O[{0}]を選択しますか？\n保有中のE.G.Oを選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{1}のE.G.O[{0}]を選択しますか？\n保有中のE.G.Oを選択すると、破片として交換されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n{1}의 [{0}] E.G.O를 선택하시겠습니까?\n보유 중인 E.G.O 선택 시 파편으로 교환됩니다.\nEN:\nSelect {1}'s [{0}] E.G.O?\nSelecting an already-owned E.G.O will automatically convert your selection to Shards."
   }

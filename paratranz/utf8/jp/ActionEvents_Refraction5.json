@@ -1,148 +1,148 @@
 [
   {
     "key": "863201-desc",
-    "original": "巨大な骸骨がゆっくりと頭をもたげると、軋む音と共に不気味な笑い声が空間を満たした。\n\n沈み込むような空気の中で今にも弾けそうな気配が揺らめき、骸骨は強力な攻撃を仕掛けようとしている。\n\nでも、その反動のせいだろうか？\n\n胴体にヒビが入り、隙を晒しながら揺れている。\n\nこのまま待つよりも、隙を狙ってひび割れた胴体を攻撃する方が良さそうに思える。\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "巨大な骸骨がゆっくりと頭をもたげると、軋む音と共に不気味な笑い声が空間を満たした。\n\n沈み込むような空気の中で今にも弾けそうな気配が揺らめき、骸骨は強力な攻撃を仕掛けようとしている。\n\nでも、その反動のせいだろうか？\n\n胴体にヒビが入り、隙を晒しながら揺れている。\n\nこのまま待つよりも、隙を狙ってひび割れた胴体を攻撃する方が良さそうに思える。\n\nどうしようか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "巨大な骸骨がゆっくりと頭をもたげると、軋む音と共に不気味な笑い声が空間を満たした。\n\n沈み込むような空気の中で今にも弾けそうな気配が揺らめき、骸骨は強力な攻撃を仕掛けようとしている。\n\nでも、その反動のせいだろうか？\n\n胴体にヒビが入り、隙を晒しながら揺れている。\n\nこのまま待つよりも、隙を狙ってひび割れた胴体を攻撃する方が良さそうに思える。\n\nどうしようか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "巨大な骸骨がゆっくりと頭をもたげると、軋む音と共に不気味な笑い声が空間を満たした。\n\n沈み込むような空気の中で今にも弾けそうな気配が揺らめき、骸骨は強力な攻撃を仕掛けようとしている。\n\nでも、その反動のせいだろうか？\n\n胴体にヒビが入り、隙を晒しながら揺れている。\n\nこのまま待つよりも、隙を狙ってひび割れた胴体を攻撃する方が良さそうに思える。\n\nどうしようか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n거대한 해골이 천천히 고개를 들자, 삐걱이는 소리와 함께 기괴한 웃음이 공간을 메운다.\n\n가라앉은 공기 속에서 터질 듯한 기운이 일렁이며, 해골이 강력한 공격을 준비하고 있다.\n\n하지만 그 반동 때문일까?\n\n몸통에 금이 가더니 빈틈을 내어주며 흔들린다.\n\n이대로 기다리는 것보다, 빈틈을 노려 갈라진 몸통을 공격하는 편이 좋아 보인다.\n\n어떻게 할까?\nEN:\nThe great skull rears its head with a loud creaking noise; an eerie cackle echoes.\n\nUnderneath the calmed air vibrates an explosive energy; the skull is preparing to launch a powerful attack.\n\nYet it must have overstrained itself;\n\nthe body cracks and wavers, giving us an opening.\n\nIt might be better to attack the opening on its body instead of waiting for it to attack us.\n\nWhat should we do?"
   },
   {
     "key": "863201-options[0].message",
-    "original": "胴体を狙う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "胴体を狙う\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "胴体を狙う\n<CMT_KR>\n<CMT_JP>",
+    "translation": "胴体を狙う\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n몸통을 노린다.\nEN:\nAttack the body."
   },
   {
     "key": "863201-options[0].messageDesc",
-    "original": "選択時、幻想体の耐性が減少する代わりにクリティカルダメージ量が上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、幻想体の耐性が減少する代わりにクリティカルダメージ量が上昇\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、幻想体の耐性が減少する代わりにクリティカルダメージ量が上昇\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、幻想体の耐性が減少する代わりにクリティカルダメージ量が上昇\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 환상체의 내성이 감소하는 대신 크리티컬 피해량이 상승\nEN:\nSelect this to weaken the Abnormality's Resistances but raise its Critical Damage"
   },
   {
     "key": "863201-options[0].result[0]",
-    "original": "前列にいた囚人たちが隙を突き、素早く一撃を放った。\n\nひびの入った胴体に、さらに大きな亀裂が走った。\n\nその瞬間、骨の隙間の黒い人影と目が合ったような気がした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "前列にいた囚人たちが隙を突き、素早く一撃を放った。\n\nひびの入った胴体に、さらに大きな亀裂が走った。\n\nその瞬間、骨の隙間の黒い人影と目が合ったような気がした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "前列にいた囚人たちが隙を突き、素早く一撃を放った。\n\nひびの入った胴体に、さらに大きな亀裂が走った。\n\nその瞬間、骨の隙間の黒い人影と目が合ったような気がした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "前列にいた囚人たちが隙を突き、素早く一撃を放った。\n\nひびの入った胴体に、さらに大きな亀裂が走った。\n\nその瞬間、骨の隙間の黒い人影と目が合ったような気がした。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전열에 있던 수감자들이 빈틈을 파고들어 재빠르게 일격을 날렸다.\n\n금이 간 몸통에 더 큰 균열이 일어났다.\n\n그 순간, 뼈 사이로 검은 인영과 눈이 마주친 듯한 기분이 들었다.\nEN:\nThe frontline Sinners quickly dashed into the opening and struck the Abnormality's body.\n\nThe crack on its torso grows even wider, opening into a crevice.\n\nThat moment, I felt a pair of eyes peering at me from the utter darkness past the bones."
   },
   {
     "key": "863201-options[1].message",
-    "original": "状況を見守る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "状況を見守る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "状況を見守る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "状況を見守る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n상황을 지켜본다.\nEN:\nWait and see."
   },
   {
     "key": "863201-options[1].messageDesc",
-    "original": "選択時、味方が保護を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、味方が保護を得る。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、味方が保護を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、味方が保護を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 아군이 보호 효과를 얻음\nEN:\nSelect this to apply Protection to allies"
   },
   {
     "key": "863201-options[1].result[0]",
-    "original": "攻撃を命令する直前、途切れることなく漏れ出る息の合間に黒い人影と目が合った。\n\n本当の脅威は外側を取り巻く骸骨ではなく、あの影のような存在なのではないか。\n\n刹那に掠めた直感を信じて軽率に動かず、防御を固めながら様子を見守ることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃を命令する直前、途切れることなく漏れ出る息の合間に黒い人影と目が合った。\n\n本当の脅威は外側を取り巻く骸骨ではなく、あの影のような存在なのではないか。\n\n刹那に掠めた直感を信じて軽率に動かず、防御を固めながら様子を見守ることにした。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃を命令する直前、途切れることなく漏れ出る息の合間に黒い人影と目が合った。\n\n本当の脅威は外側を取り巻く骸骨ではなく、あの影のような存在なのではないか。\n\n刹那に掠めた直感を信じて軽率に動かず、防御を固めながら様子を見守ることにした。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃を命令する直前、途切れることなく漏れ出る息の合間に黒い人影と目が合った。\n\n本当の脅威は外側を取り巻く骸骨ではなく、あの影のような存在なのではないか。\n\n刹那に掠めた直感を信じて軽率に動かず、防御を固めながら様子を見守ることにした。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격을 명령하기 직전, 쉼 없이 뿜어져 나오는 숨결 사이로 검은 인영과 눈이 마주쳤다.\n\n진정 위협적인 것은 겉을 둘러 싼 해골이 아니라, 저 그림자와 같은 인영이 아닐까.\n\n찰나에 스친 직감에 성급히 움직이지 않고, 방어적으로 상황을 지켜보기로 했다.\nEN:\nImmediately before attacking, I noticed through the endless stream of exhalation the eyes of the figure in shadows.\n\nPerhaps the true threat isn't the protective skeleton, but the figure.\n\nA certain momentary intuition stays my hand. We shouldn't be rash about this; let's maintain our defenses and see how this plays out."
   },
   {
     "key": "863301-prevDesc",
-    "original": "뭔가 넣어봄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "뭔가 넣어봄\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "뭔가 넣어봄\n<CMT_KR>\n<CMT_JP>",
+    "translation": "뭔가 넣어봄\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n뭔가 넣어봄\nEN:\n뭔가 넣어봄"
   },
   {
     "key": "863301-desc",
-    "original": "薔薇は流れる血をたっぷりと呑み、その紅色を誇示している。\n\nだけど、あれほどの血を飲んでもなお満足できないのだろうか？\n\nギラつく瞳を花びらの合間に輝かせ、囚人たちを見つめている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "薔薇は流れる血をたっぷりと呑み、その紅色を誇示している。\n\nだけど、あれほどの血を飲んでもなお満足できないのだろうか？\n\nギラつく瞳を花びらの合間に輝かせ、囚人たちを見つめている。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "薔薇は流れる血をたっぷりと呑み、その紅色を誇示している。\n\nだけど、あれほどの血を飲んでもなお満足できないのだろうか？\n\nギラつく瞳を花びらの合間に輝かせ、囚人たちを見つめている。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "薔薇は流れる血をたっぷりと呑み、その紅色を誇示している。\n\nだけど、あれほどの血を飲んでもなお満足できないのだろうか？\n\nギラつく瞳を花びらの合間に輝かせ、囚人たちを見つめている。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n장미는 흐르는 피를 양껏 마시며 그 붉은색을 뽐내고 있다.\n\n그러나 그 많은 피를 마시고도 만족하지 못한 걸까?\n\n번들거리는 눈을 꽃잎 사이에서 빛내며 수감자들을 바라본다.\nEN:\nThe rose guzzles up the flood of blood, glistening in crimson.\n\nBut even this inundation of blood wasn't enough.\n\nIts glossy eyes glowers at the Sinner from between the petals."
   },
   {
     "key": "863301-options[0].message",
-    "original": "無視する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "無視する。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "無視する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "無視する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n무시한다.\nEN:\nIgnore them."
   },
   {
     "key": "863301-options[0].messageDesc",
-    "original": "選択時、幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 환상체의 공격력이 상승, 방어력이 감소\nEN:\nSelect this to raise the Abnormality's offenses while reducing its defenses"
   },
   {
     "key": "863301-options[0].result[0]",
-    "original": "血を与えないことにした。\n\n自分が望んでいたものを得られなかったせいだろうか。\n\n薔薇は獰猛な勢いで棘を逆立て、囚人たちへと迫ってくる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血を与えないことにした。\n\n自分が望んでいたものを得られなかったせいだろうか。\n\n薔薇は獰猛な勢いで棘を逆立て、囚人たちへと迫ってくる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血を与えないことにした。\n\n自分が望んでいたものを得られなかったせいだろうか。\n\n薔薇は獰猛な勢いで棘を逆立て、囚人たちへと迫ってくる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血を与えないことにした。\n\n自分が望んでいたものを得られなかったせいだろうか。\n\n薔薇は獰猛な勢いで棘を逆立て、囚人たちへと迫ってくる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 주지 않기로 했다.\n\n자신이 원하는 것을 얻지 못해서 일까.\n\n장미는 흉포한 기세로 가시를 세우고 수감자들에게 다가온다.\nEN:\nWe agreed to not feed it blood.\n\nDissatisfaction begets frustration, it seems.\n\nThe rose raises its sharp thorns and charges the Sinners."
   },
   {
     "key": "863301-options[1].message",
-    "original": "全囚人が少量の血を与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全囚人が少量の血を与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全囚人が少量の血を与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全囚人が少量の血を与える。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 수감자가 약간의 피를 준다.\nEN:\nEvery Sinner feeds it a little bit of blood."
   },
   {
     "key": "863301-options[1].messageDesc",
-    "original": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 아군 체력을 소모하여 환상체의 공격력이 감소, 방어력이 상승\nEN:\nSelect this to consume HP from allies to reduce the Abnormality's offenses while raising its defenses"
   },
   {
     "key": "863301-options[1].result[0]",
-    "original": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자들의 피를 나눠주자 장미는 만족한 듯 보인다.\n\n장미는 번들거리던 눈빛을 거두고, 꽃잎을 움츠러뜨린다.\nEN:\nThe rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
   },
   {
     "key": "863301-options[2].message",
-    "original": "全囚人が適度に血を与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全囚人が適度に血を与える。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全囚人が適度に血を与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全囚人が適度に血を与える。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 수감자가 적당히 피를 준다.\nEN:\nEvery Sinner feeds it a moderate amount of blood."
   },
   {
     "key": "863301-options[2].messageDesc",
-    "original": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、味方の体力を消耗して幻想体の攻撃力が減少。防御力が上昇。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 아군 체력을 소모하여 환상체의 공격력이 감소, 방어력이 상승\nEN:\nSelect this to consume HP from allies to reduce the Abnormality's offenses while raising its defenses"
   },
   {
     "key": "863301-options[2].result[0]",
-    "original": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人たちが自らの血を分け与えると、薔薇は満足したように見える。\n\n薔薇はギラつかせていた眼光を収めると、花びらを静かにすぼめた。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자들의 피를 나눠주자 장미는 만족한 듯 보인다.\n\n장미는 번들거리던 눈빛을 거두고, 꽃잎을 움츠러뜨린다.\nEN:\nThe rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
   },
   {
     "key": "863301-options[3].message",
-    "original": "周囲の血を掃除させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "周囲の血を掃除させる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "周囲の血を掃除させる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "周囲の血を掃除させる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n주변의 피를 치우게 한다\nEN:\nMake the Sinners clean up the blood."
   },
   {
     "key": "863301-options[3].messageDesc",
-    "original": "選択時、血餐を一部除去して幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "選択時、血餐を一部除去して幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "選択時、血餐を一部除去して幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、血餐を一部除去して幻想体の攻撃力が上昇。防御力が減少。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선택 시, 혈찬을 일부 제거하고 환상체의 공격력이 상승, 방어력이 감소\nEN:\nSelect this to partially eliminate Bloodfeast, raise the Abnormality's offenses, and reduce its defenses"
   },
   {
     "key": "863301-options[3].result[0]",
-    "original": "囚人たちに命じ、周囲の血をきれいさっぱり掃除した。\n\n飲める血がさらに減ったせいだろうか。\n\n薔薇は不気味に花びらを震わせながら、棘を鋭く突き立てる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "囚人たちに命じ、周囲の血をきれいさっぱり掃除した。\n\n飲める血がさらに減ったせいだろうか。\n\n薔薇は不気味に花びらを震わせながら、棘を鋭く突き立てる。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "囚人たちに命じ、周囲の血をきれいさっぱり掃除した。\n\n飲める血がさらに減ったせいだろうか。\n\n薔薇は不気味に花びらを震わせながら、棘を鋭く突き立てる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人たちに命じ、周囲の血をきれいさっぱり掃除した。\n\n飲める血がさらに減ったせいだろうか。\n\n薔薇は不気味に花びらを震わせながら、棘を鋭く突き立てる。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n수감자들을 시켜 주변의 피를 말끔히 청소했다.\n\n마실 수 있는 피가 더욱 줄어서일까.\n\n장미는 기괴하게 꽃잎을 떨며 가시를 세운다.\nEN:\nThe Sinners busily ran about, cleaning as much blood as they can from the premises.\n\nFacing an even greater dearth of blood...\n\n... its petals begin to shudder uncannily as the thorns rise threateningly."
   }

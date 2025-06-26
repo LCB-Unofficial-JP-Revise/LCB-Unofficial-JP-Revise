@@ -1,71 +1,71 @@
 [
   {
     "key": "Smoke-name",
-    "original": "煙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "煙\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "煙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "煙\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n연기\nEN:\nSmoke"
   },
   {
     "key": "Smoke-desc",
-    "original": "- 威力最大値: 10\n- 回数最大値: 5\n- 数値が9以上なら、最終威力 +1\n- 数値1につき被ダメージ量 +5%\n- ターン終了時に回数1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 威力最大値: 10\n- 回数最大値: 5\n- 数値が9以上なら、最終威力 +1\n- 数値1につき被ダメージ量 +5%\n- ターン終了時に回数1減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 威力最大値: 10\n- 回数最大値: 5\n- 数値が9以上なら、最終威力 +1\n- 数値1につき被ダメージ量 +5%\n- ターン終了時に回数1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 威力最大値: 10\n- 回数最大値: 5\n- 数値が9以上なら、最終威力 +1\n- 数値1につき被ダメージ量 +5%\n- ターン終了時に回数1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 위력 최댓값: 10\n- 횟수 최댓값: 5\n- 수치가 9 이상이면, 최종 위력 +1\n- 수치당 받는 피해량 +5%\n- 턴 종료 시 횟수 1 감소\nEN:\n- Max Potency: 10\n- Max Count: 5\n- At 9+ Potency, Final Power +1\n- Take +5% damage for every Potency\n- Lose 1 Count at Turn End"
   },
   {
     "key": "Church_LowMorale-name",
-    "original": "教団\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "教団\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "教団\n<CMT_KR>\n<CMT_JP>",
+    "translation": "教団\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n교단\nEN:\nThe Church"
   },
   {
     "key": "Church_LowMorale-desc",
-    "original": "- 士気低下\n- 戦闘中に煙または煙回数を得るとき、追加で1得る\n- ターン開始時に脆弱3, ダメージ量増加2, 守備威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 士気低下\n- 戦闘中に煙または煙回数を得るとき、追加で1得る\n- ターン開始時に脆弱3, ダメージ量増加2, 守備威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 士気低下\n- 戦闘中に煙または煙回数を得るとき、追加で1得る\n- ターン開始時に脆弱3, ダメージ量増加2, 守備威力増加1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 戦闘中に煙または煙回数を得るとき、追加で1得る\n- ターン開始時に脆弱3, ダメージ量増加2, 守備威力増加1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 사기저하\n- 전투 중 연기 혹은 연기 횟수를 얻을 때, 추가로 1 얻음.\n- 턴 시작 시 취약 3, 피해량 증가 2, 수비 위력 증가 1 얻음\nEN:\n- Low Morale\n- Gain 1 additional Smoke or Smoke Count when gaining them\n- Turn Start: gain 3 Fragility, 2 Damage Up, and 1 Defense Power Up"
   },
   {
     "key": "Church_Panic-name",
-    "original": "教団\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "教団\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "教団\n<CMT_KR>\n<CMT_JP>",
+    "translation": "教団\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n교단\nEN:\nThe Church"
   },
   {
     "key": "Church_Panic-desc",
-    "original": "- パニック\n- 戦闘中に煙または煙回数を得るとき、追加で2得る\n- ターン開始時に脆弱3, ダメージ量増加4, 守備威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- パニック\n- 戦闘中に煙または煙回数を得るとき、追加で2得る\n- ターン開始時に脆弱3, ダメージ量増加4, 守備威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- パニック\n- 戦闘中に煙または煙回数を得るとき、追加で2得る\n- ターン開始時に脆弱3, ダメージ量増加4, 守備威力増加2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- パニック\n- 戦闘中に煙または煙回数を得るとき、追加で2得る\n- ターン開始時に脆弱3, ダメージ量増加4, 守備威力増加2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 패닉\n- 전투 중 연기 혹은 연기 횟수를 얻을 때, 추가로 2 얻음.\n- 턴 시작 시 취약 3, 피해량 증가 4, 수비 위력 증가 2 얻음\nEN:\n- Panic\n- Gain 2 additional Smoke or Smoke Count when gaining them\n- Turn Start: gain 3 Fragility, 4 Damage Up, and 2 Defense Power Up"
   },
   {
     "key": "MeatGearForce-name",
-    "original": "肉の歯車: 強制\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "肉の歯車: 強制\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "肉の歯車: 強制\n<CMT_KR>\n<CMT_JP>",
+    "translation": "肉の歯車: 強制\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n고기 톱니:강제\nEN:\nMeat Gear: Coercion"
   },
   {
     "key": "MeatGearForce-desc",
-    "original": "- 体力が1になっても戦闘中に死なない\n- ターン終了時に体力が1なら死亡する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 体力が1になっても戦闘中に死なない\n- ターン終了時に体力が1なら死亡する\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 体力が1になっても戦闘中に死なない\n- ターン終了時に体力が1なら死亡する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 体力が1になっても戦闘中に死なない\n- ターン終了時に体力が1なら死亡する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 체력이 1이 되더라도 전투 중에 죽지않음.\n- 턴 종료시 체력이 1 이라면, 사망함.\nEN:\n- HP does not drop below 1 HP during the Combat Phase.\n- This unit dies if it has 1 HP at Turn End."
   },
   {
     "key": "AllSetForShooting-name",
-    "original": "射撃準備万全\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "射撃準備万全\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "射撃準備万全\n<CMT_KR>\n<CMT_JP>",
+    "translation": "射撃準備万全\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사격 준비 만전\nEN:\nReady to Fire"
   },
   {
     "key": "AllSetForShooting-desc",
-    "original": "- スキルスロット数 +1\n- スキル3の数量 +1, 代わりにスキル1の数量 -1\n- 使用する基本攻撃スキルにて弾丸を消耗する数だけダメージ量 +10%\n- 使用する攻撃スキルにて弾丸を得るスキルは、現在保有している魔弾だけダメージ量 +10%(最も高いダメージ量増加が反映される)\n- スキルで敵討伐時、自分を含めて精神力が最も低い味方2名の精神力を25回復、敵を倒したスキル属性のE.G.O資源 +2, それ以外の属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- スキルスロット数 +1\n- スキル3の数量 +1, 代わりにスキル1の数量 -1\n- 使用する基本攻撃スキルにて弾丸を消耗する数だけダメージ量 +10%\n- 使用する攻撃スキルにて弾丸を得るスキルは、現在保有している魔弾だけダメージ量 +10%(最も高いダメージ量増加が反映される)\n- スキルで敵討伐時、自分を含めて精神力が最も低い味方2名の精神力を25回復、敵を倒したスキル属性のE.G.O資源 +2, それ以外の属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- スキルスロット数 +1\n- スキル3の数量 +1, 代わりにスキル1の数量 -1\n- 使用する基本攻撃スキルにて弾丸を消耗する数だけダメージ量 +10%\n- 使用する攻撃スキルにて弾丸を得るスキルは、現在保有している魔弾だけダメージ量 +10%(最も高いダメージ量増加が反映される)\n- スキルで敵討伐時、自分を含めて精神力が最も低い味方2名の精神力を25回復、敵を倒したスキル属性のE.G.O資源 +2, それ以外の属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- スキルスロット数 +1\n- スキル3の数量 +1, 代わりにスキル1の数量 -1\n- 使用する基本攻撃スキルにて弾丸を消耗する数だけダメージ量 +10%\n- 使用する攻撃スキルにて弾丸を得るスキルは、現在保有している魔弾だけダメージ量 +10%(最も高いダメージ量増加が反映される)\n- スキルで敵討伐時、自分を含めて精神力が最も低い味方2名の精神力を25回復、敵を倒したスキル属性のE.G.O資源 +2, それ以外の属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 스킬 슬롯 수 +1\n- 스킬 3 수량 +1, 대신 스킬 1 수량 -1\n- 사용하는 기본 공격 스킬에서 탄환을 소모하는 수만큼 피해량 +10%\n- 사용하는 공격 스킬에서 탄환을 얻는 스킬은 현재 보유한 마탄만큼 피해량 +10% (가장 높은 피해량 증가가 반영됨)\n- 스킬로 적 처치 시 자신을 포함하여 정신력이 가장 낮은 아군 2명 정신력 25 회복, 적을 처치한 스킬 속성의 E.G.O 자원 +2, 나머지 속성의 E.G.O 자원 +1\nEN:\n- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- Deal +10% damage for every Ammo the Base Attack Skill spends\n- Attack Skills that gain Ammo deal +10% damage for every Magic Bullet (applies whichever that has the highest damage gain)\n- On Kill with a Skill: heal 25 SP for 2 allies(including self) with the least SP; +2 E.G.O resources for the Affinity of the Skill that defeated the target; +1 E.G.O resource for all other Affinities"
   }

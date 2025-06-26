@@ -1,141 +1,141 @@
 [
   {
     "key": "40000201-levelList[0].name",
-    "original": "隙を突く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "隙を突く\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "隙を突く\n<CMT_KR>\n<CMT_JP>",
+    "translation": "隙を突く\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n빈틈찌르기\nEN:\nWeakness Thrust"
   },
   {
     "key": "40000201-levelList[0].desc",
-    "original": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상이 보유한 부정적인 효과가 3개 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 1 증가\n[OnDirectAttack] [Burst] 횟수 1 증가\nEN:\n[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Gain +1 [Breath] Count\n[OnDirectAttack] Inflict +1 [Burst] Count"
   },
   {
     "key": "40000201-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量 +30%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리티컬 피해량 +30%\nEN:\n+30% Damage on Critical Hit"
   },
   {
     "key": "40000201-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]"
   },
   {
     "key": "40000202-levelList[0].name",
-    "original": "複剣仲衝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "複剣仲衝\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "複剣仲衝\n<CMT_KR>\n<CMT_JP>",
+    "translation": "複剣仲衝\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n복검중충\nEN:\nDualblade Substitution Thrust"
   },
   {
     "key": "40000202-levelList[0].desc",
-    "original": "[StartBattle] [Protection]1を得る\n[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] [Breath]威力3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[StartBattle] [Protection]1を得る\n[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] [Breath]威力3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[StartBattle] [Protection]1を得る\n[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] [Breath]威力3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] [Protection]1を得る\n[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] [Breath]威力3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[StartBattle] [Protection] 1 얻음\n[WhenUse] 대상이 보유한 부정적인 효과가 3개 이상이면, 코인 위력 +1\n[WhenUse] [Breath] 위력 3 얻음\nEN:\n[StartBattle] Gain 1 [Protection]\n[WhenUse] If target has 3+ types of negative effects, Coin Power +1\n[WhenUse] Gain 3 [Breath] Potency"
   },
   {
     "key": "40000202-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "40000202-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Breath] 횟수 1 얻음\nEN:\n[OnSucceedAttack] Gain +1 [Breath] Count"
   },
   {
     "key": "40000202-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "クリティカルダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリティカルダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリティカルダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리티컬 피해량 +50%\nEN:\n+50% Damage on Critical Hit"
   },
   {
     "key": "40000202-levelList[0].coinlist[2].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]3を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 [Burst]"
   },
   {
     "key": "40000203-levelList[0].name",
-    "original": "加斥我援\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "加斥我援\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "加斥我援\n<CMT_KR>\n<CMT_JP>",
+    "translation": "加斥我援\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가척아원\nEN:\nAiding Strike"
   },
   {
     "key": "40000203-levelList[0].desc",
-    "original": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상이 보유한 부정적인 효과가 3개 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] [Breath] 위력 6 얻음\nEN:\n[WhenUse] If target has 3+ types of negative effects, Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] Gain 6 [Breath] Potency"
   },
   {
     "key": "40000203-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
   },
   {
     "key": "40000203-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]回数1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Breath] 횟수 1 얻음\nEN:\n[OnSucceedAttack] Gain +1 [Breath] Count"
   },
   {
     "key": "40000203-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[CriticalOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalOnSucceedAttack] [Burst] 2 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 2 [Burst]"
   },
   {
     "key": "40000203-levelList[0].coinlist[3].coindescs[0].desc",
-    "original": "クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量 +100%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리티컬 피해량 +100%\nEN:\n+100% Damage on Critical Hit"
   },
   {
     "key": "40000203-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[CriticalOnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CriticalOnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CriticalOnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Burst]5を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CriticalOnSucceedAttack] [Burst] 5 부여\nEN:\n[CriticalOnSucceedAttack] Inflict 5 [Burst]"
   },
   {
     "key": "40000204-levelList[0].name",
-    "original": "防護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "防護\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "防護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "防護\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n방호\nEN:\nDefend"
   },
   {
     "key": "40000204-levelList[0].desc",
-    "original": "[CanDuelGuard]\n[StartBattle] 自分に付与された解除可能なマイナス効果のうち、ランダムに1つを除去\n[StartBattle] 精神力を10回復\n[WhenUse] [ProtectStance]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[CanDuelGuard]\n[StartBattle] 自分に付与された解除可能なマイナス効果のうち、ランダムに1つを除去\n[StartBattle] 精神力を10回復\n[WhenUse] [ProtectStance]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[CanDuelGuard]\n[StartBattle] 自分に付与された解除可能なマイナス効果のうち、ランダムに1つを除去\n[StartBattle] 精神力を10回復\n[WhenUse] [ProtectStance]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[StartBattle] 自分に付与された解除可能なマイナス効果のうち、ランダムに1つを除去\n[StartBattle] 精神力を10回復\n[WhenUse] [ProtectStance]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CanDuelGuard]\n[StartBattle] 자신에게 부여된 해제 가능한 부정적인 효과 중 무작위 1개 제거\n[StartBattle] 정신력 10 회복\n[WhenUse] [ProtectStance] 2 얻음\nEN:\n[CanDuelGuard]\n[StartBattle] Remove 1 random removable negative effect applied to self\n[StartBattle] Heal 10 SP\n[WhenUse] Gain 2 [ProtectStance]"
   },
   {
     "key": "40000204-levelList[0].coinlist[0].coindescs[0].desc",
-    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
   }

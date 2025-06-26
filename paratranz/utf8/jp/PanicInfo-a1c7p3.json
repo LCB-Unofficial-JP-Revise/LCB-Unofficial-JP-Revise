@@ -1,106 +1,106 @@
 [
   {
     "key": "1029-panicName",
-    "original": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "罪責感\n<CMT_KR>\n<CMT_JP>",
+    "translation": "罪責感\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죄책감\nEN:\nGuilt"
   },
   {
     "key": "1029-lowMoraleDescription",
-    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 1 얻음\nEN:\nTurn End: gain 1 [Vulnerable] and [MentalIncreaseDown] next turn"
   },
   {
     "key": "1029-panicDescription",
-    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 2 얻음.\nEN:\nTurn End: gain 2 [Vulnerable] and [MentalIncreaseDown] next turn."
   },
   {
     "key": "1031-panicName",
-    "original": "血揚げ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血揚げ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血揚げ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血揚げ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피올림\nEN:\nResanguination"
   },
   {
     "key": "1031-lowMoraleDescription",
-    "original": "[Laceration]の無い対象なら、マッチ威力 -1, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Laceration]の無い対象なら、マッチ威力 -1, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Laceration]の無い対象なら、マッチ威力 -1, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Laceration]の無い対象なら、マッチ威力 -1, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Laceration]이 없는 대상이면, 합 위력 -1, 적중시 대상의 [Laceration] 위력만큼 체력 회복\nEN:\nIf the target does not have [Laceration], Clash Power -1; On Hit, heal HP equal to [Laceration] Potency on the target"
   },
   {
     "key": "1031-panicDescription",
-    "original": "[Laceration]がある対象なら、マッチ威力 +2, [Laceration]の無い対象なら、マッチ威力 -2, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "[Laceration]がある対象なら、マッチ威力 +2, [Laceration]の無い対象なら、マッチ威力 -2, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "[Laceration]がある対象なら、マッチ威力 +2, [Laceration]の無い対象なら、マッチ威力 -2, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Laceration]がある対象なら、マッチ威力 +2, [Laceration]の無い対象なら、マッチ威力 -2, 的中時に対象の[Laceration]威力だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Laceration]이 있는 대상이면, 합 위력 +2, [Laceration]이 없는 대상이면, 합 위력 -2, 적중시 대상의 [Laceration] 위력만큼 체력 회복\nEN:\nIf the target has [Laceration], Clash Power +2; if the target does not have [Laceration], Clash Power -2; On Hit, heal HP equal to [Laceration] Potency on the target"
   },
   {
     "key": "1032-panicName",
-    "original": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "罪責感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "罪責感\n<CMT_KR>\n<CMT_JP>",
+    "translation": "罪責感\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n죄책감\nEN:\nGuilt"
   },
   {
     "key": "1032-lowMoraleDescription",
-    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 1 얻음\nEN:\nTurn End: gain 1 [Vulnerable] and [MentalIncreaseDown] next turn"
   },
   {
     "key": "1032-panicDescription",
-    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、次のターンに[Vulnerable], [MentalIncreaseDown]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 다음 턴에 [Vulnerable], [MentalIncreaseDown] 2 얻음.\nEN:\nTurn End: gain 2 [Vulnerable] and [MentalIncreaseDown] next turn."
   },
   {
     "key": "1034-panicName",
-    "original": "責任の重さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "責任の重さ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "責任の重さ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "責任の重さ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n책임의 무게\nEN:\nBurden of Responsibility"
   },
   {
     "key": "1034-lowMoraleDescription",
-    "original": "- [Enhancement]2, [Vulnerable]1を得る、速度の最大値が2増加\n- 体力回復量が30%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]2, [DefenseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- [Enhancement]2, [Vulnerable]1を得る、速度の最大値が2増加\n- 体力回復量が30%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]2, [DefenseDown]2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- [Enhancement]2, [Vulnerable]1を得る、速度の最大値が2増加\n- 体力回復量が30%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]2, [DefenseDown]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- [Enhancement]2, [Vulnerable]1を得る、速度の最大値が2増加\n- 体力回復量が30%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]2, [DefenseDown]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- [Enhancement] 2, [Vulnerable] 1 얻음, 속도 최댓값 2 증가\n- 체력 회복량 30% 증가\n- 턴 종료 시 턴 시작 시보다 [RegainedStrength]의 수치가 낮으면 다음 턴에 [AttackUp] 2, [DefenseDown] 2 얻음\nEN:\n- Gain 2 [Enhancement] and 1 [Vulnerable]; raise Max Speed value by 2\n- Heal +30% more HP when healing\n- Turn End: if the [RegainedStrength] is lower than its value at Turn Start, gain 2 [AttackUp] and [DefenseDown] next turn"
   },
   {
     "key": "1034-panicDescription",
-    "original": "- [Enhancement]2, 速度の最大値が2増加\n- 体力回復量が50%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]3, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- [Enhancement]2, 速度の最大値が2増加\n- 体力回復量が50%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]3, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- [Enhancement]2, 速度の最大値が2増加\n- 体力回復量が50%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]3, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- [Enhancement]2, 速度の最大値が2増加\n- 体力回復量が50%増加\n- ターン終了時、ターン開始よりも[RegainedStrength]の数値が低ければ次のターンに[AttackUp]3, [DefenseDown]5を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- [Enhancement] 2, 속도 최댓값 2 증가\n- 체력 회복량 50% 증가\n- 턴 종료 시 턴 시작 시보다 [RegainedStrength]의 수치가 낮으면 다음 턴에 [AttackUp] 3, [DefenseDown] 5 얻음\nEN:\n- Gain 2 [Enhancement] and raise Max Speed value by 2\n- Heal +50% more HP when healing\n- Turn End: if the [RegainedStrength] is lower than its value at Turn Start, gain 3 [AttackUp] and 5 [DefenseDown] next turn"
   },
   {
     "key": "1033-panicName",
-    "original": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_JP>",
+    "translation": "目覚める殺戮の高揚感\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n깨어나는 살육의 고양감\nEN:\nReawakening Joy Of Carnage"
   },
   {
     "key": "1033-lowMoraleDescription",
-    "original": "毎ターン開始時、[AttackUp]2を得る。精神力効率 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン開始時、[AttackUp]2を得る。精神力効率 +2\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン開始時、[AttackUp]2を得る。精神力効率 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン開始時、[AttackUp]2を得る。精神力効率 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴 시작 시, [AttackUp] 2 얻음. 정신력 효율 +2\nEN:\nEvery Turn Start: gain 2 [AttackUp]; +2 SP Efficiency"
   },
   {
     "key": "1033-panicDescription",
-    "original": "ターン開始時、[DefenseUp]6を得る。次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン開始時、[DefenseUp]6を得る。次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン開始時、[DefenseUp]6を得る。次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[DefenseUp]6を得る。次のターンに[AttackUp]3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [DefenseUp] 6 얻음. 다음 턴에 [AttackUp] 3 얻음\nEN:\nTurn Start: gain 6 [DefenseUp], and gain 3 [AttackUp] next turn"
   }

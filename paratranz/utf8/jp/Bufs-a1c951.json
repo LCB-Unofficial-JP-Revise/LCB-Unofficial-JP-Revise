@@ -1,29 +1,29 @@
 [
   {
     "key": "AaCeSeBa-name",
-    "original": "ホッ！ホッ！ホー！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ホッ！ホッ！ホー！\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ホッ！ホッ！ホー！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ホッ！ホッ！ホー！\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n호!호!호!\nEN:\nHO! HO! HO!"
   },
   {
     "key": "AaCeSeBa-desc",
-    "original": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数を増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数を増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数を増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数を増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 {1}만큼 다음 턴에 자신의 호흡 횟수를 증가.\n충전 횟수가 0이되면, 제거됨.\nEN:\nTurn End: Gain {1} Poise Count next turn.\nExpires at 0 Charge Count."
   },
   {
     "key": "AaCeSeBb-name",
-    "original": "プレゼントにしてやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "プレゼントにしてやる\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "プレゼントにしてやる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "プレゼントにしてやる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n선물로 만들어주마\nEN:\nI'll Gift-wrap You"
   },
   {
     "key": "AaCeSeBb-desc",
-    "original": "毎ターン、呼吸 3を得る。\nターン終了時、ダメージを与えた攻撃スキル1つにつき精神力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "毎ターン、呼吸 3を得る。\nターン終了時、ダメージを与えた攻撃スキル1つにつき精神力を3回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "毎ターン、呼吸 3を得る。\nターン終了時、ダメージを与えた攻撃スキル1つにつき精神力を3回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン、呼吸 3を得る。\nターン終了時、ダメージを与えた攻撃スキル1つにつき精神力を3回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴마다 호흡 3을 얻음.\n턴 종료시 피해를 입힌 공격 스킬당 정신력 3 회복\nEN:\nGain 3 Poise every turn.\nTurn End: Heal 3 SP for every Attack Skill that dealt damage"
   }

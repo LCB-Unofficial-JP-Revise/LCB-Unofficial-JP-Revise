@@ -1,36 +1,36 @@
 [
   {
     "key": "event_judgement_above-content",
-    "original": "<color=#f8c200>有利</color>判定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#f8c200>有利</color>判定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#f8c200>有利</color>判定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#f8c200>有利</color>判定\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#f8c200&gt;유리&lt;/color&gt; 판정\nEN:\n&lt;color=#f8c200&gt;Advantage&lt;/color&gt;"
   },
   {
     "key": "event_judgement_below-content",
-    "original": "<color=#e30000>不利</color>判定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#e30000>不利</color>判定\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#e30000>不利</color>判定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#e30000>不利</color>判定\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#e30000&gt;불리&lt;/color&gt; 판정\nEN:\n&lt;color=#e30000&gt;Disadvantage&lt;/color&gt;"
   },
   {
     "key": "event_select_personality_to_proceed_judgement-content",
-    "original": "判定を進行する人格を選択してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "判定を進行する人格を選択してください。\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "判定を進行する人格を選択してください。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "判定を進行する人格を選択してください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n판정을 진행할 인격을 선택하세요.\nEN:\nChoose an Identity to perform the check with:"
   },
   {
     "key": "event_expected_success_rate_format-content",
-    "original": "予想確率 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "予想確率 : {0}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "予想確率 : {0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "予想確率 : {0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n예상 확률 : {0}\nEN:\nPredicted Odds: {0}"
   },
   {
     "key": "all_attribute-content",
-    "original": "全属性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "全属性\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "全属性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全属性\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n모든 속성\nEN:\nAll Affinities"
   }

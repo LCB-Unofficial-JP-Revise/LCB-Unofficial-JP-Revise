@@ -1,309 +1,309 @@
 [
   {
     "key": "BloodyHand-name",
-    "original": "血に染まった手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血に染まった手\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血に染まった手\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血に染まった手\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피로 물든 손\nEN:\nBloodied Hand"
   },
   {
     "key": "BloodyHand-desc",
-    "original": "- 最大値: 10\n- 基本値 : 0\n- 数値が10なら、自分のスキル的中時に破裂を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 最大値: 10\n- 基本値 : 0\n- 数値が10なら、自分のスキル的中時に破裂を1追加で付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 最大値: 10\n- 基本値 : 0\n- 数値が10なら、自分のスキル的中時に破裂を1追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 10\n- 基本値 : 0\n- 数値が10なら、自分のスキル的中時に破裂を1追加で付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최댓값: 10\n- 기본값 : 0\n- 수치가 10이면, 자신의 스킬 적중시 파열 1 추가로 부여\nEN:\n- Max Value: 10\n- Base Value: 0\n- At 10 Stack: inflict +1 additional Rupture On Hit with this unit's Skill"
   },
   {
     "key": "BloomingThorns-name",
-    "original": "咲き出す棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "咲き出す棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "咲き出す棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "咲き出す棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피어나는 가시\nEN:\nBlooming Thorn"
   },
   {
     "key": "BloomingThorns-desc",
-    "original": "- 最大値: 10\n- スキルでダメージを受けるとき、攻撃者へスタックの半分だけ出血を付与して1減少(繰り上げ処理)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 最大値: 10\n- スキルでダメージを受けるとき、攻撃者へスタックの半分だけ出血を付与して1減少(繰り上げ処理)\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 最大値: 10\n- スキルでダメージを受けるとき、攻撃者へスタックの半分だけ出血を付与して1減少(繰り上げ処理)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 10\n- スキルでダメージを受けるとき、攻撃者へスタックの半分だけ出血を付与して1減少(繰り上げ処理)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최댓값 : 10\n- 스킬로 피해를 받을 때, 공격자에게 스택의 절반만큼 출혈을 부여하고 1 감소 (올림하여 처리)\nEN:\n- Max Value: 10\n- When taking damage from Skills, inflict Bleed equal to half of this effect's Stack against the Attacker (rounded up)"
   },
   {
     "key": "BloomingThorns-summary",
-    "original": "攻撃者へスタックの半分だけ出血を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃者へスタックの半分だけ出血を付与\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃者へスタックの半分だけ出血を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃者へスタックの半分だけ出血を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격자에게 스택 절반만큼 출혈 부여\nEN:\nInflict Bleed equal to Stack against the Attacker"
   },
   {
     "key": "BloomingThorns_2nd-name",
-    "original": "血で編んだ棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血で編んだ棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血で編んだ棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血で編んだ棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피를 엮은 가시\nEN:\nBloodwoven Thorn"
   },
   {
     "key": "BloomingThorns_2nd-desc",
-    "original": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +1\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加1を追加で付与\n- 血餐を消耗するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +1\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加1を追加で付与\n- 血餐を消耗するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +1\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加1を追加で付与\n- 血餐を消耗するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +1\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加1を追加で付与\n- 血餐を消耗するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 피어나는 가시를 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 10\n- 턴 시작 시, 수치 3당 공격 레벨 증가 1 얻음 (최대 3)\n- 스킬로 피해를 받을 때, 공격자에게 스택만큼 출혈을 부여하고 1 감소 (올림하여 처리)\n- 스킬 효과로 적중 시 출혈, 출혈 횟수의 부여량 +1\n- 아군(자신 제외)에게 스킬 코인 효과로 공격 레벨 증가 또는 방어 레벨 증가를 부여할 때, 다음 턴에 합 위력 증가 1을 추가로 부여\n- 혈찬을 소모하는 스킬의 코인 위력 +1\nEN:\n- Any effects that gain Blooming Thorn gain this effect instead\n- Max Value: 10\n- Turn Start: gain 1 Offense Level Up per 3 Stack (max 3)\n- When taking damage from Skills, inflict Bleed equal to this effect's Stack against the Attacker, then lose 1 Stack (rounded up)\n- On Hit, inflict +1 more Bleed and Bleed Count with this unit's Skill effects\n- When applying Offense Level Up or Defense Level Up to an other ally with Skill Coin effects, apply 1 Clash Power Up next turn as well\n- All Skills that consume Bloodfeast gain Coin Power +1"
   },
   {
     "key": "BloomingThorns_2nd-summary",
-    "original": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +1\n味方の場合、マッチ威力増加1を付与\n血餐消耗スキルの場合、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +1\n味方の場合、マッチ威力増加1を付与\n血餐消耗スキルの場合、コイン威力 +1\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +1\n味方の場合、マッチ威力増加1を付与\n血餐消耗スキルの場合、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +1\n味方の場合、マッチ威力増加1を付与\n血餐消耗スキルの場合、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격자에게 스택만큼 출혈 부여\n출혈, 출혈 횟수 부여량 +1\n아군일 경우 합 위력 증가 1 부여\n혈찬 소모 스킬일 경우 코인 위력 +1\nEN:\nInflict Bleed on the Attacker equal to Stack\nInflict +1 more Bleed Potency & Count\nApply 1 Clash Power Up to allies\nIf the Skill consumes Bloodfeast, Coin Power +1"
   },
   {
     "key": "BloomingThorns_3rd-name",
-    "original": "血で研いだ棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "血で研いだ棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "血で研いだ棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "血で研いだ棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n피로 빚은 가시\nEN:\nBloodmolded Thorn"
   },
   {
     "key": "BloomingThorns_3rd-desc",
-    "original": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値2につき攻撃レベル増加1を得る(最大5)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +2\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加2を追加で付与\n- 血餐を消耗するスキルのコイン威力 +2, ダメージ量 +50%\n- 「パレードは永遠に繰り返されるの」スキル使用時、体力を回復する代わりにその数値だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値2につき攻撃レベル増加1を得る(最大5)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +2\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加2を追加で付与\n- 血餐を消耗するスキルのコイン威力 +2, ダメージ量 +50%\n- 「パレードは永遠に繰り返されるの」スキル使用時、体力を回復する代わりにその数値だけ精神力を回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値2につき攻撃レベル増加1を得る(最大5)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +2\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加2を追加で付与\n- 血餐を消耗するスキルのコイン威力 +2, ダメージ量 +50%\n- 「パレードは永遠に繰り返されるの」スキル使用時、体力を回復する代わりにその数値だけ精神力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 咲き出す棘を得る効果が、該当バフを得る効果に変更される\n- 最大値 : 10\n- ターン開始時、数値2につき攻撃レベル増加1を得る(最大5)\n- スキルでダメージを受けるとき、攻撃者へスタック分の出血を付与して1減少(繰り上げ処理)\n- スキル効果で的中時の出血・出血回数の付与量 +2\n- 味方(自分を除く)へスキルコイン効果で攻撃レベル増加または防御レベル増加を付与するとき、次のターンにてマッチ威力増加2を追加で付与\n- 血餐を消耗するスキルのコイン威力 +2, ダメージ量 +50%\n- 「パレードは永遠に繰り返されるの」スキル使用時、体力を回復する代わりにその数値だけ精神力を回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 피어나는 가시를 얻는 효과가 해당 버프를 얻는 효과로 변경됨\n- 최댓값 : 10\n- 턴 시작 시, 수치 2당 공격 레벨 증가 1 얻음 (최대 5)\n- 스킬로 피해를 받을 때, 공격자에게 스택만큼 출혈을 부여하고 1 감소 (올림하여 처리)\n- 스킬 효과로 적중 시 출혈, 출혈 횟수의 부여량 +2\n- 아군(자신 제외)에게 스킬 코인 효과로 공격 레벨 증가 또는 방어 레벨 증가를 부여할 때, 다음 턴에 합 위력 증가 2를 추가로 부여\n- 혈찬을 소모하는 스킬의 코인 위력 +2, 피해량 +50%\n- '퍼레이드는 영원히 반복될거야' 스킬 사용 시, 체력을 회복하는 대신 그 수치만큼 정신력을 회복\nEN:\n- Any effects that gain Blooming Thorn gain this effect instead\n- Max Value: 10\n- Turn Start: gain 1 Offense Level Up per 2 Stack (max 5)\n- When taking damage from Skills, inflict Bleed equal to this effect's Stack against the Attacker, then lose 1 Stack (rounded up)\n- On Hit, inflict +2 more Bleed and Bleed Count with this unit's Skill effects\n- When applying Offense Level Up or Defense Level Up to an other ally with Skill Coin effects, apply 2 Clash Power Up next turn as well\n- All Skills that consume Bloodfeast gain Coin Power +2 and deal +50% damage\n- When using 'The Parade Repeats for Eternity' Skill, instead of healing HP, heal the same value as SP"
   },
   {
     "key": "BloomingThorns_3rd-summary",
-    "original": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +2\n味方の場合、マッチ威力増加2を付与\n血餐消耗スキルの場合、コイン威力 +2, ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +2\n味方の場合、マッチ威力増加2を付与\n血餐消耗スキルの場合、コイン威力 +2, ダメージ量 +50%\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +2\n味方の場合、マッチ威力増加2を付与\n血餐消耗スキルの場合、コイン威力 +2, ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃者へスタックだけ出血を付与\n出血・出血回数付与量 +2\n味方の場合、マッチ威力増加2を付与\n血餐消耗スキルの場合、コイン威力 +2, ダメージ量 +50%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격자에게 스택만큼 출혈 부여\n출혈, 출혈 횟수 부여량 +2\n아군일 경우 합 위력 증가 2 부여\n혈찬 소모 스킬일 경우 코인 위력 +2, 피해량 +50%\nEN:\nInflict Bleed on the Attacker equal to Stack\nInflict +2 more Bleed Potency & Count\nApply 2 Clash Power Up to allies\nIf the Skill consumes Bloodfeast, Coin Power +2 and deal +50% damage"
   },
   {
     "key": "FestivalFever-name",
-    "original": "祝祭の熱気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "祝祭の熱気\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "祝祭の熱気\n<CMT_KR>\n<CMT_JP>",
+    "translation": "祝祭の熱気\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n축제의 열기\nEN:\nFestive Fever"
   },
   {
     "key": "FestivalFever-desc",
-    "original": "- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値 : 10\n- ターン開始時、数値3につき攻撃レベル増加1を得る(最大3)\n- 特殊スキルに使用される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최댓값 : 10\n- 턴 시작 시, 수치 3당 공격 레벨 증가 1 얻음 (최대 3)\n- 특수 스킬에 사용됨\nEN:\n- Max Value: 10\n- Turn Start: gain 1 Offense Level Up per 3 Stack (max 3)\n- Used for special skills"
   },
   {
     "key": "IncompleteParade-name",
-    "original": "不安定なパレード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "不安定なパレード\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "不安定なパレード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不安定なパレード\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n불완전한 퍼레이드\nEN:\nImperfect Parade"
   },
   {
     "key": "IncompleteParade-desc",
-    "original": "- 最大値 : 50\n- 血袋死亡時に2獲得\n- 血鬼死亡時に3獲得\n- ターン開始時、累計で消耗した数値5につき脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 最大値 : 50\n- 血袋死亡時に2獲得\n- 血鬼死亡時に3獲得\n- ターン開始時、累計で消耗した数値5につき脆弱1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 最大値 : 50\n- 血袋死亡時に2獲得\n- 血鬼死亡時に3獲得\n- ターン開始時、累計で消耗した数値5につき脆弱1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値 : 50\n- 血袋死亡時に2獲得\n- 血鬼死亡時に3獲得\n- ターン開始時、累計で消耗した数値5につき脆弱1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최댓값 : 50\n- 피주머니 사망 시, 2 얻음\n- 혈귀 사망 시, 3 얻음\n- 턴 시작 시, 누적 소모한 수치 5당 취약 1 얻음\nEN:\n- Max Value: 50\n- Gain 2 when a Bloodbag dies\n- Gain 3 when a Bloodfiend dies\n- Turn Start: gain 1 Fragile every time this unit consumes 5 cumulative Stack"
   },
   {
     "key": "FamineBloodDolci_LowMorale-name",
-    "original": "虚無のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "虚無のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "虚無のくびき\n<CMT_KR>\n<CMT_JP>",
+    "translation": "虚無のくびき\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n허무의 굴레\nEN:\nBridle of Nihility"
   },
   {
     "key": "FamineBloodDolci_LowMorale-desc",
-    "original": "- 士気低下\n- ターン開始時、攻撃威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 士気低下\n- ターン開始時、攻撃威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 士気低下\n- ターン開始時、攻撃威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ターン開始時、攻撃威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 사기 저하\n- 턴 시작 시, 공격 위력 증가 1, 방어 레벨 감소 3을 얻음\n- 턴 종료 시, 정신력 5 피해\nEN:\n- Low Morale\n- Turn Start: gain 1 Attack Power Up and 3 Defense Level Down\n- Turn End: take 5 SP damage"
   },
   {
     "key": "FamineBloodDolci_LowMorale-summary",
-    "original": "攻撃威力増加 1、防御レベル減少3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃威力増加 1、防御レベル減少3を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃威力増加 1、防御レベル減少3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃威力増加 1、防御レベル減少3を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격 위력 증가 1, 방어 레벨 감소 3 얻음\nEN:\nGain 1 Attack Power Up & 3 Defense Level Down"
   },
   {
     "key": "FamineBloodDolci_Panic-name",
-    "original": "虚無のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "虚無のくびき\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "虚無のくびき\n<CMT_KR>\n<CMT_JP>",
+    "translation": "虚無のくびき\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n허무의 굴레\nEN:\nBridle of Nihility"
   },
   {
     "key": "FamineBloodDolci_Panic-desc",
-    "original": "- パニック\n- ターン開始時、攻撃威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- パニック\n- ターン開始時、攻撃威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- パニック\n- ターン開始時、攻撃威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- パニック\n- ターン開始時、攻撃威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 패닉\n- 턴 시작 시, 공격 위력 증가 2, 방어 레벨 감소 6을 얻음\n- 턴 종료 시, 정신력 10 회복\nEN:\n- Panic\n- Turn Start: gain 2 Attack Power Up and 6 Defense Level Down\n- Turn End: heal 10 SP"
   },
   {
     "key": "FamineBloodDolci_Panic-summary",
-    "original": "攻撃威力増加 2、防御レベル減少6を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "攻撃威力増加 2、防御レベル減少6を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "攻撃威力増加 2、防御レベル減少6を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃威力増加 2、防御レベル減少6を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공격 위력 증가 2, 방어 레벨 감소 6 얻음\nEN:\nGain 2 Attack Power Up & 6 Defense Level Down"
   },
   {
     "key": "StarvingDolcineaOne-name",
-    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "老衰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n노쇠\nEN:\nWithered"
   },
   {
     "key": "StarvingDolcineaOne-desc",
-    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル35減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル35減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル35減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル35減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 오랫동안 피를 마시지 못했다.\n- 기본 공격 레벨 35 감소\n- 기본 방어 레벨 35 감소\nEN:\n- Starved for blood for a long, long time.\n- Lose 35 Base Offense Level\n- Lose 35 Base Defense Level"
   },
   {
     "key": "StarvingDolcineaServant-name",
-    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "老衰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n노쇠\nEN:\nWithered"
   },
   {
     "key": "StarvingDolcineaServant-desc",
-    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 오랫동안 피를 마시지 못했다.\n- 기본 공격 레벨 15 감소\n- 기본 방어 레벨 15 감소\nEN:\n- Starved for blood for a long, long time.\n- Lose 15 Base Offense Level\n- Lose 15 Base Defense Level"
   },
   {
     "key": "ThornyFall_LowMorale-name",
-    "original": "棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시\nEN:\nThorns"
   },
   {
     "key": "ThornyFall_LowMorale-desc",
-    "original": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시, 피해량 증가 1 얻음\nEN:\nClash Win: gain 1 Damage Up"
   },
   {
     "key": "ThornyFall_LowMorale-summary",
-    "original": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시, 피해량 증가 1 얻음\nEN:\nClash Win: gain 1 Damage Up"
   },
   {
     "key": "ThornyFall_Panic-name",
-    "original": "棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "棘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "棘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가시\nEN:\nThorns"
   },
   {
     "key": "ThornyFall_Panic-desc",
-    "original": "マッチ勝利時、ダメージ量増加 1を得る\nターン終了時、次のターンにマッチ威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、ダメージ量増加 1を得る\nターン終了時、次のターンにマッチ威力増加2を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、ダメージ量増加 1を得る\nターン終了時、次のターンにマッチ威力増加2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、ダメージ量増加 1を得る\nターン終了時、次のターンにマッチ威力増加2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시, 피해량 증가 1 얻음\n턴 종료 시, 다음 턴에 합 위력 증가 2 얻음.\nEN:\nClash Win: gain 1 Damage Up\nTurn End: gain 2 Clash Power Up next turn"
   },
   {
     "key": "ThornyFall_Panic-summary",
-    "original": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、ダメージ量増加 1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시, 피해량 증가 1 얻음\nEN:\nClash Win: gain 1 Damage Up"
   },
   {
     "key": "HonorableDuel_Don-name",
-    "original": "名誉ある決闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "名誉ある決闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "名誉ある決闘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "名誉ある決闘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n명예로운 결투\nEN:\nHonorable Duel"
   },
   {
     "key": "HonorableDuel_Don-desc",
-    "original": "記憶の中の冒険譚\n能力値が大幅増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "記憶の中の冒険譚\n能力値が大幅増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "記憶の中の冒険譚\n能力値が大幅増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "記憶の中の冒険譚\n能力値が大幅増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n기억 속 모험담\n능력치가 대폭 증가함\nEN:\nA Reminiscted Tale of Adventures\nBecome immensely powerful"
   },
   {
     "key": "HonorableDuel_Knight-name",
-    "original": "名誉ある決闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "名誉ある決闘\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "名誉ある決闘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "名誉ある決闘\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n명예로운 결투\nEN:\nHonorable Duel"
   },
   {
     "key": "HonorableDuel_Knight-desc",
-    "original": "記憶の中の冒険譚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "記憶の中の冒険譚\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "記憶の中の冒険譚\n<CMT_KR>\n<CMT_JP>",
+    "translation": "記憶の中の冒険譚\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n기억 속 모험담\nEN:\nReminisced Tales of Adventure"
   },
   {
     "key": "StarvingPriestOne-name",
-    "original": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "老衰\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "老衰\n<CMT_KR>\n<CMT_JP>",
+    "translation": "老衰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n노쇠\nEN:\nWithered"
   },
   {
     "key": "StarvingPriestOne-desc",
-    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 長いこと血を飲めなかった\n- 基本攻撃・防御レベル15減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 오랫동안 피를 마시지 못했다.\n- 기본 공격 레벨 15 감소\n- 기본 방어 레벨 15 감소\nEN:\n- Starved for blood for a long, long time.\n- Lose 15 Base Offense Level\n- Lose 15 Base Defense Level"
   },
   {
     "key": "FamineBloodPriestServant_LowMorale-name",
-    "original": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "餓え\n<CMT_KR>\n<CMT_JP>",
+    "translation": "餓え\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n굶주림\nEN:\nHunger"
   },
   {
     "key": "FamineBloodPriestServant_LowMorale-desc",
-    "original": "- 士気低下\n- ターン開始時、マッチ威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- 士気低下\n- ターン開始時、マッチ威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- 士気低下\n- ターン開始時、マッチ威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 士気低下\n- ターン開始時、マッチ威力増加1, 防御レベル減少3を得る\n- ターン終了時、精神力に5ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 사기 저하\n- 턴 시작 시, 합 위력 증가 1, 방어 레벨 감소 3을 얻음\n- 턴 종료 시, 정신력 5 피해\nEN:\n- Low Morale\n- Turn Start: gain 1 Clash Power Up and 3 Defense Level Down\n- Turn End: take 5 SP damage"
   },
   {
     "key": "FamineBloodPriestServant_Panic-name",
-    "original": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "餓え\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "餓え\n<CMT_KR>\n<CMT_JP>",
+    "translation": "餓え\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n굶주림\nEN:\nHunger"
   },
   {
     "key": "FamineBloodPriestServant_Panic-desc",
-    "original": "- パニック\n- ターン開始時、マッチ威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "- パニック\n- ターン開始時、マッチ威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "- パニック\n- ターン開始時、マッチ威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- パニック\n- ターン開始時、マッチ威力増加2, 防御レベル減少6を得る\n- ターン終了時、精神力を10回復\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 패닉\n- 턴 시작 시, 합 위력 증가 2, 방어 레벨 감소 6을 얻음\n- 턴 종료 시, 정신력 10 회복\nEN:\n- Panic\n- Turn Start: gain 2 Clash Power Up and 6 Defense Level Down\n- Turn End: heal 10 SP"
   },
   {
     "key": "UnstoppableFunny-name",
-    "original": "止められぬ歓喜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "止められぬ歓喜\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "止められぬ歓喜\n<CMT_KR>\n<CMT_JP>",
+    "translation": "止められぬ歓喜\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n멈출 수 없는 환희\nEN:\nUnstoppable Bliss"
   },
   {
     "key": "UnstoppableFunny-desc",
-    "original": "死亡時\n- 最も数の少ないE.G.O資源3種がそれぞれ1ずつ増加\n- 敵1体の出血回数が3増加(自分を倒した対象が優先)\n- 祝祭の熱気が5以上である全味方が次のターンにてクイック1を得る\n- 祝祭の熱気が無い全味方が、次のターンにてマッチ威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "死亡時\n- 最も数の少ないE.G.O資源3種がそれぞれ1ずつ増加\n- 敵1体の出血回数が3増加(自分を倒した対象が優先)\n- 祝祭の熱気が5以上である全味方が次のターンにてクイック1を得る\n- 祝祭の熱気が無い全味方が、次のターンにてマッチ威力増加1を得る\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "死亡時\n- 最も数の少ないE.G.O資源3種がそれぞれ1ずつ増加\n- 敵1体の出血回数が3増加(自分を倒した対象が優先)\n- 祝祭の熱気が5以上である全味方が次のターンにてクイック1を得る\n- 祝祭の熱気が無い全味方が、次のターンにてマッチ威力増加1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死亡時\n- 最も数の少ないE.G.O資源3種がそれぞれ1ずつ増加\n- 敵1体の出血回数が3増加(自分を倒した対象が優先)\n- 祝祭の熱気が5以上である全味方が次のターンにてクイック1を得る\n- 祝祭の熱気が無い全味方が、次のターンにてマッチ威力増加1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사망 시\n- 가장 수량이 적은 E.G.O 자원 3종 각각 1씩 증가\n- 적 하나의 출혈 횟수 3 증가 (자신을 처치한 대상을 우선으로 함)\n- 축제의 열기가 5 이상인 모든 아군이 다음 턴에 신속 1 얻음\n- 축제의 열기가 없는 모든 아군이 다음 턴에 합 위력 증가 1 얻음\nEN:\nOn Death:\n- Gain 1 E.G.O resource for 3 least-owned E.G.O resources\n- Inflict +3 Bleed Count against an enemy (prioritizes the unit that killed this unit)\n- All allies at 5+ Festive Fever gain 1 Haste next turn\n- All allies without Festive Fever gain 1 Clash Power Up"
   },
   {
     "key": "UnstoppableFunny-summary",
-    "original": "E.G.O資源3種を1つずつ獲得\n出血回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "E.G.O資源3種を1つずつ獲得\n出血回数が3増加\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "E.G.O資源3種を1つずつ獲得\n出血回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O資源3種を1つずつ獲得\n出血回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O 자원 3종 하나씩 획득\n출혈 횟수 3 증가\nEN:\nGain 1 of each 3 E.G.O resources\nInflict +3 Bleed Count"
   }

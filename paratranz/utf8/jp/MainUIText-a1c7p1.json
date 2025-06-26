@@ -1,43 +1,43 @@
 [
   {
     "key": "stage_recommend_level_popup_battle_participant_desc-content",
-    "original": "戦闘に参加する人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "戦闘に参加する人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "戦闘に参加する人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘に参加する人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투에 참가할 인격의 현재 평균 레벨이 스테이지 권장 레벨보다 &lt;color=#990000&gt;낮습니다.&lt;/color&gt;\n전투를 진행하시겠습니까?\nEN:\nThe current average level of your deployed Identities is &lt;color=#990000&gt;lower&lt;/color&gt; than the recommended level for this Stage.\nStart the Encounter anyway?"
   },
   {
     "key": "stage_recommend_level_popup_formation_desc-content",
-    "original": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n편성 인격의 현재 평균 레벨이 스테이지 권장 레벨보다 &lt;color=#990000&gt;낮습니다.&lt;/color&gt;\n전투를 진행하시겠습니까?\nEN:\nThe current average level of Identities in your loadout is &lt;color=#990000&gt;lower&lt;/color&gt; than the recommended level for this Stage.\nStart the Encounter anyway?"
   },
   {
     "key": "stage_recommend_level_popup_dungeon_entrance_desc-content",
-    "original": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\nダンジョンへ入場しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\nダンジョンへ入場しますか？\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\nダンジョンへ入場しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成人格の現平均レベルが、ステージの推奨レベルより<color=#990000>低いです。</color>\nダンジョンへ入場しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n편성 인격의 현재 평균 레벨이 스테이지 권장 레벨보다 &lt;color=#990000&gt;낮습니다.&lt;/color&gt;\n던전에 입장하시겠습니까?\nEN:\nThe current average level of Identities in your loadout is &lt;color=#990000&gt;lower&lt;/color&gt; than the recommended level for this Stage.\nEnter the Dungeon anyway?"
   },
   {
     "key": "current_average_level_and_recommend_level_format-content",
-    "original": "現在の平均レベル: {0}\n<color=#f8c200>ステージ推奨レベル: {1}</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "現在の平均レベル: {0}\n<color=#f8c200>ステージ推奨レベル: {1}</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "現在の平均レベル: {0}\n<color=#f8c200>ステージ推奨レベル: {1}</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在の平均レベル: {0}\n<color=#f8c200>ステージ推奨レベル: {1}</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n현재 평균 레벨: {0}\n&lt;color=#f8c200&gt;스테이지 권장 레벨: {1}&lt;/color&gt;\nEN:\nCurrent Avg. Level: {0}\n&lt;color=#f8c200&gt;Recommended Level: {1}&lt;/color&gt;"
   },
   {
     "key": "current_average_level_with_additional_val_and_recommend_level_format-content",
-    "original": "現在の平均レベル: {0}({1})\n<color=#f8c200>ステージ推奨レベル: {2}</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "現在の平均レベル: {0}({1})\n<color=#f8c200>ステージ推奨レベル: {2}</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "現在の平均レベル: {0}({1})\n<color=#f8c200>ステージ推奨レベル: {2}</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在の平均レベル: {0}({1})\n<color=#f8c200>ステージ推奨レベル: {2}</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n현재 평균 레벨: {0} ({1})\n&lt;color=#f8c200&gt;스테이지 권장 레벨: {2}&lt;/color&gt;\nEN:\nCurrent Avg. Level: {0} ({1})\n&lt;color=#f8c200&gt;Recommended Level: {2}&lt;/color&gt;"
   },
   {
     "key": "stage_recommend_uptie_popup_dungeon_entrance_desc-content",
-    "original": "<color=#f8c200>人格・E.G.Oの<color=#990000>{0}段階</color>同期化・幻想解析を推奨</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
-    "translation": "<color=#f8c200>人格・E.G.Oの<color=#990000>{0}段階</color>同期化・幻想解析を推奨</color>\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>",
+    "original": "<color=#f8c200>人格・E.G.Oの<color=#990000>{0}段階</color>同期化・幻想解析を推奨</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<color=#f8c200>人格・E.G.Oの<color=#990000>{0}段階</color>同期化・幻想解析を推奨</color>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#f8c200&gt;인격, 에고 &lt;color=#990000&gt;{0}단계&lt;/color&gt; 동기화, 환상해석 권장&lt;/color&gt;\nEN:\n&lt;color=#f8c200&gt;Recommended Identity & E.G.O Uptie/Threadspin &lt;color=#990000&gt;Tiers: {0}&lt;/color&gt; &lt;/color&gt;"
   }
