@@ -4,10 +4,9 @@ import json
 import re
 from collections import OrderedDict
 import logging
-from datetime import datetime
 
 # 設定
-OUTPUT_UPDATED = True  # True: 変更があったファイルのみ出力, False: すべてのファイルを出力
+OUTPUT_UPDATED = False  # True: 変更があったファイルのみ出力, False: すべてのファイルを出力
 
 # 現在のバージョンのディレクトリ
 JP_DIR = ("Localize\\jp", "JP_")
@@ -161,7 +160,7 @@ def load_json_values(file_path):
             with open(file_path, "r", encoding="utf-8") as f:
                 return extract_target_values(json.load(f))
         except Exception as e:
-            logging.error(f"Error loading JSON file {file_path}: {e}")
+            logging.error(f"エラー: {file_path} の読み込みに失敗 - {e}")
     return {}
 
 def process_translation_files(base_name, jp_file, kr_file, en_file):
@@ -202,7 +201,7 @@ def process_translation_files(base_name, jp_file, kr_file, en_file):
         # 削除されたキーを検出
         deleted_keys = old_keys - current_keys
         if deleted_keys:
-            logging.info(f"Deleted keys in {base_name}: {', '.join(deleted_keys)}")
+            logging.info(f"キーを削除: {base_name} - {', '.join(deleted_keys)}")
             has_changes = True
         
         # 追加されたキーまたは変更されたキーを検出
@@ -234,8 +233,8 @@ def process_translation_files(base_name, jp_file, kr_file, en_file):
         if not jp_text and not kr_text and not en_text:
             continue
 
-        original = f"{jp_text}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>"
-        translation = f"{jp_text}\n<CMT_KR>\n<CMT_EN>\n<CMT_JP>"
+        original = f"{jp_text}\n<CMT_KR>\n<CMT_JP>"
+        translation = f"{jp_text}\n<CMT_KR>\n<CMT_JP>"
         stage = 1
         context = "\n".join(filter(None, [
             f"KR:\n{kr_text}" if kr_text else "",
@@ -274,7 +273,7 @@ def process_directories():
     ディレクトリ処理のメイン関数
     """
     # ログファイルの初期化
-    logging.info(f"=== 処理開始: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===")
+    logging.info(f"=== 処理開始 ===")
     
     # 現在のバージョンのディレクトリチェック
     if not os.path.exists(JP_DIR[0]):
@@ -307,7 +306,7 @@ def process_directories():
         if os.path.exists(JP_DIR_OLD[0]):
             for base_name in old_jp_files:
                 if base_name not in jp_files:
-                    logging.info(f"File deleted: {base_name}")
+                    logging.info(f"!!! ファイルを削除 !!!: {base_name}")
     
     # 各ファイルを処理
     for base_name, jp_file in jp_files.items():
@@ -315,7 +314,7 @@ def process_directories():
         en_file = en_files.get(base_name)
         process_translation_files(base_name, jp_file, kr_file, en_file)
 
-    logging.info(f"=== 処理終了: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===")
+    logging.info(f"=== 処理終了　===")
 
 if __name__ == "__main__":
     process_directories()

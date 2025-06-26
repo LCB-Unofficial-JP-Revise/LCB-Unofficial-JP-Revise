@@ -14,6 +14,9 @@ import requests
 # ローカルで実行する場合は True にすること
 LOCAL_MODE = False
 
+# True にした場合、レポートのタイムスタンプを更新しない
+IGNORE_TIMESTAMP_UPDATE = False
+
 # ---------------------------------------------------
 
 if not LOCAL_MODE:
@@ -115,7 +118,7 @@ def load_translations_and_comments_by_filename(paratranz_dir):
     # 正規表現パターンを事前コンパイル
     translation_pattern = regex.compile(r'\n?<CMT_.*$', regex.MULTILINE | regex.DOTALL)
     context_pattern = regex.compile(r"KR:\n?|EN:\n?")
-    comment_pattern = regex.compile(r"<CMT_KR>|<CMT_EN>|<CMT_JP>")
+    comment_pattern = regex.compile(r"<CMT_KR>|<CMT_JP>")
     
     for root, dirs, files in os.walk(paratranz_dir):
         for filename in [f for f in files if f.endswith(".json")]:
@@ -149,14 +152,13 @@ def load_translations_and_comments_by_filename(paratranz_dir):
                     
                     # コメント処理
                     parts = regex.split(comment_pattern, item["translation"].replace('\\n', '\n'))
-                    if len(parts) >= 4:
+                    if len(parts) >= 3:
                         comments[key] = {
                             "CMT_KR": parts[1].removesuffix('\n'),
-                            "CMT_EN": parts[2].removesuffix('\n'),
-                            "CMT_JP": parts[3].removesuffix('\n')
+                            "CMT_JP": parts[2].removesuffix('\n')
                         }
                     else:
-                        comments[key] = {"CMT_KR": "", "CMT_EN": "", "CMT_JP": ""}
+                        comments[key] = {"CMT_KR": "", "CMT_JP": ""}
 
                 basename = "JP_" + os.path.splitext(filename)[0]
                 originals_by_file[basename] = originals
@@ -343,9 +345,9 @@ def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, 
         original = source.replace('\n', '\\n')
         translation = originals.get(key, "").replace('\n', '\\n')
         revised = translations.get(key, "").replace('\n', '\\n')
-        cmt = comments.get(key, {"CMT_JP": "", "CMT_KR": "", "CMT_EN": ""})
+        cmt = comments.get(key, {"CMT_JP": "", "CMT_KR": ""})
 
-        if not (cmt["CMT_JP"] or cmt["CMT_KR"] or cmt["CMT_EN"]):
+        if not (cmt["CMT_JP"] or cmt["CMT_KR"]):
             continue
 
         relative_path_to_report = os.path.relpath(full_json_path, input_root).replace('\\', '/')
@@ -353,14 +355,15 @@ def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, 
 
         kr_comment = cmt["CMT_KR"]
         categories = []
-        if regex.search(r"오식\d*:", kr_comment): # 誤植
-            categories.append("오식")
+#        if regex.search(r"오식\d*:", kr_comment): # 誤植
+        if regex.search(r"오기\d*:", kr_comment): # 誤記
+            categories.append("오기")
         if regex.search(r"오역 의심\d*:", kr_comment): # 誤訳の疑い
             categories.append("오역 의심")
         if regex.search(r"표현 개선\d*:", kr_comment): # 表現改善
             categories.append("표현 개선")
 
-        priority = {"오식": 0, "오역 의심": 1, "표현 개선": 2}
+        priority = {"오기": 0, "오역 의심": 1, "표현 개선": 2}
         categories.sort(key=lambda x: priority[x])
         category = ", ".join(categories)
 
@@ -372,8 +375,7 @@ def collect_csv_report_rows(input_root, rel_path, basename, sources, originals, 
             translation,
             revised,
             cmt["CMT_JP"].replace('\n', ' '),
-            cmt["CMT_KR"].replace('\n', ' '),
-            cmt["CMT_EN"].replace('\n', ' ')
+            cmt["CMT_KR"].replace('\n', ' ')
         ]
         rows.append((csv_key, row))
     
@@ -389,7 +391,7 @@ def load_existing_timestamps(csv_path):
             headers = next(reader, [])
             date_idx = 2 if len(headers) > 2 and "수정 시각" in headers[2] else None
             for row in reader:
-                if len(row) >= 10:
+                if len(row) >= 9:
                     path, key = row[0], row[1]
                     timestamp = row[date_idx] if date_idx is not None else ""
                     timestamps[(path, key)] = timestamp
@@ -438,8 +440,14 @@ def write_csv_report(output_dir, collected_rows):
             row_key = (path, key)
             old_row = existing_rows.get(row_key)
 
-            if not old_row or row[4:9] != old_row[5:10]:
-                timestamp = now
+            if not old_row or row[4:8] != old_row[5:9]:
+                if IGNORE_TIMESTAMP_UPDATE:
+                    try:
+                        timestamp = old_row[2]
+                    except:
+                        timestamp = now
+                else:
+                    timestamp = now
             else:
                 timestamp = old_row[2]
 
@@ -448,10 +456,10 @@ def write_csv_report(output_dir, collected_rows):
 
         header = [
             "경로", "키", "갱신 시각", "카테고리", "원문", "번역문", # パス, キー, 更新日時, カテゴリ, 原文, 翻訳文,
-            "수정문", "(일) 코멘트", "(한) 코멘트", "(영) 코멘트" # 修正文, (日)コメント, (韓)コメント, (英)コメント
+            "수정문", "(일) 코멘트", "(한) 코멘트" # 修正文, (日)コメント, (韓)コメント
         ]
 
-        with open(report_path, 'w', encoding='utf-8-sig', newline='') as txtfile:
+        with open(report_path, 'w', encoding='utf-8-sig', newline='\r\n') as txtfile:
             txtfile.write('\t'.join(header) + '\n')
             for row in sorted(updated_rows, key=sort_key):
                 txtfile.write('\t'.join(row) + '\n')
@@ -567,7 +575,6 @@ def process_all_json(input_root, translation_root, json_output_lang_root, json_o
     # CSVレポートを出力
     write_csv_report(output_root, all_report_rows)
 
-# def download_paratranz_artifact(token_id=12345, projects_id='test_id_12345', output_path='artifact.zip'):
 def download_paratranz_artifact(token_id, projects_id, output_file='paratranz_artifact.zip'):
     """
     ParaTranz からアーティファクトをダウンロードする関数。
@@ -603,7 +610,6 @@ def download_paratranz_artifact(token_id, projects_id, output_file='paratranz_ar
         return output_path
     else:
         raise Exception(f"ダウンロードに失敗しました: {response.status_code} - {response.text}")
-
 
 
 # メイン実行部
