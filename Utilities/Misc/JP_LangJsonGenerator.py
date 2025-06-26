@@ -26,7 +26,7 @@ TARGET_KEYS = {'abName', 'abnormalityName', 'add', 'area', 'askLevelUp',
 'flavor', 'longName', 'lowMoraleDescription', 'message', 'messageDesc', 'min', 'name', 
 'nameWithTitle', 'nickName', 'openCondition', 'panicDescription', 'panicName', 'parttitle', 
 'place', 'prevDesc', 'rawDesc', 'shortName', 'simpleDesc', 'story', 'subDesc', 'successDesc', 
-'summary', 'teller', 'title', 'variation', 'variation2'}
+'summary', 'teller', 'title', 'variation', 'variation2', 'text'}
 
 # ロギングの設定
 logging.basicConfig(
