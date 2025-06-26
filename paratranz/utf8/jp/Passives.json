@@ -596,9 +596,9 @@
   },
   {
     "key": "1020221-desc",
-    "original": "体力最大値の最も低い味方1名の、充電 獲得数 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力最大値の最も低い味方1名の、充電 回数獲得数 +1\n<CMT_KR>오기: \"体力最大値の最も低い味方1名の、充電 「」獲得数 +1\" 정확: \"体力最大値の最も低い味方1名の、充電 「回数」獲得数 +1\"\n<CMT_JP>誤記: \"体力最大値の最も低い味方1名の、充電 「」獲得数 +1\" 訂正後: \"体力最大値の最も低い味方1名の、充電 「回数」獲得数 +1\"",
-    "stage": 1,
+    "original": "体力最大値の最も低い味方1名の、充電 回数獲得数 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力最大値の最も低い味方1名の、充電 回数獲得数 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n최대 체력이 가장 낮은 아군 1명 충전 횟수 얻는 값 +1\nEN:\n1 ally with the lowest Max HP gains +1 Charge Count."
   },
   {
@@ -2255,9 +2255,9 @@
   },
   {
     "key": "1110521-desc",
-    "original": "振動 回数が最も高い味方1名がスキル効果で得る振動 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "振動 回数が最も高い味方1名がスキル効果で得る振動 回数 +1\n<CMT_KR>오기: \"振動 回数が最も高い味方1名がスキル効果で得る振動「」 +1\" 정확: \"振動 回数が最も高い味方1名がスキル効果で得る振動「 回数」 +1\"\n<CMT_JP>誤記: \"振動 回数が最も高い味方1名がスキル効果で得る振動「」 +1\" 訂正後: \"振動 回数が最も高い味方1名がスキル効果で得る振動「 回数」 +1\"",
-    "stage": 1,
+    "original": "振動 回数が最も高い味方1名がスキル効果で得る振動 回数 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振動 回数が最も高い味方1名がスキル効果で得る振動 回数 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n진동 횟수가 가장 높은 아군 1명이 스킬 효과로 얻는 진동 횟수 +1\nEN:\n1 ally with the most Tremor Count gains +1 more Tremor Count from Skill effects"
   },
   {
@@ -5673,7 +5673,7 @@
     "key": "1081101-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_JP>",
     "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard"
   },
   {
@@ -5708,7 +5708,7 @@
     "key": "1081111-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
     "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\n&lt;style=\"highlight\"&gt;- 색욕 공명이 4 이상이면, 자신을 제외한 모든 흑운회 소속 아군에게 [BlackCloud] 1 부여&lt;/style&gt;\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n&lt;style=\"highlight\"&gt;- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies&lt;/style&gt;"
   },
   {
@@ -6332,7 +6332,7 @@
     "original": "[BulletPropellantAlly]保有時、\n- 1以上なら「快刀亂麻」の全コインが[SuperCoin]に変更\n- [BulletPropellantAlly]を消耗するスキルコインの威力 +1, <style=\"highlight\">ダメージ量 +10%</style> (消耗可能な数だけ適用)\n\n[BulletPropellantSpecialAlly]保有時、\n- 1以上なら、基本攻撃スキルの全コインが[SuperCoin]に変更\n- 0なら基本攻撃スキルの特殊弾丸を消耗できるコインが[SuperCoin]に変更\n- [BulletPropellantSpecialAlly]を消耗するスキルのコイン威力 +2, <style=\"highlight\">ダメージ量 +30%, 該当コインが的中時に付与する[Combustion]威力と[Combustion]回数の付与値 +2</style> (消耗可能な数だけ適用)\n<CMT_KR>\n<CMT_JP>",
     "translation": "[BulletPropellantAlly]保有時、\n- 1以上なら「快刀亂麻」の全コインが[SuperCoin]に変更\n- [BulletPropellantAlly]を消耗するスキルコインの威力 +1, <style=\"highlight\">ダメージ量 +10%</style> (消耗可能な数だけ適用)\n\n[BulletPropellantSpecialAlly]保有時、\n- 1以上なら、基本攻撃スキルの全コインが[SuperCoin]に変更\n- 0なら基本攻撃スキルの特殊弾丸を消耗できるコインが[SuperCoin]に変更\n- [BulletPropellantSpecialAlly]を消耗するスキルのコイン威力 +2, <style=\"highlight\">ダメージ量 +30%, 該当コインが的中時に付与する[Combustion]威力と[Combustion]回数の付与値 +2</style> (消耗可能な数だけ適用)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[BulletPropellantAlly] 보유 시,\n- 1 이상이면 '쾌도난마'의 모든 코인이 [SuperCoin]으로 변경\n- [BulletPropellantAlly]을 소모하는 스킬 코인 위력 +1, &lt;style=\"highlight\"&gt;피해량 +10%&lt;/style&gt; (소모 가능한 만큼만 적용)\n\n[BulletPropellantSpecialAlly] 보유 시,\n- 1 이상이면 기본 공격 스킬의 모든 코인이 [SuperCoin]으로 변경\n- 0 이면 기본 공격 스킬의 특수 탄환을 소모할 수 있는 코인이 [SuperCoin]으로 변경\n- [BulletPropellantSpecialAlly]을 소모하는 스킬 코인 위력 +2, &lt;style=\"highlight\"&gt;피해량 +30%, 해당 코인으로 적중 시 부여하는 [Combustion] 위력과 [Combustion] 횟수 부여값 +2&lt;/style&gt; (소모 가능한 만큼만 적용)\nEN:\nWhen this unit has [BulletPropellantAlly]:\n- At 1+ [BulletPropellantAlly], convert all Coins of 'Tanglecleaver' into [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +1 Power &lt;style=\"highlight\"&gt;and deal +10% damage&lt;/style&gt; (activates only as long as the Coin has Rounds left to spend)\n\nWhen this unit has [BulletPropellantSpecialAlly]:\n- At 1+ [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills to [SuperCoin]s\n- At 0 [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills that spend 'Unique Ammo' to [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +2 Power, &lt;style=\"highlight\"&gt;deal +30% damage, and inflict +2 more [Combustion] Potency and [Combustion] Count On Hit with those Coins&lt;/style&gt; (activates only as long as the Coin has Rounds left to spend)"
+    "context": "KR:\n[BulletPropellantAlly] 보유 시,\n- 1 이상이면 '쾌도난마'의 모든 코인이 [SuperCoin]으로 변경\n- [BulletPropellantAlly]을 소모하는 스킬 코인 위력 +1, &lt;style=\"highlight\"&gt;피해량 +10%&lt;/style&gt; (소모 가능한 만큼만 적용)\n\n[BulletPropellantSpecialAlly] 보유 시,\n- 1 이상이면 기본 공격 스킬의 모든 코인이 [SuperCoin]으로 변경\n- 0 이면 기본 공격 스킬의 특수 탄환을 소모할 수 있는 코인이 [SuperCoin]으로 변경\n- [BulletPropellantSpecialAlly]을 소모하는 스킬 코인 위력 +2, &lt;style=\"highlight\"&gt;피해량 +30%, 해당 코인으로 적중 시 부여하는 [Combustion] 위력과 [Combustion] 횟수 부여값 +2&lt;/style&gt; (소모 가능한 만큼만 적용)\nEN:\nWhen this unit has [BulletPropellantAlly]:\n- At 1+ [BulletPropellantAlly], convert all Coins of 'Tanglecleaver' into [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +1 Power &lt;style=\"highlight\"&gt;and deal +10% damage&lt;/style&gt; (activates only as long as the Coin has Rounds left to spend)\n\nWhen this unit has [BulletPropellantSpecialAlly]:\n- At 1+ [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills to [SuperCoin]s\n- At 0 [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills that spend 'Unique Ammo' to [SuperCoin]s\n- Skill Coins that spend [BulletPropellantSpecialAlly] gain +2 Power, &lt;style=\"highlight\"&gt;deal +30% damage, and inflict +2 more [Combustion] Potency and [Combustion] Count On Hit with those Coins&lt;/style&gt; (activates only as long as the Coin has Rounds left to spend)"
   },
   {
     "key": "1051221-name",

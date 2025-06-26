@@ -113,9 +113,9 @@
   },
   {
     "key": "11-content",
-    "original": "あれ？この人、管理人さんの言うことが聞き取れるんですが？\n<CMT_KR>\n<CMT_JP>",
-    "translation": "あれ？この人、管理人さんの言うことが聞き取れるんですか？\n<CMT_KR>오기: \"あれ？この人、管理人さんの言うことが聞き取れるんです「が」？\" 정확: \"あれ？この人、管理人さんの言うことが聞き取れるんです「か」？\"\n<CMT_JP>誤記: \"あれ？この人、管理人さんの言うことが聞き取れるんです「が」？\" 訂正後: \"あれ？この人、管理人さんの言うことが聞き取れるんです「か」？\"",
-    "stage": 1,
+    "original": "あれ？この人、管理人さんの言うことが聞き取れるんですか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あれ？この人、管理人さんの言うことが聞き取れるんですか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n어? 이 사람, 관리자님 말이 들리나요?\nEN:\nHuh? Wait, can she hear what you're saying?"
   },
   {
@@ -171,7 +171,7 @@
     "key": "15-content",
     "original": "私はクリア部署のアフターチーム所属、\n一般作戦2課アルファチームチーフのカイマンだ。\n<CMT_KR>\n<CMT_JP>",
     "translation": "私はクリア部署のアフターチーム所属、\n一般作戦2課アルファチームチーフのカイマンだ。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n나는 클리어 부서 애프터 팀 소속, 일반 작전 2과 알파 팀장 카이만이다.\nEN:\nI am Team Leader Caiman. Limbus Company Clearance After Team, Normal Operations Unit 2."
   },
   {

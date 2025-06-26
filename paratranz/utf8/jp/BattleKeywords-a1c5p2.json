@@ -21,60 +21,6 @@
     "context": "KR:\n정신력 감소 효율 +2\nEN:\nSP Loss Efficiency +2"
   },
   {
-    "key": "AaCePbBa-name-dup1",
-    "original": "騒音恐慌\n<CMT_KR>\n<CMT_JP>",
-    "translation": "騒音恐慌\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-desc-dup1",
-    "original": "自分が使用するコインで全て裏面が出る。\n次のターンに消失\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分が使用するコインで全て裏面が出る。\n次のターンに消失\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-summary-dup1",
-    "original": "全コインが裏面になる\n<CMT_KR>\n<CMT_JP>",
-    "translation": "全コインが裏面になる\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-name-dup2",
-    "original": "不順\n<CMT_KR>\n<CMT_JP>",
-    "translation": "不順\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-desc-dup2",
-    "original": "- 士気低下\n- 脆弱 1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 士気低下\n- 脆弱 1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-summary-dup2",
-    "original": "マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
-    "translation": "マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-name-dup3",
-    "original": "不順\n<CMT_KR>\n<CMT_JP>",
-    "translation": "不順\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-desc-dup3",
-    "original": "- パニック\n- 脆弱 2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- パニック\n- 脆弱 2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
-    "key": "AaCePbBa-summary-dup3",
-    "original": "マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
-    "translation": "マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1
-  },
-  {
     "key": "AaCePbBi-name",
     "original": "兄貴の試験\n<CMT_KR>\n<CMT_JP>",
     "translation": "兄貴の試験\n<CMT_KR>\n<CMT_JP>",
@@ -129,5 +75,68 @@
     "translation": "前のターンに受けた累計ダメージ量に比例して、ダメージ量増加を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이전 턴에 받은 누적 피해량에 비례하여 피해량 증가를 얻음.\nEN:\nGain Damage Up based on total damage taken last turn."
+  },
+  {
+    "key": "AaCePbBb-name",
+    "original": "騒音恐慌\n<CMT_KR>\n<CMT_JP>",
+    "translation": "騒音恐慌\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소음 공황\nEN:\nNoise Panic"
+  },
+  {
+    "key": "AaCePbBb-desc",
+    "original": "自分が使用するコインで全て裏面が出る。\n次のターンに消失\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分が使用するコインで全て裏面が出る。\n次のターンに消失\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신이 사용하는 모든 코인이 뒷면이 나옴.\n다음 턴에 사라짐\nEN:\nEvery Coin this unit flips lands on tails.\nExpires next turn"
+  },
+  {
+    "key": "AaCePbBb-summary",
+    "original": "全コインが裏面になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全コインが裏面になる\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 코인이 뒷면이 나옴\nEN:\nEvery Coin lands on tails"
+  },
+  {
+    "key": "AaCePbBc-name",
+    "original": "不順\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不順\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불순\nEN:\nImpurity"
+  },
+  {
+    "key": "AaCePbBc-desc",
+    "original": "- 士気低下\n- 脆弱 1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 士気低下\n- 脆弱 1を得る。マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 사기 저하\n- 취약 1을 얻음. 합 패배시 대상의 정신력 -2\nEN:\n- Low Morale\n- Gain 1 Fragile. If this unit loses a clash, the target loses 2 SP"
+  },
+  {
+    "key": "AaCePbBc-summary",
+    "original": "マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ敗北時、対象の精神力-2\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배시 대상의 정신력 -2\nEN:\nTarget loses 2 SP if this unit loses the clash"
+  },
+  {
+    "key": "AaCePbBd-name",
+    "original": "不順\n<CMT_KR>\n<CMT_JP>",
+    "translation": "不順\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n불순\nEN:\nImpurity"
+  },
+  {
+    "key": "AaCePbBd-desc",
+    "original": "- パニック\n- 脆弱 2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- パニック\n- 脆弱 2を得る。マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 패닉\n- 취약 2를 얻음. 합 패배시 대상의 정신력 -5\nEN:\n- Panic\n- Gain 2 Fragile. If this unit loses a clash, the target loses 5 SP"
+  },
+  {
+    "key": "AaCePbBd-summary",
+    "original": "マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ敗北時、対象の精神力-5\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합 패배시 대상의 정신력 -5\nEN:\nTarget loses 5 SP if this unit loses the clash"
   }
 ]

@@ -844,7 +844,7 @@
     "original": "このスキルが捨てられると、([KnowledgeExplored] × 体力最大値の3%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを[Discard]\n<CMT_KR>\n<CMT_JP>",
     "translation": "このスキルが捨てられると、([KnowledgeExplored] × 体力最大値の3%)バリアを得る。\n[WhenUse] 自分の全スキルスロットから、ランクの最も低いスキル1つを[Discard]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n이 스킬이 버려지면 ([KnowledgeExplored] x 최대 체력의 3%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 [Discard]\nEN:\nGain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots"
+    "context": "KR:\n이 스킬이 버려지면 ([KnowledgeExplored] x 최대 체력의 3%)만큼 보호막을 얻음\n[WhenUse] 자신의 모든 스킬 슬롯에서 등급이 가장 낮은 스킬 1개를 [Discard]\nEN:\nGain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots"
   },
   {
     "key": "1051001-levelList[0].coinlist[1].coindescs[0].desc",
@@ -1885,8 +1885,8 @@
   {
     "key": "1051205-levelList[0].desc",
     "original": "メインターゲットの[Combustion]と[Vibration]を合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "メインターゲットの[Combustion]と[Vibration]の合計が8以上なら、コイン威力 +1\n<CMT_KR>오기: \"メインターゲットの[Combustion]と[Vibration]「を」合計が8以上なら、コイン威力 +1\" 정확: \"メインターゲットの[Combustion]と[Vibration]「の」合計が8以上なら、コイン威力 +1\"\n<CMT_JP>誤記: \"メインターゲットの[Combustion]と[Vibration]「を」合計が8以上なら、コイン威力 +1\" 訂正後: \"メインターゲットの[Combustion]と[Vibration]「の」合計が8以上なら、コイン威力 +1\"",
-    "stage": 1,
+    "translation": "メインターゲットの[Combustion]と[Vibration]を合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합이 8 이상이면, 코인 위력 +1\nEN:\nIf the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1"
   },
   {

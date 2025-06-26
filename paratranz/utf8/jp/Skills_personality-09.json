@@ -1870,9 +1870,9 @@
   },
   {
     "key": "1091203-levelList[0].desc",
-    "original": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計が10以上なら、コイン威力 +1\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WhenUse] 全対象の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計が10以上なら、コイン威力 +1\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WhenUse] 全対象の[Burst]回数が1増加\n<CMT_KR>오기: \"[WhenUse] 全対象の「[Breath]」回数が1増加\" 정확: \"[WhenUse] 全対象の「[Burst]」回数が1増加\"\n<CMT_JP>誤記: \"[WhenUse] 全対象の「[Breath]」回数が1増加\" 訂正後: \"[WhenUse] 全対象の「[Burst]」回数が1増加\"",
-    "stage": 1,
+    "original": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計が10以上なら、コイン威力 +1\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計が10以上なら、コイン威力 +1\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[WideAreaRampage]\n[WhenUse] 자신의 [Breath] 위력과 메인 공격 대상의 [Burst] 위력의 합이 10 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [SnakeStance]만큼 합 위력이 증가\n[WhenUse] [SnakeStance] 3 얻음\n[WinDuel] 모든 대상의 [Burst] 횟수 1 증가\nEN:\n[WideAreaRampage]\n[WhenUse] If the sum of [Breath] Potency on self and the main target's [Burst] Potency is 10 or higher, Coin Power +1\n[WhenUse] Gain Clash Power equal to [SnakeStance] on self\n[WhenUse] Gain 3 [SnakeStance]\n[WinDuel] Inflict +1 [Burst] Count against all targets"
   },
   {
@@ -1919,8 +1919,8 @@
   },
   {
     "key": "1091203-levelList[1].desc",
-    "original": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計につき10、コイン威力 +1(最大2)\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n<style=\"highlight\">[WinDuel] 全対象の[Burst]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計につき10、コイン威力 +1(最大2)\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n<style=\"highlight\">[WinDuel] 全対象の[Burst]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計につき10、コイン威力 +1(最大2)</style>\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WideAreaRampage]\n<style=\"highlight\">[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計につき10、コイン威力 +1(最大2)</style>\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WideAreaRampage]\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [Breath] 위력과 메인 공격 대상의 [Burst] 위력의 합 10 당 코인 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [SnakeStance]만큼 합 위력이 증가\n[WhenUse] [SnakeStance] 3 얻음\n[WinDuel] 모든 대상의 [Burst] 횟수 1 증가\nEN:\n[WideAreaRampage]\n&lt;style=\"highlight\"&gt;[WhenUse] Coin Power +1 for every 10 (sum of this unit's [Breath] Potency and the main target's [Burst] Potency) (max 2)&lt;/style&gt;\n[WhenUse] Gain Clash Power equal to [SnakeStance] on self\n[WhenUse] Gain 3 [SnakeStance]\n[WinDuel] Inflict +1 [Burst] Count on all targets"
   },

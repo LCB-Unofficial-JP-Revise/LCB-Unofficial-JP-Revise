@@ -253,9 +253,9 @@
   },
   {
     "key": "17-content",
-    "original": "技術が一つ一つがどこから由来するものかを知ろうとするとキリがなく、理解することも難しいので大抵の人は諦めて頷きます。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "技術一つ一つがどこから由来するものかを知ろうとするとキリがなく、理解することも難しいので大抵の人は諦めて頷きます。\n<CMT_KR>오기: \"技術「が」一つ一つがどこから由来するものかを知ろうとするとキリがなく、理解することも難しいので大抵の人は諦めて頷きます。\" 정확: \"技術「」一つ一つがどこから由来するものかを知ろうとするとキリがなく、\"\n<CMT_JP>誤記: \"技術「が」一つ一つがどこから由来するものかを知ろうとするとキリがなく、理解することも難しいので大抵の人は諦めて頷きます。\" 訂正後: \"技術「」一つ一つがどこから由来するものかを知ろうとするとキリがなく、\"",
-    "stage": 1,
+    "original": "技術の一つ一つがどこから由来するものかを探ろうとしてもキリがなく、知ることも難しいため、大多数の人は諦めて頷きます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "技術の一つ一つがどこから由来するものかを探ろうとしてもキリがなく、知ることも難しいため、大多数の人は諦めて頷きます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n대부분의 사람들은 기술 하나하나가 어디서 나왔는지 알려 하다 보면 그 끝이 없으며, 알기도 힘드니 체념하고 고개를 끄덕이죠.\nEN:\nMost people will struggle to figure out or understand the source of each technology in their lives, so they give up the endeavor and simply nod along."
   },
   {
@@ -1242,7 +1242,7 @@
     "key": "74-content",
     "original": "概念焼却機かぁ。今度も概念焼却機で燃やすの？\n<CMT_KR>\n<CMT_JP>",
     "translation": "概念焼却機かぁ。今度も概念焼却機で燃やすの？\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n개념 소각기라. 이번에도 개념 소각기에 태운다고?\nEN:\nConcept incinerator, huh. You'll use it again?"
   },
   {
@@ -1534,8 +1534,8 @@
   },
   {
     "key": "90-content",
-    "original": "心臓まで貫通してるのに、少しも抵抗もしてこなかったから。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "心臓まで貫通してるのに、少しも抵抗もしてこなかったから。\n<CMT_KR>\n<CMT_JP>",
+    "original": "心臓まで貫通してるのに、少しも抵抗してこなかったから。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "心臓まで貫通してるのに、少しも抵抗してこなかったから。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n심장까지 꿰뚫는 와중에도 저항 한 번 안 하던데.\nEN:\nHe wouldn't resist while it dug into his heart."
   },

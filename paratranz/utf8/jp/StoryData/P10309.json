@@ -78,9 +78,9 @@
   },
   {
     "key": "6-content",
-    "original": "そもそも、当人に思い当たるところがあるがゆえに\n後ろめたいことがあって出て来ないのである！\n畢竟、当人ひとりでこの者を尋ねても同じ結果だったはず。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "そもそも、当人に思い当たるところがあるがゆえに\n後ろめたいことがあって出て来ないのである！\n畢竟(ひっきょう)、当人ひとりでこの者を尋ねても同じ結果だったはず。\n<CMT_KR>표현 개선: \"어려운 한자어이므로 독음(루비)을 추가함\"\n<CMT_JP>表現改善: \"難読語のためルビを付加\"",
-    "stage": 1,
+    "original": "そもそも、当人に思い当たるところがあるがゆえに後ろめたいことがあって\n出て来ないのである！<ruby=ひっきょう>畢竟</ruby>、当人ひとりでこの者を尋ねても同じ結果だったはず。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "そもそも、当人に思い当たるところがあるがゆえに後ろめたいことがあって\n出て来ないのである！<ruby=ひっきょう>畢竟</ruby>、当人ひとりでこの者を尋ねても同じ結果だったはず。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n당초 본인이 짚이는 구석이 있으니 마음이 찔려서 나오지 않는 것! 필경, 본인 혼자 이자에게 방문했어도 동일한 결과였을 터.\nEN:\nThere must be aught that nags him; verily, 'tis said that the hearts of the guilty are tell-tale hearts! I believe that the same outcome would have awaited me had I visited him all on my lonesome."
   },
   {
@@ -183,9 +183,9 @@
   },
   {
     "key": "16-content",
-    "original": "大多数は前倒しででつかった時間があればそれを着実に支払うし、\n適当な会社に所属していれば会社の方で精算したり\n無償支給を通じて問題なく過ごせるようにしてくれたりはするけど…。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "大多数は前倒しでつかった時間があればそれを着実に支払うし、\n適当な会社に所属していれば会社の方で精算したり\n無償支給を通じて問題なく過ごせるようにしてくれたりはするけど…。\n<CMT_KR>오기: \"大多数は前倒しで「で」つかった時間があればそれを着実に支払うし、\" 정확: \"大多数は前倒しで「」つかった時間があればそれを着実に支払うし、\"\n<CMT_JP>誤記: \"大多数は前倒しで「で」つかった時間があればそれを着実に支払うし、\" 訂正後: \"大多数は前倒しで「」つかった時間があればそれを着実に支払うし、\"",
-    "stage": 1,
+    "original": "大多数は前倒しで使った時間があればそれを着実に支払うし、\n適当な会社に所属していれば会社の方で精算したり\n無償支給を通じて問題なく過ごせるようにしてくれたりはするけど…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "大多数は前倒しで使った時間があればそれを着実に支払うし、\n適当な会社に所属していれば会社の方で精算したり\n無償支給を通じて問題なく過ごせるようにしてくれたりはするけど…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n대부분은 당겨 쓴 시간이 있다면 그걸 착실히 지불하기도 하고, 적당한 회사에 소속되어 있다면 회사 측에서 정산하거나 무상 지급을 통해 문제없이 지낼 수 있게 해주곤 하지만…\nEN:\nMost people with time debt are quite good with making their payments. People working for a halfway decent company often have their time expenses covered by the company, or are provided with extra time as part of the employee benefits. However..."
   },
   {
@@ -218,9 +218,9 @@
   },
   {
     "key": "21-content",
-    "original": "皆に時間徴収の恐怖が訪れてくるという、\nかなり公平そうな制度おかげで結局は皆沈黙を選択するの。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "皆に時間徴収の恐怖が訪れてくるという、\nかなり公平そうな制度のおかげで結局は皆沈黙を選択するの。\n<CMT_KR>오기: \"かなり公平そうな制度「」おかげで結局は皆沈黙を選択するの。\" 정확: \"かなり公平そうな制度「の」おかげで結局は皆沈黙を選択するの。\"\n<CMT_JP>誤記: \"かなり公平そうな制度「」おかげで結局は皆沈黙を選択するの。\" 訂正後: \"かなり公平そうな制度「の」おかげで結局は皆沈黙を選択するの。\"",
-    "stage": 1,
+    "original": "皆に時間徴収の恐怖が訪れてくるという、\nかなり公平そうな制度のおかげで結局は皆沈黙を選択するの。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "皆に時間徴収の恐怖が訪れてくるという、\nかなり公平そうな制度のおかげで結局は皆沈黙を選択するの。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n모두에게 시간 징수의 공포가 찾아온다는, 제법 공평해 보이는 제도 덕에 결국엔 다들 침묵을 선택하지.\nEN:\nBut eventually, all choose to remain silent before the seemingly fair and equal notion that the Collectors come to claim time from both the rich and the poor."
   },
   {

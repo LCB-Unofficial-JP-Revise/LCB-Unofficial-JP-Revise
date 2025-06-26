@@ -771,9 +771,9 @@
   },
   {
     "key": "77-content",
-    "original": "T社の社員と思わしく者は\n誰からも反応されていないのに、一人でベラベラと話を続けている。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "T社の社員と思わしき者は\n誰からも反応されていないのに、一人でベラベラと話を続けている。\n<CMT_KR>오기: \"T社の社員と思わし「く」者は\" 정확: \"T社の社員と思わし「き」者は\"\n<CMT_JP>誤記: \"T社の社員と思わし「く」者は\" 訂正後: \"T社の社員と思わし「き」者は\"",
-    "stage": 1,
+    "original": "T社の社員と思わしき者は\n誰からも反応されていないのに、一人でベラベラと話を続けている。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "T社の社員と思わしき者は\n誰からも反応されていないのに、一人でベラベラと話を続けている。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\nT사 직원으로 추정되는 자는 누구의 호응 없이도 혼자 능숙하게 말을 이어 나가기 시작했다.\nEN:\nThe man, whom we presumed to be a T Corp. Staff, seemed very adept at holding a one-sided conversation with zero external input."
   },
   {
@@ -918,9 +918,9 @@
   },
   {
     "key": "90-content",
-    "original": "実は私もよく分かんないな。きっと100億眼に該当する時間が納付されるんじゃないかな？\n<CMT_KR>\n<CMT_JP>",
-    "translation": "実は私もよく分かんないな。きっと100億眼に相当する時間が納付されるんじゃないかな？\n<CMT_KR>표현 개선: \"시간에 대해 '해당'이라는 표현을 쓸 경우, 이 문맥에서는 '該当'보다는 '相当'이라는 표현이 일본어로 더 자연스럽습니다.\"\n<CMT_JP>表現改善: \"時間に対して해당を用いる場合、このテキストの文脈的には「該当」よりも「相当」のほうが日本語として自然です。\"",
-    "stage": 1,
+    "original": "実は私もよく分かんないな。きっと100億眼に相当する時間が納付されるんじゃないかな？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "実は私もよく分かんないな。きっと100億眼に相当する時間が納付されるんじゃないかな？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n사실 나도 잘 몰라. 아마 100억 안에 해당하는 시간만큼 납부하게 되지 않을까?\nEN:\n... I'm not so sure as to what might happen, actually. I suppose it'll suck ten billion Ahn's worth of time out of your friend?"
   },
   {

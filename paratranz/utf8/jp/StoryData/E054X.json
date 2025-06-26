@@ -120,9 +120,9 @@
   },
   {
     "key": "16-content",
-    "original": "シンクレアが顔が真っ白にしてどもるのを見ると、\nいつか囚人たちから聞いた覚えがある。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "シンクレアが顔を真っ白にしてどもるのを見ると、\nいつか囚人たちから聞いた覚えがある。\n<CMT_KR>오기: \"シンクレアが顔「が」真っ白にしてどもるのを見ると、\" 정확: \"シンクレアが顔「を」真っ白にしてどもるのを見ると、\"\n<CMT_JP>誤記: \"シンクレアが顔「が」真っ白にしてどもるのを見ると、\" 訂正後: \"シンクレアが顔「を」真っ白にしてどもるのを見ると、\"",
-    "stage": 1,
+    "original": "シンクレアが顔を真っ白にしてどもるのを見ると、\nいつか囚人たちから聞いた覚えがある。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "シンクレアが顔を真っ白にしてどもるのを見ると、\nいつか囚人たちから聞いた覚えがある。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n싱클레어가 얼굴이 새하얗게 질려서 말을 더듬는 걸 보니, 언젠가 수감자들에게 들었던 기억이 난다.\nEN:\nEven a partial mention their name drains all color from Sinclair's face... I remember what the Sinners once told me about them."
   },
   {
@@ -176,9 +176,9 @@
   },
   {
     "key": "24-content",
-    "original": "あっという間に騒がしくになったバスの中へ…。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "あっという間に騒がしくなったバスの中へ…。\n<CMT_KR>오기: \"あっという間に騒がしく「に」なったバスの中へ…。\" 정확: \"あっという間に騒がしく「」なったバスの中へ…。\"\n<CMT_JP>誤記: \"あっという間に騒がしく「に」なったバスの中へ…。\" 訂正後: \"あっという間に騒がしく「」なったバスの中へ…。\"",
-    "stage": 1,
+    "original": "あっという間に騒がしくなったバスの中へ…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あっという間に騒がしくなったバスの中へ…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n순식간에 떠들썩해진 버스 내부 속으로…\nEN:\nThe bus is once again consumed by commotion..."
   },
   {
@@ -295,9 +295,9 @@
   },
   {
     "key": "41-content",
-    "original": "もちろん、観察記録自体を修正しなければならない状況であれば、修正命令が\nあるかもしれませんが…分類法、つまりシリアル番号と危険レベルについては\n自動で更新されるので、ただ念頭に置いてくださいという意味です。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "もちろん、観察記録自体を修正しなければならない状況であれば、修正命令が\nあるかもしれませんが…分類法、つまりシリアル番号と危険ランクについては\n自動で更新されるので、ただ念頭に置いてくださいという意味です。\n<CMT_KR>표현 개선: \"あるかもしれませんが…分類法、つまりシリアル番号と「危険レベル」については\" 상세: \"'危険ランク(위험등급)'의 표기 일관성 문제\"\n<CMT_JP>表現改善: \"あるかもしれませんが…分類法、つまりシリアル番号と「危険レベル」については\" 詳細: \"「危険ランク」の表記揺れ\"",
-    "stage": 1,
+    "original": "もちろん、観察記録自体を修正しなければならない状況であれば、修正命令が\nあるかもしれませんが…分類法、つまりシリアル番号と危険ランクについては\n自動で更新されるので、ただ念頭に置いてくださいという意味です。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "もちろん、観察記録自体を修正しなければならない状況であれば、修正命令が\nあるかもしれませんが…分類法、つまりシリアル番号と危険ランクについては\n自動で更新されるので、ただ念頭に置いてくださいという意味です。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n물론 관찰 기록 자체를 수정해야 하는 상황이면 수정 명령이 있을 수는 있겠지만… 분류법, 즉 일련번호와 위험등급에 대한 것은 자동 갱신될 테니, 그저 알아 두라는 뜻입니다.\nEN:\nOf course, if the Observation Logs themselves need to be edited, there may be orders to make direct adjustments by hand. ... However, the categorization for each entity will be updated automatically. They are merely informing the Sinners of the upcoming changes."
   },
   {
@@ -878,7 +878,7 @@
     "key": "124-content",
     "original": "その通りです。ねじれは除去による完全な制圧が可能ですが、\n幻想体はまだ理論上完全な殺害が不可能です。\n<CMT_KR>\n<CMT_JP>",
     "translation": "その通りです。ねじれは除去による完全な制圧が可能ですが、\n幻想体はまだ理論上完全な殺害が不可能です。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
+    "stage": 5,
     "context": "KR:\n맞습니다. 뒤틀림은 제거에 따른 완전한 제압이 가능하지만, 환상체는 아직 이론상 완전한 사살이 불가능하죠.\nEN:\nCorrect. Distortions can be completely subdued simply by defeating them in battle, but any method of fully slaying an Abnormality is yet to be discovered, even in theory."
   },
   {
