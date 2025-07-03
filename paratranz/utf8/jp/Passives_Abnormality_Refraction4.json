@@ -232,9 +232,9 @@
   },
   {
     "key": "862901-desc",
-    "original": "2ターン目の開始時に縛られた王の下手人を召喚する。\n縛られた王の下手人は死亡時に別の下手人に入れ替わり、計12名の下手人が召喚される。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "2ターン目の開始時に縛られた王の下手人を召喚する。\n縛られた王の下手人は死亡時に別の下手人に入れ替わり、計12名の下手人が召喚される。\n<CMT_KR>오역 의심: \"下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_JP>誤訳の疑い: \"下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
-    "stage": 1,
+    "original": "2ターン目の開始時に縛られた王の手下を召喚する。\n縛られた王の手下は死亡時に別の手下に入れ替わり、計12名の手下が召喚される。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "2ターン目の開始時に縛られた王の手下を召喚する。\n縛られた王の手下は死亡時に別の手下に入れ替わり、計12名の手下が召喚される。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n2턴 시작 시 묶인 왕의 하수인을 소환한다.\n묶인 왕의 하수인은 사망 시 또 다른 하수인으로 대체되며, 총 12명의 하수인이 소환된다.\nEN:\nTurn 2 Start: Summon the retinue of the King in Binds.\nThe King has twelve retainers. Upon the death of a retainer, another will fill its place until there are none."
   },
   {
@@ -246,9 +246,9 @@
   },
   {
     "key": "862902-desc",
-    "original": "下手人が全て死亡したなら、戦闘に自ら参加する。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "下手人が全て死亡したなら、戦闘に自ら参加する。\n<CMT_KR>오역 의심: \"下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_JP>誤訳の疑い: \"下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
-    "stage": 1,
+    "original": "手下が全て死亡したなら、戦闘に自ら参加する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "手下が全て死亡したなら、戦闘に自ら参加する。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n하수인이 모두 사망하면, 전투에 직접 참여한다.\nEN:\nWhen all retainers are defeated, the King joins the fight."
   },
   {
@@ -281,16 +281,16 @@
   },
   {
     "key": "828001-name",
-    "original": "縛られた王の下手人\n<CMT_KR>\n<CMT_JP>",
-    "translation": "縛られた王の下手人\n<CMT_KR>오역 의심: \"縛られた王の下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_JP>誤訳の疑い: \"縛られた王の下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
-    "stage": 1,
+    "original": "縛られた王の手下\n<CMT_KR>\n<CMT_JP>",
+    "translation": "縛られた王の手下\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n묶인 왕의 하수인\nEN:\nRetainer of the King in Binds"
   },
   {
     "key": "828001-desc",
-    "original": "今回の戦闘の間、[BandageOfTheBoundKing]、[BigWelcome]を得る。\n毎ターン開始時に縛られた王がこのキャラクターに加護を与える。\n縛られた王の加護はターンごとに[Enhancement]を付与、精神力回復、体力回復の順に変わる。生存した縛られた王の下手人(嫉妬大罪)の数が6名未満であれば、付与される加護が強化される。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "今回の戦闘の間、[BandageOfTheBoundKing]、[BigWelcome]を得る。\n毎ターン開始時に縛られた王がこのキャラクターに加護を与える。\n縛られた王の加護はターンごとに[Enhancement]を付与、精神力回復、体力回復の順に変わる。生存した縛られた王の下手人(嫉妬大罪)の数が6名未満であれば、付与される加護が強化される。\n<CMT_KR>오역 의심: \"下手人\" 상세: \"일본어 '下手人'은 한국어 '하수인'과 달리 '살인/사건의 범인'이라는 의미로만 사용됩니다. 따라서, '手先' / '手下' 등으로 번역하는 것이 적절할 것으로 보입니다.\"\n<CMT_JP>誤訳の疑い: \"下手人\" 詳細: \"日本語の「下手人」という言葉は、韓国語の「하수인」と異なり「殺人/事件の犯行者」といった意味でしか使われません。よって、「手先」や「手下」などといった訳語が適切であると思われます。\"",
-    "stage": 1,
+    "original": "今回の戦闘の間、[BandageOfTheBoundKing]、[BigWelcome]を得る。\n毎ターン開始時に縛られた王がこのキャラクターに加護を与える。\n縛られた王の加護はターンごとに[Enhancement]を付与、精神力回復、体力回復の順に変わる。生存した縛られた王の手下(嫉妬大罪)の数が6名未満であれば、付与される加護が強化される。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "今回の戦闘の間、[BandageOfTheBoundKing]、[BigWelcome]を得る。\n毎ターン開始時に縛られた王がこのキャラクターに加護を与える。\n縛られた王の加護はターンごとに[Enhancement]を付与、精神力回復、体力回復の順に変わる。生存した縛られた王の手下(嫉妬大罪)の数が6名未満であれば、付与される加護が強化される。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n이번 전투동안 [BandageOfTheBoundKing], [BigWelcome]를 얻음.\n매 턴 시작 시 묶인 왕이 이 캐릭터에게 가호를 부여함.\n묶인 왕의 가호는 턴마다 [Enhancement]를 부여, 정신력 회복, 체력 회복 순으로 달라짐. 생존한 묶인 왕의 하수인(질투 죄종)의 수가 6명 미만이면, 부여되는 가호가 강화됨.\nEN:\n- Gain [BandageOfTheBoundKing] and [BigWelcome] for this Encounter.\n- At every Turn Start, the King in Binds blesses this unit with grace.\n- The grace of the King in Binds changes every turn, in the following order: [Enhancement], SP Heal, and HP Heal. If there are less than 6 surviving Retainers(Peccatulum Invidiae), boost the grace's strength."
   },
   {

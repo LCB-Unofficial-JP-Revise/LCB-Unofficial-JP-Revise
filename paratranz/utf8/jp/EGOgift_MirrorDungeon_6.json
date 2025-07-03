@@ -1,0 +1,268 @@
+[
+  {
+    "key": "9799-name",
+    "original": "とある哲学\n<CMT_KR>\n<CMT_JP>",
+    "translation": "とある哲学\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어떤 철학\nEN:\nA Certain Philosophy"
+  },
+  {
+    "key": "9799-desc",
+    "original": "ギフトの合成確率が90％以上なら、100％として適用される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ギフトの合成確率が90％以上なら、100％として適用される\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 합성 확률이 90% 이상이면, 100%로 적용됨\nEN:\nIf the Fusion Probability forecast is 90% or higher, make it a 100%"
+  },
+  {
+    "key": "9800-name",
+    "original": "富\n<CMT_KR>\n<CMT_JP>",
+    "translation": "富\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부\nEN:\nWealth"
+  },
+  {
+    "key": "9800-desc",
+    "original": "全ギフトの購入および強化コストが1に固定される。\n\n固有コスト500につき、全味方が[AttackUp]1を得る(最大20)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全ギフトの購入および強化コストが1に固定される。\n\n固有コスト500につき、全味方が[AttackUp]1を得る(最大20)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 기프트 구매 및 강화 비용이 1로 고정됨.\n\n보유한 코스트 500 당 모든 아군이 [AttackUp] 1 얻음 (최대 20)\nEN:\nFix all E.G.O Gift Purchase & Enhancement Cost to 1.\n\nAllies gain 1 [AttackUp] for every 500 Cost on self (max 20)"
+  },
+  {
+    "key": "9800-simpleDesc[1].simpleDesc",
+    "original": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 레벨 증가 얻음\nEN:\nGain Offense Level Up"
+  },
+  {
+    "key": "9801-name",
+    "original": "強靱丸\n<CMT_KR>\n<CMT_JP>",
+    "translation": "強靱丸\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강인환\nEN:\nTenacity Bolus"
+  },
+  {
+    "key": "9801-desc",
+    "original": "ターン開始時、最大体力が最も高い味方1名が(このターンの間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、最大体力が最も高い味方1名が(このターンの間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 최대 체력이 가장 높은 아군 1명이 (이번 전투 동안 적에게 스킬 공격으로 피해를 받은 횟수)만큼 [DefenseUp] 얻음 (최대 6).\nEN:\nTurn Start: 1 ally with the highest max HP gains [DefenseUp] equal to the number of times that unit was hit by the enemies' Skill Attacks (max 6)"
+  },
+  {
+    "key": "9801-simpleDesc[0].simpleDesc",
+    "original": "防御レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "防御レベル増加 を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨 증가 얻음\nEN:\nGain Defense Level Up"
+  },
+  {
+    "key": "9802-name",
+    "original": "電撃斧\n<CMT_KR>\n<CMT_JP>",
+    "translation": "電撃斧\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전격부\nEN:\nLightening Axe"
+  },
+  {
+    "key": "9802-desc",
+    "original": "[Charge]回数を消耗するスキル的中時、[Burst]1を付与(スキルごとに3回発動)\n\n[Burst]、[Charge]を付与する攻撃スキルを保有した人格が編成された数によってギフト効果が強化 (E.G.Oスキルを除く、待機人員を含む)\n\n- 6人以上\n敵へ[Burst]ダメージを与えれば、[Charge]回数が1増加(スキルごとに3回)\n\n- 8人以上\n[Charge]回数を消耗するスキル的中時、[Burst]回数が1増加(スキルごとに3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Charge]回数を消耗するスキル的中時、[Burst]1を付与(スキルごとに3回発動)\n\n[Burst]、[Charge]を付与する攻撃スキルを保有した人格が編成された数によってギフト効果が強化 (E.G.Oスキルを除く、待機人員を含む)\n\n- 6人以上\n敵へ[Burst]ダメージを与えれば、[Charge]回数が1増加(スキルごとに3回)\n\n- 8人以上\n[Charge]回数を消耗するスキル的中時、[Burst]回数が1増加(スキルごとに3回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Charge] 횟수를 소모하는 스킬 적중 시 [Burst] 1 부여 (스킬 당 3회 발동)\n\n[Burst], [Charge]을 부여하거나 획득하는 공격 스킬을 보유한 인격이 편성된 수에 따라 기프트 효과 강화 (E.G.O 스킬 제외, 대기 인원 포함).\n\n- 6인 이상\n적에게 [Burst] 피해를 입히면, [Charge] 횟수 1 증가 (스킬 당 3회)\n\n- 8인 이상\n[Charge] 횟수를 소모하는 스킬 적중 시 [Burst] 횟수 1 증가 (스킬 당 3회)\nEN:\nOn Hit with Skills that consume [Charge] Count: inflict 1 [Burst] (3 times per Skill)\n\nThe E.G.O Gift effect gets stronger the more Identities with Attack Skills that apply [Burst] or gain [Charge] are Deployed. (except E.G.O Skills; includes Backup Units)\n\n- At 6+...\nWhen dealing [Burst] damage to enemies, gain +1 [Charge] Count (3 times per Skill)\n\n- At 8+...\nOn Hit with Skills that consume [Charge] Count, inflict +1 [Burst] Count (3 times per Skill)"
+  },
+  {
+    "key": "9802-simpleDesc[0].simpleDesc",
+    "original": "破裂 1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "破裂 1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 1 부여\nEN:\nInflict 1 Rupture"
+  },
+  {
+    "key": "9802-simpleDesc[2].simpleDesc",
+    "original": "充電 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "充電 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n충전 횟수 1 증가\nEN:\nGain +1 Charge Count"
+  },
+  {
+    "key": "9802-simpleDesc[3].simpleDesc",
+    "original": "破裂 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "破裂 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 횟수 1 증가\nEN:\nInflict +1 Rupture Count"
+  },
+  {
+    "key": "9803-name",
+    "original": "鏡の中の花\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鏡の中の花\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울 속의 꽃\nEN:\nFlower in the Mirror"
+  },
+  {
+    "key": "9803-desc",
+    "original": "毎ターン開始時、全ての敵へ[Burst]威力3を付与、[Burst]回数が1増加(集中戦闘の場合は全部位に適用)\n\n[Burst]、[Breath]を付与する攻撃スキルを保有した人格が編成された数によってギフト効果が強化 (E.G.Oスキルを除く、待機人員を含む)\n\n- 6人以上\nスキル的中時に[Burst]ダメージが発生したなら、[Breath]回数を1得る(スキルごとに3回)\n\n- 10人以上\nスキル的中時にクリティカルが発生したなら、[Burst]回数が1増加(スキルごとに3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン開始時、全ての敵へ[Burst]威力3を付与、[Burst]回数が1増加(集中戦闘の場合は全部位に適用)\n\n[Burst]、[Breath]を付与する攻撃スキルを保有した人格が編成された数によってギフト効果が強化 (E.G.Oスキルを除く、待機人員を含む)\n\n- 6人以上\nスキル的中時に[Burst]ダメージが発生したなら、[Breath]回数を1得る(スキルごとに3回)\n\n- 10人以上\nスキル的中時にクリティカルが発生したなら、[Burst]回数が1増加(スキルごとに3回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매 턴 시작 시 모든 적에게 [Burst] 위력 3 부여, [Burst] 횟수 1 증가 (집중 전투일 경우, 모든 부위에 적용).\n\n[Burst], [Breath]을 부여하거나 획득하는 공격 스킬을 보유한 인격이 편성된 수에 따라 기프트 효과 강화 (E.G.O 스킬 제외, 대기 인원 포함).\n\n- 6인 이상\n스킬 적중 시 [Burst] 피해가 발생했다면, [Breath] 횟수 1 얻음 (스킬 당 3회)\n\n- 10인 이상\n스킬 적중 시 크리티컬이 발생했다면, [Burst] 횟수 1 증가 (스킬 당 3회)\nEN:\nEvery Turn Start: inflict 3 [Burst] Potency and +1 [Burst] Count against all enemies (for Focused Encounters, all Parts)\n\nThe E.G.O Gift effect gets stronger the more Identities with Attack Skills that apply [Burst] or gain [Breath] are Deployed. (except E.G.O Skills; includes Backup Units)\n\n- At 6+...\nWhen [Burst] damage occurs On Hit with a Skill, gain +1 [Breath] Count (3 times per Skill)\n\n- At 10+...\nOn Crit with a Skill, inflict +1 [Burst] Count (3 times per Skill)"
+  },
+  {
+    "key": "9803-simpleDesc[0].simpleDesc",
+    "original": "破裂 威力3を付与、破裂 回数1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "破裂 威力3を付与、破裂 回数1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 위력 3 부여, 파열 횟수 1 증가\nEN:\nInflict 3 Rupture Potency and +1 Rupture Count"
+  },
+  {
+    "key": "9803-simpleDesc[2].simpleDesc",
+    "original": "呼吸 回数を1得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "呼吸 回数を1得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 횟수 1 얻음\nEN:\nGain +1 Poise Count"
+  },
+  {
+    "key": "9803-simpleDesc[3].simpleDesc",
+    "original": "破裂 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "破裂 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n파열 횟수 1 증가\nEN:\nInflict +1 Rupture Count"
+  },
+  {
+    "key": "9804-name",
+    "original": "水の中の月\n<CMT_KR>\n<CMT_JP>",
+    "translation": "水の中の月\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n물 속의 달\nEN:\nMoon in the Water"
+  },
+  {
+    "key": "9804-desc",
+    "original": "[Burst]威力が5以上付与された敵へ攻撃的中時に[Breath]威力1を得て、自分の[Breath]回数が1増加 (スキルごとに最大3回)\n\n[Burst]、[Breath]を付与するか得る攻撃スキルを保有した人格が編成された数によってギフト効果が強化 (E.G.Oスキルを除く、待機人員を含む)\n\nスキル的中時に対象の[Burst]が20以上なら、クリティカルダメージ量 +10% (編成人員数1名につき、クリティカルダメージ量が3%追加で増加)\n\n- 12人以上\nスキル的中時にクリティカルが発生したなら、自分に付与された解除可能なマイナス効果のうち1つをランダムに除去 (毎ターン、人格ごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Burst]威力が5以上付与された敵へ攻撃的中時に[Breath]威力1を得て、自分の[Breath]回数が1増加 (スキルごとに最大3回)\n\n[Burst]、[Breath]を付与するか得る攻撃スキルを保有した人格が編成された数によってギフト効果が強化 (E.G.Oスキルを除く、待機人員を含む)\n\nスキル的中時に対象の[Burst]が20以上なら、クリティカルダメージ量 +10% (編成人員数1名につき、クリティカルダメージ量が3%追加で増加)\n\n- 12人以上\nスキル的中時にクリティカルが発生したなら、自分に付与された解除可能なマイナス効果のうち1つをランダムに除去 (毎ターン、人格ごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Burst] 위력이 5 이상 부여된 적에게 공격 적중 시 [Breath] 위력 1을 얻고, 자신의 [Breath] 횟수 1 증가 (스킬당 최대 3회).\n\n[Burst], [Breath]을 부여하거나 획득하는 공격 스킬을 보유한 인격이 편성된 수에 따라 기프트 효과 강화 (E.G.O 스킬 제외, 대기 인원 포함).\n\n스킬 적중 시 대상의 [Burst]이 20 이상이면, 크리티컬 피해량 +10% (편성 인원 수 1명당 크리티컬 피해량 3% 추가로 증가)\n\n- 12인 이상\n스킬 적중 시 크리티컬이 발생했다면, 자신에게 부여된 해제 가능한 부정적인 효과 중 무작위 1개 제거 (턴 당, 인격 당 1회)\nEN:\nOn Hit against enemies with 5+ [Burst] Potency: gain 1 [Breath] Potency and +1 [Breath] Count (3 times per Skill)\n\nThe E.G.O Gift effect gets stronger the more Identities with Attack Skills that apply [Burst] or gain [Breath] are Deployed. (except E.G.O Skills; includes Backup Units)\n\nOn Hit with a Skill: if target has 20+ [Burst], deal +10% damage on Critical Hit (additional +3% damage on Critical Hit for every 1 Deployed Identity that fit the above condition)\n\n- At 12+...\nOn Hit with a Skill: if it hit Critically, remove 1 random removable negative effect applied to self (once per turn, per Identity)"
+  },
+  {
+    "key": "9804-simpleDesc[0].simpleDesc",
+    "original": "呼吸 威力、回数を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "呼吸 威力、回数を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호흡 위력, 횟수 얻음\nEN:\nGain Poise Potency and Count"
+  },
+  {
+    "key": "9804-simpleDesc[2].simpleDesc",
+    "original": "クリティカルダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 증가\nEN:\nDeal more Damage on Critical Hit"
+  },
+  {
+    "key": "9804-simpleDesc[3].simpleDesc",
+    "original": "マイナス効果をランダムに除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マイナス効果をランダムに除去\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부정적인 효과 무작위 제거\nEN:\nRemove a random negative effect"
+  },
+  {
+    "key": "9795-name",
+    "original": "落ちた一雫\n<CMT_KR>\n<CMT_JP>",
+    "translation": "落ちた一雫\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n떨어진 한 방울\nEN:\nA Drop"
+  },
+  {
+    "key": "9795-desc",
+    "original": "[BloodDinner]を消耗する人格が3人以上のとき発動 (E.G.Oスキルを除く、待機人員を含む)\n\n[BloodDinner]を消耗するスキルの使用前、攻撃対象の[Laceration]威力が30以上のとき、対象の[Laceration]威力を15に減少させて、減少した[Laceration]威力だけ[BloodDinner]を生成する。(ターンごとに敵全体から1回発動、広域スキルの場合はメインターゲットにのみ適用される)\n\n該当効果で生成された[BloodDinner]10につき、[BloodDinner]を消耗するスキルを保有した人格へ次のターンにて威力増加1, ダメージ量増加1を付与(最大4)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BloodDinner]を消耗する人格が3人以上のとき発動 (E.G.Oスキルを除く、待機人員を含む)\n\n[BloodDinner]を消耗するスキルの使用前、攻撃対象の[Laceration]威力が30以上のとき、対象の[Laceration]威力を15に減少させて、減少した[Laceration]威力だけ[BloodDinner]を生成する。(ターンごとに敵全体から1回発動、広域スキルの場合はメインターゲットにのみ適用される)\n\n該当効果で生成された[BloodDinner]10につき、[BloodDinner]を消耗するスキルを保有した人格へ次のターンにて威力増加1, ダメージ量増加1を付与(最大4)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BloodDinner]을 소모하는 스킬을 보유한 인격이 3인 이상일 때 발동 (E.G.O 스킬 제외, 대기 인원 제외)\n\n[BloodDinner]을 소모하는 스킬의 사용 전, 공격 대상의 [Laceration] 위력이 30 이상일 때, 대상의 [Laceration] 위력을 15로 감소시키고, 감소한 [Laceration] 위력만큼 [BloodDinner]을 생성함. (턴 당 적 전체에서 1회 발동, 광역 스킬의 경우 메인 타겟에게만 적용됨)\n\n해당 효과로 생성된 [BloodDinner] 10 당, [BloodDinner]을 소모하는 스킬을 보유한 인격에게 다음 턴에 위력 증가 1, 피해량 증가 1 부여 (최대 4)\nEN:\nActivates when 3 or more Identities have Skills that consume [BloodDinner]. (except E.G.O Skills; except Backup Units)\n\nBefore using Skills that consume [BloodDinner], if the target has 30+ [Laceration] Potency, reduce their [Laceration] Potency to 15. Then, increase [BloodDinner] equal to the amount of [Laceration] Potency reduced. (once per turn for the enemy group as a whole; only activates against the main target when using multi-Atk Weight Skills)\n\nFor Identities with Skills that consume [BloodDinner], apply 1 Power Up and 1 Damage Up next turn for every 10 [BloodDinner] generated with the above effect (max 4)"
+  },
+  {
+    "key": "9795-simpleDesc[0].simpleDesc",
+    "original": "出血 威力減少、血餐 増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "出血 威力減少、血餐 増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n출혈 위력 감소, 혈찬 증가\nEN:\nReduce Bleed Potency and increase Bloodfeast"
+  },
+  {
+    "key": "9795-simpleDesc[1].simpleDesc",
+    "original": "威力 増加、ダメージ量増加 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "威力 増加、ダメージ量増加 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위력 증가, 피해량 증가 부여\nEN:\nApply Power Up and Damage Up"
+  },
+  {
+    "key": "9796-name",
+    "original": "切ない呼気\n<CMT_KR>\n<CMT_JP>",
+    "translation": "切ない呼気\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n애달픈 날숨\nEN:\nSorrowful Exhale"
+  },
+  {
+    "key": "9796-desc",
+    "original": "編成順5番の味方[Breath]威力と[Breath]回数の合計が50以上なら、マッチ勝利または一方攻撃時に使用するスキルコインが必ず表面(減算コインの場合は裏面)に決まり、クリティカルダメージ量 +80% (戦闘につき1回、E.G.Oスキルを除く)\n\n編成された人員のうち、[Breath]威力または[Breath]回数を付与または獲得する攻撃スキルを保有した人格が5名以上のとき、編成順5番のクリティカルダメージ量 +60% (条件を超える編成人員数1名につきクリティカルダメージ量が20%追加で増加、待機人員を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成順5番の味方[Breath]威力と[Breath]回数の合計が50以上なら、マッチ勝利または一方攻撃時に使用するスキルコインが必ず表面(減算コインの場合は裏面)に決まり、クリティカルダメージ量 +80% (戦闘につき1回、E.G.Oスキルを除く)\n\n編成された人員のうち、[Breath]威力または[Breath]回数を付与または獲得する攻撃スキルを保有した人格が5名以上のとき、編成順5番のクリティカルダメージ量 +60% (条件を超える編成人員数1名につきクリティカルダメージ量が20%追加で増加、待機人員を含む)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 순서 5번 아군의 [Breath] 위력과 [Breath] 횟수의 합이 50 이상일 경우, 합 승리 또는 일방 공격시 사용하는 스킬 코인이 반드시 앞면(마이너스 코인일 경우 뒷면)으로 결정되고, 치명타로 가하는 피해량 +80% (전투 당 1회, E.G.O 스킬 제외)\n\n편성된 인원 중 [Breath] 위력 또는 [Breath] 횟수를 부여 또는 획득하는 공격 스킬을 보유한 인격이 5인 이상 일 때, 편성 순서 5번 아군의 크리티컬 피해량 +60% (조건 초과 편성 인원 수 1명당 크리티컬 피해량 20% 추가로 증가, 대기 인원 포함)\nEN:\nIf the #5 Deployed ally has 50+ (sum of [Breath] Potency and [Breath] Count): their Skill Coins, when attacking after Clash Win or when using Unopposed Attacks, always flip Heads(for Minus Coins, Tails), and deal +80% damage on Critical Hit. (once per Encounter, except E.G.O Skills)\n\nIf there are 5 or more Deployed allies with Attack Skills that apply or gain [Breath] Potency or [Breath] Count, #5 Deployed ally deals +60% damage on Critical Hit (additional +20% damage on Critical Hit for every 1 Deployed Identity beyond the conditional, including Backup Units)"
+  },
+  {
+    "key": "9796-simpleDesc[0].simpleDesc",
+    "original": "クリティカルダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 증가\nEN:\nDeal more Damage on Critical Hit"
+  },
+  {
+    "key": "9796-simpleDesc[1].simpleDesc",
+    "original": "クリティカルダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 증가\nEN:\nDeal more Damage on Critical Hit"
+  },
+  {
+    "key": "9797-name",
+    "original": "砕ける定めの火砲\n<CMT_KR>\n<CMT_JP>",
+    "translation": "砕ける定めの火砲\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깨어질 화포\nEN:\nShatterbound Cannon"
+  },
+  {
+    "key": "9797-desc",
+    "original": "戦闘開始時、毎ターン[AttackDmgUp]2, [Vulnerable]2を得る\n2ターン目から、ターンごとに獲得する値が1ずつ増加する(最大で8回増加)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、毎ターン[AttackDmgUp]2, [Vulnerable]2を得る\n2ターン目から、ターンごとに獲得する値が1ずつ増加する(最大で8回増加)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, 매 턴마다 [AttackDmgUp] 2, [Vulnerable] 2 얻음\n2번째 턴부터, 매 턴마다 획득하는 값이 각각 1씩 증가함 (최대 8회 증가)\nEN:\nCombat Start: gain 2 [AttackDmgUp] and 2 [Vulnerable]\nStarting from the 2nd turn, Stacks of [AttackDmgUp] and [Vulnerable] gained due to the above effect increases by 1 (up to 8 times)"
+  },
+  {
+    "key": "9797-simpleDesc[0].simpleDesc",
+    "original": "ダメージ量増加、脆弱を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ダメージ量増加、脆弱を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n피해량 증가, 취약 얻음\nEN:\nGain Damage Up and Fragile"
+  },
+  {
+    "key": "9798-name",
+    "original": "貪欲する棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貪欲する棘\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐하는 가시\nEN:\nCoveting Thorn"
+  },
+  {
+    "key": "9798-desc",
+    "original": "3ターンごとに、[Laceration]を持つ敵(部位)に[RoseThorn]を2付与する。\n全ての敵(部位)に[Laceration]があれば、[RoseThorn]を4付与する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "3ターンごとに、[Laceration]を持つ敵(部位)に[RoseThorn]を2付与する。\n全ての敵(部位)に[Laceration]があれば、[RoseThorn]を4付与する。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n3턴마다, [Laceration]이 있는 적 (부위)에 [RoseThorn]을 2 부여함.\n모든 적 (부위)에 [Laceration]이 있으면, [RoseThorn]을 4 부여함.\nEN:\nEvery 3 turns, inflict 2 [RoseThorn] against enemies(or Parts) with [Laceration].\nIf all enemies(or all Parts) have [Laceration], inflict 4 [RoseThorn]."
+  },
+  {
+    "key": "9798-simpleDesc[0].simpleDesc",
+    "original": "貪食棘 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貪食棘 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐식극(貪食棘) 부여\nEN:\nInflict Gluttonous Thorn (貪食棘)"
+  },
+  {
+    "key": "9798-simpleDesc[1].simpleDesc",
+    "original": "貪食棘 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貪食棘 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐식극(貪食棘) 부여\nEN:\nInflict Gluttonous Thorn (貪食棘)"
+  }
+]

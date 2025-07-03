@@ -2929,7 +2929,7 @@
     "key": "MarkOfHeresy-desc",
     "original": "1ターンの間貫通、打撃属性スキルによる被ダメージ量+20%。注視された敵を倒したとき、倒した味方の精神力が10回復し、該当する味方がN社の狂信者なら次のターンに狂信1を得る\n<CMT_KR>\n<CMT_JP>",
     "translation": "1ターンの間貫通、打撃属性スキルによる被ダメージ量+20%。注視された敵を倒したとき、倒した味方の精神力が10回復し、該当する味方がN社の狂信者なら次のターンに狂信1を得る\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n이번 턴동안 관통, 타격 속성 스킬로 받는 피해 +20%. 표적이 찍힌 적 처치 시 처치한 아군의 정신력 10 회복되며, 해당 아군이 N사 광신도면 다음 턴에 광신 1을 얻음\nEN:\nTake +20% damage from Pierce and Blunt skills this turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is an 'N Corp. Fanatic', also apply 1 Fanatic next turn."
   },
   {
@@ -4609,7 +4609,7 @@
     "key": "Talisman-summary",
     "original": "攻撃的中時に破裂回数を消耗して破裂付与、被ダメージ時に破裂を得て数値が1減少\n<CMT_KR>\n<CMT_JP>",
     "translation": "攻撃的中時に破裂回数を消耗して破裂付与、被ダメージ時に破裂を得て数値が1減少\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n공격 적중 시 파열 횟수를 소모하여 파열 부여, 피격 시 파열 얻고 수치 1 감소\nEN:\nOn Hit, consume Rupture Count on target to inflict Rupture; when hit, gain Rupture and lose 1 Stack"
   },
   {
@@ -6905,7 +6905,7 @@
     "key": "Retreat_FullStop-desc",
     "original": "- ターン終了時に混乱状態を解除して戦闘から離脱(強制混乱を除く、死亡処理されない)\n· 連続戦闘の場合、退却時に待機人員へ自分のスロット数を譲渡して交代され、待機人員リストの最後尾へ移動(次のターンに交代可能な待機人員がいなければ離脱。復帰時には退却順に復帰)\n· 戦闘復帰時に自分のスロット数が1に初期化。自分に付与された一部効果を除いた全ての効果が除去。退却時の体力と精神力が維持される(精神力が0未満なら、0に初期化)\n<CMT_KR>\n<CMT_JP>",
     "translation": "- ターン終了時に混乱状態を解除して戦闘から離脱(強制混乱を除く、死亡処理されない)\n· 連続戦闘の場合、退却時に待機人員へ自分のスロット数を譲渡して交代され、待機人員リストの最後尾へ移動(次のターンに交代可能な待機人員がいなければ離脱。復帰時には退却順に復帰)\n· 戦闘復帰時に自分のスロット数が1に初期化。自分に付与された一部効果を除いた全ての効果が除去。退却時の体力と精神力が維持される(精神力が0未満なら、0に初期化)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n- 턴 종료 시 흐트러짐 상태를 해제하고 전투에서 이탈함 (강제 흐트러짐 제외, 사망으로 처리되지 않음)\n· 연속 전투인 경우, 퇴각 시 대기 인원에게 자신의 슬롯 수를 이전한 뒤 교체되고, 대기 인원 목록의 마지막 순서로 이동 (다음 턴에 교체 가능한 대기 인원이 없으면 이탈함. 복귀 시 퇴각 순서대로 복귀)\n· 전투 복귀 시 자신의 슬롯 수가 1로 초기화, 자신에게 부여된 일부 효과를 제외한 모든 효과 제거, 퇴각 시의 체력과 정신력이 유지됨 (정신력이 0 미만이면, 0으로 초기화)\nEN:\n- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
   },
   {
@@ -7505,10 +7505,10 @@
   },
   {
     "key": "FireBulletPropellant-desc",
-    "original": "- 最大値 : 15\n- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 弾丸として扱う\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大値 : 15\n- 特殊弾丸\n- 特定スキルを使用時に消耗\n- 弾丸として扱う\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大値 : 15\n- 特殊弾丸\n- 特定スキルを使用時に消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値 : 15\n- 特殊弾丸\n- 特定スキルを使用時に消耗\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n- 최댓값 : 15\n- 특수 탄환\n- 특정 스킬 사용 시 소모\nEN:\n- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills\n- Counts as \"Ammo\""
+    "context": "KR:\n- 최댓값 : 15\n- 특수 탄환\n- 특정 스킬 사용 시 소모\nEN:\n- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills"
   },
   {
     "key": "SingBulletSupport-name",
@@ -7586,5 +7586,40 @@
     "translation": "- 猛虎標弾を得れば、この効果が消失する\n- 速度の最小・最大値が2増加\n- 基本攻撃スキルのマッチ威力が(虎標弾・猛虎標弾の累計消耗数 ÷ 2)だけ減少(最大10)する代わりに下記の効果を得る (全て獲得)\n· 累計消耗数の合計 : {0}\n· 8～ : ターン開始時、失った体力10%につき保護1を得る(最大5)\n· 14～ : マッチ敗北時、基本攻撃スキルの破壊不能コインのダメージ量 +(75 + 失った体力の比率)% (最大150%)\n· 20～ : 自分より残体力の比率が高い対象への与ダメージ量が(体力比の差)%だけ増加 (最大50%、E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 맹호표탄을 얻으면, 이 효과가 사라짐\n- 속도 최솟값, 최댓값 2 증가\n- 기본 공격 스킬의 합 위력이 (호표탄, 맹호표탄의 누적 소모 합/2)만큼 감소(최대 10)하는 대신 다음 효과 얻음 (전부 획득)\n· 누적 소모 합 : {0}\n· 8 ~ : 턴 시작 시 잃은 체력 10%당 보호 1 얻음 (최대 5)\n· 14 ~ : 합 패배 시, 기본 공격 스킬의 파괴 불가 코인 피해량 +(75 + 잃은 체력 비율)% (최대 150%)\n· 20 ~ : 자신보다 남은 체력 비율이 더 높은 대상에게 입히는 피해량이 (체력 비율 차이)%만큼 증가 (최대 50%, E.G.O 스킬 제외)\nEN:\n- Loses this effect when this unit gains Savage Tigermark Round\n- Min & Max Speed +2\n- Base Attack Skills Lose (cumulative number of Tigermark & Savage Tigermark Rounds spent / 2) Clash Power (max 10); however, gain the following effects(cumulative):\n· Cumulative Rounds spent: {0}\n· 8+ Rounds spent: Gain 1 Protection for every 10% missing HP on self at Turn Start (max 5)\n· 14+ Rounds spent: On Clash Lose, Unbreakable Coins of this unit's Base Attack Skills deal +(75 + missing HP percentage on self)% damage (max 150%)\n· 20+ Rounds Spent: Deal +(HP percentage difference)% damage against targets with higher remaining HP percentage than this unit (max 50%; except E.G.O Skills)"
+  },
+  {
+    "key": "RoseThorn-name",
+    "original": "貪食棘\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貪食棘\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐식극(貪食棘)\nEN:\nGluttonous Thorn (貪食棘)"
+  },
+  {
+    "key": "RoseThorn-desc",
+    "original": "最大値: 9\n\nターン終了時、色欲共鳴数だけ出血 回数を増加させて、貪食棘が1減少。(最大出血回数増加値5)\n\nこの効果を持ったまま出血威力を99以上付与されたときは超過した出血威力数値だけ血餐を獲得し、次のターンに獲得する血餐の数字だけ防御レベル減少を得る。(最大防御レベル減少 獲得値5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最大値: 9\n\nターン終了時、色欲共鳴数だけ出血 回数を増加させて、貪食棘が1減少。(最大出血回数増加値5)\n\nこの効果を持ったまま出血威力を99以上付与されたときは超過した出血威力数値だけ血餐を獲得し、次のターンに獲得する血餐の数字だけ防御レベル減少を得る。(最大防御レベル減少 獲得値5)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최댓값: 9\n\n턴 종료 시, 색욕 공명 수만큼 출혈 횟수를 증가 시키고, 탐식극(貪食棘) 1 감소. (최대 출혈 횟수 증가 값 5)\n\n이 효과를 지닌 채로 출혈 위력을 99 이상으로 부여 되었을 때 초과된 출혈 위력 수치만큼 혈찬을 획득하고, 다음 턴에 획득한 혈찬 수치만큼 방어 레벨 감소를 얻음 (최대 방어 레벨 감소 획득 값 5)\nEN:\nMax Stack: 9\n\nTurn End: gain Bleed Count equal to Lust Reson., then lose 1 Gluttonous Thorn (貪食棘). (max Bleed Count gain: 5)\n\nWhile this unit has this effect, if it gains Bleed Potency beyond 99, increase Bloodfeast equal to the excess Bleed Potency; then, gain Defense Level Down next turn equal to Bloodfeast increased (max Defense Level Down gain: 5)"
+  },
+  {
+    "key": "FellBulletPersonality-name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "FellBulletPersonality-desc",
+    "original": "最大値: 1\n引き裂かれた追憶1につきクリティカルダメージ量 +3% (最大18%)\n的中時、出血1を付与 (1ターンにつき最大3)\n対象討伐時に呼吸3を得る、自分の呼吸 回数が2増加(1ターンにつき最大2回)\nターン終了時に除去される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最大値: 1\n引き裂かれた追憶1につきクリティカルダメージ量 +3% (最大18%)\n的中時、出血1を付与 (1ターンにつき最大3)\n対象討伐時に呼吸3を得る、自分の呼吸 回数が2増加(1ターンにつき最大2回)\nターン終了時に除去される\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n최댓값: 1\n찢어진 추억당 크리티컬 피해량 +3% (최대 18%)\n적중 시 출혈 1 부여 (턴 당 최대 3)\n대상 처치 시 호흡 3 얻음, 자신의 호흡 횟수 2 증가 (턴 당 최대 2회)\n턴 종료 시 제거됨\nEN:\nMax Stack: 1\n+3% damage on Critical Hit for every Torn Memory (max 18%)\nOn Hit, inflict 1 Bleed (3 per turn)\nOn Kill, gain 3 Poise and +2 Poise Count (2 times per turn)\nExpires at Turn End"
+  },
+  {
+    "key": "FellBulletPersonality-summary",
+    "original": "クリティカルダメージ量増加、追加で出血付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリティカルダメージ量増加、追加で出血付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n크리티컬 피해량 증가, 추가 출혈 부여\nEN:\nDeal more Crit damage, inflict more Bleed"
   }
 ]

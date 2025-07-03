@@ -176,9 +176,9 @@
   },
   {
     "key": "114505-levelList[0].desc",
-    "original": "[Prey]を保有した対処を優先して指定\n速度と関係なく、このスキルとマッチができる\n対象の[Combustion]と[Vibration]の合計6につき、コインのダメージ量 +1 (最大3)\n[DefeatDuel] 自分の精神力が10減少\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Prey]を保有した対象を優先して指定\n速度と関係なく、このスキルとマッチができる\n対象の[Combustion]と[Vibration]の合計6につき、コインのダメージ量 +1 (最大3)\n[DefeatDuel] 自分の精神力が10減少\n<CMT_KR>오기: \"[Prey]を保有した「対処」を優先して指定\" 정확: \"[Prey]を保有した「対象」を優先して指定\"\n<CMT_JP>誤記: \"[Prey]を保有した「対処」を優先して指定\" 訂正後: \"[Prey]を保有した「対象」を優先して指定\"",
-    "stage": 1,
+    "original": "[Prey]を保有した対象を優先して指定\n速度と関係なく、このスキルとマッチができる\n対象の[Combustion]と[Vibration]の合計6につき、コインのダメージ量 +1 (最大3)\n[DefeatDuel] 自分の精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Prey]を保有した対象を優先して指定\n速度と関係なく、このスキルとマッチができる\n対象の[Combustion]と[Vibration]の合計6につき、コインのダメージ量 +1 (最大3)\n[DefeatDuel] 自分の精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[Prey]을 보유한 대상을 우선으로 지정\n속도에 상관없이 이 스킬과 합을 할 수 있음\n대상의 [Combustion]과 [Vibration]의 합 6당 코인 위력 +1 (최대 3)\n[DefeatDuel] 자신의 정신력 10 감소\nEN:\nPrioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 3)\n[DefeatDuel] Lose 10 SP"
   },
   {
@@ -918,9 +918,9 @@
   },
   {
     "key": "113604-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] (対象の的中時現体力)だけ、最終コインに傲慢ダメージを追加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] (対象への的中時現体力)だけ、最終コインに傲慢ダメージを追加\n<CMT_KR>표현 개선: \"일본어 문법의 조사 사용('てにをは')이 자연스럽도록 수정함.\"\n<CMT_JP>表現改善: \"「てにをは」が自然になるよう修正\"",
-    "stage": 1,
+    "original": "[OnSucceedAttack] (的中時点での対象の現体力)だけ、最終コインに傲慢ダメージを追加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (的中時点での対象の現体力)だけ、最終コインに傲慢ダメージを追加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[OnSucceedAttack] (대상의 적중시 현재 체력)만큼 마지막 코인에 오만 추가 피해\nEN:\n[OnSucceedAttack] Inflict (target's HP at the \"On Hit' timing) Pride bonus damage with the final Coin"
   },
   {
@@ -1184,8 +1184,8 @@
   },
   {
     "key": "114603-levelList[0].desc",
-    "original": "[WhenUse] メインターゲットの[Laceration]と[Burst]合計が10以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] メインターゲットの[Laceration]と[Burst]合計が10以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] メインターゲットの[Laceration]と[Burst]の合計が10以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] メインターゲットの[Laceration]と[Burst]の合計が10以上なら、攻撃加重値 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 메인 공격 대상의 [Laceration]과 [Burst]의 합이 10 이상이면, 공격 가중치 +1\nEN:\n[WhenUse] If the main target has 10+ (sum of [Laceration] and [Burst]), Atk Weight +1"
   },

@@ -3,45 +3,45 @@
     {
       "id": 9001,
       "name": "地獄蝶の夢",
-      "desc": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与(合計5)。",
+      "desc": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに分けて付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与(合計5)。",
       "simpleDesc": [
         {
           "abilityID": 9001,
-          "simpleDesc": "[Combustion]威力をランダムに付与(合計3)"
+          "simpleDesc": "[Combustion]威力をランダムに分けて付与(合計3)"
         },
         {
           "abilityID": 90011,
-          "simpleDesc": "[Combustion]威力をランダムに付与(合計5)"
+          "simpleDesc": "[Combustion]威力をランダムに分けて付与(合計5)"
         }
       ]
     },
     {
       "id": 19001,
       "name": "地獄蝶の夢+",
-      "desc": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計4)</style>\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計6)</style>",
+      "desc": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計4)</style>\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計6)</style>",
       "simpleDesc": [
         {
           "abilityID": 19001,
-          "simpleDesc": "[Combustion]威力をランダムに付与(合計4)"
+          "simpleDesc": "[Combustion]威力をランダムに分けて付与(合計4)"
         },
         {
           "abilityID": 190011,
-          "simpleDesc": "[Combustion]威力をランダムに付与(合計6)"
+          "simpleDesc": "[Combustion]威力をランダムに分けて付与(合計6)"
         }
       ]
     },
     {
       "id": 29001,
       "name": "地獄蝶の夢++",
-      "desc": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]をランダムに付与。<style=\"upgradeHighlight\">(合計5)</style>\n\n<style=\"upgradeHighlight\">憤怒共鳴</style>を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計8)</style>",
+      "desc": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]をランダムに分けて付与。<style=\"upgradeHighlight\">(合計5)</style>\n\n<style=\"upgradeHighlight\">憤怒共鳴</style>を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計8)</style>",
       "simpleDesc": [
         {
           "abilityID": 29001,
-          "simpleDesc": "[Combustion]威力をランダムに付与(合計5)"
+          "simpleDesc": "[Combustion]威力をランダムに分けて付与(合計5)"
         },
         {
           "abilityID": 290011,
-          "simpleDesc": "[Combustion]威力をランダムに付与(合計8)"
+          "simpleDesc": "[Combustion]威力をランダムに分けて付与(合計8)"
         }
       ]
     },
@@ -406,33 +406,33 @@
     {
       "id": 9016,
       "name": "緑色の結実",
-      "desc": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。(合計4)",
+      "desc": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。(合計4)",
       "simpleDesc": [
         {
           "abilityID": 9016,
-          "simpleDesc": "[Vibration]威力をランダムに付与(合計4)"
+          "simpleDesc": "[Vibration]威力をランダムに分けて付与(合計4)"
         }
       ]
     },
     {
       "id": 19016,
       "name": "緑色の結実+",
-      "desc": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。<style=\"upgradeHighlight\">(合計6)</style>",
+      "desc": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計6)</style>",
       "simpleDesc": [
         {
           "abilityID": 19016,
-          "simpleDesc": "[Vibration]威力をランダムに付与(合計6)"
+          "simpleDesc": "[Vibration]威力をランダムに分けて付与(合計6)"
         }
       ]
     },
     {
       "id": 29016,
       "name": "緑色の結実++",
-      "desc": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。<style=\"upgradeHighlight\">(合計8)</style>",
+      "desc": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計8)</style>",
       "simpleDesc": [
         {
           "abilityID": 29016,
-          "simpleDesc": "[Vibration]威力をランダムに付与(合計8)"
+          "simpleDesc": "[Vibration]威力をランダムに分けて付与(合計8)"
         }
       ]
     },
@@ -2068,7 +2068,7 @@
     {
       "id": 9074,
       "name": "頭のない肖像画",
-      "desc": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に[Sinking]威力2を付与。\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力1をランダムに付与。",
+      "desc": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に[Sinking]威力2を付与。\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力1をランダムに分けて付与。",
       "simpleDesc": [
         {
           "abilityID": 9074,
@@ -2083,7 +2083,7 @@
     {
       "id": 19074,
       "name": "頭のない肖像画+",
-      "desc": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力3を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに付与。<style=\"upgradeHighlight\">(合計2)</style>",
+      "desc": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力3を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計2)</style>",
       "simpleDesc": [
         {
           "abilityID": 19074,
@@ -2091,14 +2091,14 @@
         },
         {
           "abilityID": 190741,
-          "simpleDesc": "[Sinking]威力をランダムに付与(合計2)"
+          "simpleDesc": "[Sinking]威力をランダムに分けて付与(合計2)"
         }
       ]
     },
     {
       "id": 29074,
       "name": "頭のない肖像画++",
-      "desc": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力4, [Sinking]回数1を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに付与。<style=\"upgradeHighlight\">(合計3)</style>",
+      "desc": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力4, [Sinking]回数1を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計3)</style>",
       "simpleDesc": [
         {
           "abilityID": 29074,
@@ -2106,7 +2106,7 @@
         },
         {
           "abilityID": 290741,
-          "simpleDesc": "[Sinking]威力をランダムに付与(合計3)"
+          "simpleDesc": "[Sinking]威力をランダムに分けて付与(合計3)"
         }
       ]
     },
@@ -2350,11 +2350,11 @@
     {
       "id": 9088,
       "name": "鎮魂",
-      "desc": "ステージ開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、[Combustion]回数、特殊火傷を付与するスキルを利用してマッチ勝利時、(残ったコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与",
+      "desc": "ステージ開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに分けて付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与",
       "simpleDesc": [
         {
           "abilityID": 9088,
-          "simpleDesc": "[Combustion]回数3を付与、[Combustion]威力をランダムに付与(合計15)"
+          "simpleDesc": "[Combustion]回数3を付与、[Combustion]威力をランダムに分けて付与(合計15)"
         },
         {
           "abilityID": 90881,
@@ -2414,7 +2414,7 @@
     {
       "id": 9090,
       "name": "血の霧",
-      "desc": "ステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%。該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1",
+      "desc": "ステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1",
       "simpleDesc": [
         {
           "abilityID": 9090,
@@ -2541,33 +2541,33 @@
     {
       "id": 9095,
       "name": "壊れた羅針盤",
-      "desc": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(合計(5 + 敵の数 × 3), 幻想体の場合、本体のみを1として計算)",
+      "desc": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(合計(5 + 出現している敵の数 × 3), 幻想体の場合、本体のみを1として計算)",
       "simpleDesc": [
         {
           "abilityID": 9095,
-          "simpleDesc": "[Sinking]回数をランダムに付与(合計5 + 敵の数 × 3)"
+          "simpleDesc": "[Sinking]回数をランダムに分けて付与(合計5 + 出現している敵の数 × 3)"
         }
       ]
     },
     {
       "id": 19095,
       "name": "壊れた羅針盤+",
-      "desc": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(<style=\"upgradeHighlight\">合計(10 + 敵の数 × 3)</style>, 幻想体の場合、本体のみを1として計算)",
+      "desc": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(<style=\"upgradeHighlight\">合計(10 + 出現している敵の数 × 3)</style>, 幻想体の場合、本体のみを1として計算)",
       "simpleDesc": [
         {
           "abilityID": 19095,
-          "simpleDesc": "[Sinking]回数をランダムに付与(合計10 + 敵の数 × 3)"
+          "simpleDesc": "[Sinking]回数をランダムに分けて付与(合計10 + 出現している敵の数 × 3)"
         }
       ]
     },
     {
       "id": 29095,
       "name": "壊れた羅針盤++",
-      "desc": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(<style=\"upgradeHighlight\">合計(10 + 敵の数 × 4)</style>, 幻想体の場合、本体のみを1として計算)",
+      "desc": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(<style=\"upgradeHighlight\">合計(10 + 出現している敵の数 × 4)</style>, 幻想体の場合、本体のみを1として計算)",
       "simpleDesc": [
         {
           "abilityID": 29095,
-          "simpleDesc": "[Sinking]回数をランダムに付与(合計10 + 敵の数 × 4)"
+          "simpleDesc": "[Sinking]回数をランダムに分けて付与(合計10 + 敵の数 × 4)"
         }
       ]
     },
@@ -3094,11 +3094,11 @@
     {
       "id": 9114,
       "name": "鏡触覚共感覚",
-      "desc": "味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵(幻想体の場合はランダム部位)に[Vibration]威力を配分して付与する\n\n 該当効果を与えられる別の敵がいない場合は効果が変更され、次のターンに対象が保有する[Vibration]威力が1.5倍に増加",
+      "desc": "味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵(幻想体の場合はランダム部位)に[Vibration]威力を分けて付与する\n\n該当効果を与えられる別の敵がいない場合は効果が変更され、次のターンに対象が保有する[Vibration]威力が1.5倍に増加",
       "simpleDesc": [
         {
           "abilityID": 9114,
-          "simpleDesc": "条件を満たした場合、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵に[Vibration]威力を配分して付与する"
+          "simpleDesc": "条件を満たした場合、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵に[Vibration]威力を分けて付与する"
         },
         {
           "abilityID": 91141,
@@ -3147,7 +3147,7 @@
       "simpleDesc": [
         {
           "abilityID": 9117,
-          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1を得る."
+          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1を得る"
         },
         {
           "abilityID": 91171,
@@ -3345,7 +3345,7 @@
     {
       "id": 19124,
       "name": "荘厳+",
-      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Sinking]威力と[Sinking]回数の合計が<style=\"upgradeHighlight\">8</style> 以上の敵に[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルでダメージを与えた場合、攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>, [Sinking]回数2を付与(人格別に1ターンにつき2回)\n集中戦闘方式の戦闘ステージでは効果が変更され、[Sinking]<style=\"upgradeHighlight\">5</style>,[Sinking]回数2を付与(人格別に1ターンにつき1回)",
+      "desc": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Sinking]威力と[Sinking]回数の合計が<style=\"upgradeHighlight\">8</style> 以上の敵に[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルでダメージを与えた場合、攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,[Sinking]回数2を付与(人格別に1ターンにつき2回)\n集中戦闘方式の戦闘ステージでは効果が変更され、[Sinking]<style=\"upgradeHighlight\">5</style>,[Sinking]回数2を付与(人格別に1ターンにつき1回)",
       "simpleDesc": [
         {
           "abilityID": 19124,
@@ -4060,7 +4060,7 @@
     {
       "id": 29146,
       "name": "捨てられた枝++",
-      "desc": "[編成3・4・5番人格専用効果]\n\nマッチ進行時のマッチ威力+1、貫通スキルのダメージ量 +<style=\"upgradeHighlight\">25</style>%\n\n一方攻撃進行時の貫通スキルダメージ量 +<style=\"upgradeHighlight\">12.5</style>%",
+      "desc": "[編成3・4・5<style=\"upgradeHighlight\">・6</style>番人格専用効果]\n\nマッチ進行時のマッチ威力+1、貫通スキルのダメージ量 +<style=\"upgradeHighlight\">25</style>%\n\n一方攻撃進行時の貫通スキルダメージ量 +<style=\"upgradeHighlight\">12.5</style>%",
       "simpleDesc": [
         {
           "abilityID": 29146,
@@ -4341,7 +4341,7 @@
       "simpleDesc": [
         {
           "abilityID": 19117,
-          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1を得る."
+          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1を得る"
         },
         {
           "abilityID": 191171,
@@ -4356,7 +4356,7 @@
       "simpleDesc": [
         {
           "abilityID": 29117,
-          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1～2を得る."
+          "simpleDesc": "条件を満たした場合、次のターンに[Agility]1～2を得る"
         },
         {
           "abilityID": 291171,

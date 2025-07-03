@@ -36,9 +36,9 @@
   },
   {
     "key": "97103802-failureDesc[0]",
-    "original": "「最後にどのような事が起こるのか知らせたのにもかかわらず、自分で撃ちたいというのか。」\n\n「そうか、次はお前かもしれないな。」\n\n「この銃を撃ちたいなら…その厄介なものは外してくる方が良いだろう。」\n\nそれはすぐさま引き金を引き、囚人{0}を除いた他の囚人たちを弾丸を貫いた。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "「最後にどのような事が起こるのか知らせたのにもかかわらず、自分で撃ちたいというのか。」\n\n「そうか、次はお前かもしれないな。」\n\n「この銃を撃ちたいなら…その厄介なものは外してくる方が良いだろう。」\n\nそれはすぐさま引き金を引き、囚人{0}を除いた他の囚人たちを弾丸で貫いた。\n<CMT_KR>오기: \"それはすぐさま引き金を引き、囚人{0}を除いた他の囚人たちを弾丸「を」貫いた。\" 정확: \"囚人{0}を除いた他の囚人たちを弾丸「で」貫いた。\"\n<CMT_JP>誤記: \"それはすぐさま引き金を引き、囚人{0}を除いた他の囚人たちを弾丸「を」貫いた。\" 訂正後: \"囚人{0}を除いた他の囚人たちを弾丸「で」貫いた。\"",
-    "stage": 1,
+    "original": "「最後にどのような事が起こるのか知らせたのにもかかわらず、自分で撃ちたいというのか。」\n\n「そうか、次はお前かもしれないな。」\n\n「この銃を撃ちたいなら…その厄介なものは外してくる方が良いだろう。」\n\nそれはすぐさま引き金を引き、囚人{0}を除いた他の囚人たちを弾丸で貫いた。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「最後にどのような事が起こるのか知らせたのにもかかわらず、自分で撃ちたいというのか。」\n\n「そうか、次はお前かもしれないな。」\n\n「この銃を撃ちたいなら…その厄介なものは外してくる方が良いだろう。」\n\nそれはすぐさま引き金を引き、囚人{0}を除いた他の囚人たちを弾丸で貫いた。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n'최후에 어떤 일이 벌어질지 알려주었음에도 직접 쏘고 싶다는 건가.'\n\n'그래, 다음은 너일지도 모르겠군.'\n\n'이 총을 쏘고 싶다면... 그 거추장스러운 것들은 떼어놓고 오는 편이 좋을 거다.'\n\n그것은 곧바로 방아쇠를 당겨, {0} 수감자를 제외한 다른 수감자들을 탄환으로 꿰뚫었다.\nEN:\n'You wish to fire the gun yourself, knowing what the final bullet does?'\n\n'Indeed, perhaps you shall be next.'\n\n'If you truly wish to wield this rifle, then... you would be much better off without those cumbersome things tagging along.'\n\nHe promptly pulled the trigger, piercing every Sinner save for {0}."
   },
   {
@@ -92,9 +92,9 @@
   },
   {
     "key": "97104101-behaveDesc",
-    "original": "誰がCBQを習得するんだろうか？\n<CMT_KR>\n<CMT_JP>",
-    "translation": "誰がCQBを習得するんだろうか？\n<CMT_KR>오기: \"誰が「CBQ」を習得するんだろうか？\" 정확: \"誰が「CQB」を習得するんだろうか？\"\n<CMT_JP>誤記: \"誰が「CBQ」を習得するんだろうか？\" 訂正後: \"誰が「CQB」を習得するんだろうか？\"",
-    "stage": 1,
+    "original": "誰がCQBを習得するんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "誰がCQBを習得するんだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n누가 CQB를 익힐까?\nEN:\nWho will try to learn the basics of CQB?"
   },
   {

@@ -8,22 +8,22 @@
   },
   {
     "key": "9001-desc",
-    "original": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与(合計5)。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与(合計5)。\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに分けて付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与(合計5)。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに分けて付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与(合計5)。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 위력 또는 특수 화상을 부여할 경우, 모든 적에게 [Combustion] 위력 3 무작위로 나누어 부여.\n\n분노 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 [Combustion] 위력 5 무작위로 나누어 부여.\nEN:\nWhen applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of 3 [Combustion] Potency between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of 5 [Combustion] Potency between all enemies at Combat Start."
   },
   {
     "key": "9001-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]威力をランダムに付与(合計3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]威力をランダムに付与(合計3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]威力をランダムに分けて付与(合計3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]威力をランダムに分けて付与(合計3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 위력 3 무작위로 나누어 부여\nEN:\nRandomly inflict 3 [Combustion] Potency"
   },
   {
     "key": "9001-simpleDesc[1].simpleDesc",
-    "original": "[Combustion]威力をランダムに付与(合計5)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]威力をランダムに付与(合計5)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]威力をランダムに分けて付与(合計5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]威力をランダムに分けて付与(合計5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 위력 5 무작위로 나누어 부여\nEN:\nRandomly inflict 5 [Combustion] Potency"
   },
@@ -36,22 +36,22 @@
   },
   {
     "key": "19001-desc",
-    "original": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計4)</style>\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計4)</style>\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計4)</style>\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計4)</style>\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 위력 또는 특수 화상을 부여할 경우, 모든 적에게 &lt;style=\"upgradeHighlight\"&gt;[Combustion] 위력 4&lt;/style&gt; 무작위로 나누어 부여.\n\n분노 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 &lt;style=\"upgradeHighlight\"&gt;[Combustion] 위력 6&lt;/style&gt; 무작위로 나누어 부여.\nEN:\nWhen applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of &lt;style=\"upgradeHighlight\"&gt;4 [Combustion] Potency&lt;/style&gt; between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of &lt;style=\"upgradeHighlight\"&gt;6 [Combustion] Potency&lt;/style&gt; between all enemies at Combat Start."
   },
   {
     "key": "19001-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]威力をランダムに付与(合計4)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]威力をランダムに付与(合計4)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]威力をランダムに分けて付与(合計4)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]威力をランダムに分けて付与(合計4)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 위력 4 무작위로 나누어 부여\nEN:\nRandomly inflict 4 [Combustion] Potency"
   },
   {
     "key": "19001-simpleDesc[1].simpleDesc",
-    "original": "[Combustion]威力をランダムに付与(合計6)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]威力をランダムに付与(合計6)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]威力をランダムに分けて付与(合計6)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]威力をランダムに分けて付与(合計6)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 위력 6 무작위로 나누어 부여\nEN:\nRandomly inflict 6 [Combustion] Potency"
   },
@@ -64,22 +64,22 @@
   },
   {
     "key": "29001-desc",
-    "original": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]をランダムに付与。<style=\"upgradeHighlight\">(合計5)</style>\n\n<style=\"upgradeHighlight\">憤怒共鳴</style>を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]をランダムに付与。<style=\"upgradeHighlight\">(合計5)</style>\n\n<style=\"upgradeHighlight\">憤怒共鳴</style>を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]をランダムに分けて付与。<style=\"upgradeHighlight\">(合計5)</style>\n\n<style=\"upgradeHighlight\">憤怒共鳴</style>を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]または特殊火傷状態の敵にスキルによる効果で[Combustion]威力または特殊火傷を付与するとき、全ての敵を対象に[Combustion]をランダムに分けて付与。<style=\"upgradeHighlight\">(合計5)</style>\n\n<style=\"upgradeHighlight\">憤怒共鳴</style>を発動した場合は戦闘開始時、全ての敵を対象に[Combustion]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 또는 특수 화상에 걸린 적에게 스킬 효과로 [Combustion] 위력 또는 특수 화상을 부여할 경우, 모든 적에게 &lt;style=\"upgradeHighlight\"&gt;[Combustion] 5&lt;/style&gt; 무작위로 나누어 부여.\n\n&lt;style=\"upgradeHighlight\"&gt;분노 공명&lt;/style&gt;을 발동하였다면 전투 시작 시, 모든 적에게 &lt;style=\"upgradeHighlight\"&gt;[Combustion] 위력 8&lt;/style&gt; 무작위로 나누어 부여.\nEN:\nWhen applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of &lt;style=\"upgradeHighlight\"&gt;5 [Combustion]&lt;/style&gt; between all enemies.\n\nWhen activating &lt;style=\"upgradeHighlight\"&gt;Wrath Resonance&lt;/style&gt;, randomly inflict a total of &lt;style=\"upgradeHighlight\"&gt;8 [Combustion] Potency&lt;/style&gt; between all enemies at Combat Start."
   },
   {
     "key": "29001-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]威力をランダムに付与(合計5)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]威力をランダムに付与(合計5)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]威力をランダムに分けて付与(合計5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]威力をランダムに分けて付与(合計5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 위력 5 무작위로 나누어 부여\nEN:\nRandomly inflict 5 [Combustion] Potency"
   },
   {
     "key": "29001-simpleDesc[1].simpleDesc",
-    "original": "[Combustion]威力をランダムに付与(合計8)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]威力をランダムに付与(合計8)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]威力をランダムに分けて付与(合計8)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]威力をランダムに分けて付与(合計8)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 위력 8 무작위로 나누어 부여\nEN:\nRandomly inflict 8 [Combustion] Potency"
   },
@@ -764,15 +764,15 @@
   },
   {
     "key": "9016-desc",
-    "original": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。(合計4)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。(合計4)\n<CMT_KR>\n<CMT_JP>",
+    "original": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。(合計4)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。(合計4)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흐트러짐 상태가 아닌 적에게 탐식 속성 스킬을 사용하여 적중하였거나 또는 스킬 효과로 [Vibration] 위력을 부여할 경우, 모든 적(환상체일 경우, 모든 부위)에게 [Vibration] 위력 4 무작위로 나누어 부여.\nEN:\nAfter hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting [Vibration] Potency using Skill effects, randomly inflict a total of 4 [Vibration] Potency between all enemies(or all Abnormality parts)."
   },
   {
     "key": "9016-simpleDesc[0].simpleDesc",
-    "original": "[Vibration]威力をランダムに付与(合計4)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Vibration]威力をランダムに付与(合計4)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Vibration]威力をランダムに分けて付与(合計4)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力をランダムに分けて付与(合計4)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 4 무작위로 나누어 부여\nEN:\nRandomly inflict 4 [Vibration] Potency"
   },
@@ -785,15 +785,15 @@
   },
   {
     "key": "19016-desc",
-    "original": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計6)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흐트러짐 상태가 아닌 적에게 탐식 속성 스킬을 사용하여 적중하였거나 또는 스킬 효과로 [Vibration] 위력을 부여할 경우, 모든 적(환상체일 경우, 모든 부위)에게 &lt;style=\"upgradeHighlight\"&gt;[Vibration] 위력 6&lt;/style&gt; 무작위로 나누어 부여.\nEN:\nAfter hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting [Vibration] Potency using Skill effects, randomly inflict a total of &lt;style=\"upgradeHighlight\"&gt;6 [Vibration] Potency&lt;/style&gt; between all enemies(or all Abnormality parts)."
   },
   {
     "key": "19016-simpleDesc[0].simpleDesc",
-    "original": "[Vibration]威力をランダムに付与(合計6)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Vibration]威力をランダムに付与(合計6)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Vibration]威力をランダムに分けて付与(合計6)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力をランダムに分けて付与(合計6)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 6 무작위로 나누어 부여\nEN:\nRandomly inflict 6 [Vibration] Potency"
   },
@@ -806,15 +806,15 @@
   },
   {
     "key": "29016-desc",
-    "original": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "混乱状態では無い敵へ暴食属性スキルを的中させるか、スキル効果で[Vibration]威力を付与する場合、全ての敵(幻想体の場合は全部位)へ[Vibration]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計8)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n흐트러짐 상태가 아닌 적에게 탐식 속성 스킬을 사용하여 적중하였거나 또는 스킬 효과로 [Vibration] 위력을 부여할 경우, 모든 적(환상체일 경우, 모든 부위)에게 &lt;style=\"upgradeHighlight\"&gt;[Vibration] 위력 8&lt;/style&gt; 무작위로 나누어 부여.\nEN:\nAfter hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting [Vibration] Potency using Skill effects, randomly inflict a total of &lt;style=\"upgradeHighlight\"&gt;8 [Vibration] Potency&lt;/style&gt; between all enemies(or all Abnormality parts)."
   },
   {
     "key": "29016-simpleDesc[0].simpleDesc",
-    "original": "[Vibration]威力をランダムに付与(合計8)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Vibration]威力をランダムに付与(合計8)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Vibration]威力をランダムに分けて付与(合計8)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Vibration]威力をランダムに分けて付与(合計8)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Vibration] 위력 8 무작위로 나누어 부여\nEN:\nRandomly inflict 8 [Vibration] Potency"
   },
@@ -2976,9 +2976,9 @@
   },
   {
     "key": "9059-desc",
-    "original": "スキルが敵へ的中時、ダメージを与えたのなら対象へ[Sinking]威力3を付与。\n\n嫉妬属性スキルを使用する場合は効果が強化され、対象へ[Sinking]威力5を付与。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "スキルが敵へ的中時、ダメージを与えたのなら対象へ[Sinking]威力3を付与。\n\n暴食属性スキルを使用する場合は効果が強化され、対象へ[Sinking]威力5を付与。\n<CMT_KR>오기: \"「嫉妬」属性スキルを使用する場合は効果が強化され、対象へ[Sinking]威力5を付与。\" 정확: \"「暴食」属性スキルを使用する場合は効果が強化され、\"\n<CMT_JP>誤記: \"「嫉妬」属性スキルを使用する場合は効果が強化され、対象へ[Sinking]威力5を付与。\" 訂正後: \"「暴食」属性スキルを使用する場合は効果が強化され、\"",
-    "stage": 1,
+    "original": "スキルが敵へ的中時、ダメージを与えたのなら対象へ[Sinking]威力3を付与。\n\n暴食属性スキルを使用する場合は効果が強化され、対象へ[Sinking]威力5を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキルが敵へ的中時、ダメージを与えたのなら対象へ[Sinking]威力3を付与。\n\n暴食属性スキルを使用する場合は効果が強化され、対象へ[Sinking]威力5を付与。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n스킬을 사용하여 적에게 적중 시 체력 피해를 입혔다면, 대상에게 [Sinking] 위력 3 부여.\n\n탐식 속성 스킬을 사용할 경우, 효과가 강화되어 대상에게 [Sinking] 위력 5 부여.\nEN:\nWhen hitting and dealing HP damage to an enemy with a Skill, inflict 3 [Sinking] Potency.\n\nIf the Skill's Affinity was Gluttony, inflict 5 [Sinking] Potency instead."
   },
   {
@@ -3879,8 +3879,8 @@
   },
   {
     "key": "9074-desc",
-    "original": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に[Sinking]威力2を付与。\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力1をランダムに付与。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に[Sinking]威力2を付与。\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力1をランダムに付与。\n<CMT_KR>\n<CMT_JP>",
+    "original": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に[Sinking]威力2を付与。\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力1をランダムに分けて付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に[Sinking]威力2を付与。\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力1をランダムに分けて付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시, 정신력이 0 미만인 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 2 부여.\n\n질투 속성 스킬을 사용할 때마다 다음 턴에 모든 적(환상체일 경우, 무작위 부위 하나)에게 [Sinking] 위력 1 나누어 부여.\nEN:\nCombat Start: Inflict 2 [Sinking] Potency on all enemies with less than 0 SP. (for Abnormalities, one random part)\n\nFor each Envy Affinity Skill used, randomly inflict 1 [Sinking] Potency between all enemies next turn. (for Abnormalities, one random part)"
   },
@@ -3907,8 +3907,8 @@
   },
   {
     "key": "19074-desc",
-    "original": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力3を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに付与。<style=\"upgradeHighlight\">(合計2)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力3を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに付与。<style=\"upgradeHighlight\">(合計2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力3を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力3を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計2)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시, 정신력이 0 미만인 모든 적(환상체일 경우, 무작위 부위 하나)에게 &lt;style=\"upgradeHighlight\"&gt;[Sinking] 위력 3 부여.&lt;/style&gt;\n\n질투 속성 스킬을 사용할 때마다 다음 턴에 모든 적(환상체일 경우, 무작위 부위 하나)에게 &lt;style=\"upgradeHighlight\"&gt;[Sinking] 위력 2&lt;/style&gt; 나누어 부여.\nEN:\nCombat Start: Inflict &lt;style=\"upgradeHighlight\"&gt;3 [Sinking] Potency&lt;/style&gt; on all enemies with less than 0 SP. (for Abnormalities, one random part)\n\nFor each Envy Affinity Skill used, randomly inflict &lt;style=\"upgradeHighlight\"&gt;2 [Sinking] Potency&lt;/style&gt; between all enemies next turn. (for Abnormalities, one random part)"
   },
@@ -3921,8 +3921,8 @@
   },
   {
     "key": "19074-simpleDesc[1].simpleDesc",
-    "original": "[Sinking]威力をランダムに付与(合計2)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]威力をランダムに付与(合計2)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Sinking]威力をランダムに分けて付与(合計2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]威力をランダムに分けて付与(合計2)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Sinking] 위력 2 나누어 부여\nEN:\nInflict 2 [Sinking] Potency between all enemies"
   },
@@ -3935,8 +3935,8 @@
   },
   {
     "key": "29074-desc",
-    "original": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力4, [Sinking]回数1を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに付与。<style=\"upgradeHighlight\">(合計3)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力4, [Sinking]回数1を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに付与。<style=\"upgradeHighlight\">(合計3)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力4, [Sinking]回数1を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計3)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、精神力が0未満の全て敵(幻想体の場合はランダムな部位1つ)に<style=\"upgradeHighlight\">[Sinking]威力4, [Sinking]回数1を付与。</style>\n\n嫉妬属性スキルを使用するたびに、次のターンに全ての敵を対象(幻想体の場合はランダムな部位1つ)に[Sinking]威力をランダムに分けて付与。<style=\"upgradeHighlight\">(合計3)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시, 정신력이 0 미만인 모든 적(환상체일 경우, 무작위 부위 하나)에게 &lt;style=\"upgradeHighlight\"&gt;[Sinking] 위력 4, [Sinking] 횟수 1 부여.&lt;/style&gt;\n\n질투 속성 스킬을 사용할 때마다 다음 턴에 모든 적(환상체일 경우, 무작위 부위 하나)에게 &lt;style=\"upgradeHighlight\"&gt;[Sinking] 위력 3&lt;/style&gt; 나누어 부여.\nEN:\nCombat Start: Inflict &lt;style=\"upgradeHighlight\"&gt;4 [Sinking] Potency and +1 [Sinking] Count&lt;/style&gt; on all enemies with less than 0 SP. (for Abnormalities, one random part)\n\nFor each Envy Affinity Skill used, randomly inflict &lt;style=\"upgradeHighlight\"&gt;3 [Sinking] Potency&lt;/style&gt; between all enemies next turn. (for Abnormalities, one random part)"
   },
@@ -3949,8 +3949,8 @@
   },
   {
     "key": "29074-simpleDesc[1].simpleDesc",
-    "original": "[Sinking]威力をランダムに付与(合計3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]威力をランダムに付与(合計3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Sinking]威力をランダムに分けて付与(合計3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]威力をランダムに分けて付与(合計3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Sinking] 위력 3 나누어 부여\nEN:\nInflict 3 [Sinking] Potency between all enemies"
   },
@@ -4411,15 +4411,15 @@
   },
   {
     "key": "9088-desc",
-    "original": "ステージ開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、[Combustion]回数、特殊火傷を付与するスキルを利用してマッチ勝利時、(残ったコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>오기: \"단락 전체가 사라졌던 효과 설명을 추가함\"\n<CMT_JP>誤記: \"段落ごと消えていた効果説明を追加\"",
-    "stage": 1,
+    "original": "ステージ開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに分けて付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに分けて付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n스테이지 시작 시, [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n웨이브 첫 번째 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Combustion] 횟수 3을 부여하고 [Combustion] 위력 15를 무작위로 나누어 부여.\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 스킬의 최종 위력 +1, 코인 위력 +1, [Combustion] 위력 부여 값 +1, [Combustion] 횟수 부여 값 +1.\n\n[Combustion] 위력, 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수 + 1)만큼 대상 적에게 [Combustion] 위력을 부여\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 [Combustion] Potency between all enemies (or all Abnormality parts).\n\nTo Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1.\n\nWhen winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict (# of remaining Coins + 1) [Combustion] Potency to the target enemy."
   },
   {
     "key": "9088-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]回数3を付与、[Combustion]威力をランダムに付与(合計15)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]回数3を付与、[Combustion]威力をランダムに付与(合計15)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]回数3を付与、[Combustion]威力をランダムに分けて付与(合計15)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]回数3を付与、[Combustion]威力をランダムに分けて付与(合計15)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 횟수 3 부여, [Combustion] 위력 15 무작위로 나누어 부여\nEN:\nInflict +3 [Combustion] Count; Randomly inflict 15 [Combustion] Potency between all enemies"
   },
@@ -4530,9 +4530,9 @@
   },
   {
     "key": "9090-desc",
-    "original": "ステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%。該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1\n<CMT_KR>오기: \"ターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する「」撃スキルのコイン威力 +2, ダメージ量 +100%「.  」\" 정확: \"[Laceration]回数または特殊出血を付与する「攻」撃スキルのコイン威力 +2, ダメージ量 +100%「。」\"\n<CMT_JP>誤記: \"ターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する「」撃スキルのコイン威力 +2, ダメージ量 +100%「.  」\" 訂正後: \"[Laceration]回数または特殊出血を付与する「攻」撃スキルのコイン威力 +2, ダメージ量 +100%「。」\"",
-    "stage": 1,
+    "original": "ステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n스테이지 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n아군이 스킬 효과로 적에게 부여하는 [Laceration] 위력과 [Laceration] 횟수가 2배로 적용.\n\n턴 시작 시 편성 순서가 제일 빠른 인격의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +2, 피해량 +100%. 해당 캐릭터가 공격하거나, 합을 진행한 적이 사망했으면, 사망한 적의 남은 [Laceration] 위력을 모든 적에게 무작위로 나눠서 부여. (집중 전투인 경우, 부위로 판정)\n\n[Laceration] 위력, 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects against enemies.\n\nThe ally highest in the Deployment order) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'"
   },
   {
@@ -4768,15 +4768,15 @@
   },
   {
     "key": "9095-desc",
-    "original": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(合計(5 + 敵の数 × 3), 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(合計(5 + 敵の数 × 3), 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(合計(5 + 出現している敵の数 × 3), 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(合計(5 + 出現している敵の数 × 3), 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Sinking] 횟수 (5+등장한 적의 수x3)만큼 무작위로 나누어 부여 (환상체일 경우, 적 숫자는 본체 하나로 계산).\nEN:\nFirst Turn Start of a wave: randomly inflict (5 + (# of enemies x 3)) [Sinking] Count between all enemies (or all Abnormality parts).\n(For Abnormalities, only the Core counts as an enemy)"
   },
   {
     "key": "9095-simpleDesc[0].simpleDesc",
-    "original": "[Sinking]回数をランダムに付与(合計5 + 敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]回数をランダムに付与(合計5 + 敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Sinking]回数をランダムに分けて付与(合計5 + 出現している敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]回数をランダムに分けて付与(合計5 + 出現している敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Sinking] 횟수 (5+등장한 적의 수x3)만큼 무작위로 나누어 부여\nEN:\nRandomly inflict (5 + (# of enemies x 3)) [Sinking] Count"
   },
@@ -4789,15 +4789,15 @@
   },
   {
     "key": "19095-desc",
-    "original": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(<style=\"upgradeHighlight\">合計(10 + 敵の数 × 3)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(<style=\"upgradeHighlight\">合計(10 + 敵の数 × 3)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(<style=\"upgradeHighlight\">合計(10 + 出現している敵の数 × 3)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(<style=\"upgradeHighlight\">合計(10 + 出現している敵の数 × 3)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 &lt;style=\"upgradeHighlight\"&gt;[Sinking] 횟수 (10+등장한 적의 수x3)만큼&lt;/style&gt; 무작위로 나누어 부여 (환상체일 경우, 적 숫자는 본체 하나로 계산).\nEN:\nFirst Turn Start of a wave: randomly inflict &lt;style=\"upgradeHighlight\"&gt;(10 + (# of enemies x 3)) [Sinking] Count&lt;/style&gt; between all enemies (or all Abnormality parts).\n(For Abnormalities, only the Core counts as an enemy)."
   },
   {
     "key": "19095-simpleDesc[0].simpleDesc",
-    "original": "[Sinking]回数をランダムに付与(合計10 + 敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]回数をランダムに付与(合計10 + 敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Sinking]回数をランダムに分けて付与(合計10 + 出現している敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]回数をランダムに分けて付与(合計10 + 出現している敵の数 × 3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Sinking] 횟수 (10+등장한 적의 수x3)만큼 무작위로 나누어 부여\nEN:\nRandomly inflict (10 + (# of enemies x 3)) [Sinking] Count"
   },
@@ -4810,15 +4810,15 @@
   },
   {
     "key": "29095-desc",
-    "original": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(<style=\"upgradeHighlight\">合計(10 + 敵の数 × 4)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに付与。(<style=\"upgradeHighlight\">合計(10 + 敵の数 × 4)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(<style=\"upgradeHighlight\">合計(10 + 出現している敵の数 × 4)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Sinking]回数をランダムに分けて付与。(<style=\"upgradeHighlight\">合計(10 + 出現している敵の数 × 4)</style>, 幻想体の場合、本体のみを1として計算)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 &lt;style=\"upgradeHighlight\"&gt;[Sinking] 횟수 (10+등장한 적의 수x4)만큼&lt;/style&gt; 무작위로 나누어 부여 (환상체일 경우, 적 숫자는 본체 하나로 계산).\nEN:\nFirst Turn Start of a wave: randomly inflict &lt;style=\"upgradeHighlight\"&gt;(10 + (# of enemies x 4)) [Sinking] Count&lt;/style&gt; between all enemies (or all Abnormality parts).\n(For Abnormalities, only the Core counts as an enemy)."
   },
   {
     "key": "29095-simpleDesc[0].simpleDesc",
-    "original": "[Sinking]回数をランダムに付与(合計10 + 敵の数 × 4)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]回数をランダムに付与(合計10 + 敵の数 × 4)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Sinking]回数をランダムに分けて付与(合計10 + 敵の数 × 4)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]回数をランダムに分けて付与(合計10 + 敵の数 × 4)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Sinking] 횟수 (10+등장한 적의 수x4)만큼 무작위로 나누어 부여\nEN:\nRandomly inflict (10 + (# of enemies x 4)) [Sinking] Count"
   },
@@ -4950,9 +4950,9 @@
   },
   {
     "key": "9098-desc",
-    "original": "ステージ開始時、[Breath]威力または[Breath]回数を付与する攻撃スキルを保有した人格が5人以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n戦闘開始段階で[Breath]状態のランダムな敵がスキルを使用して敵にクリティカルダメージを与えた場合、次のターン開始時に全ての味方が[Breath]威力7を得て[Breath]回数が7増加(1ターンにつき1回発動)\n\nスキルを使用(E.G.Oスキルを除く)して[Breath]威力または[Breath]回数を付与するか獲得する人格が使用するスキル3の最終威力 +3, コイン威力 +(12 ÷ コイン数)、ダメージ量 +(50 ÷ コイン数)%\n\n戦闘開始時、ランダムな味方1名が[Breath]威力を3得る(攻撃スキルを使用して[Breath]威力または[Breath]回数を付与するか獲得する人格を優先して指定)。憂鬱属性攻撃スキルを保有した味方に優先して適用され、この場合は[Breath]威力3を得て[Breath]回数が2増加。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Breath]威力または[Breath]回数を付与する攻撃スキルを保有した人格が5人以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n戦闘開始段階で[Breath]状態のランダムな味方がスキルを使用して敵にクリティカルダメージを与えた場合、次のターン開始時に全ての味方が[Breath]威力7を得て[Breath]回数が7増加(1ターンにつき1回発動)\n\nスキルを使用(E.G.Oスキルを除く)して[Breath]威力または[Breath]回数を付与するか獲得する人格が使用するスキル3の最終威力 +3, コイン威力 +(12 ÷ コイン数)、ダメージ量 +(50 ÷ コイン数)%\n\n戦闘開始時、ランダムな味方1名が[Breath]威力を3得る(攻撃スキルを使用して[Breath]威力または[Breath]回数を付与するか獲得する人格を優先して指定)。憂鬱属性攻撃スキルを保有した味方に優先して適用され、この場合は[Breath]威力3を得て[Breath]回数が2増加。\n<CMT_KR>오기: \"戦闘開始段階で[Breath]状態のランダムな「敵」がスキルを使用して敵にクリティカルダメージを与えた場合、\" 정확: \"戦闘開始段階で[Breath]状態のランダムな「味方」がスキルを使用して敵にクリティカルダメージを与えた場合、\"\n<CMT_JP>誤記: \"戦闘開始段階で[Breath]状態のランダムな「敵」がスキルを使用して敵にクリティカルダメージを与えた場合、\" 訂正後: \"戦闘開始段階で[Breath]状態のランダムな「味方」がスキルを使用して敵にクリティカルダメージを与えた場合、\"",
-    "stage": 1,
+    "original": "ステージ開始時、[Breath]威力または[Breath]回数を付与する攻撃スキルを保有した人格が5人以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n戦闘開始段階で[Breath]状態のランダムな味方がスキルを使用して敵にクリティカルダメージを与えた場合、次のターン開始時に全ての味方が[Breath]威力7を得て[Breath]回数が7増加(1ターンにつき1回発動)\n\nスキルを使用(E.G.Oスキルを除く)して[Breath]威力または[Breath]回数を付与するか獲得する人格が使用するスキル3の最終威力 +3, コイン威力 +(12 ÷ コイン数)、ダメージ量 +(50 ÷ コイン数)%\n\n戦闘開始時、ランダムな味方1名が[Breath]威力を3得る(攻撃スキルを使用して[Breath]威力または[Breath]回数を付与するか獲得する人格を優先して指定)。憂鬱属性攻撃スキルを保有した味方に優先して適用され、この場合は[Breath]威力3を得て[Breath]回数が2増加。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、[Breath]威力または[Breath]回数を付与する攻撃スキルを保有した人格が5人以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n戦闘開始段階で[Breath]状態のランダムな味方がスキルを使用して敵にクリティカルダメージを与えた場合、次のターン開始時に全ての味方が[Breath]威力7を得て[Breath]回数が7増加(1ターンにつき1回発動)\n\nスキルを使用(E.G.Oスキルを除く)して[Breath]威力または[Breath]回数を付与するか獲得する人格が使用するスキル3の最終威力 +3, コイン威力 +(12 ÷ コイン数)、ダメージ量 +(50 ÷ コイン数)%\n\n戦闘開始時、ランダムな味方1名が[Breath]威力を3得る(攻撃スキルを使用して[Breath]威力または[Breath]回数を付与するか獲得する人格を優先して指定)。憂鬱属性攻撃スキルを保有した味方に優先して適用され、この場合は[Breath]威力3を得て[Breath]回数が2増加。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n스테이지 시작 시, [Breath] 위력 또는 [Breath] 횟수를 부여하거나 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n전투 시작 단계에서 [Breath] 상태인 무작위 아군이 스킬을 사용하여 적에게 치명타 피해를 입힐 경우, 다음 턴 시작 시 모든 아군이 [Breath] 위력 7 얻고 [Breath] 횟수 7 증가 (턴 당 1회 발동).\n\n스킬을 사용(E.G.O 스킬 제외)하여 [Breath] 위력 또는 [Breath] 횟수를 부여하거나 획득하는 인격이 사용하는 스킬 3의 최종 위력 +3, 코인 위력 +(12/코인 수), 피해량 +(50/코인 수)%.\n\n전투 시작 시, 무작위 아군 하나가 [Breath] 위력 3 얻음 (공격 스킬을 사용하여 [Breath] 위력 또는 [Breath] 횟수를 부여하거나 획득하는 인격을 우선으로 지정). 우울 속성 공격 스킬을 보유한 아군에게 우선으로 적용되며, 이 경우에는 [Breath] 위력 3 얻고 [Breath] 횟수 2 증가.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply or gain [Breath] Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nCombat Start: If a random ally with [Breath] Critical Hits on an enemy with a Skill, all allies gain 7 [Breath] Potency and +7 [Breath] Count at the next Turn Start. (Once per turn)\n\nSkill 3 of Identities with Skills that apply or gain [Breath] Potency or Count(not counting E.G.O Skills): Final Power +3, Coin Power +(12/# of Coins), damage dealt +(50/# of Coins)%.\n\nCombat Start: a random ally gains 3 [Breath] Potency. (prioritizes Identities that apply or gain [Breath] Potency or Count with their Attack Skills) Prioritizes allies with Gloom Affinity Attack Skills; they gain 3 [Breath] Potency and +2 [Breath] Count."
   },
   {
@@ -5566,9 +5566,9 @@
   },
   {
     "key": "9110-simpleDesc[1].simpleDesc",
-    "original": "条件を満たした場合、Laceration]回数を追加で付与して、対象が保有した[Laceration]威力だけ色欲ダメージを追加で付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "条件を満たした場合、[Laceration]回数を追加で付与して、対象が保有した[Laceration]威力だけ色欲ダメージを追加で付与\n<CMT_KR>오기: \"条件を満たした場合、「」Laceration]回数を追加で付与して、\" 정확: \"条件を満たした場合、「[」Laceration]回数を追加で付与して、\"\n<CMT_JP>誤記: \"条件を満たした場合、「」Laceration]回数を追加で付与して、\" 訂正後: \"条件を満たした場合、「[」Laceration]回数を追加で付与して、\"",
-    "stage": 1,
+    "original": "条件を満たした場合、[Laceration]回数を追加で付与して、対象が保有した[Laceration]威力だけ色欲ダメージを追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "条件を満たした場合、[Laceration]回数を追加で付与して、対象が保有した[Laceration]威力だけ色欲ダメージを追加で付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n조건 만족시, [Laceration] 횟수를 추가로 부여하고 대상이 보유한 [Laceration] 위력만큼 색욕 피해 추가로 입힘.\nEN:\nIf conditions are met: inflict additional [Laceration] Count and deal Lust damage equal to [Laceration] Potency on target."
   },
   {
@@ -5811,15 +5811,15 @@
   },
   {
     "key": "9114-desc",
-    "original": "味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵(幻想体の場合はランダム部位)に[Vibration]威力を配分して付与する\n\n 該当効果を与えられる別の敵がいない場合は効果が変更され、次のターンに対象が保有する[Vibration]威力が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵(幻想体の場合はランダム部位)に[Vibration]威力を配分して付与する\n\n 該当効果を与えられる別の敵がいない場合は効果が変更され、次のターンに対象が保有する[Vibration]威力が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵(幻想体の場合はランダム部位)に[Vibration]威力を分けて付与する\n\n該当効果を与えられる別の敵がいない場合は効果が変更され、次のターンに対象が保有する[Vibration]威力が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵(幻想体の場合はランダム部位)に[Vibration]威力を分けて付与する\n\n該当効果を与えられる別の敵がいない場合は効果が変更され、次のターンに対象が保有する[Vibration]威力が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아군이 [Vibration] 위력 또는 [Vibration] 횟수를 부여하는 공격 스킬(본인 또는 아군을 대상으로 하는 경우 포함)로 적을 흐트러뜨릴 경우 (E.G.O 스킬 제외), 다음 턴에 대상이 보유한 [Vibration] 위력의 1/3만큼을 다른 무작위 적들(환상체일 경우, 무작위 부위)에게 [Vibration] 위력을 나누어 부여함\n\n 해당 효과를 부여할 다른 적들이 없는 경우, 효과가 변경되어 다음 턴에 대상이 보유한 [Vibration] 위력이 1.5배로 증가\nEN:\nWhen an ally Staggers an enemy with an Attack Skill(except E.G.O Skills) that applies(including on self) [Vibration] Potency or Count, randomly apply 1/3 of the [Vibration] Potency on target between other enemies(or a random Abnormality Part) next turn.\n\nIf there are no other enemies to apply the above effect to, multiply [Vibration] Potency on target by 1.5 next turn."
   },
   {
     "key": "9114-simpleDesc[0].simpleDesc",
-    "original": "条件を満たした場合、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵に[Vibration]威力を配分して付与する\n<CMT_KR>\n<CMT_JP>",
-    "translation": "条件を満たした場合、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵に[Vibration]威力を配分して付与する\n<CMT_KR>\n<CMT_JP>",
+    "original": "条件を満たした場合、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵に[Vibration]威力を分けて付与する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "条件を満たした場合、次のターンに対象が保有する[Vibration]威力の1/3を他のランダムな敵に[Vibration]威力を分けて付与する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조건 만족시, 다음 턴에 대상이 보유한 [Vibration] 위력의 1/3만큼을 다른 무작위 적들에게 [Vibration] 위력을 나누어 부여함\nEN:\nIf conditions are met: randomly apply 1/3 of the [Vibration] Potency on target between other enemies next turn."
   },
@@ -5909,8 +5909,8 @@
   },
   {
     "key": "9117-simpleDesc[0].simpleDesc",
-    "original": "条件を満たした場合、次のターンに[Agility]1を得る.\n<CMT_KR>\n<CMT_JP>",
-    "translation": "条件を満たした場合、次のターンに[Agility]1を得る.\n<CMT_KR>\n<CMT_JP>",
+    "original": "条件を満たした場合、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "条件を満たした場合、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조건 만족시, 다음 턴에 [Agility] 1 얻음.\nEN:\nIf conditions are met: gain 1 [Agility] next turn."
   },
@@ -6175,9 +6175,9 @@
   },
   {
     "key": "9123-desc",
-    "original": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ威力時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値)%, 精神力が-15未満の場合はダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値)%, 精神力が-15未満の場合はダメージ量 +15%\n<CMT_KR>오기: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「威力」時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\" 정확: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「勝利」時、\"\n<CMT_JP>誤記: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「威力」時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\" 訂正後: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「勝利」時、\"",
-    "stage": 1,
+    "original": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値)%, 精神力が-15未満の場合はダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値)%, 精神力が-15未満の場合はダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 공격 스킬을 보유한 인격이 합 승리 시 정신력 5를 추가로 회복(턴 당 1회)하고, 정신력이 최대일 경우에는 피해량 +7.5%.\n\n해당 인격이 빼기 코인 스킬(E.G.O 스킬 제외)을 사용할 경우, 효과가 변경되어 스킬 사용 시 정신력이 -15 이상일 경우에는 정신력이 -15로 감소하고 피해량 +(정신력 감소한 수치)%, 정신력이 -15 미만일 경우에는 피해량 +15%.\nEN:\nAllies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal 5 additional SP(once per turn) upon Clash Win; if at max SP, deal +7.5% damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP)% damage; if already at less than -15 SP, deal +15% damage."
   },
   {
@@ -6203,9 +6203,9 @@
   },
   {
     "key": "19123-desc",
-    "original": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ威力時、精神力<style=\"upgradeHighlight\">6</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+5</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">20</style>%\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力<style=\"upgradeHighlight\">6</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+5</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">20</style>%\n<CMT_KR>오기: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「威力」時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\" 정확: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「勝利」時、\"\n<CMT_JP>誤記: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「威力」時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\" 訂正後: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「勝利」時、\"",
-    "stage": 1,
+    "original": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力<style=\"upgradeHighlight\">6</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+5</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">20</style>%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力<style=\"upgradeHighlight\">6</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">10</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+5</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">20</style>%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 공격 스킬을 보유한 인격이 합 승리 시 정신력 &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt;을 추가로 회복(턴 당 1회)하고, 정신력이 최대일 경우에는 피해량 +&lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt;%.\n\n해당 인격이 빼기 코인 스킬(E.G.O 스킬 제외)을 사용할 경우, 효과가 변경되어 스킬 사용 시 정신력이 -15 이상일 경우에는 정신력이 -15로 감소하고 피해량 +(정신력 감소한 수치&lt;style=\"upgradeHighlight\"&gt;+5&lt;/style&gt;)%, 정신력이 -15 미만일 경우에는 피해량 +&lt;style=\"upgradeHighlight\"&gt;20&lt;/style&gt;%.\nEN:\nAllies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt; additional SP(once per turn) upon Clash Win; if at max SP, deal +&lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt;% damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP &lt;style=\"upgradeHighlight\"&gt;+ 5&lt;/style&gt;)% damage; if already at less than -15 SP, deal +&lt;style=\"upgradeHighlight\"&gt;20&lt;/style&gt;% damage."
   },
   {
@@ -6231,9 +6231,9 @@
   },
   {
     "key": "29123-desc",
-    "original": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ威力時、精神力<style=\"upgradeHighlight\">7</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+10</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">25</style>%\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力<style=\"upgradeHighlight\">7</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+10</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">25</style>%\n<CMT_KR>오기: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「威力」時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\" 정확: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「勝利」時、\"\n<CMT_JP>誤記: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「威力」時、精神力5を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +7.5%。\" 訂正後: \"[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ「勝利」時、\"",
-    "stage": 1,
+    "original": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力<style=\"upgradeHighlight\">7</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+10</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">25</style>%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルを保有する人格がマッチ勝利時、精神力<style=\"upgradeHighlight\">7</style>を追加で回復(1ターンにつき1回)し、精神力が最大の場合はダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n\n該当人格が減算コインスキル(E.G.Oスキルを除く)を使用する場合は効果が変更され、スキル使用時の精神力が-15以上の場合は精神力が-15に減少し、ダメージ量 +(精神力減少した数値 <style=\"upgradeHighlight\">+10</style>)%, 精神力が-15未満の場合はダメージ量 +<style=\"upgradeHighlight\">25</style>%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 공격 스킬을 보유한 인격이 합 승리 시 정신력 &lt;style=\"upgradeHighlight\"&gt;7&lt;/style&gt;을 추가로 회복(턴 당 1회)하고, 정신력이 최대일 경우에는 피해량 +&lt;style=\"upgradeHighlight\"&gt;12.5&lt;/style&gt;%.\n\n해당 인격이 빼기 코인 스킬(E.G.O 스킬 제외)을 사용할 경우, 효과가 변경되어 스킬 사용 시 정신력이 -15 이상일 경우에는 정신력이 -15로 감소하고 피해량 +(정신력 감소한 수치+&lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt;)%, 정신력이 -15 미만일 경우에는 피해량 +&lt;style=\"upgradeHighlight\"&gt;25&lt;/style&gt;%.\nEN:\nAllies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal &lt;style=\"upgradeHighlight\"&gt;7&lt;/style&gt; additional SP(once per turn) upon Clash Win; if at max SP, deal +&lt;style=\"upgradeHighlight\"&gt;12.5&lt;/style&gt;% damage.\n\nWhen the said allies use a minus Coin Skill(except E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(SP lost &lt;style=\"upgradeHighlight\"&gt;+ 10&lt;/style&gt;)% damage; if already at less than -15 SP, deal +&lt;style=\"upgradeHighlight\"&gt;25&lt;/style&gt;% damage."
   },
   {
@@ -6280,9 +6280,9 @@
   },
   {
     "key": "19124-desc",
-    "original": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Sinking]威力と[Sinking]回数の合計が<style=\"upgradeHighlight\">8</style> 以上の敵に[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルでダメージを与えた場合、攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,、[Sinking]回数2を付与(人格別に1ターンにつき2回)\n集中戦闘方式の戦闘ステージでは効果が変更され、[Sinking]<style=\"upgradeHighlight\">5</style>,[Sinking]回数2を付与(人格別に1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Sinking]威力と[Sinking]回数の合計が<style=\"upgradeHighlight\">8</style> 以上の敵に[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルでダメージを与えた場合、攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>, [Sinking]回数2を付与(人格別に1ターンにつき2回)\n集中戦闘方式の戦闘ステージでは効果が変更され、[Sinking]<style=\"upgradeHighlight\">5</style>,[Sinking]回数2を付与(人格別に1ターンにつき1回)\n<CMT_KR>오기: \"攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,「、」[Sinking]回数2を付与(人格別に1ターンにつき2回)\" 정확: \"攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,「 」\"\n<CMT_JP>誤記: \"攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,「、」[Sinking]回数2を付与(人格別に1ターンにつき2回)\" 訂正後: \"攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,「 」\"",
-    "stage": 1,
+    "original": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Sinking]威力と[Sinking]回数の合計が<style=\"upgradeHighlight\">8</style> 以上の敵に[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルでダメージを与えた場合、攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,[Sinking]回数2を付与(人格別に1ターンにつき2回)\n集中戦闘方式の戦闘ステージでは効果が変更され、[Sinking]<style=\"upgradeHighlight\">5</style>,[Sinking]回数2を付与(人格別に1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[編成1・2・<style=\"upgradeHighlight\">3</style>番人格専用効果]\n\n[Sinking]威力と[Sinking]回数の合計が<style=\"upgradeHighlight\">8</style> 以上の敵に[Sinking]威力、[Sinking]回数または特殊沈潜を付与する攻撃スキルでダメージを与えた場合、攻撃終了時に[Sinking]威力<style=\"upgradeHighlight\">3</style>,[Sinking]回数2を付与(人格別に1ターンにつき2回)\n集中戦闘方式の戦闘ステージでは効果が変更され、[Sinking]<style=\"upgradeHighlight\">5</style>,[Sinking]回数2を付与(人格別に1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[편성 1번, 2번, &lt;style=\"upgradeHighlight\"&gt;3번&lt;/style&gt; 인격 전용 효과]\n\n[Sinking] 위력과 [Sinking] 횟수의 합이 &lt;style=\"upgradeHighlight\"&gt;8&lt;/style&gt; 이상인 적에게 [Sinking] 위력, [Sinking] 횟수 또는 특수 침잠을 부여하는 공격 스킬로 피해를 입힐 경우, 공격 종료 시 [Sinking] 위력 &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt;, [Sinking] 횟수 2 부여 (인격별 턴 당 2회)\n집중 전투 방식의 전투 스테이지에서는 효과가 변경되어 [Sinking] &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt;, [Sinking] 횟수 2 부여 (인격별 턴 당 1회).\nEN:\n[Effects apply only to #1, #2, and &lt;style=\"upgradeHighlight\"&gt;#3&lt;/style&gt; Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with &lt;style=\"upgradeHighlight\"&gt;8&lt;/style&gt;+ ([Sinking] Potency + Count), inflict &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt; [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)"
   },
   {
@@ -7624,8 +7624,8 @@
   },
   {
     "key": "29146-desc",
-    "original": "[編成3・4・5番人格専用効果]\n\nマッチ進行時のマッチ威力+1、貫通スキルのダメージ量 +<style=\"upgradeHighlight\">25</style>%\n\n一方攻撃進行時の貫通スキルダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[編成3・4・5番人格専用効果]\n\nマッチ進行時のマッチ威力+1、貫通スキルのダメージ量 +<style=\"upgradeHighlight\">25</style>%\n\n一方攻撃進行時の貫通スキルダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n<CMT_KR>\n<CMT_JP>",
+    "original": "[編成3・4・5<style=\"upgradeHighlight\">・6</style>番人格専用効果]\n\nマッチ進行時のマッチ威力+1、貫通スキルのダメージ量 +<style=\"upgradeHighlight\">25</style>%\n\n一方攻撃進行時の貫通スキルダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[編成3・4・5<style=\"upgradeHighlight\">・6</style>番人格専用効果]\n\nマッチ進行時のマッチ威力+1、貫通スキルのダメージ量 +<style=\"upgradeHighlight\">25</style>%\n\n一方攻撃進行時の貫通スキルダメージ量 +<style=\"upgradeHighlight\">12.5</style>%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[편성 3번, 4번, 5번, &lt;style=\"upgradeHighlight\"&gt;6번&lt;/style&gt; 인격 전용 효과]\n\n합 진행 시 합 위력 +1, 관통 스킬의 피해량 +&lt;style=\"upgradeHighlight\"&gt;25&lt;/style&gt;%.\n\n일방 공격 진행 시 관통 스킬의 피해량 +&lt;style=\"upgradeHighlight\"&gt;12.5&lt;/style&gt;%.\nEN:\n[Effects apply only to #3, #4, #5, &lt;style=\"upgradeHighlight\"&gt;and #6&lt;/style&gt; Deployed Identities]\n\nIn a Clash, Clash Power +1; Pierce Skills deal &lt;style=\"upgradeHighlight\"&gt;+25%&lt;/style&gt; damage.\n\nIn an unopposed attack, Pierce Skills deal &lt;style=\"upgradeHighlight\"&gt;+12.5%&lt;/style&gt; damage."
   },
@@ -7823,7 +7823,7 @@
     "original": "[編成5・6番人格専用効果]\n\n打撃スキルを使って敵に的中した場合、ダメージを<style=\"upgradeHighlight\">3～7</style>追加で与える。\n\n憂鬱属性攻撃スキルの場合は効果が強化され、追加で体力を<style=\"upgradeHighlight\">6</style>回復。\n<CMT_KR>\n<CMT_JP>",
     "translation": "[編成5・6番人格専用効果]\n\n打撃スキルを使って敵に的中した場合、ダメージを<style=\"upgradeHighlight\">3～7</style>追加で与える。\n\n憂鬱属性攻撃スキルの場合は効果が強化され、追加で体力を<style=\"upgradeHighlight\">6</style>回復。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[편성 5번, 6번 인격 전용 효과]\n\n타격 스킬을 사용하여 적에게 적중 시, &lt;style=\"upgradeHighlight\"&gt;3 ~ 7&lt;/style&gt;만큼 타격 피해를 추가로 입힘.\n\n우울 속성 공격 스킬일 경우, 효과가 강화되어 추가로 &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt;만큼 체력을 회복.\nEN:\n[Effects apply only to #5, &lt;style=\"upgradeHighlight\"&gt;#6&lt;/style&gt; Deployed Identities]\n\nWhen hitting an enemy with a Blunt Skill, deal &lt;style=\"upgradeHighlight\"&gt;3~7&lt;/style&gt; Blunt bonus Damage.\n\nGloom Affinity Attack Skill: heal an additional &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt; HP as well."
+    "context": "KR:\n[편성 5번, 6번 인격 전용 효과]\n\n타격 스킬을 사용하여 적에게 적중 시, &lt;style=\"upgradeHighlight\"&gt;3 ~ 7&lt;/style&gt;만큼 타격 피해를 추가로 입힘.\n\n우울 속성 공격 스킬일 경우, 효과가 강화되어 추가로 &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt;만큼 체력을 회복.\nEN:\n[Effects apply only to #5, #6 Deployed Identities]\n\nWhen hitting an enemy with a Blunt Skill, deal &lt;style=\"upgradeHighlight\"&gt;3~7&lt;/style&gt; Blunt bonus Damage.\n\nGloom Affinity Attack Skill: heal an additional &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt; HP as well."
   },
   {
     "key": "29149-simpleDesc[0].simpleDesc",
@@ -7918,9 +7918,9 @@
   },
   {
     "key": "29150-desc",
-    "original": "ターン開始時、打撃攻撃スキルを保有しているなら[AttackUp]2, <style=\"upgradeHighlight\">[HitDamageUp] 1</style>を得る(E.G.Oスキルを除く)\n\n打撃攻撃スキルを2つ以上保有している場合は効果が強化され、[AttackUp]2, [HitDamageUp]<style=\"upgradeHighlight\">2</style>を得る\n\n減算コインを使用する打撃攻撃スキルを2つ以上保有した場合、効果が更に強化され、[AttackUp]2, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン開始時、打撃攻撃スキルを保有しているなら[AttackUp]2, <style=\"upgradeHighlight\">[HitDamageUp] 1</style>を得る(E.G.Oスキルを除く)\n\n打撃攻撃スキルを2つ以上保有している場合は効果が強化され、[AttackUp]2, [HitDamageUp]<style=\"upgradeHighlight\">2</style>を得る\n\n減算コインを使用する打撃攻撃スキルを2つ以上保有した場合、効果が更に強化され、[AttackUp]3, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\n<CMT_KR>오기: \"減算コインを使用する打撃攻撃スキルを2つ以上保有した場合、効果が更に強化され、[AttackUp]「2」, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\" 정확: \"効果が更に強化され、[AttackUp]「3」, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\"\n<CMT_JP>誤記: \"減算コインを使用する打撃攻撃スキルを2つ以上保有した場合、効果が更に強化され、[AttackUp]「2」, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\" 訂正後: \"効果が更に強化され、[AttackUp]「3」, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\"",
-    "stage": 1,
+    "original": "ターン開始時、打撃攻撃スキルを保有しているなら[AttackUp]2, <style=\"upgradeHighlight\">[HitDamageUp] 1</style>を得る(E.G.Oスキルを除く)\n\n打撃攻撃スキルを2つ以上保有している場合は効果が強化され、[AttackUp]2, [HitDamageUp]<style=\"upgradeHighlight\">2</style>を得る\n\n減算コインを使用する打撃攻撃スキルを2つ以上保有した場合、効果が更に強化され、[AttackUp]3, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、打撃攻撃スキルを保有しているなら[AttackUp]2, <style=\"upgradeHighlight\">[HitDamageUp] 1</style>を得る(E.G.Oスキルを除く)\n\n打撃攻撃スキルを2つ以上保有している場合は効果が強化され、[AttackUp]2, [HitDamageUp]<style=\"upgradeHighlight\">2</style>を得る\n\n減算コインを使用する打撃攻撃スキルを2つ以上保有した場合、効果が更に強化され、[AttackUp]3, [HitDamageUp]<style=\"upgradeHighlight\">3</style>を得る。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n턴 시작 시 타격 공격 스킬을 보유한 경우, [AttackUp] 2, &lt;style=\"upgradeHighlight\"&gt;[HitDamageUp] 1&lt;/style&gt; 얻음 (E.G.O 스킬 제외).\n\n타격 공격 스킬을 2개 이상 보유한 경우, 효과가 강화되어 [AttackUp] 2, [HitDamageUp] &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; 얻음.\n\n빼기 코인을 사용하는 타격 공격 스킬을 2개 이상 보유한 경우, 효과가 더욱 강화되어 [AttackUp] 3, [HitDamageUp] &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt; 얻음.\nEN:\nTurn Start: Units with Blunt Attack Skills(except E.G.O Skills) gain 2 [AttackUp] and &lt;style=\"upgradeHighlight\"&gt;1 [HitDamageUp]&lt;/style&gt; at Turn Start.\n\nUnits with 2+ Blunt Attack Skills gain 2 [AttackUp] and &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; [HitDamageUp] instead.\n\nUnits with 2+ Blunt Attack Skills that use Minus Coins gain 3 [AttackUp] and &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt; [HitDamageUp] instead."
   },
   {
@@ -8149,8 +8149,8 @@
   },
   {
     "key": "19117-simpleDesc[0].simpleDesc",
-    "original": "条件を満たした場合、次のターンに[Agility]1を得る.\n<CMT_KR>\n<CMT_JP>",
-    "translation": "条件を満たした場合、次のターンに[Agility]1を得る.\n<CMT_KR>\n<CMT_JP>",
+    "original": "条件を満たした場合、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "条件を満たした場合、次のターンに[Agility]1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조건 만족시, 다음 턴에 [Agility] 1 얻음.\nEN:\nIf conditions are met: gain 1 [Agility] next turn."
   },
@@ -8177,8 +8177,8 @@
   },
   {
     "key": "29117-simpleDesc[0].simpleDesc",
-    "original": "条件を満たした場合、次のターンに[Agility]1～2を得る.\n<CMT_KR>\n<CMT_JP>",
-    "translation": "条件を満たした場合、次のターンに[Agility]1～2を得る.\n<CMT_KR>\n<CMT_JP>",
+    "original": "条件を満たした場合、次のターンに[Agility]1～2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "条件を満たした場合、次のターンに[Agility]1～2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조건 만족시, 다음 턴에 [Agility] 1 ~ 2 얻음.\nEN:\nIf conditions are met: gain 1~2 [Agility] next turn."
   },
@@ -8814,9 +8814,9 @@
   },
   {
     "key": "19195-desc",
-    "original": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル1に効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">6</style>)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">6</style>)\n<CMT_KR>오기: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「1」に効果適用\" 정확: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「」に効果適用\"\n<CMT_JP>誤記: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「1」に効果適用\" 訂正後: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「」に効果適用\"",
-    "stage": 1,
+    "original": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">6</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力1を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">6</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, 참격 유형 &lt;style=\"upgradeHighlight\"&gt;또는 색욕 속성&lt;/style&gt;인 모든 기본 공격 스킬에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 1 얻음 (인격 별로 턴 당 최대 &lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt;).\nEN:\nSlash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type &lt;style=\"upgradeHighlight\"&gt;or Lust Affinity&lt;/style&gt; Base Attack Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (&lt;style=\"upgradeHighlight\"&gt;6&lt;/style&gt; times per turn per Identity)"
   },
   {
@@ -8842,9 +8842,9 @@
   },
   {
     "key": "29195-desc",
-    "original": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、<style=\"upgradeHighlight\">全</style>基本攻撃スキル1に効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力<style=\"upgradeHighlight\">1～2</style>を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">8</style>)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、<style=\"upgradeHighlight\">全</style>基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力<style=\"upgradeHighlight\">1～2</style>を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">8</style>)\n<CMT_KR>오기: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「1」に効果適用\" 정확: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「」に効果適用\"\n<CMT_JP>誤記: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「1」に効果適用\" 訂正後: \"- 黒雲会所属人格は効果が変更され、斬撃タイプ<style=\"upgradeHighlight\">または色欲属性</style>の全基本攻撃スキル「」に効果適用\"",
-    "stage": 1,
+    "original": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、<style=\"upgradeHighlight\">全</style>基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力<style=\"upgradeHighlight\">1～2</style>を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">8</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "斬撃タイプのスキル1のマッチ威力 +1, 的中時に攻撃レベル減少2を付与。\n- 黒雲会所属人格は効果が変更され、<style=\"upgradeHighlight\">全</style>基本攻撃スキルに効果適用\n\n黒雲会所属人格がターン開始時に威力増加1を得る。基本攻撃スキルを使用して的中時、[Laceration]威力・[Laceration]回数を付与するたびに[Breath]威力<style=\"upgradeHighlight\">1～2</style>を得る。(人格ごとに1ターンにつき最大<style=\"upgradeHighlight\">8</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n참격 유형인 스킬 1의 합 위력 +1, 적중 시 공격 레벨 감소 2 부여.\n- 흑운회 소속 인격은 효과가 변경되어, &lt;style=\"upgradeHighlight\"&gt;모든&lt;/style&gt; 기본 공격 스킬에 효과 적용\n\n흑운회 소속 인격이 턴 시작 시 위력 증가 1을 얻음. 기본 공격 스킬을 사용하여 적중 시 출혈 위력, 출혈 횟수를 부여할 때마다 호흡 위력 &lt;style=\"upgradeHighlight\"&gt;1~2&lt;/style&gt; 얻음 (인격 별로 턴 당 최대 &lt;style=\"upgradeHighlight\"&gt;8&lt;/style&gt;).\nEN:\nSlash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.\n- For Kurokumo Clan Identities: the above effects apply to &lt;style=\"upgradeHighlight\"&gt;all&lt;/style&gt; Base Attack Skills instead\n\nTurn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain &lt;style=\"upgradeHighlight\"&gt;1~2&lt;/style&gt; Poise Potency (&lt;style=\"upgradeHighlight\"&gt;8&lt;/style&gt; times per turn per Identity)"
   },
   {

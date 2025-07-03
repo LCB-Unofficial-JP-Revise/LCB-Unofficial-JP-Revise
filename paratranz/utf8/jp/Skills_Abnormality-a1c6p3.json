@@ -998,7 +998,7 @@
     "original": "[CantDuel]\n[WhenUse] 次のターンにワイルドハントユニット1体を生成\n<CMT_KR>\n<CMT_JP>",
     "translation": "[CantDuel]\n[WhenUse] 次のターンにワイルドハントユニット1体を生成\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[CantDuel]\n[WhenUse] 다음 턴에 와일드 헌트 유닛 1명 생성\nEN:\n[CantDuel]\n[WhenUse] Generate 1 Wild Hunt unit next turn"
+    "context": "KR:\n[CantDuel]\n[WhenUse] 다음 턴에 와일드 헌트 유닛 1명 생성\nEN:\n[CantDuel]\n[WhenUse] Generate 1 Wild Hunt[TabExplain] unit next turn"
   },
   {
     "key": "817304-levelList[0].name",

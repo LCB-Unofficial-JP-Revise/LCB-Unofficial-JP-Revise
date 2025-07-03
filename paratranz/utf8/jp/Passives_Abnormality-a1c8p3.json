@@ -8,9 +8,9 @@
   },
   {
     "key": "114501-desc",
-    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ侵攻時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>오기: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" 정확: \"マッチ「進行」時、\"\n<CMT_JP>誤記: \"マッチ「侵攻」時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\" 訂正後: \"マッチ「進行」時、\"",
-    "stage": 1,
+    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -30%\n\n[BulletPropellant]을 소모하는 코인을 굴릴 때, [BulletPropellant]이 없는 경우에도 공격을 취소하지 않는 대신 해당 코인의 적중 시 [Combustion] 부여, [Combustion] 횟수 증가 효과가 발동하지 않음\n\n합 진행 시, (1 + 합을 진행한 횟수/3)만큼 대상의 [Vibration] 횟수 증가\n(최대 3, 하나의 대상에게 턴당 최대 3회 적용)\nEN:\nTake -30% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n\nWhen flipping a Coin that consumes [BulletPropellant]: while not having [BulletPropellant] does not cancel this unit's attacks, the Coin's \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIn a Clash, inflict +(1 + (# of Clashes / 3)) [Vibration] Count\n(max 3; 3 times per turn against the same target)"
   },
   {

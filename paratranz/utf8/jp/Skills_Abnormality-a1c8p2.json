@@ -2136,9 +2136,9 @@
   },
   {
     "key": "116003-levelList[0].desc",
-    "original": "[WhenUse] 対象のを[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 + 1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 + 1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>오기: \"[WhenUse] 対象の「を」[Burst]6につき、最終威力 +1 (最大2) \" 정확: \"[WhenUse] 対象の「」[Burst]6につき、最終威力 +1 (最大2) \"\n<CMT_JP>誤記: \"[WhenUse] 対象の「を」[Burst]6につき、最終威力 +1 (最大2) \" 訂正後: \"[WhenUse] 対象の「」[Burst]6につき、最終威力 +1 (最大2) \"",
-    "stage": 1,
+    "original": "[WhenUse] 対象の[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 + 1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]6につき、最終威力 +1 (最大2) \n[WhenUse] [Charge]回数を5消耗し、コイン威力 + 1 (最大3)\n[WhenUse] [Charge]回数を5以上消耗したなら、[Burst]付与量 +2\n[WhenUse] [Charge]回数を10消耗したなら、対象の[Burst]回数が3増加\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[WhenUse] 대상의 [Burst] 6당, 최종 위력 +1 (최대 2) \n[WhenUse] [Charge] 횟수를 5 소모하여, 코인 위력 + 1 (최대 3)\n[WhenUse] [Charge] 횟수를 5 이상 소모했다면, [Burst] 부여량 +2\n[WhenUse] [Charge] 횟수를 10 이상 소모했다면, 대상의 [Burst] 횟수 3 증가\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\nEN:\n[WhenUse] Final Power +1 for every 6 [Burst] on target (max 2)\n[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1 (max 3)\n[WhenUse] If this unit consumed 5+ [Charge] Count, inflict +2 more [Burst]\n[WhenUse] If this unit consumed 10+ [Charge] Count, inflict +3 [Burst] Count\n[DefeatDuel] Deal -80% damage; damage dealt by this Skill cannot Stagger the target"
   },
   {

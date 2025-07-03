@@ -638,9 +638,9 @@
   },
   {
     "key": "2020711-levelList[1].desc",
-    "original": "<style=\"highlight\">自分と対象の速度の合計6が以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "<style=\"highlight\">自分と対象の速度の合計が6以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1</style>\n<CMT_KR>오기: \"<style=\"highlight\">自分と対象の速度の合計「6が」以上なら、コイン威力 +1</style>\" 정확: \"自分と対象の速度の合計「が6」以上なら、コイン威力 +1\"\n<CMT_JP>誤記: \"<style=\"highlight\">自分と対象の速度の合計「6が」以上なら、コイン威力 +1</style>\" 訂正後: \"自分と対象の速度の合計「が6」以上なら、コイン威力 +1\"",
-    "stage": 1,
+    "original": "<style=\"highlight\">自分と対象の速度の合計が6以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分と対象の速度の合計が6以上なら、コイン威力 +1</style>\n対象の[Burst]7につきコイン威力 +1(最大2)\n<style=\"highlight\">[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n&lt;style=\"highlight\"&gt;자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1&lt;/style&gt;\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n&lt;style=\"highlight\"&gt;[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1&lt;/style&gt;\nCoin Power +1 for every 7 [Burst] on target (max 2)\n&lt;style=\"highlight\"&gt;[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight&lt;/style&gt;"
   },
   {
@@ -680,9 +680,9 @@
   },
   {
     "key": "2020711-levelList[2].desc",
-    "original": "自分と対象の速度の合計6が以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分と対象の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>\n<CMT_KR>오기: \"自分と対象の速度の合計「6が」以上なら、コイン威力 +1\" 정확: \"自分と対象の速度の合計「が6」以上なら、コイン威力 +1\"\n<CMT_JP>誤記: \"自分と対象の速度の合計「6が」以上なら、コイン威力 +1\" 訂正後: \"自分と対象の速度の合計「が6」以上なら、コイン威力 +1\"",
-    "stage": 1,
+    "original": "自分と対象の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分と対象の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n[BeforeAttack] 最大共鳴が4以上なら、攻撃加重値 +1\n<style=\"highlight\">- 該当共鳴が暴食共鳴なら、攻撃加重値 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n[BeforeAttack] 최대 공명이 4 이상이면, 공격 가중치 +1\n&lt;style=\"highlight\"&gt;- 해당 공명이 탐식 공명이면, 공격 가중치 +1&lt;/style&gt;\nEN:\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Gluttony Reson., Atk Weight +1&lt;/style&gt;"
   },
   {
@@ -813,9 +813,9 @@
   },
   {
     "key": "2020721-levelList[2].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n自分と対象の速度の合計6が以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n<style=\"highlight\">[EndSkill] 対象が混乱するか死亡した場合、次のターンに[ShamrockResultUp]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n自分と対象の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n<style=\"highlight\">[EndSkill] 対象が混乱するか死亡した場合、次のターンに[ShamrockResultUp]1を得る</style>\n<CMT_KR>오기: \"自分と対象の速度の合計「6が」以上なら、コイン威力 +1\" 정확: \"自分と対象の速度の合計「が6」以上なら、コイン威力 +1\"\n<CMT_JP>誤記: \"自分と対象の速度の合計「6が」以上なら、コイン威力 +1\" 訂正後: \"自分と対象の速度の合計「が6」以上なら、コイン威力 +1\"",
-    "stage": 1,
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n自分と対象の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n<style=\"highlight\">[EndSkill] 対象が混乱するか死亡した場合、次のターンに[ShamrockResultUp]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n自分と対象の速度の合計が6以上なら、コイン威力 +1\n対象の[Burst]7につきコイン威力 +1(最大2)\n[BeforeAttack] 次のターンに[Agility]2を得る\n<style=\"highlight\">[EndSkill] 対象が混乱するか死亡した場合、次のターンに[ShamrockResultUp]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n자신과 대상의 속도의 합이 6 이상이면, 코인 위력 +1\n대상의 [Burst] 7 당 코인 위력 +1 (최대 2)\n[BeforeAttack] 다음 턴에 [Agility] 2 얻음\n&lt;style=\"highlight\"&gt;[EndSkill] 대상이 흐트러지거나 사망한 경우, 다음 턴에 [ShamrockResultUp] 1 얻음&lt;/style&gt;\nEN:\n[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n&lt;style=\"highlight\"&gt;[EndSkill] If target is Staggered or defeated, gain 1 [ShamrockResultUp] next turn&lt;/style&gt;"
   },
   {

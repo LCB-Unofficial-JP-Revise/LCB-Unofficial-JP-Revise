@@ -598,7 +598,7 @@
     "key": "1020221-desc",
     "original": "体力最大値の最も低い味方1名の、充電 回数獲得数 +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "体力最大値の最も低い味方1名の、充電 回数獲得数 +1\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n최대 체력이 가장 낮은 아군 1명 충전 횟수 얻는 값 +1\nEN:\n1 ally with the lowest Max HP gains +1 Charge Count."
   },
   {
@@ -995,9 +995,9 @@
   },
   {
     "key": "1110221-name",
-    "original": "死亡確認射撃\n<CMT_KR>\n<CMT_JP>",
-    "translation": "死亡確認射撃\n<CMT_KR>오역 의심: \"검계는 검을 사용하는 전투 조직임에도 불구하고, 현재의 번역어인 \"사망 확인 사격(射撃)\"은 총이나 화살을 사용해 확인사살하는 것을 연상시킵니다. 만약 검으로 확인사살하는 것이 본래 의도라면, \"확인'자'(刺)살\", (確認刺殺) 등과 같은 번역어가 더 적절할 것입니다.\"\n<CMT_JP>誤訳の疑い: \"剣契は剣を使う戦闘組織ですが、現在の「死亡確認射撃」という訳語では銃あるいは矢を使って確認射殺することを連想させます。もし剣によってとどめを刺すことが本来の意図なら、「確認刺殺」などの訳語がより適切でしょう。\"",
-    "stage": 1,
+    "original": "確殺\n<CMT_KR>\n<CMT_JP>",
+    "translation": "確殺\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n확인사살\nEN:\nDouble Tap"
   },
   {
@@ -2257,7 +2257,7 @@
     "key": "1110521-desc",
     "original": "振動 回数が最も高い味方1名がスキル効果で得る振動 回数 +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "振動 回数が最も高い味方1名がスキル効果で得る振動 回数 +1\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n진동 횟수가 가장 높은 아군 1명이 스킬 효과로 얻는 진동 횟수 +1\nEN:\n1 ally with the most Tremor Count gains +1 more Tremor Count from Skill effects"
   },
   {
@@ -2941,9 +2941,9 @@
   },
   {
     "key": "1060811-desc",
-    "original": "自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分の[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\n<CMT_KR>오기: \"自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分「」[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\" 정확: \"捨てたスキルのランクが自分「の」[KnowledgeExplored]より高ければ、\"\n<CMT_JP>誤記: \"自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分「」[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\" 訂正後: \"捨てたスキルのランクが自分「の」[KnowledgeExplored]より高ければ、\"",
-    "stage": 1,
+    "original": "自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分の[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分の[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n자신이 스킬을 버릴 때 버린 스킬의 등급만큼 [AttackDmgUp]를 얻음. (턴 당 최대 3)\n자신을 제외한 아군이 스킬을 버릴 때, 버린 스킬의 등급이 자신의 [KnowledgeExplored]보다 높으면, 자신의 [KnowledgeExplored] +1\nEN:\nWhen Discarding a Skill, gain [AttackDmgUp] equal to the Discarded Skill Rank. (Max 3 per turn)\nWhen other allies Discard a Skill, and if the ally's Discarded Skill Rank is higher than this unit's [KnowledgeExplored] value, this unit gains +1 [KnowledgeExplored]."
   },
   {
@@ -4299,8 +4299,8 @@
   },
   {
     "key": "1030901-desc",
-    "original": "ターン終了時、体力が10~20％残存しているなら、全体力の80％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeRentalTwoPersonality]が解除される場合、次のターンに保有しているスキルスロットのうち1つの[Aggro]が8増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、体力が10~20％残存しているなら、全体力の80％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeRentalTwoPersonality]が解除される場合、次のターンに保有しているスキルスロットのうち1つの[Aggro]が8増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、体力が10～20％残存しているなら、全体力の80％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeRentalTwoPersonality]が解除される場合、次のターンに保有しているスキルスロットのうち1つの[Aggro]が8増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、体力が10～20％残存しているなら、全体力の80％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeRentalTwoPersonality]が解除される場合、次のターンに保有しているスキルスロットのうち1つの[Aggro]が8増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 체력이 10% ~ 20% 사이로 남았을 때, 전체 체력의 80%만큼 즉시 회복. 흐트러짐 상태 해제 (전투 당 1회)\n\n[TimeRentalTwoPersonality]가 해제될 경우, 다음 턴에 보유 중인 스킬 슬롯 중 하나의 [Aggro] 8 증가\nEN:\nTurn End: If this unit's HP is between 10% ~ 20%, instantly heal 80% of this unit's max HP, and recover from Stagger. (once per Encounter)\n\nWhen this unit loses [TimeRentalTwoPersonality], gain +8 [Aggro] to one of this unit's Skill Slots next turn"
   },
@@ -4327,8 +4327,8 @@
   },
   {
     "key": "1090901-desc",
-    "original": "ターン終了時、体力が16~20％残存しているなら、全体力の60％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeSuspend]を保有する対象とマッチを進行するとき、マッチ威力 +2\n[TimeSuspend]を保有する敵にダメージを受けるとき、被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、体力が16~20％残存しているなら、全体力の60％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeSuspend]を保有する対象とマッチを進行するとき、マッチ威力 +2\n[TimeSuspend]を保有する敵にダメージを受けるとき、被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、体力が16～20％残存しているなら、全体力の60％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeSuspend]を保有する対象とマッチを進行するとき、マッチ威力 +2\n[TimeSuspend]を保有する敵にダメージを受けるとき、被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、体力が16～20％残存しているなら、全体力の60％を即回復。混乱状態を解除(戦闘につき1回)\n\n[TimeSuspend]を保有する対象とマッチを進行するとき、マッチ威力 +2\n[TimeSuspend]を保有する敵にダメージを受けるとき、被ダメージ量 -10%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 체력이 16% ~ 20% 사이로 남았을 때, 전체 체력의 60%만큼 즉시 회복. 흐트러짐 상태 해제 (전투 당 1회)\n\n[TimeSuspend]를 보유한 대상과 합을 진행할 때 합 위력 +2\n[TimeSuspend]를 보유한 적에게 피해를 받을 때, 받는 피해량 -10%\nEN:\nTurn End: if this unit's HP is between 16% ~ 20%, instantly heal up to 60% of Max HP, and recover from Stagger. (once per Encounter)\n\nWhen Clashing against targets with [TimeSuspend], Clash Power +2\nTake -10% damage from targets with [TimeSuspend]"
   },
@@ -4537,9 +4537,9 @@
   },
   {
     "key": "1071002-desc",
-    "original": "- ターン開始時、[NightPathfinding]があるなら[NightPathfinding]に乗る\n- [NightPathfinding]に乗るたび、精神力を5消耗\n- 戦闘中に死亡した味方が3名以上なら、次のターンに[NightPathfinding]を得る。(戦闘につき1回)\n- [NightPathfinding]に乗るとき、ダメージは混乱区間前進で混乱状態になった場合は混乱状態を解除する。解除できない混乱状態の場合、[NightPathfinding]に乗れない。\n- 対象討伐時に[Coffin]1を得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- ターン開始時、[NightPathfinding]があるなら[NightPathfinding]に乗る\n- [NightPathfinding]に乗るたび、精神力を5消耗\n- 戦闘中に死亡した味方が3名以上なら、次のターンに[NightPathfinding]を得る。(戦闘につき1回)\n- [NightPathfinding]に乗るとき、ダメージや混乱区間前進で混乱状態になった場合は混乱状態を解除する。解除できない混乱状態の場合、[NightPathfinding]に乗れない。\n- 対象討伐時に[Coffin]1を得る\n<CMT_KR>오기: \"- [NightPathfinding]に乗るとき、ダメージ「は」混乱区間前進で混乱状態になった場合は混乱状態を解除する。\" 정확: \"ダメージ「や」混乱区間前進で混乱状態になった場合は混乱状態を解除する。\"\n<CMT_JP>誤記: \"- [NightPathfinding]に乗るとき、ダメージ「は」混乱区間前進で混乱状態になった場合は混乱状態を解除する。\" 訂正後: \"ダメージ「や」混乱区間前進で混乱状態になった場合は混乱状態を解除する。\"",
-    "stage": 1,
+    "original": "- ターン開始時、[NightPathfinding]があるなら[NightPathfinding]に乗る\n- [NightPathfinding]に乗るたび、精神力を5消耗\n- 戦闘中に死亡した味方が3名以上なら、次のターンに[NightPathfinding]を得る。(戦闘につき1回)\n- [NightPathfinding]に乗るとき、ダメージや混乱区間前進で混乱状態になった場合は混乱状態を解除する。解除できない混乱状態の場合、[NightPathfinding]に乗れない。\n- 対象討伐時に[Coffin]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時、[NightPathfinding]があるなら[NightPathfinding]に乗る\n- [NightPathfinding]に乗るたび、精神力を5消耗\n- 戦闘中に死亡した味方が3名以上なら、次のターンに[NightPathfinding]を得る。(戦闘につき1回)\n- [NightPathfinding]に乗るとき、ダメージや混乱区間前進で混乱状態になった場合は混乱状態を解除する。解除できない混乱状態の場合、[NightPathfinding]に乗れない。\n- 対象討伐時に[Coffin]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n- 턴 시작 시 [NightPathfinding]이 있을 때, [NightPathfinding]에 탑승함\n- [NightPathfinding]에 탑승할 때마다 정신력 5 소모\n- 전투 중 사망한 아군이 3명 이상이면, 다음 턴에 [NightPathfinding]을 얻음. (전투당 1번)\n- [NightPathfinding]에 탑승할 때, 피해나 흐트러짐 손상으로 흐트러짐 상태가 된 경우, 흐트러짐 상태를 해제함. 해제할 수 없는 흐트러짐 상태인 경우, [NightPathfinding]에 탑승할 수 없음.\n- 대상 처치 시 관 1 얻음\nEN:\n- Turn Start: if this unit has [NightPathfinding], mount [NightPathfinding].\n- Lose 5 SP every time this unit mounts [NightPathfinding]\n- If 3+ allies have been defeated in this Encounter, gain [NightPathfinding] next turn. (once per Encounter)\n- If this unit gets Staggered due to damage or raised Stagger Threshold when mounting [NightPathfinding], recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not mount [NightPathfinding].\n\n- Gain 1 Coffin when killing the target."
   },
   {
@@ -4985,9 +4985,9 @@
   },
   {
     "key": "1051111-summary",
-    "original": "ターン終了時、自分の[Breath]回数に比例して次のターンに[Agility]を得る。基本攻撃的中時、次のターンに[ConcentratedAttackMeursault]を付与。大将を倒すと精神力を回復する\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、自分の[Breath]回数に比例して次のターンに[Agility]を得る。基本攻撃的中時、次のターンに[ConcentratedAttackMeursault]を付与。対象を倒すと精神力を回復する\n<CMT_KR>오기: \"「大将」を倒すと精神力を回復する\" 정확: \"「対象」を倒すと精神力を回復する\"\n<CMT_JP>誤記: \"「大将」を倒すと精神力を回復する\" 訂正後: \"「対象」を倒すと精神力を回復する\"",
-    "stage": 1,
+    "original": "ターン終了時、自分の[Breath]回数に比例して次のターンに[Agility]を得る。基本攻撃的中時、次のターンに[ConcentratedAttackMeursault]を付与。対象を倒すと精神力を回復する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、自分の[Breath]回数に比例して次のターンに[Agility]を得る。基本攻撃的中時、次のターンに[ConcentratedAttackMeursault]を付与。対象を倒すと精神力を回復する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n턴 종료시 자신의 호흡 횟수에 비례해 다음 턴에 신속 얻음. 기본 공격 적중시 다음 턴에 [ConcentratedAttackMeursault] 부여. 대상을 처치하면 정신력을 회복함\nEN:\nTurn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
   },
   {
@@ -5673,7 +5673,7 @@
     "key": "1081101-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_JP>",
     "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard"
   },
   {
@@ -5708,7 +5708,7 @@
     "key": "1081111-desc",
     "original": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
     "translation": "戦闘開始時、戦闘に参加した黒雲会所属人格が自分を含めて2名以上いるなら[BlackCloudBlade]1を得る\n\n戦闘時、操作パネルにて自分の両隣の黒雲会所属人格へ[BlackCloud]1を付与\n<style=\"highlight\">- 色欲共鳴が4以上なら、自分を除いた全黒雲会所属の味方へ[BlackCloud]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n전투 시작시 자신을 포함해 전투에 참여한 아군 흑운회 소속 인격이 2명 이상이면, [BlackCloudBlade] 1 얻음\n\n전투 시작시 조작 패널에서 자신의 양 옆의 흑운회 소속 인격에게 [BlackCloud] 1 부여\n&lt;style=\"highlight\"&gt;- 색욕 공명이 4 이상이면, 자신을 제외한 모든 흑운회 소속 아군에게 [BlackCloud] 1 부여&lt;/style&gt;\nEN:\nCombat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n&lt;style=\"highlight\"&gt;- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies&lt;/style&gt;"
   },
   {
@@ -6361,5 +6361,47 @@
     "translation": "速度が最も高い味方1名が[Bullet]を消耗するスキルを使用時、対象より速度が3以上高ければ、与ダメージ量 +(対象との速度差 × <style=\"highlight\">3</style>)% (最大<style=\"highlight\">15%</style>)\n([Bullet]がなければ適用されない。ただし、[Bullet]バフは保有しているが数値が0の場合は効果が適用される)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n속도가 가장 빠른 아군 1명이 [Bullet]을 소모하는 스킬 사용 시 대상보다 속도가 3 이상 높다면, 가하는 피해량 +(대상과의 속도 차이 x &lt;style=\"highlight\"&gt;3&lt;/style&gt;)% (최대 &lt;style=\"highlight\"&gt;15%&lt;/style&gt;)\n([Bullet]이 없으면 적용되지 않음. 단, [Bullet] 버프는 보유하였으나 수치가 0인 경우에는 효과가 적용됨)\nEN:\nWhen 1 ally with the fastest Speed uses a Skill that spends [Bullet], if their Speed is faster than the target's by 3 or more, deal +(Speed difference × &lt;style=\"highlight\"&gt;3&lt;/style&gt;)% more damage (max &lt;style=\"highlight\"&gt;15%&lt;/style&gt;).\n(This effect does not activate if the affected unit lacks the [Bullet] buff entirely. However, it will activate if they have the [Bullet] buff, even if they have 0 rounds left)"
+  },
+  {
+    "key": "1011301-name",
+    "original": "凶弾\n<CMT_KR>\n<CMT_JP>",
+    "translation": "凶弾\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흉탄\nEN:\nFell Bullet"
+  },
+  {
+    "key": "1011301-desc",
+    "original": "戦闘中に自分の攻撃で味方を死亡させたなら、次のターンの間[FellBulletPersonality]を得る(自分のE.G.O侵蝕および味方への攻撃を含む)\n自分のE.G.O凶弾を使用して[BoseProjektil]が消耗されたら、ターン終了時に消耗された分だけ次のターンに[BoseProjektil]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中に自分の攻撃で味方を死亡させたなら、次のターンの間[FellBulletPersonality]を得る(自分のE.G.O侵蝕および味方への攻撃を含む)\n自分のE.G.O凶弾を使用して[BoseProjektil]が消耗されたら、ターン終了時に消耗された分だけ次のターンに[BoseProjektil]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 자신의 공격으로 아군을 사망시켰으면, 다음 턴동안 [FellBulletPersonality]을 얻음 (자신의 E.G.O 침식 및 아군 공격 포함)\n자신의 E.G.O 흉탄을 사용하여, [BoseProjektil]이 소모되면, 턴 종료 시 소모한만큼 다음 턴에 [BoseProjektil]을 얻음\nEN:\nIf this unit killed an allied unit with its attack, gain [FellBulletPersonality] for the next turn (including with this unit's 'E.G.O Corrosion' and attacks against allies)\nIf this unit uses its E.G.O 'Fell Bullet' and consumes [BoseProjektil]: next turn, gain [BoseProjektil] equal to the amount of it consumed by the end of the last turn."
+  },
+  {
+    "key": "1011302-name",
+    "original": "揮発した追憶\n<CMT_KR>\n<CMT_JP>",
+    "translation": "揮発した追憶\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휘발된 추억\nEN:\nVolatilized Memory"
+  },
+  {
+    "key": "1011302-desc",
+    "original": "ターン終了時に自分の[BoseProjektil]を全て除去し、次のターンに除去した数値だけ[BoseProjektil]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に自分の[BoseProjektil]を全て除去し、次のターンに除去した数値だけ[BoseProjektil]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 종료 시 자신의 [BoseProjektil]을 전부 제거하고 다음 턴에 제거한 수치만큼 [BoseProjektil]을 얻음\nEN:\nTurn End: lose all [BoseProjektil] on self. Next turn, gain [BoseProjektil] equal to the amount lost."
+  },
+  {
+    "key": "1011321-name",
+    "original": "対象指定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象指定\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상 지정\nEN:\nDesignate Target"
+  },
+  {
+    "key": "1011321-desc",
+    "original": "速度が最も低い味方が、味方を攻撃したなら攻撃終了時に次のターンにて[AttackDmgUp]を1得る(1ターンにつき最大2)\n- このとき味方が死亡したなら、上記の効果の代わりに今回の戦闘の間[AttackDmgUp]を1得る(ステージおよび人格ごとに最大2)\n- 上記の効果群で獲得できる[AttackDmgUp]は最大2まで\n<CMT_KR>\n<CMT_JP>",
+    "translation": "速度が最も低い味方が、味方を攻撃したなら攻撃終了時に次のターンにて[AttackDmgUp]を1得る(1ターンにつき最大2)\n- このとき味方が死亡したなら、上記の効果の代わりに今回の戦闘の間[AttackDmgUp]を1得る(ステージおよび人格ごとに最大2)\n- 上記の効果群で獲得できる[AttackDmgUp]は最大2まで\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도가 가장 느린 아군이 아군을 공격했다면 공격 종료 시, 다음 턴에 [AttackDmgUp]를 1 얻음 (턴 당 최대 2)\n- 이 때, 아군이 사망했으면, 위 효과를 대신하여 이번 전투 동안 [AttackDmgUp]를 1 얻음 (스테이지 및 인격당 최대 2)\n- 위 효과들로 얻는 [AttackDmgUp]는 최대 2까지만 얻어짐.\nEN:\nWhen the ally with the slowest Speed attacked an ally: After Attack, gain 1 [AttackDmgUp] next turn (2 times per turn)\n- If the attacked ally is killed by this attack, gain 1 [AttackDmgUp] for the whole Encounter instead (max 2 per Stage per Identity)\n- Can gain only up to 2 [AttackDmgUp] from the above effect."
   }
 ]

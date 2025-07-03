@@ -351,9 +351,9 @@
   },
   {
     "key": "2010711-levelList[2].desc",
-    "original": "体力が最も低い味方を優先して攻撃(味方優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力が最も低い味方を優先して攻撃(味方優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오기: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 정확: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"\n<CMT_JP>誤記: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 訂正後: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"",
-    "stage": 1,
+    "original": "体力が最も低い味方を優先して攻撃(味方優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最も低い味方を優先して攻撃(味方優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n&lt;style=\"highlight\"&gt;- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)&lt;/style&gt;\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
   },
   {
@@ -428,9 +428,9 @@
   },
   {
     "key": "2010721-levelList[0].desc",
-    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1ダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오기: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 +2%(最大14%)\" 정확: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 +2%(最大14%)\"\n<CMT_JP>誤記: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 +2%(最大14%)\" 訂正後: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 +2%(最大14%)\"",
-    "stage": 1,
+    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 +2%(最大14%)\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 +2% (최대 14%)\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
   },
   {
@@ -519,9 +519,9 @@
   },
   {
     "key": "2010721-levelList[1].desc",
-    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오기: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\" 정확: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\"\n<CMT_JP>誤記: \"[BeforeAttack] [BoseProjektil]1「」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\" 訂正後: \"[BeforeAttack] [BoseProjektil]1「につき」ダメージ量 <style=\"highlight\">+3%(最大21%)</style>\"",
-    "stage": 1,
+    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+3%(最大21%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n[BeforeAttack] [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+3% (최대 21%)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Deal &lt;style=\"highlight\"&gt;+3%&lt;/style&gt; damage for every [BoseProjektil] (max &lt;style=\"highlight\"&gt;21%&lt;/style&gt;)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
   },
   {
@@ -610,9 +610,9 @@
   },
   {
     "key": "2010721-levelList[2].desc",
-    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>오기: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 정확: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"\n<CMT_JP>誤記: \"<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「」得る(最大7)</style>\" 訂正後: \"この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]「を」得る(最大7)\"",
-    "stage": 1,
+    "original": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\n体力が最も低い味方を優先して攻撃(味方を優先指定)\n[BeforeAttack] (最大共鳴数 +1)だけ[BoseProjektil]を得る(最大7)\n<style=\"highlight\">- 該当共鳴が傲慢共鳴なら、この効果の代わりに(最大共鳴数 × 2)だけ[BoseProjektil]を得る(最大7)</style>\n[BeforeAttack] [BoseProjektil]1につきダメージ量 <style=\"highlight\">+4%(最大28%)</style>\n[BeforeAttack] [BoseProjektil]1につき[Breath]を1得る(最大7)\n[EndSkill] [BoseProjektil]を全て消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[CantIdentify]\n체력이 가장 낮은 대상 우선 공격 (아군 우선 지정)\n[BeforeAttack] (최대 공명 수 + 1)만큼 [BoseProjektil]을 얻음 (최대 7)\n&lt;style=\"highlight\"&gt;- 해당 공명이 오만 공명이면, 효과를 대신하여 (최대 공명 수 x 2)만큼 [BoseProjektil]을 얻음 (최대 7)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 피해량 &lt;style=\"highlight\"&gt;+4% (최대 28%)&lt;/style&gt;\n[BeforeAttack] [BoseProjektil]당 [Breath] 1 얻음 (최대 7)\n[EndSkill] [BoseProjektil] 전부 소모\nEN:\n[CantIdentify]\nPrioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n&lt;style=\"highlight\"&gt;- If the said Reson. was a Pride Reson., gain (highest Reson. x 2) [BoseProjektil] instead (max 7)&lt;/style&gt;\n[BeforeAttack] Deal &lt;style=\"highlight\"&gt;+4%&lt;/style&gt; damage for every [BoseProjektil] (max 28%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]"
   },
   {

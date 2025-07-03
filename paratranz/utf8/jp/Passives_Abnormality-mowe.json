@@ -50,9 +50,9 @@
   },
   {
     "key": "835004-desc",
-    "original": "[Laceration]威力と回数の合成が最も高い対象を優先して攻撃\n攻撃的中時、対象に[Laceration]があれば体力を最大値の2%だけ体力を回復\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Laceration]威力と回数の合計が最も高い対象を優先して攻撃\n攻撃的中時、対象に[Laceration]があれば最大体力の2%だけ体力回復\n<CMT_KR>오식1: \"威力と回数の「合成」が最も高い対象を優先して攻撃\" 정확1: \"威力と回数の「合計」が最も高い対象を優先して攻撃\" 오식2: \"攻撃的中時、対象に[Laceration]があれば「体力を最大値の2%だけ体力を回復」\" 정확2: \"攻撃的中時、対象に[Laceration]があれば「最大体力の2%だけ体力回復」\"\n<CMT_JP>誤植1: \"威力と回数の「合成」が最も高い対象を優先して攻撃\" 訂正後1: \"威力と回数の「合計」が最も高い対象を優先して攻撃\" 誤植2: \"攻撃的中時、対象に[Laceration]があれば「体力を最大値の2%だけ体力を回復」\" 訂正後2: \"攻撃的中時、対象に[Laceration]があれば「最大体力の2%だけ体力回復」\"",
-    "stage": 1,
+    "original": "[Laceration]威力と回数の合計が最も高い対象を優先して攻撃\n攻撃的中時、対象に[Laceration]があれば体力を最大値の2%だけ回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Laceration]威力と回数の合計が最も高い対象を優先して攻撃\n攻撃的中時、対象に[Laceration]があれば体力を最大値の2%だけ回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[Laceration] 위력과 횟수의 합이 가장 높은 대상 우선 공격\n공격 적중시 대상에게 [Laceration]이 있으면, 최대 체력의 2%만큼 체력 회복\nEN:\nPrioritizes targets with the highest sum of [Laceration] Potency and Count\nOn Hit, if the target has [Laceration], heal 2% HP"
   },
   {

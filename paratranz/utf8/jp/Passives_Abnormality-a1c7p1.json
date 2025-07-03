@@ -50,9 +50,9 @@
   },
   {
     "key": "837104-desc",
-    "original": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃的無かったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
-    "translation": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃出来なかったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>오기: \"前のターンにて攻撃「的無」かったときは初期化される。\" 정확: \"前のターンにて攻撃「出来な」かったときは初期化される。\"\n<CMT_JP>誤記: \"前のターンにて攻撃「的無」かったときは初期化される。\" 訂正後: \"前のターンにて攻撃「出来な」かったときは初期化される。\"",
-    "stage": 1,
+    "original": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃できなかったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "前のターンに攻撃成功したスロットにスキル使用時、累計の攻撃ターン数によって下記の効果を得る。\n前のターンにて攻撃できなかったときは初期化される。\n- 攻撃成功累計1ターン: マッチ威力 +1\n- 攻撃成功累計2ターン: 基本威力 +1\n- 攻撃成功累計3ターン: 基本威力 +1, コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n이전 턴에 공격 성공한 슬롯에 스킬 사용시 누적된 공격 성공 턴 수에 따라 다음과 같은 효과를 얻음.\n이전 턴에 공격하지 못했을 때, 초기화됨.\n- 공격 성공 누적 1턴: 합 위력 +1\n- 공격 성공 누적 2턴: 기본 위력 + 1\n- 공격 성공 누적 3턴: 기본 위력 + 1, 코인 위력 + 1\nEN:\nWhen using a Skill against the same Slot this unit successfully hit last turn, gain the following effects based on the number of consecutive turns it successfully hit the Slot\nResets if this unit failed to attack last turn.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
   },
   {

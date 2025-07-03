@@ -169,8 +169,8 @@
   },
   {
     "key": "9413-desc",
-    "original": "味方が[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルで敵とマッチにて勝利すると、[NailPersonality]を1~2付与。\n\nN社の狂信者所属の場合、ターン開始時に狂信1を得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "味方が[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルで敵とマッチにて勝利すると、[NailPersonality]を1~2付与。\n\nN社の狂信者所属の場合、ターン開始時に狂信1を得る\n<CMT_KR>\n<CMT_JP>",
+    "original": "味方が[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルで敵とマッチにて勝利すると、[NailPersonality]を1～2付与。\n\nN社の狂信者所属の場合、ターン開始時に狂信1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が[Laceration]威力、[Laceration]回数、または特殊出血を与えるスキルで敵とマッチにて勝利すると、[NailPersonality]を1～2付与。\n\nN社の狂信者所属の場合、ターン開始時に狂信1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아군이 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬로 적과 합하여 승리 시, [NailPersonality] 1 ~ 2 부여.\n\nN사 광신도 소속일 경우, 턴 시작 시 광신 1 얻음.\nEN:\nWhen an ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1~2 [NailPersonality].\n\nIf the said ally is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start."
   },
@@ -260,9 +260,9 @@
   },
   {
     "key": "9416-simpleDesc[0].simpleDesc",
-    "original": "マッチ威力時、[NailPersonality]2～3を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "マッチ勝利時、[NailPersonality]2～3を付与\n<CMT_KR>오기: \"マッチ「威力」時、[NailPersonality]2～3を付与\" 정확: \"マッチ「勝利」時、[NailPersonality]2～3を付与\"\n<CMT_JP>誤記: \"マッチ「威力」時、[NailPersonality]2～3を付与\" 訂正後: \"マッチ「勝利」時、[NailPersonality]2～3を付与\"",
-    "stage": 1,
+    "original": "マッチ勝利時、[NailPersonality]2～3を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、[NailPersonality]2～3を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n합 승리 시, [NailPersonality] 2 ~ 3 부여\nEN:\nClash Win: inflict 2~3 [NailPersonality]"
   },
   {
@@ -428,9 +428,9 @@
   },
   {
     "key": "9430-desc",
-    "original": "ウェーブの1ターン目が開始時、全味方が[Breath]5を得て[Breath]回数が5増加。\n\nターン終了時、[Breath]威力と[Breath]回数の合計が最も多い味方1人に、次のターンにて[Agility]2, [AttackUp]3, [AttackDmgUp]3を付与。\n\nピークォド号所属の人格スキル威力 +2, の最大速度 +2\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ウェーブの1ターン目が開始時、全味方が[Breath]5を得て[Breath]回数が5増加。\n\nターン終了時、[Breath]威力と[Breath]回数の合計が最も多い味方1人に、次のターンにて[Agility]2, [AttackUp]3, [AttackDmgUp]3を付与。\n\nピークォド号所属の人格スキル威力 +2, 最大速度 +2\n<CMT_KR>오기: \"ピークォド号所属の人格スキル威力 +2, 「の」最大速度 +2\" 정확: \"ピークォド号所属の人格スキル威力 +2, 「」最大速度 +2\"\n<CMT_JP>誤記: \"ピークォド号所属の人格スキル威力 +2, 「の」最大速度 +2\" 訂正後: \"ピークォド号所属の人格スキル威力 +2, 「」最大速度 +2\"",
-    "stage": 1,
+    "original": "ウェーブの1ターン目が開始時、全味方が[Breath]5を得て[Breath]回数が5増加。\n\nターン終了時、[Breath]威力と[Breath]回数の合計が最も多い味方1人に、次のターンにて[Agility]2, [AttackUp]3, [AttackDmgUp]3を付与。\n\nピークォド号所属の人格スキル威力 +2, 最大速度 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの1ターン目が開始時、全味方が[Breath]5を得て[Breath]回数が5増加。\n\nターン終了時、[Breath]威力と[Breath]回数の合計が最も多い味方1人に、次のターンにて[Agility]2, [AttackUp]3, [AttackDmgUp]3を付与。\n\nピークォド号所属の人格スキル威力 +2, 最大速度 +2\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n웨이브 첫 턴 시작 시, 모든 아군이 [Breath] 5 얻고 [Breath] 횟수 5 증가.\n\n턴 종료 시 [Breath] 위력과 [Breath] 횟수의 합이 가장 높은 아군 하나에게 다음 턴에 [Agility] 2, [AttackUp] 3, [AttackDmgUp] 3 부여.\n\n피쿼드호 소속 인격의 스킬 위력 +2, 최대 속도값 +2.\nEN:\nFirst Turn Start of a wave: all allies gain 5 [Breath] and +5 [Breath] Count.\n\nTurn End: 1 ally with the highest sum of [Breath] Potency and Count gains 2 [Agility], 3 [AttackUp], and 3 [AttackDmgUp] next turn.\n\nThe Pequod Identities gain Skill Power +2 and Max Speed +2."
   },
   {
@@ -491,8 +491,8 @@
   },
   {
     "key": "9434-desc",
-    "original": "ウェーブの1ターン目が開始時、速度が最も低い敵2体(幻想体の場合はランダムな部位2つ、敵が単一の場合は効果が重複しない)を選択し、次のターンからターン開始時に[Binding]5, [DefenseDown]3を付与。\n\n敵の混乱が解けるときに、保有する混乱区間がなければ対象の現体力の66%を基準に新しい混乱区間を追加(戦闘につき3回)。味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の半分だけ他のランダムな敵(幻想体の場合は部位)に[Vibration]威力を配分し、混乱対象の保有する[Vibration]威力が2倍に増加する。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ウェーブの1ターン目が開始時、速度が最も低い敵2体(幻想体の場合はランダムな部位2つ、敵が単一の場合は効果が重複しない)を選択し、次のターンからターン開始時に[Binding]5, [DefenseDown]3を付与。\n\n敵の混乱が解けるときに、保有する混乱区間がなければ対象の現体力の66%を基準に新しい混乱区間を追加(戦闘につき3回)。味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の半分だけ他のランダムな敵(幻想体の場合は部位)に[Vibration]威力を配分し、混乱対象の保有する[Vibration]威力が2倍に増加する。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ウェーブの1ターン目が開始時、速度が最も低い敵2体(幻想体の場合はランダムな部位2つ、敵が単一の場合は効果が重複しない)を選択し、次のターンからターン開始時に[Binding]5, [DefenseDown]3を付与。\n\n敵の混乱が解けるときに、保有する混乱区間がなければ対象の現体力の66%を基準に新しい混乱区間を追加(戦闘につき3回)。味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の半分だけ他のランダムな敵(幻想体の場合は部位)に[Vibration]威力を分けて付与し、混乱対象の保有する[Vibration]威力が2倍に増加する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ウェーブの1ターン目が開始時、速度が最も低い敵2体(幻想体の場合はランダムな部位2つ、敵が単一の場合は効果が重複しない)を選択し、次のターンからターン開始時に[Binding]5, [DefenseDown]3を付与。\n\n敵の混乱が解けるときに、保有する混乱区間がなければ対象の現体力の66%を基準に新しい混乱区間を追加(戦闘につき3回)。味方が[Vibration]威力または[Vibration]回数を付与する攻撃スキル(本人または味方を対象とする場合を含む)で敵を混乱させる場合(E.G.Oスキルは除く)、次のターンに対象が保有する[Vibration]威力の半分だけ他のランダムな敵(幻想体の場合は部位)に[Vibration]威力を分けて付与し、混乱対象の保有する[Vibration]威力が2倍に増加する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 둘(환상체일 경우 무작위 부위 둘, 적이 단일 대상일 경우 효과가 중첩되지 않음)를 선택하여 다음 턴부터 턴 시작 시 [Binding] 5, [DefenseDown] 3을 부여.\n\n적이 흐트러짐에서 풀려날 때, 보유한 흐트러짐 구간이 없다면 대상의 현재 체력 기준 66%에 새로운 흐트러짐 구간 추가 (전투 당 3회).아군이 [Vibration] 위력 또는 [Vibration] 횟수를 부여하는 공격 스킬(본인 또는 아군을 대상으로 하는 경우 포함)로 적을 흐트러뜨릴 경우 (E.G.O 스킬 제외), 다음 턴에 대상이 보유한 [Vibration] 위력의 절반만큼 다른 무작위 적들(환상체일 경우, 부위)에게 [Vibration] 위력을 나누어 부여하고 흐트러진 대상은 보유한 [Vibration] 위력이 2배로 증가.\nEN:\nFirst Turn Start of a wave: select 2 enemies with the slowest Speed(or 2 random Abnormality parts. The effect does not stack if the enemy is singular) and inflict 5 [Binding] and 3 [DefenseDown] at Turn Start starting next turn.\n\nWhen the enemy recovers from Stagger, and if they don't have any remaining Stagger Thresholds, create a new Stagger Threshold at 66% mark of the target's current HP (3 times per Encounter). If an ally Staggers an enemy with an Attack Skill(except E.G.O Skills) that applies [Vibration] Potency or [Vibration] Count(including on self or on ally), randomly inflict [Vibration] Potency equal to half of the [Vibration] Potency on target between other enemies(or other Abnormality parts), and increase [Vibration] Potency on the Staggered target by x2."
   },

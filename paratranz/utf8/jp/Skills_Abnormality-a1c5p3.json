@@ -506,7 +506,7 @@
   {
     "key": "810203-levelList[0].name",
     "original": "推し潰す\n<CMT_KR>\n<CMT_JP>",
-    "translation": "推し潰す\n<CMT_KR>오기: \"推し潰す\" 정확: \"押し潰す\"\n<CMT_JP>誤記: \"推し潰す\" 訂正後: \"押し潰す\"",
+    "translation": "押し潰す\n<CMT_KR>오기: \"推し潰す\" 정확: \"押し潰す\"\n<CMT_JP>誤記: \"推し潰す\" 訂正後: \"押し潰す\"",
     "stage": 1,
     "context": "KR:\n짓누르기\nEN:\nPress"
   },
@@ -1429,9 +1429,9 @@
   },
   {
     "key": "810403-levelList[0].desc",
-    "original": "[TurnStartBattle] クィークェグの援護防御バリア 数値が0寄り大木れば援護攻撃効果が発動する\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[TurnStartBattle] クィークェグの援護防御バリア 数値が0より大きければ援護攻撃効果が発動する\n<CMT_KR>오기: \"[TurnStartBattle] クィークェグの援護防御バリア 数値が0「寄り大木れば」援護攻撃効果が発動する\" 정확: \"クィークェグの援護防御バリア 数値が0「より大きければ」援護攻撃効果が発動する\"\n<CMT_JP>誤記: \"[TurnStartBattle] クィークェグの援護防御バリア 数値が0「寄り大木れば」援護攻撃効果が発動する\" 訂正後: \"クィークェグの援護防御バリア 数値が0「より大きければ」援護攻撃効果が発動する\"",
-    "stage": 1,
+    "original": "[TurnStartBattle] クィークェグの援護防御バリア 数値が0より大きければ援護攻撃効果が発動する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[TurnStartBattle] クィークェグの援護防御バリア 数値が0より大きければ援護攻撃効果が発動する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[TurnStartBattle] 퀴케그의 원호 방어 보호막 수치가 0보다 크면 원호 공격 효과가 발동함\nEN:\n[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Assist Attack"
   },
   {

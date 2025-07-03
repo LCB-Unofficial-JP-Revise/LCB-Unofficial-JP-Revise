@@ -266,20 +266,6 @@
     "context": "KR:\n아… 결국엔… 멈추는구나…\nEN:\nAh... So it stops... in the end..."
   },
   {
-    "key": "choice_success_p_11006_2-desc",
-    "original": "選択肢成功\n<CMT_KR>\n<CMT_JP>",
-    "translation": "選択肢成功\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
-    "context": "KR:\n선택지 성공\nEN:\nCheck Passed"
-  },
-  {
-    "key": "choice_success_p_11006_2-dlg",
-    "original": "思い通りになりましたね。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "思い通りになりましたね。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 1,
-    "context": "KR:\n뜻 대로 되었네요.\nEN:\nIt worked as we wished."
-  },
-  {
     "key": "choice_fail_n_11006_1-desc",
     "original": "選択肢失敗\n<CMT_KR>\n<CMT_JP>",
     "translation": "選択肢失敗\n<CMT_KR>\n<CMT_JP>",
@@ -334,5 +320,17 @@
     "translation": "やはり…呪われたものは、誰かを呪う材木にすらなれないのか…。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n역시… 저주 받은 것은 누군가를 저주할 재목 조차 되지 못하는 걸까…\nEN:\nIt must be... that the cursed can't so much as curse others..."
+  },
+  {
+    "key": "choice_success_p_11006_1-desc",
+    "original": "選択肢成功\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択肢成功\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1
+  },
+  {
+    "key": "choice_success_p_11006_1-dlg",
+    "original": "思い通りになりましたね。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "思い通りになりましたね。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1
   }
 ]

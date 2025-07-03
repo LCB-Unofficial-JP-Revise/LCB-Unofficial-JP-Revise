@@ -3844,9 +3844,9 @@
   },
   {
     "key": "804901-levelList[0].desc",
-    "original": "[WhenUse] 次のターンにがらんどうの証 を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンにがらんどうの印 を付与\n<CMT_KR>오기: \"[WhenUse] 次のターンにがらんどうの「証」 を付与\" 정확: \"[WhenUse] 次のターンにがらんどうの「印」 を付与\"\n<CMT_JP>誤記: \"[WhenUse] 次のターンにがらんどうの「証」 を付与\" 訂正後: \"[WhenUse] 次のターンにがらんどうの「印」 を付与\"",
-    "stage": 1,
+    "original": "[WhenUse] 次のターンにがらんどうの印 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンにがらんどうの印 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[WhenUse] 다음 턴에 텅 빈 징표 부여\nEN:\n[WhenUse] Inflict Empty Mark next turn"
   },
   {
@@ -4124,9 +4124,9 @@
   },
   {
     "key": "805003-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 火傷 1を付与。対象に火傷がある場合、追加で1付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 種 1を付与。対象に種がある場合、種 を追加で1付与\n<CMT_KR>오기: \"「火傷 1を付与。対象に火傷がある場合、追加で1付与」\" 정확: \"「種 1を付与。対象に種がある場合、種 を追加で1付与」\"\n<CMT_JP>誤記: \"「火傷 1を付与。対象に火傷がある場合、追加で1付与」\" 訂正後: \"「種 1を付与。対象に種がある場合、種 を追加で1付与」\"",
-    "stage": 1,
+    "original": "[OnSucceedAttack] 種 1を付与。対象に種がある場合、種 を追加で1付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 種 1を付与。対象に種がある場合、種 を追加で1付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[OnSucceedAttack] 씨앗 1 부여. 대상에게 씨앗이 있으면, 씨앗 1 추가 부여\nEN:\n[OnSucceedAttack] Inflict 1 Seeds; if target already has Seeds, inflict 1 more"
   },
   {

@@ -22,17 +22,17 @@
   },
   {
     "key": "mirror_dungeon_start_bonus_formation_rest_point-content",
-    "original": "休息ボーナス\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스\nEN:\nRest Bonus"
+    "context": "KR:\n별빛 보너스\nEN:\nStarlight Bonus"
   },
   {
     "key": "mirror_dungeon_start_bonus_formation_total-content",
-    "original": "休息\nボーナス\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息\nボーナス\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かり\nボーナス\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かり\nボーナス\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식\n보너스\nEN:\nRest\nBonus"
+    "context": "KR:\n별빛\n보너스\nEN:\nStarlight\nBonus"
   },
   {
     "key": "mirror_dungeon_start_buff_Panel_reset_selection-content",
@@ -50,17 +50,17 @@
   },
   {
     "key": "mirror_dungeon_reward_popup_rest_bonus_guide-content",
-    "original": "編成しない人格の休息ボーナスが1増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "編成しない人格の休息ボーナスが1増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "編成しない人格の星明かりボーナスが1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成しない人格の星明かりボーナスが1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n편성하지 않은 인격의 휴식 보너스 1 증가\nEN:\nAll Identities outside the current Team gain 1 Rest Bonus"
+    "context": "KR:\n편성하지 않은 인격의 별빛 보너스 1 증가\nEN:\nAll Identities outside the current Team gain 1 Starlight Bonus"
   },
   {
     "key": "mirror_user_start_buff-content",
-    "original": "休息ボーナス\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스\nEN:\nRest Bonus"
+    "context": "KR:\n별빛 보너스\nEN:\nStarlight Bonus"
   },
   {
     "key": "mirror_enemy_buff-content",
@@ -127,10 +127,10 @@
   },
   {
     "key": "mirror_start_buff_cannot_purchase_side_popup_desc-content",
-    "original": "休息ボーナス不足\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス不足\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス不足\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス不足\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 부족\nEN:\nNot Enough Rest Bonus"
+    "context": "KR:\n별빛 보너스 부족\nEN:\nNot Enough Starlight Bonus"
   },
   {
     "key": "user_enemy_buff_empty_list-content",
@@ -225,17 +225,17 @@
   },
   {
     "key": "mirror_start_buff_unlock_condition_needs_held_buff_points-content",
-    "original": "休息ボーナス {0}以上\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス {0}以上\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス {0}以上\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス {0}以上\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 {0}이상\nEN:\nAt {0}+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 {0}이상\nEN:\nAt {0}+ Starlight Bonus"
   },
   {
     "key": "mirror_start_buff_purchase_modal_after_selected_bonus-content",
-    "original": "残り休息ボーナス\n<CMT_KR>\n<CMT_JP>",
-    "translation": "残り休息ボーナス\n<CMT_KR>\n<CMT_JP>",
+    "original": "残り星明かりボーナス\n<CMT_KR>\n<CMT_JP>",
+    "translation": "残り星明かりボーナス\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n잔여 휴식 보너스\nEN:\nRemaining Rest Bonus"
+    "context": "KR:\n잔여 별빛 보너스\nEN:\nRemaining Starlight Bonus"
   },
   {
     "key": "mirror_start_buff_purchase_modal_exchanged_cost-content",
@@ -256,14 +256,14 @@
     "original": "この効果を選択しますか？\n<CMT_KR>\n<CMT_JP>",
     "translation": "この効果を選択しますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n이 효과를 선택하시겠습니까?\nEN:\nWill you select these effects?"
+    "context": "KR:\n이 효과를 선택하시겠습니까?\nEN:\nContinue with selected effects?"
   },
   {
     "key": "mirror_start_buff_purchase_modal_purchase_description-content",
-    "original": "残った休息ボーナスはコストに変換されます。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "残った休息ボーナスはコストに変換されます。\n<CMT_KR>\n<CMT_JP>",
+    "original": "残った星明かりボーナスはコストに変換されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "残った星明かりボーナスはコストに変換されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n남은 휴식 보너스는 코스트로 전환됩니다\nEN:\nRemaining Rest Bonus will be converted to Cost"
+    "context": "KR:\n남은 별빛 보너스는 코스트로 전환됩니다\nEN:\nRemaining Starlight Bonus will be converted to Cost"
   },
   {
     "key": "mirror_start_buff_applied_passive-content",
@@ -291,7 +291,7 @@
     "original": "選択しない\n<CMT_KR>\n<CMT_JP>",
     "translation": "選択しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n선택하지 않음\nEN:\nDon't Select Any"
+    "context": "KR:\n선택하지 않음\nEN:\nNone Selected"
   },
   {
     "key": "dungeon_shop_heal_title_all_season5-content",
@@ -673,10 +673,10 @@
   },
   {
     "key": "mirror_start_buff_unlock_condition_lack_of_current_point-content",
-    "original": "休息ボーナス不足\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス不足\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス不足\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス不足\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 부족\nEN:\nNot Enough Rest Bonus"
+    "context": "KR:\n별빛 보너스 부족\nEN:\nNot Enough Starlight Bonus"
   },
   {
     "key": "mirror_theme_pack_baton-content",
@@ -785,45 +785,45 @@
   },
   {
     "key": "mirror_dungeon_5_buffs_over10-content",
-    "original": "休息ボーナスを[10]以上保有\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナスを[10]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナスを[10]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナスを[10]以上保有\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 [10] 이상 보유\nEN:\nAt [10]+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 [10] 이상 보유\nEN:\nAt [10]+ Starlight Bonus"
   },
   {
     "key": "mirror_dungeon_5_buffs_over20-content",
-    "original": "休息ボーナスを[20]以上保有\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナスを[20]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナスを[20]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナスを[20]以上保有\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 [20] 이상 보유\nEN:\nAt [20]+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 [20] 이상 보유\nEN:\nAt [20]+ Starlight Bonus"
   },
   {
     "key": "mirror_dungeon_5_buffs_over30-content",
-    "original": "休息ボーナスを[30]以上保有\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナスを[30]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナスを[30]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナスを[30]以上保有\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 [30] 이상 보유\nEN:\nAt [30]+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 [30] 이상 보유\nEN:\nAt [30]+ Starlight Bonus"
   },
   {
     "key": "mirror_dungeon_5_buffs_over40-content",
-    "original": "休息ボーナスを[40]以上保有\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナスを[40]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナスを[40]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナスを[40]以上保有\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 [40] 이상 보유\nEN:\nAt [40]+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 [40] 이상 보유\nEN:\nAt [40]+ Starlight Bonus"
   },
   {
     "key": "mirror_dungeon_5_buffs__over50-content",
-    "original": "休息ボーナスを[50]以上保有\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナスを[50]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナスを[50]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナスを[50]以上保有\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 [50] 이상 보유\nEN:\nAt [50]+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 [50] 이상 보유\nEN:\nAt [50]+ Starlight Bonus"
   },
   {
     "key": "mirror_dungeon_5_buffs__over60-content",
-    "original": "休息ボーナスを[60]以上保有\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナスを[60]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナスを[60]以上保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナスを[60]以上保有\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 [60] 이상 보유\nEN:\nAt [60]+ Rest Bonus"
+    "context": "KR:\n별빛 보너스 [60] 이상 보유\nEN:\nAt [60]+ Starlight Bonus"
   },
   {
     "key": "mirrordungeon_egogift_combine_guide_result_label_upgrade-content",
@@ -862,17 +862,17 @@
   },
   {
     "key": "mirrordungeon_start_bonus_personality_title-content",
-    "original": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 보존 대상\nEN:\nRest Bonus Retention Units"
+    "context": "KR:\n별빛 보너스 보존 대상\nEN:\nStarlight Bonus Retention Units"
   },
   {
     "key": "mirrordungeon_start_bonus_personality_desc-content",
-    "original": "休息ボーナス保存期間中、該当人格で鏡ダンジョンクリア時に休息ボーナスが消耗されません。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス保存期間中、該当人格で鏡ダンジョンクリア時に休息ボーナスが消耗されません。\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス保存期間中、該当人格で鏡ダンジョンをクリアしても星明かりボーナスが消耗されません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス保存期間中、該当人格で鏡ダンジョンをクリアしても星明かりボーナスが消耗されません。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 보존 기간 동안 해당 인격으로 거울 던전 클리어 시 휴식 보너스가 소모되지 않습니다.\nEN:\nFor the retention duration, these units' Rest Bonuses will not be spent upon clearing a Mirror Dungeon run."
+    "context": "KR:\n별빛 보너스 보존 기간 동안 해당 인격으로 거울 던전 클리어 시 별빛 보너스가 소모되지 않습니다.\nEN:\nFor the retention duration, these units' Starlight Bonuses will not be spent upon clearing a Mirror Dungeon run."
   },
   {
     "key": "mirrordungeon_start_bonus_personality_label-content",
@@ -883,10 +883,10 @@
   },
   {
     "key": "mirrordungeon_start_bonus_personality_button_label-content",
-    "original": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
-    "translation": "休息ボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス保存対象\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n휴식 보너스 보존 대상\nEN:\nRest Bonus Retention Units"
+    "context": "KR:\n별빛 보너스 보존 대상\nEN:\nStarlight Bonus Retention Units"
   },
   {
     "key": "mirrordungeon_start_bonus_personality_period-content",

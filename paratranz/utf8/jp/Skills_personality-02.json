@@ -1583,9 +1583,9 @@
   },
   {
     "key": "1021104-levelList[0].desc",
-    "original": "[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>오기: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 정확: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"\n<CMT_JP>誤記: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 訂正後: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"",
-    "stage": 1,
+    "original": "[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[WhenUse] 자신의 [Combustion] 5 감소 (턴 당 1회)\n[OnSucceedEvade] 자신의 [Combustion] 5 감소 (턴 당 1회)\nEN:\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)"
   },
   {
@@ -1597,9 +1597,9 @@
   },
   {
     "key": "1021104-levelList[1].desc",
-    "original": "[WhenUse] 自分の[Combustion]が10以上なら、コイン威力 +3\n[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、コイン威力 +3\n[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>오기: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 정확: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"\n<CMT_JP>誤記: \"[OnSucceedEvade] 自分「」[Combustion]が5減少(1ターンにつき1回)\" 訂正後: \"[OnSucceedEvade] 自分「の」[Combustion]が5減少(1ターンにつき1回)\"",
-    "stage": 1,
+    "original": "[WhenUse] 自分の[Combustion]が10以上なら、コイン威力 +3\n[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[Combustion]が10以上なら、コイン威力 +3\n[WhenUse] 自分の[Combustion]が5減少(1ターンにつき1回)\n[OnSucceedEvade] 自分の[Combustion]が5減少(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[WhenUse] 자신의 [Combustion]이 10 이상이면, 코인 위력 +3\n[WhenUse] 자신의 [Combustion] 5 감소 (턴 당 1회)\n[OnSucceedEvade] 자신의 [Combustion] 5 감소 (턴 당 1회)\nEN:\n[WhenUse] At 10+ [Combustion], Coin Power +3\n[WhenUse] Lose 5 [Combustion] (once per turn)\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)"
   },
   {

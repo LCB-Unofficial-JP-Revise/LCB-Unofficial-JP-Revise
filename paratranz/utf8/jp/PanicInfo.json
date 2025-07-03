@@ -239,9 +239,9 @@
   },
   {
     "key": "1012-panicDescription",
-    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に3度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_JP>",
-    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>오기: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" 정확: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"\n<CMT_JP>誤記: \"マッチ中に「3度」でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\" 訂正後: \"マッチ中に「1度」でもコイン裏面が出ると該当マッチの間、\"",
-    "stage": 1,
+    "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n&lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 3 얻음. 합 중 코인이 한 번이라도 뒷면이라면, 해당 합 동안 합 위력 -3.\nEN:\nGain 3 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
   },
   {

@@ -176,8 +176,8 @@
   },
   {
     "key": "854201-desc",
-    "original": "腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_JP>",
-    "translation": "腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_JP>",
+    "original": "腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "腕部破壊時、全部位が毎ターン攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n팔 부위 파괴 시, 모든 부위 매 턴마다 공격 위력 감소 1 얻음.\nEN:\nWhen the arm is broken, all parts gain 1 Attack Power Down every turn."
   },
@@ -344,8 +344,8 @@
   },
   {
     "key": "854701-desc",
-    "original": "腕部破壊時、毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_JP>",
-    "translation": "腕部破壊時、毎ターン攻撃威力減少 1を得る.\n<CMT_KR>\n<CMT_JP>",
+    "original": "腕部破壊時、毎ターン攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "腕部破壊時、毎ターン攻撃威力減少 1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n팔 부위 파괴 시, 매 턴마다 공격 위력 감소 1 얻음.\nEN:\nWhen the arm is broken, the unit gains 1 Attack Power Down every turn."
   },
@@ -638,8 +638,8 @@
   },
   {
     "key": "855101-desc",
-    "original": "ターン終了時に体力が6~24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時に体力が6~24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時に体力が6～24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に体力が6～24%残っているなら、体力を最大値の80%本体と部位体力を即回復。混乱状態を解除。(最大1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 체력이 6% ~ 24%사이로 남았을 때, 전체 체력의 80%만큼 본체와 부위체력 즉시 회복. 흐트러짐 상태 해제. (최대 1회)\nEN:\nAt the end of the turn, if the HP is between 6% and 24%, Core parts instantly heal up to 80% of Max HP, and recover from stagger. (One-time only)"
   },
@@ -792,9 +792,9 @@
   },
   {
     "key": "855507-desc",
-    "original": "毎ターン、蓄積された80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "毎ターン、蓄積された過去80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。\n<CMT_KR>오기: \"毎ターン、蓄積された「」80につき攻撃威力増加 1を得る。\" 정확: \"毎ターン、蓄積された「過去」80につき攻撃威力増加 1を得る。\"\n<CMT_JP>誤記: \"毎ターン、蓄積された「」80につき攻撃威力増加 1を得る。\" 訂正後: \"毎ターン、蓄積された「過去」80につき攻撃威力増加 1を得る。\"",
-    "stage": 1,
+    "original": "毎ターン、蓄積された過去80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "毎ターン、蓄積された過去80につき攻撃威力増加 1を得る。\n<sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">蓄積された過去</color></link></u>が80を越えると、スロットが1つ追加。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n매 턴마다 축적된 과거 80당 공격 위력 증가 1 얻음.\n&lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPast\"&gt;축적된 과거&lt;/color&gt;&lt;/link&gt;</u>가 80을 넘었다면, 슬롯 1개 추가.\nEN:\nGain 1 Attack Power Up for every 80 Accumulated Past every turn.\nAt 80+ &lt;sprite name=\"AccumulatedPast\"&gt;&lt;color=#a16a3b&gt;<u>&lt;link=\"AccumulatedPast\"&gt;Accumulated Past&lt;/color&gt;&lt;/link&gt;</u>, gain +1 Slot."
   },
   {

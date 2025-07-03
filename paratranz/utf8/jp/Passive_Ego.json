@@ -988,9 +988,9 @@
   },
   {
     "key": "2060611-desc",
-    "original": "自分に敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分が敵にスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)\n<CMT_KR>오기: \"自分「に」敵「へ」スキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。\" 정확: \"自分「が」敵「に」スキルを使用して[VibrationExplosion]付与時、\"\n<CMT_JP>誤記: \"自分「に」敵「へ」スキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。\" 訂正後: \"自分「が」敵「に」スキルを使用して[VibrationExplosion]付与時、\"",
-    "stage": 1,
+    "original": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여. (턴 당 최대 3회, E.G.O 스킬 포함)\nEN:\nWhen this unit uses a Skill to trigger [VibrationExplosion] on an enemy, inflict 1 [AttackDown] and 2 [DefenseDown] on the enemy next turn. (3 times per turn, including E.G.O Skills)"
   },
   {
@@ -1030,9 +1030,9 @@
   },
   {
     "key": "2020611-desc",
-    "original": "自分に敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分が敵にスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)\n<CMT_KR>오기: \"自分「に」敵「へ」スキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。\" 정확: \"自分「が」敵「に」スキルを使用して[VibrationExplosion]付与時、\"\n<CMT_JP>誤記: \"自分「に」敵「へ」スキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。\" 訂正後: \"自分「が」敵「に」スキルを使用して[VibrationExplosion]付与時、\"",
-    "stage": 1,
+    "original": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [Agility] 1 얻음 (턴 당 최대 4회, E.G.O 스킬 포함)\nEN:\nWhen this unit uses a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)"
   },
   {

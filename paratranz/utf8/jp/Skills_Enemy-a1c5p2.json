@@ -750,8 +750,8 @@
   },
   {
     "key": "9009504-levelList[0].desc",
-    "original": "[WhenUse] 保護2を得る\nバリアが残っているとき、被ダメージに対象へ蒼白な騒音 1を付与\n[EndBattle] 自分の体力を残存しているバリアの2倍だけ回復する。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 保護2を得る\nバリアが残っているとき、被ダメージに対象へ蒼白な騒音 1を付与\n[EndBattle] 自分の体力を残存しているバリアの2倍だけ回復する。\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 保護2を得る\nバリアが残っているとき、被ダメージ時に対象へ蒼白な騒音 1を付与\n[EndBattle] 自分の体力を残存しているバリアの2倍だけ回復する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 保護2を得る\nバリアが残っているとき、被ダメージ時に対象へ蒼白な騒音 1を付与\n[EndBattle] 自分の体力を残存しているバリアの2倍だけ回復する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 보호 2 얻음\n보호막이 남았을 때 피격 시 대상에게 창백한 소음 1 부여\n[EndBattle] 자신의 체력을 남은 보호막의 2배만큼 회복함.\nEN:\n[WhenUse] Gain 2 Protection\nWhen attacked while this unit has Shield, inflict 1 Pallid Noise to the target\n[EndBattle] Heal HP by x2 of the remaining Shield HP."
   },

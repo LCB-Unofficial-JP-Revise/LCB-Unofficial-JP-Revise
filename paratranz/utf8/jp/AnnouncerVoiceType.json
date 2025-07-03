@@ -1,0 +1,212 @@
+[
+  {
+    "key": "Danger-content",
+    "original": "緊迫した状況\n<CMT_KR>\n<CMT_JP>",
+    "translation": "緊迫した状況\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n긴박한 상황\nEN:\nDanger"
+  },
+  {
+    "key": "SpecialSkill-content",
+    "original": "強力スキル警告\n<CMT_KR>\n<CMT_JP>",
+    "translation": "強力スキル警告\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n강력한 스킬 경고\nEN:\nPowerful Enemy Skill Warning"
+  },
+  {
+    "key": "SpecialGimmick-content",
+    "original": "特殊ギミックアラート\n<CMT_KR>\n<CMT_JP>",
+    "translation": "特殊ギミックアラート\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n특수 기믹 알림\nEN:\nEnemy Gimmick Warning"
+  },
+  {
+    "key": "AllyDebuff-content",
+    "original": "味方に特殊なデバフ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方に特殊なデバフ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군에게 특수한 디버프\nEN:\nDebuffed Allies"
+  },
+  {
+    "key": "AllyBuff-content",
+    "original": "味方に特殊なバフ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方に特殊なバフ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군에게 특수한 버프\nEN:\nBuffed Allies"
+  },
+  {
+    "key": "SpecialCheer-content",
+    "original": "状況別応援\n<CMT_KR>\n<CMT_JP>",
+    "translation": "状況別応援\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상황별 응원\nEN:\nSituational Rally"
+  },
+  {
+    "key": "EnemyAdv-content",
+    "original": "敵有利\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵有利\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 우세\nEN:\nEnemy Advantage"
+  },
+  {
+    "key": "AllyDead-content",
+    "original": "味方死亡時\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方死亡時\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 사망 시\nEN:\nAlly Death"
+  },
+  {
+    "key": "AllyBigDamage_Round-content",
+    "original": "大ダメージを受けた後に次のターン開始\n<CMT_KR>\n<CMT_JP>",
+    "translation": "大ダメージを受けた後に次のターン開始\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큰 피해 입은 후 다음 턴 시작\nEN:\nStarting Turn after taking Devastating Damage"
+  },
+  {
+    "key": "AllyAdvEx-content",
+    "original": "味方逆転\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方逆転\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 역전\nEN:\nAlly Turnabout"
+  },
+  {
+    "key": "AllyAdv-content",
+    "original": "味方有利\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方有利\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 우세\nEN:\nAlly Advantage"
+  },
+  {
+    "key": "AllyBreak-content",
+    "original": "味方混乱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方混乱\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 흐트러짐\nEN:\nAlly Staggered"
+  },
+  {
+    "key": "KillEnemy-content",
+    "original": "敵討伐時\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵討伐時\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 처치 시\nEN:\nEnemy Kill"
+  },
+  {
+    "key": "EnemyDestroy_RoundStart-content",
+    "original": "敵部位破壊後に次のターン開始\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵部位破壊後に次のターン開始\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 부위 파괴 후 다음 턴 시작\nEN:\nStarting Turn after Breaking Enemy Part"
+  },
+  {
+    "key": "EnemyBigDamage_Round-content",
+    "original": "大ダメージを与えた後に次のターン開始\n<CMT_KR>\n<CMT_JP>",
+    "translation": "大ダメージを与えた後に次のターン開始\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큰 피해 입힌 후 다음 턴 시작\nEN:\nStarting Turn after dealing Devastating Damage"
+  },
+  {
+    "key": "EnemyBreak-content",
+    "original": "敵混乱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵混乱\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 흐트러짐\nEN:\nEnemy Staggered"
+  },
+  {
+    "key": "Cheer-content",
+    "original": "応援\n<CMT_KR>\n<CMT_JP>",
+    "translation": "応援\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n응원\nEN:\nRally"
+  },
+  {
+    "key": "AllyBigDamage-content",
+    "original": "大ダメージを受けた場合\n<CMT_KR>\n<CMT_JP>",
+    "translation": "大ダメージを受けた場合\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큰 피해 입을 시\nEN:\nTaking Devastating Damage"
+  },
+  {
+    "key": "EnemyBigDamage-content",
+    "original": "大ダメージを与えた場合\n<CMT_KR>\n<CMT_JP>",
+    "translation": "大ダメージを与えた場合\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n큰 피해 입힐 시\nEN:\nDealing Devastating Damage"
+  },
+  {
+    "key": "EnemyDestroy_Battle-content",
+    "original": "敵部位破壊\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵部位破壊\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적 부위 파괴\nEN:\nBreaking Enemy Part"
+  },
+  {
+    "key": "MultiKillEnemy-content",
+    "original": "味方が敵を多数討伐時\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が敵を多数討伐時\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 적 다수 처치 시\nEN:\nAlly Multikill"
+  },
+  {
+    "key": "Equip-content",
+    "original": "バトルアナウンサー装着\n<CMT_KR>\n<CMT_JP>",
+    "translation": "バトルアナウンサー装着\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배틀 아나운서 장착\nEN:\nEquipping Announcer"
+  },
+  {
+    "key": "PhysicalAdv-content",
+    "original": "適した物理ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "適した物理ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적합한 물리 피해\nEN:\nAdvantageous Attack Type"
+  },
+  {
+    "key": "AttrAdv-content",
+    "original": "適した属性ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "適した属性ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적합한 속성 피해\nEN:\nAdvantageous Affinity Type"
+  },
+  {
+    "key": "PhysicalDisadv-content",
+    "original": "適していない物理ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "適していない物理ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부적합한 물리 피해\nEN:\nDisadvantageous Attack Type"
+  },
+  {
+    "key": "AttrDisadv-content",
+    "original": "適していない属性ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "適していない属性ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부적합한 속성 피해\nEN:\nDisadvantageous Affinity Type"
+  },
+  {
+    "key": "EnemyBuff-content",
+    "original": "敵に特殊なバフ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵に特殊なバフ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적에게 특수한 버프\nEN:\nBuffed Enemies"
+  },
+  {
+    "key": "EnemyDebuff-content",
+    "original": "敵に特殊なデバフ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵に特殊なデバフ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n적에게 특수한 디버프\nEN:\nDebuffed Enemies"
+  },
+  {
+    "key": "Neglect-content",
+    "original": "放置時\n<CMT_KR>\n<CMT_JP>",
+    "translation": "放置時\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 조작 없을 시\nEN:\nNo Input for an Extended Period of Time"
+  },
+  {
+    "key": "MultiKillAlly-content",
+    "original": "味方が多数死亡時\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が多数死亡時\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군 다수가 사망시\nEN:\nMultiple Ally Deaths"
+  }
+]

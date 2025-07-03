@@ -1,0 +1,387 @@
+[
+  {
+    "key": "formation_ego_resource_detail-content",
+    "original": "詳細\n<CMT_KR>\n<CMT_JP>",
+    "translation": "詳細\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상세\nEN:\nDetails"
+  },
+  {
+    "key": "formation_deck_code_auto_filled-content",
+    "original": "保有していない人格とE.G.Oは、基本人格・E.G.Oが適用されました。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "保有していない人格とE.G.Oは、基本人格・E.G.Oが適用されました。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유하지 않은 인격과 E.G.O는 기본 인격, E.G.O로 적용되었습니다.\nEN:\nBase Identities & E.G.O have been slotted in for Identities or E.G.O that you have not obtained yet."
+  },
+  {
+    "key": "formation_deck_filled_complete-content",
+    "original": "編成コードの読み込み完了\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成コードの読み込み完了\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 코드 불러오기 완료\nEN:\nTeam Code Loading Complete"
+  },
+  {
+    "key": "formation_set_to_default-content",
+    "original": "編成を初期化しますか？\n\n<size=80%>初期化すると基本人格・基本E.G.O装着状態に戻ります。</size>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成を初期化しますか？\n\n<size=80%>初期化すると基本人格・基本E.G.O装着状態に戻ります。</size>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성을 초기화 하시겠습니까?\n\n&lt;size=80%&gt;초기화 시 기본 인격, 기본 E.G.O 장착 상태로 돌아갑니다.&lt;/size&gt;\nEN:\nReset this Team loadout?\n\n&lt;size=80%&gt;Resetting this Team loadout will unequip everything save for Base Identities and Base E.G.O.&lt;/size&gt;"
+  },
+  {
+    "key": "formation_unable_to_set_default-content",
+    "original": "基本編成は初期化できません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "基本編成は初期化できません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 편성은 초기화 할 수 없습니다.\nEN:\nYou cannot reset the Base loadout."
+  },
+  {
+    "key": "formation_ego_resource_popup_title-content",
+    "original": "E.G.O資源の詳細\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O資源の詳細\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 자원 상세\nEN:\nTeam E.G.O Resource Overview"
+  },
+  {
+    "key": "formation_ego_resource_popup_total_used-content",
+    "original": "累計E.G.O資源消耗個数\n<CMT_KR>\n<CMT_JP>",
+    "translation": "累計E.G.O資源消耗個数\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총 E.G.O 소모 자원 개수\nEN:\nE.G.O Resource Expenditure Overview:"
+  },
+  {
+    "key": "formation_ego_resource_popup_total_acquirable-content",
+    "original": "累計E.G.O資源個数\n<CMT_KR>\n<CMT_JP>",
+    "translation": "累計E.G.O資源個数\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총 E.G.O 자원 개수\nEN:\nObtainable E.G.O Resources Overview:"
+  },
+  {
+    "key": "formation_ego_resource_popup_personality-content",
+    "original": "人格資源情報\n<CMT_KR>\n<CMT_JP>",
+    "translation": "人格資源情報\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 자원 정보\nEN:\nIdentity Resources"
+  },
+  {
+    "key": "formation_ego_resource_popup_ego-content",
+    "original": "E.G.O消耗資源\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O消耗資源\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 소모 자원\nEN:\nE.G.O Resource Expenditure"
+  },
+  {
+    "key": "formation_code_popup_title-content",
+    "original": "編成コード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成コード\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 코드\nEN:\nTeam Code"
+  },
+  {
+    "key": "formation_code_popup_desc-content",
+    "original": "編成コードをコピーして\nシェアしたり読み込んだりできます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成コードをコピーして\nシェアしたり読み込んだりできます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 코드를 복사하여\n공유하거나 불러올 수 있습니다.\nEN:\nWith Team Codes, you can:\n- Copy and share your Team loadouts\n- Paste and load Team loadouts"
+  },
+  {
+    "key": "formation_code_popup_copy-content",
+    "original": "編成コードをコピー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成コードをコピー\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 코드 복사\nEN:\nCopy Team Code"
+  },
+  {
+    "key": "formation_code_popup_paste-content",
+    "original": "編成コードを読み込む\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成コードを読み込む\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 코드 불러오기\nEN:\nLoad Team Code"
+  },
+  {
+    "key": "formation_code_popup_paste_desc-content",
+    "original": "コピーした編成コードを入力して\n新たな編成を生成します。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コピーした編成コードを入力して\n新たな編成を生成します。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복사한 편성 코드를 입력하여\n새로운 편성을 생성합니다.\nEN:\nPaste the copied Team Code here to equip the Team loadout."
+  },
+  {
+    "key": "formation_code_popup_paste_input-content",
+    "original": "コード入力\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コード入力\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코드 입력\nEN:\nEnter Code"
+  },
+  {
+    "key": "formation_code_popup_copy_success-content",
+    "original": "編成コードのコピー完了\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成コードのコピー完了\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 코드 복사 완료\nEN:\nTeam Code Copied"
+  },
+  {
+    "key": "formation_side_button_all_personality-content",
+    "original": "全人格\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全人格\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 인격\nEN:\nAll Identities"
+  },
+  {
+    "key": "formation_side_button_all_ego-content",
+    "original": "全E.G.O\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全E.G.O\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 E.G.O\nEN:\nAll E.G.O"
+  },
+  {
+    "key": "formation_side_button_friend_support-content",
+    "original": "サポート\n<CMT_KR>\n<CMT_JP>",
+    "translation": "サポート\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지원\nEN:\nSupport"
+  },
+  {
+    "key": "character_list_title_all_personality-content",
+    "original": "人格\n<CMT_KR>\n<CMT_JP>",
+    "translation": "人格\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격\nEN:\nIdentities"
+  },
+  {
+    "key": "character_list_title_all_personality_with_character_name-content",
+    "original": "人格: {0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "人格: {0}\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격 : {0}\nEN:\nIdentities: {0}"
+  },
+  {
+    "key": "character_list_title_all_ego-content",
+    "original": "E.G.O\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O\nEN:\nE.G.O"
+  },
+  {
+    "key": "character_list_title_all_ego_with_character_name-content",
+    "original": "E.G.O: {0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O: {0}\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O : {0}\nEN:\nE.G.O: {0}"
+  },
+  {
+    "key": "character_list_title_friend_support-content",
+    "original": "サポート人格: {0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "サポート人格: {0}\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지원 인격 : {0}\nEN:\nSupport Identities: {0}"
+  },
+  {
+    "key": "character_list_collect_rate-content",
+    "original": "収集率\n<CMT_KR>\n<CMT_JP>",
+    "translation": "収集率\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n수집률\nEN:\nCollection Rate"
+  },
+  {
+    "key": "character_list_owned_toggle_label-content",
+    "original": "保有\n<CMT_KR>\n<CMT_JP>",
+    "translation": "保有\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유\nEN:\nObtained"
+  },
+  {
+    "key": "character_list_sort_label-content",
+    "original": "ソート\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ソート\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정렬\nEN:\nSort By"
+  },
+  {
+    "key": "character_list_friend_support_not_existed-content",
+    "original": "該当囚人のサポート人格がありません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "該当囚人のサポート人格がありません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 수감자에 대한 지원 인격이 없습니다.\nEN:\nNo Support Identities for this Sinner."
+  },
+  {
+    "key": "character_list_friend_support_impossible-content",
+    "original": "該当囚人のサポート人格は指定できません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "該当囚人のサポート人格は指定できません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당 수감자의 지원 인격을 지정할 수 없습니다.\nEN:\nCannot equip Support Identities for this Sinner."
+  },
+  {
+    "key": "view_personality_status_button_label-content",
+    "original": "人格\n<CMT_KR>\n<CMT_JP>",
+    "translation": "人格\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n인격\nEN:\nIdentities"
+  },
+  {
+    "key": "formation_ui_announcer-content",
+    "original": "アナウンサー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アナウンサー\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아나운서\nEN:\nAnnouncers"
+  },
+  {
+    "key": "formation_ui_announcer_detail-content",
+    "original": "アナウンサー詳細\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アナウンサー詳細\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아나운서 상세\nEN:\nAnnouncer Details"
+  },
+  {
+    "key": "formation_deck_code_invalid_code-content",
+    "original": "無効な編成コードです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "無効な編成コードです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n유효하지 않은 편성 코드 입니다.\nEN:\nThis Team Code is invalid."
+  },
+  {
+    "key": "formation_ego_resource_popup_personality_desc-content",
+    "original": "現在編成された人格で集められるE.G.O資源の累計個数と、編成された各人格が集められるE.G.O資源の数量です。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在編成された人格で集められるE.G.O資源の累計個数と、編成された各人格が集められるE.G.O資源の数量です。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 편성된 인격들로 모을 수 있는 총 E.G.O 자원 개수와 편성된 각 인격들이 모을 수 있는 E.G.O 자원의 수량입니다.\nEN:\nOverview of E.G.O Resources obtainable by Identities in your Team loadout & per-Identity overview."
+  },
+  {
+    "key": "formation_ego_resource_popup_ego_desc-content",
+    "original": "現在装着されたE.G.Oが消耗する資源の数量です。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在装着されたE.G.Oが消耗する資源の数量です。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 장착된 E.G.O가 소모하는 자원의 수량입니다.\nEN:\nE.G.O Resources expenditure for each equipped E.G.O."
+  },
+  {
+    "key": "formation_current_personality-content",
+    "original": "現在選択中の人格\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在選択中の人格\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 선택 인격\nEN:\nSelected Identity"
+  },
+  {
+    "key": "ego_sort_label_rarity-content",
+    "original": "レアリティ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "レアリティ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n희귀도\nEN:\nRarity"
+  },
+  {
+    "key": "ego_filter_label_attack_type-content",
+    "original": "E.G.Oタイプ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.Oタイプ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 유형\nEN:\nE.G.O Attack Type"
+  },
+  {
+    "key": "ego_filter_label_attribute_type-content",
+    "original": "E.G.O属性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O属性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 속성\nEN:\nE.G.O Affinity"
+  },
+  {
+    "key": "personality_filter_label_attack_type-content",
+    "original": "スキルタイプ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキルタイプ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 유형\nEN:\nSkill Attack Type"
+  },
+  {
+    "key": "personality_filter_label_attribute_type-content",
+    "original": "スキル属性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキル属性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스킬 속성\nEN:\nSkill Affinity"
+  },
+  {
+    "key": "character_list_personality_not_existed-content",
+    "original": "該当する人格がありません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "該当する人格がありません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당하는 인격이 없습니다.\nEN:\nNo identities matched your filter settings."
+  },
+  {
+    "key": "character_list_ego_not_existed-content",
+    "original": "該当するE.G.Oがありません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "該当するE.G.Oがありません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n해당하는 E.G.O가 없습니다\nEN:\nNo E.G.O matched your filter settings."
+  },
+  {
+    "key": "filter_condition_speed-content",
+    "original": "速度\n<CMT_KR>\n<CMT_JP>",
+    "translation": "速度\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n속도\nEN:\nSpeed"
+  },
+  {
+    "key": "filter_condition_defense-content",
+    "original": "防御レベル\n<CMT_KR>\n<CMT_JP>",
+    "translation": "防御レベル\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n방어 레벨\nEN:\nDef. Lv."
+  },
+  {
+    "key": "filter_condition_grade-content",
+    "original": "{0}段階\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{0}段階\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}단계\nEN:\nTier {0}"
+  },
+  {
+    "key": "ego_sort_label_syncLevel-content",
+    "original": "幻想解析\n<CMT_KR>\n<CMT_JP>",
+    "translation": "幻想解析\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n환상 해석\nEN:\nT.Spinning"
+  },
+  {
+    "key": "ego_sort_label_crimson_resist-content",
+    "original": "憤怒耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憤怒耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n분노 내성\nEN:\nWrath Res."
+  },
+  {
+    "key": "ego_sort_label_scarlet_resist-content",
+    "original": "色欲耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 내성\nEN:\nLust Res."
+  },
+  {
+    "key": "ego_sort_label_amber_resist-content",
+    "original": "怠惰耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "怠惰耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나태 내성\nEN:\nSloth Res."
+  },
+  {
+    "key": "ego_sort_label_shamrock_resist-content",
+    "original": "暴食耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "暴食耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐식 내성\nEN:\nGlut. Res."
+  },
+  {
+    "key": "ego_sort_label_azure_resist-content",
+    "original": "憂鬱耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憂鬱耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n우울 내성\nEN:\nGloom Res."
+  },
+  {
+    "key": "ego_sort_label_indigo_resist-content",
+    "original": "傲慢耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傲慢耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 내성\nEN:\nPride Res."
+  },
+  {
+    "key": "ego_sort_label_violet_resist-content",
+    "original": "嫉妬耐性\n<CMT_KR>\n<CMT_JP>",
+    "translation": "嫉妬耐性\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n질투 내성\nEN:\nEnvy Res."
+  }
+]

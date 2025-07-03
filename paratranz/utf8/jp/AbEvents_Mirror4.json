@@ -141,9 +141,9 @@
   },
   {
     "key": "97101401-failureDesc[0]",
-    "original": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えて消えてしまった。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消え失せてしまった。\n<CMT_KR>표현 개선: \"'消えて消えてしまった'는 일본어에서 불필요하게 반복된 표현으로, 오타로 인식될 수 있기 때문에 보다 자연스럽게 강조하는 '消え失せてしまった'로 수정함.\"\n<CMT_JP>表現改善: \"「消えて消えてしまった」では日本語として冗長な繰り返しとなり、誤植として受け取られてしまう恐れがあるため「消え失せてしまった」という自然な文に調整\"",
-    "stage": 1,
+    "original": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えてなくなってしまった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人{0}が剣を受け取った。\n\n「…！」\n\nしばらく息を整えた後、囚人{0}は瞬時に剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えてなくなってしまった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n{0} 수감자가 검을 건네 받았다.\n\n\"...!\"\n\n잠시 숨을 고른 뒤, {0} 수감자는 순식간에 검을 뽑아...\n\n내지 못하고 그대로 검을 바닥에 떨구어 버렸다.\n\n...검집을 반대로 잡아 칼날 쪽에 손바닥을 대고 있었던 것 같다.\n\n{0} 수감자가 지혈을 하는 동안, 그것은 어디론가 사라지고 없어져 버렸다.\nEN:\n{0} wielded the sword.\n\n\"...!\"\n\nAfter taking a moment to steady their breathing, {0} unshea—\n\n—Nevermind. They failed to unsheathe the blade, and instead dropped it to the floor.\n\n... I think they were holding the sword backwards, slicing their own palm open in the process.\n\nThe thing disappeared while we were busy trying to stop the bleeding from {0}'s hand."
   },
   {
@@ -169,9 +169,9 @@
   },
   {
     "key": "97101402-failureDesc[0]",
-    "original": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えて消えてしまった。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消え失せてしまった。\n<CMT_KR>표현 개선: \"'消えて消えてしまった'는 일본어에서 불필요하게 반복된 표현으로, 오타로 인식될 수 있기 때문에 보다 자연스럽게 강조하는 '消え失せてしまった'로 수정함.\"\n<CMT_JP>表現改善: \"「消えて消えてしまった」では日本語として冗長な繰り返しとなり、誤植として受け取られてしまう恐れがあるため「消え失せてしまった」という自然な文に調整\"",
-    "stage": 1,
+    "original": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えてなくなってしまった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人{0}が剣を受け取った。\n\n「……。」\n\n囚人{0}は慎重に、滑るように剣を抜…。\n\n…けず、そのまま剣を床に落としてしまった。\n\n…鞘を逆向きに掴んだせいで、刃の方に手のひらを当てていたようだ。\n\n囚人{0}が止血をしている最中に、それはどこかへと消えてなくなってしまった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n{0} 수감자가 검을 건네 받았다.\n\n\".......\"\n\n{0} 수감자는 조심스레, 미끄러지듯이 검을 뽑아...\n\n내지 못하고 그대로 검을 바닥에 떨구어 버렸다.\n\n...검집을 반대로 잡아 칼날 쪽에 손바닥을 대고 있었던 것 같다.\n\n{0} 수감자가 지혈을 하는 동안, 그것은 어디론가 사라지고 없어져 버렸다.\nEN:\n{0} wielded the sword.\n\n\"......\"\n\n{0} carefully and effortlessly unsheathed the swor—\n\n—Nevermind. They failed to unsheathe the blade, and instead dropped it to the floor.\n\n... I think they were holding the sword backwards, slicing their own palm open in the process.\n\nThe thing disappeared while we were busy trying to stop the bleeding from {0}'s hand."
   },
   {

@@ -607,5 +607,26 @@
     "translation": "まだ進行中の取引が存在します。\n[購入復元]ボタンを押して再度試行してください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아직 진행중이던 거래가 존재합니다.\n[구매 복구] 버튼을 눌러 재시도해주세요.\nEN:\nA transaction is still in progress.\nPlease use the [Restore Purchase] button and try again."
+  },
+  {
+    "key": "invalid_login_no_guest_uid-content",
+    "original": "ゲストアカウントが存在しないか、\n既に退会済みのアカウントです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ゲストアカウントが存在しないか、\n既に退会済みのアカウントです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n게스트 계정이 존재하지 않거나,\n탈퇴된 계정입니다.\nEN:\nThe Guest account does not exist,\nor has been deleted."
+  },
+  {
+    "key": "invalid_login_is_not_guest-content",
+    "original": "このゲストアカウントは既にプラットフォームと連携されています。\n[アカウント変更]を推して連携されたプラットフォームからログインしてください。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このゲストアカウントは既にプラットフォームと連携されています。\n[アカウント変更]を推して連携されたプラットフォームからログインしてください。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 게스트 계정은 이미 플랫폼과 연동되어 있습니다.\n[계정 변경]을 눌러 연동된 플랫폼으로 로그인해 주세요.\nEN:\nThis Guest account is already linked to a platform.\nPlease use the [Change Account] button to log into your linked platform."
+  },
+  {
+    "key": "try_new_guest-content",
+    "original": "新しいゲストアカウントを作成しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "新しいゲストアカウントを作成しますか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n새로운 게스트 계정을 만드시겠습니까?\nEN:\nMake a new Guest account?"
   }
 ]

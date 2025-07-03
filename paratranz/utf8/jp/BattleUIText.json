@@ -1163,9 +1163,9 @@
   },
   {
     "key": "vibration_fusion-content",
-    "original": "振動絡縺！\n<CMT_KR>\n<CMT_JP>",
-    "translation": "振幅絡縺！\n<CMT_KR>오기: \"振動絡縺！\" 정확: \"振幅絡縺！\"\n<CMT_JP>誤記: \"振動絡縺！\" 訂正後: \"振幅絡縺！\"",
-    "stage": 1,
+    "original": "振幅絡縺！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "振幅絡縺！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n진폭 얽힘!\nEN:\nAmplitude Entanglement!"
   },
   {
@@ -1377,5 +1377,12 @@
     "translation": "復帰\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n복귀\nEN:\nReturn"
+  },
+  {
+    "key": "NoHavePassive-content",
+    "original": "同期化段階: 規定値以下\nサポートパッシブ非活性化状態\n<CMT_KR>\n<CMT_JP>",
+    "translation": "同期化段階: 規定値以下\nサポートパッシブ非活性化状態\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동기화 단계 낮음\n서포트 패시브 비활성화 상태\nEN:\nSupport Passive Locked\nUptie to Unlock"
   }
 ]

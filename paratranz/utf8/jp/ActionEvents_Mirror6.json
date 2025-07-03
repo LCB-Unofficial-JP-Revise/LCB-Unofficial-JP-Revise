@@ -1,0 +1,226 @@
+[
+  {
+    "key": "971055-name",
+    "original": "奇妙な機械\n<CMT_KR>\n<CMT_JP>",
+    "translation": "奇妙な機械\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기묘한 기계\nEN:\nBizarre Machine"
+  },
+  {
+    "key": "971055-desc",
+    "original": "目の前に奇妙な機械と、たった1枚のコインがある。\n\n機械には、まるでここに入れろと言わんばかりに、ひときわ輝くコイン投入口が見える。\n\nその前に立つと、どこからか機械的な声が聞こえてくる。\n\n「あなたの運を試してみてください！」\n\nそれは機械から発せられる音だったのだろうか、それとも空間そのものが私に囁きかけているのだろうか。\n\n何かに取り憑かれたかのようにコインを手に取って投入口に入れようとしたけど、かろうじて正気を取り戻して考え込んだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "目の前に奇妙な機械と、たった1枚のコインがある。\n\n機械には、まるでここに入れろと言わんばかりに、ひときわ輝くコイン投入口が見える。\n\nその前に立つと、どこからか機械的な声が聞こえてくる。\n\n「あなたの運を試してみてください！」\n\nそれは機械から発せられる音だったのだろうか、それとも空間そのものが私に囁きかけているのだろうか。\n\n何かに取り憑かれたかのようにコインを手に取って投入口に入れようとしたけど、かろうじて正気を取り戻して考え込んだ。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈 앞에 기묘한 기계와 단 한 닢의 동전이 있다.\n\n기계에는 마치 이 곳에 넣으라는 듯 유난히 반짝거리는 동전 투입구가 보인다.\n\n그 앞에 서자, 어디선가 기계적인 목소리가 들려온다.\n\n“당신의 운을 시험해 보세요!”\n\n그건 기계에서 나오는 소리였을까, 아니면 공간 그 자체가 내게 속삭이는 것이었을까.\n\n무언가에 홀린 듯 동전을 집어 들고 투입구에 넣으려다가, 간신히 정신을 붙잡고 고민에 빠졌다.\nEN:\nThere's a bizarre-looking machine. In front of it is a coin.\n\nThen there's a twinkling, glowing coin slot on the machine—it's almost enticing us to deposit the coin inside it.\n\nA disembodied, mechanical voice echoes from somewhere when we walk up to the machine.\n\n\"Test your luck!\"\n\nWhere did that vocalization come from? Did it come from within the machine, or was it this space itself whispering to me?\n\nI barely catch myself after absentmindedly picking up the coin and walking up to the machine's coin slot. I should think this through."
+  },
+  {
+    "key": "971055-options[0].message",
+    "original": "コインを持って行く。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コインを持って行く。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동전만 가져간다.\nEN:\nJust take the coin."
+  },
+  {
+    "key": "971055-options[0].result[0]",
+    "original": "よく見ると、このコインはダンジョンの中で使えるものと似ている。\n\n…この機械に入れて何が起こるか見当もつかない結果を見守るよりは、小さくても確実な利益を得る方が良いかもしれない。\n\nコインだけを持って、機械の前から立ち去った。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "よく見ると、このコインはダンジョンの中で使えるものと似ている。\n\n…この機械に入れて何が起こるか見当もつかない結果を見守るよりは、小さくても確実な利益を得る方が良いかもしれない。\n\nコインだけを持って、機械の前から立ち去った。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자세히 보니, 이 동전은 던전 속에서 사용할 수 있는 것과 닮아 있다.\n\n…이 기계에 넣어 어떤 일이 일어날 지 가늠도 되지 않는 결과를 지켜보는 것 보단, 작고 확실한 이득을 챙기는 것이 나을 지도 모른다.\n\n동전만 챙겨 기계 앞을 떠났다.\nEN:\nOn closer examination, this coin could come in useful in the dungeon.\n\n... We should quit while we're ahead, even for a small gain. Much better than gambling this coin away into that suspicious machine for some unknown, mysterious outcome we have no way of gauging.\n\nWe pocket the coin and leave the machine."
+  },
+  {
+    "key": "971055-options[1].message",
+    "original": "投入口にコインを入れる。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "投入口にコインを入れる。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n투입구에 동전을 넣는다.\nEN:\nInsert the coin in the slot."
+  },
+  {
+    "key": "971055-options[1].messageDesc",
+    "original": "???\n<CMT_KR>\n<CMT_JP>",
+    "translation": "???\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n???\nEN:\n???"
+  },
+  {
+    "key": "971055-options[1].result[0]",
+    "original": "コインがカチャリと音を立てながら投入口の中に吸い込まれていった。\n\n「#%^*@%@!!#@$%」\n\n形容し難い奇怪な音がその中から響き始めたかと思うと、やがて機械は排出口のようなところから何かしらを吐き出すかのように物品を落とした。\n\n何が起きたのか把握する間もなく、機械はどこかへと消えてしまった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コインがカチャリと音を立てながら投入口の中に吸い込まれていった。\n\n「#%^*@%@!!#@$%」\n\n形容し難い奇怪な音がその中から響き始めたかと思うと、やがて機械は排出口のようなところから何かしらを吐き出すかのように物品を落とした。\n\n何が起きたのか把握する間もなく、機械はどこかへと消えてしまった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동전이 찰카닥거리는 소리를 내며 투입구 안으로 빨려들어갔다.\n\n“#%^*@%@!!#@$%”\n\n형언할 수 없는 기괴한 소리가 그 안에서 울리는 것 같더니, 이내 기계는 배출구 같은 곳으로 무언가를 뱉어내듯 내보냈다.\n\n무슨 일인지 파악할 새도 없이, 기계는 어디론가 사라졌다.\nEN:\nThe slot sucks the coin inside with a clack.\n\n“#%^*@%@!!#@$%”\n\nThe machine makes a strange, ineffable and unsettling noise. After a moment, it spits out something from its... vent-like apparatus.\n\nIt zooms off to somewhere before we even get a chance to realize what happened."
+  },
+  {
+    "key": "971055-options[1].result[1]",
+    "original": "コインがカチャリと音を立てながら投入口の中に吸い込まれていった。\n\n「……。」\n\nそして、何の音も出さなかった。\n\n「おい。カネだけ取られたぞ、これ！」\n\n囚人の1人が機械を叩こうと前に出た瞬間、機械はどこかへ消え去ってしまった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コインがカチャリと音を立てながら投入口の中に吸い込まれていった。\n\n「……。」\n\nそして、何の音も出さなかった。\n\n「おい。カネだけ取られたぞ、これ！」\n\n囚人の1人が機械を叩こうと前に出た瞬間、機械はどこかへ消え去ってしまった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n동전이 찰카닥거리는 소리를 내며 투입구 안으로 빨려들어갔다.\n\n“……”\n\n그리곤 아무런 소리도 내지 않았다.\n\n“아이, 돈 먹었네 이거!”\n\n수감자 중 한 명이 기계를 두드리려고 앞으로 나서는 순간, 기계는 어디론가 사라져버렸다.\nEN:\nThe slot sucks the coin inside with a clack.\n\n\"……\"\n\nThen nothing.\n\n\"Aw, darnit! It ate the coin!\"\n\nOne of the Sinners stomps forward to beat up the machine, but it zooms off to somewhere before we even get a chance to see what would happen."
+  },
+  {
+    "key": "971056-name",
+    "original": "ラ・マンチャランドのカーニバル\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ラ・マンチャランドのカーニバル\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n라만차랜드의 카니발\nEN:\nCarnival of La Manchaland"
+  },
+  {
+    "key": "971056-desc",
+    "original": "「永久に続く…祝福のカーニバル…。」\n\n感嘆の声と笑顔が織りなすそのパレードは遠くから見ても、近くから見てもこの上なく華やかだ。\n\n歌の文句のように、このまま永久に幸せな行列が続くかのような気がした。\n\n「あっ。」\n\n誰かの短い声が響いたかと思うと、カチャンという音と共に床に錆びた注射器が一本落ちた。\n\n「ち、血だ！血があるぞ！」\n「ひ、一滴だけでも…！」\n\nやがて行列は瓦解し、誰もがその注射器に向かって狂ったように飛びついた。\n周りに何があろうと、気にしていない様子だ。邪魔をすれば即座に引き裂いて殺されてしまいそうな目つきである。\n\n彼らを止めるべきだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "「永久に続く…祝福のカーニバル…。」\n\n感嘆の声と笑顔が織りなすそのパレードは遠くから見ても、近くから見てもこの上なく華やかだ。\n\n歌の文句のように、このまま永久に幸せな行列が続くかのような気がした。\n\n「あっ。」\n\n誰かの短い声が響いたかと思うと、カチャンという音と共に床に錆びた注射器が一本落ちた。\n\n「ち、血だ！血があるぞ！」\n「ひ、一滴だけでも…！」\n\nやがて行列は瓦解し、誰もがその注射器に向かって狂ったように飛びついた。\n周りに何があろうと、気にしていない様子だ。邪魔をすれば即座に引き裂いて殺されてしまいそうな目つきである。\n\n彼らを止めるべきだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n“영원토록 이어지는… 축복의 카니발…”\n\n탄성과 미소가 어우러진 그 퍼레이드는 멀리서도, 가까이서 보아도 화려하기 그지 없다.\n\n노랫말처럼, 이대로 영원히 행복한 행렬이 이어질 것만 같다.\n\n“앗.”\n\n누군가의 짧은 목소리가 울려퍼졌나 싶더니, 딸깡 하는 소리와 함께 바닥에 녹슨 주사기 하나가 떨어졌다.\n\n“피, 피야! 피가 있어!”\n“하, 한 방울만…!”\n\n이윽고 행렬은 와해되고 모두가 그 주사기를 향해 미친 듯이 달려들었다.\n주변에 무엇이 있든, 신경쓰지 않는 모양이다. 방해된다면 즉시 찢어 죽일 것만 같은 눈빛이다.\n\n저들을 말려야 할까?\nEN:\n\"In this endlessly... this eternally... blessed carnival...\"\n\nThe parade brings happy exclamations and smiles to the spectators. It's gaudy and extravagant no matter where or how we look at it.\n\nIt's just like the lyrics... it feels as though the carnival really is eternally blessed to go on forever.\n\n\"Oh.\"\n\nSomeone lets out a brief cry of pain, and a rusty syringe clatters to the ground.\n\n\"B-blood! Blood!\"\n\"J-just a drop, please...!\"\n\nThe parade falls apart immediately as everyone rushes madly toward the syringe.\nIt's like they don't even realize who or what's around them; they seem just about ready to rip apart whatever that stands in their way.\n\nShould we stop them?"
+  },
+  {
+    "key": "971056-options[0].message",
+    "original": "止める。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "止める。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n말린다.\nEN:\nTry to stop them."
+  },
+  {
+    "key": "971056-options[0].messageDesc",
+    "original": "色欲・怠惰有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・怠惰有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 · 나태 유리 판정 성공 시, 출혈 E.G.O GIFT 획득\nEN:\nLust & Sloth Advantage check. Pass to gain a Bleed E.G.O Gift."
+  },
+  {
+    "key": "971056-options[1].message",
+    "original": "無視する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "無視する。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무시한다.\nEN:\nIgnore them."
+  },
+  {
+    "key": "971056-options[1].result[0]",
+    "original": "何も起こらなかった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "何も起こらなかった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않았다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "971057-name",
+    "original": "回転木馬\n<CMT_KR>\n<CMT_JP>",
+    "translation": "回転木馬\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회전목마\nEN:\nThe Carousel"
+  },
+  {
+    "key": "971057-desc",
+    "original": "あれは…回転木馬だろうか。\n\n薄暗い空間の中、一つだけ目が眩むほどに輝いている建物が見える。\n\n「……。」\n\n「あら、どうかしたの？」\n\n「ん？い、いや何でもありませぬ…。」\n\nあの回転木馬が気になる囚人も何人かいるようだ。\n\n一度、確かめてみるべきだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あれは…回転木馬だろうか。\n\n薄暗い空間の中、一つだけ目が眩むほどに輝いている建物が見える。\n\n「……。」\n\n「あら、どうかしたの？」\n\n「ん？い、いや何でもありませぬ…。」\n\nあの回転木馬が気になる囚人も何人かいるようだ。\n\n一度、確かめてみるべきだろうか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n저건… 회전목마일까.\n\n어둑한 공간 속에서 혼자 눈이 부실 정도로 빛나고 있는 건물이 보인다.\n\n“…….”\n\n“어머, 무슨 일 있니?”\n\n“응? 아, 아닐세…”\n\n저 회전목마가 신경쓰이는 수감자도 더러 보이는 것 같다.\n\n한 번 짚어보고 넘어가야 할까?\nEN:\nIs that... a carousel?\n\nThere's an incandescent, almost blindingly bright structure radiating brightly in this dark space.\n\n“…….”\n\n\"Oh my, something wrong?\"\n\n\"Hm? N-nay, 'tis naught to worry.\"\n\nThe carousel seems to be occupying some Sinners' minds.\n\nShould we stop by?"
+  },
+  {
+    "key": "971057-options[0].message",
+    "original": "回転木馬を掴む。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "回転木馬を掴む。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n회전목마를 붙잡는다.\nEN:\nStop by the carousel."
+  },
+  {
+    "key": "971057-options[0].messageDesc",
+    "original": "色欲・怠惰有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・怠惰有利判定成功時、汎用E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 · 나태 유리 판정 성공 시, 범용 E.G.O GIFT 획득\nEN:\nLust & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift."
+  },
+  {
+    "key": "971057-options[1].message",
+    "original": "危険だ。このまま通り過ぎよう。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "危険だ。このまま通り過ぎよう。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n위험하다. 그냥 지나가자.\nEN:\nSeems dangerous. Let's move on."
+  },
+  {
+    "key": "971057-options[1].result[0]",
+    "original": "何も起こらなかった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "何も起こらなかった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아무 일도 일어나지 않았다.\nEN:\nNothing happened."
+  },
+  {
+    "key": "971058-name",
+    "original": "屈折された過ぎ去りし日の寝袋\n<CMT_KR>\n<CMT_JP>",
+    "translation": "屈折された過ぎ去りし日の寝袋\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 지난 날의 침낭\nEN:\nRefracted Sleeping Bag of a Bygone Day"
+  },
+  {
+    "key": "971058-desc",
+    "original": "ヒューヒューという音が聞こえたかと思うと、そこには奇妙な形状をした何かがいた。\n\n幻想体らしきそれは、息をするのが苦しいのか切ない音を立てながら不規則な呼吸をしている。\n\nあれは、泣いているのだろうか。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ヒューヒューという音が聞こえたかと思うと、そこには奇妙な形状をした何かがいた。\n\n幻想体らしきそれは、息をするのが苦しいのか切ない音を立てながら不規則な呼吸をしている。\n\nあれは、泣いているのだろうか。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쌔액거리는 소리가 들리나 싶더니, 그 곳엔 이미 기이한 형상의 무언가가 있었다.\n\n환상체로 보이는 그것은, 숨을 쉬기 어려운지 애달픈 소리를 내며 불규칙적인 호흡을 하고 있다.\n\n저건, 울고 있는 걸까.\nEN:\nSomething is breathing heavily. The source of it, its form strange, lies there.\n\nIt appears to be an Abnormality. The thing is struggling to even breathe—its every breath is laborious and irregular.\n\nIs it... crying?"
+  },
+  {
+    "key": "971058-options[0].message",
+    "original": "息の音を聞く。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "息の音を聞く。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n숨소리를 듣는다.\nEN:\nListen to the breathing."
+  },
+  {
+    "key": "971058-options[0].messageDesc",
+    "original": "傲慢・嫉妬有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "傲慢・嫉妬有利判定成功時、呼吸E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n오만 · 질투 유리 판정 성공 시, 호흡 E.G.O GIFT 획득\nEN:\nRun a Pride & Envy Advantage check. Pass to gain a Poise E.G.O Gift."
+  },
+  {
+    "key": "971058-options[1].message",
+    "original": "耳を塞ぐ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "耳を塞ぐ。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n귀를 막는다.\nEN:\nBlock your ears."
+  },
+  {
+    "key": "971058-options[1].result[0]",
+    "original": "ずっとその音を聞いていると、胸が痛んでくるような気がする。\n\n吐き気がして他の囚人たちを見ると、囚人たちも何かしら異常を感じたかのように頭を押さえたり、冷や汗を流したりしていた。\n\n「み、耳だけでも塞げ。これ…聞き続けたら、気が狂っちまいそうだ。」\n\n囚人たちに同じように指示すると、やがて少しずつ楽になっていくのを感じる。\n\n…幻想体はもうしばらくの間はその音を立てていたが、やがて静かになった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ずっとその音を聞いていると、胸が痛んでくるような気がする。\n\n吐き気がして他の囚人たちを見ると、囚人たちも何かしら異常を感じたかのように頭を押さえたり、冷や汗を流したりしていた。\n\n「み、耳だけでも塞げ。これ…聞き続けたら、気が狂っちまいそうだ。」\n\n囚人たちに同じように指示すると、やがて少しずつ楽になっていくのを感じる。\n\n…幻想体はもうしばらくの間はその音を立てていたが、やがて静かになった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n계속 그 소리를 듣고 있자니, 마음이 쓰라린 기분이 든다.\n\n메스꺼운 기분이 들어 다른 수감자들을 쳐다보니, 수감자들 역시 무언가 이상함을 느낀 듯 머리를 짚거나 식은땀을 흘리고 있다.\n\n“귀, 귀라도 막아. 이거… 계속 듣다간 정신이 나가 버릴 것 같다고.”\n\n수감자들에게 똑같이 지시하니, 이윽고 조금씩 괜찮아지는 것을 느낀다.\n\n…환상체는 좀 더 그 소리를 내다가, 이내 잠잠해졌다.\nEN:\nListening to the pained breathing is heartrending.\n\nThe sheer sensation was so overwhelming that it was making me nauseous. The Sinners weren't doing much better, either; they were either grabbing their heads or were slowly getting drenched in cold sweat.\n\n\"P-plug your ears. I think this... this sound's driving me insane.\"\n\nI tell the rest of the Sinners to follow suit, and we slowly start to feel better.\n\n... The Abnormality continued to make that noise for a while, before falling completely silent."
+  },
+  {
+    "key": "971059-name",
+    "original": "屈折された四百輪の薔薇\n<CMT_KR>\n<CMT_JP>",
+    "translation": "屈折された四百輪の薔薇\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n굴절된 사백송이의 장미\nEN:\nRefracted Four-hundred Roses"
+  },
+  {
+    "key": "971059-desc",
+    "original": "鮮血を宿した花びらは、今にも血を滴らせんばかりに赤い。\n\nその花びらにどこからか集めた血液を分け与えている茎もまた、黒ずんだ赤色を帯びて奇妙に曲がっている。\n\nその茎には、ぞっとするほど鋭い棘がびっしりと生えている。\n\nふと、その棘を一本折れば、真っ赤な血液が流れ出るのではないかという好奇心が湧き上がった。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鮮血を宿した花びらは、今にも血を滴らせんばかりに赤い。\n\nその花びらにどこからか集めた血液を分け与えている茎もまた、黒ずんだ赤色を帯びて奇妙に曲がっている。\n\nその茎には、ぞっとするほど鋭い棘がびっしりと生えている。\n\nふと、その棘を一本折れば、真っ赤な血液が流れ出るのではないかという好奇心が湧き上がった。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선혈을 머금은 꽃잎은 당장이라도 핏물을 떨어뜨릴 것만 같이 붉다.\n\n어디선가 그 꽃잎에 혈액을 모아 나누어주고 있는 줄기 역시 검붉은 색으로 기이하게 휘어져있다.\n\n그 줄기에는 섬뜩할 정도로 날카로운 가시가 빽빽하게 솟아나 있다.\n\n문득, 그 가시를 하나 부러뜨리면, 새빨간 혈액이 흘러나오지 않을까, 라는 호기심이 피어올랐다.\nEN:\nThe bloodsteeped petals are so crimson that one might almost mistake it to be bleeding.\n\nIts stems, siphoning blood from somewhere to feed the petals, are twisted, dark, and red.\n\nVicious and sharp thorns riddle its skin.\n\nBut curiosity takes hold—perhaps breaking off a thorn might cause it to bleed?"
+  },
+  {
+    "key": "971059-options[0].message",
+    "original": "棘を折る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "棘を折る。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가시를 부러뜨린다.\nEN:\nBreak off a thorn."
+  },
+  {
+    "key": "971059-options[0].messageDesc",
+    "original": "色欲・嫉妬有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色欲・嫉妬有利判定成功時、出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n색욕 · 질투 유리 판정 성공 시, 출혈 E.G.O GIFT 획득\nEN:\nLust & Envy Advantage check. Pass to gain a Bleed E.G.O Gift."
+  },
+  {
+    "key": "971059-options[1].message",
+    "original": "やらない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "やらない。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하지 않는다.\nEN:\nDon't do that."
+  },
+  {
+    "key": "971059-options[1].result[0]",
+    "original": "好奇心は、大抵危険と隣り合わせであることが多かった。\n\n今回はあえて刺激せず、素通りするのが良さそうだ。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "好奇心は、大抵危険と隣り合わせであることが多かった。\n\n今回はあえて刺激せず、素通りするのが良さそうだ。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n호기심은 보통 위험과 맞닿아 있는 편이 잦았다.\n\n이번엔 굳이 자극하지 말고 지나가는 것이 나을 것 같다.\nEN:\nCuriosity is the usual suspect when it comes to dead cats.\n\nLet's not provoke it unnecessarily this time."
+  }
+]

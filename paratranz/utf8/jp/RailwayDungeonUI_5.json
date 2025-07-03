@@ -71,9 +71,9 @@
   },
   {
     "key": "railway_dungeon_5_required_condition_to_enter_format-content",
-    "original": "※ご案内\n\n{0}に入場するには、周囲人ごとに最低2つの人格が必要です。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "※ご案内\n\n{0}に入場するには、囚人ごとに最低2つの人格が必要です。\n<CMT_KR>오기: \"{0}に入場するには、「周囲人」ごとに最低2つの人格が必要です。\" 정확: \"{0}に入場するには、「囚人」ごとに最低2つの人格が必要です。\"\n<CMT_JP>誤記: \"{0}に入場するには、「周囲人」ごとに最低2つの人格が必要です。\" 訂正後: \"{0}に入場するには、「囚人」ごとに最低2つの人格が必要です。\"",
-    "stage": 1,
+    "original": "※ご案内\n\n{0}に入場するには、囚人ごとに最低2つの人格が必要です。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "※ご案内\n\n{0}に入場するには、囚人ごとに最低2つの人格が必要です。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n※ 안내 사항\n\n{0}에 입장하기 위해서는 수감자 별로 최소 2개의 인격이 필요합니다.\nEN:\n※ Information\n\nEach Sinner needs to have at least 2 Identities in order to enter {0}."
   },
   {

@@ -466,7 +466,7 @@
     },
     {
       "id": "mainui_mail_warning",
-      "content": "※最大100つまで保管が可能です。期限の過ぎたプレゼントは<color=#990000>削除</color>されます。"
+      "content": "※最大100個まで保管が可能です。期限の過ぎたプレゼントは<color=#990000>削除</color>されます。"
     },
     {
       "id": "mainui_mail_warning2",
@@ -1955,6 +1955,10 @@
     {
       "id": "mainui_exp_dungeon_12_open_day",
       "content": "経験値採光8段階(打撃)ステージは金曜日、土曜日、日曜日に開放されます。"
+    },
+    {
+      "id": "mainui_notice_download_failed",
+      "content": "告知をロードできませんでした。ネットワークを確認してください。"
     }
   ]
 }

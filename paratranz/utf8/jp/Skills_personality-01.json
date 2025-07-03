@@ -2469,5 +2469,579 @@
     "translation": "[OnSucceedAttackHead] [Combustion]1を付与\n- 自分にバリアがあるなら、[Combustion]1を追加で付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttackHead] [Combustion] 1 부여\n- 자신에게 보호막이 있으면, [Combustion] 1 추가 부여\nEN:\n[OnSucceedAttackHead] Inflict 1 [Combustion]\n- If this unit has Shield, inflict 1 additional [Combustion]"
+  },
+  {
+    "key": "1011301-levelList[0].name",
+    "original": "隙把握\n<CMT_KR>\n<CMT_JP>",
+    "translation": "隙把握\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헛점 파악\nEN:\nSee Through Defenses"
+  },
+  {
+    "key": "1011301-levelList[0].desc",
+    "original": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +7% (最大49%)\n[WhenUse] [BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +7% (最大49%)\n[WhenUse] [BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BoseProjektil]당 피해량 +7% (최대 49%)\n[WhenUse] [BoseProjektil] 1 얻음\nEN:\n[WhenUse] Deal +7% damage for every [BoseProjektil] on self (max 49%)\n[WhenUse] Gain 1 [BoseProjektil]"
+  },
+  {
+    "key": "1011301-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가\nEN:\n[OnSucceedAttack] Gain +1 [Breath] Count"
+  },
+  {
+    "key": "1011301-levelList[1].name",
+    "original": "隙把握\n<CMT_KR>\n<CMT_JP>",
+    "translation": "隙把握\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헛점 파악\nEN:\nSee Through Defenses"
+  },
+  {
+    "key": "1011301-levelList[1].desc",
+    "original": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">70</style>%)\n<style=\"highlight\">[WhenUse] 自分の[Breath]が5以上なら、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が3以上なら、基本威力 +1</style>\n[WhenUse] <style=\"highlight\">自分の[Breath]回数が1増加、</style>[BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">70</style>%)\n<style=\"highlight\">[WhenUse] 自分の[Breath]が5以上なら、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が3以上なら、基本威力 +1</style>\n[WhenUse] <style=\"highlight\">自分の[Breath]回数が1増加、</style>[BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BoseProjektil]당 피해량 +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;70&lt;/style&gt;%)\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [Breath]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 이상이면, 기본 위력 +1&lt;/style&gt;\n[WhenUse] &lt;style=\"highlight\"&gt;자신의 [Breath] 횟수 1 증가,&lt;/style&gt; [BoseProjektil] 1 얻음\nEN:\n[WhenUse] Deal +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% damage for every [BoseProjektil] on self (max &lt;style=\"highlight\"&gt;70&lt;/style&gt;%)\n&lt;style=\"highlight\"&gt;[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] At 3+ [Breath] Count, Base Power +1 &lt;/style&gt;\n[WhenUse] Gain &lt;style=\"highlight\"&gt;+1 [Breath] Count and&lt;/style&gt; 1 [BoseProjektil]"
+  },
+  {
+    "key": "1011301-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +1 [Breath] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011301-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttackHead] [Laceration]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttackHead] [Laceration]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttackHead] [Laceration] 횟수 1 증가&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttackHead] Inflict +1 [Laceration] Count&lt;/style&gt;"
+  },
+  {
+    "key": "1011301-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttackHead] [BoseProjektil]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttackHead] [BoseProjektil]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttackHead] [BoseProjektil] 1 얻음&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttackHead] Gain 1 [BoseProjektil]&lt;/style&gt;"
+  },
+  {
+    "key": "1011301-levelList[2].name",
+    "original": "隙把握\n<CMT_KR>\n<CMT_JP>",
+    "translation": "隙把握\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n헛점 파악\nEN:\nSee Through Defenses"
+  },
+  {
+    "key": "1011301-levelList[2].desc",
+    "original": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +<style=\"highlight\">15</style>% (最大<style=\"highlight\">105</style>%)\n[WhenUse] 自分の[Breath]5<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数3<style=\"highlight\">につき</style>、基本威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数が<style=\"highlight\">2</style>増加、[BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +<style=\"highlight\">15</style>% (最大<style=\"highlight\">105</style>%)\n[WhenUse] 自分の[Breath]5<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数3<style=\"highlight\">につき</style>、基本威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数が<style=\"highlight\">2</style>増加、[BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BoseProjektil]당 피해량 +&lt;style=\"highlight\"&gt;15&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;105&lt;/style&gt;%)\n[WhenUse] 자신의 [Breath] 5 &lt;style=\"highlight\"&gt;당&lt;/style&gt;, 코인 위력 +1 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [Breath] 횟수 3 &lt;style=\"highlight\"&gt;당&lt;/style&gt;, 기본 위력 +1 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [Breath] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가, [BoseProjektil] 1 얻음\nEN:\n[WhenUse] Deal +&lt;style=\"highlight\"&gt;15&lt;/style&gt;% damage for every [BoseProjektil] on self (max &lt;style=\"highlight\"&gt;105&lt;/style&gt;%)\n[WhenUse] &lt;style=\"highlight\"&gt;Coin Power +1 for every 5 [Breath] on self (max 2)&lt;/style&gt;\n[WhenUse] &lt;style=\"highlight\"&gt;Base Power +1 for every 3 [Breath] Count on self (max 2)&lt;/style&gt;\n[WhenUse] Gain +&lt;style=\"highlight\"&gt;2&lt;/style&gt; [Breath] Count and 1 [BoseProjektil]"
+  },
+  {
+    "key": "1011301-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が1増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 1 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +1 [Breath] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011301-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> [Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> [Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack]&lt;/style&gt; [Laceration] 횟수 1 증가\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack]&lt;/style&gt; Inflict +1 [Laceration] Count"
+  },
+  {
+    "key": "1011301-levelList[2].coinlist[0].coindescs[2].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> [BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> [BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack]&lt;/style&gt; [BoseProjektil] 1 얻음\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack]&lt;/style&gt; Gain 1 [BoseProjektil]"
+  },
+  {
+    "key": "1011302-levelList[0].name",
+    "original": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫으리라\nEN:\nPunch Through"
+  },
+  {
+    "key": "1011302-levelList[0].desc",
+    "original": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +10% (最大70%)\n[WhenUse] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +10% (最大70%)\n[WhenUse] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BoseProjektil]당 피해량 +10% (최대 70%)\n[WhenUse] [Breath] 2 얻음\nEN:\n[WhenUse] Deal +10% damage for every [BoseProjektil] on self (max 70%)\n[WhenUse] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011302-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011302-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1011302-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011302-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BoseProjektil]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BoseProjektil] 1 얻음\nEN:\n[OnSucceedAttack] Gain 1 [BoseProjektil]"
+  },
+  {
+    "key": "1011302-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "[CriticalOnSucceedAttack] [BoseProjektil]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [BoseProjektil]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [BoseProjektil] 2 얻음\nEN:\n[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]"
+  },
+  {
+    "key": "1011302-levelList[1].name",
+    "original": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫으리라\nEN:\nPunch Through"
+  },
+  {
+    "key": "1011302-levelList[1].desc",
+    "original": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +10% (最大70%)\n<style=\"highlight\">[WhenUse] 自分の[Breath]が5以上なら、コイン威力 +1</style>\n[WhenUse] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +10% (最大70%)\n<style=\"highlight\">[WhenUse] 自分の[Breath]が5以上なら、コイン威力 +1</style>\n[WhenUse] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BoseProjektil]당 피해량 +10% (최대 70%)\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [Breath]이 5 이상이면, 코인 위력 +1&lt;/style&gt;\n[WhenUse] [Breath] 2 얻음\nEN:\n[WhenUse] Deal +10% damage for every [BoseProjektil] on self (max 70%)\n&lt;style=\"highlight\"&gt;[WhenUse] At 5+ [Breath], Coin Power +1&lt;/style&gt;\n[WhenUse] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [Breath]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttackHead] [Laceration]2を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttackHead] [Laceration]2を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttackHead] [Laceration] 2 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttackHead] Inflict 2 [Laceration]&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [Breath]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [BoseProjektil]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BoseProjektil]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BoseProjektil] 1 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 1 [BoseProjektil]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[1].coindescs[3].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttack] [Laceration]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttack] [Laceration]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack] [Laceration] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack] Inflict 1 [Laceration]&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[1].coinlist[1].coindescs[4].desc",
+    "original": "[CriticalOnSucceedAttack] [BoseProjektil]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [BoseProjektil]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [BoseProjektil] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[2].name",
+    "original": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貫かん\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫으리라\nEN:\nPunch Through"
+  },
+  {
+    "key": "1011302-levelList[2].desc",
+    "original": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +<style=\"highlight\">15</style>% (最大<style=\"highlight\">105</style>%)\n[WhenUse] 自分の[Breath]5<style=\"highlight\">につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WhenUse] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BoseProjektil]1につきダメージ量 +<style=\"highlight\">15</style>% (最大<style=\"highlight\">105</style>%)\n[WhenUse] 自分の[Breath]5<style=\"highlight\">につき</style>、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WhenUse] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [BoseProjektil]당 피해량 +&lt;style=\"highlight\"&gt;15&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;105&lt;/style&gt;%)\n[WhenUse] 자신의 [Breath] 5 &lt;style=\"highlight\"&gt;당&lt;/style&gt;, 코인 위력 +1 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[WhenUse] [Breath] 2 얻음\nEN:\n[WhenUse] Deal +&lt;style=\"highlight\"&gt;15&lt;/style&gt;% damage for every [BoseProjektil] on self (max &lt;style=\"highlight\"&gt;105&lt;/style&gt;%)\n[WhenUse] &lt;style=\"highlight\"&gt;Coin Power +1 for every 5 [Breath] on self (max 2)&lt;/style&gt;\n[WhenUse] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [Breath]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> [Laceration]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack]&lt;/style&gt; [Laceration] 2 부여\nEN:\n&lt;style=\"highlight\"&gt;[CriticalOnSucceedAttack]&lt;/style&gt; Inflict 2 [Laceration]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [Breath]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [BoseProjektil]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BoseProjektil]1を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BoseProjektil] 1 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 1 [BoseProjektil]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [Laceration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [Laceration] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[CriticalOnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "1011302-levelList[2].coinlist[1].coindescs[4].desc",
+    "original": "[CriticalOnSucceedAttack] [BoseProjektil]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CriticalOnSucceedAttack] [BoseProjektil]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CriticalOnSucceedAttack] [BoseProjektil] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1011303-levelList[0].name",
+    "original": "対象調整射撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象調整射撃\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상 조정 사격\nEN:\nTarget Readjustment Fire"
+  },
+  {
+    "key": "1011303-levelList[0].desc",
+    "original": "[StartBattle] 体力が最も低い対象を優先して攻撃\n- 自分の[BoseProjektil]が7なら、メインターゲットを味方に優先指定\n[StartBattle] 自分の[BoseProjektil]3につき、攻撃加重値 +1 (最大2)\n[WhenUse] 自分の[Breath]が5以上なら、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が3以上なら、基本威力 +1\n[WhenUse] 自分の[BoseProjektil]1につき、[Breath]1を得る (最大7)\n[EndSkill] 自分の([BoseProjektil] × 2)だけ精神力が減少 (最大14減少)\n[EndSkill] 戦闘開始時、自分の[BoseProjektil]が7なら全て消耗\n- 全て消耗して味方が死亡したなら、自分の精神力を20回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] 体力が最も低い対象を優先して攻撃\n- 自分の[BoseProjektil]が7なら、メインターゲットを味方に優先指定\n[StartBattle] 自分の[BoseProjektil]3につき、攻撃加重値 +1 (最大2)\n[WhenUse] 自分の[Breath]が5以上なら、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が3以上なら、基本威力 +1\n[WhenUse] 自分の[BoseProjektil]1につき、[Breath]1を得る (最大7)\n[EndSkill] 自分の([BoseProjektil] × 2)だけ精神力が減少 (最大14減少)\n[EndSkill] 戦闘開始時、自分の[BoseProjektil]が7なら全て消耗\n- 全て消耗して味方が死亡したなら、自分の精神力を20回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 체력이 가장 낮은 대상 우선 공격\n- 자신의 [BoseProjektil]이 7이면, 메인 타겟을 아군 우선 지정\n[StartBattle] 자신의 [BoseProjektil] 3당, 공격 가중치 +1 (최대 2)\n[WhenUse] 자신의 [Breath]이 5 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [BoseProjektil]당, [Breath] 1 얻음 (최대 7)\n[EndSkill] 자신의 ([BoseProjektil] X 2) 만큼 정신력 감소 (최대 14 감소)\n[EndSkill] 전투 시작 시 자신의 [BoseProjektil]이 7이면, 전부 소모\n- 전부 소모했고 아군이 사망했으면, 자신의 정신력 20 회복\nEN:\n[StartBattle] Targets the unit with the least HP\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (max 2)\n[WhenUse] At 5+ [Breath], Coin Power +1\n[WhenUse] At 3+ [Breath] Count, Base Power +1\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (max 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (max 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음\nEN:\nThis Coin deals damage only against the main target"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[0].coindescs[2].desc",
+    "original": "メインターゲットが味方なら、下記の効果が適用される\n- この攻撃に限り貫通属性耐性を脆弱に変更する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、下記の効果が適用される\n- この攻撃に限り貫通属性耐性を脆弱に変更する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, 아래 효과가 적용됨\n- 이 공격에 한해 관통 속성 내성을 취약으로 변경함\nEN:\nIf the main target is an ally, activate the following effects:\n- The main target's Pierce Resistance becomes Fatal against this attack"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[0].coindescs[3].desc",
+    "original": "- 自分の[BoseProjektil]1につき、ダメージ量 +5%(最大35%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分の[BoseProjektil]1につき、ダメージ量 +5%(最大35%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신의 [BoseProjektil]당 피해량 +5% (최대 35%)\nEN:\n- Deal +5% damage for every [BoseProjektil] on self (max 35%)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[0].coindescs[4].desc",
+    "original": "- 自分の[Breath]1につき、クリティカルダメージ量 +2%(最大40%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分の[Breath]1につき、クリティカルダメージ量 +2%(最大40%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신의 [Breath]당 크리티컬 피해량 +2% (최대 40%)\nEN:\n- +2% Damage on Critical Hit for every [Breath] on self (max 40%)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\nEN:\nThis Coin deals damage only against the sub-targets"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "- メインターゲットが敵だった場合、メインターゲットにダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- メインターゲットが敵だった場合、メインターゲットにダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 메인 타겟이 적이였을 경우, 메인 타겟에게 피해를 입힘\nEN:\n- However, if the main target was an enemy, deal damage against the main target"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[3].desc",
+    "original": "- 1枚目のコインで味方を倒せなかったなら、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 1枚目のコインで味方を倒せなかったなら、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 첫번째 코인에서 아군을 처치하지 못했으면, 서브 타겟 중 무작위 1명이 피해를 입음\nEN:\n- If the first Coin failed to kill an ally, 1 random sub-target takes damage"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[4].desc",
+    "original": "自分の[BoseProjektil]1につき、ダメージ量 +15%(最大105%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[BoseProjektil]1につき、ダメージ量 +15%(最大105%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [BoseProjektil]당, 피해량 +15% (최대 105%)\nEN:\nDeal +15% damage for every [BoseProjektil] on self (max 105%)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[5].desc",
+    "original": "- 1枚目のコインで味方を倒したなら、代わりに自分の[BoseProjektil]1につき、ダメージ量 +30%(最大210%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 1枚目のコインで味方を倒したなら、代わりに自分の[BoseProjektil]1につき、ダメージ量 +30%(最大210%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 첫번째 코인에서 아군을 처치했으면, 대신하여 자신의 [BoseProjektil]당 피해량 +30% (최대 210%)\nEN:\n- If the first Coin killed an ally, deal +30% damage for every [BoseProjektil] on self instead (max 210%)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[6].desc",
+    "original": "[Breath]威力1につき、クリティカルダメージ量 +2.5%(最大25%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Breath]威力1につき、クリティカルダメージ量 +2.5%(最大25%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Breath] 위력당, 크리티컬 피해량 +2.5% (최대 25%)\nEN:\n+2.5% Damage on Critical Hit for every [Breath] Potency (max &lt;style=\"highlight\"&gt;25%&lt;/style&gt;)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[7].desc",
+    "original": "自分の[BoseProjektil]1につき、クリティカルダメージ量 +7%(最大49%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[BoseProjektil]1につき、クリティカルダメージ量 +7%(最大49%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [BoseProjektil]당, 크리티컬 피해량 +7% (최대 49%)\nEN:\n+7% Damage on Critical Hit for every [BoseProjektil] on self (max 49%)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[8].desc",
+    "original": "1枚目のコインでメインターゲットに与えたダメージの比率(体力最大値を基準とする)だけダメージ量が増加 (最大100%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1枚目のコインでメインターゲットに与えたダメージの比率(体力最大値を基準とする)だけダメージ量が増加 (最大100%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫번째 코인으로 메인 타겟에게 가한 피해 비율(최대 체력 기준)만큼 피해량이 증가 (최대 100%)\nEN:\nDeal +(HP percentage the first Coin removed from the main target)% damage (max 100%)"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[9].desc",
+    "original": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Laceration]"
+  },
+  {
+    "key": "1011303-levelList[0].coinlist[1].coindescs[10].desc",
+    "original": "- 1枚目のコインで味方を倒したなら、代わりに[Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 1枚目のコインで味方を倒したなら、代わりに[Laceration]3を付与、[Laceration]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 첫번째 코인에서 아군을 처치했으면, 대신하여 [Laceration] 3 부여, [Laceration] 횟수 1 증가\nEN:\n- If the first Coin killed an ally, inflict 3 [Laceration] and +1 [Laceration] Count instead"
+  },
+  {
+    "key": "1011303-levelList[1].name",
+    "original": "対象調整射撃\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象調整射撃\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상 조정 사격\nEN:\nTarget Readjustment Fire"
+  },
+  {
+    "key": "1011303-levelList[1].desc",
+    "original": "[StartBattle] 体力が最も低い対象を優先して攻撃\n- 自分の[BoseProjektil]が7なら、メインターゲットを味方に優先指定\n[StartBattle] 自分の[BoseProjektil]3につき、攻撃加重値 +1 (最大2)\n[WhenUse] 自分の[Breath]が5<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数3<style=\"highlight\">につき</style>、基本威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[BoseProjektil]1につき、[Breath]1を得る (最大7)\n[EndSkill] 自分の([BoseProjektil] × 2)だけ精神力が減少 (最大14減少)\n[EndSkill] 戦闘開始時、自分の[BoseProjektil]が7なら全て消耗\n- 全て消耗して味方が死亡したなら、自分の精神力を20回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] 体力が最も低い対象を優先して攻撃\n- 自分の[BoseProjektil]が7なら、メインターゲットを味方に優先指定\n[StartBattle] 自分の[BoseProjektil]3につき、攻撃加重値 +1 (最大2)\n[WhenUse] 自分の[Breath]が5<style=\"highlight\">につき</style>、コイン威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[Breath]回数3<style=\"highlight\">につき</style>、基本威力 +1 <style=\"highlight\">(最大2)</style>\n[WhenUse] 自分の[BoseProjektil]1につき、[Breath]1を得る (最大7)\n[EndSkill] 自分の([BoseProjektil] × 2)だけ精神力が減少 (最大14減少)\n[EndSkill] 戦闘開始時、自分の[BoseProjektil]が7なら全て消耗\n- 全て消耗して味方が死亡したなら、自分の精神力を20回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 체력이 가장 낮은 대상 우선 공격\n- 자신의 [BoseProjektil]이 7이면, 메인 타겟을 아군 우선 지정\n[StartBattle] 자신의 [BoseProjektil] 3당, 공격 가중치 +1 (최대 2)\n[WhenUse] 자신의 [Breath] 5 &lt;style=\"highlight\"&gt;당&lt;/style&gt;, 코인 위력 +1 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [Breath] 횟수 3 &lt;style=\"highlight\"&gt;당&lt;/style&gt;, 기본 위력 +1 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [BoseProjektil]당, [Breath] 1 얻음 (최대 7)\n[EndSkill] 자신의 ([BoseProjektil] X 2) 만큼 정신력 감소 (최대 14 감소)\n[EndSkill] 전투 시작 시 자신의 [BoseProjektil]이 7이면, 전부 소모\n- 전부 소모했고 아군이 사망했으면, 자신의 정신력 20 회복\nEN:\n[StartBattle] Targets the unit with the least HP\n- At 7 [BoseProjektil], primarily targets among allies as the main target\n[StartBattle] Gain +1 Atk Weight for every 3 [BoseProjektil] on self (max 2)\n[WhenUse] &lt;style=\"highlight\"&gt;Coin Power +1 for every 5 [Breath] on self (max 2)&lt;/style&gt;\n[WhenUse] &lt;style=\"highlight\"&gt;Base Power +1 for every 3 [Breath] Count on self (max 2)&lt;/style&gt;\n[WhenUse] Gain 1 [Breath] for every [BoseProjektil] on self (max 7)\n[EndSkill] Lose ([BoseProjektil] on self x 2) SP (max 14)\n[EndSkill] If this unit has 7 [BoseProjektil] at Combat Start, lose them all\n- If this unit lost all [BoseProjektil], and if an ally is killed, heal 20 SP on self"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このコインはメインターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 메인 타겟만 피해를 입음\nEN:\nThis Coin deals damage only against the main target"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[0].coindescs[2].desc",
+    "original": "メインターゲットが味方なら、下記の効果が適用される\n- この攻撃に限り貫通属性耐性を脆弱に変更する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "メインターゲットが味方なら、下記の効果が適用される\n- この攻撃に限り貫通属性耐性を脆弱に変更する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n메인 타겟이 아군이면, 아래 효과가 적용됨\n- 이 공격에 한해 관통 속성 내성을 취약으로 변경함\nEN:\nIf the main target is an ally, activate the following effects:\n- The main target's Pierce Resistance becomes Fatal against this attack"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[0].coindescs[3].desc",
+    "original": "- 自分の[BoseProjektil]1につき、ダメージ量 +7%(最大49%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分の[BoseProjektil]1につき、ダメージ量 +7%(最大49%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신의 [BoseProjektil]당 피해량 +7% (최대 49%)\nEN:\n- Deal +7% damage for every [BoseProjektil] on self (max 49%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[0].coindescs[4].desc",
+    "original": "- 自分の[Breath]1につき、クリティカルダメージ量 +3%(最大60%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分の[Breath]1につき、クリティカルダメージ量 +3%(最大60%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신의 [Breath]당 크리티컬 피해량 +3% (최대 60%)\nEN:\n- +3% Damage on Critical Hit for every [Breath] on self (max 60%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "このコインはサブターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このコインはサブターゲットにのみダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 코인에는 서브 타겟만 피해를 입음\nEN:\nThis Coin deals damage only against the sub-targets"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "- メインターゲットが敵だった場合、メインターゲットにダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- メインターゲットが敵だった場合、メインターゲットにダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 메인 타겟이 적이였을 경우, 메인 타겟에게 피해를 입힘\nEN:\n- However, if the main target was an enemy, deal damage against the main target"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[3].desc",
+    "original": "- 1枚目のコインで味方を倒せなかったなら、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 1枚目のコインで味方を倒せなかったなら、サブターゲットのうちランダムな1名がダメージを受ける\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 첫번째 코인에서 아군을 처치하지 못했으면, 서브 타겟 중 무작위 1명이 피해를 입음\nEN:\n- If the first Coin failed to kill an ally, 1 random sub-target takes damage"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[4].desc",
+    "original": "自分の[BoseProjektil]1につき、ダメージ量 +<style=\"highlight\">20</style>%(最大<style=\"highlight\">140</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[BoseProjektil]1につき、ダメージ量 +<style=\"highlight\">20</style>%(最大<style=\"highlight\">140</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [BoseProjektil]당, 피해량 +&lt;style=\"highlight\"&gt;20&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;140&lt;/style&gt;%)\nEN:\nDeal +&lt;style=\"highlight\"&gt;20&lt;/style&gt;% damage for every [BoseProjektil] on self (max &lt;style=\"highlight\"&gt;140&lt;/style&gt;%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[5].desc",
+    "original": "- 1枚目のコインで味方を倒したなら、代わりに自分の[BoseProjektil]1につき、ダメージ量 +<style=\"highlight\">40</style>%(最大<style=\"highlight\">280</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 1枚目のコインで味方を倒したなら、代わりに自分の[BoseProjektil]1につき、ダメージ量 +<style=\"highlight\">40</style>%(最大<style=\"highlight\">280</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 첫번째 코인에서 아군을 처치했으면, 대신하여 자신의 [BoseProjektil]당 피해량 +&lt;style=\"highlight\"&gt;40&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;280&lt;/style&gt;%)\nEN:\n- If the first Coin killed an ally, deal +&lt;style=\"highlight\"&gt;40&lt;/style&gt;% damage for every [BoseProjektil] on self instead (max &lt;style=\"highlight\"&gt;280&lt;/style&gt;%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[6].desc",
+    "original": "[Breath]威力1につき、クリティカルダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">50</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Breath]威力1につき、クリティカルダメージ量 +<style=\"highlight\">5</style>%(最大<style=\"highlight\">50</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Breath] 위력당, 크리티컬 피해량 +&lt;style=\"highlight\"&gt;5&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\nEN:\n+&lt;style=\"highlight\"&gt;5&lt;/style&gt;% Damage on Critical Hit for every [Breath] Potency (max &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[7].desc",
+    "original": "自分の[BoseProjektil]1につき、クリティカルダメージ量 +<style=\"highlight\">10</style>%(最大<style=\"highlight\">70</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[BoseProjektil]1につき、クリティカルダメージ量 +<style=\"highlight\">10</style>%(最大<style=\"highlight\">70</style>%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [BoseProjektil]당, 크리티컬 피해량 +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;70&lt;/style&gt;%)\nEN:\n+&lt;style=\"highlight\"&gt;10&lt;/style&gt;% Damage on Critical Hit for every [BoseProjektil] on self (max &lt;style=\"highlight\"&gt;70&lt;/style&gt;%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[8].desc",
+    "original": "1枚目のコインでメインターゲットに与えたダメージの比率(体力最大値を基準とする)だけダメージ量が増加 (最大100%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1枚目のコインでメインターゲットに与えたダメージの比率(体力最大値を基準とする)だけダメージ量が増加 (最大100%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫번째 코인으로 메인 타겟에게 가한 피해 비율(최대 체력 기준)만큼 피해량이 증가 (최대 100%)\nEN:\nDeal +(HP percentage the first Coin removed from the main target)% damage (max 100%)"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[9].desc",
+    "original": "[OnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Laceration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Laceration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Laceration]"
+  },
+  {
+    "key": "1011303-levelList[1].coinlist[1].coindescs[10].desc",
+    "original": "- 1枚目のコインで味方を倒したなら、代わりに[Laceration]<style=\"highlight\">5</style>を付与、[Laceration]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 1枚目のコインで味方を倒したなら、代わりに[Laceration]<style=\"highlight\">5</style>を付与、[Laceration]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 첫번째 코인에서 아군을 처치했으면, 대신하여 [Laceration] &lt;style=\"highlight\"&gt;5&lt;/style&gt; 부여, [Laceration] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가\nEN:\n- If the first Coin killed an ally, inflict &lt;style=\"highlight\"&gt;5&lt;/style&gt; [Laceration] and +&lt;style=\"highlight\"&gt;2&lt;/style&gt; [Laceration] Count instead"
+  },
+  {
+    "key": "1011304-levelList[0].name",
+    "original": "前方支援\n<CMT_KR>\n<CMT_JP>",
+    "translation": "前方支援\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전방 지원\nEN:\nFront Line Support"
+  },
+  {
+    "key": "1011304-levelList[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] 自分の[Breath]2につき、コイン威力 +1(最大2)\n[WhenUse] [BoseProjektil]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[WhenUse] 自分の[Breath]2につき、コイン威力 +1(最大2)\n[WhenUse] [BoseProjektil]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n[WhenUse] 자신의 [Breath] 2 당, 코인 위력 +1 (최대 2)\n[WhenUse] [BoseProjektil] 2 얻음\nEN:\n[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (max 2)\n[WhenUse] Gain 2 [BoseProjektil]"
+  },
+  {
+    "key": "1011304-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011304-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Breath] Count"
+  },
+  {
+    "key": "1011304-levelList[1].name",
+    "original": "前方支援\n<CMT_KR>\n<CMT_JP>",
+    "translation": "前方支援\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전방 지원\nEN:\nFront Line Support"
+  },
+  {
+    "key": "1011304-levelList[1].desc",
+    "original": "[DuelCounter]\n[WhenUse] 自分の[Breath]2につき、コイン威力 +1(最大3)\n[WhenUse] [BoseProjektil]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[WhenUse] 自分の[Breath]2につき、コイン威力 +1(最大3)\n[WhenUse] [BoseProjektil]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n[WhenUse] 자신의 [Breath] 2 당, 코인 위력 +1 (최대 3)\n[WhenUse] [BoseProjektil] 2 얻음\nEN:\n[DuelCounter]\n[WhenUse] Coin Power +1 for every 2 [Breath] on self (max 3)\n[WhenUse] Gain 2 [BoseProjektil]"
+  },
+  {
+    "key": "1011304-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Breath]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Breath] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [Breath]"
+  },
+  {
+    "key": "1011304-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Breath]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Breath] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [Breath] Count"
   }
 ]

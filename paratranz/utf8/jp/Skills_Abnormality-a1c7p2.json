@@ -127,9 +127,9 @@
   },
   {
     "key": "838105-levelList[0].desc",
-    "original": "[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が50未満なら、[Laceration]25, [Laceration]回数2を得てから即2回発動させ、[Laceration]回数が2減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[WhenUse] [BloodDinner]を半分だけ消耗\n[EndBattle] [IncompleteParade]を全て消耗\n[EndBattle] [FestivalFever]10得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が50未満なら、[Laceration]25, [Laceration]回数2を得てから即2回発動させ、[Laceration]回数が2減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[WhenUse] [BloodDinner]を半分だけ消耗\n[EndBattle] [IncompleteParade]を全て消耗\n[EndBattle] [FestivalFever]10を得る\n<CMT_KR>오기: \"[EndBattle] [FestivalFever]10「」得る\" 정확: \"[EndBattle] [FestivalFever]10「を」得る\"\n<CMT_JP>誤記: \"[EndBattle] [FestivalFever]10「」得る\" 訂正後: \"[EndBattle] [FestivalFever]10「を」得る\"",
-    "stage": 1,
+    "original": "[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が50未満なら、[Laceration]25, [Laceration]回数2を得てから即2回発動させ、[Laceration]回数が2減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[WhenUse] [BloodDinner]を半分だけ消耗\n[EndBattle] [IncompleteParade]を全て消耗\n[EndBattle] [FestivalFever]を10得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[BloodDinner_Accumulation]20につきマッチ威力 +1(最大10)\n[WhenUse] [BloodDinner]が50未満なら、[Laceration]25, [Laceration]回数2を得てから即2回発動させ、[Laceration]回数が2減少(体力が10%未満なら[Laceration], [Laceration]回数を得る効果のみを発動)\n[WhenUse] [BloodDinner]を半分だけ消耗\n[EndBattle] [IncompleteParade]を全て消耗\n[EndBattle] [FestivalFever]を10得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[WhenUse] 자신의 [BloodDinner_Accumulation] 20당 합 위력 +1 (최대 10)\n[WhenUse] [BloodDinner]이 50 미만이면, [Laceration] 25, [Laceration] 횟수 2를 얻은 다음 즉시 2회 발동시키고 [Laceration] 횟수 2 감소 (체력이 10% 미만이면 [Laceration], [Laceration] 횟수를 얻는 효과만 발동)\n[WhenUse] [BloodDinner]을 절반만큼 소모\n[EndBattle] [IncompleteParade]를 전부 소모\n[EndBattle] [FestivalFever] 10 얻음\nEN:\n[WhenUse] Clash Power +1 for every 20 [BloodDinner_Accumulation] by this unit (max 10)\n[WhenUse] At less than 50 [BloodDinner], gain 25 [Laceration], +2 [Laceration] Count, immediately trigger it twice, then reduce [Laceration] Count by 2 (at less than 10% HP, activate only the part of this effect where this unit gains [Laceration] Potency and Count)\n[WhenUse] Consume half of [BloodDinner]\n[EndBattle] Consume all [IncompleteParade]\n[EndBattle] Gain 10 [FestivalFever]"
   },
   {

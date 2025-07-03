@@ -134,9 +134,9 @@
   },
   {
     "key": "OnKillEnemyByOtherAllyExceptSupportiveAction-min",
-    "original": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒された場合は減少しない。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒した場合は減少しない。\n<CMT_KR>오기: \"味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が「倒された」場合は減少しない。\" 정확: \"援護攻撃が付与された味方が「倒した」場合は減少しない。\"\n<CMT_JP>誤記: \"味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が「倒された」場合は減少しない。\" 訂正後: \"援護攻撃が付与された味方が「倒した」場合は減少しない。\"",
-    "stage": 1,
+    "original": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒した場合は減少しない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方が倒した敵のレベルが自分のレベル以上の場合、{0}減少。援護攻撃が付与された味方が倒した場合は減少しない。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n아군이 처치한 적의 레벨이 자신의 레벨 이상인 경우 {0} 감소. 원호 공격이 부여된 아군이 처치한 경우에는 감소하지 않음.\nEN:\nDecrease by {0} after an ally defeats an enemy whose level was higher than or equal to this unit’s. Does not decrease when the enemy was defeated by an Assist Attack."
   },
   {

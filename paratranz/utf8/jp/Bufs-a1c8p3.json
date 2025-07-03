@@ -8,9 +8,9 @@
   },
   {
     "key": "Bothersome-desc",
-    "original": "- 対象の斬撃耐性の弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 対象の斬撃耐性を弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>오기: \"- 対象の斬撃耐性「の」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\" 정확: \"- 対象の斬撃耐性「を」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\"\n<CMT_JP>誤記: \"- 対象の斬撃耐性「の」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\" 訂正後: \"- 対象の斬撃耐性「を」弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\"",
-    "stage": 1,
+    "original": "- 対象の斬撃耐性を弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 対象の斬撃耐性を弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n- 대상의 참격 내성을 약점(1.5)으로 취급함 (대상의 참격 내성이 1.5 이상인 경우에는 적용되지 않음)\n- 턴 종료 시, 사라짐\nEN:\n- The target's Slash Resistance counts as 'Weak'(1.5). (does not activate against targets with 1.5 or higher Slash Resistance)\n- Expires at Turn End"
   },
   {
@@ -456,9 +456,9 @@
   },
   {
     "key": "Obedient-desc",
-    "original": "- ジア・ムーとマッチ侵攻時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- ジア・ムーとマッチ進行時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>오기: \"- ジア・ムーとマッチ「侵攻」時、マッチ威力 -2\" 정확: \"- ジア・ムーとマッチ「進行」時、マッチ威力 -2\"\n<CMT_JP>誤記: \"- ジア・ムーとマッチ「侵攻」時、マッチ威力 -2\" 訂正後: \"- ジア・ムーとマッチ「進行」時、マッチ威力 -2\"",
-    "stage": 1,
+    "original": "- ジア・ムーとマッチ進行時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ジア・ムーとマッチ進行時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n- 가모와 합 진행 시 합 위력 -2\n- 이 캐릭터의 정신력이 45가 되거나 수치가 0이 되면 해제됨\n- 턴 종료 시 1 감소\nEN:\n- Clash Power -2 in Clashes against Jia Mu\n- Expires when this unit's SP reaches 45, or when the Stack drops to 0\n- Turn End: lose 1 Stack"
   },
   {
@@ -582,8 +582,8 @@
   },
   {
     "key": "ImperfectEternalLife-desc",
-    "original": "- ジア・ムーの特定スキルに被ダメージ時に吸収される\n- この効果がジア・ムーに付与される場合、数値1につき脆弱1を得て、数値が5なら混乱状態になる\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- ジア・ムーの特定スキルに被ダメージ時に吸収される\n- この効果がジア・ムーに付与される場合、数値1につき脆弱1を得て、数値が5なら混乱状態になる\n<CMT_KR>\n<CMT_JP>",
+    "original": "- ジア・ムーの特定スキルによって被ダメージ時に吸収される\n- この効果がジア・ムーに付与される場合、数値1につき脆弱1を得て、数値が5なら混乱状態になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ジア・ムーの特定スキルによって被ダメージ時に吸収される\n- この効果がジア・ムーに付与される場合、数値1につき脆弱1を得て、数値が5なら混乱状態になる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 가모의 특정 스킬에 피격 시 흡수 당함\n- 이 효과가 가모에게 부여된 경우, 수치당 취약 1 얻고, 수치가 5면, 흐트러짐 상태가 됨\nEN:\n- Absorbed when struck by certain Skills of Jia Mu\n- If this effect was inflicted against Jia Mu, gain 1 Fragile per Stack; at 5 Stack, become Staggered"
   },
@@ -617,8 +617,8 @@
   },
   {
     "key": "LastingHongwonWill_LowMorale-name",
-    "original": "継承された鴻園の意\n<CMT_KR>\n<CMT_JP>",
-    "translation": "継承された鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "original": "承継された鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "translation": "承継された鴻園の意\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n계승된 홍원의 뜻\nEN:\nInherited Will of Hongyuan"
   },
@@ -631,8 +631,8 @@
   },
   {
     "key": "LastingHongwonWill_Panic-name",
-    "original": "継承された鴻園の意\n<CMT_KR>\n<CMT_JP>",
-    "translation": "継承された鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "original": "承継された鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "translation": "承継された鴻園の意\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n계승된 홍원의 뜻\nEN:\nInherited Will of Hongyuan"
   },
@@ -645,8 +645,8 @@
   },
   {
     "key": "LongLastingHongwonWill_LowMorale-name",
-    "original": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_JP>",
-    "translation": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "original": "悠久に承継される鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悠久に承継される鴻園の意\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n유구히 계승될 홍원의 뜻\nEN:\nInfinitely Bequeathing Will of Hongyuan"
   },
@@ -659,8 +659,8 @@
   },
   {
     "key": "LongLastingHongwonWill_Panic-name",
-    "original": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_JP>",
-    "translation": "悠久に継承される鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "original": "悠久に承継される鴻園の意\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悠久に承継される鴻園の意\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n유구히 계승될 홍원의 뜻\nEN:\nInfinitely Bequeathing Will of Hongyuan"
   },

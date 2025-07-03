@@ -8,15 +8,15 @@
   },
   {
     "key": "mission_ui_condition_tags_103002001-content",
-    "original": "経験値採光を類型で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
-    "translation": "経験値採光を累計で{0}回クリア\n<CMT_KR>오기: \"経験値採光を「類型」で{0}回クリア\" 정확: \"経験値採光を「累計」で{0}回クリア\"\n<CMT_JP>誤記: \"経験値採光を「類型」で{0}回クリア\" 訂正後: \"経験値採光を「累計」で{0}回クリア\"",
-    "stage": 1,
+    "original": "経験値採光を累計で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "経験値採光を累計で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n경험치 채광 누적 {0}회 클리어\nEN:\nClear EXP Luxcavation a total of {0} time(s)"
   },
   {
     "key": "mission_ui_condition_tags_103003001-content",
-    "original": "紐採光を類型で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
-    "translation": "紐採光を類型で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
+    "original": "紐採光を累計で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "紐採光を累計で{0}回クリア\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n끈 채광 누적 {0}회 클리어\nEN:\nClear Thread Luxcavation a total of {0} time(s)"
   },

@@ -295,9 +295,9 @@
   },
   {
     "key": "838002-desc",
-    "original": "攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけの部位と本体の体力を回復。\n- 自分の[Laceration]威力1につき、このパッシブの回復量が1%増加(最大20%)\n- [SuperCoin]の場合、マッチ敗北後に的中時、この効果は発動しない。\n毎ターン開始時、([BloodDinner] ÷ 10)だけ自分の体力を回復する(最大50)\n毎ターン開始時、精神力が-15以下なら、(20 - 自分の精神力)だけ[BloodDinner]を消耗して精神力を回復。マッチ威力増加2を得る\n敵討伐時、[BloodArmor]を5得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ部位と本体の体力を回復。\n- 自分の[Laceration]威力1につき、このパッシブの回復量が1%増加(最大20%)\n- [SuperCoin]の場合、マッチ敗北後に的中時、この効果は発動しない。\n毎ターン開始時、([BloodDinner] ÷ 10)だけ自分の体力を回復する(最大50)\n毎ターン開始時、精神力が-15以下なら、(20 - 自分の精神力)だけ[BloodDinner]を消耗して精神力を回復。マッチ威力増加2を得る\n敵討伐時、[BloodArmor]を5得る\n<CMT_KR>오기: \"攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ「の」部位と本体の体力を回復。\" 정확: \"与えたダメージ量の40%だけ「」部位と本体の体力を回復。\"\n<CMT_JP>誤記: \"攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ「の」部位と本体の体力を回復。\" 訂正後: \"与えたダメージ量の40%だけ「」部位と本体の体力を回復。\"",
-    "stage": 1,
+    "original": "攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ部位と本体の体力を回復。\n- 自分の[Laceration]威力1につき、このパッシブの回復量が1%増加(最大20%)\n- [SuperCoin]の場合、マッチ敗北後に的中時、この効果は発動しない。\n毎ターン開始時、([BloodDinner] ÷ 10)だけ自分の体力を回復する(最大50)\n毎ターン開始時、精神力が-15以下なら、(20 - 自分の精神力)だけ[BloodDinner]を消耗して精神力を回復。マッチ威力増加2を得る\n敵討伐時、[BloodArmor]を5得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃的中時、対象に[Laceration]があれば、与えたダメージ量の40%だけ部位と本体の体力を回復。\n- 自分の[Laceration]威力1につき、このパッシブの回復量が1%増加(最大20%)\n- [SuperCoin]の場合、マッチ敗北後に的中時、この効果は発動しない。\n毎ターン開始時、([BloodDinner] ÷ 10)だけ自分の体力を回復する(最大50)\n毎ターン開始時、精神力が-15以下なら、(20 - 自分の精神力)だけ[BloodDinner]を消耗して精神力を回復。マッチ威力増加2を得る\n敵討伐時、[BloodArmor]を5得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n공격 적중시 대상에게 [Laceration]이 있으면, 입힌 피해량의 40%만큼 부위와 본체 체력 회복.\n- 자신의 [Laceration] 위력 1당, 이 패시브의 회복량 1% 증가 (최대 20%)\n- 파괴 불가 코인의 경우 합 패배 후 적중 시 이 효과는 발동되지 않음.\n매 턴 시작 시 ([BloodDinner] / 10)만큼 자신의 체력을 회복함. (최대 50)\n매 턴 시작 시 정신력이 -15 이하라면, (20 - 자신의 정신력)만큼 [BloodDinner]을 소모하여 정신력 회복. 합 위력 증가 2 얻음\n적 처치 시, [BloodArmor]을 5 얻음\nEN:\nOn Hit, if the target has [Laceration], heal Part and Core by 40% of the damage dealt.\n- This Passive heals +1% more HP for every [Laceration] Potency on self (max 20%)\n- For Unbreakable Coins: this effect does not activate on Hit After Clash Lose.\nEvery Turn Start: heal ([BloodDinner]/10) HP. (max 50)\nEvery Turn Start: at -15 or less SP, consume (20 - current SP) [BloodDinner] to gain SP and gain 2 Clash Power Up\nOn Kill, gain 5 [BloodArmor]"
   },
   {
@@ -428,9 +428,9 @@
   },
   {
     "key": "839001-desc",
-    "original": "本体の体力が1未満に下がらない.\n<CMT_KR>\n<CMT_JP>",
-    "translation": "本体の体力が1未満に下がらない。\n<CMT_KR>오기: \"本体の体力が1未満に下がらない「.」\" 정확: \"本体の体力が1未満に下がらない「。」\"\n<CMT_JP>誤記: \"本体の体力が1未満に下がらない「.」\" 訂正後: \"本体の体力が1未満に下がらない「。」\"",
-    "stage": 1,
+    "original": "本体の体力が1未満に下がらない。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "本体の体力が1未満に下がらない。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n본체의 체력이 1 미만으로 감소하지 않음.\nEN:\nCore HP does not drop below 1."
   },
   {

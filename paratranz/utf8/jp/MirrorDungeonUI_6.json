@@ -1,0 +1,478 @@
+[
+  {
+    "key": "mirror_dungeon_detect_theme_pack_button-content",
+    "original": "観測\n<CMT_KR>\n<CMT_JP>",
+    "translation": "観測\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관측\nEN:\nSearch"
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_list_popup_title_format-content",
+    "original": "{0}階層テーマパック観測\n<CMT_KR>\n<CMT_JP>",
+    "translation": "{0}階層テーマパック観測\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0}층 테마팩 관측\nEN:\nSearch Theme Packs for Floor {0}"
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_comfirm_modal_desc_format-content",
+    "original": "テーマパック'{0}'がテーマパック'{1}'に変更されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "テーマパック'{0}'がテーマパック'{1}'に変更されます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n'{0}' 테마팩이 '{1}' 테마팩으로 변경됩니다.\nEN:\n'{0}' Pack will be replaced with '{1}' Pack."
+  },
+  {
+    "key": "combineUI_enableStarlight-content",
+    "original": "願いごと\n<CMT_KR>\n<CMT_JP>",
+    "translation": "願いごと\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소원 빌기\nEN:\nWishmaking"
+  },
+  {
+    "key": "combineUI_enableStarlight_confirm_desc-content",
+    "original": "星明かりを5消耗して合成確率を増加させますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりを5消耗して合成確率を増加させますか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛을 5 소모하여 합성 확률을 증가시키시겠습니까?\nEN:\nSpend 5 Starlight to improve Fusion chance?"
+  },
+  {
+    "key": "side_title_not_enough_starlight-content",
+    "original": "星明かりが足りません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりが足りません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛이 충분하지 않습니다.\nEN:\nNot enough Starlight."
+  },
+  {
+    "key": "side_title_not_use_starlight-content",
+    "original": "星明かりを消耗できません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりを消耗できません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛을 소모할 수 없습니다.\nEN:\nCannot spend Starlight."
+  },
+  {
+    "key": "side_desc_is_fixed_combine_egogift-content",
+    "original": "確定合成されるE.G.Oギフトレシピです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "確定合成されるE.G.Oギフトレシピです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n확정합성되는 에고기프트 조합식입니다.\nEN:\nThis is a guaranteed E.G.O Gift Fusion Recipe."
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_side_popup_already_in_pool-content",
+    "original": "既に一覧に存在するテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "既に一覧に存在するテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이미 목록에 존재하는 테마팩입니다.\nEN:\nThis Theme Pack is already available."
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_1-content",
+    "original": "解放条件を満たさなければならないテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "解放条件を満たさなければならないテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n개방 조건을 만족해야하는 테마팩입니다.\nEN:\nThis Theme Pack's unlock conditions need to be met first."
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_side_popup_locked_by_unlockcode_2_format-content",
+    "original": "解放条件 {0}章クリア時に進入可能なテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "解放条件 {0}章クリア時に進入可能なテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n개방 조건 {0}장 클리어 시 진입 가능한 테마팩입니다.\nEN:\nThis Theme Pack will become available when meeting the Unlock Conditions: Clear Chapter {0}."
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_side_popup_passed_pack-content",
+    "original": "以前の階層で選択したテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "以前の階層で選択したテーマパックです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이전 층에서 선택한 테마팩입니다.\nEN:\nThis Theme Pack has already been selected in previous Floors."
+  },
+  {
+    "key": "mirror_dungeon_detect_theme_pack_not_enough_point-content",
+    "original": "テーマパック観測に必要な星明かりが足りません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "テーマパック観測に必要な星明かりが足りません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n테마팩 관측에 필요한 별빛이 부족합니다.\nEN:\nNot enough Starlight to Observe Theme Packs."
+  },
+  {
+    "key": "mirrordungeon_theme_hard_blocked_6-content",
+    "original": "8章クリア時に解放されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "8章クリア時に解放されます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n8장 클리어 시 개방됩니다.\nEN:\nClear Canto VIII to Unlock."
+  },
+  {
+    "key": "mirrordungeon_theme_difficulty_button_no_hard_data-content",
+    "original": "ハードは今後アップデート予定です。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハードは今後アップデート予定です。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하드 업데이트 예정입니다.\nEN:\nHard Diffculty will be updated at a later date."
+  },
+  {
+    "key": "on_click_mirrordungeon_theme_list_hard_button-content",
+    "original": "今後のアップデートにて実装予定\n<CMT_KR>\n<CMT_JP>",
+    "translation": "今後のアップデートにて実装予定\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추후 업데이트 예정\nEN:\nWill be updated at a later date"
+  },
+  {
+    "key": "mirror_start_buff_unavailable_purchase-content",
+    "original": "星明かりが足りません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりが足りません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유 중인 별빛이 부족합니다.\nEN:\nNot enough Starlight."
+  },
+  {
+    "key": "mirror_start_buff_unavailable_purchase_modal_title-content",
+    "original": "星明かり不足\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かり不足\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛 부족\nEN:\nNot Enough Starlight"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_left_cost-content",
+    "original": "星明かりの残量\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりの残量\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잔여 별빛\nEN:\nRemaining Starlight"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_desc_md6_toggle_on-content",
+    "original": "星の加護を購入して残った\n星明かりボーナスをコストに変換します\n\n※保有している星明かりはコストに\n変換されません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星の加護を購入して残った\n星明かりボーナスをコストに変換します\n\n※保有している星明かりはコストに\n変換されません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호를 구매하고 남은\n별빛을 코스트로 전환합니다.\n\n※ 보유 별빛은 코스트로\n전환되지 않습니다.\nEN:\nCoverts any remaining Starlight\nafter purchasing Grace of Stars to Cost.\n\n※ \"Owned Starlight\" will\nnot be converted into Cost."
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_desc_md6_toggle_off-content",
+    "original": "星の加護を購入して残った\n星明かりをクリア時に受領します。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星の加護を購入して残った\n星明かりをクリア時に受領します。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호를 구매하고 남은\n별빛을 클리어 시 수령합니다.\nEN:\nAny unspent Starlight will be\nadded to your Dungeon clear rewards."
+  },
+  {
+    "key": "mirror_theme_list_pack_tag_not_selectable-content",
+    "original": "選択不可\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択不可\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 불가\nEN:\nUnselectable"
+  },
+  {
+    "key": "mirror_theme_list_pack_tag_required_extra_point-content",
+    "original": "追加消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "追加消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추가 소모\nEN:\nExtra Charge"
+  },
+  {
+    "key": "side_desc_is_already_success_percent-content",
+    "original": "合成確率は100%を超過しません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "合成確率は100%を超過しません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n합성 확률은 100%를 초과할 수 없습니다.\nEN:\nFusion Forecast cannot exceed 100%."
+  },
+  {
+    "key": "side_desc_is_all_collect_egogift-content",
+    "original": "キーワードがランダムです。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "キーワードがランダムです。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무작위 키워드 확률 입니다.\nEN:\nRandom Keyword Chance."
+  },
+  {
+    "key": "mirrordungeon_infinity_open_condition_no_have_infinity_data-content",
+    "original": "工事中\n<CMT_KR>\n<CMT_JP>",
+    "translation": "工事中\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공사중\nEN:\nUnder Construction"
+  },
+  {
+    "key": "mirror_dungeon_progress_text_6-content",
+    "original": "永生の鏡 {0}階層\n<CMT_KR>\n<CMT_JP>",
+    "translation": "永生の鏡 {0}階層\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영생의 거울 {0}층\nEN:\nMirror of Immortality - F{0}"
+  },
+  {
+    "key": "mirror_dungeon_available_starlight-content",
+    "original": "使用可能\n<CMT_KR>\n<CMT_JP>",
+    "translation": "使用可能\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능\nEN:\nAvailable"
+  },
+  {
+    "key": "mirrordungeon_starlight_personality_button_label-content",
+    "original": "星明かり 保存対象\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かり 保存対象\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛 보존 대상\nEN:\nStarlight Retention Units"
+  },
+  {
+    "key": "mirrordungeon_starlight_personality_title-content",
+    "original": "星明かり保存対象\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かり保存対象\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛 보존 대상\nEN:\nStarlight Retention Units"
+  },
+  {
+    "key": "mirrordungeon_starlight_personality_desc-content",
+    "original": "星明かりボーナス保存期間中、該当人格で鏡ダンジョンをクリアしても星明かりボーナスが消耗されません。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス保存期間中、該当人格で鏡ダンジョンをクリアしても星明かりボーナスが消耗されません。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛 보존 기간 동안 해당 인격으로 거울 던전 클리어 시 별빛 보너스가 소모되지 않습니다.\nEN:\nFor the retention duration, these units' Starlight Bonuses will not be spent upon clearing a Mirror Dungeon run."
+  },
+  {
+    "key": "combine_egogift_not_allow-content",
+    "original": "選択不可\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択不可\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 불가\nEN:\nUnselectable"
+  },
+  {
+    "key": "number_of_cleared_hard_floors-content",
+    "original": "ハードパッククリア階層数\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハードパッククリア階層数\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하드 팩 클리어 층 수\nEN:\nHard Pack Floors Cleared"
+  },
+  {
+    "key": "mirror_starlight_unlock_condition_lack_of_current_point-content",
+    "original": "星明かり不足\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かり不足\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛 부족\nEN:\nNot Enough Starlight"
+  },
+  {
+    "key": "mirror_starlight_unlock_condition_needs_held_buff_points-content",
+    "original": "星明かり{0}以上\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かり{0}以上\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛 {0}이상\nEN:\nAt {0}+ Starlight"
+  },
+  {
+    "key": "mirror_cleared_floor_count_over_6-content",
+    "original": "平行重畳モード適用でのクリア階層数\n<CMT_KR>\n<CMT_JP>",
+    "translation": "平行重畳モード適用でのクリア階層数\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n평행중첩 모드 적용 클리어 층 수\nEN:\nParallel Superposition Floors Cleared"
+  },
+  {
+    "key": "mirror_cleared_railway_theme_pack_count-content",
+    "original": "鏡屈折鉄道テーマパッククリア数\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鏡屈折鉄道テーマパッククリア数\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울굴절철도 테마팩 클리어 수\nEN:\nRefraction Railway Packs Cleared"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_Panel_title_md6-content",
+    "original": "永生の星の加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "永生の星の加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영생 별의 가호\nEN:\nGrace of the Immortal Star"
+  },
+  {
+    "key": "mirror_dungeon_start_buff_card_enhancement-content",
+    "original": "星の加護の強化\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星の加護の強化\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 강화\nEN:\nBoost Grace of Stars"
+  },
+  {
+    "key": "mirror_user_starlight_buff-content",
+    "original": "星の加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星の加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호\nEN:\nGrace of Stars"
+  },
+  {
+    "key": "mirror_unobservable_egogift_reason-content",
+    "original": "観測不可\n<CMT_KR>\n<CMT_JP>",
+    "translation": "観測不可\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관측 불가\nEN:\nUnobservable"
+  },
+  {
+    "key": "mirror_unobservable_egogift_reason_is_owned-content",
+    "original": "保有中\n<CMT_KR>\n<CMT_JP>",
+    "translation": "保有中\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보유 중\nEN:\nOwned"
+  },
+  {
+    "key": "mirror_start_buff_purchase_modal_check_box-content",
+    "original": "星明かりをコストに変換\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりをコストに変換\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별빛을 코스트로 전환\nEN:\nConvert Starlight to Cost"
+  },
+  {
+    "key": "mirrordungeon_additional_reserved_starlight_from_startBuff-content",
+    "original": "使用しなかった星明かりがクリア報酬に繰り越されました。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "使用しなかった星明かりがクリア報酬に繰り越されました。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용하지 않은 별빛이 클리어 보상으로 이월되었습니다.\nEN:\nUnused Starlight have been added to the Clear Rewards."
+  },
+  {
+    "key": "mirror_starlight_result_base_point-content",
+    "original": "基本\n<CMT_KR>\n<CMT_JP>",
+    "translation": "基本\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본\nEN:\nDefault"
+  },
+  {
+    "key": "mirror_starlight_result_formation_bonus-content",
+    "original": "編成ボーナス\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成ボーナス\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 보너스\nEN:\nLoadout Bonus"
+  },
+  {
+    "key": "mirror_starlight_result_battle_reward_card-content",
+    "original": "戦闘報酬カード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘報酬カード\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 보상 카드\nEN:\nEncounter Reward Cards"
+  },
+  {
+    "key": "mirror_starlight_result_consumed_points_on_start-content",
+    "original": "開始星明かり消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "開始星明かり消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 별빛 소모\nEN:\nStarting Starlight Spent"
+  },
+  {
+    "key": "mirror_starlight_result_dungeon_play_point-content",
+    "original": "探査点数\n<CMT_KR>\n<CMT_JP>",
+    "translation": "探査点数\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐사 점수\nEN:\nExploration Score"
+  },
+  {
+    "key": "mirror_starlight_result_formation_bonus_multiplier-content",
+    "original": "編成ボーナス倍率\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成ボーナス倍率\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 보너스 배율\nEN:\nLoadout Bonus Mult."
+  },
+  {
+    "key": "mirror_starlight_result_consumed_during_dungeon_play-content",
+    "original": "進行中の消耗量\n<CMT_KR>\n<CMT_JP>",
+    "translation": "進行中の消耗量\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진행 중 소모\nEN:\nSpent in Dungeon"
+  },
+  {
+    "key": "mirror_starlight_result_owned_before_enter_dungeon-content",
+    "original": "既存保有量\n<CMT_KR>\n<CMT_JP>",
+    "translation": "既存保有量\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기존 보유\nEN:\nPre-dungeon Reserve"
+  },
+  {
+    "key": "mirror_starlight_result_reward_point-content",
+    "original": "報酬\n<CMT_KR>\n<CMT_JP>",
+    "translation": "報酬\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n보상\nEN:\nReward"
+  },
+  {
+    "key": "mirror_starlight_result_total_owned_point_after_dungeon_play-content",
+    "original": "階層保有数量\n<CMT_KR>\n<CMT_JP>",
+    "translation": "階層保有数量\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총 보유 수량\nEN:\nNet Amount"
+  },
+  {
+    "key": "mirror_starlight_result_tooltip_button-content",
+    "original": "詳細内訳\n<CMT_KR>\n<CMT_JP>",
+    "translation": "詳細内訳\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n상세 내역\nEN:\nDetails"
+  },
+  {
+    "key": "mirror_starlight_result_consumed_points_on_start_tooltip_title-content",
+    "original": "開始星明かり消耗\n<CMT_KR>\n<CMT_JP>",
+    "translation": "開始星明かり消耗\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n시작 별빛 소모\nEN:\nStarting Starlight Spent"
+  },
+  {
+    "key": "mirror_starlight_result_consumed_points_on_start_tooltip_item_purchased-content",
+    "original": "星の加護 購入\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星の加護 購入\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n별의 가호 구매\nEN:\nGrace of Stars Purchased"
+  },
+  {
+    "key": "mirror_starlight_result_consumed_points_on_start_tooltip_item_converted_to_cost-content",
+    "original": "コスト変換\n<CMT_KR>\n<CMT_JP>",
+    "translation": "コスト変換\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n코스트 전환\nEN:\nConverted to Cost"
+  },
+  {
+    "key": "mirror_starlight_result_dungeon_play_point_tooltip_title-content",
+    "original": "探査点数の詳細\n<CMT_KR>\n<CMT_JP>",
+    "translation": "探査点数の詳細\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n탐사 점수 상세\nEN:\nExploration Score Details"
+  },
+  {
+    "key": "mirror_starlight_result_dungeon_play_point_tooltip_item_cleared_floor-content",
+    "original": "クリア改装\n<CMT_KR>\n<CMT_JP>",
+    "translation": "クリア改装\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n클리어 층\nEN:\nCleared Floors"
+  },
+  {
+    "key": "mirror_starlight_result_dungeon_play_point_tooltip_item_hard_difficulty-content",
+    "original": "ハード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハード\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하드 난이도\nEN:\nHard Difficulty"
+  },
+  {
+    "key": "mirror_starlight_result_dungeon_play_point_tooltip_item_railway_theme_pack-content",
+    "original": "鏡屈折鉄道テーマパック\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鏡屈折鉄道テーマパック\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거울굴절철도 테마팩\nEN:\nRefraction Railway Theme Pack"
+  },
+  {
+    "key": "mirror_starlight_result_formation_bonus_multiplier_tooltip_title-content",
+    "original": "編成星明かりボーナス倍率\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成星明かりボーナス倍率\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 별빛 보너스 배율\nEN:\nLoadout Starlight Bonus Mult."
+  },
+  {
+    "key": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_desc-content",
+    "original": "※⼩数点以下は切り捨てられます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "※⼩数点以下は切り捨てられます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n※ 소수점은 버림하여 처리됩니다.\nEN:\n※ Rounded down."
+  },
+  {
+    "key": "mirror_starlight_result_consumed_during_dungeon_play_tooltip_title-content",
+    "original": "進行中の消耗量\n<CMT_KR>\n<CMT_JP>",
+    "translation": "進行中の消耗量\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n진행 중 소모\nEN:\nSpent in Dungeon"
+  },
+  {
+    "key": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_detect_theme_pack-content",
+    "original": "テーマパック観測\n<CMT_KR>\n<CMT_JP>",
+    "translation": "テーマパック観測\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n테마팩 관측\nEN:\nTheme Pack Observation"
+  },
+  {
+    "key": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_combine_ego_gift-content",
+    "original": "願いごと\n<CMT_KR>\n<CMT_JP>",
+    "translation": "願いごと\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n소원 빌기\nEN:\nWishmaking"
+  },
+  {
+    "key": "mirror_starlight_result_formation_total_consumed_point-content",
+    "original": "合計消耗量\n<CMT_KR>\n<CMT_JP>",
+    "translation": "合計消耗量\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n총 소모량\nEN:\nSum Expenditure"
+  }
+]

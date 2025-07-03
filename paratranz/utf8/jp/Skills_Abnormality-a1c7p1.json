@@ -155,9 +155,9 @@
   },
   {
     "key": "837104-levelList[0].coinlist[3].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 対象の[Breath]1につきダメージ量 +5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +5%(最大50%)\n<CMT_KR>오기: \"対象の「[Breath]」1につきダメージ量 +5%(最大50%)\" 정확: \"対象の「[Burst]」1につきダメージ量 +5%(最大50%)\"\n<CMT_JP>誤記: \"対象の「[Breath]」1につきダメージ量 +5%(最大50%)\" 訂正後: \"対象の「[Burst]」1につきダメージ量 +5%(最大50%)\"",
-    "stage": 1,
+    "original": "[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 5,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Burst]당 피해량 +5% (최대 50%)\nEN:\n[OnSucceedAttack] Deal +5% damage for every [Burst] on the target (Max 50%)"
   },
   {

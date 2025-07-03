@@ -232,8 +232,8 @@
   },
   {
     "key": "BloodShooting-desc",
-    "original": "死亡時\n -血餐が30増加\n- 最も数量が少ないE.G.O資源が2増加\n- 次のターンに自分と同じチームのキャラクターの全物理態勢が0.1増加。この効果は重畳する(最大5)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "死亡時\n -血餐が30増加\n- 最も数量が少ないE.G.O資源が2増加\n- 次のターンに自分と同じチームのキャラクターの全物理態勢が0.1増加。この効果は重畳する(最大5)\n<CMT_KR>\n<CMT_JP>",
+    "original": "死亡時\n -血餐が30増加\n- 最も数量が少ないE.G.O資源が2増加\n- 次のターンに自分と同じチームのキャラクターの全物理耐性が0.1増加。この効果は重畳する(最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "死亡時\n -血餐が30増加\n- 最も数量が少ないE.G.O資源が2増加\n- 次のターンに自分と同じチームのキャラクターの全物理耐性が0.1増加。この効果は重畳する(最大5)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n사망 시\n- 혈찬 30 증가\n- 가장 수량이 적은 E.G.O 자원 2 증가\n- 다음 턴에 자신과 같은 팀의 캐릭터의 모든 물리 내성이 0.1 증가. 이 효과는 중첩됨. (최대 5)\nEN:\nOn Death:\n- Bloodfeast +30\n- gain 2 E.G.O resource for the least-owned E.G.O resource\n- Next turn: all allies gain 0.1 to all Phys. Resistances. This effect can stack. (max 5)"
   },
