@@ -4056,7 +4056,7 @@
     "key": "2120111-levelList[0].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] 火傷 、出血 、振動 、破裂 、沈潜 の中からランダムに1つを3付与\n<CMT_KR>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 火傷 、出血 、振動 、破裂 、沈潜 の中からランダムに1つを3付与\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과 3 부여\nEN:\n[OnSucceedAttack] Inflict 3 of a random status, chosen from Burn, Bleed, Tremor, Rupture, and Sinking"
   },
   {
@@ -4077,7 +4077,7 @@
     "key": "2120111-levelList[1].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] 火傷 、出血 、振動 、破裂 、沈潜 の中からランダムに1つを6付与\n<CMT_KR>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 火傷 、出血 、振動 、破裂 、沈潜 の中からランダムに1つを6付与\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 화상, 출혈, 진동, 파열, 침잠 중 무작위 1개 효과 6 부여\nEN:\n[OnSucceedAttack] Inflict 6 of a random status, chosen from Burn, Bleed, Tremor, Rupture, and Sinking"
   },
   {
@@ -5275,7 +5275,7 @@
     "original": "[OnSucceedAttack] 破裂 6を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 破裂 6を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[OnSucceedAttack] 파열 6 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 6 Rupture&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+    "context": "KR:\n[OnSucceedAttack] 파열 6 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 6 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2010421-levelList[2].coinlist[0].coindescs[2].desc",

@@ -8,10 +8,10 @@
   },
   {
     "key": "9701-desc",
-    "original": "スキルで敵に[Combustion]付与時、[Combustion]回数が3増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "スキルで敵に[Combustion]付与時、[Combustion]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "スキルで敵に[Combustion]付与時、[Combustion]回数が3増加 (1ターンにつき最大3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキルで敵に[Combustion]付与時、[Combustion]回数が3増加 (1ターンにつき最大3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스킬로 적에게 [Combustion] 부여 시 [Combustion] 횟수 3 증가\nEN:\nWhen inflicting [Combustion] with Skills against enemies, inflict +3 [Combustion] Count"
+    "context": "KR:\n스킬로 적에게 [Combustion] 부여 시 [Combustion] 횟수 3 증가 (턴 당 최대 3회)\nEN:\nWhen inflicting [Combustion] with Skills against enemies, inflict +3 [Combustion] Count (3 times per turn)"
   },
   {
     "key": "9701-simpleDesc[0].simpleDesc",
@@ -29,10 +29,10 @@
   },
   {
     "key": "9702-desc",
-    "original": "スキルで敵に[Burst]付与時、[Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "スキルで敵に[Burst]付与時、[Burst]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "スキルで敵に[Burst]付与時、[Burst]回数が3増加 (1ターンにつき最大3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "スキルで敵に[Burst]付与時、[Burst]回数が3増加 (1ターンにつき最大3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스킬로 적에게 [Burst] 부여 시 [Burst] 횟수 3 증가\nEN:\nWhen inflicting [Burst] with Skills against enemies, inflict +3 [Burst] Count"
+    "context": "KR:\n스킬로 적에게 [Burst] 부여 시 [Burst] 횟수 3 증가 (턴 당 최대 3회)\nEN:\nWhen inflicting [Burst] with Skills against enemies, inflict +3 [Burst] Count (3 times per turn)"
   },
   {
     "key": "9702-simpleDesc[0].simpleDesc",
@@ -407,10 +407,10 @@
   },
   {
     "key": "9717-desc",
-    "original": "ステージ開始時、黒雲会所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、黒雲会所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、黒雲会所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、黒雲会所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n흑운회 소속 인격이 턴 시작 시 대상에게 처음으로 피해를 주었을 경우, [Laceration] 위력 4, [Laceration] 횟수 4 추가로 부여 (턴 당 1회).\nEN:\nEncounter Start: activates when there are 3 or more Kurokumo Clan Identities(only counts Identities on the field at Encounter Start).\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)"
+    "context": "KR:\n턴 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n흑운회 소속 인격이 턴 시작 시 대상에게 처음으로 피해를 주었을 경우, [Laceration] 위력 4, [Laceration] 횟수 4 추가로 부여 (턴 당 1회).\nEN:\nTurn Start: activates when there are 3 or more Kurokumo Clan Identities(only counts Identities on the field).\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)"
   },
   {
     "key": "9717-simpleDesc[0].simpleDesc",
@@ -435,10 +435,10 @@
   },
   {
     "key": "9718-desc",
-    "original": "ステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 [Breath] 위력만큼 추가 오만 피해를 입힘.\nEN:\nEncounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self."
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 [Breath] 위력만큼 추가 오만 피해를 입힘.\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field).\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self."
   },
   {
     "key": "9718-simpleDesc[0].simpleDesc",
@@ -463,10 +463,10 @@
   },
   {
     "key": "9719-desc",
-    "original": "ステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n\n剣契所属の場合、効果が強化されてクリティカル与ダメージ量が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n\n剣契所属の場合、効果が強化されてクリティカル与ダメージ量が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n\n剣契所属の場合、効果が強化されてクリティカル与ダメージ量が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n\n剣契所属の場合、効果が強化されてクリティカル与ダメージ量が1.5倍に増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우, [Breath] 상태일 때 치명타 발동 확률이 100%로 고정됨.\n\n검계 소속일 경우 효과가 강화되어 치명타로 가하는 피해량이 1.5배 증가\nEN:\nEncounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nAll allies deal +50% more Slash damage\n\nBlade Lineage Identities: if the ally has [Breath], Critical rate is fixed to 100%.\n\nBlade Lineage Identities: inflict x1.5 more damage on Crit"
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우, [Breath] 상태일 때 치명타 발동 확률이 100%로 고정됨.\n\n검계 소속일 경우 효과가 강화되어 치명타로 가하는 피해량이 1.5배 증가\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field).\n\nAll allies deal +50% more Slash damage\n\nBlade Lineage Identities: if the ally has [Breath], Critical rate is fixed to 100%.\n\nBlade Lineage Identities: inflict x1.5 more damage on Crit"
   },
   {
     "key": "9719-simpleDesc[0].simpleDesc",
@@ -498,10 +498,10 @@
   },
   {
     "key": "9720-desc",
-    "original": "ステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合はスキル1のコイン威力 +1, 該当スキルが単一コインの場合はコイン威力 +3。\n\n[剣契頭目ムルソー専用効果] 「肉斬」スキルのマッチ最終威力 -12, 「骨断」スキルの与ダメージ量 +50%。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合はスキル1のコイン威力 +1, 該当スキルが単一コインの場合はコイン威力 +3。\n\n[剣契頭目ムルソー専用効果] 「肉斬」スキルのマッチ最終威力 -12, 「骨断」スキルの与ダメージ量 +50%。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合はスキル1のコイン威力 +1, 該当スキルが単一コインの場合はコイン威力 +3。\n\n[剣契頭目ムルソー専用効果] 「肉斬」スキルのマッチ最終威力 -12, 「骨断」スキルの与ダメージ量 +50%。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のときに発動。(出撃人員を基準とする)\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合はスキル1のコイン威力 +1, 該当スキルが単一コインの場合はコイン威力 +3。\n\n[剣契頭目ムルソー専用効果] 「肉斬」スキルのマッチ最終威力 -12, 「骨断」スキルの与ダメージ量 +50%。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우 스킬 1의 코인 위력 +1, 해당 스킬이 단일 코인인 경우에는 코인 위력 +3.\n\n[검계 우두머리 뫼르소 전용 효과] '육참' 스킬 합 최종 위력 -12, '골단' 스킬의 가하는 피해량 +50%.\nEN:\nEncounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage Identities: Skill 1 gains Coin Power +1. Single-Coin Skill 1 gains Coin Power +3.\n\n[Blade Lineage Mentor Meursault Only] 'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Their Bones' Skill deals +50% damage."
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함).\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우 스킬 1의 코인 위력 +1, 해당 스킬이 단일 코인인 경우에는 코인 위력 +3.\n\n[검계 우두머리 뫼르소 전용 효과] '육참' 스킬 합 최종 위력 -12, '골단' 스킬의 가하는 피해량 +50%.\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field).\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage Identities: Skill 1 gains Coin Power +1. Single-Coin Skill 1 gains Coin Power +3.\n\n[Blade Lineage Mentor Meursault Only] 'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Their Bones' Skill deals +50% damage."
   },
   {
     "key": "9720-simpleDesc[0].simpleDesc",
@@ -736,10 +736,10 @@
   },
   {
     "key": "9728-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、攻撃スキル(E.G.Oスキルを含む)を使用して敵を[Switch_Vibration]する場合、変換される[Vibration]威力と[Vibration]回数の値が1.5倍で適用(別のタイプに変換される場合にのみ適用)されて次のターンに[DefenseDown]5を付与(1ターンにつき1回)\n\nウェーブの最初のターン開始時、速度が最も低い敵3名に(12 - 現在の速度)だけ、[Vibration]威力を付与(最低6)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 공격 스킬(E.G.O 스킬 포함)을 사용하여 적을 [Switch_Vibration]할 경우, 변환되는 [Vibration] 위력과 [Vibration] 횟수 값이 1.5배로 적용(다른 유형으로 변환되는 경우에만 적용)되고 다음 턴에 [DefenseDown] 5를 부여 (턴 당 1회).\n\n웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 3명에게 (12-현재 속도)만큼 [Vibration] 위력 부여 (최소 6).\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' triggers [Switch_Vibration] on an enemy with Attack Skills(Including E.G.O Skills): multiply the [Vibration] Potency and Count by 1.5(only when actually Converting them into different 'Tremor' types) and inflict 5 [DefenseDown] next turn. (once per turn)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) to 3 enemies with the slowest Speed."
+    "context": "KR:\n턴 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 공격 스킬(E.G.O 스킬 포함)을 사용하여 적을 [Switch_Vibration]할 경우, 변환되는 [Vibration] 위력과 [Vibration] 횟수 값이 1.5배로 적용(다른 유형으로 변환되는 경우에만 적용)되고 다음 턴에 [DefenseDown] 5를 부여 (턴 당 1회).\n\n웨이브 첫 턴 시작 시, 속도가 제일 낮은 적 3명에게 (12-현재 속도)만큼 [Vibration] 위력 부여 (최소 6).\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' triggers [Switch_Vibration] on an enemy with Attack Skills(Including E.G.O Skills): multiply the [Vibration] Potency and Count by 1.5(only when actually Converting them into different 'Tremor' types) and inflict 5 [DefenseDown] next turn. (once per turn)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) to 3 enemies with the slowest Speed."
   },
   {
     "key": "9728-simpleDesc[0].simpleDesc",
@@ -771,10 +771,10 @@
   },
   {
     "key": "9729-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターンステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターンステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が、自分より速度が2以上低い敵へダメージを与えるときの与ダメージ量 +(対象が保有する[Vibration]威力、最大25)%、ダメージを与えるたびに[DefenseDown]2を付与(最大6)\n\nウェーブの最初のターン開始時、速度が最も高い敵1名に(12 - 現在の速度)だけ[Vibration]威力(最低6)と、その数値の半分だけ[Vibration]回数を付与(繰り上げ処理、幻想体の場合は部位1つ)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 자신보다 속도가 2 이상 느린 적에게 피해를 입힐 때 가하는 피해량 +(대상이 보유한 [Vibration] 위력, 최대 25)%, 피해를 입힐 때마다 [DefenseDown] 2 부여 (최대 6).\n\n웨이브 첫 턴 시작 시, 속도가 제일 높은 적 1명에게 (12-현재 속도)만큼 [Vibration] 위력(최소 6)과 그 수치의 절반만큼 [Vibration] 횟수를 부여(올림하여 처리, 환상체일 경우 부위 하나).\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' deals damage to a slower enemy with 2+ Speed difference between them: deal +([Vibration] Potency on target, max 25)% damage and inflict 2 [DefenseDown] every time the ally deals damage (max 6)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) and (12 -current Speed)/2 [Vibration] Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)"
+    "context": "KR:\n턴 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 자신보다 속도가 2 이상 느린 적에게 피해를 입힐 때 가하는 피해량 +(대상이 보유한 [Vibration] 위력, 최대 25)%, 피해를 입힐 때마다 [DefenseDown] 2 부여 (최대 6).\n\n웨이브 첫 턴 시작 시, 속도가 제일 높은 적 1명에게 (12-현재 속도)만큼 [Vibration] 위력(최소 6)과 그 수치의 절반만큼 [Vibration] 횟수를 부여(올림하여 처리, 환상체일 경우 부위 하나).\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' deals damage to a slower enemy with 2+ Speed difference between them: deal +([Vibration] Potency on target, max 25)% damage and inflict 2 [DefenseDown] every time the ally deals damage (max 6)\n\nFirst Turn Start of a wave: inflict (12 - current Speed) [Vibration] Potency (min. 6) and (12 - current Speed)/2 [Vibration] Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)"
   },
   {
     "key": "9729-simpleDesc[0].simpleDesc",
@@ -806,10 +806,10 @@
   },
   {
     "key": "9730-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Vibration]威力、[Vibration]回数または特殊振動を付与する攻撃スキルを保有した人格が5名以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数、または特殊振動を付与する味方が使用するスキル3のコイン威力 +2, ダメージ量 +25%\n\nユロージヴィ所属人格の場合は効果が強化され、スキル3のコイン威力 +2, ダメージ量 +(25 + 対象が保有する[Vibration]威力と[Vibration]回数の合計、最大100)%\n\nユロージヴィ所属人格がターン開始時、自分の[Vibration]回数が3増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n유로지비 소속 인격일 경우 효과가 강화되어 스킬 3의 코인 위력 +2, 피해량 +(25 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합, 최대 100)%.\n\n유로지비 소속 인격이 턴 시작 시, 자신의 [Vibration] 횟수 3 증가.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nYurodivy Identities: Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% damage instead. (max 100%)\n\nYurodivy Identities: gain +3 [Vibration] Count at Turn Start."
+    "context": "KR:\n턴 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n유로지비 소속 인격일 경우 효과가 강화되어 스킬 3의 코인 위력 +2, 피해량 +(25 + 대상이 보유한 [Vibration] 위력과 [Vibration] 횟수의 합, 최대 100)%.\n\n유로지비 소속 인격이 턴 시작 시, 자신의 [Vibration] 횟수 3 증가.\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nYurodivy Identities: Skill 3 gains Coin Power +2 and deal +(25 + (sum of [Vibration] Potency and Count on target))% damage instead. (max 100%)\n\nYurodivy Identities: gain +3 [Vibration] Count at Turn Start."
   },
   {
     "key": "9730-simpleDesc[0].simpleDesc",
@@ -841,10 +841,10 @@
   },
   {
     "key": "9731-desc",
-    "original": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Vibration]威力、[Vibration]回数または特殊振動を与える攻撃スキルを保有した人格が5人以上のとき発動(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方が使用するスキル3のコイン威力+2, ダメージ量 +25%\n\n[Vibration]威力、[Vibration]回数または特殊振動を付与する味方がマッチ進行時、敵の速度が自分より2以上高いならマッチ威力 +2、与ダメージ量 +(対象が保有する[Vibration]威力、最大50)%。\n\nターン開始時、速度が最も低い味方3名が速度が遅い順に[AttackUp]5, [AttackUp]3, [AttackUp]2を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 합을 진행할 때, 자신보다 속도가 2 이상 높은 적과 진행할 경우 합 위력 +2, 가하는 피해량 +(대상이 보유한 [Vibration] 위력, 최대 50)%.\n\n 턴 시작 시, 속도가 제일 느린 아군 셋이 속도가 느린 순으로 [AttackUp] 5, [AttackUp] 3, [AttackUp] 2를 얻음.\nEN:\nEncounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' Clashes against a faster enemy with 2+ Speed difference: Clash Power +2 and deal +([Vibration] Potency on target)% damage. (max 50%)\n\nTurn Start: from slowest to fastest, the 3 slowest allies gain 5 [AttackUp], 3 [AttackUp], and 2 [AttackUp] respectively."
+    "context": "KR:\n턴 시작 시, [Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 사용하는 스킬 3의 코인 위력 +2, 피해량 +25%.\n\n[Vibration] 위력 또는 [Vibration] 횟수 또는 특수 진동을 부여하는 아군이 합을 진행할 때, 자신보다 속도가 2 이상 높은 적과 진행할 경우 합 위력 +2, 가하는 피해량 +(대상이 보유한 [Vibration] 위력, 최대 50)%.\n\n 턴 시작 시, 속도가 제일 느린 아군 셋이 속도가 느린 순으로 [AttackUp] 5, [AttackUp] 3, [AttackUp] 2를 얻음.\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency, Count, or 'Unique Tremor' effects. (except E.G.O Skills, only counts Identities on the field)\n\nTo allies' Skill 3s that inflict [Vibration] Potency, Count, or 'Unique Tremor': Coin Power +2 and deal +25% damage.\n\nWhen an ally that inflicts [Vibration] Potency, Count, or 'Unique Tremor' Clashes against a faster enemy with 2+ Speed difference: Clash Power +2 and deal +([Vibration] Potency on target)% damage. (max 50%)\n\nTurn Start: from slowest to fastest, the 3 slowest allies gain 5 [AttackUp], 3 [AttackUp], and 2 [AttackUp] respectively."
   },
   {
     "key": "9731-simpleDesc[0].simpleDesc",

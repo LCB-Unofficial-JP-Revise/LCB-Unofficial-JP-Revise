@@ -92,10 +92,10 @@
   },
   {
     "key": "mirrordungeon_theme_hard_blocked_6-content",
-    "original": "8章クリア時に解放されます。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "8章クリア時に解放されます。\n<CMT_KR>\n<CMT_JP>",
+    "original": "7章クリア時に解放されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "7章クリア時に解放されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n8장 클리어 시 개방됩니다.\nEN:\nClear Canto VIII to Unlock."
+    "context": "KR:\n7장 클리어 시 개방됩니다.\nEN:\nClear Canto 7 to Unlock."
   },
   {
     "key": "mirrordungeon_theme_difficulty_button_no_hard_data-content",
@@ -267,10 +267,10 @@
   },
   {
     "key": "mirror_dungeon_start_buff_card_enhancement-content",
-    "original": "星の加護の強化\n<CMT_KR>\n<CMT_JP>",
-    "translation": "星の加護の強化\n<CMT_KR>\n<CMT_JP>",
+    "original": "強化\n<CMT_KR>\n<CMT_JP>",
+    "translation": "強化\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n별의 가호 강화\nEN:\nBoost Grace of Stars"
+    "context": "KR:\n강화\nEN:\nEnhance"
   },
   {
     "key": "mirror_user_starlight_buff-content",
@@ -442,8 +442,8 @@
   },
   {
     "key": "mirror_starlight_result_formation_bonus_multiplier_tooltip_item_desc-content",
-    "original": "※⼩数点以下は切り捨てられます。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "※⼩数点以下は切り捨てられます。\n<CMT_KR>\n<CMT_JP>",
+    "original": "※小数点以下は切り捨てられます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "※小数点以下は切り捨てられます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n※ 소수점은 버림하여 처리됩니다.\nEN:\n※ Rounded down."
   },
@@ -474,5 +474,19 @@
     "translation": "合計消耗量\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n총 소모량\nEN:\nSum Expenditure"
+  },
+  {
+    "key": "mirror_hard_recommended_level_popup_desctiption-content",
+    "original": "編成人格の現平均レベルが、推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成人格の現平均レベルが、推奨レベルより<color=#990000>低いです。</color>\n戦闘を進行しますか？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n편성 인격의 현재 평균 레벨이 권장 레벨보다 &lt;color=#990000&gt;낮습니다.&lt;/color&gt;\n전투를 진행하시겠습니까?\nEN:\nThe current average level of Identities in your loadout is &lt;color=#990000&gt;lower&lt;/color&gt; than the recommended level.\nProceed anyway?"
+  },
+  {
+    "key": "mirror_hard_recommended_level_popup_detail_desctiption-content",
+    "original": "現在の平均レベル: {0}\n<color=#f8c200>推奨レベル: {1}</color>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在の平均レベル: {0}\n<color=#f8c200>推奨レベル: {1}</color>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 평균 레벨: {0}\n&lt;color=#f8c200&gt;권장 레벨: {1}&lt;/color&gt;\nEN:\nCurrent Avg. Level: {0}\n&lt;color=#f8c200&gt;Recommended Level: {1}&lt;/color&gt;"
   }
 ]

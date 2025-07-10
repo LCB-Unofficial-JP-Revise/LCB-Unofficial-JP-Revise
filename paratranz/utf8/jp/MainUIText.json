@@ -815,7 +815,7 @@
     "key": "mainui_mail_warning-content",
     "original": "※最大100個まで保管が可能です。期限の過ぎたプレゼントは<color=#990000>削除</color>されます。\n<CMT_KR>\n<CMT_JP>",
     "translation": "※最大100個まで保管が可能です。期限の過ぎたプレゼントは<color=#990000>削除</color>されます。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n※ 최대 100개 까지 보관이 가능하며, 기한이 지난 선물은 &lt;color=#990000&gt;삭제&lt;/color&gt;됩니다.\nEN:\n※ Maximum capacity is 100; expired mail will be &lt;color=#990000&gt;deleted&lt;/color&gt;."
   },
   {
@@ -1578,7 +1578,7 @@
     "key": "gacha_rate_info_complete1-content",
     "original": "リスト内にある全てのE.G.Oを獲得してリストからE.G.Oが消えた場合、1回抽出時と10回抽出時の排出確率は以下のように変更されます。\n<CMT_KR>\n<CMT_JP>",
     "translation": "リスト内にある全てのE.G.Oを獲得してリストからE.G.Oが消えた場合、1回抽出時と10回抽出時の排出確率は以下のように変更されます。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n목록 내에 있는 모든 E.G.O를 획득하여 더 이상 목록에 E.G.O가 존재하지 않게 된다면 1회 추출 시와 10회 추출 시의 등장 확률은 다음과 같이 변경됩니다.\nEN:\nIf there is no E.G.O remaining in the table due to the user acquiring all of them, the rates for [1 Extraction] and [10 Extraction] will change accordingly to the following:"
   },
   {

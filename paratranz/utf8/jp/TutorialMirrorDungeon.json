@@ -759,7 +759,7 @@
     "key": "TutoMD05_P8_D5-content",
     "original": "ただし、Hardを選択して入場すると以降は難易度を変更することが出来ません。\n<CMT_KR>\n<CMT_JP>",
     "translation": "ただし、Hardを選択して入場すると以降は難易度を変更することが出来ません。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n단, Hard 난이도를 선택하여 입장하면 이후에는 난이도를 변경할 수 없습니다.\nEN:\nHowever, once you enter the Hard difficulty, it cannot be changed again."
   },
   {
@@ -780,7 +780,7 @@
     "key": "TutoMD05_P8_D7-content",
     "original": "また、HardではE.G.Oギフトと苦難を2つずつ選択しなければならず、特別なショップが出現することもあります。\n<CMT_KR>\n<CMT_JP>",
     "translation": "また、HardではE.G.Oギフトと苦難を2つずつ選択しなければならず、特別なショップが出現することもあります。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n또한 Hard 난이도에서는 E.G.O 기프트와 고난을 2개씩 선택해야 하며, 특별한 상점이 등장할 수도 있습니다.\nEN:\nAlso, you must select 2 E.G.O Gifts and 2 Mounting Trials in Hard difficulty, and there's a chance for a Super Shop to spawn."
   },
   {
@@ -906,7 +906,7 @@
     "key": "TutoMD05_P11_D4-content",
     "original": "Hardで進行する場合、特別なショップが出現することがあります。鏡ダンジョン進行中に累計で消耗したコストが多いほど、特別なショップが出現する確率が高くなります。\n<CMT_KR>\n<CMT_JP>",
     "translation": "Hardで進行する場合、特別なショップが出現することがあります。鏡ダンジョン進行中に累計で消耗したコストが多いほど、特別なショップが出現する確率が高くなります。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\nHard 난이도로 진행 시, 특별한 상점이 등장할 수 있습니다. 거울 던전 진행 중에 누적 소모한 코스트가 많을수록 특별한 상점이 등장할 확률이 증가합니다.\nEN:\nIn Hard difficulty, there is a chance for a Super Shop to appear. The more Cost you spend in a Mirror Dungeon run, the greater the chance becomes for it to appear."
   },
   {
@@ -1285,7 +1285,7 @@
     "original": "現在選択した編成を基準に、各人格の星明かりボーナスゲージから得られる星明かりの合計が右下の確認ボタンの上に表示されます。\n<CMT_KR>\n<CMT_JP>",
     "translation": "現在選択した編成を基準に、各人格の星明かりボーナスゲージから得られる星明かりの合計が右下の確認ボタンの上に表示されます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n현재 선택한 편성을 기준으로, 각 인격의 별빛 보너스 게이지로부터 얻을 수 있는 별빛의 총합이 우하단의 확인 버튼 위에 표시됩니다.\nEN:\nThe sum of obtainable Starlight from each Identity's Starlight Bonuses in your current Team can be viewed here, at the bottom right corner, aboe the Confirmation button."
+    "context": "KR:\n현재 선택한 편성을 기준으로, 각 인격의 별빛 보너스 게이지로부터 얻을 수 있는 별빛의 총합이 우하단의 확인 버튼 위에 표시됩니다.\nEN:\nThe sum of obtainable Starlight from each Identity's Starlight Bonuses in your current Team can be viewed here, at the bottom right corner, above the Confirmation button."
   },
   {
     "key": "TutoMD06_P5_D3-content",
@@ -1324,10 +1324,10 @@
   },
   {
     "key": "TutoMD06_P6_D2-content",
-    "original": "星明かりボーナス以外にも別途で星明かりを保有しているなら、追加で支払うことでより多くの星の加護を選択できます。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "星明かりボーナス以外にも別途で星明かりを保有しているなら、追加で支払うことでより多くの星の加護を選択できます。\n<CMT_KR>\n<CMT_JP>",
+    "original": "星明かりボーナス以外にも別途で星明かりを保有しているなら、追加で支払うことでより多くの星の加護を選んだり、選択した星の加護を強化できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "星明かりボーナス以外にも別途で星明かりを保有しているなら、追加で支払うことでより多くの星の加護を選んだり、選択した星の加護を強化できます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n별빛 보너스 이외에도 따로 별빛을 보유하고 있다면, 추가로 지불하여 더 많은 별의 가호를 선택할 수 있습니다.\nEN:\nIf you have more Starlight in additional to Starlight Bonuses, you can spend them as well to select more Grace of Stars."
+    "context": "KR:\n별빛 보너스 이외에도 따로 별빛을 보유하고 있다면, 추가로 지불하여 더 많은 별의 가호를 고르거나 선택한 별의 가호를 강화할 수 있습니다.\nEN:\nIf you have more Starlight in additional to Starlight Bonuses, you can spend them as well to select more Grace of Stars or enhance your selected Grace of Stars."
   },
   {
     "key": "TutoMD06_P6_D3-content",

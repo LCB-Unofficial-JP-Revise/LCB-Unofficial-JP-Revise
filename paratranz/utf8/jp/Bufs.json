@@ -7621,5 +7621,47 @@
     "translation": "クリティカルダメージ量増加、追加で出血付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n크리티컬 피해량 증가, 추가 출혈 부여\nEN:\nDeal more Crit damage, inflict more Bleed"
+  },
+  {
+    "key": "ChoSuperCharge-name",
+    "original": "超亜光蓄電\n<CMT_KR>\n<CMT_JP>",
+    "translation": "超亜光蓄電\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n초아광축전\nEN:\nNear-light Superbattery"
+  },
+  {
+    "key": "ChoSuperCharge-desc",
+    "original": "- 最大値 : 100\n- 自分が充電回数を消耗するとき、消耗値だけこのバフ数値が増加\n- 充電回数最大値 +10\n- 味方が充電威力や回数を得るとき、自分の充電回数が1増加\n- 自分のスキルで充電回数を消耗するとき、消耗量だけ追加で1回消耗 (回数が足りなければ、足りない分最大まで消耗)\n- 数値10につき、自分のスキルダメージ量 +10%\n- 数値20につき、自分の攻撃限定で敵の全属性 +0.1 . (最大 +0.5, 混乱状態を除く)\n- このバフを保有した人格が死亡時、現出戦人員のうち編成順が次に高い味方にこのバフが受け継がれ、バフ数値が保たれる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値 : 100\n- 自分が充電回数を消耗するとき、消耗値だけこのバフ数値が増加\n- 充電回数最大値 +10\n- 味方が充電威力や回数を得るとき、自分の充電回数が1増加\n- 自分のスキルで充電回数を消耗するとき、消耗量だけ追加で1回消耗 (回数が足りなければ、足りない分最大まで消耗)\n- 数値10につき、自分のスキルダメージ量 +10%\n- 数値20につき、自分の攻撃限定で敵の全属性 +0.1 . (最大 +0.5, 混乱状態を除く)\n- このバフを保有した人格が死亡時、現出戦人員のうち編成順が次に高い味方にこのバフが受け継がれ、バフ数値が保たれる\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대값 : 100\n- 자신이 충전 횟수를 소모할 때, 소모값만큼 이 버프 수치 증가\n- 충전 횟수 최대치 +10\n- 아군이 충전 위력이나 횟수를 얻을 때, 자신의 충전 횟수 1 증가\n- 자신의 스킬로 충전 횟수를 소모할 때, 소모량만큼 추가 1회 소모 (횟수가 부족하면, 부족한 만큼 최대로 소모)\n- 수치 10 당 자신의 스킬 피해량 +10%\n- 수치 20 당, 자신의 공격에 한해 적의 모든 내성 +0.1 . (최대 +0.5. 흐트러짐 상태 제외)\n- 이 버프를 보유한 인격 사망 시, 현재 출전 인원 중 편성 순서가 다음으로 빠른 아군에게 이 버프가 계승되며, 버프 수치가 유지됨\nEN:\n- Max Stack: 100\n- When consuming Charge Count, add the amount consumed to this buff's Stack\n- Max Charge Count Cap +10\n- Gain 1 Charge Count when allies gain Charge Potency or Count\n- When this unit consumes Charge Count with its Skills, consume the same amount of Charge Count 1 more time (when there isn't enough Charge Count, consume as much as available)\n- Deal +10% damage for every 10 Stack\n- Enemies gain +0.1 Resistance against this unit's attacks for every 20 Stack (max +0.5 Resist; does not activate against Staggered enemies)\n- When the Identity with this effect dies, the buff transfers to the ally who is second earliest to this unit in the Deployment order. The Stack carries over as well."
+  },
+  {
+    "key": "ShareCharge-name",
+    "original": "自己共振回路\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自己共振回路\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자가 공진 회로\nEN:\nSelf Resonance Circuitry"
+  },
+  {
+    "key": "ShareCharge-desc",
+    "original": "現在の全味方が保有する充電回数の合計\n\n味方の充電回数累計消耗量 : {0}\n\nスキル的中時のダメージ量 +(現味方の充電回数合計 ÷ 3)%\n味方の充電回数累計消耗量100につき、全味方が攻撃レベル増加1を得る(最大30)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在の全味方が保有する充電回数の合計\n\n味方の充電回数累計消耗量 : {0}\n\nスキル的中時のダメージ量 +(現味方の充電回数合計 ÷ 3)%\n味方の充電回数累計消耗量100につき、全味方が攻撃レベル増加1を得る(最大30)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n현재 모든 아군이 보유한 충전 횟수의 총합\n\n아군 충전 횟수 누적 소모량: {0}\n\n스킬 적중 시 피해량 +(현재 아군 충전 횟수 총합 / 3)%\n아군 충전 횟수 누적 소모량 100 당, 모든 아군이 공격 레벨 증가 1 얻음 (최대 30)\nEN:\nTotal sum of Charge Count currently owned by all allies\n\nCumulative Charge Count consumed by allies: {0}\n\nOn Hit with a Skill: deal +(sum of charge count on all allies / 3)% damage\nAll allies gain 1 Offense Level Up for every 100 cumulative Charge Count consumed by allies (max 30)"
+  },
+  {
+    "key": "WaveSinking-name",
+    "original": "逆流\n<CMT_KR>\n<CMT_JP>",
+    "translation": "逆流\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n역류\nEN:\nReflux"
+  },
+  {
+    "key": "WaveSinking-desc",
+    "original": "- 最大値 : 3\n被ダメージ時、数値だけ沈潜威力を得る\n\nターン終了時に自分の精神力が-30以下なら以下の効果が適用される(精神力が無い敵は沈潜威力60以上保有時に発動)\n- 自分の(沈潜 威力 × 数値)だけ憂鬱ダメージを受ける\n- 自分を除く精神力が最も低い対象2体(幻想体の場合は部位)に逆流1を付与して、各対象の(沈潜威力 × 数値)だけ憂鬱ダメージ\n- 逆流 を保有した状態で死亡時、逆流 の数値が最も高い味方に自分の逆流数値だけ逆流を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値 : 3\n被ダメージ時、数値だけ沈潜威力を得る\n\nターン終了時に自分の精神力が-30以下なら以下の効果が適用される(精神力が無い敵は沈潜威力60以上保有時に発動)\n- 自分の(沈潜 威力 × 数値)だけ憂鬱ダメージを受ける\n- 自分を除く精神力が最も低い対象2体(幻想体の場合は部位)に逆流1を付与して、各対象の(沈潜威力 × 数値)だけ憂鬱ダメージ\n- 逆流 を保有した状態で死亡時、逆流 の数値が最も高い味方に自分の逆流数値だけ逆流を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최대값 : 3\n피격 시, 수치만큼 침잠 위력 얻음\n\n턴 종료시 자신의 정신력이 -30 이하면 아래 효과 적용 (정신력이 없는 적은 침잠 위력 60 이상 보유시 발동)\n- 자신의 (침잠 위력 x 수치)만큼 우울 피해를 받음\n- 자신을 제외한 정신력이 가장 낮은 대상 둘 (환상체의 경우, 부위)에게 역류 1 부여하고, 각 대상의 (침잠 위력 x 수치) 만큼 우울 피해\n- 역류를 보유한 상태로 사망 시, 역류 수치가 가장 높은 아군에게 자신의 역류 수치만큼 역류 부여\nEN:\n- Max Stack: 3\nWhen hit, gain Sinking Potency equal to Stack\n\nTurn End: if this unit has -30 or less SP, activate the following effects (for units without SP, activates at 60+ Sinking Potency)\n- Take (Sinking Potency on self x Stack) Gloom damage\n- Inflict 1 Reflux against 2 other targets with the least SP (for Abnormalities, Parts); then, deal (Sinking Potency x Stack) Gloom damage to both targets, respectively\nIf the unit with Reflux dies, transfer its Reflux Stack to its ally with the highest Reflux stack"
   }
 ]

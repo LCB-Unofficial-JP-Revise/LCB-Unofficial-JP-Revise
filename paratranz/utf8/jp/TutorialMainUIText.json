@@ -2929,7 +2929,7 @@
     "key": "tutorial_mainui_21_railway2_page_12_desc_02-content",
     "original": "循環を進行する場合、循環回数が1増加します。一部の駅は循環回数によって追加で開放されます。\n<CMT_KR>\n<CMT_JP>",
     "translation": "循環を進行する場合、循環回数が1増加します。一部の駅は循環回数によって追加で開放されます。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n순환을 진행할 경우, 순환 횟수가 1 증가합니다. 일부 역은 순환 횟수에 따라 추가로 개방됩니다.\nEN:\nShould you choose to continue the Cycle, you will gain 1 Cycle Count. Some Stations will open only after reaching certain Cycle Counts."
   },
   {
@@ -3034,7 +3034,7 @@
     "key": "tutorial_mainui_21_railway2_page_19_desc_02-content",
     "original": "獲得条件が難しいほど、より特別なバナーを獲得できます。\nバナーを獲得すると、最も高い記録の循環回数と累計ターン数がバナーに表記されます。\n<CMT_KR>\n<CMT_JP>",
     "translation": "獲得条件が難しいほど、より特別なバナーを獲得できます。\nバナーを獲得すると、最も高い記録の循環回数と累計ターン数がバナーに表記されます。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n획득 조건이 어려울수록 더욱 특별한 배너를 얻게 됩니다.\n배너를 획득하면 가장 높은 기록의 순환 횟수와 누적 턴 수가 배너에 표기됩니다.\nEN:\nMore special banners have harder acquisition conditions.\nUpon acquisition of the banner, your best Cycle Count and Total Turn records will be displayed on them."
   },
   {
@@ -6129,7 +6129,7 @@
     "original": "連続戦闘では、味方が死亡しても基本精神力増減条件によって精神力が減少しません。\n\n戦闘中に一部人員が死亡したなら、現在の編成順にて最も早い待機人員がその場を変わって戦闘に参加します。\nこれを<待機解除>といいます。\n<CMT_KR>\n<CMT_JP>",
     "translation": "連続戦闘では、味方が死亡しても基本精神力増減条件によって精神力が減少しません。\n\n戦闘中に一部人員が死亡したなら、現在の編成順にて最も早い待機人員がその場を変わって戦闘に参加します。\nこれを<待機解除>といいます。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n연속 전투에서는 아군이 사망하더라도 기본 정신력 증감 조건으로 인해 정신력이 감소하지 않습니다.\n\n전투 중 일부 인원이 사망했다면, 현재 편성 순서가 가장 빠른 대기 인원이 그 자리를 대신하여 전투에 참가합니다.\n이를 &lt;대기 해제&gt;라고 합니다.\nEN:\nIn Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, a Backup Unit with the fastest Deployment order will replace them.\nThis is called &lt;Substitution&gt; or &lt;Substitute&gt;."
+    "context": "KR:\n연속 전투에서는 아군이 사망하더라도 기본 정신력 증감 조건으로 인해 정신력이 감소하지 않습니다.\n\n전투 중 일부 인원이 사망했다면, 현재 편성 순서가 가장 빠른 대기 인원이 그 자리를 대신하여 전투에 참가합니다.\n이를 &lt;대기 해제&gt;라고 합니다.\nEN:\nIn Chain Battles, SP loss due to ally death listed in the 'Base factors increasing/decreasing Sanity' will not activate.\n\nIf an ally is defeated mid-Encounter, a Backup Unit with the earliest Deployment order will replace them.\nThis is called &lt;Substitution&gt; or &lt;Substitute&gt;."
   },
   {
     "key": "TutoFormation_P2_D11-content",
@@ -6514,6 +6514,6 @@
     "original": "選択時、フレンドが設定した人格とE.G.Oを借りて戦闘にて使うことができます。ただし、1つの編成で2つ以上フレンドの人格を借りることはできません。\n<CMT_KR>\n<CMT_JP>",
     "translation": "選択時、フレンドが設定した人格とE.G.Oを借りて戦闘にて使うことができます。ただし、1つの編成で2つ以上フレンドの人格を借りることはできません。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n선택 시, 친구가 설정한 인격과 E.G.O를 빌려 전투에서 사용할 수 있습니다. 단, 하나의 편성에 둘 이상의 친구 인격을 빌릴 수 없습니다.\nEN:\nSelect them to borrow your friends' Identities and E.G.O for battles. However, please note that you cannot have more than 2 Support Identities in a single Team loadout."
+    "context": "KR:\n선택 시, 친구가 설정한 인격과 E.G.O를 빌려 전투에서 사용할 수 있습니다. 단, 하나의 편성에 둘 이상의 친구 인격을 빌릴 수 없습니다.\nEN:\nSelect them to borrow your friends' Identities and E.G.O for battles. However, please note that you cannot have more than 1 Support Identity in a single Team loadout."
   }
 ]

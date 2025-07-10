@@ -129,7 +129,7 @@
     "key": "901001-options[0].result[0]",
     "original": "陽炎に取り憑かれてしまったかのように、\n指を 差し出して明かりが近付いてくるのを待つ。\n\nちらつく火は指の上にそっと座る。\nすると火が指を包み込んだ。\n\n一つの火は二つになり、四つになり、八つになって\n手の施しようもなく増え、身体を覆ってゆく。\n<CMT_KR>\n<CMT_JP>",
     "translation": "陽炎に取り憑かれてしまったかのように、\n指を 差し出して明かりが近付いてくるのを待つ。\n\nちらつく火は指の上にそっと座る。\nすると火が指を包み込んだ。\n\n一つの火は二つになり、四つになり、八つになって\n手の施しようもなく増え、身体を覆ってゆく。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n아지랑이에 홀린 듯이 손가락을 \n내밀어 불빛이 다가오길 기다린다.\n\n아른거리는 불은 손가락 위에 살며시 앉는다.\n그러자 불이 손가락을 감싸 안았다.\n\n하나의 불은 둘이 되어, 넷이 되어, 여덟이 되어\n걷잡을 수 없이 불어나 몸을 뒤덮는다.\nEN:\nEnchanted by the haze, you extend a finger,\nwaiting for one of the lights to land.\n\nA glimmering ball gently perches on your digit.\nThen, a fire engulfs it.\n\nAnother glow attaches to your body, then four, then eight.\nThey multiply until you have been entirely shrouded in light."
   },
   {
@@ -164,7 +164,7 @@
     "key": "901001-options[2].result[0]",
     "original": "取り憑かれたように陽炎の中に入った。\n\nそこには蝶に似た美しい花で彩られた別天地がある。\n\n花一つを手折ろうとすると、数多の熱気が陽炎の中でうねりながら襲ってくる。\n<CMT_KR>\n<CMT_JP>",
     "translation": "取り憑かれたように陽炎の中に入った。\n\nそこには蝶に似た美しい花で彩られた別天地がある。\n\n花一つを手折ろうとすると、数多の熱気が陽炎の中でうねりながら襲ってくる。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n홀린 듯이 아지랑이 안으로 들어갔다.\n\n그곳에는 나비를 닮은 아름다운 꽃으로 수놓아진 별천지가 있다.\n\n꽃 하나를 꺾어가려 하니, 수많은 열기가 아지랑이 속에서 흐늘거리며 덮쳐온다.\nEN:\nSomething draws you into the haze.\n\nCountless flowers in the shape of a butterfly flutter and form a field of stars.\n\nA fiery heat assaults you from the haze as you lean over to pick a flower."
   },
   {
@@ -269,7 +269,7 @@
     "key": "901004-options[0].result[0]",
     "original": "それはぶら下がっていた血液パックを取り外し、私たちに差し出した。\n\n私たちが受け入れるのを見て、\nそれは素早く空の血液パックを吊るした。\n\n異常な速度でパックに血が満たされてゆく。\n\nそれは自分の役目は終わったという風に\n何事もなかったかのように私たちから離れていった。\n<CMT_KR>\n<CMT_JP>",
     "translation": "それはぶら下がっていた血液パックを取り外し、私たちに差し出した。\n\n私たちが受け入れるのを見て、\nそれは素早く空の血液パックを吊るした。\n\n異常な速度でパックに血が満たされてゆく。\n\nそれは自分の役目は終わったという風に\n何事もなかったかのように私たちから離れていった。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n그것은 매달아 둔 혈액 팩을 떼어내어 우리에게 내밀었다.\n\n우리가 받아드는 걸 보고,\n그것은 재빠르게 빈 혈액 팩을 매달았다.\n\n기이한 속도로 팩이 핏물로 차올라간다.\n\n그것은 자신이 해야 할 일을 마무리했다는\n듯이 아무렇지 않게 우리를 지나갔다.\nEN:\nIt plucked a blood bag and handed it to us.\n\nSeeing us accept it,\nit quickly hung an empty one in its place.\n\nThe bag fills with blood at an uncanny pace.\n\nHaving fulfilled its duty, it strolled past us."
   },
   {
@@ -435,10 +435,10 @@
   },
   {
     "key": "901008-options[2].messageDesc",
-    "original": "戦闘勝利時、汎用E.G.O GIFT・出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
-    "translation": "戦闘勝利時、汎用E.G.O GIFT・出血E.G.O GIFTを獲得\n<CMT_KR>\n<CMT_JP>",
+    "original": "戦闘勝利時、出血E.G.O GIFTを2種獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘勝利時、出血E.G.O GIFTを2種獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n전투 승리 시, 범용 E.G.O GIFT · 출혈 E.G.O GIFT 획득\nEN:\nWin the battle to earn a Keywordless E.G.O Gift and a Bleed E.G.O Gift"
+    "context": "KR:\n전투 승리 시, 출혈 E.G.O GIFT 2종 획득\nEN:\nWin the battle to earn 2 Bleed E.G.O Gifts"
   },
   {
     "key": "901008-options[2].result[0]",
@@ -710,7 +710,7 @@
     "key": "90101302-options[0].result[0]",
     "original": "取り憑かれたかのように\n部屋のお札を剥がし始めた。\n\nすると消えていた蝋燭に\n一つずつ火が点り始め、\n\n狭い部屋の中が真っ白になってしまうほどに\n明るい部屋になってしまった。\n\nその中心で、木の人形は\n自由になったようだった。\n\nそれはとくとくと歩いてきて、\n手を差し出し、何かを握らせてきた。\n<CMT_KR>\n<CMT_JP>",
     "translation": "取り憑かれたかのように\n部屋のお札を剥がし始めた。\n\nすると消えていた蝋燭に\n一つずつ火が点り始め、\n\n狭い部屋の中が真っ白になってしまうほどに\n明るい部屋になってしまった。\n\nその中心で、木の人形は\n自由になったようだった。\n\nそれはとくとくと歩いてきて、\n手を差し出し、何かを握らせてきた。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n무언가에 홀린 듯 방에 있는\n부적들을 떼어내기 시작했다.\n\n그러자 꺼져있던 촛불에\n하나씩 불이 옮겨붙었고,\n\n좁은 방 안은 이미 새하얄\n정도로 밝은 방이 되어버렸다.\n\n그 가운데에, 나무 인형은\n자유로워진 모양새가 되어 있었다.\n\n그것은 뚜벅뚜벅 걸어오더니,\n손을 내밀어 무언가를 쥐어주었다.\nEN:\nYou followed the urge\nto remove every talisman from the room.\n\nAs you did, the candles lit up one by one…\n\nUntil the room was filled\nwith a pale brightness.\n\nThe wooden doll at the center\nseemed to be liberated from a binding force.\n\nIt walked to you,\noffering an object."
   },
   {
@@ -836,7 +836,7 @@
     "key": "901016-options[1].result[0]",
     "original": "厚意の上で聞いてきたかもしれない提案を断った。\n\n『そうか？遠慮しなくてもいいのに。』\n\n緑色の塊は聞き直さなくても良いだろうという風に\n杯に入った中身を口に注ぎ込んだ。\n\n『そのまま見送るのもあれだし、\nこの杯だけでも持っていくのはどうだ？』\n\n杯を受け取ると、\n中にはまだ緑色の物体が満ちていた。\n\n何を飲んだのか、到底理解が及ばなかった。\n<CMT_KR>\n<CMT_JP>",
     "translation": "厚意の上で聞いてきたかもしれない提案を断った。\n\n『そうか？遠慮しなくてもいいのに。』\n\n緑色の塊は聞き直さなくても良いだろうという風に\n杯に入った中身を口に注ぎ込んだ。\n\n『そのまま見送るのもあれだし、\nこの杯だけでも持っていくのはどうだ？』\n\n杯を受け取ると、\n中にはまだ緑色の物体が満ちていた。\n\n何を飲んだのか、到底理解が及ばなかった。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n호의였을지 모르는 제안을 거절한다.\n\n'그래? 사양하진 않아도 되는데.'\n\n초록빛 덩어리는 다시 물어볼 필요는 없다는 듯\n잔에 든 내용물을 입에 털어 넣었다.\n\n'그냥 보내긴 그러니,\n이 잔이라도 가져가는 건 어때?'\n\n잔을 받아보니,\n안에는 아직도 초록빛 물체가 차 있었다.\n\n무얼 마신 건지 도저히 알 수가 없다.\nEN:\nYou turn down the possibly cordial offer.\n\n“Really now? No need to hold back.”\n\nThe green blob swallowed down the contents in one gulp,\nnot bothering to ask you twice.\n\n“Well, can’t have a visitor leave empty-handed.\nWhy don’tcha take this glass at the very least?”\n\nLooking into it,\nyou still find the green substance inside.\n\nThere’s no way at all to tell what it drank."
   },
   {
@@ -1074,7 +1074,7 @@
     "key": "901020-options[1].result[0]",
     "original": "懐かしさを感じて、遠くから手を振った。\n\n全ての花が瞬く間に\n赤く染まり、こちらへ首を向けた。\n\n私たちを眺めているかのように思えた\n赤い花びらが、まもなく私たちに襲いかかった。\n\nまるで、中途半端な気持ちで私に手を差し伸べるなという風に。\n<CMT_KR>\n<CMT_JP>",
     "translation": "懐かしさを感じて、遠くから手を振った。\n\n全ての花が瞬く間に\n赤く染まり、こちらへ首を向けた。\n\n私たちを眺めているかのように思えた\n赤い花びらが、まもなく私たちに襲いかかった。\n\nまるで、中途半端な気持ちで私に手を差し伸べるなという風に。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n그리운 마음에 멀리서 손을 흔든다.\n\n모든 꽃이 순식간에\n붉게 물들며 이쪽으로 고개를 돌렸다.\n\n우리를 바라보는 것만 같던\n붉은 꽃잎은, 이윽고 우리를 덮쳤다.\n\n마치 어중간한 마음으로 나에게 손을 내밀지 말라는 듯이.\nEN:\nYou wave out of nostalgia.\n\nIn an instant, all the flowers went awash with red,\nsimultaneously turning to face you.\n\nAfter staring into us for a little while,\ntheir red petals flew at us.\n\nIt was like a punishment for making a half-hearted gesture."
   },
   {
@@ -1333,7 +1333,7 @@
     "key": "901024-options[1].result[0]",
     "original": "洞窟の中でどれだけ時間が経ったのかは分からない。\n\nヒキガエルが鳴き止むまで待つと、\nそれは目をパチパチさせながら私たちを凝視した。\n\nすーっ、そんな音がすると\nすぐに長くて真っ青な舌が\n私たちにゆっくりと近づいてきた。\n\n舌の上にはヒキガエルの\n目玉が載っていた。\n\n持って行けというような気がして取ると\n残った片目を私たちにぱちぱちさせて\nどこかに行ってしまった。\n\n聞いてくれてありがとうということだろうか。\n<CMT_KR>\n<CMT_JP>",
     "translation": "洞窟の中でどれだけ時間が経ったのかは分からない。\n\nヒキガエルが鳴き止むまで待つと、\nそれは目をパチパチさせながら私たちを凝視した。\n\nすーっ、そんな音がすると\nすぐに長くて真っ青な舌が\n私たちにゆっくりと近づいてきた。\n\n舌の上にはヒキガエルの\n目玉が載っていた。\n\n持って行けというような気がして取ると\n残った片目を私たちにぱちぱちさせて\nどこかに行ってしまった。\n\n聞いてくれてありがとうということだろうか。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n동굴 속에서 얼마나 시간이 지났는지 모르겠다.\n\n두꺼비가 울음을 멎을 때까지 기다리자,\n그것은 눈을 꿈뻑거리며 우리를 응시했다.\n\n쑤욱, 그런 소리가 나더니\n이내 기다랗고 새파란 혓바닥이\n우리에게 천천히 다가왔다.\n\n혓바닥 위에는 두꺼비의\n눈알이 올라가 있었다.\n\n가져가라는 듯하여 집어 들자,\n남은 한쪽 눈을 우리에게 꿈뻑거리고\n어디론가로 가버렸다.\n\n들어줘서 고맙다는 걸까.\nEN:\nAn indeterminate amount of time passes.\n\nAs you waited for the toad to finish its cries,\nit gazed into us, closing and opening its eyelids slowly.\n\nWith a quick, slick sound,\na long blue tongue\npopped out towards us.\n\nAn eyeball belonging to the toad\nwas on its tongue.\n\nWhen we picked it up,\nit blinked its other eye at us\nbefore going on its way.\n\nWas that its thanks for lending an ear?"
   },
   {
@@ -1543,7 +1543,7 @@
     "key": "901028-options[1].result[1]",
     "original": "茨を剥がそうとしたが、\n思っていたよりその茨が硬いことが分かった。\n\n何度も力を入れたが、\n残ったのは手のひらの傷だけだった。\n\nそれらは静かな姿で\nただ眺めているだけだった。\n\n怒っているようにも、\n恐れているようにも見える。\n<CMT_KR>\n<CMT_JP>",
     "translation": "茨を剥がそうとしたが、\n思っていたよりその茨が硬いことが分かった。\n\n何度も力を入れたが、\n残ったのは手のひらの傷だけだった。\n\nそれらは静かな姿で\nただ眺めているだけだった。\n\n怒っているようにも、\n恐れているようにも見える。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n가시덩굴을 뜯어내려 했지만,\n생각보다 그 덩굴이 질기다는 걸 알 수 있었다.\n\n몇 번을 더 힘을 썼지만,\n남는 것은 손바닥에 남은 상처들뿐이었다.\n\n그것들은 조용한 모습으로\n그저 쳐다보고 있을 뿐이었다.\n\n화가 난 것 같기도,\n두려워하는 것 같기도 하다.\nEN:\nYou tried to remove the vines,\nbut they were tougher than they seemed.\n\nAfter a few tugs pass,\nyou only have scratches on your palms.\n\nThey were quietly watching the affair.\n\nThey looked both upset,\nor afraid in some way."
   },
   {
@@ -1711,7 +1711,7 @@
     "key": "901034-desc",
     "original": "暗いが、ここは工場かもしれない。\n\n鋭い機械音が鳴り響く。\n目のような蛍光色の照明が私を見つめる。\n\nロボットはゆっくりと近づいてくる。\n\n完成していないのか、動くたびに\n電線があちこちから突き出てくる。\n\nねちっこく流れているあれは不凍液だろうか、それとも血だろうか。\n\nそのとき、ロボットの胸にある端末が光った。\n\n何か入力できそうだ。\n<CMT_KR>\n<CMT_JP>",
     "translation": "暗いが、ここは工場かもしれない。\n\n鋭い機械音が鳴り響く。\n目のような蛍光色の照明が私を見つめる。\n\nロボットはゆっくりと近づいてくる。\n\n完成していないのか、動くたびに\n電線があちこちから突き出てくる。\n\nねちっこく流れているあれは不凍液だろうか、それとも血だろうか。\n\nそのとき、ロボットの胸にある端末が光った。\n\n何か入力できそうだ。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n어두운 이곳은 공장일지 모른다.\n\n날카로운 기계음이 울려 퍼진다.\n형광빛의 눈과 같은 조명이 나를 바라본다.\n\n로봇은 천천히 다가온다.\n\n완성되지 않았는지, 움직일 때마다\n전선들이 여기저기 터져 나와 있다.\n\n끈덕지게 흐르고 있는 저건 부동액일까, 아니면 피일까.\n\n그때, 로봇의 가슴에 있는 단말기가 번쩍였다.\n\n무언가를 입력할 수 있을 것 같다.\nEN:\nThis dark place might be a factory.\n\nA sharp mechanical noise zips through the air.\nIlluminating eyes are fixed on you.\n\nA robot slowly approaches.\n\nIt appears to be incomplete, as suggested by the bare wires protruding with each movement.\n\nIs that leakage antifreeze, or blood?\n\nWhile you were wondering, the terminal on its chest flashed to life.\n\nLooks like you can write something."
   },
   {
@@ -1961,10 +1961,10 @@
   },
   {
     "key": "901015-options[1].messageDesc",
-    "original": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
-    "translation": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "original": "選択時、振動E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、振動E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n선택 시, 범용 E.G.O GIFT 획득\nEN:\nSelect to gain a Keywordless E.G.O Gift"
+    "context": "KR:\n선택 시, 진동 E.G.O GIFT 획득\nEN:\nSelect to gain a Tremor E.G.O Gift"
   },
   {
     "key": "901015-options[1].result[0]",
@@ -2369,7 +2369,7 @@
     "key": "901043-options[1].result[0]",
     "original": "ドン― ドン― ドン― と、頭をドアにぶつける音と液体がたぷつく音が聞こえる。\n\nそれをただ、じっと見守りながら聞く。\n\nよく聞いてみると、その音はリズムがあった。もしかすると、そのリズムの中に歓喜があったのかも。\n<CMT_KR>\n<CMT_JP>",
     "translation": "ドン― ドン― ドン― と、頭をドアにぶつける音と液体がたぷつく音が聞こえる。\n\nそれをただ、じっと見守りながら聞く。\n\nよく聞いてみると、その音はリズムがあった。もしかすると、そのリズムの中に歓喜があったのかも。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n탕-탕-탕- 계속해서 머리를 문에 부딪히는 소리와 액체가 출렁이는 소리가 들린다.\n\n그것을 그저 빤히 들여다보고 듣는다.\n\n자세히 들어보니 그 소리는 리듬이 있었다. 어쩌면 그 리듬안에 환희가 있었을지도.\nEN:\nTang- Tang- Tang- The ramming at the door and the sloshing continue.\n\nI keep watching and listening.\n\nA more attentive hearing reveals that the sounds have a rhythm. Perhaps there is delight to be found in it."
   },
   {
@@ -2593,7 +2593,7 @@
     "key": "90105701-options[0].result[0]",
     "original": "これに入った、あるいは差し出された囚人の手は溶けながらも溶けない。\n\n今の手はなくなり、別次元の手に代替されただけだから。\n<CMT_KR>\n<CMT_JP>",
     "translation": "これに入った、あるいは差し出された囚人の手は溶けながらも溶けない。\n\n今の手はなくなり、別次元の手に代替されただけだから。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n이것에 들어간, 혹은 내어진 수감자의 손은 녹아내리면서도 녹아내리지 않는다.\n\n지금의 손은 없어졌고 다른 차원의 손으로 대체되었을 뿐이니.\nEN:\nThe Sinner's hand that reached out—or was offered, perhaps—melts without melting down.\n\nThe hand they had was lost, but a hand from the other dimension has promptly replaced it."
   },
   {
@@ -2978,7 +2978,7 @@
     "key": "901079-desc",
     "original": "壺から出ているこの五つの何かは手の平なんだろうか。\n\nそれとも裸で黄金の壺の中へと、逆さまに頭を入れた人間なんだろうか。\n\n一体黄金の壺の中に何を見つけて、顔を丸ごと入れてしまったのだろうか。\n\n頭を突っ込んでも満足できなかったのか、全身は全てを握りしめようとする手になった。\n\n世界の全てを掌握できれば、その握力もついに緩むのだろうか。\n<CMT_KR>\n<CMT_JP>",
     "translation": "壺から出ているこの五つの何かは手の平なんだろうか。\n\nそれとも裸で黄金の壺の中へと、逆さまに頭を入れた人間なんだろうか。\n\n一体黄金の壺の中に何を見つけて、顔を丸ごと入れてしまったのだろうか。\n\n頭を突っ込んでも満足できなかったのか、全身は全てを握りしめようとする手になった。\n\n世界の全てを掌握できれば、その握力もついに緩むのだろうか。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n항아리에 나와있는 이 다섯마디의 가락들은 손바닥일까.\n\n아니면 발가벗고 황금 항아리 속에 거꾸로 머리를 집어 넣은 사람일까.\n\n황금 항아리 속 대체 무엇을 보았길래 얼굴을 통째로 넣고 만 것일까.\n\n머리까지 쳐박아도 만족스럽지 않았는지 온 몸은 모든 걸 움켜쥐려고 하는 손아귀가 되었다.\n\n세상 모든 걸 쥘 수 있다면 그 악력도 마침내 느슨해질 수 있을까.\nEN:\nCould these five appendages protruding from the urn be a palm?\n\nOr is it a naked person who put their head into the golden urn?\n\nWhat did this person see in the urn to cause them to shove their face into it? \n\nAs if that wasn't enough, the whole body turned into a hand that tries to grasp everything it can.\n\nIf it finally takes hold of everything in the world, will its grip loosen at last?"
   },
   {

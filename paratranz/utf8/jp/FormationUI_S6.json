@@ -162,8 +162,8 @@
   },
   {
     "key": "character_list_title_all_ego_with_character_name-content",
-    "original": "E.G.O: {0}\n<CMT_KR>\n<CMT_JP>",
-    "translation": "E.G.O: {0}\n<CMT_KR>\n<CMT_JP>",
+    "original": "E.G.O : {0}\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O : {0}\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\nE.G.O : {0}\nEN:\nE.G.O: {0}"
   },
@@ -383,5 +383,19 @@
     "translation": "嫉妬耐性\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n질투 내성\nEN:\nEnvy Res."
+  },
+  {
+    "key": "personality_info_list_not_owned-content",
+    "original": "未獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "未獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미획득\nEN:\nNot Owned"
+  },
+  {
+    "key": "formation_must_participate_specific_character_with_baton-content",
+    "original": "囚人{0}が待機人員に含まれていない状態で戦闘に参加する必要があります。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "囚人{0}が待機人員に含まれていない状態で戦闘に参加する必要があります。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n{0} 수감자가 대기 인원에 포함되지 않은 채로 전투에 참여해야 합니다.\nEN:\n{0} cannot enter as a Backup unit. {0} must be an active participant in the battle."
   }
 ]

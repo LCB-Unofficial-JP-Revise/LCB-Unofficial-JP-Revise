@@ -106,8 +106,8 @@
   },
   {
     "key": "2066-desc",
-    "original": "ターン開始時、最大体力が最も高い味方1名が(このターンの間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン開始時、最大体力が最も高い味方1名が(このターンの間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、最大体力が最も高い味方1名が(この戦闘の間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、最大体力が最も高い味方1名が(この戦闘の間、敵からスキル攻撃でダメージを受けた回数)だけ[DefenseUp]を得る(最大6)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시 최대 체력이 가장 높은 아군 1명이 (이번 전투 동안 적에게 스킬 공격으로 피해를 받은 횟수)만큼 [DefenseUp] 얻음 (최대 6).\nEN:\nTurn Start: 1 ally with the highest max HP gains [DefenseUp] equal to the number of times that unit was hit by the enemies' Skill Attacks (max 6)"
   },
@@ -297,7 +297,7 @@
     "key": "2073-simpleDesc[1].simpleDesc",
     "original": "精神力が-15以下なら、使用するスキルの最終コインが破壊不能コインに変更。\n<CMT_KR>\n<CMT_JP>",
     "translation": "精神力が-15以下なら、使用するスキルの最終コインが破壊不能コインに変更。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n정신력이 -15 이하면, 사용하는 스킬의 마지막 코인이 파괴 불가 코인으로 변경\nEN:\nAt -15 or less SP: convert the final Coin for their Skills into Unbreakable Coin"
   },
   {

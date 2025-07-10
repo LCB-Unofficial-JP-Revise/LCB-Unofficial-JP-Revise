@@ -3,7 +3,7 @@
     "key": "971027-desc",
     "original": "ワープ列車乗り場内のチケット売り場。\n\n多くの人がワープ列車を利用するために長い列を作っている。\n\n順番を待っていると、翼の職員と思われる乗客が話しかけてきた。\n\n「ちょっとお尋ねしてもよろしいですか？」\n\n「何でも聞いてくだされ！」\n\n「10秒で到着するというのに、1等席と一般席にどんな違いがあるんですかね？」\n\n「今回の出張でたくさん稼いだんですけど、わざわざ1等席に乗って無駄遣いする必要はないですよね？」\n\n待機中の乗客の質問を聞いて、囚人たちが一斉に私のことを見つめてくる。\n<CMT_KR>\n<CMT_JP>",
     "translation": "ワープ列車乗り場内のチケット売り場。\n\n多くの人がワープ列車を利用するために長い列を作っている。\n\n順番を待っていると、翼の職員と思われる乗客が話しかけてきた。\n\n「ちょっとお尋ねしてもよろしいですか？」\n\n「何でも聞いてくだされ！」\n\n「10秒で到着するというのに、1等席と一般席にどんな違いがあるんですかね？」\n\n「今回の出張でたくさん稼いだんですけど、わざわざ1等席に乗って無駄遣いする必要はないですよね？」\n\n待機中の乗客の質問を聞いて、囚人たちが一斉に私のことを見つめてくる。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n워프 열차 승강장 내의 매표소.\n\n많은 사람이 워프 열차 이용을 위해 긴 줄을 서고 있다.\n\n차례를 기다리던 중 날개의 직원으로 보이는 승객이 말을 걸어왔다.\n\n\"혹시 하나만 여쭤봐도 괜찮을까요?\"\n\n\"무엇이든 물어보게나!\"\n\n\"10초면 도착하는데 일등석과 일반석이 무슨 차이일까요?\"\n\n\"이번 출장으로 돈은 많이 벌었지만… 굳이 일등석을 타서 낭비할 필요는 없겠죠?\"\n\n대기 중인 승객의 질문에 수감자들이 일제히 나를 바라본다.\nEN:\nA ticket booth inside a WARP train platform.\n\nIn front of it is a long line of people trying to get their tickets.\n\nAs we were waiting in line, a passenger approached us. They're dressed like an employee of a Wing...\n\n\"'Scuse me, can I ask you folks something?\"\n\n\"Verily! Ask away!\"\n\n\"If it's gonna take just ten seconds to get there anyway... what's the real difference between first class and economy class seats?\"\n\n\"I did make bank from this work trip, but... first class ticket's probably a waste of money, right?\"\n\nThe Sinners all turn to look at me as the passenger waits for our reply."
   },
   {
@@ -400,10 +400,10 @@
   },
   {
     "key": "971031-options[1].messageDesc",
-    "original": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
-    "translation": "選択時、汎用E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "original": "選択時、出血E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選択時、出血E.G.O GIFT獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n선택 시, 범용 E.G.O GIFT 획득\nEN:\nSelect to gain a Keywordless E.G.O Gift"
+    "context": "KR:\n선택 시, 출혈 E.G.O GIFT 획득\nEN:\nSelect to gain a Bleed E.G.O Gift"
   },
   {
     "key": "971031-options[1].result[0]",

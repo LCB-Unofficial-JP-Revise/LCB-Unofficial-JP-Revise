@@ -159,5 +159,12 @@
     "translation": "<color=#5bffde>{1}</color> {2}獲得\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;color=#5bffde&gt;{1}&lt;/color&gt; {2} 얻음\nEN:\nGain {2} &lt;color=#5bffde&gt;{1}&lt;/color&gt;"
+  },
+  {
+    "key": "GiveBuffOnRSOnNewFloorTheme-description",
+    "original": "記録されていないテーマパック戦闘({4}階層以下)で<color=#5bffde>{1}</color>{2}を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "記録されていないテーマパック戦闘({4}階層以下)で<color=#5bffde>{1}</color>{2}を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기록되지 않은 테마팩 전투 ({4}층 이하)에서 &lt;color=#5bffde&gt;{1}&lt;/color&gt; {2} 얻음"
   }
 ]

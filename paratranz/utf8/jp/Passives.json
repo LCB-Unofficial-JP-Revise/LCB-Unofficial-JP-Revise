@@ -997,7 +997,7 @@
     "key": "1110221-name",
     "original": "確殺\n<CMT_KR>\n<CMT_JP>",
     "translation": "確殺\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n확인사살\nEN:\nDouble Tap"
   },
   {
@@ -1313,7 +1313,7 @@
     "original": "敵が死亡した場合、精神力が最も低い味方1名が次のターンにクイック 1、ダメージ量増加 1を得る(1ターンに1回発動)\n<CMT_KR>\n<CMT_JP>",
     "translation": "敵が死亡した場合、精神力が最も低い味方1名が次のターンにクイック 1、ダメージ量増加 1を得る(1ターンに1回発動)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n적이 사망하면 정신력이 가장 높은 아군 1명이 다음 턴에 신속 1, 피해량 증가 1을 얻음 (턴 당 1회 발동)\nEN:\nAfter an enemy is defeated, apply 1 Haste and 1 Damage Up to the ally with the most SP. (Once per turn.)"
+    "context": "KR:\n적이 사망하면 정신력이 가장 높은 아군 1명이 다음 턴에 신속 1, 피해량 증가 1을 얻음 (턴 당 1회 발동)\nEN:\nAfter an enemy is defeated, apply 1 Haste and 1 Damage Up next turn to the ally with the most SP. (Once per turn.)"
   },
   {
     "key": "1020401-name",
@@ -2943,7 +2943,7 @@
     "key": "1060811-desc",
     "original": "自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分の[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "自分がスキルを捨てるとき、捨てたスキルのランクだけ[AttackDmgUp]を得る。(1ターンにつき最大3)\n自分を除いた味方がスキルを捨てるとき、捨てたスキルのランクが自分の[KnowledgeExplored]より高ければ、自分の[KnowledgeExplored] +1\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n자신이 스킬을 버릴 때 버린 스킬의 등급만큼 [AttackDmgUp]를 얻음. (턴 당 최대 3)\n자신을 제외한 아군이 스킬을 버릴 때, 버린 스킬의 등급이 자신의 [KnowledgeExplored]보다 높으면, 자신의 [KnowledgeExplored] +1\nEN:\nWhen Discarding a Skill, gain [AttackDmgUp] equal to the Discarded Skill Rank. (Max 3 per turn)\nWhen other allies Discard a Skill, and if the ally's Discarded Skill Rank is higher than this unit's [KnowledgeExplored] value, this unit gains +1 [KnowledgeExplored]."
   },
   {
@@ -4539,7 +4539,7 @@
     "key": "1071002-desc",
     "original": "- ターン開始時、[NightPathfinding]があるなら[NightPathfinding]に乗る\n- [NightPathfinding]に乗るたび、精神力を5消耗\n- 戦闘中に死亡した味方が3名以上なら、次のターンに[NightPathfinding]を得る。(戦闘につき1回)\n- [NightPathfinding]に乗るとき、ダメージや混乱区間前進で混乱状態になった場合は混乱状態を解除する。解除できない混乱状態の場合、[NightPathfinding]に乗れない。\n- 対象討伐時に[Coffin]1を得る\n<CMT_KR>\n<CMT_JP>",
     "translation": "- ターン開始時、[NightPathfinding]があるなら[NightPathfinding]に乗る\n- [NightPathfinding]に乗るたび、精神力を5消耗\n- 戦闘中に死亡した味方が3名以上なら、次のターンに[NightPathfinding]を得る。(戦闘につき1回)\n- [NightPathfinding]に乗るとき、ダメージや混乱区間前進で混乱状態になった場合は混乱状態を解除する。解除できない混乱状態の場合、[NightPathfinding]に乗れない。\n- 対象討伐時に[Coffin]1を得る\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n- 턴 시작 시 [NightPathfinding]이 있을 때, [NightPathfinding]에 탑승함\n- [NightPathfinding]에 탑승할 때마다 정신력 5 소모\n- 전투 중 사망한 아군이 3명 이상이면, 다음 턴에 [NightPathfinding]을 얻음. (전투당 1번)\n- [NightPathfinding]에 탑승할 때, 피해나 흐트러짐 손상으로 흐트러짐 상태가 된 경우, 흐트러짐 상태를 해제함. 해제할 수 없는 흐트러짐 상태인 경우, [NightPathfinding]에 탑승할 수 없음.\n- 대상 처치 시 관 1 얻음\nEN:\n- Turn Start: if this unit has [NightPathfinding], mount [NightPathfinding].\n- Lose 5 SP every time this unit mounts [NightPathfinding]\n- If 3+ allies have been defeated in this Encounter, gain [NightPathfinding] next turn. (once per Encounter)\n- If this unit gets Staggered due to damage or raised Stagger Threshold when mounting [NightPathfinding], recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not mount [NightPathfinding].\n\n- Gain 1 Coffin when killing the target."
   },
   {
@@ -4987,7 +4987,7 @@
     "key": "1051111-summary",
     "original": "ターン終了時、自分の[Breath]回数に比例して次のターンに[Agility]を得る。基本攻撃的中時、次のターンに[ConcentratedAttackMeursault]を付与。対象を倒すと精神力を回復する\n<CMT_KR>\n<CMT_JP>",
     "translation": "ターン終了時、自分の[Breath]回数に比例して次のターンに[Agility]を得る。基本攻撃的中時、次のターンに[ConcentratedAttackMeursault]を付与。対象を倒すと精神力を回復する\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n턴 종료시 자신의 호흡 횟수에 비례해 다음 턴에 신속 얻음. 기본 공격 적중시 다음 턴에 [ConcentratedAttackMeursault] 부여. 대상을 처치하면 정신력을 회복함\nEN:\nTurn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
   },
   {

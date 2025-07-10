@@ -141,10 +141,10 @@
   },
   {
     "key": "2032-desc",
-    "original": "ステージ開始時、黒雲会所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、黒雲会所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、黒雲会所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、黒雲会所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n黒雲会所属人格がターン開始時に対象へ最初にダメージを与えた場合、[Laceration]威力4、[Laceration]回数4を追加で付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n흑운회 소속 인격이 턴 시작 시 대상에게 처음으로 피해를 주었을 경우, [Laceration] 위력 4, [Laceration] 횟수 4 추가로 부여 (턴 당 1회).\nEN:\nEncounter Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)"
+    "context": "KR:\n턴 시작 시, 흑운회 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n흑운회 소속 인격이 턴 시작 시 대상에게 처음으로 피해를 주었을 경우, [Laceration] 위력 4, [Laceration] 횟수 4 추가로 부여 (턴 당 1회).\nEN:\nTurn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)"
   },
   {
     "key": "2032-simpleDesc[0].simpleDesc",
@@ -169,10 +169,10 @@
   },
   {
     "key": "2033-desc",
-    "original": "ステージ開始時、剣契所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、剣契所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、剣契所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のときに発動。\n\n味方がターン開始時に斬撃威力増加 2を得る、斬撃与ダメージ量 +35%。\n\n剣契所属人格が敵へクリティカルダメージを与えた場合、保有している[Breath]威力だけ追加で傲慢ダメージを与える。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 [Breath] 위력만큼 추가 오만 피해를 입힘.\nEN:\nEncounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self."
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 턴 시작 시 참격 위력 증가 2 얻음, 가하는 참격 피해량 +35%.\n\n검계 소속 인격이 적에게 치명타 피해를 입힐 때, 보유한 [Breath] 위력만큼 추가 오만 피해를 입힘.\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self."
   },
   {
     "key": "2033-simpleDesc[0].simpleDesc",
@@ -197,10 +197,10 @@
   },
   {
     "key": "2034-desc",
-    "original": "ステージ開始時、剣契所属人格が3名以上のときに発動。\n\n味方の斬撃与ダメージ量+50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、剣契所属人格が3名以上のときに発動。\n\n味方の斬撃与ダメージ量+50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、剣契所属人格が3名以上のときに発動。\n\n味方の斬撃与ダメージ量+50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のときに発動。\n\n味方の斬撃与ダメージ量+50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우, [Breath] 상태일 때 치명타 발동 확률이 100%로 고정됨.\nEN:\nEncounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage allies with [Breath] have a fixed Critical rate of 100%."
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우, [Breath] 상태일 때 치명타 발동 확률이 100%로 고정됨.\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage allies with [Breath] have a fixed Critical rate of 100%."
   },
   {
     "key": "2034-simpleDesc[0].simpleDesc",
@@ -225,10 +225,10 @@
   },
   {
     "key": "2035-desc",
-    "original": "ステージ開始時、剣契所属人格が3名以上のときに発動\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合はスキル1のコイン威力 +1, 該当スキルが単一コインの場合はコイン威力 +3。\n\n[剣契頭目ムルソー専用効果] 「肉斬」スキルのマッチ最終威力 -12, 「骨断」スキルの与ダメージ量 +50%。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ステージ開始時、剣契所属人格が3名以上のときに発動\n\n味方の斬撃与ダメージ量 +50%\n\n剣契所属の場合はスキル1のコイン威力 +1, 該当スキルが単一コインの場合はコイン威力 +3。\n\n[剣契頭目ムルソー専用効果] 「肉斬」スキルのマッチ最終威力 -12, 「骨断」スキルの与ダメージ量 +50%。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、剣契所属人格が3名以上のときに発動。\n\n味方の斬撃与ダメージ量+50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、剣契所属人格が3名以上のときに発動。\n\n味方の斬撃与ダメージ量+50%\n\n剣契所属の場合、[Breath]状態のときにクリティカル発動確率が100%に固定。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n스테이지 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우 1스킬의 코인 위력 +1, 해당 스킬이 단일 코인인 경우에는 코인 위력 +3.\n\n[검계 우두머리 뫼르소 전용 효과] '육참' 스킬 합 최종 위력 -12, '골단' 스킬의 가하는 피해량 +50%.\nEN:\nEncounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage Identities: Skill 1 gains Coin Power +1. Single-coin Skill 1 gains Coin Power +3.\n\n[Blade Lineage Mentor Meursault Only] 'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Their Bones' Skill deals +50% damage."
+    "context": "KR:\n턴 시작 시, 검계 소속 인격이 3인 이상일 때 발동.\n\n아군이 가하는 참격 피해량 +50%\n\n검계 소속일 경우, [Breath] 상태일 때 치명타 발동 확률이 100%로 고정됨.\nEN:\nTurn Start: activates when there are 3 or more Blade Lineage Identities.\n\nAll allies deal +50% more Slash damage.\n\nBlade Lineage allies with [Breath] have a fixed Critical rate of 100%."
   },
   {
     "key": "2035-simpleDesc[0].simpleDesc",

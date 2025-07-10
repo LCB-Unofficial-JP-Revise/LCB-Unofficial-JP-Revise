@@ -10,7 +10,7 @@
     "key": "Bothersome-desc",
     "original": "- 対象の斬撃耐性を弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>\n<CMT_JP>",
     "translation": "- 対象の斬撃耐性を弱点(1.5)として扱う(対象の斬撃耐性が1.5以上の場合には適用されない)\n- ターン終了時、消滅する\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n- 대상의 참격 내성을 약점(1.5)으로 취급함 (대상의 참격 내성이 1.5 이상인 경우에는 적용되지 않음)\n- 턴 종료 시, 사라짐\nEN:\n- The target's Slash Resistance counts as 'Weak'(1.5). (does not activate against targets with 1.5 or higher Slash Resistance)\n- Expires at Turn End"
   },
   {
@@ -458,7 +458,7 @@
     "key": "Obedient-desc",
     "original": "- ジア・ムーとマッチ進行時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
     "translation": "- ジア・ムーとマッチ進行時、マッチ威力 -2\n- このキャラクターの精神力が45になるか数値が0になると解除される\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n- 가모와 합 진행 시 합 위력 -2\n- 이 캐릭터의 정신력이 45가 되거나 수치가 0이 되면 해제됨\n- 턴 종료 시 1 감소\nEN:\n- Clash Power -2 in Clashes against Jia Mu\n- Expires when this unit's SP reaches 45, or when the Stack drops to 0\n- Turn End: lose 1 Stack"
   },
   {
@@ -740,5 +740,61 @@
     "translation": "- クボの標的になる\n- ターン終了時に除去\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 구보의 표적이 됨\n- 턴 종료시 제거됨\nEN:\n- Tageted by Gubo\n- Expires at Turn End"
+  },
+  {
+    "key": "Honglu_Xi_Mirror-name",
+    "original": "喜び\n<CMT_KR>\n<CMT_JP>",
+    "translation": "喜び\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨\nEN:\nHappiness"
+  },
+  {
+    "key": "Honglu_Xi_Mirror-desc",
+    "original": "- マッチ威力 +1\n- 今回のフェーズにて1回だけ宝玉状態にならない。宝玉状態にするスキルとマッチ進行時、マッチ威力 +5, 該当スキルにてマッチにて勝利した場合、宝玉状態にならず自分の混乱を解除、ジア・ムーの精神力が10減少、ジア・ムーへ脆弱2を付与\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- マッチ威力 +1\n- 今回のフェーズにて1回だけ宝玉状態にならない。宝玉状態にするスキルとマッチ進行時、マッチ威力 +5, 該当スキルにてマッチにて勝利した場合、宝玉状態にならず自分の混乱を解除、ジア・ムーの精神力が10減少、ジア・ムーへ脆弱2を付与\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 합 위력 +1\n- 이번 페이즈에서 1회 보옥 상태가 되지 않음. 보옥 상태로 만드는 스킬과 합 진행 시 합 위력 +5, 해당 스킬과 합에서 승리한 경우, 보옥 상태가 되지 않고 자신의 흐트러짐 해제, 가모의 정신력 10 감소, 가모에게 취약 2 부여\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Clash Power +1\n- Nullfies the effect that turns this unit into a Precious Jade once. When clashing against Skills that turns this unit into a Precious Jade, Clash Power +5; if this unit wins that Clash, this unit does not become a Precious Jade, recovers from Stagger, reduces Jia Mu's SP by 10, and inflicts 2 Fragile against Jia Mu\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "Honglu_Le_Mirror-name",
+    "original": "喜び、楽しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "喜び、楽しみ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨, 즐거움\nEN:\nHappiness, Joy"
+  },
+  {
+    "key": "Honglu_Le_Mirror-desc",
+    "original": "- 最終威力 +1\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最終威力 +1\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최종 위력 +1\n- 합 승리 시, 정신력이 가장 낮은 아군 정신력 5 회복 (자신 포함)\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Final Power +1\n- On Clash Win, heal 5 SP for 1 ally with the least SP (including this unit)\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "Honglu_Ai_Mirror-name",
+    "original": "喜び、楽しみ、哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "喜び、楽しみ、哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨, 즐거움, 슬픔\nEN:\nHappiness, Joy, Sorrow"
+  },
+  {
+    "key": "Honglu_Ai_Mirror-desc",
+    "original": "- 最終威力 +3\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最終威力 +3\n- マッチ勝利時、精神力が最も低い味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최종 위력 +3\n- 합 승리 시, 정신력이 가장 낮은 아군 정신력 5 회복 (자신 포함)\n- 아군이 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 공격 위력 증가 1을 얻음 (턴 당 1회)\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Final Power +3\n- On Clash Win, heal 5 SP for 1 ally with the least SP (including this unit)\n- When an ally is killed, the remaining allies at Turn End gain 1 Attack Power Up next turn (once per turn)\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
+  },
+  {
+    "key": "Honglu_Nu_Mirror-name",
+    "original": "喜び、楽しみ、哀しみ、怒り\n<CMT_KR>\n<CMT_JP>",
+    "translation": "喜び、楽しみ、哀しみ、怒り\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기쁨, 즐거움, 슬픔, 분노\nEN:\nHappiness, Joy, Sorrow, Wrath"
+  },
+  {
+    "key": "Honglu_Nu_Mirror-desc",
+    "original": "- 最終威力 +5\n- 毎ターン開始時、全味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\n- 今回の戦闘にて累計で失った体力比率の30%だけダメージ量が増加 (最大100%)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最終威力 +5\n- 毎ターン開始時、全味方の精神力を5回復 (自分を含む)\n- 味方が死亡した場合、ターン終了時に残った味方が次のターンに攻撃威力増加1を得る (1ターンにつき1回)\n- 今回の戦闘にて累計で失った体力比率の30%だけダメージ量が増加 (最大100%)\nジア・ムーとマッチ勝利時、数が最も少ないE.G.O資源の内ランダムな属性の資源を1つずつ、計3個獲得\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최종 위력 +5\n- 매 턴 시작 시 모든 아군의 정신력 5 회복 (자신 포함)\n- 아군이 사망한 경우, 턴 종료 시 남은 아군이 다음 턴에 공격 위력 증가 1을 얻음 (턴 당 1회)\n- 이번 전투에서 누적으로 잃은 체력 비율의 30%만큼 피해량 증가 (최대 100%)\n가모와 합 승리 시 수량이 가장 부족한 E.G.O 자원 중 무작위 속성의 자원을 1개씩, 총 3개 획득\nEN:\n- Final Power +5\n- Allies heal 5 SP at every Turn Start (including this unit)\n- When an ally is killed, the remaining allies at Turn End gain 1 Attack Power Up next turn (once per turn)\n- Increases damage dealt by 30% of the total HP percentage this unit has cumulatively lost during this Encounter (max 100%)\nOn Clash Win against Jia Mu, gain 1 random E.G.O Resource each from 3 of the E.G.O Affinities with the least amount of resources"
   }
 ]
