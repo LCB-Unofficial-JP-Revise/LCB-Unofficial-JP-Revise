@@ -463,8 +463,8 @@
   },
   {
     "key": "54-content",
-    "original": "剣を収めろ、ズールゥ。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "剣を収めろ、ズールゥ。\n<CMT_KR>\n<CMT_JP>",
+    "original": "剣を収めろ、<ruby=ズールゥ>子路</ruby>。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "剣を収めろ、<ruby=ズールゥ>子路</ruby>。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n검을 거둬라, 자로.\nEN:\nStay your sword, Zilu."
   },
@@ -603,9 +603,9 @@
   },
   {
     "key": "64-content",
-    "original": "シー家、イーファ。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "シー家、イーファ。\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "<ruby=シー>史</ruby>家、<ruby=イーファ>易華</ruby>。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<ruby=シー>史</ruby>家、<ruby=イーファ>易華</ruby>。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n사씨 이화.\nEN:\nI am Yihua, of the Shi family."
   },
   {

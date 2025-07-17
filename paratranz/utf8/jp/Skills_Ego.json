@@ -2262,8 +2262,8 @@
   },
   {
     "key": "2070211-levelList[1].desc",
-    "original": "[WhenUse] 嫉妬共鳴数だけ自分の充電 回数を増加\n充電 回数を5消耗し、スキル威力 +3\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 嫉妬共鳴数だけ自分の充電 回数を増加\n充電 回数を5消耗し、スキル威力 +3\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 嫉妬共鳴数だけ自分の充電 回数が増加\n充電 回数を5消耗し、スキル威力 +3\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 嫉妬共鳴数だけ自分の充電 回数が増加\n充電 回数を5消耗し、スキル威力 +3\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 5를 소모하여 스킬 위력 +3\nEN:\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend 5 Charge Count to gain +3 Skill Power"
   },
@@ -2346,8 +2346,8 @@
   },
   {
     "key": "2070221-levelList[1].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数を増加\n充電 回数を全て消耗し、スキル威力 +10\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数を増加\n充電 回数を全て消耗し、スキル威力 +10\n<CMT_KR>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数が増加\n充電 回数を全て消耗し、スキル威力 +10\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数が増加\n充電 回数を全て消耗し、スキル威力 +10\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[WhenUse]질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 전부 소모하여 스킬 위력 +10\nEN:\n[CantIdentify] Targets randomly\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend all Charge Count to gain +10 Skill Power"
   },
@@ -2374,8 +2374,8 @@
   },
   {
     "key": "2070221-levelList[2].desc",
-    "original": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数を増加\n充電 回数を全て消耗し、スキル威力 +15\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数を増加\n充電 回数を全て消耗し、スキル威力 +15\n<CMT_KR>\n<CMT_JP>",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数が増加\n充電 回数を全て消耗し、スキル威力 +15\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[WhenUse] 嫉妬共鳴数だけ自分の充電 回数が増加\n充電 回数を全て消耗し、スキル威力 +15\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[WhenUse]질투 공명 수만큼 자신의 충전 횟수 증가\n충전 횟수 전부 소모하여 스킬 위력 +15\nEN:\n[CantIdentify] Targets randomly\n[WhenUse] Gain Charge Count by Envy Reson.\nSpend all Charge Count to gain +15 Skill Power"
   },

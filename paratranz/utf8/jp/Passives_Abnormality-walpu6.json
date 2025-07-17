@@ -1,0 +1,184 @@
+[
+  {
+    "key": "122301-name",
+    "original": "絶望の騎士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望の騎士\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망의 기사\nEN:\nThe Knight of Despair"
+  },
+  {
+    "key": "122301-desc",
+    "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -50% (小数点切り捨て)\n自分の[SuperCoin]が破壊されたまま的中時、対象の[Sinking]効果を発動させない (回数が減少しない)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -50% (小数点切り捨て)\n自分の[SuperCoin]が破壊されたまま的中時、対象の[Sinking]効果を発動させない (回数が減少しない)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -50% (소수점 버림)\n자신의 [SuperCoin]이 파괴된 채 적중시, 대상의 [Sinking] 효과를 발동하지 않음 (횟수 차감하지 않음)\nEN:\nTakes -50% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] (rounded down)\nIf this unit hits with a Cracked [SuperCoin], it does not activate the target's [Sinking] effect (does not consume Count either)"
+  },
+  {
+    "key": "122302-name",
+    "original": "流れる無力な涙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "流れる無力な涙\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐르는 무력한 눈물\nEN:\nRiver of Helpless Tears"
+  },
+  {
+    "key": "122302-desc",
+    "original": "ターン開始時、フィールドにある剣のうち[HelplessTear]を持つ剣が1つもなければ、任意の剣1つに[HelplessTear]を付与 (1ターンにつき1回、[HelplessTear]がある剣がある場合は発動しない)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、フィールドにある剣のうち[HelplessTear]を持つ剣が1つもなければ、任意の剣1つに[HelplessTear]を付与 (1ターンにつき1回、[HelplessTear]がある剣がある場合は発動しない)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 필드에 있는 검 중 [HelplessTear]을 지니고 있는 검이 하나도 없다면, 임의의 검 1개에게 [HelplessTear] 부여 (턴 당 1회, [HelplessTear]이 있는 검이 있는 경우 발동하지 않음)\nEN:\nTurn Start: if none of the swords on the field have [HelplessTear], apply [HelplessTear] to 1 random sword (once per turn; does not activate if a sword has [HelplessTear])"
+  },
+  {
+    "key": "122303-name",
+    "original": "見窄らしい矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "見窄らしい矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n볼품없는 긍지\nEN:\nHollow Pride"
+  },
+  {
+    "key": "122303-desc",
+    "original": "最初に混乱してからターン終了時、[ColdBlackTear]を5以上持っている囚人がいるなら次のターンに広域スキルを使用する\n最初に混乱してからターン終了時、全囚人のうち誰かが[ColdBlackTear]を持っているなら、次のターンに[SignOfDespair]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最初に混乱してからターン終了時、[ColdBlackTear]を5以上持っている囚人がいるなら次のターンに広域スキルを使用する\n最初に混乱してからターン終了時、全囚人のうち誰かが[ColdBlackTear]を持っているなら、次のターンに[SignOfDespair]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n첫번째 흐트러짐 이후 턴 종료 시 [ColdBlackTear]을 5 이상 가지고 있는 수감자가 있다면 다음 턴에 광역기를 사용함\n첫번째 흐트러짐 이후 턴 종료 시 모든 수감자에게 [ColdBlackTear]이 있다면, 다음 턴에 [SignOfDespair]를 획득함\nEN:\nTurn End after getting Staggered for the first time: if there is a Sinner with 5+ [ColdBlackTear], uses an AoE Skill next turn\nTurn End after getting Staggered for the first time: if all Sinners have [ColdBlackTear], gain [SignOfDespair] next turn"
+  },
+  {
+    "key": "122304-name",
+    "original": "分かち合う哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "分かち合う哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나눠가지는 슬픔\nEN:\nShared Sorrow"
+  },
+  {
+    "key": "122304-desc",
+    "original": "最初に混乱した場合、次のターンに混乱を解除して毎ターン[Protection]10とバリア500を得る\n次のターンに忘れられた騎士の剣を召喚する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最初に混乱した場合、次のターンに混乱を解除して毎ターン[Protection]10とバリア500を得る\n次のターンに忘れられた騎士の剣を召喚する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음 흐트러졌을 경우 다음 턴에 흐트러짐을 해제하고, 매 턴마다 [Protection] 10과 보호막 500 얻음\n다음 턴에 잊혀진 기사의 검을 소환함\nEN:\nWhen Staggered for the first time, recover from Stagger next turn; then, gain 10 [Protection] and 500 Shield every turn\nSummon a Forgotten Knight's Sword next turn"
+  },
+  {
+    "key": "122305-name",
+    "original": "摩り切れた騎士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "摩り切れた騎士\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳디 닳은 기사\nEN:\nWeathered Knight"
+  },
+  {
+    "key": "122305-desc",
+    "original": "剣が自分に刺さるたび、毎ターン得る[Protection]が3, バリアが100減少し、[CollapsedPride]を1得る\n自分の[CollapsedPride]が3の場合、[Protection]とバリアをこれ以上得られず、次のターンに混乱状態になって[WornOutKnight]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "剣が自分に刺さるたび、毎ターン得る[Protection]が3, バリアが100減少し、[CollapsedPride]を1得る\n自分の[CollapsedPride]が3の場合、[Protection]とバリアをこれ以上得られず、次のターンに混乱状態になって[WornOutKnight]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n검이 자신에게 꽂힐 때 마다 매 턴마다 얻는 [Protection]를 3, 보호막을 100 감소하고, [CollapsedPride]를 1 얻음\n자신의 [CollapsedPride]가 3일 경우 [Protection]와 보호막을 더 이상 얻지 않고 다음 턴에 흐트러짐 상태가 되고 [WornOutKnight]를 얻음\nEN:\nEvery time a sword pierces this unit, gain 1 [CollapsedPride], and [Protection] gained every turn is reduced by 3 while Shield HP gained every turn is reduced by 100\nAt 3 [CollapsedPride], this unit no longer gains [Protection] and Shield every turn, and instead becomes Staggered next turn and gains [WornOutKnight]"
+  },
+  {
+    "key": "122306-name",
+    "original": "ひとつ残った正義\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ひとつ残った正義\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하나 남은 정의\nEN:\nOne Last Justice"
+  },
+  {
+    "key": "122306-desc",
+    "original": "自分に[WornOutKnight]がある状態でアルカナ[TabExplain]・スレイブ的中時、体力が5%未満に下がらずターン終了時に自決する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分に[WornOutKnight]がある状態でアルカナ[TabExplain]・スレイブ的中時、体力が5%未満に下がらずターン終了時に自決する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신에게 [WornOutKnight]가 있는 상태로 아르카나[TabExplain] 슬레이브 적중시, 체력이 5% 미만으로 떨어지지 않고, 턴 종료 시 자결함\nEN:\nWhen this unit is hit by ARCANA[TabExplain] SLAVE while it has [WornOutKnight]: does not lose HP below 5%, and kills itself at Turn End"
+  },
+  {
+    "key": "122307-name",
+    "original": "分かち合う哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "分かち合う哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나눠가지는 슬픔\nEN:\nShared Sorrow"
+  },
+  {
+    "key": "122307-desc",
+    "original": "最初に混乱した場合、次のターンに混乱を解除して毎ターン[Protection]10とバリア500を得る\n次のターンに心を壊す剣、心を引き裂く剣、心を貫く剣を召喚する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "最初に混乱した場合、次のターンに混乱を解除して毎ターン[Protection]10とバリア500を得る\n次のターンに心を壊す剣、心を引き裂く剣、心を貫く剣を召喚する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n처음 흐트러졌을 경우 다음 턴에 흐트러짐을 해제하고, 매 턴마다 [Protection] 10과 보호막 500 얻음\n다음 턴에 마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검을 소환함\nEN:\nWhen Staggered for the first time, recover from Stagger next turn; then, gain 10 [Protection] and 500 Shield every turn\nSummon Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword next turn"
+  },
+  {
+    "key": "122308-name",
+    "original": "ひとつ残った正義\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ひとつ残った正義\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n하나 남은 정의\nEN:\nOne Last Justice"
+  },
+  {
+    "key": "122308-desc",
+    "original": "自分に[WornOutKnight]があり、体力が600未満の状態でアルカナ[TabExplain]・スレイブ的中時、体力が5%未満に下がらずターン終了時に自決する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分に[WornOutKnight]があり、体力が600未満の状態でアルカナ[TabExplain]・スレイブ的中時、体力が5%未満に下がらずターン終了時に自決する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신에게 [WornOutKnight]가 있고 체력이 600 미만인 상태로 아르카나[TabExplain] 슬레이브 적중시, 체력이 5% 미만으로 떨어지지 않고, 턴 종료 시 자결함\nEN:\nWhen this unit is hit by ARCANA[TabExplain] SLAVE while it has [WornOutKnight] and is at less than 600 HP: does not lose HP below 5%, and kills itself at Turn End"
+  },
+  {
+    "key": "122401-name",
+    "original": "絶望を刺す剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望を刺す剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망을 찌르는 검\nEN:\nDespair-piercing Sword"
+  },
+  {
+    "key": "122401-desc",
+    "original": "[HelplessTear]を持つ敵の体力が0になると、絶望の騎士に突き刺さる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[HelplessTear]を持つ敵の体力が0になると、絶望の騎士に突き刺さる\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂힘\nEN:\nIf a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair"
+  },
+  {
+    "key": "122402-name",
+    "original": "忘れられた騎士の剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "忘れられた騎士の剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잊혀진 기사의 검\nEN:\nSword of a Forgotten Knight"
+  },
+  {
+    "key": "122402-desc",
+    "original": "自分の[SuperCoin]が破壊されたまま的中時、対象の[Sinking]効果が発動しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[SuperCoin]が破壊されたまま的中時、対象の[Sinking]効果が発動しない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [SuperCoin]이 파괴된 채 적중시, 대상의 [Sinking] 효과를 발동하지 않음\nEN:\nIf this unit hits with a Cracked [SuperCoin], it does not activate the target's [Sinking] effect"
+  },
+  {
+    "key": "122403-name",
+    "original": "切先が向かうは護れなかった全ての者\n<CMT_KR>\n<CMT_JP>",
+    "translation": "切先が向かうは護れなかった全ての者\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n칼 끝이 향하는 건 보호해 주지 못한 모든 이들\nEN:\nThe Sword Points Toward Those Who Could Not be Protected"
+  },
+  {
+    "key": "122403-desc",
+    "original": "[ChasingArcana]を持つ敵がいるなら、その対象を優先してターゲット指定する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ChasingArcana]を持つ敵がいるなら、その対象を優先してターゲット指定する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ChasingArcana]를 지닌 적이 있다면, 그 대상을 우선 타겟 지정함\nEN:\nIf there is an enemy with [ChasingArcana], prioritizes that unit"
+  },
+  {
+    "key": "122404-name",
+    "original": "休憩\n<CMT_KR>\n<CMT_JP>",
+    "translation": "休憩\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n휴식\nEN:\nRespite"
+  },
+  {
+    "key": "122404-desc",
+    "original": "[HelplessTear]が無い状態で体力が1未満に減少しない。\nターン終了時、[HelplessTear]が無い状態で体力が1なら体力を全快する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[HelplessTear]が無い状態で体力が1未満に減少しない。\nターン終了時、[HelplessTear]が無い状態で体力が1なら体力を全快する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[HelplessTear]이 없는 상태에서 체력이 1 미만으로 감소하지 않음.\n턴 종료 시 [HelplessTear]이 없는 상태에서 체력이 1일 경우, 체력을 최대로 회복함\nEN:\nThis unit's HP does not drop below 1 when it does not have [HelplessTear]\nTurn End: if this unit's HP drops to 1 when it does not have [HelplessTear], heals back to full HP"
+  },
+  {
+    "key": "122405-name",
+    "original": "絶望を刺す剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望を刺す剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망을 찌르는 검\nEN:\nDespair-piercing Sword"
+  },
+  {
+    "key": "122405-desc",
+    "original": "[HelplessTear]を持つ剣の体力が0になると絶望の騎士に突き刺さり、 次のターンにて任意の剣1つに自分の物理耐性のうち脆弱の耐性を同じく脆弱にする\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[HelplessTear]を持つ剣の体力が0になると絶望の騎士に突き刺さり、 次のターンにて任意の剣1つに自分の物理耐性のうち脆弱の耐性を同じく脆弱にする\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂히고, 다음 턴에 임의의 검 1개에게 자신의 물리 내성 중 취약인 내성을 똑같이 취약으로 바꿈\nEN:\nIf a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair; then, transfers its Fatal Resistance value to 1 other random Sword next turn"
+  }
+]

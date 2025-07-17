@@ -141,8 +141,8 @@
   },
   {
     "key": "1050611-desc",
-    "original": "ターン終了時に充電回数5につき、次のターンの速度の最大値 +2(最大6)\nターン開始時に充電回数が5以上あるなら、自分の最右方のスロット1つの挑発値が3上昇。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時に充電回数5につき、次のターンの速度の最大値 +2(最大6)\nターン開始時に充電回数が5以上あるなら、自分の最右方のスロット1つの挑発値が3上昇。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時に充電回数5につき、次のターンの速度の最大値 +2(最大6)\nターン開始時に充電回数が5以上あるなら、自分の最右端のスロット1つの挑発値が3上昇。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に充電回数5につき、次のターンの速度の最大値 +2(最大6)\nターン開始時に充電回数が5以上あるなら、自分の最右端のスロット1つの挑発値が3上昇。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 충전 횟수 5당 다음 턴의 속도 최대 값 +2 (최대 6)\n턴 시작 시 충전 횟수가 5 이상 있으면 자신의 가장 오른쪽 슬롯 1개에 도발치 3 상승.\nEN:\nAt the end of the turn, gain +2 Max Speed per 5 Charge Count next turn. (Max 6)\nAt the start of the turn, if at 5+ Charge Count, gain 3 Aggro to this unit's rightmost slot."
   },

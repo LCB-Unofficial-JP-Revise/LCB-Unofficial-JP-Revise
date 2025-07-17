@@ -596,8 +596,8 @@
   },
   {
     "key": "1090901-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Vibration]"
   },
@@ -925,8 +925,8 @@
   },
   {
     "key": "1091001-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Burst]"
   },
@@ -1872,7 +1872,7 @@
     "key": "1091203-levelList[0].desc",
     "original": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計が10以上なら、コイン威力 +1\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "translation": "[WideAreaRampage]\n[WhenUse] 自分の[Breath]威力とメインターゲットの[Burst]威力の合計が10以上なら、コイン威力 +1\n[WhenUse] 自分の[SnakeStance]だけマッチ威力が増加\n[WhenUse] [SnakeStance]3を得る\n[WinDuel] 全対象の[Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[WideAreaRampage]\n[WhenUse] 자신의 [Breath] 위력과 메인 공격 대상의 [Burst] 위력의 합이 10 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [SnakeStance]만큼 합 위력이 증가\n[WhenUse] [SnakeStance] 3 얻음\n[WinDuel] 모든 대상의 [Burst] 횟수 1 증가\nEN:\n[WideAreaRampage]\n[WhenUse] If the sum of [Breath] Potency on self and the main target's [Burst] Potency is 10 or higher, Coin Power +1\n[WhenUse] Gain Clash Power equal to [SnakeStance] on self\n[WhenUse] Gain 3 [SnakeStance]\n[WinDuel] Inflict +1 [Burst] Count against all targets"
   },
   {
@@ -2000,5 +2000,649 @@
     "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[0].name",
+    "original": "騎士の保護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "騎士の保護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기사의 보호\nEN:\nThe Knight's Sanctuary"
+  },
+  {
+    "key": "1091301-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "1091301-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [BlackTearsAlly]"
+  },
+  {
+    "key": "1091301-levelList[1].name",
+    "original": "騎士の保護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "騎士の保護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기사의 보호\nEN:\nThe Knight's Sanctuary"
+  },
+  {
+    "key": "1091301-levelList[1].desc",
+    "original": "<style=\"highlight\">対象の[Sinking]が6以上ならコイン威力 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">対象の[Sinking]が6以上ならコイン威力 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;대상의 [Sinking]이 6 이상이면, 코인 위력 +1&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;If target has 6+ [Sinking], Coin Power +1&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [BlackTearsAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[2].name",
+    "original": "騎士の保護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "騎士の保護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기사의 보호\nEN:\nThe Knight's Sanctuary"
+  },
+  {
+    "key": "1091301-levelList[2].desc",
+    "original": "対象の[Sinking]が6以上ならコイン威力 +1\n<style=\"highlight\">[ProtectiveSword]が3以上ならマッチ威力 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]が6以上ならコイン威力 +1\n<style=\"highlight\">[ProtectiveSword]が3以上ならマッチ威力 +1</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n&lt;style=\"highlight\"&gt;[ProtectiveSword]이 3 이상이면, 합 위력 +1&lt;/style&gt;\nEN:\nIf target has 6+ [Sinking], Coin Power +1\n&lt;style=\"highlight\"&gt;At 3+ [ProtectiveSword], Clash Power +1&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Sinking] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 [Sinking]&lt;/style&gt;"
+  },
+  {
+    "key": "1091301-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\">\n- [ProtectiveSword]2につき、[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\">\n- [ProtectiveSword]2につき、[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 2 얻음&lt;style=\"highlight\"&gt;\n- [ProtectiveSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [BlackTearsAlly]&lt;style=\"highlight\"&gt;\n- Gain 1 additional [BlackTearsAlly] for every 2 [ProtectiveSword] (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1091302-levelList[0].name",
+    "original": "正義の力で\n<CMT_KR>\n<CMT_JP>",
+    "translation": "正義の力で\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의의 힘으로\nEN:\nWith the Power of Justice"
+  },
+  {
+    "key": "1091302-levelList[0].desc",
+    "original": "[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +15%\nEN:\n[WhenUse] At 15+ [BlackTearsAlly], consume 5 [BlackTearsAlly] to deal +15% damage"
+  },
+  {
+    "key": "1091302-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1091302-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "1091302-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 3 얻음\nEN:\n[OnSucceedAttack] Gain 3 [BlackTearsAlly]"
+  },
+  {
+    "key": "1091302-levelList[1].name",
+    "original": "正義の力で\n<CMT_KR>\n<CMT_JP>",
+    "translation": "正義の力で\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의의 힘으로\nEN:\nWith the Power of Justice"
+  },
+  {
+    "key": "1091302-levelList[1].desc",
+    "original": "<style=\"highlight\">対象の[Sinking]が6以上なら、コイン威力 +1</style>\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">対象の[Sinking]が6以上なら、コイン威力 +1</style>\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;대상의 [Sinking]이 6 이상이면, 코인 위력 +1&lt;/style&gt;\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +15%\nEN:\n&lt;style=\"highlight\"&gt;If target has 6+ [Sinking], Coin Power +1&lt;/style&gt;\n[WhenUse] At 15+ [BlackTearsAlly], consume 5 [BlackTearsAlly] to deal +15% damage"
+  },
+  {
+    "key": "1091302-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091302-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict +&lt;style=\"highlight\"&gt;2&lt;/style&gt; [Sinking] Count"
+  },
+  {
+    "key": "1091302-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<style=\"highlight\">- [ProtectiveSword]2につき、[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<style=\"highlight\">- [ProtectiveSword]2につき、[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n&lt;style=\"highlight\"&gt;- [ProtectiveSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 3 [BlackTearsAlly]\n&lt;style=\"highlight\"&gt;- Gain 1 additional [BlackTearsAlly] for every 2 [ProtectiveSword] (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1091302-levelList[2].name",
+    "original": "正義の力で\n<CMT_KR>\n<CMT_JP>",
+    "translation": "正義の力で\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의의 힘으로\nEN:\nWith the Power of Justice"
+  },
+  {
+    "key": "1091302-levelList[2].desc",
+    "original": "対象の[Sinking]が6以上なら、コイン威力 +1\n<style=\"highlight\">[ProtectiveSword]2につきマッチ威力 +1 (最大2)</style>\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]が6以上なら、コイン威力 +1\n<style=\"highlight\">[ProtectiveSword]2につきマッチ威力 +1 (最大2)</style>\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +15%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n&lt;style=\"highlight\"&gt;[ProtectiveSword] 2당 합 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +15%\nEN:\nIf target has 6+ [Sinking], Coin Power +1\n&lt;style=\"highlight\"&gt;Clash Power +1 for every 2 [ProtectiveSword] (max 2)&lt;/style&gt;\n[WhenUse] At 15+ [BlackTearsAlly], consume 5 [BlackTearsAlly] to deal +15% damage"
+  },
+  {
+    "key": "1091302-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "1091302-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091302-levelList[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n- [ProtectiveSword]<style=\"highlight\">数値だけ</style>、[BlackTearsAlly]を追加で得る(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n- [ProtectiveSword]<style=\"highlight\">数値だけ</style>、[BlackTearsAlly]を追加で得る(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n- [ProtectiveSword] &lt;style=\"highlight\"&gt;수치만큼&lt;/style&gt; [BlackTearsAlly] 추가로 얻음 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain 3 [BlackTearsAlly]\n- Gain additional [BlackTearsAlly] &lt;style=\"highlight\"&gt;equal to [ProtectiveSword]&lt;/style&gt; (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)"
+  },
+  {
+    "key": "1091303-levelList[0].name",
+    "original": "アルカナ・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 피어스\nEN:\nArcana Pierce"
+  },
+  {
+    "key": "1091303-levelList[0].desc",
+    "original": "対象の[Sinking]が6以上なら、コイン威力 +1\n[ProtectiveSword]2につき、マッチ威力 +1 (最大2)\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 1.5)%だけ増加\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]が6以上なら、コイン威力 +1\n[ProtectiveSword]2につき、マッチ威力 +1 (最大2)\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 1.5)%だけ増加\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n[ProtectiveSword] 2당 합 위력 +1 (최대 2)\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 1.5)%만큼 증가\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음\nEN:\nIf target has 6+ [Sinking], Coin Power +1\nClash Power +1 for every 2 [ProtectiveSword] (max 2)\n[WhenUse] At 10+ [BlackTearsAlly], consume up to 20 [BlackTearsAlly]\n- Deal +(Stack consumed x 1.5)% damage\n[EndSkill] If target is defeated, regain half of [BlackTearsAlly] consumed by this Skill"
+  },
+  {
+    "key": "1091303-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "1091303-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [ProtectiveSword]の数値だけ[Sinking]を付与 (最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ProtectiveSword]の数値だけ[Sinking]を付与 (最大3)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ProtectiveSword] 수치만큼 [Sinking] 부여 (최대 3)\nEN:\n[OnSucceedAttack] Inflict [Sinking] equal to [ProtectiveSword] (max 3)"
+  },
+  {
+    "key": "1091303-levelList[1].name",
+    "original": "アルカナ・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 피어스\nEN:\nArcana Pierce"
+  },
+  {
+    "key": "1091303-levelList[1].desc",
+    "original": "対象の[Sinking]が6以上なら、コイン威力 +1\n[ProtectiveSword]<style=\"highlight\">1</style>につき、マッチ威力 +1 (最大<style=\"highlight\">5</style>)\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 1.5)%だけ増加\n<style=\"highlight\">- 消耗した数値5につき基本威力 +1</style>\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]が6以上なら、コイン威力 +1\n[ProtectiveSword]<style=\"highlight\">1</style>につき、マッチ威力 +1 (最大<style=\"highlight\">5</style>)\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 1.5)%だけ増加\n<style=\"highlight\">- 消耗した数値5につき基本威力 +1</style>\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking]이 6 이상이면, 코인 위력 +1\n[ProtectiveSword] &lt;style=\"highlight\"&gt;1&lt;/style&gt;당 합 위력 +1 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 1.5)%만큼 증가\n&lt;style=\"highlight\"&gt;- 소모한 수치 5당 기본 위력 +1&lt;/style&gt;\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음\nEN:\nIf target has 6+ [Sinking], Coin Power +1\nClash Power +1 for &lt;style=\"highlight\"&gt;every&lt;/style&gt; [ProtectiveSword] (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\n[WhenUse] At 10+ [BlackTearsAlly], consume up to 20 [BlackTearsAlly]\n- Deal +(Stack consumed x 1.5)% damage\n&lt;style=\"highlight\"&gt;- Base Power +1 for every 5 Stack consumed&lt;/style&gt;\n[EndSkill] If target is defeated, regain half of [BlackTearsAlly] consumed by this Skill"
+  },
+  {
+    "key": "1091303-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict +&lt;style=\"highlight\"&gt;3&lt;/style&gt; [Sinking] Count"
+  },
+  {
+    "key": "1091303-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "<style=\"highlight\">[SwordCutwithTear]を保有しているか、このコインで消耗したならダメージ量 +20%</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[SwordCutwithTear]を保有しているか、このコインで消耗したならダメージ量 +20%</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[SwordCutwithTear]를 보유하였거나 이 코인에서 소모하였다면, 피해량 +20%&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;If this unit has [SwordCutwithTear], or consumed it with this Coin, deal +20% damage&lt;/style&gt;"
+  },
+  {
+    "key": "1091303-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [ProtectiveSword]の数値だけ[Sinking]を付与 (最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ProtectiveSword]の数値だけ[Sinking]を付与 (最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ProtectiveSword] 수치만큼 [Sinking] 부여 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Inflict [Sinking] equal to [ProtectiveSword] (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)"
+  },
+  {
+    "key": "1091304-levelList[0].name",
+    "original": "騎士の信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "騎士の信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기사의 믿음\nEN:\nThe Knight's Faith"
+  },
+  {
+    "key": "1091304-levelList[0].desc",
+    "original": "[CanDuelGuard]\n[StartBattle] 体力最大値の(精神力 ÷ 5)%だけバリアを得る (1ターンにつき1回)\n[WhenUse] [BlackTearsAlly]3を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[StartBattle] 体力最大値の(精神力 ÷ 5)%だけバリアを得る (1ターンにつき1回)\n[WhenUse] [BlackTearsAlly]3を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n[StartBattle] 최대 체력의 (정신력 / 5)%만큼 보호막 얻음 (턴당 1회)\n[WhenUse] [BlackTearsAlly] 3 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소\nEN:\n[CanDuelGuard]\n[StartBattle] Gain Shield equal to (SP / 5)% of this unit's max HP (once per turn)\n[WhenUse] Gain 3 [BlackTearsAlly] (2 times per turn)\n[EndBattle] At less than 3 [SwordCutwithTear], lose 15 SP and gain 1 [SwordCutwithTear] (once per turn)\n- If this unit has [SwordCutwithTear], lose ([SwordCutwithTear] Stack x 15) more SP"
+  },
+  {
+    "key": "1091304-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1091304-levelList[1].name",
+    "original": "騎士の信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "騎士の信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기사의 믿음\nEN:\nThe Knight's Faith"
+  },
+  {
+    "key": "1091304-levelList[1].desc",
+    "original": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] [ProtectiveSword]2につき、コイン威力 +1 (最大2)</style>\n[StartBattle] 体力最大値の(精神力 ÷ <style=\"highlight\">3</style>)%だけバリアを得る (1ターンにつき1回)\n[WhenUse] [BlackTearsAlly]<style=\"highlight\">5</style>を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n<style=\"highlight\">[StartBattle] [ProtectiveSword]2につき、コイン威力 +1 (最大2)</style>\n[StartBattle] 体力最大値の(精神力 ÷ <style=\"highlight\">3</style>)%だけバリアを得る (1ターンにつき1回)\n[WhenUse] [BlackTearsAlly]<style=\"highlight\">5</style>を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n&lt;style=\"highlight\"&gt;[StartBattle] [ProtectiveSword] 2당, 코인 위력 +1 (최대 2)&lt;/style&gt;\n[StartBattle] 최대 체력의 (정신력 / &lt;style=\"highlight\"&gt;3&lt;/style&gt;)%만큼 보호막 얻음 (턴당 1회)\n[WhenUse] [BlackTearsAlly] &lt;style=\"highlight\"&gt;5&lt;/style&gt; 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소\nEN:\n[CanDuelGuard]\n&lt;style=\"highlight\"&gt;[StartBattle] Coin Power +1 for every 2 [ProtectiveSword] (max 2)&lt;/style&gt;\n[StartBattle] Gain Shield equal to (SP / &lt;style=\"highlight\"&gt;3&lt;/style&gt;)% of this unit's max HP (once per turn)\n[WhenUse] Gain &lt;style=\"highlight\"&gt;5&lt;/style&gt; [BlackTearsAlly] (2 times per turn)\n[EndBattle] At less than 3 [SwordCutwithTear], lose 15 SP to gain 1 [SwordCutwithTear] (once per turn)\n- If this unit has [SwordCutwithTear], lose ([SwordCutwithTear] Stack x 15) more SP"
+  },
+  {
+    "key": "1091304-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1091305-levelList[0].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "1091305-levelList[0].desc",
+    "original": "[WhenUse] 精神力 7減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 精神力 7減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 정신력 7 감소\nEN:\n[WhenUse] Lose 7 SP"
+  },
+  {
+    "key": "1091305-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "1091305-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]を2得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 2 얻음\nEN:\n[OnSucceedAttack] Gain 2 [BlackTearsAlly]"
+  },
+  {
+    "key": "1091305-levelList[1].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "1091305-levelList[1].desc",
+    "original": "<style=\"highlight\">対象の[Sinking]3につき、最終威力 +1 (最大2)</style>\n[WhenUse] 精神力が7減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">対象の[Sinking]3につき、最終威力 +1 (最大2)</style>\n[WhenUse] 精神力が7減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;대상의 [Sinking] 3당, 최종 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] 정신력 7 감소\nEN:\n&lt;style=\"highlight\"&gt;Final Power +1 for every 3 [Sinking] on target (max 2)&lt;/style&gt;\n[WhenUse] Lose 7 SP"
+  },
+  {
+    "key": "1091305-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091305-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 2 얻음&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [BlackTearsAlly]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091305-levelList[2].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "1091305-levelList[2].desc",
+    "original": "対象の[Sinking]3につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] 精神力が7減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]3につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] 精神力が7減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking] 3당, 최종 위력 +1 (최대 &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\n[WhenUse] 정신력 7 감소\nEN:\nFinal Power +1 for every 3 [Sinking] on target (max &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\n[WhenUse] Lose 7 SP"
+  },
+  {
+    "key": "1091305-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "1091305-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack] [Sinking]1を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] [Sinking] 1 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack] Inflict 1 [Sinking]&lt;/style&gt;"
+  },
+  {
+    "key": "1091305-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\">\n- 戦闘開始時、保有した[PenetratingSword]2につき[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]2を得る<style=\"highlight\">\n- 戦闘開始時、保有した[PenetratingSword]2につき[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 2 얻음&lt;style=\"highlight\"&gt;\n- 전투 시작 시 보유한 [PenetratingSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 2 [BlackTearsAlly]\n&lt;style=\"highlight\"&gt;- Gain 1 additional [BlackTearsAlly] for every 2 [PenetratingSword] this unit had at Combat Start (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1091306-levelList[0].name",
+    "original": "涙で研ぎ澄まされた剣で\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣で\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검으로\nEN:\nWith the Tear-sharpened Sword"
+  },
+  {
+    "key": "1091306-levelList[0].desc",
+    "original": "[WhenUse] 精神力が10減少\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 精神力が10減少\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 정신력 10 감소\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +20%\nEN:\n[WhenUse] Lose 10 SP\n[WhenUse] At 15+ [BlackTearsAlly], consume 5 [BlackTearsAlly] to deal +20% damage"
+  },
+  {
+    "key": "1091306-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1091306-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "1091306-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 3 얻음\nEN:\n[OnSucceedAttack] Gain 3 [BlackTearsAlly]"
+  },
+  {
+    "key": "1091306-levelList[1].name",
+    "original": "涙で研ぎ澄まされた剣で\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣で\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검으로\nEN:\nWith the Tear-sharpened Sword"
+  },
+  {
+    "key": "1091306-levelList[1].desc",
+    "original": "<style=\"highlight\">対象の[Sinking]3につき、最終威力 +1 (最大2)</style>\n[WhenUse] 精神力が10減少\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">対象の[Sinking]3につき、最終威力 +1 (最大2)</style>\n[WhenUse] 精神力が10減少\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;대상의 [Sinking] 3당, 최종 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] 정신력 10 감소\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +20%\nEN:\n&lt;style=\"highlight\"&gt;Final Power +1 for every 3 [Sinking] on target (max 2)&lt;/style&gt;\n[WhenUse] Lose 10 SP\n[WhenUse] At 15+ [BlackTearsAlly], consume 5 [BlackTearsAlly] to deal +20% damage"
+  },
+  {
+    "key": "1091306-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091306-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+2&lt;/style&gt; [Sinking] Count"
+  },
+  {
+    "key": "1091306-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<style=\"highlight\">- 戦闘開始時、保有した[PenetratingSword]2につき[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n<style=\"highlight\">- 戦闘開始時、保有した[PenetratingSword]2につき[BlackTearsAlly]1を追加で得る (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n&lt;style=\"highlight\"&gt;- 전투 시작 시 보유한 [PenetratingSword] 2당 [BlackTearsAlly] 1 추가로 얻음 (최대 2)&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain 3 [BlackTearsAlly]\n&lt;style=\"highlight\"&gt;- Gain 1 additional [BlackTearsAlly] for every 2 [PenetratingSword] this unit had at Combat Start (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1091306-levelList[2].name",
+    "original": "涙で研ぎ澄まされた剣で\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣で\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검으로\nEN:\nWith the Tear-sharpened Sword"
+  },
+  {
+    "key": "1091306-levelList[2].desc",
+    "original": "対象の[Sinking]3につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] 精神力が10減少\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]3につき、最終威力 +1 (最大<style=\"highlight\">3</style>)\n[WhenUse] 精神力が10減少\n[WhenUse] [BlackTearsAlly]が15以上なら、[BlackTearsAlly]を5消耗してダメージ量 +20%\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking] 3당, 최종 위력 +1 (최대 &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\n[WhenUse] 정신력 10 감소\n[WhenUse] [BlackTearsAlly]이 15 이상이면, [BlackTearsAlly] 5 소모하여 피해량 +20%\nEN:\nFinal Power +1 for every 3 [Sinking] on target (max &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\n[WhenUse] Lose 10 SP\n[WhenUse] At 15+ [BlackTearsAlly], consume 5 [BlackTearsAlly] to deal +20% damage"
+  },
+  {
+    "key": "1091306-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "1091306-levelList[2].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] <style=\"highlight\">[Sinking]2を付与,</style> [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] <style=\"highlight\">[Sinking]2を付与,</style> [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] &lt;style=\"highlight\"&gt;[Sinking] 2 부여,&lt;/style&gt; [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2 [Sinking]&lt;/style&gt; and +2 [Sinking] Count"
+  },
+  {
+    "key": "1091306-levelList[2].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n- 戦闘開始時に保有している[PenetratingSword]<style=\"highlight\">数値だけ</style>、[BlackTearsAlly]を追加で得る(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [BlackTearsAlly]3を得る\n- 戦闘開始時に保有している[PenetratingSword]<style=\"highlight\">数値だけ</style>、[BlackTearsAlly]を追加で得る(最大<style=\"highlight\">5</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [BlackTearsAlly] 3 얻음\n- 전투 시작 시 보유한 [PenetratingSword] &lt;style=\"highlight\"&gt;수치만큼&lt;/style&gt; [BlackTearsAlly] 추가로 얻음 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain 3 [BlackTearsAlly]\n- Gain additional [BlackTearsAlly] &lt;style=\"highlight\"&gt;equal to [PenetratingSword]&lt;/style&gt; this unit had at Combat Start (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)"
+  },
+  {
+    "key": "1091307-levelList[0].name",
+    "original": "アルカナ・ティア－・アンド・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ティア－・アンド・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 티어 앤 피어스\nEN:\nArcana: Tear and Pierce"
+  },
+  {
+    "key": "1091307-levelList[0].desc",
+    "original": "対象の[Sinking]3につき、最終威力 +1 (最大2)\n[WhenUse] 精神力が15減少\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 3)%だけ増加\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]3につき、最終威力 +1 (最大2)\n[WhenUse] 精神力が15減少\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 3)%だけ増加\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking] 3당, 최종 위력 +1 (최대 2)\n[WhenUse] 정신력 15 감소\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 3)%만큼 증가\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음\nEN:\nFinal Power +1 for every 3 [Sinking] on target (max 2)\n[WhenUse] Lose 15 SP\n[WhenUse] At 10+ [BlackTearsAlly], consume up to 20 [BlackTearsAlly]\n- Deal +(Stack consumed x 3)% damage\n[EndSkill] If target is defeated, regain half of [BlackTearsAlly] consumed by this Skill"
+  },
+  {
+    "key": "1091307-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 3 증가\nEN:\n[OnSucceedAttack] Inflict +3 [Sinking] Count"
+  },
+  {
+    "key": "1091307-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]3 を付与 (スキルにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]3 を付与 (スキルにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 3 부여 (스킬당 1회)\nEN:\n[OnSucceedAttack] Inflict 3 [Sinking] (once per Skill)"
+  },
+  {
+    "key": "1091307-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] このコインで[SwordCutwithTear]を消耗したなら、コインを1回再使用(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このコインで[SwordCutwithTear]を消耗したなら、コインを1回再使用(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 이 코인에서 [SwordCutwithTear]를 소모하였다면, 코인 1회 재사용 (턴당 1회)\nEN:\n[OnSucceedAttack] If this Coin consumed [SwordCutwithTear], Reuse Coin once (once per turn)"
+  },
+  {
+    "key": "1091307-levelList[1].name",
+    "original": "アルカナ・ティア－・アンド・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ティア－・アンド・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 티어 앤 피어스\nEN:\nArcana: Tear and Pierce"
+  },
+  {
+    "key": "1091307-levelList[1].desc",
+    "original": "対象の[Sinking]3につき、最終威力 +1 (最大<style=\"highlight\">4</style>)\n[WhenUse] 精神力が15減少\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 3)%だけ増加\n<style=\"highlight\">- 消耗した数値5につき、基本威力 +1</style>\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "対象の[Sinking]3につき、最終威力 +1 (最大<style=\"highlight\">4</style>)\n[WhenUse] 精神力が15減少\n[WhenUse] [BlackTearsAlly]が10以上なら、[BlackTearsAlly]を最大20まで消耗\n- ダメージ量が(消耗した数値 × 3)%だけ増加\n<style=\"highlight\">- 消耗した数値5につき、基本威力 +1</style>\n[EndSkill] 対象が死亡したなら、このスキルで消耗した[BlackTearsAlly]の半分だけ[BlackTearsAlly]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n대상의 [Sinking] 3당, 최종 위력 +1 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[WhenUse] 정신력 15 감소\n[WhenUse] [BlackTearsAlly]이 10 이상이면, [BlackTearsAlly]을 최대 20까지 소모\n- 피해량이 (소모한 수치 x 3)%만큼 증가\n&lt;style=\"highlight\"&gt;- 소모한 수치 5당 기본 위력 +1&lt;/style&gt;\n[EndSkill] 대상이 사망하였다면, 이 스킬로 소모한 [BlackTearsAlly]의 절반만큼 [BlackTearsAlly] 얻음\nEN:\nFinal Power +1 for every 3 [Sinking] on target (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[WhenUse] Lose 15 SP\n[WhenUse] At 10+ [BlackTearsAlly], consume up to 20 [BlackTearsAlly]\n- Deal +(Stack consumed x 3)% damage\n&lt;style=\"highlight\"&gt;- Base Power +1 for every 5 Stack consumed&lt;/style&gt;\n[EndSkill] If target is defeated, regain half of [BlackTearsAlly] consumed by this Skill"
+  },
+  {
+    "key": "1091307-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">4</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が<style=\"highlight\">4</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 &lt;style=\"highlight\"&gt;4&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;+4&lt;/style&gt; [Sinking] Count"
+  },
+  {
+    "key": "1091307-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">5</style>を付与 (スキルにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">5</style>を付与 (スキルにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;5&lt;/style&gt; 부여 (스킬당 1회)\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;5&lt;/style&gt; [Sinking] (once per Skill)"
+  },
+  {
+    "key": "1091307-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] このコインで[SwordCutwithTear]を消耗したなら、コインを1回再使用(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] このコインで[SwordCutwithTear]を消耗したなら、コインを1回再使用(1ターンにつき1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 이 코인에서 [SwordCutwithTear]를 소모하였다면, 코인 1회 재사용 (턴당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this Coin consumed [SwordCutwithTear], Reuse Coin once (once per turn)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1091308-levelList[0].name",
+    "original": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 긍지\nEN:\nWeathered Pride"
+  },
+  {
+    "key": "1091308-levelList[0].desc",
+    "original": "[DuelCounter]\n[WhenUse] [BlackTearsAlly]3を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n[WhenUse] [BlackTearsAlly]3を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n[WhenUse] [BlackTearsAlly] 3 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소\nEN:\n[DuelCounter]\n[WhenUse] Gain 3 [BlackTearsAlly] (2 times per turn)\n[EndBattle] At less than 3 [SwordCutwithTear], lose 15 SP and gain 1 [SwordCutwithTear] (once per turn)\n- If this unit has [SwordCutwithTear], lose ([SwordCutwithTear] Stack x 15) more SP"
+  },
+  {
+    "key": "1091308-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1091308-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "1091308-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1091308-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1091308-levelList[1].name",
+    "original": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 긍지\nEN:\nWeathered Pride"
+  },
+  {
+    "key": "1091308-levelList[1].desc",
+    "original": "[DuelCounter]\n<style=\"highlight\">[StartBattle] [PenetratingSword]2につき、最終威力 +1 (最大2)</style>\n[WhenUse] [BlackTearsAlly]<style=\"highlight\">5</style>を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DuelCounter]\n<style=\"highlight\">[StartBattle] [PenetratingSword]2につき、最終威力 +1 (最大2)</style>\n[WhenUse] [BlackTearsAlly]<style=\"highlight\">5</style>を得る (1ターンにつき2回)\n[EndBattle] [SwordCutwithTear]が3未満なら、精神力が15減少して[SwordCutwithTear]1を得る (1ターンにつき1回)\n- [SwordCutwithTear]を保有している場合、(保有数値 × 15)だけ精神力が追加で減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[DuelCounter]\n&lt;style=\"highlight\"&gt;[StartBattle] [PenetratingSword] 2당, 최종 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] [BlackTearsAlly] &lt;style=\"highlight\"&gt;5&lt;/style&gt; 얻음 (턴당 2회)\n[EndBattle] [SwordCutwithTear]가 3 미만이면, 정신력 15 감소하고 [SwordCutwithTear] 1 얻음 (턴당 1회)\n- [SwordCutwithTear]를 보유한 경우, (보유한 수치 x 15)만큼 정신력 추가로 감소\nEN:\n[DuelCounter]\n&lt;style=\"highlight\"&gt;[StartBattle] Final Power +1 for every 2 [PenetratingSword] (max 2)&lt;/style&gt;\n[WhenUse] Gain &lt;style=\"highlight\"&gt;5&lt;/style&gt; [BlackTearsAlly] (2 times per turn)\n[EndBattle] At less than 3 [SwordCutwithTear], lose 15 SP and gain 1 [SwordCutwithTear] (once per turn)\n- If this unit has [SwordCutwithTear], lose ([SwordCutwithTear] Stack x 15) more SP"
+  },
+  {
+    "key": "1091308-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1091308-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "1091308-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1091308-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
   }
 ]

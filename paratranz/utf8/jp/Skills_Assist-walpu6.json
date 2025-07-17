@@ -1,0 +1,198 @@
+[
+  {
+    "key": "40000301-levelList[0].name",
+    "original": "愛で！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛で！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑으로!\nEN:\nWith Love!"
+  },
+  {
+    "key": "40000301-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]と[Sinking]の合計5につき、基本威力 +1(最大2)\n[WhenUse] 自分の[PowerOfLoveAndJustice]回数が10増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]と[Sinking]の合計5につき、基本威力 +1(最大2)\n[WhenUse] 自分の[PowerOfLoveAndJustice]回数が10増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]과 [Sinking]의 합 5 당 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 [PowerOfLoveAndJustice] 횟수 10 증가\nEN:\n[WhenUse] Base Power +1 for every 5 (sum of [Burst] and [Sinking] on target) (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice]"
+  },
+  {
+    "key": "40000301-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "40000301-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "40000302-levelList[0].name",
+    "original": "正義の名の下に！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "正義の名の下に！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의의 이름으로!\nEN:\nIn the Name of Justice!"
+  },
+  {
+    "key": "40000302-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Burst]と[Sinking]の合計7につき、コイン威力 +1(最大2)\n[WhenUse] 自分の[PowerOfLoveAndJustice]回数が10増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]と[Sinking]の合計7につき、コイン威力 +1(最大2)\n[WhenUse] 自分の[PowerOfLoveAndJustice]回数が10増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Burst]과 [Sinking]의 합 7 당 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [PowerOfLoveAndJustice] 횟수 10 증가\nEN:\n[WhenUse] Coin Power +1 for every 7 (sum of [Burst] and [Sinking] on target) (max 2)\n[WhenUse] Gain +10 [PowerOfLoveAndJustice] Count"
+  },
+  {
+    "key": "40000302-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Burst] Count"
+  },
+  {
+    "key": "40000302-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の[Burst]と[Sinking]の合計が10以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Burst]と[Sinking]の合計が10以上なら、次のターンに[Binding]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Burst]과 [Sinking]의 합이 10 이상이면, 다음 턴에 [Binding] 1 부여\nEN:\n[OnSucceedAttack] If target has 10+ (sum of [Burst] and [Sinking]), inflict 1 [Binding] next turn"
+  },
+  {
+    "key": "40000303-levelList[0].name",
+    "original": "アルカナ・ビート\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ビート\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 비트\nEN:\nArcana Beats"
+  },
+  {
+    "key": "40000303-levelList[0].desc",
+    "original": "絶望の騎士をメインターゲットに指定する\n[ColdBlackTear]が最も多い味方をサブターゲットに指定する\n- いないとき、体力が最も少ない味方をサブターゲットに指定する\n味方に与えるダメージは0になり、[Sinking]および[ColdBlackTear]効果が発動しない\n\n[WinDuel] サブターゲットになった味方の[ColdBlackTear]1を除去する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望の騎士をメインターゲットに指定する\n[ColdBlackTear]が最も多い味方をサブターゲットに指定する\n- いないとき、体力が最も少ない味方をサブターゲットに指定する\n味方に与えるダメージは0になり、[Sinking]および[ColdBlackTear]効果が発動しない\n\n[WinDuel] サブターゲットになった味方の[ColdBlackTear]1を除去する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망의 기사를 메인 타겟으로 지정함\n[ColdBlackTear]이 가장 많은 아군을 서브 타겟으로 지정함\n- 없을 시, 체력이 가장 적은 아군을 서브 타겟으로 지정함\n아군에게는 데미지를 0으로 부여하고, [Sinking] 및 [ColdBlackTear] 효과를 발동하지 않음\n\n[WinDuel] 서브 타겟인 아군의 [ColdBlackTear] 1 제거\nEN:\nMainly targets 'The Knight of Despair'\nSub-targets the ally with the most [ColdBlackTear]\n- If there are none, sub-targets the ally with the least HP\nInflicts 0 damage and does not activate the effects of [Sinking] and [ColdBlackTear] against allies\n\n[WinDuel] Remove 1 [ColdBlackTear] from the sub-targeted ally"
+  },
+  {
+    "key": "40000303-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象が敵なら、[Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が敵なら、[Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여\nEN:\n[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]"
+  },
+  {
+    "key": "40000303-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が味方なら、体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が味方なら、体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복\nEN:\n[OnSucceedAttack] If target is an ally, heal 5 HP"
+  },
+  {
+    "key": "40000303-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象が敵なら、[Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が敵なら、[Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여\nEN:\n[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]"
+  },
+  {
+    "key": "40000303-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が味方なら、体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が味方なら、体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복\nEN:\n[OnSucceedAttack] If target is an ally, heal 5 HP"
+  },
+  {
+    "key": "40000303-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象が敵なら、[Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が敵なら、[Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 적군인 경우, [Burst] 1 부여\nEN:\n[OnSucceedAttack] If target is an enemy, Inflict 1 [Burst]"
+  },
+  {
+    "key": "40000303-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象が味方なら、体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象が味方なら、体力を5回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상이 아군인 경우, 체력 5 회복\nEN:\n[OnSucceedAttack] If target is an ally, heal 5 HP"
+  },
+  {
+    "key": "40000304-levelList[0].name",
+    "original": "あの技を使うしか！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あの技を使うしか！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 기술을 사용하는 수 밖에!\nEN:\nLooks Like I'll Have to Use This Power!"
+  },
+  {
+    "key": "40000304-levelList[0].desc",
+    "original": "[StartBattle] [ChasingArcana]を1得る\n[StartBattle] バリアを50得る\n[StartBattle] 次のターンに[Aggro]を20得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] [ChasingArcana]を1得る\n[StartBattle] バリアを50得る\n[StartBattle] 次のターンに[Aggro]を20得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] [ChasingArcana]를 1 얻음\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함\nEN:\n[StartBattle] Gain 1 [ChasingArcana]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn"
+  },
+  {
+    "key": "40000305-levelList[0].name",
+    "original": "詠唱 - アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "詠唱 - アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영창 - 아르카나 슬레이브\nEN:\nChanting - Arcana Slave"
+  },
+  {
+    "key": "40000305-levelList[0].desc",
+    "original": "[StartBattle] バリアを50得る\n[StartBattle] 次のターンに[Aggro]を20得る\n[EndBattle] バリアが0になったなら、退却する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] バリアを50得る\n[StartBattle] 次のターンに[Aggro]を20得る\n[EndBattle] バリアが0になったなら、退却する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함\n[EndBattle] 남은 보호막 수치가 없다면, 퇴각함\nEN:\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn\n[EndBattle] At 0 Shield HP, Retreats"
+  },
+  {
+    "key": "40000306-levelList[0].name",
+    "original": "アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 슬레이브\nEN:\nARCANA SLAVE"
+  },
+  {
+    "key": "40000306-levelList[0].desc",
+    "original": "[CantDuel]\n忘れられた騎士の剣へダメージを与えない\n[WornOutKnight]を持つ敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n忘れられた騎士の剣へダメージを与えない\n[WornOutKnight]を持つ敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel]\n잊혀진 기사의 검에게 피해를 주지 않음\n[WornOutKnight]가 있는 적 적중시 턴 종료\n[EndBattle] [UsedTooMuchPower] 얻음\nEN:\n[CantDuel]\nDoes not deal damage against Sword of a Forgotten Knight\nEnds Turn when hitting enemies with [WornOutKnight]\n[EndBattle] Gain [UsedTooMuchPower]"
+  },
+  {
+    "key": "40000306-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対処の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対処の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 체력을 현재 체력의 (100 - ([CollapsedPride] 수치 x 33))% 로 만듦\nEN:\n[OnSucceedAttack] Reduce target's HP to (100 - ([CollapsedPride] Stack x 33))%"
+  },
+  {
+    "key": "40000307-levelList[0].name",
+    "original": "アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 슬레이브\nEN:\nARCANA SLAVE"
+  },
+  {
+    "key": "40000307-levelList[0].desc",
+    "original": "[CantDuel]\nコイン効果でのみダメージを与える\n心を壊す剣、心を引き裂く剣、心を貫く剣へダメージを与えない\n[WornOutKnight]を持つ体力600以下の敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\nコイン効果でのみダメージを与える\n心を壊す剣、心を引き裂く剣、心を貫く剣へダメージを与えない\n[WornOutKnight]を持つ体力600以下の敵へ的中時にターン終了\n[EndBattle] [UsedTooMuchPower]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantDuel]\n코인 효과로만 피해를 줌\n마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검에게 피해를 주지 않음\n[WornOutKnight]가 있는 체력 600 이하의 적 적중시 턴 종료\n[EndBattle] [UsedTooMuchPower] 얻음\nEN:\n[CantDuel]\nDeals damage only with Coin effects\nDoes not deal damage against Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword\nEnds Turn when hitting enemies that has [WornOutKnight] and 600- HP\n[EndBattle] Gain [UsedTooMuchPower]"
+  },
+  {
+    "key": "40000307-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] ([CollapsedPride]の数値 × 200)だけ固定ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] ([CollapsedPride]の数値 × 200)だけ固定ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] ([CollapsedPride] 수치 x 200)만큼 고정 피해를 줌\nEN:\n[OnSucceedAttack] Deal ([CollapsedPride] x 200) fixed damage"
+  },
+  {
+    "key": "40000308-levelList[0].name",
+    "original": "あの技を使うしか！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "あの技を使うしか！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n그 기술을 사용하는 수 밖에!\nEN:\nLooks Like I'll Have to Use This Power!"
+  },
+  {
+    "key": "40000308-levelList[0].desc",
+    "original": "[StartBattle] [ChasingArcanahard]を1得る\n[StartBattle] バリアを50得る\n[StartBattle] 次のターンに[Aggro]を20得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[StartBattle] [ChasingArcanahard]を1得る\n[StartBattle] バリアを50得る\n[StartBattle] 次のターンに[Aggro]を20得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[StartBattle] [ChasingArcanahard]를 1 얻음\n[StartBattle] 보호막 50 얻음\n[StartBattle] 다음 턴에 [Aggro]를 20 획득함\nEN:\n[StartBattle] Gain 1 [ChasingArcanahard]\n[StartBattle] Gain 50 Shield\n[StartBattle] Gain 20 [Aggro] next turn"
+  }
+]

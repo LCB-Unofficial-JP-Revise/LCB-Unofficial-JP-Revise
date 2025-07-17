@@ -218,8 +218,8 @@
   },
   {
     "key": "816003-levelList[0].desc",
-    "original": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]の数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Burst]が5以上なら、[DefenseDown]2を付与\n自分の[TakeHpHealIncrease]の数値だけ、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 [Burst]이 5 이상이면, [DefenseDown] 2 부여\n자신의 [TakeHpHealIncrease] 수치만큼, 기본 위력 +1 (최대 3)\nEN:\n[WhenUse] If target has 5+ [Burst], inflict 2 [DefenseDown]\nGain +1 Base Power for every [TakeHpHealIncrease] value on self (max 3)"
   },

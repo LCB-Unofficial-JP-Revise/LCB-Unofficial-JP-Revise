@@ -967,8 +967,8 @@
   },
   {
     "key": "1030901-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Vibration]"
   },
@@ -995,8 +995,8 @@
   },
   {
     "key": "1030901-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Vibration]"
   },
@@ -1051,8 +1051,8 @@
   },
   {
     "key": "1030902-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Vibration]"
   },
@@ -2115,8 +2115,8 @@
   },
   {
     "key": "1031102-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Combustion]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Combustion] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Combustion]"
   },
@@ -2245,5 +2245,607 @@
     "translation": "<style=\"highlight\">自分の速度が攻撃者より高ければ、速度差2につきコイン威力 +1 (最大2)</style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 속도가 공격자보다 높으면, 속도 차이 2당 코인 위력 +1 (최대 2)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;If this unit's Speed is faster than the target's, gain +1 Coin Power for every 2 Speed difference (max 2)&lt;/style&gt;"
+  },
+  {
+    "key": "1031201-levelList[0].name",
+    "original": "管理人殿の命に従い参上！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "管理人殿の命に従い参上！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자 나리의 명에 따라 등장!\nEN:\nBy Manager Esquire's Orders, I Am Here!"
+  },
+  {
+    "key": "1031201-levelList[0].desc",
+    "original": "[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가\nEN:\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031201-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031201-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1031201-levelList[1].name",
+    "original": "管理人殿の命に従い参上！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "管理人殿の命に従い参上！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자 나리의 명에 따라 등장!\nEN:\nBy Manager Esquire's Orders, I Am Here!"
+  },
+  {
+    "key": "1031201-levelList[1].desc",
+    "original": "<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、コイン威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、コイン威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 5 소모하여, 코인 위력 +1&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n&lt;style=\"highlight\"&gt;[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1&lt;/style&gt;\n[WhenUse] Gain +&lt;style=\"highlight\"&gt;3&lt;/style&gt; [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031201-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031201-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Burst]"
+  },
+  {
+    "key": "1031201-levelList[2].name",
+    "original": "管理人殿の命に従い参上！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "管理人殿の命に従い参上！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n관리자 나리의 명에 따라 등장!\nEN:\nBy Manager Esquire's Orders, I Am Here!"
+  },
+  {
+    "key": "1031201-levelList[2].desc",
+    "original": "[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、コイン威力 +1\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]2につき、コイン威力 +1 (最大2)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、コイン威力 +1\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]2につき、コイン威力 +1 (最大2)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 5 소모하여, 코인 위력 +1\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [ThePowerOfLoveAndHate] 2당, 코인 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\nEN:\n[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n&lt;style=\"highlight\"&gt;[WhenUse] Coin Power +1 for every 2 [ThePowerOfLoveAndHate] (max 2)&lt;/style&gt;\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031201-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Gain +&lt;style=\"highlight\"&gt;3&lt;/style&gt; [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031201-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Burst]"
+  },
+  {
+    "key": "1031202-levelList[0].name",
+    "original": "愛で！よっ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛で！よっ！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑으로! 욥!\nEN:\nWith Love! Hyah!"
+  },
+  {
+    "key": "1031202-levelList[0].desc",
+    "original": "[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\nEN:\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031202-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\nEN:\n[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031202-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Burst]"
+  },
+  {
+    "key": "1031202-levelList[1].name",
+    "original": "愛で！よっ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛で！よっ！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑으로! 욥!\nEN:\nWith Love! Hyah!"
+  },
+  {
+    "key": "1031202-levelList[1].desc",
+    "original": "<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]1につきダメージ量 +6% (最大30%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、コイン威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]1につきダメージ量 +6% (最大30%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、コイン威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [ThePowerOfLoveAndHate]당 피해량 +6% (최대 30%)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 6 소모하여, 코인 위력 +1&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\nEN:\n&lt;style=\"highlight\"&gt;[WhenUse] Deal +6% damage for every [ThePowerOfLoveAndHate] on self (max 30%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1&lt;/style&gt;\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031202-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">4</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">4</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;4&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Gain +&lt;style=\"highlight\"&gt;4&lt;/style&gt; [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031202-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Burst]"
+  },
+  {
+    "key": "1031202-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackHead] 次のターンにメインターゲットへ[VillainMark]を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttackHead] 次のターンにメインターゲットへ[VillainMark]を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackHead] 다음 턴에 메인 타겟에게 [VillainMark] 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackHead] Inflict [VillainMark] against the main target next turn&lt;/style&gt;"
+  },
+  {
+    "key": "1031202-levelList[2].name",
+    "original": "愛で！よっ！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛で！よっ！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑으로! 욥!\nEN:\nWith Love! Hyah!"
+  },
+  {
+    "key": "1031202-levelList[2].desc",
+    "original": "[WhenUse] 自分の[ThePowerOfLoveAndHate]1につきダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">50</style>%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、コイン威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">5</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 自分の[ThePowerOfLoveAndHate]1につきダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">50</style>%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、コイン威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">5</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]당 피해량 +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 6 소모하여, 코인 위력 +1\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;5&lt;/style&gt; 증가\nEN:\n[WhenUse] Deal +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% damage for every [ThePowerOfLoveAndHate] on self (max &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n[WhenUse] Gain +&lt;style=\"highlight\"&gt;5&lt;/style&gt; [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031202-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が4増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が4増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 4 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +4 [ThePowerOfLoveAndHate] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031202-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [Burst]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031202-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]&lt;/style&gt; 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]&lt;/style&gt; Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "1031203-levelList[0].name",
+    "original": "アルカナ・ビート！！/マイナー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ビート！！/マイナー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 비트!! / 마이너 아르카나 슬레이브!!!\nEN:\nArcana Beats!! / Minor Arcana Slave!!!"
+  },
+  {
+    "key": "1031203-levelList[0].desc",
+    "original": "自分の[ArcanaQueenOfHate]1につき、ダメージ量 +15% (最大45%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、([ThePowerOfLoveAndHate] × 15)%だけダメージ量が増加 (最大75%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、基本威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5ずつ消耗し、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が6増加\n[EndSkill] [ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[ArcanaQueenOfHate]1につき、ダメージ量 +15% (最大45%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、([ThePowerOfLoveAndHate] × 15)%だけダメージ量が増加 (最大75%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、基本威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5ずつ消耗し、コイン威力 +1 (最大2)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が6増加\n[EndSkill] [ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [ArcanaQueenOfHate]당, 피해량 +15% (최대 45%)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]가 3 이상이면, ([ThePowerOfLoveAndHate] X 15)%만큼 피해량이 증가 (최대 75%)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]가 3 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 5씩 소모하여, 코인 위력 +1 (최대 2)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 6 증가\n[EndSkill] [ArcanaQueenOfHate] 1 얻음\nEN:\nDeal +15% damage for every [ArcanaQueenOfHate] on self (max 45%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x 15)% damage (max 75%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max 2)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]"
+  },
+  {
+    "key": "1031203-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031203-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031203-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Burst] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "1031203-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031203-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Burst] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "1031203-levelList[1].name",
+    "original": "アルカナ・ビート！！/マイナー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ビート！！/マイナー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 비트!! / 마이너 아르카나 슬레이브!!!\nEN:\nArcana Beats!! / Minor Arcana Slave!!!"
+  },
+  {
+    "key": "1031203-levelList[1].desc",
+    "original": "自分の[ArcanaQueenOfHate]1につき、ダメージ量 +<style=\"highlight\">30</style>% (最大<style=\"highlight\">90</style>%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、([ThePowerOfLoveAndHate] × <style=\"highlight\">20</style>)%だけダメージ量が増加 <style=\"highlight\">(最大100%)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、基本威力 +<style=\"highlight\">2</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5ずつ消耗し、コイン威力 +1 <style=\"highlight\">(最大4)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が6増加\n[EndSkill] [ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[ArcanaQueenOfHate]1につき、ダメージ量 +<style=\"highlight\">30</style>% (最大<style=\"highlight\">90</style>%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、([ThePowerOfLoveAndHate] × <style=\"highlight\">20</style>)%だけダメージ量が増加 <style=\"highlight\">(最大100%)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]が3以上なら、基本威力 +<style=\"highlight\">2</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5ずつ消耗し、コイン威力 +1 <style=\"highlight\">(最大4)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が6増加\n[EndSkill] [ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [ArcanaQueenOfHate]당 피해량 +&lt;style=\"highlight\"&gt;30&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;90&lt;/style&gt;%)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]가 3 이상이면, ([ThePowerOfLoveAndHate] X &lt;style=\"highlight\"&gt;20&lt;/style&gt;)%만큼 피해량이 증가 &lt;style=\"highlight\"&gt;(최대 100%)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]가 3 이상이면, 기본 위력 +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 5씩 소모하여, 코인 위력 +1 &lt;style=\"highlight\"&gt;(최대 4)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 6 증가\n[EndSkill] [ArcanaQueenOfHate] 1 얻음\nEN:\nDeal +&lt;style=\"highlight\"&gt;30&lt;/style&gt;% damage for every [ArcanaQueenOfHate] on self (max &lt;style=\"highlight\"&gt;90&lt;/style&gt;%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x &lt;style=\"highlight\"&gt;20&lt;/style&gt;)% damage &lt;style=\"highlight\"&gt;(max 100%)&lt;/style&gt;\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +&lt;style=\"highlight\"&gt;2&lt;/style&gt;\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]"
+  },
+  {
+    "key": "1031203-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031203-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031203-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Burst] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "1031203-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031203-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Burst]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Burst] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Burst]"
+  },
+  {
+    "key": "1031204-levelList[0].name",
+    "original": "短期詠唱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "短期詠唱\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단기 영창\nEN:\nRapid Chant"
+  },
+  {
+    "key": "1031204-levelList[0].desc",
+    "original": "[CanDuelGuard]\n[WhenUse] 自分の[HystericGauge]1につき、基本威力 +1 (最大2)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が2増加 (1ターンにつき2回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[WhenUse] 自分の[HystericGauge]1につき、基本威力 +1 (最大2)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が2増加 (1ターンにつき2回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n[WhenUse] 자신의 [HystericGauge]당, 기본 위력 +1 (최대 2)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가 (턴 당 2회)\nEN:\n[CanDuelGuard]\n[WhenUse] Base Power +1 for every [HystericGauge] (max 2)\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count (2 times per turn)"
+  },
+  {
+    "key": "1031204-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031204-levelList[1].name",
+    "original": "短期詠唱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "短期詠唱\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n단기 영창\nEN:\nRapid Chant"
+  },
+  {
+    "key": "1031204-levelList[1].desc",
+    "original": "[CanDuelGuard]\n[WhenUse] 自分の[HystericGauge]1につき、基本威力 +1 <style=\"highlight\">(最大3)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">4</style>増加 (1ターンにつき2回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CanDuelGuard]\n[WhenUse] 自分の[HystericGauge]1につき、基本威力 +1 <style=\"highlight\">(最大3)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">4</style>増加 (1ターンにつき2回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CanDuelGuard]\n[WhenUse] 자신의 [HystericGauge]당, 기본 위력 +1 &lt;style=\"highlight\"&gt;(최대 3)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;4&lt;/style&gt; 증가 (턴 당 2회)\nEN:\n[CanDuelGuard]\n[WhenUse] Base Power +1 for every [HystericGauge] &lt;style=\"highlight\"&gt;(max 3)&lt;/style&gt;\n[WhenUse] Gain +&lt;style=\"highlight\"&gt;4&lt;/style&gt; [ThePowerOfLoveAndHate] Count (2 times per turn)"
+  },
+  {
+    "key": "1031204-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031205-levelList[0].name",
+    "original": "悪党は…どこ…？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悪党は…どこ…？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n악당은... 어디있어....?\nEN:\nWhere are... the villains...?"
+  },
+  {
+    "key": "1031205-levelList[0].desc",
+    "original": "自分の[HystericGauge]1につき、ダメージ量 +3% (最大9%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n[WhenUse] 精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[HystericGauge]1につき、ダメージ量 +3% (最大9%)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n[WhenUse] 精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [HystericGauge]당 피해량 +3% (최대 9%)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가\n[WhenUse] 정신력 5 감소\nEN:\nDeal +3% damage for every [HystericGauge] on self (max 9%)\n[WhenUse] Gain +2 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP"
+  },
+  {
+    "key": "1031205-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가\nEN:\n[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031205-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "1031205-levelList[1].name",
+    "original": "悪党は…どこ…？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悪党は…どこ…？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n악당은... 어디있어....?\nEN:\nWhere are... the villains...?"
+  },
+  {
+    "key": "1031205-levelList[1].desc",
+    "original": "自分の[HystericGauge]1につき、ダメージ量 <style=\"highlight\">+4% (最大12%)</style>\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、基本威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n[WhenUse] 精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[HystericGauge]1につき、ダメージ量 <style=\"highlight\">+4% (最大12%)</style>\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、基本威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n[WhenUse] 精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [HystericGauge]당 피해량 &lt;style=\"highlight\"&gt;+4% (최대 12%)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 5 소모하여, 기본 위력 +1&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\n[WhenUse] 정신력 5 감소\nEN:\nDeal &lt;style=\"highlight\"&gt;+4%&lt;/style&gt; damage for every [HystericGauge] on self &lt;style=\"highlight\"&gt;(max 12%)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1&lt;/style&gt;\n[WhenUse] Gain &lt;style=\"highlight\"&gt;+3&lt;/style&gt; [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP"
+  },
+  {
+    "key": "1031205-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が2増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 2 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031205-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "1031205-levelList[2].name",
+    "original": "悪党は…どこ…？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悪党は…どこ…？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n악당은... 어디있어....?\nEN:\nWhere are... the villains...?"
+  },
+  {
+    "key": "1031205-levelList[2].desc",
+    "original": "自分の[HystericGauge]1につき、ダメージ量 <style=\"highlight\">+5% (最大15%)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、基本威力 +1\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]2につき、基本威力 +1 (最大2)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n[WhenUse] 精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分の[HystericGauge]1につき、ダメージ量 <style=\"highlight\">+5% (最大15%)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を5消耗し、基本威力 +1\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]2につき、基本威力 +1 (最大2)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n[WhenUse] 精神力が5減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [HystericGauge]당 피해량 &lt;style=\"highlight\"&gt;+5% (최대 15%)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 5 소모하여, 기본 위력 +1\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [ThePowerOfLoveAndHate] 2당, 기본 위력 +1 (최대 2)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\n[WhenUse] 정신력 5 감소\nEN:\nDeal &lt;style=\"highlight\"&gt;+5%&lt;/style&gt; damage for every [HystericGauge] on self &lt;style=\"highlight\"&gt;(max 15%)&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] Consume 5 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] Base Power +1 for every 2 [ThePowerOfLoveAndHate] on self (max 2)&lt;/style&gt;\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 5 SP"
+  },
+  {
+    "key": "1031205-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">3</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;3&lt;/style&gt; 증가\nEN:\n[OnSucceedAttack] Gain +&lt;style=\"highlight\"&gt;3&lt;/style&gt; [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031205-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "1031206-levelList[0].name",
+    "original": "私の頭から出て行ってくれ…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私の頭から出て行ってくれ…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 머릿속에서 나가줘...\nEN:\nGet out of my head..."
+  },
+  {
+    "key": "1031206-levelList[0].desc",
+    "original": "自分に[HystericGauge]があれば、マッチ威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n[WhenUse] 精神力が8減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分に[HystericGauge]があれば、マッチ威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n[WhenUse] 精神力が8減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [HystericGauge]가 있으면, 합 위력 +1\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\n[WhenUse] 정신력 8 감소\nEN:\nIf this unit has [HystericGauge], Clash Power +1\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP"
+  },
+  {
+    "key": "1031206-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\nEN:\n[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
+  },
+  {
+    "key": "1031206-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "1031206-levelList[1].name",
+    "original": "私の頭から出て行ってくれ…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私の頭から出て行ってくれ…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 머릿속에서 나가줘...\nEN:\nGet out of my head..."
+  },
+  {
+    "key": "1031206-levelList[1].desc",
+    "original": "自分に[HystericGauge]があれば、<style=\"highlight\">基本威力 +1</style>\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、基本威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n[WhenUse] 精神力が8減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分に[HystericGauge]があれば、<style=\"highlight\">基本威力 +1</style>\n<style=\"highlight\">[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、基本威力 +1</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が3増加\n[WhenUse] 精神力が8減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n자신의 [HystericGauge]가 있으면, &lt;style=\"highlight\"&gt;기본 위력 +1&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 6 소모하여, 기본 위력 +1&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가\n[WhenUse] 정신력 8 감소\nEN:\nIf this unit has [HystericGauge], &lt;style=\"highlight\"&gt;Base Power +1&lt;/style&gt;\n&lt;style=\"highlight\"&gt;[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1&lt;/style&gt;\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP"
+  },
+  {
+    "key": "1031206-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031206-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]<style=\"highlight\">2</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] &lt;style=\"highlight\"&gt;2&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;2&lt;/style&gt; [Sinking]"
+  },
+  {
+    "key": "1031206-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttackTail] 次のターンにメインターゲットへ[VillainMark]を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttackTail] 次のターンにメインターゲットへ[VillainMark]を付与</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackTail] 다음 턴에 메인 타겟에게 [VillainMark] 부여&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttackTail] Inflict [VillainMark] against the main target next turn&lt;/style&gt;"
+  },
+  {
+    "key": "1031206-levelList[2].name",
+    "original": "私の頭から出て行ってくれ…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私の頭から出て行ってくれ…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내 머릿속에서 나가줘...\nEN:\nGet out of my head..."
+  },
+  {
+    "key": "1031206-levelList[2].desc",
+    "original": "<style=\"highlight\">自分の[HystericGauge]1につき、基本威力 +1 (最大2)\n- [HystericGauge]が3なら、攻撃加重値 +1\n- サブターゲットへの与ダメージ量 -50%</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、基本威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">5</style>増加\n[WhenUse] 精神力が8減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">自分の[HystericGauge]1につき、基本威力 +1 (最大2)\n- [HystericGauge]が3なら、攻撃加重値 +1\n- サブターゲットへの与ダメージ量 -50%</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を6消耗し、基本威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数が<style=\"highlight\">5</style>増加\n[WhenUse] 精神力が8減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;자신의 [HystericGauge]당 기본 위력 +1(최대 2)\n- [HystericGauge]가 3이면, 공격 가중치 +1\n- 서브 타겟에게 가하는 피해량 -50%&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 6 소모하여, 기본 위력 +1\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수 &lt;style=\"highlight\"&gt;5&lt;/style&gt; 증가\n[WhenUse] 정신력 8 감소\nEN:\n&lt;style=\"highlight\"&gt;Base Power +1 for every [HystericGauge] on self (max 2)\n- At 3 [HystericGauge], gain +1 Atk Weight\n- Deal -50% damage against sub-targets&lt;/style&gt;\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Base Power +1\n[WhenUse] Gain +&lt;style=\"highlight\"&gt;5&lt;/style&gt; [ThePowerOfLoveAndHate] Count\n[WhenUse] Lose 8 SP"
+  },
+  {
+    "key": "1031206-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[ThePowerOfLoveAndHate]の回数が3増加<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [ThePowerOfLoveAndHate] 횟수 3 증가&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031206-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031206-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]&lt;/style&gt; 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]&lt;/style&gt; Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "1031207-levelList[0].name",
+    "original": "リバースド・ビート/リバースド・アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "リバースド・ビート/リバースド・アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n리버스드 비트 / 리버스드 아르카나 슬레이브\nEN:\nReversed Beats / Reversed Arcana Slave"
+  },
+  {
+    "key": "1031207-levelList[0].desc",
+    "original": "このスキルによるサブターゲットへの与ダメージ量 -50%\n\n[WhenUse] [HystericGauge]を全て消耗し、マッチ威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を8ずつ消耗し、マッチ威力 +1 (最大2)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]1につき、ダメージ量 +12%(最大60%)\n[BeforeAttack] 自分の[ArcanaQueenOfHate]を全て消耗し、攻撃加重値 +1\n[BeforeAttack] 攻撃対象が1名(集中戦闘の場合は部位で判定)のとき、攻撃加重値が2以上ならダメージ量 +20%\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -6 (最大 -18)\n[EndBattle] 精神力が -45ではなく精神力が0未満なら、精神力が10回復。精神力が0より低いほど回復量が増加 (差1につき2回復、最大50)\n[WhenUse] 精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このスキルによるサブターゲットへの与ダメージ量 -50%\n\n[WhenUse] [HystericGauge]を全て消耗し、マッチ威力 +1\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を8ずつ消耗し、マッチ威力 +1 (最大2)\n[WhenUse] 自分の[ThePowerOfLoveAndHate]1につき、ダメージ量 +12%(最大60%)\n[BeforeAttack] 自分の[ArcanaQueenOfHate]を全て消耗し、攻撃加重値 +1\n[BeforeAttack] 攻撃対象が1名(集中戦闘の場合は部位で判定)のとき、攻撃加重値が2以上ならダメージ量 +20%\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -6 (最大 -18)\n[EndBattle] 精神力が -45ではなく精神力が0未満なら、精神力が10回復。精神力が0より低いほど回復量が増加 (差1につき2回復、最大50)\n[WhenUse] 精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬로 서브 타겟에게 가하는 피해량 -50%\n\n[WhenUse] [HystericGauge]를 전부 소모하여, 합 위력 +1\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 8씩 소모하여, 합 위력 +1 (최대 2)\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]당 피해량 +12%(최대 60%)\n[BeforeAttack] 자신의 [ArcanaQueenOfHate]를 전부 소모하여, 공격 가중치 +1\n[BeforeAttack] 공격 대상이 한 명(집중 전투일 경우, 부위로 판정)일 때, 공격 가중치가 2 이상이면 피해량 +20%\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -18)\n[EndBattle] 정신력이 -45가 아니고 정신력이 0 미만이면, 정신력 10 회복. 정신력이 0보다 낮을수록 회복량 증가 (차이 1당 2회복, 최대 50)\n[WhenUse] 정신력 10 감소\nEN:\nThis Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge] to gain Clash Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every 8 Count consumed, max 2)\n[WhenUse] Deal +12% damage for every [ThePowerOfLoveAndHate] on self (max 60%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self to gain +1 Atk Weight\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), but has 2+ Atk Weight, deal +20% damage\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP"
+  },
+  {
+    "key": "1031207-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031207-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031207-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Sinking] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1031207-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "1031207-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Sinking] 2 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "1031207-levelList[1].name",
+    "original": "リバースド・ビート/リバースド・アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "リバースド・ビート/リバースド・アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n리버스드 비트 / 리버스드 아르카나 슬레이브\nEN:\nReversed Beats / Reversed Arcana Slave"
+  },
+  {
+    "key": "1031207-levelList[1].desc",
+    "original": "このスキルによるサブターゲットへの与ダメージ量 -50%\n\n[WhenUse] [HystericGauge]を全て消耗し、<style=\"highlight\">消耗した数値1につきマッチ威力 +1 (最大3)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を<style=\"highlight\">5ずつ</style>消耗し、マッチ威力 +1 <style=\"highlight\">(最大4)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]1につき、ダメージ量 +<style=\"highlight\">24</style>% (最大<style=\"highlight\">120</style>%)\n[BeforeAttack] 自分の[ArcanaQueenOfHate]を全て消耗し、<style=\"highlight\">消耗した数値に1につき攻撃加重値 +1 (最大3)\n- このスキルで消耗した[HystericGauge]が3なら、攻撃加重値 +1</style>\n[BeforeAttack] 攻撃対象が1名(集中戦闘の場合は部位で判定)のとき、<style=\"highlight\">(攻撃加重値 - 1)だけダメージ量が増加 (数値1につき20%, 最大80%)</style>\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -6 (最大 -18)\n[EndBattle] 精神力が -45ではなく精神力が0未満なら、精神力が10回復。精神力が0より低いほど回復量が増加 (差1につき2回復、最大50)\n[WhenUse] 精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このスキルによるサブターゲットへの与ダメージ量 -50%\n\n[WhenUse] [HystericGauge]を全て消耗し、<style=\"highlight\">消耗した数値1につきマッチ威力 +1 (最大3)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]の回数を<style=\"highlight\">5ずつ</style>消耗し、マッチ威力 +1 <style=\"highlight\">(最大4)</style>\n[WhenUse] 自分の[ThePowerOfLoveAndHate]1につき、ダメージ量 +<style=\"highlight\">24</style>% (最大<style=\"highlight\">120</style>%)\n[BeforeAttack] 自分の[ArcanaQueenOfHate]を全て消耗し、<style=\"highlight\">消耗した数値に1につき攻撃加重値 +1 (最大3)\n- このスキルで消耗した[HystericGauge]が3なら、攻撃加重値 +1</style>\n[BeforeAttack] 攻撃対象が1名(集中戦闘の場合は部位で判定)のとき、<style=\"highlight\">(攻撃加重値 - 1)だけダメージ量が増加 (数値1につき20%, 最大80%)</style>\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -6 (最大 -18)\n[EndBattle] 精神力が -45ではなく精神力が0未満なら、精神力が10回復。精神力が0より低いほど回復量が増加 (差1につき2回復、最大50)\n[WhenUse] 精神力が10減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이 스킬로 서브 타겟에게 가하는 피해량 -50%\n\n[WhenUse] [HystericGauge]를 전부 소모하여&lt;style=\"highlight\"&gt;, 소모한 수치당 합 위력 +1 (최대 3)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate] 횟수를 &lt;style=\"highlight\"&gt;5씩&lt;/style&gt; 소모하여, 합 위력 +1 &lt;style=\"highlight\"&gt;(최대 4)&lt;/style&gt;\n[WhenUse] 자신의 [ThePowerOfLoveAndHate]당 피해량 +&lt;style=\"highlight\"&gt;24&lt;/style&gt;%(최대 &lt;style=\"highlight\"&gt;120&lt;/style&gt;%)\n[BeforeAttack] 자신의 [ArcanaQueenOfHate]를 전부 소모하여, &lt;style=\"highlight\"&gt;소모한 수치당 공격 가중치 +1 (최대 3)\n- 이 스킬로 소모한 [HystericGauge]가 3이면, 공격 가중치 +1&lt;/style&gt;\n[BeforeAttack] 공격 대상이 한 명(집중 전투일 경우, 부위로 판정)일 때, &lt;style=\"highlight\"&gt;(공격 가중치 - 1)만큼 피해량이 증가 (수치당 20%, 최대 80%)&lt;/style&gt;\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -6 (최대 -18)\n[EndBattle] 정신력이 -45가 아니고 정신력이 0 미만이면, 정신력 10회복. 정신력이 0보다 낮을수록 회복량 증가 (차이 1당 2회복, 최대 50)\n[WhenUse] 정신력 10 감소\nEN:\nThis Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge]; &lt;style=\"highlight\"&gt;Clash Power +1 for every Stack consumed (max 3)&lt;/style&gt;\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every &lt;style=\"highlight\"&gt;5&lt;/style&gt; Count consumed, max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\n[WhenUse] Deal +&lt;style=\"highlight\"&gt;24&lt;/style&gt;% damage for every [ThePowerOfLoveAndHate] on self (max &lt;style=\"highlight\"&gt;120&lt;/style&gt;%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self; &lt;style=\"highlight\"&gt;gain +1 Atk Weight for every Stack consumed (max 3)\n- If this Skill consumed 3 [HystericGauge], gain +1 Atk Weight&lt;/style&gt;\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), &lt;style=\"highlight\"&gt;deal +(20 x (Atk Weight - 1))% damage (max 80%)&lt;/style&gt;\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP"
+  },
+  {
+    "key": "1031207-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031207-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031207-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Sinking] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031207-levelList[1].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[SuperCoin]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
+  },
+  {
+    "key": "1031207-levelList[1].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [Sinking]2を付与<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [Sinking] 2 부여&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   }
 ]

@@ -8,8 +8,8 @@
   },
   {
     "key": "AaCeSeBa-desc",
-    "original": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数を増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数を増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数が増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、{1}だけ次のターンに自分の呼吸 回数が増加。\n充電 回数が0になると除去される。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시 {1}만큼 다음 턴에 자신의 호흡 횟수를 증가.\n충전 횟수가 0이되면, 제거됨.\nEN:\nTurn End: Gain {1} Poise Count next turn.\nExpires at 0 Charge Count."
   },

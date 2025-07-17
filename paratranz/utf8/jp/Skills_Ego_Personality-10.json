@@ -477,15 +477,15 @@
   },
   {
     "key": "2100611-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경\nEN:\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
   },
   {
     "key": "2100611-levelList[0].coinlist[0].coindescs[3].desc",
-    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
   },
@@ -507,7 +507,7 @@
     "key": "2100611-levelList[1].desc",
     "original": "<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)</style>\n<CMT_KR>\n<CMT_JP>",
     "translation": "<style=\"highlight\">[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)</style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n&lt;style=\"highlight\"&gt;[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)&lt;/style&gt;"
   },
   {
@@ -519,15 +519,15 @@
   },
   {
     "key": "2100611-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2100611-levelList[1].coinlist[0].coindescs[2].desc",
-    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -549,7 +549,7 @@
     "key": "2100611-levelList[2].desc",
     "original": "[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "translation": "[BeforeAttack] (最大共鳴数 - 2)だけ攻撃加重値が増加(最大2)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[BeforeAttack] (최대 공명 수-2)만큼 공격 가중치 증가 (최대 2)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
@@ -561,15 +561,15 @@
   },
   {
     "key": "2100611-levelList[2].coinlist[0].coindescs[1].desc",
-    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 対象に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 대상에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2100611-levelList[2].coinlist[0].coindescs[2].desc",
-    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -610,15 +610,15 @@
   },
   {
     "key": "2100621-levelList[0].coinlist[0].coindescs[2].desc",
-    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경\nEN:\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
   },
   {
     "key": "2100621-levelList[0].coinlist[0].coindescs[3].desc",
-    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
   },
@@ -659,15 +659,15 @@
   },
   {
     "key": "2100621-levelList[1].coinlist[0].coindescs[2].desc",
-    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2100621-levelList[1].coinlist[0].coindescs[3].desc",
-    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -708,15 +708,15 @@
   },
   {
     "key": "2100621-levelList[2].coinlist[0].coindescs[2].desc",
-    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分に既に[ShieldManagerCryingToad]があれば、[ShieldManagerCryingToad]の数値を2に変更<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 자신에게 이미 [ShieldManagerCryingToad]이 있으면, [ShieldManagerCryingToad] 수치를 2로 변경&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
     "key": "2100621-levelList[2].coinlist[0].coindescs[3].desc",
-    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大憂鬱完全共鳴数が4以上なら、このスキルの[ShieldManagerCryingToad]の数値が3で付与、適用される<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최대 우울 완전 공명 수가 4 이상이면, 이 스킬의 [ShieldManagerCryingToad] 수치가 3으로 부여, 적용됨&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
@@ -1065,9 +1065,9 @@
   },
   {
     "key": "2100811-levelList[0].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
   },
   {
@@ -1107,16 +1107,16 @@
   },
   {
     "key": "2100811-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Burst]"
   },
   {
     "key": "2100811-levelList[1].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
@@ -1170,9 +1170,9 @@
   },
   {
     "key": "2100811-levelList[2].coinlist[1].coindescs[2].desc",
-    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
@@ -1219,9 +1219,9 @@
   },
   {
     "key": "2100821-levelList[0].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
   },
   {
@@ -1261,16 +1261,16 @@
   },
   {
     "key": "2100821-levelList[1].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Burst]"
   },
   {
     "key": "2100821-levelList[1].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {
@@ -1324,9 +1324,9 @@
   },
   {
     "key": "2100821-levelList[2].coinlist[1].coindescs[1].desc",
-    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "original": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の現体力が体力最大値の30%未満か、[YesdragonSelf]の数値が20ならこのコインを再使用 (スキルごとに1回)<style=\"highlight\"></style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 자신의 현재 체력이 최대 체력의 30% 미만이거나, [YesdragonSelf] 수치가 20이면 이 코인 재사용 (스킬 당 1회)&lt;style=\"highlight\"&gt;&lt;/style&gt;\nEN:\n[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)&lt;style=\"highlight\"&gt;&lt;/style&gt;"
   },
   {

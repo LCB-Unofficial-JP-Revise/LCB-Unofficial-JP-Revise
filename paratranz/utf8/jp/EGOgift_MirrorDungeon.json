@@ -2101,17 +2101,17 @@
   },
   {
     "key": "9045-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]に比例した憤怒ダメージを与える\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]に比例した憤怒ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]に比例した憤怒ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]に比例した憤怒ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 비례 분노 피해\nEN:\nDeal [Combustion] based Wrath damage"
   },
   {
     "key": "9045-simpleDesc[1].simpleDesc",
-    "original": "防御レベル が減少\n<CMT_KR>\n<CMT_JP>",
-    "translation": "防御レベル が減少\n<CMT_KR>\n<CMT_JP>",
+    "original": "[DefenseDown]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DefenseDown]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n방어 레벨이 감소함\nEN:\nReduces Defense Level"
+    "context": "KR:\n[DefenseDown]\nEN:\n[DefenseDown]"
   },
   {
     "key": "19045-name",
@@ -2129,17 +2129,17 @@
   },
   {
     "key": "19045-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]に比例した憤怒ダメージを与える\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]に比例した憤怒ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]に比例した憤怒ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]に比例した憤怒ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 비례 분노 피해\nEN:\nDeal [Combustion] based Wrath damage"
   },
   {
     "key": "19045-simpleDesc[1].simpleDesc",
-    "original": "防御レベル が減少\n<CMT_KR>\n<CMT_JP>",
-    "translation": "防御レベル が減少\n<CMT_KR>\n<CMT_JP>",
+    "original": "[DefenseDown]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DefenseDown]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n방어 레벨이 감소함\nEN:\nReduces Defense Level"
+    "context": "KR:\n[DefenseDown]\nEN:\n[DefenseDown]"
   },
   {
     "key": "29045-name",
@@ -2157,17 +2157,17 @@
   },
   {
     "key": "29045-simpleDesc[0].simpleDesc",
-    "original": "[Combustion]に比例した憤怒ダメージを与える\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[Combustion]に比例した憤怒ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "original": "[Combustion]に比例した憤怒ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Combustion]に比例した憤怒ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[Combustion] 비례 분노 피해\nEN:\nDeal [Combustion] based Wrath damage"
   },
   {
     "key": "29045-simpleDesc[1].simpleDesc",
-    "original": "防御レベル が減少\n<CMT_KR>\n<CMT_JP>",
-    "translation": "防御レベル が減少\n<CMT_KR>\n<CMT_JP>",
+    "original": "[DefenseDown]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[DefenseDown]\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n방어 레벨이 감소함\nEN:\nReduces Defense Level"
+    "context": "KR:\n[DefenseDown]\nEN:\n[DefenseDown]"
   },
   {
     "key": "9046-name",
@@ -2927,10 +2927,10 @@
   },
   {
     "key": "9057-desc",
-    "original": "ターン開始時、[Charge]回数が15以上の人格がある場合発動。\n\n戦闘開始時に該当する人格が[Charge]回数を3消耗し、1ターン中に攻撃レベルが5増加。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン開始時、[Charge]回数が15以上の人格がある場合発動。\n\n戦闘開始時に該当する人格が[Charge]回数を3消耗し、1ターン中に攻撃レベルが5増加。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[Charge]回数が15以上の人格がある場合発動。(特殊充電を含む)\n\n戦闘開始時に該当する人格が[Charge]回数を3消耗し、このターンの間攻撃レベルが5増加。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Charge]回数が15以上の人格がある場合発動。(特殊充電を含む)\n\n戦闘開始時に該当する人格が[Charge]回数を3消耗し、このターンの間攻撃レベルが5増加。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Charge] 횟수가 15 이상인 인격이 있을 경우 발동.\n\n전투 시작 시, 해당 인격이 [Charge] 횟수를 3 소모하고 이번 턴 동안 공격 레벨이 5 증가.\nEN:\nThis Gift activates when an ally has 15+ [Charge] Count at Turn Start.\n\nCombat Start: the ally with 15+ [Charge] Count loses 3 [Charge] Count and gains 5 'Offense Level' for the turn."
+    "context": "KR:\n턴 시작 시, [Charge] 횟수가 15 이상인 인격이 있을 경우 발동. (특수 충전을 포함)\n\n전투 시작 시, 해당 인격이 [Charge] 횟수를 3 소모하고 이번 턴 동안 공격 레벨이 5 증가.\nEN:\nThis Gift activates when an ally has 15+ [Charge] Count at Turn Start. (including 'Unique Charge')\n\nCombat Start: the ally with 15+ [Charge] Count loses 3 [Charge] Count and gains 5 'Offense Level' for the turn."
   },
   {
     "key": "9057-simpleDesc[0].simpleDesc",
@@ -4414,7 +4414,7 @@
     "original": "ターン開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに分けて付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>\n<CMT_JP>",
     "translation": "ターン開始時、[Combustion]威力または[Combustion]回数、または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの1ターン目が開始時、全ての敵(幻想体の場合は全部位)へ[Combustion]回数3を付与して[Combustion]威力をランダムに分けて付与。(合計15)\n\n[Combustion]威力または[Combustion]回数、特殊火傷を付与するスキルの最終威力 +1, コイン威力 +1, [Combustion]威力付与値 +1, [Combustion]回数付与値 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n웨이브 첫 번째 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Combustion] 횟수 3을 부여하고 [Combustion] 위력 15를 무작위로 나누어 부여.\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 스킬의 최종 위력 +1, 코인 위력 +1, [Combustion] 위력 부여 값 +1, [Combustion] 횟수 부여 값 +1.\n\n[Combustion] 위력, 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수 + 1)만큼 대상 적에게 [Combustion] 위력을 부여\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn' effects. (except E.G.O Skills, only counts Identities on the field)\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 [Combustion] Potency between all enemies (or all Abnormality parts).\n\nTo Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1.\n\nWhen winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict (# of remaining Coins + 1) [Combustion] Potency to the target enemy."
+    "context": "KR:\n턴 시작 시, [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n웨이브 첫 번째 턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 [Combustion] 횟수 3을 부여하고 [Combustion] 위력 15를 무작위로 나누어 부여.\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 스킬의 최종 위력 +1, 코인 위력 +1, [Combustion] 위력 부여 값 +1, [Combustion] 횟수 부여 값 +1.\n\n[Combustion] 위력, 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수 + 1)만큼 대상 적에게 [Combustion] 위력을 부여\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn'. (except E.G.O Skills, only counts Identities on the field)\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 [Combustion] Potency between all enemies (or all Abnormality parts).\n\nTo Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1.\n\nWhen winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict (# of remaining Coins + 1) [Combustion] Potency to the target enemy."
   },
   {
     "key": "9088-simpleDesc[0].simpleDesc",
@@ -4533,7 +4533,7 @@
     "original": "ターン開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "ターン開始時、[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n味方がスキル効果で敵に付与する[Laceration]威力と[Laceration]回数が2倍で適用。\n\nターン開始時、編成順が最も早い人格の[Laceration]威力、[Laceration]回数または特殊出血を付与する攻撃スキルのコイン威力 +2, ダメージ量 +100%. 該当キャラクターが攻撃するか、マッチを実施した敵が死亡したなら、死亡した敵の残った[Laceration]威力を全ての敵へランダムに分けて付与。(集中戦闘の場合、部位で判定)\n\n[Laceration]威力、回数または特殊出血を付与するスキルのコイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n아군이 스킬 효과로 적에게 부여하는 [Laceration] 위력과 [Laceration] 횟수가 2배로 적용.\n\n턴 시작 시 편성 순서가 제일 빠른 인격의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +2, 피해량 +100%. 해당 캐릭터가 공격하거나, 합을 진행한 적이 사망했으면, 사망한 적의 남은 [Laceration] 위력을 모든 적에게 무작위로 나눠서 부여. (집중 전투인 경우, 부위로 판정)\n\n[Laceration] 위력, 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects against enemies.\n\nThe ally highest in the Deployment order) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'"
+    "context": "KR:\n턴 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n아군이 스킬 효과로 적에게 부여하는 [Laceration] 위력과 [Laceration] 횟수가 2배로 적용.\n\n턴 시작 시 편성 순서가 제일 빠른 인격의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +2, 피해량 +100%. 해당 캐릭터가 공격하거나, 합을 진행한 적이 사망했으면, 사망한 적의 남은 [Laceration] 위력을 모든 적에게 무작위로 나눠서 부여. (집중 전투인 경우, 부위로 판정)\n\n[Laceration] 위력, 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed'. (except E.G.O Skills, only counts Identities on the field)\n\nAllies inflict double the amount of [Laceration] Potency and Count with Skill effects against enemies.\n\nThe ally highest in the Deployment order) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining [Laceration] Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts)\n\nCoin Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'"
   },
   {
     "key": "9090-simpleDesc[0].simpleDesc",
@@ -5048,10 +5048,10 @@
   },
   {
     "key": "9100-desc",
-    "original": "ターン開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの最初のターン開始時、全味方が[ChargeForceField]を7得る。\n\nターン開始時、味方が([Charge]回数と特殊充電の合計 ÷ 5 + 1)だけ[AttackDmgUp]を得る。(最大9, 繰り上げ処理)\n\n人格各々が(今回の戦闘の間攻撃スキルを使用して累計で消耗した[Charge]回数 ÷ 4)だけターン開始時、攻撃レベル増加を得る。([Charge]回数を40消耗時に効果が最大)\n\n人格各々が[Charge]回数を10消耗するたびに[Charge]1を得る。(戦闘ごとに人格別に5回、特殊充電には適用されない)\n\nターン開始時、全味方が自分の[Charge]威力2につき[Enhancement]1を得る (最大3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの最初のターン開始時、全味方が[ChargeForceField]を7得る。\n\nターン開始時、味方が([Charge]回数と特殊充電の合計 ÷ 5 + 1)だけ[AttackDmgUp]を得る。(最大9, 繰り上げ処理)\n\n人格各々が(今回の戦闘の間攻撃スキルを使用して累計で消耗した[Charge]回数 ÷ 4)だけターン開始時、攻撃レベル増加を得る。([Charge]回数を40消耗時に効果が最大)\n\n人格各々が[Charge]回数を10消耗するたびに[Charge]1を得る。(戦闘ごとに人格別に5回、特殊充電には適用されない)\n\nターン開始時、全味方が自分の[Charge]威力2につき[Enhancement]1を得る (最大3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの最初のターン開始時、全味方が[ChargeForceField]を7得る。\n\nターン開始時、味方が([Charge]回数 ÷ 5 + 1)だけ[AttackDmgUp]を得る。(最大9, 繰り上げ処理。特殊充電を含む)\n\n人格各々が(今回の戦闘の間攻撃スキルを使用して累計で消耗した[Charge]回数 ÷ 4)だけターン開始時、攻撃レベル増加を得る。([Charge]回数を40消耗時に効果が最大)\n\n人格各々が[Charge]回数を10消耗するたびに[Charge]1を得る。(戦闘ごとに人格別に5回、特殊充電には適用されない)\n\nターン開始時、全味方が自分の[Charge]威力2につき[Enhancement]1を得る (最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Charge]回数または特殊充電を獲得する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\nウェーブの最初のターン開始時、全味方が[ChargeForceField]を7得る。\n\nターン開始時、味方が([Charge]回数 ÷ 5 + 1)だけ[AttackDmgUp]を得る。(最大9, 繰り上げ処理。特殊充電を含む)\n\n人格各々が(今回の戦闘の間攻撃スキルを使用して累計で消耗した[Charge]回数 ÷ 4)だけターン開始時、攻撃レベル増加を得る。([Charge]回数を40消耗時に効果が最大)\n\n人格各々が[Charge]回数を10消耗するたびに[Charge]1を得る。(戦闘ごとに人格別に5回、特殊充電には適用されない)\n\nターン開始時、全味方が自分の[Charge]威力2につき[Enhancement]1を得る (最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n웨이브 첫 턴 시작 시, 모든 아군이 [ChargeForceField] 7 얻음.\n\n턴 시작 시, 아군이 ([Charge] 횟수와 특수 충전의 합/5+1)만큼 [AttackDmgUp]를 얻음. (최대 9. 올림하여 처리).\n\n각 인격마다 (이번 전투 동안 공격 스킬을 사용하여 누적 소모한 [Charge] 횟수/4)만큼 턴 시작 시, 공격 레벨 증가 얻음. ([Charge] 횟수 40 소모 시, 효과 최대)\n\n각 인격마다 [Charge] 횟수를 10 소모할 때마다 [Charge] 1 얻음. (전투당 인격별로 5회, 특수 충전은 적용되지 않음)\n\n턴 시작시, 모든 아군이 자신의 [Charge] 위력 2 당 [Enhancement] 1 얻음 (최대 3)\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) [AttackDmgUp]. (max 9, rounded up)\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 10 [Charge] Count. (5 times per Identity per Encounter; Unique Charge does not interact with this effect)\n\nTurn Start: all allies gain 1 [Enhancement] for every 2 [Charge] Potency on their respective selves (max 3)"
+    "context": "KR:\n턴 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n웨이브 첫 턴 시작 시, 모든 아군이 [ChargeForceField] 7 얻음.\n\n턴 시작 시, 아군이 ([Charge] 횟수/5+1)만큼 [AttackDmgUp]를 얻음. (최대 9. 올림하여 처리. 특수 충전을 포함)\n\n각 인격마다 (이번 전투 동안 공격 스킬을 사용하여 누적 소모한 [Charge] 횟수/4)만큼 턴 시작 시, 공격 레벨 증가 얻음. ([Charge] 횟수 40 소모 시, 효과 최대)\n\n각 인격마다 [Charge] 횟수를 10 소모할 때마다 [Charge] 1 얻음. (전투당 인격별로 5회, 위력 고정인 특수 충전을 제외)\n\n턴 시작시, 모든 아군이 자신의 [Charge] 위력 2 당 [Enhancement] 1 얻음 (최대 3)\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count)/5 +1) [AttackDmgUp]. (max 9, rounded up; including 'Unique Charge')\n\nEach Identity gains (total [Charge] Count consumed by using Attack Skills during this Encounter / 4) Offense Level Up at Turn Start. (maxes out after consuming 40 [Charge] Count)\n\nEach Identity gains 1 [Charge] every time they consume 10 [Charge] Count. (5 times per Identity per Encounter; does not interact with Unique Charge with fixed Potency)\n\nTurn Start: all allies gain 1 [Enhancement] for every 2 [Charge] Potency on their respective selves (max 3)"
   },
   {
     "key": "9100-simpleDesc[0].simpleDesc",
@@ -6392,8 +6392,8 @@
   },
   {
     "key": "19127-desc",
-    "original": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, <style=\"upgradeHighlight\">[AttackUp]2</style> を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, <style=\"upgradeHighlight\">[AttackUp]2</style> を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, <style=\"upgradeHighlight\">[AttackUp]2</style>を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, <style=\"upgradeHighlight\">[AttackUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, <style=\"upgradeHighlight\">[AttackUp]2</style>を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, [Breath] 위력이 제일 높은 아군 하나와 [Breath] 횟수가 제일 높은 아군 하나에게 다음 턴에 [Agility] 1, &lt;style=\"upgradeHighlight\"&gt;[AttackUp] 1&lt;/style&gt; 부여. (같은 인격일 경우 중복 가능)\n\n색욕 속성 공격 스킬을 보유한 아군일 경우, 효과가 강화되어 [Agility] 2, &lt;style=\"upgradeHighlight\"&gt;[AttackUp] 2&lt;/style&gt; 부여 (E.G.O 스킬 제외).\nEN:\nTurn End: apply 1 [Agility] &lt;style=\"upgradeHighlight\"&gt;and 1 [AttackUp]&lt;/style&gt; next turn to 1 ally with the highest [Breath] Potency and 1 ally with the highest [Breath] Count. (both effects can apply on the same Identity)\n\nIf the ally has Lust Affinity Attack Skills, apply 2 [Agility] &lt;style=\"upgradeHighlight\"&gt;and 2 [AttackUp]&lt;/style&gt; instead. (except E.G.O Skills)"
   },
@@ -6413,8 +6413,8 @@
   },
   {
     "key": "29127-desc",
-    "original": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, [AttackUp]1, <style=\"upgradeHighlight\">[AttackDmgUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, [AttackUp] 2, [AttackDmgUp]<style=\"upgradeHighlight\">2</style> を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, [AttackUp]1, <style=\"upgradeHighlight\">[AttackDmgUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, [AttackUp] 2, [AttackDmgUp]<style=\"upgradeHighlight\">2</style> を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, [AttackUp]1, <style=\"upgradeHighlight\">[AttackDmgUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, [AttackUp] 2, [AttackDmgUp]<style=\"upgradeHighlight\">2</style>を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、[Breath]威力が最も高い味方1名と[Breath]回数が最も多い味方1名へ次のターンに[Agility]1, [AttackUp]1, <style=\"upgradeHighlight\">[AttackDmgUp]1</style>を付与。(同じ人格の場合は重複可能)\n\n色欲属性攻撃スキルを持つ味方の場合は効果が強化され、[Agility]2, [AttackUp] 2, [AttackDmgUp]<style=\"upgradeHighlight\">2</style>を付与(E.G.Oスキルを除く)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, [Breath] 위력이 제일 높은 아군 하나와 [Breath] 횟수가 제일 높은 아군 하나에게 다음 턴에 [Agility] 1, [AttackUp] 1, &lt;style=\"upgradeHighlight\"&gt;[AttackDmgUp] 1&lt;/style&gt; 부여. (같은 인격일 경우 중복 가능)\n\n색욕 속성 공격 스킬을 보유한 아군일 경우, 효과가 강화되어 [Agility] 2, [AttackUp] 2, [AttackDmgUp] &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; 부여 (E.G.O 스킬 제외).\nEN:\nTurn End: apply 1 [Agility], 1 [AttackUp], &lt;style=\"upgradeHighlight\"&gt;and 1 [AttackDmgUp]&lt;/style&gt; next turn to 1 ally with the highest [Breath] Potency and 1 ally with the highest [Breath] Count. (both effects can apply on the same Identity)\n\nIf the ally has Lust Affinity Attack Skills, apply 2 [Agility], 2 [AttackUp], &lt;style=\"upgradeHighlight\"&gt;and 2 [AttackDmgUp]&lt;/style&gt; instead. (except E.G.O Skills)"
   },
@@ -6623,10 +6623,10 @@
   },
   {
     "key": "9132-desc",
-    "original": "ターン終了時に[Charge]回数が3未満の場合は、次のターン開始時に[Charge]回数が3増加\n\nターン終了時に[Charge]回数が3以上の場合は、次のターン開始時に[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時に[Charge]回数が3未満の場合は、次のターン開始時に[Charge]回数が3増加\n\nターン終了時に[Charge]回数が3以上の場合は、次のターン開始時に[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時に[Charge]回数が3未満の場合は、次のターン開始時に[Charge]回数が3増加 (特殊充電を含む)\n\nターン終了時に[Charge]回数が3以上の場合は、次のターン開始時に[AttackDmgUp]1を得る (特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に[Charge]回数が3未満の場合は、次のターン開始時に[Charge]回数が3増加 (特殊充電を含む)\n\nターン終了時に[Charge]回数が3以上の場合は、次のターン開始時に[AttackDmgUp]1を得る (特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 종료 시 [Charge] 횟수가 3 미만인 경우에는 다음 턴 시작 시 [Charge] 횟수 3 증가.\n\n턴 종료 시 [Charge] 횟수가 3 이상인 경우에는 다음 턴 시작 시 [AttackDmgUp] 1 얻음.\nEN:\nTurn End: If at less than 3 [Charge] Count, gain +3 [Charge] Count next Turn Start.\n\nTurn End: If at 3+ [Charge] Count, gain 1 [AttackDmgUp] next Turn Start."
+    "context": "KR:\n턴 종료 시 [Charge] 횟수가 3 미만인 경우에는 다음 턴 시작 시 [Charge] 횟수 3 증가. (특수 충전을 포함)\n\n턴 종료 시 [Charge] 횟수가 3 이상인 경우에는 다음 턴 시작 시 [AttackDmgUp] 1 얻음. (특수 충전을 포함)\nEN:\nTurn End: If at less than 3 [Charge] Count, gain +3 [Charge] Count next Turn Start. (including 'Unique Charge')\n\nTurn End: If at 3+ [Charge] Count, gain 1 [AttackDmgUp] next Turn Start. (including 'Unique Charge')"
   },
   {
     "key": "9132-simpleDesc[0].simpleDesc",
@@ -6651,10 +6651,10 @@
   },
   {
     "key": "19132-desc",
-    "original": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 未満の場合は、次のターン開始時に[Charge]回数が3増加\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 以上の場合は、次のターン開始時に[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 未満の場合は、次のターン開始時に[Charge]回数が3増加\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 以上の場合は、次のターン開始時に[AttackDmgUp]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 未満の場合は、次のターン開始時に[Charge]回数が3増加 (特殊充電を含む)\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 以上の場合は、次のターン開始時に[AttackDmgUp]1を得る (特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 未満の場合は、次のターン開始時に[Charge]回数が3増加 (特殊充電を含む)\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 以上の場合は、次のターン開始時に[AttackDmgUp]1を得る (特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 미만인 경우에는 다음 턴 시작 시 [Charge] 횟수 3 증가.\n\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 이상인 경우에는 다음 턴 시작 시 [AttackDmgUp] 1 얻음.\nEN:\nTurn End: If at less than &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; [Charge] Count, gain +3 [Charge] Count next Turn Start.\n\nTurn End: If at &lt;style=\"upgradeHighlight\"&gt;4+&lt;/style&gt; [Charge] Count, gain 1 [AttackDmgUp] next Turn Start."
+    "context": "KR:\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 미만인 경우에는 다음 턴 시작 시 [Charge] 횟수 3 증가. (특수 충전을 포함)\n\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 이상인 경우에는 다음 턴 시작 시 [AttackDmgUp] 1 얻음. (특수 충전을 포함)\nEN:\nTurn End: If at less than &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; [Charge] Count, gain +3 [Charge] Count next Turn Start. (including 'Unique Charge')\n\nTurn End: If at &lt;style=\"upgradeHighlight\"&gt;4+&lt;/style&gt; [Charge] Count, gain 1 [AttackDmgUp] next Turn Start. (including 'Unique Charge')"
   },
   {
     "key": "19132-simpleDesc[0].simpleDesc",
@@ -6679,10 +6679,10 @@
   },
   {
     "key": "29132-desc",
-    "original": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">5</style> 未満の場合は、次のターン開始時に[Charge]回数が<style=\"upgradeHighlight\">4</style>増加\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 以上の場合は、次のターン開始時に[AttackDmgUp]<style=\"upgradeHighlight\">2</style>を得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">5</style> 未満の場合は、次のターン開始時に[Charge]回数が<style=\"upgradeHighlight\">4</style>増加\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">4</style> 以上の場合は、次のターン開始時に[AttackDmgUp]<style=\"upgradeHighlight\">2</style>を得る\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">5</style> 未満の場合は、次のターン開始時に[Charge]回数が<style=\"upgradeHighlight\">4</style>増加 (特殊充電を含む)\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">5</style> 以上の場合は、次のターン開始時に[AttackDmgUp]2を得る (特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時に[Charge]回数が<style=\"upgradeHighlight\">5</style> 未満の場合は、次のターン開始時に[Charge]回数が<style=\"upgradeHighlight\">4</style>増加 (特殊充電を含む)\n\nターン終了時に[Charge]回数が<style=\"upgradeHighlight\">5</style> 以上の場合は、次のターン開始時に[AttackDmgUp]2を得る (特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; 미만인 경우에는 다음 턴 시작 시 [Charge] 횟수 &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 증가.\n\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; 이상인 경우에는 다음 턴 시작 시 [AttackDmgUp] &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; 얻음.\nEN:\nTurn End: If at less than &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; [Charge] Count, gain &lt;style=\"upgradeHighlight\"&gt;+4&lt;/style&gt; [Charge] Count next Turn Start.\n\nTurn End: If at &lt;style=\"upgradeHighlight\"&gt;5+&lt;/style&gt; [Charge] Count, gain &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; [AttackDmgUp] next Turn Start."
+    "context": "KR:\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; 미만인 경우에는 다음 턴 시작 시 [Charge] 횟수 &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 증가. (특수 충전을 포함)\n\n턴 종료 시 [Charge] 횟수가 &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; 이상인 경우에는 다음 턴 시작 시 [AttackDmgUp] &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; 얻음. (특수 충전을 포함)\nEN:\nTurn End: If at less than &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; [Charge] Count, gain &lt;style=\"upgradeHighlight\"&gt;+4&lt;/style&gt; [Charge] Count next Turn Start. (including 'Unique Charge')\n\nTurn End: If at &lt;style=\"upgradeHighlight\"&gt;5+&lt;/style&gt; [Charge] Count, gain &lt;style=\"upgradeHighlight\"&gt;2&lt;/style&gt; [AttackDmgUp] next Turn Start. (including 'Unique Charge')"
   },
   {
     "key": "29132-simpleDesc[0].simpleDesc",
@@ -6857,7 +6857,7 @@
     "original": "[編成1・2番人格専用効果]\n\nターン開始時に[Charge]回数と特殊充電の合計が10以上のとき発動。\n\n[Charge]回数または特殊充電を獲得するか消耗するスキル3のコイン威力 +1\n\n該当スキルの基本威力が5未満の場合はダメージ量 +25%、基本威力が5以上の場合はコイン威力を追加で +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "[編成1・2番人格専用効果]\n\nターン開始時に[Charge]回数と特殊充電の合計が10以上のとき発動。\n\n[Charge]回数または特殊充電を獲得するか消耗するスキル3のコイン威力 +1\n\n該当スキルの基本威力が5未満の場合はダメージ量 +25%、基本威力が5以上の場合はコイン威力を追加で +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[편성 1번, 2번 인격 전용 효과]\n\n턴 시작 시 [Charge] 횟수와 특수 충전의 합이 10 이상인 경우 발동.\n\n[Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬 3의 코인 위력 +1.\n\n해당 스킬의 기본 위력이 5 미만일 경우 피해량 +25%, 기본 위력이 5 이상일 경우 코인 위력 추가로 +1.\nEN:\n[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Unique Charge') at Turn Start.\n\nCoin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Unique Charge'.\n\nIf the said Skill has less than 5 Base Power, deal +25% damage; if it has 5+ Base Power, gain an additional Coin Power +1."
+    "context": "KR:\n[편성 1번, 2번 인격 전용 효과]\n\n턴 시작 시 [Charge] 횟수와 특수 충전의 합이 10 이상인 경우 발동. \n\n[Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬 3의 코인 위력 +1.\n\n해당 스킬의 기본 위력이 5 미만일 경우 피해량 +25%, 기본 위력이 5 이상일 경우 코인 위력 추가로 +1.\nEN:\n[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Unique Charge') at Turn Start.\n\nCoin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Unique Charge'.\n\nIf the said Skill has less than 5 Base Power, deal +25% damage; if it has 5+ Base Power, gain an additional Coin Power +1."
   },
   {
     "key": "9135-simpleDesc[0].simpleDesc",
@@ -8086,8 +8086,8 @@
   },
   {
     "key": "19086-desc",
-    "original": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">8</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, <style=\"upgradeHighlight\">[DefenseDown]2</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">15</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, <style=\"upgradeHighlight\">[DefenseDown] 2</style> を付与。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">8</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, <style=\"upgradeHighlight\">[DefenseDown]2</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">15</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, <style=\"upgradeHighlight\">[DefenseDown] 2</style> を付与。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">8</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, <style=\"upgradeHighlight\">[DefenseDown]2</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">15</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, <style=\"upgradeHighlight\">[DefenseDown] 2</style>を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">8</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, <style=\"upgradeHighlight\">[DefenseDown]2</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">15</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, <style=\"upgradeHighlight\">[DefenseDown] 2</style>を付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, [Vibration] 위력을 &lt;style=\"upgradeHighlight\"&gt;8&lt;/style&gt; 이상 보유한 적(환상체일 경우, 해당 부위)에게 다음 턴에 [Binding] 2, &lt;style=\"upgradeHighlight\"&gt;[DefenseDown] 2&lt;/style&gt; 부여. 대상이 [Vibration] 위력을 &lt;style=\"upgradeHighlight\"&gt;15&lt;/style&gt; 이상 보유한 경우, 효과가 강화되어 [Binding] 2, [Paralysis] 1, &lt;style=\"upgradeHighlight\"&gt;[DefenseDown] 2&lt;/style&gt; 부여.\nEN:\nTurn End: Inflict 2 [Binding] and &lt;style=\"upgradeHighlight\"&gt;2 [DefenseDown]&lt;/style&gt; to enemies (for Abnormalities, their Parts) with &lt;style=\"upgradeHighlight\"&gt;8&lt;/style&gt;+ [Vibration] Potency.\n\nIf the target has &lt;style=\"upgradeHighlight\"&gt;15&lt;/style&gt;+ [Vibration] Potency, apply 2 [Binding], 1 [Paralysis], &lt;style=\"upgradeHighlight\"&gt;and 2 [DefenseDown]&lt;/style&gt; instead."
   },
@@ -8114,8 +8114,8 @@
   },
   {
     "key": "29086-desc",
-    "original": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">5</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, [DefenseDown]<style=\"upgradeHighlight\">3</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">10</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, [DefenseDown]<style=\"upgradeHighlight\">4</style> を付与。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">5</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, [DefenseDown]<style=\"upgradeHighlight\">3</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">10</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, [DefenseDown]<style=\"upgradeHighlight\">4</style> を付与。\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">5</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, [DefenseDown]<style=\"upgradeHighlight\">3</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">10</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, [DefenseDown]<style=\"upgradeHighlight\">4</style>を付与。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、[Vibration]威力を<style=\"upgradeHighlight\">5</style>以上保有した敵(幻想体の場合は該当部位)へ次のターンに[Binding]2, [DefenseDown]<style=\"upgradeHighlight\">3</style>を付与。対象が[Vibration]威力を <style=\"upgradeHighlight\">10</style>以上保有している場合は効果が強化され、[Binding]2, [Paralysis]1, [DefenseDown]<style=\"upgradeHighlight\">4</style>を付与。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, [Vibration] 위력을 &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt; 이상 보유한 적(환상체일 경우, 해당 부위)에게 다음 턴에 [Binding] 2, [DefenseDown] &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt; 부여. 대상이 [Vibration] 위력을 &lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt; 이상 보유한 경우, 효과가 강화되어 [Binding] 2, [Paralysis] 1, [DefenseDown] &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; 부여.\nEN:\nTurn End: Inflict 2 [Binding] and &lt;style=\"upgradeHighlight\"&gt;3&lt;/style&gt; [DefenseDown] to enemies (for Abnormalities, their Parts) with &lt;style=\"upgradeHighlight\"&gt;5&lt;/style&gt;+ [Vibration] Potency.\n\nIf the target has &lt;style=\"upgradeHighlight\"&gt;10&lt;/style&gt;+ [Vibration] Potency, apply 2 [Binding], 1 [Paralysis], and &lt;style=\"upgradeHighlight\"&gt;4&lt;/style&gt; [DefenseDown] instead."
   },
@@ -8222,7 +8222,7 @@
     "original": "ターン開始時、[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルの最終威力 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 ÷ 2 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>\n<CMT_JP>",
     "translation": "ターン開始時、[Combustion]威力、[Combustion]回数または特殊火傷を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n[Combustion]威力、[Combustion]回数または特殊火傷を付与するスキルの最終威力 +1\n\n[Combustion]威力、回数、特殊火傷を付与するスキルでマッチ勝利時、(残りコイン数 ÷ 2 + 1)だけ対象の敵へ[Combustion]威力を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 스킬의 최종 위력 +1\n\n[Combustion] 위력, 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수/2+1)만큼 대상 적에게 [Combustion] 위력을 부여\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn' effects. (except E.G.O Skills, only counts Identities on the field)\n\nSkills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1\n\nOn Clash Win with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': inflict ((# of remaining Coins / 2) +1) [Combustion] Potency on the target"
+    "context": "KR:\n턴 시작 시, [Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n[Combustion] 위력, [Combustion] 횟수 또는 특수 화상을 부여하는 스킬의 최종 위력 +1\n\n[Combustion] 위력, 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수/2+1)만큼 대상 적에게 [Combustion] 위력을 부여\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn'. (except E.G.O Skills, only counts Identities on the field)\n\nSkills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1\n\nOn Clash Win with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': inflict ((# of remaining Coins / 2) +1) [Combustion] Potency on the target"
   },
   {
     "key": "9157-simpleDesc[0].simpleDesc",
@@ -8271,7 +8271,7 @@
     "original": "ターン開始時、[Laceration]威力、[Laceration]回数、または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n速度が最も高い味方が1名の[Laceration]威力、[Laceration]回数または特殊出血を付与するスキルのコイン威力 +1, ダメージ量 +50%\n\n[Laceration]威力、[Laceration]回数または特殊出血を付与するスキルの最終威力 +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "ターン開始時、[Laceration]威力、[Laceration]回数、または特殊出血を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oスキルを除く、出撃人員を基準とする)\n\n速度が最も高い味方が1名の[Laceration]威力、[Laceration]回数または特殊出血を付与するスキルのコイン威力 +1, ダメージ量 +50%\n\n[Laceration]威力、[Laceration]回数または特殊出血を付与するスキルの最終威力 +1\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n속도가 가장 빠른 아군 1명의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1, 피해량 +50%\n\n[Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 최종 위력 +1.\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed' effects. (except E.G.O Skills, only counts Identities on the field)\n\n1 ally with the fastest Speed) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +1, damage dealt +50%\n\nFinal Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'."
+    "context": "KR:\n턴 시작 시, [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n속도가 가장 빠른 아군 1명의 [Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 코인 위력 +1, 피해량 +50%\n\n[Laceration] 위력, [Laceration] 횟수 또는 특수 출혈을 부여하는 스킬의 최종 위력 +1.\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Laceration] Potency, Count, or 'Unique Bleed'. (except E.G.O Skills, only counts Identities on the field)\n\n1 ally with the fastest Speed) Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed': Coin Power +1, damage dealt +50%\n\nFinal Power +1 to all Skills that inflict [Laceration] Potency, Count, or 'Unique Bleed'."
   },
   {
     "key": "9161-simpleDesc[0].simpleDesc",
@@ -8429,10 +8429,10 @@
   },
   {
     "key": "9182-desc",
-    "original": "ターン開始時、[Charge]回数または特殊充電を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oを除く、出撃人員を基準とする)\n\nターン開始時、味方が([Charge]回数と特殊充電の合計 ÷ 10)だけ[AttackDmgUp]を得る(最大2, 繰り上げ処理)\n\nターン終了に[ChargeForceField]がなければ、[ChargeForceField]1を得る\n\n各人格が[Charge]回数を20消耗するとき、各々が[Charge]威力1を得る。(戦闘ごとに人格別に2回、特殊充電には適用されない)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン開始時、[Charge]回数または特殊充電を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oを除く、出撃人員を基準とする)\n\nターン開始時、味方が([Charge]回数と特殊充電の合計 ÷ 10)だけ[AttackDmgUp]を得る(最大2, 繰り上げ処理)\n\nターン終了に[ChargeForceField]がなければ、[ChargeForceField]1を得る\n\n各人格が[Charge]回数を20消耗するとき、各々が[Charge]威力1を得る。(戦闘ごとに人格別に2回、特殊充電には適用されない)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[Charge]回数または特殊充電を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oを除く、出撃人員を基準とする)\n\nターン開始時、味方が([Charge]回数 ÷ 10)だけ[AttackDmgUp]を得る(最大2, 繰り上げ処理。特殊充電を含む)\n\nターン終了に[ChargeForceField]がなければ、[ChargeForceField]1を得る\n\n各人格が[Charge]回数を20消耗するとき、各々が[Charge]威力1を得る。(戦闘ごとに人格別に2回、特殊充電には適用されない)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[Charge]回数または特殊充電を付与する攻撃スキルを保有した人格が5名以上のとき発動。(E.G.Oを除く、出撃人員を基準とする)\n\nターン開始時、味方が([Charge]回数 ÷ 10)だけ[AttackDmgUp]を得る(最大2, 繰り上げ処理。特殊充電を含む)\n\nターン終了に[ChargeForceField]がなければ、[ChargeForceField]1を得る\n\n各人格が[Charge]回数を20消耗するとき、各々が[Charge]威力1を得る。(戦闘ごとに人格別に2回、特殊充電には適用されない)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n턴 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n턴 시작 시, 아군이 ([Charge] 횟수와 특수 충전의 합/10)만큼 [AttackDmgUp]를 얻음. (최대 2, 올림하여 처리)\n\n턴 종료 시 [ChargeForceField]이 없으면, [ChargeForceField] 1 얻음.\n\n각 인격마다 [Charge] 횟수를 20 소모할 때 [Charge] 위력 1 얻음. (전투당 인격별로 2회, 특수 충전은 적용되지 않음)\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field)\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge') / 10) [AttackDmgUp]. (max 2, rounded up)\n\nTurn End: allies without [ChargeForceField] gain 1 [ChargeForceField].\n\nEach Identity gains 1 [Charge] Potency every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)"
+    "context": "KR:\n턴 시작 시, [Charge] 횟수 또는 특수 충전을 획득하는 공격 스킬을 보유한 인격이 5인 이상일 때 발동 (E.G.O 스킬 제외, 출격 인원을 기준으로 함).\n\n턴 시작 시, 아군이 ([Charge] 횟수/10)만큼 [AttackDmgUp]를 얻음 (최대 2, 올림하여 처리. 특수 충전을 포함)\n\n턴 종료 시 [ChargeForceField]이 없으면, [ChargeForceField] 1 얻음.\n\n각 인격마다 [Charge] 횟수를 20 소모할 때 [Charge] 위력 1 얻음. (전투당 인격별로 2회, 특수 충전은 적용되지 않음)\nEN:\nTurn Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field)\n\nTurn Start: all allies gain ([Charge] Count/ 10) [AttackDmgUp]. (max 2, rounded up; including 'Unique Charge')\n\nTurn End: allies without [ChargeForceField] gain 1 [ChargeForceField].\n\nEach Identity gains 1 [Charge] Potency every time they consume 20 [Charge] Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect)"
   },
   {
     "key": "9182-simpleDesc[0].simpleDesc",
@@ -8667,8 +8667,8 @@
   },
   {
     "key": "9193-name",
-    "original": "磨り減った砥石\n<CMT_KR>\n<CMT_JP>",
-    "translation": "磨り減った砥石\n<CMT_KR>\n<CMT_JP>",
+    "original": "摩り切れた砥石\n<CMT_KR>\n<CMT_JP>",
+    "translation": "摩り切れた砥石\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n닳고 닳은 숫돌\nEN:\nOverused Whetstone"
   },

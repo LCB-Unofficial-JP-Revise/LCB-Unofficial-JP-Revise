@@ -71,8 +71,8 @@
   },
   {
     "key": "827703-levelList[0].desc",
-    "original": "[TimeAcceleration] 状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[LimitedTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[TimeAcceleration] 状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[LimitedTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "original": "[TimeAcceleration]状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[LimitedTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[TimeAcceleration]状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[LimitedTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[TimeAcceleration] 상태면, 코인 위력 +1\n[WhenUse] 자신의 체력이 75%미만이면, [LimitedTime]을 50소모하여, 합 위력 +2\nEN:\nWhen in [TimeAcceleration] state, Coin Power +1\n[DefeatDuel] At 75%- HP, consume 50 [LimitedTime] and gain Clash Power +2 (once per turn)"
   },
@@ -232,8 +232,8 @@
   },
   {
     "key": "827803-levelList[0].desc",
-    "original": "[TimeAcceleration] 状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[OwnTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[TimeAcceleration] 状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[OwnTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "original": "[TimeAcceleration]状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[OwnTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[TimeAcceleration]状態なら、コイン威力 +1\n[WhenUse] 自分の体力が75%未満なら、[OwnTime]を50消耗してマッチ威力 +2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[TimeAcceleration] 상태면, 코인 위력 +1\n[WhenUse] 자신의 체력이 75%미만이면, [OwnTime]을 50소모하여, 합 위력 +2\nEN:\nWhen in [TimeAcceleration] state, Coin Power +1\n[DefeatDuel] At 75%- HP, consume 50 [OwnTime] and gain Clash Power +2 (once per turn)"
   },
@@ -302,10 +302,10 @@
   },
   {
     "key": "827805-levelList[0].desc",
-    "original": "[CantDuel]\n自分に攻撃スキルを使用した対象へ、次のターンに[TimeKillerWatch]付与\n[StartBattle] [OwnTime]200を消耗。次のターンに[TimeAcceleration]を得る)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[CantDuel]\n自分に攻撃スキルを使用した対象へ、次のターンに[TimeKillerWatch]付与\n[StartBattle] [OwnTime]200を消耗。次のターンに[TimeAcceleration]を得る)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[CantDuel]\n自分に攻撃スキルを使用した対象へ、次のターンに[TimeKillerWatch]付与\n[StartBattle] [OwnTime]200を消耗。次のターンに[TimeAcceleration]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantDuel]\n自分に攻撃スキルを使用した対象へ、次のターンに[TimeKillerWatch]付与\n[StartBattle] [OwnTime]200を消耗。次のターンに[TimeAcceleration]を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[CantDuel]\n자신에게 공격 스킬을 사용한 대상에게 다음 턴에 [TimeKillerWatch] 부여\n[StartBattle] [OwnTime] 200 소모. 다음 턴에 [TimeAcceleration]을 얻음)\nEN:\n[CantDuel]\nInflict [TimeKillerWatch] against the target that used an Attack Skill against this unit\n[StartBattle] Consume 200 [OwnTime] and gain [TimeAcceleration] next turn)"
+    "context": "KR:\n[CantDuel]\n자신에게 공격 스킬을 사용한 대상에게 다음 턴에 [TimeKillerWatch] 부여\n[StartBattle] [OwnTime] 200 소모. 다음 턴에 [TimeAcceleration]을 얻음\nEN:\n[CantDuel]\nInflict [TimeKillerWatch] against the target that used an Attack Skill against this unit\n[StartBattle] Consume 200 [OwnTime] and gain [TimeAcceleration] next turn"
   },
   {
     "key": "827806-levelList[0].name",
@@ -318,7 +318,7 @@
     "key": "827806-levelList[0].desc",
     "original": "[WhenUse] 全部位が保有した[OwnTime]の合計が100につき、基本威力 +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "[WhenUse] 全部位が保有した[OwnTime]の合計が100につき、基本威力 +1\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[WhenUse] 모든 부위가 보유한 [OwnTime]의 합 100 당, 기본 위력 +1\nEN:\n[WhenUse] Base Power +1 for every 100 sum of [OwnTime] across all Parts"
   },
   {

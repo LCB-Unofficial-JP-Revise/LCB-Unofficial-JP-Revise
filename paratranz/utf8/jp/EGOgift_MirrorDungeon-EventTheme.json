@@ -589,8 +589,8 @@
   },
   {
     "key": "9723-desc",
-    "original": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]の数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン終了時、速度が最も高い敵1名に次のターンに[Binding]1を付与(幻想体の場合は部位1つ)\n\n対象が[Vibration]または特殊振動を保有している場合、効果が強化され[Binding]2を付与\n\n味方が[Binding]を保有する対象を攻撃するとき、与ダメージ量 +(5 + [[Binding]の数値 × 2.5])%(最大15%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 종료 시, 속도가 제일 빠른 적 1명에게 다음 턴에 [Binding] 1 부여 (환상체일 경우, 부위 하나).\n\n대상이 [Vibration] 또는 특수 진동을 보유한 경우, 효과가 강화되어 [Binding] 2 부여.\n\n아군이 [Binding]을 보유한 대상을 공격할 때, 가하는 피해량 +(5 + [[Binding] 수치x2.5])% (최대 15%).\nEN:\nTurn End: Inflict 1 [Binding] to the fastest enemy next turn. (for Abnormalities, a Part)\n\nIf the target has [Vibration] or 'Unique Tremor', inflict 2 [Binding] instead.\n\nWhen an ally attacks targets with [Binding], deal +(5 + (2.5 x [Binding] value)) more damage. (max 15%)"
   },
@@ -603,8 +603,8 @@
   },
   {
     "key": "9723-simpleDesc[1].simpleDesc",
-    "original": "与ダメージ量 +(5 + [[Binding]数値 × 2.5])%\n<CMT_KR>\n<CMT_JP>",
-    "translation": "与ダメージ量 +(5 + [[Binding]数値 × 2.5])%\n<CMT_KR>\n<CMT_JP>",
+    "original": "与ダメージ量 +(5 + [[Binding]の数値 × 2.5])%\n<CMT_KR>\n<CMT_JP>",
+    "translation": "与ダメージ量 +(5 + [[Binding]の数値 × 2.5])%\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n가하는 피해량 +(5 + [[Binding] 수치x2.5])%\nEN:\nDeal +(5 + (2.5 x [Binding] value)) more damage"
   },

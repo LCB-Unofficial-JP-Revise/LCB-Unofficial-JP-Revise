@@ -5006,8 +5006,8 @@
   },
   {
     "key": "GlowingLantern-desc",
-    "original": "- 最大値5\n- ターン開始時、操作パネルの最左方のスロットが挑発値10を得る\n- 自分が受けるダメージ量 +50%\n- 被ダメージ時、対象へ破裂1を付与(対象のスキルごとに最大3回)\n· 自分の現体力が最大値の50%未満なら、破裂1を追加で付与\n· 対象の破裂威力が15以上なら、この効果で破裂を付与しない\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大値5\n- ターン開始時、操作パネルの最左方のスロットが挑発値10を得る\n- 自分が受けるダメージ量 +50%\n- 被ダメージ時、対象へ破裂1を付与(対象のスキルごとに最大3回)\n· 自分の現体力が最大値の50%未満なら、破裂1を追加で付与\n· 対象の破裂威力が15以上なら、この効果で破裂を付与しない\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大値5\n- ターン開始時、操作パネルの最左端のスロットが挑発値10を得る\n- 自分が受けるダメージ量 +50%\n- 被ダメージ時、対象へ破裂1を付与(対象のスキルごとに最大3回)\n・自分の現体力が最大値の50%未満なら、破裂1を追加で付与\n・対象の破裂威力が15以上なら、この効果で破裂を付与しない\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値5\n- ターン開始時、操作パネルの最左端のスロットが挑発値10を得る\n- 自分が受けるダメージ量 +50%\n- 被ダメージ時、対象へ破裂1を付与(対象のスキルごとに最大3回)\n・自分の現体力が最大値の50%未満なら、破裂1を追加で付与\n・対象の破裂威力が15以上なら、この効果で破裂を付与しない\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 최댓값 5\n- 턴 시작 시 조작 패널에서 가장 왼쪽 슬롯이 도발치 10 얻음\n- 자신의 받는 피해량 + 50%\n- 피격 시 대상에게 파열 1 부여 (대상의 스킬당 최대 3회)\n· 자신의 체력이 최대 체력의 50% 미만이면, 파열 1 추가 부여\n· 대상의 파열 위력이 15 이상이면, 이 효과로 파열을 부여하지 않음\n- 턴 종료 시 1 감소\nEN:\n- Max Stack: 5\n- Turn Start: leftmost Slot on the Dashboard gains +10 Aggro\n- Take +50% damage\n- When hit, inflict 1 Rupture against the Attacker (3 times per target's Skill)\n· At less than 50% HP, inflict 1 additional Rupture\n· If the target has 15+ Rupture, this effect does not inflict Rupture\n- Reduced by 1 at Turn End"
   },
@@ -5447,8 +5447,8 @@
   },
   {
     "key": "DragonLance-desc",
-    "original": "基本値: 0\n最大値: 3\n- 自分の操作パネルの最も左にある基本攻撃スキルが破壊不能コインになる\n- ターン開始時、数値1につき攻撃レベル増加2, 防御レベル減少2を得る\n- ターン開始時に数値が3以上なら、汚血 1を得る (戦闘につき1回)\n- ターン終了時に1増加\n※上記の効果のみで数値を増加可能\n- 死亡、退却時に除去される\n\n- このターンに体力が0になるダメージを受ければ、このターンの間体力が1未満にならず、ダメージによる混乱状態を解除\n以降、該当ターンの間ダメージで混乱・死亡せず、該当ターンの最後の番にスキル「汚血泣涙 - 終」を使用する。該当スキル終了時に埋花櫼 を除去\nターン終了時に体力が1になるダメージを受けた場合、次のターンに速度順で「汚血泣涙 - 終」を使用する。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "基本値: 0\n最大値: 3\n- 自分の操作パネルの最も左にある基本攻撃スキルが破壊不能コインになる\n- ターン開始時、数値1につき攻撃レベル増加2, 防御レベル減少2を得る\n- ターン開始時に数値が3以上なら、汚血 1を得る (戦闘につき1回)\n- ターン終了時に1増加\n※上記の効果のみで数値を増加可能\n- 死亡、退却時に除去される\n\n- このターンに体力が0になるダメージを受ければ、このターンの間体力が1未満にならず、ダメージによる混乱状態を解除\n以降、該当ターンの間ダメージで混乱・死亡せず、該当ターンの最後の番にスキル「汚血泣涙 - 終」を使用する。該当スキル終了時に埋花櫼 を除去\nターン終了時に体力が1になるダメージを受けた場合、次のターンに速度順で「汚血泣涙 - 終」を使用する。\n<CMT_KR>\n<CMT_JP>",
+    "original": "基本値: 0\n最大値: 3\n- 自分の操作パネル最左端の基本攻撃スキルが破壊不能コインになる\n- ターン開始時、数値1につき攻撃レベル増加2, 防御レベル減少2を得る\n- ターン開始時に数値が3以上なら、汚血 1を得る (戦闘につき1回)\n- ターン終了時に1増加\n※上記の効果のみで数値を増加可能\n- 死亡、退却時に除去される\n\n- このターンに体力が0になるダメージを受ければ、このターンの間体力が1未満にならず、ダメージによる混乱状態を解除\n以降、該当ターンの間ダメージで混乱・死亡せず、該当ターンの最後の番にスキル「汚血泣涙 - 終」を使用する。該当スキル終了時に埋花櫼 を除去\nターン終了時に体力が1になるダメージを受けた場合、次のターンに速度順で「汚血泣涙 - 終」を使用する。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "基本値: 0\n最大値: 3\n- 自分の操作パネル最左端の基本攻撃スキルが破壊不能コインになる\n- ターン開始時、数値1につき攻撃レベル増加2, 防御レベル減少2を得る\n- ターン開始時に数値が3以上なら、汚血 1を得る (戦闘につき1回)\n- ターン終了時に1増加\n※上記の効果のみで数値を増加可能\n- 死亡、退却時に除去される\n\n- このターンに体力が0になるダメージを受ければ、このターンの間体力が1未満にならず、ダメージによる混乱状態を解除\n以降、該当ターンの間ダメージで混乱・死亡せず、該当ターンの最後の番にスキル「汚血泣涙 - 終」を使用する。該当スキル終了時に埋花櫼 を除去\nターン終了時に体力が1になるダメージを受けた場合、次のターンに速度順で「汚血泣涙 - 終」を使用する。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n기본값: 0\n최댓값: 3\n- 자신의 조작 패널에서 가장 왼쪽의 기본 공격 스킬이 파괴 불가 코인이 됨\n- 턴 시작 시 수치당 공격 레벨 증가 2, 방어 레벨 감소 2 얻음\n- 턴 시작 시 수치가 3 이상이면, 오혈 1 얻음 (전투당 1회)\n- 턴 종료 시 1 증가\n※ 위 효과만으로 증가할 수 있음\n- 사망, 퇴각 시 제거됨\n\n- 이번 턴에 체력이 0이 되는 피해를 받으면, 해당 턴 동안 체력이 1 미만으로 감소하지 않고, 피해로 인한 흐트러짐 상태를 해제함.\n이후 해당 턴 동안 피해로 인해 흐트러지거나 사망하지 않고, 해당 턴의 마지막 순서에 '오혈읍루 - 종'스킬을 사용함. 해당 스킬 종료 시 매화첨 제거.\n턴 종료시 체력이 1이 되는 피해를 받은 경우, 다음 턴에 속도에 따라 '오혈읍루 - 종'스킬 사용.\nEN:\nBase Stack: 0\nMax Stack: 3\n- All Coins on this unit's leftmost Base Attack Skill on the Dashboard become Unbreakable Coins\n- Turn Start: gain 2 Offense Level Up and 2 Defense Level Down\n- Turn Start: at 3+ Stack, gain 1 Tarnished Blood (once per Encounter)\n- Turn End: gain 1 Stack\n※ Cannot raise the effect's Stack by any other means than the ones above\n- Expires upon death or Retreat\n\n- When this unit takes damage that brings their HP down to 0: instead of letting this unit's HP drop below 1, or becoming Staggered or Defeated, use the 'Tears of the Tarnished Blood - The End' Skill at the very end of that turn. Remove the Flower-burying Wedge when the Skill ends.\nWhen this unit takes damage that brings their HP down to 1 at Turn End, use 'Tears of the Tarnished Blood - The End' Skill based on this unit's Speed next turn"
   },
@@ -5685,10 +5685,10 @@
   },
   {
     "key": "ChoSuperCharge-desc",
-    "original": "- 最大値 : 100\n- 自分が充電回数を消耗するとき、消耗値だけこのバフ数値が増加\n- 充電回数最大値 +10\n- 味方が充電威力や回数を得るとき、自分の充電回数が1増加\n- 自分のスキルで充電回数を消耗するとき、消耗量だけ追加で1回消耗 (回数が足りなければ、足りない分最大まで消耗)\n- 数値10につき、自分のスキルダメージ量 +10%\n- 数値20につき、自分の攻撃限定で敵の全属性 +0.1 . (最大 +0.5, 混乱状態を除く)\n- このバフを保有した人格が死亡時、現出戦人員のうち編成順が次に高い味方にこのバフが受け継がれ、バフ数値が保たれる\n<CMT_KR>\n<CMT_JP>",
-    "translation": "- 最大値 : 100\n- 自分が充電回数を消耗するとき、消耗値だけこのバフ数値が増加\n- 充電回数最大値 +10\n- 味方が充電威力や回数を得るとき、自分の充電回数が1増加\n- 自分のスキルで充電回数を消耗するとき、消耗量だけ追加で1回消耗 (回数が足りなければ、足りない分最大まで消耗)\n- 数値10につき、自分のスキルダメージ量 +10%\n- 数値20につき、自分の攻撃限定で敵の全属性 +0.1 . (最大 +0.5, 混乱状態を除く)\n- このバフを保有した人格が死亡時、現出戦人員のうち編成順が次に高い味方にこのバフが受け継がれ、バフ数値が保たれる\n<CMT_KR>\n<CMT_JP>",
+    "original": "- 最大値 : 100\n- 自分が充電回数を消耗するとき、消耗値だけこのバフ数値が増加\n- 充電回数最大値 +10\n- 味方が充電威力や回数を得るとき、自分の充電回数が1増加\n- 自分のスキルで充電回数を消耗するとき、消耗量だけ追加で1回消耗 (回数が足りなければ、足りない分最大まで消耗)\n- 数値10につき、自分のスキルダメージ量 +10%\n- 数値20につき、自分の攻撃限定で敵の全属性 +0.1 . (最大 +0.5, 混乱状態を除く)\n- このバフを保有した人格が死亡時、現出戦人員のうち編成順が次に高い味方にこのバフが受け継がれ、バフ数値が保たれる\n- このバフの効果は特殊充電にも適用される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値 : 100\n- 自分が充電回数を消耗するとき、消耗値だけこのバフ数値が増加\n- 充電回数最大値 +10\n- 味方が充電威力や回数を得るとき、自分の充電回数が1増加\n- 自分のスキルで充電回数を消耗するとき、消耗量だけ追加で1回消耗 (回数が足りなければ、足りない分最大まで消耗)\n- 数値10につき、自分のスキルダメージ量 +10%\n- 数値20につき、自分の攻撃限定で敵の全属性 +0.1 . (最大 +0.5, 混乱状態を除く)\n- このバフを保有した人格が死亡時、現出戦人員のうち編成順が次に高い味方にこのバフが受け継がれ、バフ数値が保たれる\n- このバフの効果は特殊充電にも適用される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n- 최대값 : 100\n- 자신이 충전 횟수를 소모할 때, 소모값만큼 이 버프 수치 증가\n- 충전 횟수 최대치 +10\n- 아군이 충전 위력이나 횟수를 얻을 때, 자신의 충전 횟수 1 증가\n- 자신의 스킬로 충전 횟수를 소모할 때, 소모량만큼 추가 1회 소모 (횟수가 부족하면, 부족한 만큼 최대로 소모)\n- 수치 10 당 자신의 스킬 피해량 +10%\n- 수치 20 당, 자신의 공격에 한해 적의 모든 내성 +0.1 . (최대 +0.5. 흐트러짐 상태 제외)\n- 이 버프를 보유한 인격 사망 시, 현재 출전 인원 중 편성 순서가 다음으로 빠른 아군에게 이 버프가 계승되며, 버프 수치가 유지됨\nEN:\n- Max Stack: 100\n- When consuming Charge Count, add the amount consumed to this buff's Stack\n- Max Charge Count Cap +10\n- Gain 1 Charge Count when allies gain Charge Potency or Count\n- When this unit consumes Charge Count with its Skills, consume the same amount of Charge Count 1 more time (when there isn't enough Charge Count, consume as much as available)\n- Deal +10% damage for every 10 Stack\n- Enemies gain +0.1 Resistance against this unit's attacks for every 20 Stack (max +0.5 Resist; does not activate against Staggered enemies)\n- When the Identity with this effect dies, the buff transfers to the ally who is second earliest to this unit in the Deployment order. The Stack carries over as well."
+    "context": "KR:\n- 최대값 : 100\n- 자신이 충전 횟수를 소모할 때, 소모값만큼 이 버프 수치 증가\n- 충전 횟수 최대치 +10\n- 아군이 충전 위력이나 횟수를 얻을 때, 자신의 충전 횟수 1 증가\n- 자신의 스킬로 충전 횟수를 소모할 때, 소모량만큼 추가 1회 소모 (횟수가 부족하면, 부족한 만큼 최대로 소모)\n- 수치 10 당 자신의 스킬 피해량 +10%\n- 수치 20 당, 자신의 공격에 한해 적의 모든 내성 +0.1 . (최대 +0.5. 흐트러짐 상태 제외)\n- 이 버프를 보유한 인격 사망 시, 현재 출전 인원 중 편성 순서가 다음으로 빠른 아군에게 이 버프가 계승되며, 버프 수치가 유지됨\n- 이 버프의 효과는 특수 충전에도 적용됨\nEN:\n- Max Stack: 100\n- When consuming Charge Count, add the amount consumed to this buff's Stack\n- Max Charge Count Cap +10\n- Gain 1 Charge Count when allies gain Charge Potency or Count\n- When this unit consumes Charge Count with its Skills, consume the same amount of Charge Count 1 more time (when there isn't enough Charge Count, consume as much as available)\n- Deal +10% damage for every 10 Stack\n- Enemies gain +0.1 Resistance against this unit's attacks for every 20 Stack (max +0.5 Resist; does not activate against Staggered enemies)\n- When the Identity with this effect dies, the buff transfers to the ally who is second earliest to this unit in the Deployment order. The Stack carries over as well.\n- This effect works on 'Unique Charge' as well."
   },
   {
     "key": "ShareCharge-name",
@@ -5699,10 +5699,10 @@
   },
   {
     "key": "ShareCharge-desc",
-    "original": "現在の全味方が保有する充電回数の合計\n\nスキル的中時のダメージ量 +(現味方の充電回数合計 ÷ 3)%\n味方の充電回数累計消耗量100につき、全味方が攻撃レベル増加1を得る(最大30)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "現在の全味方が保有する充電回数の合計\n\nスキル的中時のダメージ量 +(現味方の充電回数合計 ÷ 3)%\n味方の充電回数累計消耗量100につき、全味方が攻撃レベル増加1を得る(最大30)\n<CMT_KR>\n<CMT_JP>",
+    "original": "現在の全味方が保有する充電回数の合計\n\nスキル的中時のダメージ量 +(現味方の充電回数合計 ÷ 3)%\n味方の充電回数累計消耗量100につき、全味方が攻撃レベル増加1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "現在の全味方が保有する充電回数の合計\n\nスキル的中時のダメージ量 +(現味方の充電回数合計 ÷ 3)%\n味方の充電回数累計消耗量100につき、全味方が攻撃レベル増加1を得る\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n현재 모든 아군이 보유한 충전 횟수의 총합\n\n아군 충전 횟수 누적 소모량: {0}\n\n스킬 적중 시 피해량 +(현재 아군 충전 횟수 총합 / 3)%\n아군 충전 횟수 누적 소모량 100 당, 모든 아군이 공격 레벨 증가 1 얻음 (최대 30)\nEN:\nTotal sum of Charge Count currently owned by all allies\n\nCumulative Charge Count consumed by allies: {0}\n\nOn Hit with a Skill: deal +(sum of charge count on all allies / 3)% damage\nAll allies gain 1 Offense Level Up for every 100 cumulative Charge Count consumed by allies (max 30)"
+    "context": "KR:\n현재 모든 아군이 보유한 충전 횟수의 총합\n\n스킬 적중 시 피해량 +(현재 아군 충전 횟수 총합 / 3)%\n아군 충전 횟수 누적 소모량 100 당, 모든 아군이 공격 레벨 증가 1 얻음\nEN:\nTotal sum of Charge Count currently owned by all allies\n\nOn Hit with a Skill: deal +(sum of charge count on all allies / 3)% damage\nAll allies gain 1 Offense Level Up for every 100 cumulative Charge Count consumed by allies"
   },
   {
     "key": "WaveSinking-name",

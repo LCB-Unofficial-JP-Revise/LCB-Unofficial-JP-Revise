@@ -1,0 +1,926 @@
+[
+  {
+    "key": "122301-levelList[0].name",
+    "original": "溢れ出る絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "溢れ出る絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쏟아지는 절망\nEN:\nCascading Despair"
+  },
+  {
+    "key": "122301-levelList[0].desc",
+    "original": "[WhenUse] 対象に[Sinking]が4以上あるなら、コイン威力 +1\n[WinDuel] 残りコイン数だけ[ColdBlackTear]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Sinking]が4以上あるなら、コイン威力 +1\n[WinDuel] 残りコイン数だけ[ColdBlackTear]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [Sinking]이 4 이상 있으면, 코인 위력 +1\n[WinDuel] 남은 코인 갯수 만큼 [ColdBlackTear] 부여\nEN:\n[WhenUse] If target has 4+ [Sinking], Coin Power +1\n[WinDuel] Inflict [ColdBlackTear] equal to the # of remaining Coins"
+  },
+  {
+    "key": "122301-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122301-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122301-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122302-levelList[0].name",
+    "original": "鋭い涙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "鋭い涙\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n날카로운 눈물\nEN:\nSharp Teardrops"
+  },
+  {
+    "key": "122302-levelList[0].desc",
+    "original": "[WhenUse] 対象に[Sinking]が4以上あるなら、コイン威力 +1\n[WhenUse] 対象の精神力が20以上なら、基本威力 +1\n[WinDuel] 残りコイン数だけ[ColdBlackTear]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象に[Sinking]が4以上あるなら、コイン威力 +1\n[WhenUse] 対象の精神力が20以上なら、基本威力 +1\n[WinDuel] 残りコイン数だけ[ColdBlackTear]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상에게 [Sinking]이 4 이상 있으면, 코인 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 기본 위력 +1\n[WinDuel] 남은 코인 갯수 만큼 [ColdBlackTear] 부여\nEN:\n[WhenUse] If target has 4+ [Sinking], Coin Power +1\n[WhenUse] If target has 20 or higher SP, Base Power +1\n[WinDuel] Inflict [ColdBlackTear] equal to the # of remaining Coins"
+  },
+  {
+    "key": "122302-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122302-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が2増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 2 증가\nEN:\n[OnSucceedAttack] Inflict +2 [Sinking] Count"
+  },
+  {
+    "key": "122302-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122302-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122302-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122302-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122303-levelList[0].name",
+    "original": "流れる絶望の宿った涙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "流れる絶望の宿った涙\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n흐르는 절망 어린 눈물\nEN:\nRiver of Despairing Tears"
+  },
+  {
+    "key": "122303-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、基本威力 +1 (最大2)\n[WhenUse] 対象に[ColdBlackTear]が1以上あれば、コイン威力 +1\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、基本威力 +1 (最大2)\n[WhenUse] 対象に[ColdBlackTear]が1以上あれば、コイン威力 +1\n[DefeatDuel] ダメージ量が80%だけ減少し、このスキルのダメージによって対象が混乱しない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4 당 기본 위력 +1 (최대 2)\n[WhenUse] 대상에게 [ColdBlackTear]이 1 이상 있다면, 코인 위력 +1\n[DefeatDuel] 피해량이 80%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음\nEN:\n[WhenUse] Base Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 1+ [ColdBlackTear], Coin Power +1\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[4].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122303-levelList[0].coinlist[4].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] [ColdBlackTear]1 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[UnBrokenCoinOnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122304-levelList[0].name",
+    "original": "分かち合えば、鈍りゆく哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "分かち合えば、鈍りゆく哀しみ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n나누자 무뎌지는 슬픔\nEN:\nShared Sorrow, Dulled"
+  },
+  {
+    "key": "122304-levelList[0].desc",
+    "original": "[WhenUse] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] [ColdBlackTear] 1 부여\nEN:\n[WhenUse] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122304-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象に[ColdBlackTear]が3以上あれば、[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象に[ColdBlackTear]が3以上あれば、[Vulnerable]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상에게 [ColdBlackTear]이 3 이상 있다면, [Vulnerable] 1 부여\nEN:\n[OnSucceedAttack] If target has 3+ [ColdBlackTear], inflict 1 [Vulnerable]"
+  },
+  {
+    "key": "122305-levelList[0].name",
+    "original": "激しく降り注ぐ虚ろな絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "激しく降り注ぐ虚ろな絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n거세게 쏟아지는 텅 빈 절망\nEN:\nViolent Cascade of Hollow Despair"
+  },
+  {
+    "key": "122305-levelList[0].desc",
+    "original": "[ColdBlackTear]が最も多い対象を優先して攻撃する\n[WhenUse] メインターゲットに[ColdBlackTear]が5以上なら、コイン威力 +5\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ColdBlackTear]が最も多い対象を優先して攻撃する\n[WhenUse] メインターゲットに[ColdBlackTear]が5以上なら、コイン威力 +5\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ColdBlackTear]이 가장 많은 대상을 우선 공격함\n[WhenUse] 메인 대상에게 [ColdBlackTear]이 5 이상 있다면, 코인 위력 +5\nEN:\nPrioritizes targets with the most [ColdBlackTear]\n[WhenUse] If the main target has 5+ [ColdBlackTear], Coin Power +5"
+  },
+  {
+    "key": "122305-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122305-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 対象の体力最大値の([ColdBlackTear]の数値 × 6)%だけ固定ダメージを与え、対象の全[ColdBlackTear]を除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 対象の体力最大値の([ColdBlackTear]の数値 × 6)%だけ固定ダメージを与え、対象の全[ColdBlackTear]を除去\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 대상의 최대 체력의 ([ColdBlackTear] 수치 x 6)%만큼 고정 피해를 주고, 대상의 모든 [ColdBlackTear] 제거\nEN:\n[UnBrokenCoinOnSucceedAttack] Deal fixed damage equal to ([ColdBlackTear] Stack on target x 6)% of target's max HP, then remove all [ColdBlackTear] on target"
+  },
+  {
+    "key": "122306-levelList[0].name",
+    "original": "アルカナ・ティア－・アンド・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・ティア－・アンド・ピアース\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 티어 앤 피어스\nEN:\nArcana: Tear and Pierce"
+  },
+  {
+    "key": "122306-levelList[0].desc",
+    "original": "アルカナ[TabExplain]・スレイブを使用する敵がいて、自分に[CollapsedPride]なければ使用する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ[TabExplain]・スレイブを使用する敵がいて、自分に[CollapsedPride]なければ使用する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나[TabExplain] 슬레이브를 사용하는 적이 있고, 자신에게 [CollapsedPride]가 없으면 사용함\nEN:\nUses this Skill when an enemy uses Arcana[TabExplain] Slave, and when this unit does not have [CollapsedPride]\nCounterattacks only Arcana Slave"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [ColdBlackTear]2 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ColdBlackTear]2 を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ColdBlackTear] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [ColdBlackTear]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[2].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[2].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[3].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[3].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [ColdBlackTear]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [ColdBlackTear] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [ColdBlackTear]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[4].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122306-levelList[0].coinlist[4].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 対象の体力最大値の([ColdBlackTear]の数値 × 6)%だけ固定ダメージを与え、対象の全[ColdBlackTear]を除去 (耐性無視)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の体力最大値の([ColdBlackTear]の数値 × 6)%だけ固定ダメージを与え、対象の全[ColdBlackTear]を除去 (耐性無視)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 최대 체력의 ([ColdBlackTear] 수치 x 6)%만큼 고정 피해를 주고, 대상의 모든 [ColdBlackTear] 제거 (내성 무시)\nEN:\n[OnSucceedAttack] Deal fixed damage equal to ([ColdBlackTear] Stack on target x 6)% of target's max HP, then remove all [ColdBlackTear] on target (ignores Resistances)"
+  },
+  {
+    "key": "122401-levelList[0].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "122401-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122401-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122401-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122402-levelList[0].name",
+    "original": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 긍지\nEN:\nWeathered Pride"
+  },
+  {
+    "key": "122402-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122402-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122402-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122402-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122403-levelList[0].name",
+    "original": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끝없는 절망\nEN:\nEndless Despair"
+  },
+  {
+    "key": "122403-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122403-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122403-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122403-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122403-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122404-levelList[0].name",
+    "original": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검\nEN:\nSword Sharpened with Tears"
+  },
+  {
+    "key": "122404-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +5 (최대 10)\n[WhenUse] 대상에게 [ColdBlackTear]이 있다면, 최종 위력 +1\nEN:\n[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1"
+  },
+  {
+    "key": "122404-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이라면, 다음 턴에 [DefenseDown] (대상의 [Sinking]수치 / 10)만큼 부여 (소수점 버림)\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+  },
+  {
+    "key": "122405-levelList[0].name",
+    "original": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비통이 맺힌 검\nEN:\nSword Laced with Grief"
+  },
+  {
+    "key": "122405-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +3 (최대 6)\n[WhenUse] 대상의 [ColdBlackTear] 1당, 기본 위력 +1 (최대 3)\nEN:\n[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)"
+  },
+  {
+    "key": "122405-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122405-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 최대 체력의 (스킬 위력)%만큼 추가 우울 피해를 줌 (최대 30)\n- 대상에게 [ColdBlackTear]이 2 이상 있을 경우 한번 더 추가 우울 피해를 줌\nEN:\n[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+  },
+  {
+    "key": "122501-levelList[0].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "122501-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122501-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122501-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122502-levelList[0].name",
+    "original": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 긍지\nEN:\nWeathered Pride"
+  },
+  {
+    "key": "122502-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122502-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122502-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122502-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122503-levelList[0].name",
+    "original": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끝없는 절망\nEN:\nEndless Despair"
+  },
+  {
+    "key": "122503-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122503-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122503-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122503-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122503-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122504-levelList[0].name",
+    "original": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검\nEN:\nSword Sharpened with Tears"
+  },
+  {
+    "key": "122504-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +5 (최대 10)\n[WhenUse] 대상에게 [ColdBlackTear]이 있다면, 최종 위력 +1\nEN:\n[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1"
+  },
+  {
+    "key": "122504-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이라면, 다음 턴에 [DefenseDown] (대상의 [Sinking]수치 / 10)만큼 부여 (소수점 버림)\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+  },
+  {
+    "key": "122505-levelList[0].name",
+    "original": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비통이 맺힌 검\nEN:\nSword Laced with Grief"
+  },
+  {
+    "key": "122505-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +3 (최대 6)\n[WhenUse] 대상의 [ColdBlackTear] 1당, 기본 위력 +1 (최대 3)\nEN:\n[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)"
+  },
+  {
+    "key": "122505-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122505-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 최대 체력의 (스킬 위력)%만큼 추가 우울 피해를 줌 (최대 30)\n- 대상에게 [ColdBlackTear]이 2 이상 있을 경우 한번 더 추가 우울 피해를 줌\nEN:\n[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+  },
+  {
+    "key": "122601-levelList[0].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "122601-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122601-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122601-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122602-levelList[0].name",
+    "original": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 긍지\nEN:\nWeathered Pride"
+  },
+  {
+    "key": "122602-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122602-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122602-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122602-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122603-levelList[0].name",
+    "original": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끝없는 절망\nEN:\nEndless Despair"
+  },
+  {
+    "key": "122603-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122603-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122603-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122603-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122603-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122604-levelList[0].name",
+    "original": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검\nEN:\nSword Sharpened with Tears"
+  },
+  {
+    "key": "122604-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +5 (최대 10)\n[WhenUse] 대상에게 [ColdBlackTear]이 있다면, 최종 위력 +1\nEN:\n[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1"
+  },
+  {
+    "key": "122604-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이라면, 다음 턴에 [DefenseDown] (대상의 [Sinking]수치 / 10)만큼 부여 (소수점 버림)\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+  },
+  {
+    "key": "122605-levelList[0].name",
+    "original": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비통이 맺힌 검\nEN:\nSword Laced with Grief"
+  },
+  {
+    "key": "122605-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +3 (최대 6)\n[WhenUse] 대상의 [ColdBlackTear] 1당, 기본 위력 +1 (최대 3)\nEN:\n[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)"
+  },
+  {
+    "key": "122605-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122605-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 최대 체력의 (스킬 위력)%만큼 추가 우울 피해를 줌 (최대 30)\n- 대상에게 [ColdBlackTear]이 2 이상 있을 경우 한번 더 추가 우울 피해를 줌\nEN:\n[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+  },
+  {
+    "key": "122701-levelList[0].name",
+    "original": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "translation": "色褪せた信条\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n빛바랜 믿음\nEN:\nFaded Faith"
+  },
+  {
+    "key": "122701-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122701-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122701-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]2を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 2 부여\nEN:\n[OnSucceedAttack] Inflict 2 [Sinking]"
+  },
+  {
+    "key": "122702-levelList[0].name",
+    "original": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "磨り減ってしまった矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳아버린 긍지\nEN:\nWeathered Pride"
+  },
+  {
+    "key": "122702-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122702-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122702-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122702-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122703-levelList[0].name",
+    "original": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "終わりなき絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n끝없는 절망\nEN:\nEndless Despair"
+  },
+  {
+    "key": "122703-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]4につき、マッチ威力 +1 (最大2)\n[WhenUse] 対象の精神力が10以上なら、基本威力 +1\n[WhenUse] 対象の精神力が20以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 4당 합 위력 +1 (최대 2)\n[WhenUse] 대상의 정신력이 10 이상이라면, 기본 위력 +1\n[WhenUse] 대상의 정신력이 20 이상이라면, 코인 위력 +1\nEN:\n[WhenUse] Clash Power +1 for every 4 [Sinking] on target (max 2)\n[WhenUse] If target has 10 or higher SP, Base Power +1\n[WhenUse] If target has 20 or higher SP, Coin Power +1"
+  },
+  {
+    "key": "122703-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122703-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122703-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]1を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 1 부여\nEN:\n[OnSucceedAttack] Inflict 1 [Sinking]"
+  },
+  {
+    "key": "122703-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking] 횟수 1 증가\nEN:\n[OnSucceedAttack] Inflict +1 [Sinking] Count"
+  },
+  {
+    "key": "122704-levelList[0].name",
+    "original": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검\nEN:\nSword Sharpened with Tears"
+  },
+  {
+    "key": "122704-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +5 (最大10)\n[WhenUse] 対象に[ColdBlackTear]があれば、最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +5 (최대 10)\n[WhenUse] 대상에게 [ColdBlackTear]이 있다면, 최종 위력 +1\nEN:\n[WhenUse] Coin Power +5 for every 6 [Sinking] on target (max 10)\n[WhenUse] If target has [ColdBlackTear], Final Power +1"
+  },
+  {
+    "key": "122704-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の[Sinking]が6以上なら、次のターンに[DefenseDown] (対象の[Sinking]の数値 ÷ 10)だけ付与 (小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 대상의 [Sinking]이 6 이상이라면, 다음 턴에 [DefenseDown] (대상의 [Sinking]수치 / 10)만큼 부여 (소수점 버림)\nEN:\n[OnSucceedAttack] If target has 6+ [Sinking], inflict ([Sinking] on target / 10) [DefenseDown] next turn (rounded down)"
+  },
+  {
+    "key": "122705-levelList[0].name",
+    "original": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悲痛の宿った剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n비통이 맺힌 검\nEN:\nSword Laced with Grief"
+  },
+  {
+    "key": "122705-levelList[0].desc",
+    "original": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の[Sinking]6につき、コイン威力 +3 (最大6)\n[WhenUse] 対象の[ColdBlackTear]1につき、基本威力 +1(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[WhenUse] 대상의 [Sinking] 6당 코인 위력 +3 (최대 6)\n[WhenUse] 대상의 [ColdBlackTear] 1당, 기본 위력 +1 (최대 3)\nEN:\n[WhenUse] Coin Power +3 for every 6 [Sinking] on target (max 6)\n[WhenUse] Base Power +1 for every [ColdBlackTear] Count on target (max 3)"
+  },
+  {
+    "key": "122705-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "122705-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[UnBrokenCoinOnSucceedAttack] 体力最大値の(スキル威力)%だけ追加憂鬱ダメージを与える (最大30)\n- 対象に[ColdBlackTear]が2以上いる場合、もう一度追加で憂鬱ダメージを与える\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[UnBrokenCoinOnSucceedAttack] 최대 체력의 (스킬 위력)%만큼 추가 우울 피해를 줌 (최대 30)\n- 대상에게 [ColdBlackTear]이 2 이상 있을 경우 한번 더 추가 우울 피해를 줌\nEN:\n[UnBrokenCoinOnSucceedAttack] Deal bonus Gloom damage equal to (Skill Power)% of target's max HP (max 30)\n- If target has 2+ [ColdBlackTear], deal bonus Gloom damage again"
+  }
+]

@@ -10,7 +10,7 @@
     "key": "114501-desc",
     "original": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_JP>",
     "translation": "[Combustion]・[Laceration]・[Vibration]・[Burst]・[Sinking]による被ダメージ量 -30%\n\n[BulletPropellant]を消耗するコインをトスするとき、[BulletPropellant]がない場合でも攻撃をキャンセルしない代わりに該当コイン的中時に[Combustion]付与、[Combustion]回数増加が発動しない\n\nマッチ進行時、(1 + マッチを進行した回数 ÷ 3)だけ、対象の[Vibration]回数が増加\n(最大3, 1つの対象へ1ターンにつき最大3回適用)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[Combustion], [Laceration], [Vibration], [Burst], [Sinking]으로 받는 피해량 -30%\n\n[BulletPropellant]을 소모하는 코인을 굴릴 때, [BulletPropellant]이 없는 경우에도 공격을 취소하지 않는 대신 해당 코인의 적중 시 [Combustion] 부여, [Combustion] 횟수 증가 효과가 발동하지 않음\n\n합 진행 시, (1 + 합을 진행한 횟수/3)만큼 대상의 [Vibration] 횟수 증가\n(최대 3, 하나의 대상에게 턴당 최대 3회 적용)\nEN:\nTake -30% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n\nWhen flipping a Coin that consumes [BulletPropellant]: while not having [BulletPropellant] does not cancel this unit's attacks, the Coin's \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIn a Clash, inflict +(1 + (# of Clashes / 3)) [Vibration] Count\n(max 3; 3 times per turn against the same target)"
   },
   {
@@ -120,8 +120,8 @@
   },
   {
     "key": "114510-desc",
-    "original": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_JP>",
+    "original": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]の数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、自分の速度に比例して\n- 数値だけ精神力を回復。精神力が0未満なら回復量が2倍になる\n- (数値 ÷ 3)だけ[SlashDamageUp]を得る (最大5)\n\n戦闘開始時、自分が[Binding]を3以上保有しているなら上記の効果が発動せず、保有している[Binding]の数値だけ[DefenseDown]を得る (最大9)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n전투 시작 시 자신의 속도에 비례하여,\n- 수치만큼 정신력을 회복. 정신력이 0 미만이면 회복 수치가 2배로 적용됨\n- (수치/3)만큼 [SlashDamageUp] 얻음 (최대 5)\n\n전투 시작 시 자신이 [Binding]을 3 이상 보유하였다면 위의 효과가 발동하지 않고, 보유한 [Binding] 수치만큼 [DefenseDown] 얻음 (최대 9)\nEN:\nCombat Start: based on this unit's Speed value,\n- Heal SP equal to Speed value. At less than 0 SP, double the heal amount\n- Gain (Speed Value / 3) [SlashDamageUp] (max 5)\n\nEncounter Start: if this unit has 3+ [Binding], the above effect does not activate; gain [DefenseDown] equal to [Binding] on self (max 9)"
   },
@@ -288,8 +288,8 @@
   },
   {
     "key": "114601-desc",
-    "original": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "original": "体力が最大値の50%未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の50%未満にならない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 50% 미만으로 감소하지 않음\nEN:\nHP does not drop below 50%"
   },
@@ -414,8 +414,8 @@
   },
   {
     "key": "115204-desc",
-    "original": "体力が最大値の85%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力が最大値の85%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "original": "体力が最大値の85%未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の85%未満にならない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 85% 미만으로 감소하지 않음\nEN:\nHP does not drop below 85%"
   },
@@ -428,8 +428,8 @@
   },
   {
     "key": "115205-desc",
-    "original": "体力が最大値の65%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力が最大値の65%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "original": "体力が最大値の65%未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の65%未満にならない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 65% 미만으로 감소하지 않음\nEN:\nHP does not drop below 65%"
   },
@@ -442,8 +442,8 @@
   },
   {
     "key": "115206-desc",
-    "original": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力が最大値の50%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "original": "体力が最大値の50%未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の50%未満にならない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 50% 미만으로 감소하지 않음\nEN:\nHP does not drop below 50%"
   },
@@ -484,8 +484,8 @@
   },
   {
     "key": "115209-desc",
-    "original": "体力が最大値の20%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
-    "translation": "体力が最大値の20%未満に下がらない\n<CMT_KR>\n<CMT_JP>",
+    "original": "体力が最大値の20%未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力が最大値の20%未満にならない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n체력이 최대 체력의 20% 미만으로 감소하지 않음\nEN:\nHP does not drop below 20%"
   },

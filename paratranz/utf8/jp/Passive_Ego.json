@@ -176,8 +176,8 @@
   },
   {
     "key": "2050311-desc",
-    "original": "操作パネルの一番左のスキルでマッチ勝利時、次のターンにてランダムな味方に攻撃威力増加 あるいは守備威力増加 1を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "操作パネルの一番左のスキルでマッチ勝利時、次のターンにてランダムな味方に攻撃威力増加 あるいは守備威力増加 1を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "操作パネル最左端のスキルでマッチ勝利時、次のターンにてランダムな味方に攻撃威力増加 あるいは守備威力増加 1を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "操作パネル最左端のスキルでマッチ勝利時、次のターンにてランダムな味方に攻撃威力増加 あるいは守備威力増加 1を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조작 패널에서 가장 왼쪽의 스킬로 합 승리 시 다음 턴에 무작위 아군에게 공격 위력 증가 또는 수비 위력 증가 1 부여\nEN:\nAfter winning a clash with the leftmost skill on the Dashboard, apply 1 Attack Power Up or Defense Power Up to a random ally next turn."
   },
@@ -204,8 +204,8 @@
   },
   {
     "key": "2060211-desc",
-    "original": "操作パネルの一番左にあるスキルで攻撃する対象へ\n攻撃が終わったとき、次のターンに(色欲完全共鳴数÷4)色欲脆弱 を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "操作パネルの一番左にあるスキルで攻撃する対象へ\n攻撃が終わったとき、次のターンに(色欲完全共鳴数÷4)色欲脆弱 を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "操作パネル最左端のスキルで攻撃する対象へ攻撃終了時、\n次のターンに(色欲完全共鳴数 ÷ 4)だけ色欲脆弱 を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "操作パネル最左端のスキルで攻撃する対象へ攻撃終了時、\n次のターンに(色欲完全共鳴数 ÷ 4)だけ色欲脆弱 を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n조작 패널에서 가장 왼쪽의 스킬로 공격하는 대상에게 공격 종료 시 \n다음 턴에 (색욕 완전 공명 수/4)만큼 색욕 취약 부여\nEN:\nThe target of the leftmost skill on the Dashboard is inflicted with (Lust A-Reson. / 4) Lust Fragility next turn."
   },
@@ -232,8 +232,8 @@
   },
   {
     "key": "2070211-desc",
-    "original": "敵を倒したとき、そのターンの(嫉妬完全共鳴数÷2)だけ充電 回数を増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "敵を倒したとき、そのターンの(嫉妬完全共鳴数÷2)だけ充電 回数を増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "敵を倒したとき、そのターンの(嫉妬完全共鳴数÷2)だけ充電 回数が増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "敵を倒したとき、そのターンの(嫉妬完全共鳴数÷2)だけ充電 回数が増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n적 처치 시 해당 턴의 (질투 완전 공명 수/2)만큼 충전 횟수 증가\nEN:\nAfter defeating an enemy, gain Charge Count by half that turn’s Envy A-Reson.\n(Envy A-Reson. / 2)"
   },
@@ -694,8 +694,8 @@
   },
   {
     "key": "2050511-desc",
-    "original": "操作パネルで一番左に置かれた自分のスキルの基本威力が1減少。コイン威力が2増加\nターン開始時に速度が4以下なら、打撃威力増加 1を得る。\n<CMT_KR>\n<CMT_JP>",
-    "translation": "操作パネルで一番左に置かれた自分のスキルの基本威力が1減少。コイン威力が2増加\nターン開始時に速度が4以下なら、打撃威力増加 1を得る。\n<CMT_KR>\n<CMT_JP>",
+    "original": "操作パネルで最左端に置かれた自分のスキルの基本威力が1減少。コイン威力が2増加\nターン開始時に速度が4以下なら、打撃威力増加 1を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "操作パネルで最左端に置かれた自分のスキルの基本威力が1減少。コイン威力が2増加\nターン開始時に速度が4以下なら、打撃威力増加 1を得る。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 조작 패널에서 가장 왼쪽에 위치한 스킬의 기본 위력 1 감소. 코인 위력 2 증가\n턴 시작 시 속도가 4 이하면, 타격 위력 증가 1을 얻음.\nEN:\nThis unit's leftmost skill on the Dashboard loses 1 Base Power and gains 2 Coin Power\nAt the start of the turn, if at 4- Speed, gain 1 Blunt Power Up"
   },
@@ -967,8 +967,8 @@
   },
   {
     "key": "2090611-desc",
-    "original": "自分のスキルパネルにて、最左方に位置するスキルの[Laceration]威力付与量が2倍になる(1ターンにつき1回適用)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分のスキルパネルにて、最左方に位置するスキルの[Laceration]威力付与量が2倍になる(1ターンにつき1回適用)\n<CMT_KR>\n<CMT_JP>",
+    "original": "自分のスキルパネルにて、最左端に位置するスキルの[Laceration]威力付与量が2倍になる(1ターンにつき1回適用)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分のスキルパネルにて、最左端に位置するスキルの[Laceration]威力付与量が2倍になる(1ターンにつき1回適用)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신의 스킬 패널에서 가장 왼쪽에 위치한 스킬의 [Laceration] 위력 부여량이 2배로 증가 (턴 당 1회 적용)\nEN:\nThis unit's leftmost Skill on the Dashboard inflicts double the [Laceration] Potency (once per turn)"
   },
@@ -990,7 +990,7 @@
     "key": "2060611-desc",
     "original": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
     "translation": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[AttackDown]1, [DefenseDown]2を付与。(1ターンにつき最大3回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [AttackDown] 1, [DefenseDown] 2 부여. (턴 당 최대 3회, E.G.O 스킬 포함)\nEN:\nWhen this unit uses a Skill to trigger [VibrationExplosion] on an enemy, inflict 1 [AttackDown] and 2 [DefenseDown] on the enemy next turn. (3 times per turn, including E.G.O Skills)"
   },
   {
@@ -1032,7 +1032,7 @@
     "key": "2020611-desc",
     "original": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
     "translation": "自分が敵へスキルを使用して[VibrationExplosion]付与時、次のターンに[Agility]1を得る。(1ターンにつき最大4回、E.G.Oスキルを含む)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n자신이 적에게 스킬을 사용하여 [VibrationExplosion] 부여 시, 다음 턴에 [Agility] 1 얻음 (턴 당 최대 4회, E.G.O 스킬 포함)\nEN:\nWhen this unit uses a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)"
   },
   {
@@ -1384,5 +1384,19 @@
     "translation": "- ターン終了時、このターンに自分がマイナス効果を保有しているか自分の体力や精神力が減少したなら、精神力を5回復。\n- 味方や自分が死亡した場合、次のターンに全ての敵へ[Vulnerable]1を付与 (1ターンにつき最大1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n- 턴 종료시, 이번 턴에 자신이 부정적인 효과를 보유했거나 자신의 체력이나 정신력이 감소했으면 정신력 5 회복.\n- 아군이나 자신이 사망한 경우 다음 턴에 모든 적에게 [Vulnerable] 1 부여 (턴 당 최대 1회)\nEN:\n- Turn End: If this unit had a negative effect or lost its HP or SP, heal 5 SP.\n- If this unit or an ally is defeated, inflict 1 [Vulnerable] to all enemies next turn (once per turn)"
+  },
+  {
+    "key": "2030911-name",
+    "original": "アルカナ適性回路\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ適性回路\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 적성 회로\nEN:\nArcana Aptitude Circuit"
+  },
+  {
+    "key": "2030911-desc",
+    "original": "戦闘中に累計で[Charge]回数を10消耗するたび、[Charge]を1得る\n- 既に自分の[Charge]回数を消耗して[Charge]を得ているなら、重複しない\n- 自分の[Charge]1につき、自分の[Charge]回数を消耗する基本攻撃スキルのダメージ量 +5% (最大25%)\n\nロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、スキル3が1つ追加される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中に累計で[Charge]回数を10消耗するたび、[Charge]を1得る\n- 既に自分の[Charge]回数を消耗して[Charge]を得ているなら、重複しない\n- 自分の[Charge]1につき、自分の[Charge]回数を消耗する基本攻撃スキルのダメージ量 +5% (最大25%)\n\nロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、スキル3が1つ追加される\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 누적으로 [Charge] 횟수를 10 소모할 때마다, [Charge] 1 얻음\n- 이미 자신의 [Charge] 횟수를 소모하여 [Charge]을 얻고 있다면, 중복되지 않음\n- 자신의 [Charge]당 자신의 [Charge] 횟수를 소모하는 기본 공격 스킬의 피해량 +5% (최대 25%)\n\n로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, 스킬 3이 1개 추가됨\nEN:\nGain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count\n- If this unit already gains [Charge] by consuming [Charge] Count on self, this effect does not stack with that effect\n- This unit's Base Attack Skills that consume [Charge] Count: deal +5% damage for every [Charge] on self (max 25%)\n\nIf this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 additional Skill 3 use"
   }
 ]

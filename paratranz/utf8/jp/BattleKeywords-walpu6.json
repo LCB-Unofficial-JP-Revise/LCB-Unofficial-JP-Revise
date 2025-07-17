@@ -1,0 +1,380 @@
+[
+  {
+    "key": "ColdBlackTear-name",
+    "original": "黒く冷たい涙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "黒く冷たい涙\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n차갑고 검은 눈물\nEN:\nCold, Black Tears"
+  },
+  {
+    "key": "ColdBlackTear-desc",
+    "original": "- 最大値: 5\n- ターン開始時にマッチ威力減少1を得る\n- この効果を持つ状態で被ダメージ時、精神力が(スタック × 2)だけ減少する (1ターンにつき1回、的中したコインが破壊されているなら発動しない)\n- この効果が憎しみの女王によって減少したなら、精神力が5回復\n- この効果が精神力が減少しても -40以下にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 5\n- ターン開始時にマッチ威力減少1を得る\n- この効果を持つ状態で被ダメージ時、精神力が(スタック × 2)だけ減少する (1ターンにつき1回、的中したコインが破壊されているなら発動しない)\n- この効果が憎しみの女王によって減少したなら、精神力が5回復\n- この効果が精神力が減少しても -40以下にならない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 5\n- 턴 시작시 합 위력 감소 1 얻음\n- 이 효과가 있는 상태로 피격 시 정신력이 (스택 x 2)만큼 감소함 (턴 당 1회, 적중한 코인이 파괴되었다면 발동 하지 않음)\n- 이 효과가 증오의 여왕에 의해 감소되었다면, 정신력 5 회복\n- 이 효과로 감소하는 정신력은 -40 이하로 내려가지 않음\nEN:\n- Max Stack: 5\n- Turn Start: gain 1 Clash Power Down\n- If this unit is hit while it has this effect, lose (Stack x 2) SP (once per turn; does not activate when hit by a Cracked Coin)\n- If Queen of Hatred reduced this effect, heal 5 SP\n- This effect cannot reduce this unit's SP below -40"
+  },
+  {
+    "key": "HelplessTear-name",
+    "original": "無力な涙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "無力な涙\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무력한 눈물\nEN:\nHelpless Tears"
+  },
+  {
+    "key": "HelplessTear-desc",
+    "original": "- 最大値: 1\n- 攻撃レベル増加3\n- 防御レベル減少6\n- 全スキルの加重値が1増加\n- 全スキルが破壊不能コインになる\n- 沈潜威力および回数の付与量が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 1\n- 攻撃レベル増加3\n- 防御レベル減少6\n- 全スキルの加重値が1増加\n- 全スキルが破壊不能コインになる\n- 沈潜威力および回数の付与量が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 1\n- 공격 레벨 증가 3\n- 방어 레벨 감소 6\n- 모든 스킬의 가중치가 1 늘어남\n- 모든 스킬이 파괴 불가 코인이 됨\n- 침잠 위력 및 횟수 부여량 1 증가\nEN:\n- Max Stack: 1\n- Gain 3 Offense Levels\n- Lose 6 Defense Levels\n- All Skills gain +1 Atk Weight\n- All Skills become Unbreakable Coins\n- Inflict +1 more Sinking Potency and Count"
+  },
+  {
+    "key": "WornOutKnight-name",
+    "original": "摩り切れた騎士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "摩り切れた騎士\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n닳디 닳은 기사\nEN:\nWeathered Knight"
+  },
+  {
+    "key": "WornOutKnight-desc",
+    "original": "このターンの間、被ダメージ量 +100%<i>\n\n<color=#2e72b9>他の者を救うことで自らを救いたかった騎士は、今や絶望の騎士という不名誉な名で呼ばれたまま、他の者たちと同じく人々の記憶から消えていった。</color></i>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このターンの間、被ダメージ量 +100%<i>\n\n<color=#2e72b9>他の者を救うことで自らを救いたかった騎士は、今や絶望の騎士という不名誉な名で呼ばれたまま、他の者たちと同じく人々の記憶から消えていった。</color></i>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이번 턴 동안 받는 피해량 +100%<i>\n\n&lt;color=#2e72b9&gt;다른 이를 구함으로써 스스로를 구하고 싶었던 기사는, 이제 절망의 기사라는 불명예로 불리운 채, 다른 이들과 마찬가지로 사람들의 기억 속에서 사라져갔다.&lt;/color&gt;</i>\nEN:\nTake +100% damage for this turn\n\n&lt;color=#2e72b9&gt;<i>The knight who wanted to redeem herself by saving others was now dishonorably called the Knight of Despair; forgotten from the people's memory, just like the others.</i>&lt;/color&gt;"
+  },
+  {
+    "key": "SignOfDespair-name",
+    "original": "絶望の加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望の加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망의 가호\nEN:\nBlessing of Despair"
+  },
+  {
+    "key": "SignOfDespair-desc",
+    "original": "攻撃終了時に黒く冷たい涙を持たない対象がいる場合、次のターンに解除される\n\nマッチ威力増加1, ダメージ量増加1を得る\n黒く冷たい涙の付与量が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃終了時に黒く冷たい涙を持たない対象がいる場合、次のターンに解除される\n\nマッチ威力増加1, ダメージ量増加1を得る\n黒く冷たい涙の付与量が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 종료 시 차갑고 검은 눈물이 없는 대상이 있을 경우, 다음 턴에 해제됨\n\n합 위력 증가 1, 피해량 증가 1 얻음\n차갑고 검은 눈물 부여량 1 증가\nEN:\nAfter Attack: if there are targets without Cold, Black Tears, removes this effect next turn\n\nGain 1 Clash Power Up and 1 Damage Up\nInflict +1 more Cold, Black Tears"
+  },
+  {
+    "key": "CollapsedPride-name",
+    "original": "崩れ落ちた矜持\n<CMT_KR>\n<CMT_JP>",
+    "translation": "崩れ落ちた矜持\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n무너져 내린 긍지\nEN:\nCrumbled Pride"
+  },
+  {
+    "key": "CollapsedPride-desc",
+    "original": "<i><color=#2e72b9>残るは摩り切れた騎士という、見窄(みすぼ)らしい矜持がひとつのみ。</color></i>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<i><color=#2e72b9>残るは摩り切れた騎士という、見窄(みすぼ)らしい矜持がひとつのみ。</color></i>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n<i>&lt;color=#2e72b9&gt;남은 건 닳디 닳은 기사라는 볼품없는 긍지 하나뿐이다.&lt;/color&gt;</i>\nEN:\n<i>&lt;color=#2e72b9&gt;All that remains is the hollow pride of a weathered knight.&lt;/color&gt;</i>"
+  },
+  {
+    "key": "FailedToAssistQueen-name",
+    "original": "私は…何の役…に？\n<CMT_KR>\n<CMT_JP>",
+    "translation": "私は…何の役…に？\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n내가… 무슨 쓸모…야?\nEN:\nWhat use... am I...?"
+  },
+  {
+    "key": "FailedToAssistQueen-desc",
+    "original": "- 最大値: 1\n- 攻撃レベル減少3\n- 防御レベル減少3\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 1\n- 攻撃レベル減少3\n- 防御レベル減少3\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 1\n- 공격 레벨 감소 3\n- 방어 레벨 감소 3\nEN:\n- Max Stack: 1\n- Lose 3 Offense Levels\n- Lose 3 Defense Levels"
+  },
+  {
+    "key": "UsedTooMuchPower-name",
+    "original": "力を使い過ぎたみたい\n<CMT_KR>\n<CMT_JP>",
+    "translation": "力を使い過ぎたみたい\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n힘을 너무 많이 썼나봐\nEN:\nI used too much power"
+  },
+  {
+    "key": "UsedTooMuchPower-desc",
+    "original": "- 最大値: 1\n- ターン終了時に戦闘から離脱する\n\n<i><color=#ff3d8f>力尽きて動くことが出来ない</color></i>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 1\n- ターン終了時に戦闘から離脱する\n\n<i><color=#ff3d8f>力尽きて動くことが出来ない</color></i>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 1\n- 턴 종료 시 전투에서 이탈함\n\n<i>&lt;color=#ff3d8f&gt;힘이 다해 움직일 수 없다&lt;/color&gt;</i>\nEN:\n- Max Stack: 1\n- Turn End: escapes from the Encounter\n\n<i>&lt;color=#ff3d8f&gt;Exhausted and unable to move.&lt;/color&gt;</i>"
+  },
+  {
+    "key": "ChasingArcana-name",
+    "original": "詠唱 - アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "詠唱 - アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영창 - 아르카나 슬레이브\nEN:\nChanting - Arcana Slave"
+  },
+  {
+    "key": "ChasingArcana-desc",
+    "original": "- 最大値: 3\n- ターン開始時に1増加\n- スタックが3になると、次のターンに速度20を得てアルカナ・スレイブを使用する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 3\n- ターン開始時に1増加\n- スタックが3になると、次のターンに速度20を得てアルカナ・スレイブを使用する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 3\n- 턴 시작 시 1 증가\n- 스택이 3이 되면, 다음 턴에 속도 20을 얻고 아르카나 슬레이브를 사용함\nEN:\n- Max Stack: 3\n- Gain 1 at Turn Start\n- At 3 Stack, gains 20 Speed and uses ARCANA SLAVE next turn"
+  },
+  {
+    "key": "PowerOfLoveAndJustice-name",
+    "original": "愛/正義\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛/正義\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑/정의\nEN:\nLove/Justice"
+  },
+  {
+    "key": "PowerOfLoveAndJustice-desc",
+    "original": "- 威力1につき破裂威力付与量が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 威力1につき破裂威力付与量が1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 위력 당 파열 위력 부여량 1 증가\nEN:\n- For every Stack, inflict +1 more Rupture Potency"
+  },
+  {
+    "key": "CentralCommandTeamCaptain-name",
+    "original": "中央本部チームチーフ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "中央本部チームチーフ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙본부팀 팀장\nEN:\nCentral Command Team Captain"
+  },
+  {
+    "key": "CentralCommandTeamCaptain-desc",
+    "original": "- 該当キャラクターのスロット +1, スキル1の数 -1, スキル3の数 +1\n- 自分がスキルで火傷・出血・破裂・沈潜・振動威力を付与するとき、付与値 +1 (特殊状態異常を含む)\n- 自分がスキルで呼吸威力・充電回数(特殊充電を含む)を得るとき、獲得値 +1\n- パニックおよび侵蝕状態を無視して、次のターンに精神力が0になる (戦闘につき1回)\n- 攻撃加重値が2以上の基本スキルのダメージ量 +30%\n- 敵討伐時、敵を倒した属性のE.G.O資源 +2, 全属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 該当キャラクターのスロット +1, スキル1の数 -1, スキル3の数 +1\n- 自分がスキルで火傷・出血・破裂・沈潜・振動威力を付与するとき、付与値 +1 (特殊状態異常を含む)\n- 自分がスキルで呼吸威力・充電回数(特殊充電を含む)を得るとき、獲得値 +1\n- パニックおよび侵蝕状態を無視して、次のターンに精神力が0になる (戦闘につき1回)\n- 攻撃加重値が2以上の基本スキルのダメージ量 +30%\n- 敵討伐時、敵を倒した属性のE.G.O資源 +2, 全属性のE.G.O資源 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 해당 캐릭터의 슬롯 +1, 1스킬 수량 -1, 3스킬 수량 +1\n- 자신이 스킬로 화상, 출혈, 파열, 침잠, 진동 위력을 부여할 때, 부여값 +1 (특수 상태이상 포함)\n- 자신이 스킬로 호흡 위력, 충전 횟수(특수 충전 포함)를 얻을 때, 획득값 +1\n- 패닉 및 침식 상태를 무시하고, 다음 턴에 정신력 0이 됨 (전투 당 1회)\n- 공격 가중치가 2 이상인 기본 스킬의 피해량 +30%\n- 적 처치시 적을 처치한 속성의 EGO 자원 +2, 모든 속성의 EGO 자원 +1\nEN:\n- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- Increase the amount of Burn, Bleed, Rupture, Sinking, or Tremor Potency inflicted with Skills by +1 (including 'Unique Status Effects')\n- Increase the amount of Poise Potency or Charge Count(including 'Unique Charge') gained from Skills by +1\n- Instead of Panicking or Corroding, reset SP to 0 next turn (once per Encounter)\n- Base Attack Skills with 2+ Atk Weight deal +30% damage\n- On Kill, Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities"
+  },
+  {
+    "key": "BestWelfareTeamMember-name",
+    "original": "福祉チーム優秀職員\n<CMT_KR>\n<CMT_JP>",
+    "translation": "福祉チーム優秀職員\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복지팀 우수 직원\nEN:\nWelfare Team Model Employee"
+  },
+  {
+    "key": "BestWelfareTeamMember-desc",
+    "original": "- 自分がスキルで火傷・出血・破裂・沈潜・振動威力を付与するとき、付与値 +1 (特殊状態異常を含む)\n- パニックおよび侵蝕状態を無視して、次のターンに精神力が0になる (戦闘につき1回)\n- この効果を受けるのがロボトミーE.G.O::涙で研ぎ澄まされた剣 ロージャなら、毎ターン開始時に貫通ダメージ量増加1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 自分がスキルで火傷・出血・破裂・沈潜・振動威力を付与するとき、付与値 +1 (特殊状態異常を含む)\n- パニックおよび侵蝕状態を無視して、次のターンに精神力が0になる (戦闘につき1回)\n- この効果を受けるのがロボトミーE.G.O::涙で研ぎ澄まされた剣 ロージャなら、毎ターン開始時に貫通ダメージ量増加1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 자신이 스킬로 화상, 출혈, 파열, 침잠, 진동 위력을 부여할 때, 부여값 +1 (특수 상태이상 포함)\n- 패닉 및 침식 상태를 무시하고, 다음 턴에 정신력 0이 됨 (전투 당 1회)\n- 이 효과를 받는 게 로보토미 E.G.O::눈물로 벼려낸 검 로쟈라면, 매 턴 시작시 관통 피해량 증가 1 얻음\nEN:\n- When inflicting Burn, Bleed, Rupture, Sinking, and Tremor Potency with this unit's Skills, inflict +1 more of each (including 'Unique Status Effects')\n- Instead of Panicking or Corroding, reset this unit's SP to 0 next turn (once per Encounter)\n- If this effect is applied to Lobotomy E.G.O::The Sword Sharpened with Tears Rodion, gain 1 Pierce DMG Up at every Turn Start"
+  },
+  {
+    "key": "ChasingArcanahard-name",
+    "original": "詠唱 - アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "詠唱 - アルカナ・スレイブ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n영창 - 아르카나 슬레이브\nEN:\nChanting - Arcana Slave"
+  },
+  {
+    "key": "ChasingArcanahard-desc",
+    "original": "- 最大値: 3\n- ターン開始時に1増加\n- スタックが3になると、次のターンに束縛20を得てアルカナ・スレイブを使用する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 3\n- ターン開始時に1増加\n- スタックが3になると、次のターンに束縛20を得てアルカナ・スレイブを使用する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 3\n- 턴 시작 시 1 증가\n- 스택이 3이 되면, 다음 턴에 속박을 20 얻고 아르카나 슬레이브를 사용함\nEN:\n- Max Stack: 3\n- Gain 1 at Turn Start\n- At 3 Stack: next turn, gain 20 Bind and use ARCANA SLAVE"
+  },
+  {
+    "key": "HystericGauge-name",
+    "original": "ヒステリー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ヒステリー\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n히스테리\nEN:\nHysteria"
+  },
+  {
+    "key": "HystericGauge-desc",
+    "original": "- 基本値: 0\n- 最大値: 3\n- ターン終了時に\n・精神力が0以上なら、1減少\n・精神力が0未満なら、1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 基本値: 0\n- 最大値: 3\n- ターン終了時に\n・精神力が0以上なら、1減少\n・精神力が0未満なら、1増加\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 기본값: 0\n- 최댓값: 3\n- 턴 종료 시\n· 정신력이 0 이상이면, 1 감소\n· 정신력이 0 미만이면, 1 증가\nEN:\n- Base Stack: 0\n- Max Stack: 3\n- At Turn End...\n· At 0 or higher SP, lose 1 Stack\n· At less than 0 SP, gain 1 Stack"
+  },
+  {
+    "key": "MagicalGirlAppear-name",
+    "original": "魔法少女、参上！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "魔法少女、参上！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마법소녀 등장!\nEN:\nHere Comes Magical Girl!"
+  },
+  {
+    "key": "MagicalGirlAppear-desc",
+    "original": "- このターンに使用する基本攻撃スキルが、加算コインスキルに変更される\n\n- 自分の愛/憎悪1につき、基本攻撃スキルのダメージ量 +3% (最大15%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- このターンに使用する基本攻撃スキルが、加算コインスキルに変更される\n\n- 自分の愛/憎悪1につき、基本攻撃スキルのダメージ量 +3% (最大15%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 이번 턴에 사용하는 기본 공격 스킬이 더하기 코인 스킬로 변경됨\n\n- 자신의 사랑/증오당 기본 공격 스킬의 피해량 +3% (최대 15%)\nEN:\n- For this turn, this unit uses Plus Coin Base Attack Skills\n\n- Base Attack Skills deal +3% damage for every Love/Hate on self (max 15%)"
+  },
+  {
+    "key": "NoVillain-name",
+    "original": "逆転 - リバースド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "逆転 - リバースド\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n역변-리버스드\nEN:\nRegressive Transformation - Reversed"
+  },
+  {
+    "key": "NoVillain-desc",
+    "original": "- このターンに使用する基本攻撃スキルが減算コインスキルに変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- このターンに使用する基本攻撃スキルが減算コインスキルに変更される\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 이번 턴에 사용하는 기본 공격 스킬이 빼기 코인 스킬로 변경됨\nEN:\n- For this turn, this unit uses Minus Coin Base Attack Skills"
+  },
+  {
+    "key": "VillainMark-name",
+    "original": "悪党の印\n<CMT_KR>\n<CMT_JP>",
+    "translation": "悪党の印\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n악당 표식\nEN:\nMark of Villainy"
+  },
+  {
+    "key": "VillainMark-desc",
+    "original": "- ドンキホーテからの攻撃による被ダメージ量 +10%\n\n- ターンごとに、最初に付与された対象のみが保有する\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ドンキホーテからの攻撃による被ダメージ量 +10%\n\n- ターンごとに、最初に付与された対象のみが保有する\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 돈키호테의 공격에 받는 피해량 +10%\n\n- 턴마다 가장 먼저 부여 받은 대상에게만 부여됨\nEN:\n- Take +10% damage from Don Quixote\n\n- Applies only to the first target to receive the effect in each turn"
+  },
+  {
+    "key": "ArcanaQueenOfHate-name",
+    "original": "マジカル・アルカナ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マジカル・アルカナ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매지컬 아르카나\nEN:\nMagical Arcana"
+  },
+  {
+    "key": "ArcanaQueenOfHate-desc",
+    "original": "- 最大値: 3\n- 自分の基本攻撃スキルのダメージ量 +(数値 × 5)%\n- ターン終了時に数値が3かつ精神力が-25以上なら、精神力が-25になる\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 3\n- 自分の基本攻撃スキルのダメージ量 +(数値 × 5)%\n- ターン終了時に数値が3かつ精神力が-25以上なら、精神力が-25になる\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 3\n- 자신의 기본 공격 스킬의  피해량 +(수치 X 5)%\n- 턴 종료 시 수치가 3이고 정신력이 -25이상이면, 정신력이 -25가 됨\nEN:\n- Max Stack: 3\n- Base Attack Skills deal +(Stack x 5)% damage\n- Turn End: At 3 Stack and with -25 or higher SP, change SP to -25"
+  },
+  {
+    "key": "ThePowerOfLoveAndHate-name",
+    "original": "愛/憎悪\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛/憎悪\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑/증오\nEN:\nLove/Hate"
+  },
+  {
+    "key": "ThePowerOfLoveAndHate-desc",
+    "original": "- 回数最大値: 20\n- 特殊充電\n- 消耗時、特定スキルの能力が上昇する。回数を最大20まで貯められる。ターン終了時に回数が1減少\n(充電威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 回数最大値: 20\n- 特殊充電\n- 消耗時、特定スキルの能力が上昇する。回数を最大20まで貯められる。ターン終了時に回数が1減少\n(充電威力および回数を増減させる効果を同様に受ける)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 횟수 최댓값: 20\n- 특수 충전\n- 소모 시 특정 스킬의 능력이 상승함. 횟수를 최대 20까지 얻을 수 있음. 턴 종료 시 횟수 1 감소\n(충전 위력 및 횟수를 증가, 감소시키는 효과를 동일하게 적용받음)\nEN:\n- Max Count: 20\n- Unique Charge\n- Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n(Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency/Count)"
+  },
+  {
+    "key": "MagicalGirlResponse-name",
+    "original": "魔法少女の詠唱\n<CMT_KR>\n<CMT_JP>",
+    "translation": "魔法少女の詠唱\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마법소녀의 영창\nEN:\nMagical Girl's Chant"
+  },
+  {
+    "key": "MagicalGirlResponse-desc",
+    "original": "- 最大値: 2\n- この効果を得たなら、攻撃威力増加1, ダメージ量増加1を得る\n- 自分の充電回数を増加させるか充電回数を消耗する攻撃スキルの最終威力 +1, ダメージ量 +10%\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 最大値: 2\n- この効果を得たなら、攻撃威力増加1, ダメージ量増加1を得る\n- 自分の充電回数を増加させるか充電回数を消耗する攻撃スキルの最終威力 +1, ダメージ量 +10%\n- ターン終了時に1減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 최댓값: 2\n- 이 효과를 얻으면, 공격 위력 증가 1, 피해량 증가 1 얻음\n- 자신의 충전 횟수를 증가하거나 충전 횟수를 소모하는 공격 스킬의 최종 위력 +1, 피해량 +10%\n- 턴 종료 시 1 감소\nEN:\n- Max Stack: 2\n- When gaining this effect, gain 1 Attack Power Up and 1 Damage Up\n- This unit's Attack Skills that gain or consume Charge Count gain Final Power +1 and deal +10% damage\n- Reduced by 1 at Turn End"
+  },
+  {
+    "key": "BlessingAlly-name",
+    "original": "加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가호\nEN:\nBlessing"
+  },
+  {
+    "key": "BlessingAlly-desc",
+    "original": "- ターン開始時、精神力8につき守る剣1を得る (最大5)\n- マッチ終了時、対象へ沈潜2を付与 (1ターンにつき1回)\n- 被ダメージ時、攻撃対象に沈潜2を付与 (1ターンにつき1回)\n- 精神力20につき、このバフ効果によって付与する沈潜威力の付与値 +1 (最大2)\n- 使用する基本スキルが加算コインスキルに変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時、精神力8につき守る剣1を得る (最大5)\n- マッチ終了時、対象へ沈潜2を付与 (1ターンにつき1回)\n- 被ダメージ時、攻撃対象に沈潜2を付与 (1ターンにつき1回)\n- 精神力20につき、このバフ効果によって付与する沈潜威力の付与値 +1 (最大2)\n- 使用する基本スキルが加算コインスキルに変更される\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시 정신력 8당, 지키는 검 1 얻음 (최대 5)\n- 합 종료 시, 대상에게 침잠 2 부여 (턴당 1회)\n- 피격 시, 공격한 대상에게 침잠 2 부여 (턴당 1회)\n- 정신력 20당, 이 버프 효과로 부여하는 침잠 위력 부여값 +1 (최대 2)\n- 사용하는 기본 스킬이 더하기 코인 스킬로 변경됨\nEN:\n- Turn Start: gain 1 Protecting Sword for every 8 SP (max 5)\n- When Clash ends, inflict 2 Sinking (once per turn)\n- When hit, inflict 2 Sinking on the attacker (once per turn)\n- For every 20 SP, inflict +1 more Sinking Potency with above effects (max 2)\n- Replace this unit's Base Skills with Plus Coin Skills"
+  },
+  {
+    "key": "ProtectiveSword-name",
+    "original": "守る剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "守る剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n지키는 검\nEN:\nProtecting Sword"
+  },
+  {
+    "key": "ProtectiveSword-desc",
+    "original": "- ターン開始時、数値1につき防御レベル増加1を得る (最大5)\n- ターン開始時、操作パネル最左端のスキルスロット挑発値が(数値 × 3)だけ増加 (最大15)\n- 最大値: 5\n- ターン終了時に消滅\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時、数値1につき防御レベル増加1を得る (最大5)\n- ターン開始時、操作パネル最左端のスキルスロット挑発値が(数値 × 3)だけ増加 (最大15)\n- 最大値: 5\n- ターン終了時に消滅\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시, 수치 1당 방어 레벨 증가 1 얻음 (최대 5)\n- 턴 시작 시, 조작 패널에서 가장 왼쪽의 스킬 슬롯 도발치가 (수치 x 3)만큼 증가 (최대 15)\n- 최댓값 : 5\n- 턴 종료 시, 사라짐\nEN:\n- Turn Start: gain 1 Defense Level Up for every Stack (max 5)\n- Turn Start: +(Stack x 3) Aggro to the leftmost Skill Slot on the Dashboard (max 15)\n- Max Stack: 5\n- Expires at Turn End"
+  },
+  {
+    "key": "DespairAlly-name",
+    "original": "絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망\nEN:\nDespair"
+  },
+  {
+    "key": "DespairAlly-desc",
+    "original": "- ターン開始時、精神力-8につき貫く剣1を得る (最大5)\n- マッチ終了時、対象の沈潜 回数を1増加 (1ターンにつき1回)\n- 基本攻撃スキルの最初のコイン的中時、対象の沈潜 回数を1増加 (1ターンにつき1回)\n- 精神力 -20につき、このバフ効果によって付与する沈潜回数の付与値 +1 (最大2)\n- 使用する基本スキルが減算コインスキルに変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時、精神力-8につき貫く剣1を得る (最大5)\n- マッチ終了時、対象の沈潜 回数を1増加 (1ターンにつき1回)\n- 基本攻撃スキルの最初のコイン的中時、対象の沈潜 回数を1増加 (1ターンにつき1回)\n- 精神力 -20につき、このバフ効果によって付与する沈潜回数の付与値 +1 (最大2)\n- 使用する基本スキルが減算コインスキルに変更される\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시, 정신력 -8당 꿰뚫는 검 1 얻음 (최대 5)\n- 합 종료 시, 대상의 침잠 횟수 1 증가 (턴당 1회)\n- 기본 공격 스킬의 첫 번째 코인 적중 시, 대상의 침잠 횟수 1 증가 (턴당 1회)\n- 정신력 -20당, 이 버프 효과로 부여하는 침잠 횟수의 부여값 +1 (최대 2)\n- 사용하는 기본 스킬이 빼기 코인 스킬로 변경됨\nEN:\n- Turn Start: gain 1 Piercing Sword for every -8 SP (max 5)\n- When Clash ends, inflict +1 Sinking Count (once per turn)\n- On Hit with the first Coin of a Base Attack Skill, inflict +1 Sinking Count (once per turn)\n- For every -20 SP, inflict +1 more Sinking Count with above effects (max 2)\n- Replace this unit's Base Skills with Minus Coin Skills"
+  },
+  {
+    "key": "PenetratingSword-name",
+    "original": "貫く剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "貫く剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n꿰뚫는 검\nEN:\nPiercing Sword"
+  },
+  {
+    "key": "PenetratingSword-desc",
+    "original": "- ターン開始時、数値1につき攻撃レベル増加1を得る (最大5)\n- ターン開始時、全スキルスロットの挑発値が(数値 × 0.15)だけ増加 (最大0.75)\n- 最大値: 5\n- ターン終了時に消滅\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時、数値1につき攻撃レベル増加1を得る (最大5)\n- ターン開始時、全スキルスロットの挑発値が(数値 × 0.15)だけ増加 (最大0.75)\n- 最大値: 5\n- ターン終了時に消滅\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시, 수치 1당 공격 레벨 증가 1 얻음 (최대 5)\n- 턴 시작 시, 모든 스킬 슬롯의 도발치가 (수치 x 0.15)만큼 감소 (최대 0.75)\n- 최댓값 : 5\n- 턴 종료 시, 사라짐\nEN:\n- Turn Start: gain 1 Offense Level Up for every Stack (max 5)\n- Turn Start: -(Stack x 0.15) Aggro to all Skill Slots on the Dashboard (max 0.75)\n- Max Stack: 5\n- Expires at Turn End"
+  },
+  {
+    "key": "SwordCutwithTear-name",
+    "original": "涙で研ぎ澄ます\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄ます\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물 벼리기\nEN:\nTear-sharpened"
+  },
+  {
+    "key": "SwordCutwithTear-desc",
+    "original": "- ターン開始時、深い涙5を得る\n・数値が3なら、深い涙5を追加で得る\n- ターン終了時に、(数値 × 15)だけ精神力を減少\n- 基本攻撃スキルのダメージ量が(数値 × 10)%だけ増加 (最大30%)\n- 加護 状態なら、ターン開始時に数値だけマッチ威力増加 を得る\n- 絶望 状態なら、ターン開始時に数値だけ貫通威力増加 を得る\n- 最大値: 3\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時、深い涙5を得る\n・数値が3なら、深い涙5を追加で得る\n- ターン終了時に、(数値 × 15)だけ精神力を減少\n- 基本攻撃スキルのダメージ量が(数値 × 10)%だけ増加 (最大30%)\n- 加護 状態なら、ターン開始時に数値だけマッチ威力増加 を得る\n- 絶望 状態なら、ターン開始時に数値だけ貫通威力増加 を得る\n- 最大値: 3\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시, 깊은 눈물 5 얻음\n· 수치가 3이면, 깊은 눈물 5 추가로 얻음\n- 턴 종료 시, (수치 x 15)만큼 정신력 감소\n- 기본 공격 스킬의 피해량이 (수치 x 10)%만큼 증가 (최대 30%)\n- 가호 상태면, 턴 시작 시 수치만큼 합 위력 증가 얻음\n- 절망 상태면, 턴 시작 시 수치만큼 관통 위력 증가 얻음\n- 최댓값 : 3\nEN:\n- Turn Start: gain 5 Deep Tears\n· At 3 Stack, gain additional 5 Deep Tears\n- Turn End: lose (Stack x 15) SP\n- Base Attack Skills deal +(Stack x 10)% damage (max 30%)\n- If this unit has Blessing, gain Clash Power Up by the effect's Stack at Turn Start\n- If this unit has Despair, gain Pierce Power Up by the effect's Stack at Turn Start\n- Max Stack: 3"
+  },
+  {
+    "key": "BlackTearsAlly-name",
+    "original": "深い涙\n<CMT_KR>\n<CMT_JP>",
+    "translation": "深い涙\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n깊은 눈물\nEN:\nDeep Tears"
+  },
+  {
+    "key": "BlackTearsAlly-desc",
+    "original": "- 特殊充電 (威力固定)\n- 消耗時、特定スキルの能力が上昇する\n- 最大値 : 20\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 特殊充電 (威力固定)\n- 消耗時、特定スキルの能力が上昇する\n- 最大値 : 20\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 특수 충전 (위력 고정)\n- 소모 시, 특정 스킬의 능력이 상승함\n- 최댓값 : 20\nEN:\n- Unique Charge (fixed Potency)\n- Resource used by certain skills for additional effects\n- Max Stack: 20"
+  },
+  {
+    "key": "KnightBless-name",
+    "original": "加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가호\nEN:\nBlessing"
+  },
+  {
+    "key": "KnightBless-desc",
+    "original": "- ターン開始時に保護2を得る\n- 1を超過する物理耐性が1に調整される (混乱状態を除く)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- ターン開始時に保護2を得る\n- 1を超過する物理耐性が1に調整される (混乱状態を除く)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 턴 시작 시 보호 2 얻음\n- 1을 초과하는 물리 내성이 1로 조정됨 (흐트러짐 상태 제외)\nEN:\n- Turn Start: gain 2 Protection\n- Adjust any Attack Type Resistances exceeding 1 to 1 (unless Staggered)"
+  },
+  {
+    "key": "TraumaShield-name",
+    "original": "トラウマ防止フィールド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "トラウマ防止フィールド\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n트라우마 방지장\nEN:\nTrauma Shield"
+  },
+  {
+    "key": "TraumaShield-desc",
+    "original": "- 敵からの精神力ダメージが80%減少\n- 沈潜ダメージが80%減少\n- ターン終了時に数値が1減少\n<CMT_KR>\n<CMT_JP>",
+    "translation": "- 敵からの精神力ダメージが80%減少\n- 沈潜ダメージが80%減少\n- ターン終了時に数値が1減少\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n- 적에게 받는 정신력 피해 80% 감소\n- 침잠 피해 80% 감소\n- 턴 종료시 수치 1 감소\nEN:\n- Reduce SP damage from enemies by 80%\n- Reduce Sinking damage taken by 80%\n- Reduced by 1 at Turn End"
+  }
+]

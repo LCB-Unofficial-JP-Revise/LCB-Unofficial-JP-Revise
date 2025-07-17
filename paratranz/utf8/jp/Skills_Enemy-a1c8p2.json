@@ -456,8 +456,8 @@
   },
   {
     "key": "9020503-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[WinDuelAttack] 体力最大値の(自分の保有している[DefenseUp]数値)%だけ体力回復(最大10%)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WinDuelAttack] 体力最大値の(自分の保有している[DefenseUp]数値)%だけ体力回復(最大10%)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WinDuelAttack] 体力最大値の(自分の保有している[DefenseUp]の数値)%だけ体力回復(最大10%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WinDuelAttack] 体力最大値の(自分の保有している[DefenseUp]の数値)%だけ体力回復(最大10%)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WinDuelAttack] 최대 체력의 (자신이 보유한 [DefenseUp] 수치)%만큼 체력 회복 (최대 10%)\nEN:\n[WinDuelAttack] Heal ([DefenseUp] Stack on self)% HP on self (max 10%)"
   },
@@ -892,7 +892,7 @@
     "key": "9020904-levelList[0].desc",
     "original": "[StartBattle] 精神力-10につき最終威力 +1 (最大3)\n[DefeatDuel] このスキルの基本威力が75%だけ減少(小数点切り捨て)して、ダメージ・効果で対象が混乱しない\n[EndSkill] 精神力が0に初期化\n<CMT_KR>\n<CMT_JP>",
     "translation": "[StartBattle] 精神力-10につき最終威力 +1 (最大3)\n[DefeatDuel] このスキルの基本威力が75%だけ減少(小数点切り捨て)して、ダメージ・効果で対象が混乱しない\n[EndSkill] 精神力が0に初期化\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[StartBattle] 정신력 -10당 최종 위력 +1 (최대 3)\n[DefeatDuel] 이 스킬의 기본 위력이 75%만큼 감소(소수점 버림)하고 피해, 효과로 대상이 흐트러지지 않음\n[EndSkill] 정신력이 0으로 초기화\nEN:\n[StartBattle] Final Power +1 for every 10 SP below 0 (max 3)\n[DefeatDuel] Reduce this Skill's Base Power by 75% (rounded down); also, this Skill's damage or effect cannot stagger the target(s)\n[EndSkill] Reset SP to 0"
   },
   {

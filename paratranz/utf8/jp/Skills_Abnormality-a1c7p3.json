@@ -192,7 +192,7 @@
     "key": "837806-levelList[0].coinlist[2].coindescs[1].desc",
     "original": "[OnSucceedAttack] このスキルで[BloodDinner]を30消耗したかつ、[BloodyHand_3rd]が30ならこのコインを1回再使用\n<CMT_KR>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] このスキルで[BloodDinner]を30消耗したかつ、[BloodyHand_3rd]が30ならこのコインを1回再使用\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 이 스킬에서 [BloodDinner]을 30 소모했고, [BloodyHand_3rd]이 30이면 이 코인 1회 재사용\nEN:\n[OnSucceedAttack] If this Skill consumed 30 [BloodDinner], and if this unit is at 30+ [BloodyHand_3rd], Reuse this Coin once"
   },
   {
@@ -1046,7 +1046,7 @@
     "key": "838011-levelList[0].desc",
     "original": "[WhenUse] [BloodDinner]を(45 - 現在の精神力)だけ消耗して精神力を45まで回復\n- [BloodDinner]が足りない場合、自分の体力を(45 - 現在の精神力)だけ消耗して精神力を45まで回復(このダメージで体力が1未満にならない)\n- 残った[BloodDinner]だけバリア体力を得る(最大100)\n[WinDuel] 対象へ[Laceration]10を付与\n[DefeatDuel] [BloodDinner]を100消耗\n[EndSkill] ダメージ量だけ[BloodDinner]が増加\n<CMT_KR>\n<CMT_JP>",
     "translation": "[WhenUse] [BloodDinner]を(45 - 現在の精神力)だけ消耗して精神力を45まで回復\n- [BloodDinner]が足りない場合、自分の体力を(45 - 現在の精神力)だけ消耗して精神力を45まで回復(このダメージで体力が1未満にならない)\n- 残った[BloodDinner]だけバリア体力を得る(最大100)\n[WinDuel] 対象へ[Laceration]10を付与\n[DefeatDuel] [BloodDinner]を100消耗\n[EndSkill] ダメージ量だけ[BloodDinner]が増加\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[WhenUse] [BloodDinner]을 (45 - 현재 정신력)만큼 소모하여 정신력을 45까지 회복\n- [BloodDinner]이 부족할 경우, 자신의 체력을 (45 - 현재 정신력)만큼 소모하여 정신력을 45까지 회복 (이 피해로 체력이 1미만이 되지 않음)\n- 남은 [BloodDinner]만큼 보호막 체력을 얻음 (최대 100)\n[WinDuel] 대상에게 [Laceration] 10 부여\n[DefeatDuel] [BloodDinner] 100 소모\n[EndSkill] 피해량만큼 [BloodDinner] 증가\nEN:\n[WhenUse] Consume (45 - current SP) [BloodDinner] to heal up to 45 SP\n- If there isn't enough [BloodDinner], consume up to (45 - current SP) HP to heal up to 45 SP (this damage does not lower this unit's HP below 1)\n- Gain Shield HP equal to the remaining [BloodDinner] (max 100)\n[WinDuel] Inflict 10 [Laceration]\n[DefeatDuel] Consume 100 [BloodDinner]\n[EndSkill] Increase [BloodDinner] equal to the damage dealt"
   },
   {
@@ -1793,8 +1793,8 @@
   },
   {
     "key": "841007-levelList[0].desc",
-    "original": "このスキルを使用するまで混乱状態にならない。\n[WhenUse] [BloodDinner]を最大100消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を15回復\n[WhenUse] 自分の[BloodDinner_Accumulation]数値30につき、マッチ威力 +1(最大15)\n[DefeatDuel] ダメージ量が半減し、このスキルのダメージで対象が混乱しない\n[EndSkill] 増加したマッチ威力だけ、このターンと次のターンに[AttackDown], [DefenseDown]を得る。(最大15)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "このスキルを使用するまで混乱状態にならない。\n[WhenUse] [BloodDinner]を最大100消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を15回復\n[WhenUse] 自分の[BloodDinner_Accumulation]数値30につき、マッチ威力 +1(最大15)\n[DefeatDuel] ダメージ量が半減し、このスキルのダメージで対象が混乱しない\n[EndSkill] 増加したマッチ威力だけ、このターンと次のターンに[AttackDown], [DefenseDown]を得る。(最大15)\n<CMT_KR>\n<CMT_JP>",
+    "original": "このスキルを使用するまで混乱状態にならない。\n[WhenUse] [BloodDinner]を最大100消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を15回復\n[WhenUse] 自分の[BloodDinner_Accumulation]の数値30につき、マッチ威力 +1(最大15)\n[DefeatDuel] ダメージ量が半減し、このスキルのダメージで対象が混乱しない\n[EndSkill] 増加したマッチ威力だけ、このターンと次のターンに[AttackDown], [DefenseDown]を得る。(最大15)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "このスキルを使用するまで混乱状態にならない。\n[WhenUse] [BloodDinner]を最大100消耗し、消耗した[BloodDinner]10につき[RegainedStrength]1を得て精神力を15回復\n[WhenUse] 自分の[BloodDinner_Accumulation]の数値30につき、マッチ威力 +1(最大15)\n[DefeatDuel] ダメージ量が半減し、このスキルのダメージで対象が混乱しない\n[EndSkill] 増加したマッチ威力だけ、このターンと次のターンに[AttackDown], [DefenseDown]を得る。(最大15)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n이 스킬을 사용하기 전까지 흐트러짐 상태가 되지 않음.\n[WhenUse] [BloodDinner]을 최대 100 소모하여 소모한 [BloodDinner] 10당 [RegainedStrength] 1 얻고 정신력 15 회복\n[WhenUse] 자신의 [BloodDinner_Accumulation] 수치 30당 합 위력 +1 (최대 15)\n[DefeatDuel] 피해량이 50%만큼 감소하고 이 스킬의 피해로 대상이 흐트러지지 않음.\n[EndSkill] 증가한 합 위력만큼 이번 턴과 다음 턴에 [AttackDown], [DefenseDown]를 얻음. (최대 15)\nEN:\nCannot be Staggered until he uses this Skill.\n[WhenUse] Consume up to 100 [BloodDinner]: gain 1 [RegainedStrength] and heal 15 SP for every 10 [BloodDinner] consumed\n[WhenUse] Clash Power +1 for every [BloodDinner_Accumulation] by this unit (max 15)\n[DefeatDuel] Deal -50% damage, and the damage from this Skill does not Stagger the target.\n[EndSkill] For this turn and next turn, gain [AttackDown] and [DefenseDown] equal to the Clash Power gained with this Skill. (max 15)"
   },
@@ -2131,7 +2131,7 @@
     "key": "837504-levelList[0].coinlist[3].coindescs[1].desc",
     "original": "[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] 対象の[Burst]1につきダメージ量 +5%(最大50%)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 [Burst]당 피해량 +5% (최대 50%)\nEN:\n[OnSucceedAttack] Deal +5% damage for every [Burst] on the target (Max 50%)"
   },
   {

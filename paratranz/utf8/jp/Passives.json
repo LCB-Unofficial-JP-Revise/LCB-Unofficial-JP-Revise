@@ -4355,8 +4355,8 @@
   },
   {
     "key": "1051001-desc",
-    "original": "自分を除く味方のスキルを捨てる度、対象と自分へ[KnowledgeTraining]1を付与(スキルごとに1回、1ターンにつき3回)\nターン終了時、自分以外がスキルを捨てた味方の数だけ次のターンに[PenetrateDamageUp] 、[HitDamageUp] を得る(最大3)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "自分を除く味方のスキルを捨てる度、対象と自分へ[KnowledgeTraining]1を付与(スキルごとに1回、1ターンにつき3回)\nターン終了時、自分以外がスキルを捨てた味方の数だけ次のターンに[PenetrateDamageUp] 、[HitDamageUp] を得る(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "original": "自分を除く味方のスキルを捨てる度、対象と自分へ[KnowledgeTraining]1を付与(スキルごとに1回、1ターンにつき3回)\nターン終了時、自分以外がスキルを捨てた味方の数だけ次のターンに[PenetrateDamageUp] 、[HitDamageUp]を得る(最大3)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "自分を除く味方のスキルを捨てる度、対象と自分へ[KnowledgeTraining]1を付与(スキルごとに1回、1ターンにつき3回)\nターン終了時、自分以外がスキルを捨てた味方の数だけ次のターンに[PenetrateDamageUp] 、[HitDamageUp]を得る(最大3)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n자신을 제외한 아군이 스킬을 버릴 때마다 대상과 자신에게 [KnowledgeTraining] 1을 부여 (스킬 당 1회, 턴 당 3회)\n턴 종료 시, 자신을 제외하고 스킬을 버린 아군의 수만큼 다음 턴에 관통 피해량 증가, 타격 피해량 증가 얻음 (최대 3)\nEN:\nEvery time an other ally Discards a Skill, apply 1 [KnowledgeTraining] to the ally and self (once per Skill, 3 times per turn)\nTurn End: next turn, gain Pierce DMG Up and Blunt DMG Up equal to the number of other allies that Discarded Skills (max 3)"
   },
@@ -5335,8 +5335,8 @@
   },
   {
     "key": "1031002-desc",
-    "original": "ターン開始時、[BloodArmorPersonalityFirst]15以上かつ以下の人格が戦闘に参加しているか死亡したなら、自分の最左方のスキルが強化される。\nラ・マンチャランド[TabExplain]神父グレゴール: スキル1 強化\nラ・マンチャランド[TabExplain]理髪師ウーティス: スキル2 強化\n自分: スキル3 強化\nラ・マンチャランド[TabExplain]の姫ロージャ: 守備スキル 強化\n\n自分を除いた味方が[Laceration]ダメージを受けるか[BloodDinner]を消耗するとき、[BloodArmorPersonalityFirst]2を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "ターン開始時、[BloodArmorPersonalityFirst]15以上かつ以下の人格が戦闘に参加しているか死亡したなら、自分の最左方のスキルが強化される。\nラ・マンチャランド[TabExplain]神父グレゴール: スキル1 強化\nラ・マンチャランド[TabExplain]理髪師ウーティス: スキル2 強化\n自分: スキル3 強化\nラ・マンチャランド[TabExplain]の姫ロージャ: 守備スキル 強化\n\n自分を除いた味方が[Laceration]ダメージを受けるか[BloodDinner]を消耗するとき、[BloodArmorPersonalityFirst]2を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_JP>",
+    "original": "ターン開始時、[BloodArmorPersonalityFirst]15以上かつ以下の人格が戦闘に参加しているか死亡したなら、自分の最左端のスキルが強化される。\nラ・マンチャランド[TabExplain]神父グレゴール: スキル1 強化\nラ・マンチャランド[TabExplain]理髪師ウーティス: スキル2 強化\n自分: スキル3 強化\nラ・マンチャランド[TabExplain]の姫ロージャ: 守備スキル[TabExplain]強化\n\n自分を除いた味方が[Laceration]ダメージを受けるか[BloodDinner]を消耗するとき、[BloodArmorPersonalityFirst]2を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、[BloodArmorPersonalityFirst]15以上かつ以下の人格が戦闘に参加しているか死亡したなら、自分の最左端のスキルが強化される。\nラ・マンチャランド[TabExplain]神父グレゴール: スキル1 強化\nラ・マンチャランド[TabExplain]理髪師ウーティス: スキル2 強化\n自分: スキル3 強化\nラ・マンチャランド[TabExplain]の姫ロージャ: 守備スキル[TabExplain]強化\n\n自分を除いた味方が[Laceration]ダメージを受けるか[BloodDinner]を消耗するとき、[BloodArmorPersonalityFirst]2を得る(1ターンにつき3回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n턴 시작 시, [BloodArmorPersonalityFirst] 15 이상이고 다음의 인격이 전투에 참가 중이거나 사망했으면, 자신의 가장 왼쪽 슬롯의 스킬이 강화됨.\n- 라만차랜드[TabExplain] 신부 그레고르: 스킬 1 강화\n- 라만차랜드[TabExplain] 이발사 오티스: 스킬 2 강화\n- 자신: 스킬 3 강화\n- 라만차랜드[TabExplain] 공주 로쟈: 수비 스킬[TabExplain] 강화\n\n자신을 제외한 아군이 출혈 피해를 받거나 [BloodDinner]을 소모할 때, [BloodArmorPersonalityFirst] 2 얻음 (턴 당 3회)\nEN:\nTurn Start: At 15+ [BloodArmorPersonalityFirst], if each following unit is either defeated or participating in the Encounter, empower this unit's leftmost Slot.\nThe Priest of La Manchaland[TabExplain] Gregor: Empower Skill 1\nThe Barber of La Manchaland[TabExplain] Outis: Empower Skill 2\nThis Unit: Empower Skill 3\nThe Princess of La Manchaland[TabExplain] Rodion: Empower Defense Skill[TabExplain]\n\nWhen other units among allies take [Laceration] damage or consume [BloodDinner], gain 2 [BloodArmorPersonalityFirst] on self (3 times per turn)"
   },
@@ -6227,7 +6227,7 @@
     "original": "戦闘中に自分が死亡したなら、次のターンに待機解除される人格(待機順が最も早い人格)へ戦闘開始時に[CheerUpXichun]を付与\n\n連続戦闘にて自分が退却または待機状態のとき、下記の効果が発動\n戦闘開始時に体力が最大値の50%以下かつ、守備スキルを使用した人格のうち編成順が最も早い人格がターン終了時にダメージによる混乱を解除して[RetreatForCommon]する (戦闘につき2回発動)\n<CMT_KR>\n<CMT_JP>",
     "translation": "戦闘中に自分が死亡したなら、次のターンに待機解除される人格(待機順が最も早い人格)へ戦闘開始時に[CheerUpXichun]を付与\n\n連続戦闘にて自分が退却または待機状態のとき、下記の効果が発動\n戦闘開始時に体力が最大値の50%以下かつ、守備スキルを使用した人格のうち編成順が最も早い人格がターン終了時にダメージによる混乱を解除して[RetreatForCommon]する (戦闘につき2回発動)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n전투 중 자신이 사망했으면, 자신 다음 턴에 대기해제 되는 인격(대기 편성 순서상 가장 빠른 인격)에게 전투 시작 시 [CheerUpXichun] 부여\n\n연속 전투에서 자신이 퇴각 혹은 대기 상태일 때, 아래의 효과 발동\n전투 시작 시 체력이 최대 체력의 50% 이하이고, 수비 스킬을 사용한 인격 중 편성 순서가 가장 빠른 인격이 턴 종료 시 피해로 인한 흐트러짐을 해제하고  [RetreatForCommon]함 (전투당 2회 발동)\nEN:\nIf this unit is defeated in an Encounter, apply [CheerUpXichun] to the subsequently Substituting Identity (the fastest Backup Unit in the Deployment Order) next turn\n\nIn Chain Battles, if this unit is a Backup unit or has Retreated, activate the following:\n- Combat Start: Among the Identities who 1) are at 50% HP or lower, and 2) used a Defense Skill, choose the Identity with the fastest Deployment order. At Turn End, that Identity recovers from Stagger caused by damage and performs a [RetreatForCommon] (2 times per Encounter)"
+    "context": "KR:\n전투 중 자신이 사망했으면, 자신 다음 턴에 대기해제 되는 인격(대기 편성 순서상 가장 빠른 인격)에게 전투 시작 시 [CheerUpXichun] 부여\n\n연속 전투에서 자신이 퇴각 혹은 대기 상태일 때, 아래의 효과 발동\n전투 시작 시 체력이 최대 체력의 50% 이하이고, 수비 스킬을 사용한 인격 중 편성 순서가 가장 빠른 인격이 턴 종료 시 피해로 인한 흐트러짐을 해제하고  [RetreatForCommon]함 (전투당 2회 발동)\nEN:\nIf this unit is defeated in an Encounter, apply [CheerUpXichun] to the subsequently Substituting Identity (the fastest Backup Unit in the Deployment Order) next turn\n\nIn Chain Battles, if this unit is a Backup unit or has Retreated, activate the following:\n- Combat Start: Among the Identities who 1) are at 50% HP or lower, and 2) used a Defense Skill, choose the Identity with the earliest Deployment order. At Turn End, that Identity recovers from Stagger caused by damage and performs a [RetreatForCommon] (2 times per Encounter)"
   },
   {
     "key": "1081221-summary",
@@ -6248,7 +6248,7 @@
     "original": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。(最大消耗値: 3個) (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_JP>",
     "translation": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。(最大消耗値: 3個) (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면 (소수점 올림), 해당 인격이 소모한 [Bullet] 수 만큼 자신의 [FireBulletPropellant]을 소모하고, [FireBulletPropellant]을 소모한 만큼 해당 인격이 사용하는 [Bullet]을 보급함. (최대 소모 값: 3개) (전투당 1회)\n\n- [Bullet]을 보급 받는 인격이 자신보다 계급이 높은 엄지 소속 인격이면, 해당 인격이 사용하는 [Bullet]을 1개 더 보급함\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 보급함\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 보급함\nEN:\nWhen the 1 ally Identity with the fastest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), spend [FireBulletPropellant] on self equal to the total [Bullet] count the affected unit spent and supply them with the same amount of [Bullet] as [FireBulletPropellant] this unit just spent. (can spend up to 3 ammunition) (once per Encounter)\n\n- If the [Bullet] receiving Identity is a Thumb Identity of a higher rank, supply 1 additional [Bullet] they use\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will be supplied at random.\n- If either Potency or Count is maxed out, supply whichever is not maxed."
+    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면 (소수점 올림), 해당 인격이 소모한 [Bullet] 수 만큼 자신의 [FireBulletPropellant]을 소모하고, [FireBulletPropellant]을 소모한 만큼 해당 인격이 사용하는 [Bullet]을 보급함. (최대 소모 값: 3개) (전투당 1회)\n\n- [Bullet]을 보급 받는 인격이 자신보다 계급이 높은 엄지 소속 인격이면, 해당 인격이 사용하는 [Bullet]을 1개 더 보급함\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 보급함\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 보급함\nEN:\nWhen the 1 ally Identity with the earliest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), spend [FireBulletPropellant] on self equal to the total [Bullet] count the affected unit spent and supply them with the same amount of [Bullet] as [FireBulletPropellant] this unit just spent. (can spend up to 3 ammunition) (once per Encounter)\n\n- If the [Bullet] receiving Identity is a Thumb Identity of a higher rank, supply 1 additional [Bullet] they use\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will be supplied at random.\n- If either Potency or Count is maxed out, supply whichever is not maxed."
   },
   {
     "key": "1101311-name",
@@ -6262,7 +6262,7 @@
     "original": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。<style=\"highlight\">(最大消耗値: 5個)</style> (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_JP>",
     "translation": "[Bullet]を使う人格のうち、編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら(小数点繰り上げ)、該当人格が消耗した[Bullet]の数だけ自分の[FireBulletPropellant]を消耗し、[FireBulletPropellant]を消耗しただけ該当人格が使用する[Bullet]を補給する。<style=\"highlight\">(最大消耗値: 5個)</style> (戦闘につき1回)\n\n- [Bullet]を補充される人格が自分より階級が高い親指所属人格なら、該当人格が使用する[Bullet]を1つ追加で支給する\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに補給する\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として補給する\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면 (소수점 올림), 해당 인격이 소모한 [Bullet] 수 만큼 자신의 [FireBulletPropellant]을 소모하고, [FireBulletPropellant]을 소모한 만큼 해당 인격이 사용하는 [Bullet]을 보급함. &lt;style=\"highlight\"&gt;(최대 소모 값: 5개)&lt;/style&gt; (전투당 1회)\n\n- [Bullet]을 보급 받는 인격이 자신보다 계급이 높은 엄지 소속 인격이면, 해당 인격이 사용하는 [Bullet]을 1개 더 보급함\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 보급함\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 보급함\nEN:\nWhen the 1 ally Identity with the fastest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), spend [FireBulletPropellant] on self equal to the total [Bullet] count the affected unit spent and supply them with the same amount of [Bullet] as [FireBulletPropellant] this unit just spent. &lt;style=\"highlight\"&gt;(can spend up to 5 ammunition)&lt;/style&gt; (once per Encounter)\n\n- If the [Bullet] receiving Identity is a Thumb Identity of a higher rank, supply 1 additional [Bullet] they use\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will be supplied at random.\n- If either Potency or Count is maxed out, supply whichever is not maxed."
+    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면 (소수점 올림), 해당 인격이 소모한 [Bullet] 수 만큼 자신의 [FireBulletPropellant]을 소모하고, [FireBulletPropellant]을 소모한 만큼 해당 인격이 사용하는 [Bullet]을 보급함. &lt;style=\"highlight\"&gt;(최대 소모 값: 5개)&lt;/style&gt; (전투당 1회)\n\n- [Bullet]을 보급 받는 인격이 자신보다 계급이 높은 엄지 소속 인격이면, 해당 인격이 사용하는 [Bullet]을 1개 더 보급함\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 보급함\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 보급함\nEN:\nWhen the 1 ally Identity with the earliest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), spend [FireBulletPropellant] on self equal to the total [Bullet] count the affected unit spent and supply them with the same amount of [Bullet] as [FireBulletPropellant] this unit just spent. &lt;style=\"highlight\"&gt;(can spend up to 5 ammunition)&lt;/style&gt; (once per Encounter)\n\n- If the [Bullet] receiving Identity is a Thumb Identity of a higher rank, supply 1 additional [Bullet] they use\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will be supplied at random.\n- If either Potency or Count is maxed out, supply whichever is not maxed."
   },
   {
     "key": "1101312-name",
@@ -6290,7 +6290,7 @@
     "original": "[Bullet]を使う人格のうち編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら、[Bullet]を最大値の半分だけ再び得る(小数点繰り上げ、戦闘につき1回、最大[Bullet]獲得値 : 5)\n\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに得る\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として得る\n- [Bullet]を使用する人格がいなければ、この効果は発動しない\n<CMT_KR>\n<CMT_JP>",
     "translation": "[Bullet]を使う人格のうち編成順が最も早い味方1名の攻撃が終了したとき、該当人格が現在保有している[Bullet]が半分未満なら、[Bullet]を最大値の半分だけ再び得る(小数点繰り上げ、戦闘につき1回、最大[Bullet]獲得値 : 5)\n\n- 威力・回数が分離した[Bullet]は威力・回数をランダムに得る\n- 威力または回数が最大値なら、最大値ではない方の[Bullet]として得る\n- [Bullet]を使用する人格がいなければ、この効果は発動しない\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면, [Bullet]을 최대치의 절반만큼 다시 얻음 (소수점 올림, 전투당 1회, 최대 [Bullet] 획득 값 : 5)\n\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 얻음\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 얻음\n- [Bullet]을 사용하는 인격이 없으면, 이 효과는 발동하지 않음\nEN:\nWhen the 1 ally Identity with the fastest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), regain half of the maximum [Bullet] capacity (rounded up; once per Encounter; max [Bullet] regained: 5)\n\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will gain them at random\n- If either Potency or Count of [Bullet] is maxed out, gain whichever is not maxed\n- This effect does not activate if there are no Identities that use [Bullet]"
+    "context": "KR:\n[Bullet]을 쓰는 인격 중 편성 순서가 가장 빠른 아군 1명의 공격이 종료 되었을 때, 해당 인격의 현재 보유 [Bullet]이 절반 미만이면, [Bullet]을 최대치의 절반만큼 다시 얻음 (소수점 올림, 전투당 1회, 최대 [Bullet] 획득 값 : 5)\n\n- 위력, 횟수가 분리된 [Bullet]은 위력, 횟수를 무작위로 얻음\n- 만약 위력 또는 횟수가 최댓값인 경우, 최댓값이 아닌 쪽의 [Bullet]으로 얻음\n- [Bullet]을 사용하는 인격이 없으면, 이 효과는 발동하지 않음\nEN:\nWhen the 1 ally Identity with the earliest Deployment order among those using [Bullet] finishes their attack, if their current [Bullet] count is fewer than half (rounded up), regain half of the maximum [Bullet] capacity (rounded up; once per Encounter; max [Bullet] regained: 5)\n\n- If the [Bullet] receiving Identity has separate values for Potency and Count, they will gain them at random\n- If either Potency or Count of [Bullet] is maxed out, gain whichever is not maxed\n- This effect does not activate if there are no Identities that use [Bullet]"
   },
   {
     "key": "1051202-name",
@@ -6403,5 +6403,159 @@
     "translation": "速度が最も低い味方が、味方を攻撃したなら攻撃終了時に次のターンにて[AttackDmgUp]を1得る(1ターンにつき最大2)\n- このとき味方が死亡したなら、上記の効果の代わりに今回の戦闘の間[AttackDmgUp]を1得る(ステージおよび人格ごとに最大2)\n- 上記の効果群で獲得できる[AttackDmgUp]は最大2まで\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n속도가 가장 느린 아군이 아군을 공격했다면 공격 종료 시, 다음 턴에 [AttackDmgUp]를 1 얻음 (턴 당 최대 2)\n- 이 때, 아군이 사망했으면, 위 효과를 대신하여 이번 전투 동안 [AttackDmgUp]를 1 얻음 (스테이지 및 인격당 최대 2)\n- 위 효과들로 얻는 [AttackDmgUp]는 최대 2까지만 얻어짐.\nEN:\nWhen the ally with the slowest Speed attacked an ally: After Attack, gain 1 [AttackDmgUp] next turn (2 times per turn)\n- If the attacked ally is killed by this attack, gain 1 [AttackDmgUp] for the whole Encounter instead (max 2 per Stage per Identity)\n- Can gain only up to 2 [AttackDmgUp] from the above effect."
+  },
+  {
+    "key": "1031202-name",
+    "original": "愛と憎悪の名の下に - !E.G.O装備同期化率超過注意!\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛と憎悪の名の下に - !E.G.O装備同期化率超過注意!\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑과 증오의 이름으로 - !E.G.O 장비 동기화율 초과주의!\nEN:\nIn the Name of Love and Hate - !ALERT: E.G.O GEAR SYNC THRESHOLD EXCEEDED!"
+  },
+  {
+    "key": "1031202-desc",
+    "original": "戦闘中、累計で自分の[ThePowerOfLoveAndHate]の回数を10消耗するたびに、[ThePowerOfLoveAndHate]1を得る\n\nステージ開始時に[HystericGauge]がなければ、[HystericGauge]効果を得る\n\nステージ開始時に[ThePowerOfLoveAndHate]がなければ、[ThePowerOfLoveAndHate]効果を得る\n\nターン開始時、\n- 精神力が0以上なら、[MagicalGirlAppear]を得て[NoVillain]を除去\n- 精神力が0未満なら、[NoVillain]を得て[MagicalGirlAppear]を除去\n\n自分の基本攻撃スキルの精神力消耗効果によって、精神力が -40未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中、累計で自分の[ThePowerOfLoveAndHate]の回数を10消耗するたびに、[ThePowerOfLoveAndHate]1を得る\n\nステージ開始時に[HystericGauge]がなければ、[HystericGauge]効果を得る\n\nステージ開始時に[ThePowerOfLoveAndHate]がなければ、[ThePowerOfLoveAndHate]効果を得る\n\nターン開始時、\n- 精神力が0以上なら、[MagicalGirlAppear]を得て[NoVillain]を除去\n- 精神力が0未満なら、[NoVillain]を得て[MagicalGirlAppear]を除去\n\n自分の基本攻撃スキルの精神力消耗効果によって、精神力が -40未満にならない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 누적으로 자신의 [ThePowerOfLoveAndHate] 횟수 10을 소모할 때마다, [ThePowerOfLoveAndHate] 1 얻음\n\n스테이지 시작시 [HystericGauge]가 없다면, [HystericGauge] 효과를 얻음\n\n스테이지 시작시 [ThePowerOfLoveAndHate]가 없다면, [ThePowerOfLoveAndHate] 효과를 얻음\n\n턴 시작시\n- 정신력이 0 이상이면, [MagicalGirlAppear] 얻음, [NoVillain] 제거\n- 정신력이 0 미만이면, [NoVillain] 얻음, [MagicalGirlAppear] 제거\n\n자신의 기본 공격 스킬의 정신력 소모 효과에 의해서 정신력이 -40 미만으로 내려가지 않음\nEN:\nGain 1 [ThePowerOfLoveAndHate] every time this unit consumes 10 cumulative [ThePowerOfLoveAndHate] Count in this Encounter\n\nEncounter Start: if this unit does not have [HystericGauge], gain [HystericGauge]\n\nEncounter Start: if this unit does not have [ThePowerOfLoveAndHate], gain [ThePowerOfLoveAndHate]\n\nTurn Start:\n- At 0 or higher SP, gain [MagicalGirlAppear] and lose [NoVillain]\n- At less than 0 SP, gain [NoVillain] and lose [MagicalGirlAppear]\n\nThis unit's SP cannot drop below -40 due to the SP loss effects from this unit's Base Attack Skills"
+  },
+  {
+    "key": "1031201-name",
+    "original": "愛の魔法少女 / 憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛の魔法少女 / 憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑의 마법소녀 / 증오의 여왕\nEN:\nMagical Girl of Love / Queen of Hatred"
+  },
+  {
+    "key": "1031201-desc",
+    "original": "[ThePowerOfLoveAndHate]1につき、ダメージ量 +2%(最大10%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ThePowerOfLoveAndHate]1につき、ダメージ量 +2%(最大10%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ThePowerOfLoveAndHate]당, 피해량 +2% (최대 10%)\nEN:\nDeal +2% damage for every [ThePowerOfLoveAndHate] (max 10%)"
+  },
+  {
+    "key": "1031211-name",
+    "original": "愛の魔法少女 / 憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛の魔法少女 / 憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑의 마법소녀 / 증오의 여왕\nEN:\nMagical Girl of Love / Queen of Hatred"
+  },
+  {
+    "key": "1031211-desc",
+    "original": "[ThePowerOfLoveAndHate]1につき、ダメージ量 +2%(最大10%)\n戦闘開始時、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ThePowerOfLoveAndHate]1につき、ダメージ量 +2%(最大10%)\n戦闘開始時、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[ThePowerOfLoveAndHate]당, 피해량 +2% (최대 10%)\n전투 시작 시, [ArcanaQueenOfHate] 1 얻음\nEN:\nDeal +2% damage for every [ThePowerOfLoveAndHate] (max 10%)\nCombat Start: gain 1 [ArcanaQueenOfHate]"
+  },
+  {
+    "key": "1031221-name",
+    "original": "マジカルパワーチャージングサポート\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マジカルパワーチャージングサポート\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n매지컬 파워 차징 서포트\nEN:\nMagical Power Charging Support"
+  },
+  {
+    "key": "1031221-desc",
+    "original": "基本攻撃スキルで[Charge]回数を獲得する味方のうち、[Charge]回数が最も少ない1名が[Charge]回数を獲得する基本攻撃スキル使用時、[Charge]回数 +2 (1ターンにつき2回発動)\n- 精神力が0以上なら、体力を(対象の[Charge] × 2)だけ回復 (最大10, 1ターンにつき最大20回復)\n- 精神力が0未満なら、精神力を対象の[Charge]だけ回復 (最大5, 1ターンにつき最大10回復)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "基本攻撃スキルで[Charge]回数を獲得する味方のうち、[Charge]回数が最も少ない1名が[Charge]回数を獲得する基本攻撃スキル使用時、[Charge]回数 +2 (1ターンにつき2回発動)\n- 精神力が0以上なら、体力を(対象の[Charge] × 2)だけ回復 (最大10, 1ターンにつき最大20回復)\n- 精神力が0未満なら、精神力を対象の[Charge]だけ回復 (最大5, 1ターンにつき最大10回復)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기본 공격 스킬에서 [Charge] 횟수를 획득하는 아군 중 [Charge] 횟수가 가장 적은 1명이 [Charge] 횟수를 획득하는 기본 공격 스킬 사용 시, [Charge] 횟수 +2 (턴 당 2회 발동)\n- 정신력이 0 이상이면, 체력을 (대상의 [Charge] X 2)만큼 회복 (최대 10, 턴 당 최대 20 회복)\n- 정신력이 0 미만이면, 정신력을 대상의 [Charge]만큼 회복 (최대 5, 턴 당 최대 10 회복)\nEN:\nIf, among allies that gain [Charge] Count with their Base Attack Skills, 1 ally with the least [Charge] Count uses a Base Attack Skill that gains [Charge] Count, they gain +2 [Charge] Count (2 times per turn)\n- At 0 or higher SP: heal ([Charge] on target x 2) HP (max 10; heals up to 20 per turn)\n- At less than 0 SP: heal ([Charge] on target) SP (max 5; heals up to 10 per turn)"
+  },
+  {
+    "key": "1091302-name",
+    "original": "涙で研ぎ澄まされた剣 - !E.G.O装備同期化率超過注意!\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣 - !E.G.O装備同期化率超過注意!\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검 - !E.G.O 장비 동기화율 초과주의!\nEN:\nThe Sword Sharpened with Tears - !ALERT: E.G.O GEAR SYNC THRESHOLD EXCEEDED!"
+  },
+  {
+    "key": "1091302-desc",
+    "original": "ターン開始時、精神力が0以上なら[BlessingAlly]を得る\n- 基本スキルが加算コインを使用するスキルになる\n\nターン開始時、精神力が0未満なら[DespairAlly]を得る\n- 基本スキルが減算コインを使用するスキルになる\n\n[Charge]回数を獲得するとき、代わりに[BlackTearsAlly]を得る\n- [BlackTearsAlly]は[Charge]威力の影響を受けない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ターン開始時、精神力が0以上なら[BlessingAlly]を得る\n- 基本スキルが加算コインを使用するスキルになる\n\nターン開始時、精神力が0未満なら[DespairAlly]を得る\n- 基本スキルが減算コインを使用するスキルになる\n\n[Charge]回数を獲得するとき、代わりに[BlackTearsAlly]を得る\n- [BlackTearsAlly]は[Charge]威力の影響を受けない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n턴 시작 시 정신력이 0 이상이면, [BlessingAlly] 얻음\n- 사용하는 기본 스킬이 더하기 코인을 사용하는 스킬로 적용됨\n\n턴 시작 시 정신력이 0 미만이면, [DespairAlly] 얻음\n- 사용하는 기본 스킬이 빼기 코인을 사용하는 스킬로 적용됨\n\n[Charge] 횟수를 획득할 때, 대신 [BlackTearsAlly]을 얻음\n- [BlackTearsAlly]은 [Charge] 위력의 영향을 받지 않음\nEN:\nTurn Start: at 0 or higher SP, gain [BlessingAlly]\n- Uses Plus Coin Skills as Base Skills\n\nTurn Start: at less than 0 SP, gain [DespairAlly]\n- Uses Minus Coin Skills as Base Skills\n\nWhen gaining [Charge] Count, gain [BlackTearsAlly] instead\n- [BlackTearsAlly] is unaffected by [Charge] Potency"
+  },
+  {
+    "key": "1091303-name",
+    "original": "裏切られた騎士の囁き\n<CMT_KR>\n<CMT_JP>",
+    "translation": "裏切られた騎士の囁き\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n배신 당한 기사의 속삭임\nEN:\nWhispers of the Betrayed Knight"
+  },
+  {
+    "key": "1091303-desc",
+    "original": "以下の効果によって精神力が -40未満にならない\n- 自分が使用する基本スキルの精神力減少効果\n- 味方のサポートパッシブによる精神力減少効果\n- [SwordCutwithTear]の精神力減少効果\n- 自分の精神力減少効果のうち、味方死亡で精神力が減少する場合\n\nこの戦闘にて精神力が -45になるダメージを受けるとき、このターンの間精神力が -44に保たれる (戦闘ごとに1回)\n(※精神力ダメージにのみ適用され、精神力変更効果やE.G.Oスキルのように精神力を消耗する場合は適用されない)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "以下の効果によって精神力が -40未満にならない\n- 自分が使用する基本スキルの精神力減少効果\n- 味方のサポートパッシブによる精神力減少効果\n- [SwordCutwithTear]の精神力減少効果\n- 自分の精神力減少効果のうち、味方死亡で精神力が減少する場合\n\nこの戦闘にて精神力が -45になるダメージを受けるとき、このターンの間精神力が -44に保たれる (戦闘ごとに1回)\n(※精神力ダメージにのみ適用され、精神力変更効果やE.G.Oスキルのように精神力を消耗する場合は適用されない)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다음 효과로 인하여 정신력이 -40 미만으로 내려가지 않음\n- 자신이 사용하는 기본 스킬의 정신력 감소 효과\n- 아군 서포트 패시브의 정신력 감소 효과\n- [SwordCutwithTear]의 정신력 감소 효과\n- 자신의 정신력 감소 효과 조건 중 아군 사망으로 정신력이 감소할 경우\n\n이번 전투에서 정신력이 -45가 되는 피해를 받았을 때, 해당 턴 동안 정신력이 -44로 유지됨 (전투당 1회)\n(※ 정신력 피해에만 적용되며, 정신력이 변경되거나 E.G.O 스킬 사용과 같이 정신력을 소모하는 경우에는 적용되지 않음)\nEN:\nThis unit's SP does not drop below -40 from the following effects:\n- SP loss effects on this unit's Base Skills\n- SP loss effects from allied units' Support Passives\n- SP loss effects from [SwordCutwithTear]\n- SP loss effects from ally death in this unit's 'Base factors decreasing Sanity'\n\nIn an Encounter, when this unit takes damage that brings its SP to -45, maintain this unit's SP at -44 for that turn (once per Encounter)\n(※ This applies only to SP damages; it does not apply to SP changes or SP consuming abilities like using E.G.O Skills)"
+  },
+  {
+    "key": "1091304-name",
+    "original": "壊し、引き裂き、貫く\n<CMT_KR>\n<CMT_JP>",
+    "translation": "壊し、引き裂き、貫く\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n부수고, 찢어, 꿰뚫는다\nEN:\nBreak, Tear, and Pierce"
+  },
+  {
+    "key": "1091304-desc",
+    "original": "[PenetratingSword]を保有しているなら、基本攻撃スキルを使用して敵へ的中前に[PenetratingSword]1を消耗して[Sinking]1を付与\n- このターンにて、最後に使用する基本攻撃スキルの最終コイン的中前に残った[PenetratingSword]が2以上なら、代わりに全て消耗してその数値だけ[Sinking]を付与\n\n[SwordCutwithTear]を3保有しているなら、基本攻撃スキルを使用して敵へ最終コイン的中前に[SwordCutwithTear]を全て消耗して[Sinking]3, [Sinking]回数3を付与し、該当コインのダメージ量 +50%\n- この効果が発動したなら、該当ターン終了時に精神力が0未満なら精神力が0に初期化。(パニックまたはE.G.O侵蝕状態の場合は解除) その後に精神力を30回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[PenetratingSword]を保有しているなら、基本攻撃スキルを使用して敵へ的中前に[PenetratingSword]1を消耗して[Sinking]1を付与\n- このターンにて、最後に使用する基本攻撃スキルの最終コイン的中前に残った[PenetratingSword]が2以上なら、代わりに全て消耗してその数値だけ[Sinking]を付与\n\n[SwordCutwithTear]を3保有しているなら、基本攻撃スキルを使用して敵へ最終コイン的中前に[SwordCutwithTear]を全て消耗して[Sinking]3, [Sinking]回数3を付与し、該当コインのダメージ量 +50%\n- この効果が発動したなら、該当ターン終了時に精神力が0未満なら精神力が0に初期化。(パニックまたはE.G.O侵蝕状態の場合は解除) その後に精神力を30回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[PenetratingSword]을 보유하였다면, 기본 공격 스킬을 사용하여 적에게 적중 전에 [PenetratingSword] 1을 소모하여 [Sinking] 1 부여\n- 이번 턴에 마지막으로 사용하는 기본 공격 스킬의 마지막 코인 적중 전에 남은 [PenetratingSword]이 2 이상이면, 대신 전부 소모하여 그 수치만큼 [Sinking] 부여\n\n[SwordCutwithTear]를 3개 보유하였다면, 기본 공격 스킬을 사용하여 적에게 마지막 코인 적중 전에 [SwordCutwithTear]를 전부 소모하여 [Sinking] 3, [Sinking] 횟수 3을 부여하고 해당 코인의 피해량 +50%\n- 이 효과가 발동하였다면, 해당 턴 종료 시 정신력이 0 미만이면 정신력이 0으로 초기화 (패닉 또는 E.G.O 침식 상태일 경우, 해제). 그 후, 정신력 30 회복\nEN:\nIf this unit has [PenetratingSword]: before hitting an enemy with a Base Attack Skill, consume 1 [PenetratingSword] to inflict 1 [Sinking]\n- If this unit has 2+ [PenetratingSword] before this turn's final Base Attack Skill's final Coin hits, consume all of it instead to inflict it as [Sinking]\n\nIf this unit has 3 [SwordCutwithTear]: before hitting an enemy with the final Coin of a Base Attack Skill, consume all [SwordCutwithTear] to inflict 3 [Sinking] and +3 [Sinking] Count, and deal +50% damage with that Coin\n- If this effect activated, reset to 0 SP if this unit has less than 0 SP at Turn End. (when in Panic or 'E.G.O Corrosion', recover) Then, heal 30 SP"
+  },
+  {
+    "key": "1091301-name",
+    "original": "正義の魔法少女 / 絶望の騎士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "正義の魔法少女 / 絶望の騎士\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의의 마법소녀 / 절망의 기사\nEN:\nMagical Girl of Justice / Knight of Despair"
+  },
+  {
+    "key": "1091301-desc",
+    "original": "[BlessingAlly]状態の時、\n- 攻撃での体力被ダメージ量が(精神力 ÷ 2)%だけ減少 (最大20%)\n\n[DespairAlly]状態の時、\n- 基本スキルでの与ダメージ量(-精神力 ÷ 2)%だけ増加 (最大20%)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BlessingAlly]状態の時、\n- 攻撃での体力被ダメージ量が(精神力 ÷ 2)%だけ減少 (最大20%)\n\n[DespairAlly]状態の時、\n- 基本スキルでの与ダメージ量(-精神力 ÷ 2)%だけ増加 (最大20%)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BlessingAlly] 상태일 때,\n- 공격으로 받는 체력 피해량이 (정신력 / 2)%만큼 감소 (최대 20%)\n\n[DespairAlly] 상태일 때,\n- 기본 스킬로 가하는 피해량이 (-정신력 / 2)%만큼 증가 (최대 20%)\nEN:\nWhen in [BlessingAlly] state...\n- Take -(SP / 2)% HP damage from attacks (max 20%)\n\nWhen in [DespairAlly] state...\n- Deal +(-SP/2)% damage with Base Skills (max 20%)"
+  },
+  {
+    "key": "1091311-name",
+    "original": "正義の魔法少女 / 絶望の騎士\n<CMT_KR>\n<CMT_JP>",
+    "translation": "正義の魔法少女 / 絶望の騎士\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정의의 마법소녀 / 절망의 기사\nEN:\nMagical Girl of Justice / Knight of Despair"
+  },
+  {
+    "key": "1091311-desc",
+    "original": "[BlessingAlly]状態の時、\n- 攻撃での体力被ダメージ量が(精神力 ÷ 2)%だけ減少 (最大20%)\n<style=\"highlight\">- 戦闘開始時に[ProtectiveSword]が3以上なら、[Protection]を1得る\n- 戦闘開始時に[ProtectiveSword]が5の場合は代わりに、[Protection]2, [ParryingResultUp]1を得る</style>\n\n[DespairAlly]状態の時、\n- 基本スキルでの与ダメージ量(-精神力 ÷ 2)%だけ増加 (最大20%)\n<style=\"highlight\">- 戦闘開始時に[PenetratingSword]が3以上なら、[AttackDmgUp]を1得る\n- 戦闘開始時に[PenetratingSword]が5の場合は代わりに、[AttackDmgUp]2, [ResultEnhancement]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BlessingAlly]状態の時、\n- 攻撃での体力被ダメージ量が(精神力 ÷ 2)%だけ減少 (最大20%)\n<style=\"highlight\">- 戦闘開始時に[ProtectiveSword]が3以上なら、[Protection]を1得る\n- 戦闘開始時に[ProtectiveSword]が5の場合は代わりに、[Protection]2, [ParryingResultUp]1を得る</style>\n\n[DespairAlly]状態の時、\n- 基本スキルでの与ダメージ量(-精神力 ÷ 2)%だけ増加 (最大20%)\n<style=\"highlight\">- 戦闘開始時に[PenetratingSword]が3以上なら、[AttackDmgUp]を1得る\n- 戦闘開始時に[PenetratingSword]が5の場合は代わりに、[AttackDmgUp]2, [ResultEnhancement]1を得る</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BlessingAlly] 상태일 때,\n- 공격으로 받는 체력 피해량이 (정신력 / 2)%만큼 감소 (최대 20%)\n&lt;style=\"highlight\"&gt;- 전투 시작 시 [ProtectiveSword]이 3 이상이면, [Protection] 1 얻음\n- 전투 시작 시 [ProtectiveSword]이 5일 경우, 대신 [Protection] 2, [ParryingResultUp] 1 얻음&lt;/style&gt;\n\n[DespairAlly] 상태일 때,\n- 기본 스킬로 가하는 피해량이 (-정신력 / 2)%만큼 증가 (최대 20%)\n&lt;style=\"highlight\"&gt;- 전투 시작 시 [PenetratingSword]이 3 이상이면, [AttackDmgUp] 1 얻음\n- 전투 시작 시 [PenetratingSword]이 5일 경우, 대신 [AttackDmgUp] 2, [ResultEnhancement] 1 얻음&lt;/style&gt;\nEN:\nWhen in [BlessingAlly] state...\n- Take -(SP / 2)% HP damage from attacks (max 20%)\n&lt;style=\"highlight\"&gt;- Combat Start: at 3+ [ProtectiveSword], gain 1 [Protection]\n- Combat Start: at 5 [ProtectiveSword], gain 2 [Protection] and 1 [ParryingResultUp] instead&lt;/style&gt;\n\nWhen in [DespairAlly] state...\n- Deal +(-SP/2)% damage with Base Skills (max 20%)\n&lt;style=\"highlight\"&gt;- Combat Start: at 3+ [PenetratingSword] gain 1 [AttackDmgUp]\n- Combat Start: at 5 [PenetratingSword], gain 2 [AttackDmgUp] and 1 [ResultEnhancement] instead&lt;/style&gt;"
+  },
+  {
+    "key": "1091321-name",
+    "original": "絶望する全ての者の為…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望する全ての者の為…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망하는 모든 자들을 위해…\nEN:\nFor All Those Who Despair..."
+  },
+  {
+    "key": "1091321-desc",
+    "original": "戦闘開始時、編成順が最も早い味方に効果適用\n\n精神力が -15以下なら、減算コインスキルの最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、編成順が最も早い味方に効果適用\n\n精神力が -15以下なら、減算コインスキルの最終威力 +1\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, 편성 순서가 가장 빠른 아군에게 효과 적용\n\n정신력이 -15 이하면, 빼기 코인 스킬의 최종 위력 +1\nEN:\nCombat Start: applies to the ally with the earliest Deployment order\n\nAt -15 or less SP, +1 Final Power to Minus Coin Skills"
+  },
+  {
+    "key": "1091331-name",
+    "original": "絶望する全ての者の為…。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "絶望する全ての者の為…。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n절망하는 모든 자들을 위해…\nEN:\nFor All Those Who Despair..."
+  },
+  {
+    "key": "1091331-desc",
+    "original": "戦闘開始時、編成順が最も早い味方に効果適用\n\n精神力が -15以下なら、減算コインスキルの最終威力 +1\n<style=\"highlight\">精神力が -30以下なら、代わりに減算コインスキルの最終威力 +1, ダメージ量 +15%</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘開始時、編成順が最も早い味方に効果適用\n\n精神力が -15以下なら、減算コインスキルの最終威力 +1\n<style=\"highlight\">精神力が -30以下なら、代わりに減算コインスキルの最終威力 +1, ダメージ量 +15%</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 시작 시, 편성 순서가 가장 빠른 아군에게 효과 적용\n\n정신력이 -15 이하면, 빼기 코인 스킬의 최종 위력 +1\n&lt;style=\"highlight\"&gt;정신력이 -30 이하면, 대신 빼기 코인 스킬의 최종 위력 +1, 피해량 +15%&lt;/style&gt;\nEN:\nCombat Start: applies to the ally with the earliest Deployment order\n\nAt -15 or less SP, +1 Final Power to Minus Coin Skills\n&lt;style=\"highlight\"&gt;At -30 or less SP, +15% damage and +1 Final Power to Minus Coin Skills instead&lt;/style&gt;"
   }
 ]

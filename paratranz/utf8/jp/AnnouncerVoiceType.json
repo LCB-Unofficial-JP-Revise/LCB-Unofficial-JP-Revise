@@ -208,5 +208,19 @@
     "translation": "味方が多数死亡時\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n아군 다수가 사망시\nEN:\nMultiple Ally Deaths"
+  },
+  {
+    "key": "Win-content",
+    "original": "戦闘勝利\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘勝利\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 승리\nEN:\nVictory Cry"
+  },
+  {
+    "key": "Defeat-content",
+    "original": "戦闘敗北\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘敗北\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 패배\nEN:\nDefeat Wail"
   }
 ]

@@ -1097,5 +1097,355 @@
     "translation": "[OnSucceedAttack] [Burst]回数が(対象の[EntangledCurseTalisman] ÷ 3)だけ増加 (最大2, 小数点切り捨て)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Burst] 횟수를 (대상의 [EntangledCurseTalisman] / 3)만큼 증가 (최대 2, 소수점 버림)\nEN:\n[OnSucceedAttack] Inflict +([EntangledCurseTalisman] on target / 3) [Burst] Count (max 2, rounded down)"
+  },
+  {
+    "key": "2030911-levelList[0].name",
+    "original": "愛と憎悪の名の下に - メジャー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛と憎悪の名の下に - メジャー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑과 증오의 이름으로 - 메이저 아르카나 슬레이브!!!\nEN:\nIn the Name of Love and Hate - Major Arcana Slave!!!"
+  },
+  {
+    "key": "2030911-levelList[0].abName",
+    "original": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕\nEN:\nThe Queen of Hatred"
+  },
+  {
+    "key": "2030911-levelList[0].desc",
+    "original": "[BeforeAttack] 自分を除くランダムな味方1 + (嫉妬共鳴数 ÷ 3)名へ[MagicalGirlResponse]1を付与 (最大3名)\n\n[BeforeAttack] ([Charge] - 1)だけ攻撃加重値が増加 (最大3)\n\n[EndSkill]  自分の[Charge]回数を全て消耗し、体力の比率が最も低い味方 2 + (嫉妬共鳴数 ÷ 2)名の体力を(消耗した[Charge]回数)%だけ回復 (最大5名、最大5%)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 自分を除くランダムな味方1 + (嫉妬共鳴数 ÷ 3)名へ[MagicalGirlResponse]1を付与 (最大3名)\n\n[BeforeAttack] ([Charge] - 1)だけ攻撃加重値が増加 (最大3)\n\n[EndSkill]  自分の[Charge]回数を全て消耗し、体力の比率が最も低い味方 2 + (嫉妬共鳴数 ÷ 2)名の体力を(消耗した[Charge]回数)%だけ回復 (最大5名、最大5%)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 자신을 제외한 무작위 아군 1 + (질투 공명 수 / 3)명에게 [MagicalGirlResponse] 1 부여 (최대 3명)\n\n[BeforeAttack] ([Charge] - 1)만큼 공격 가중치 증가 (최대 3)\n\n[EndSkill]  자신의 [Charge] 횟수를 전부 소모하여 체력 비율이 가장 낮은 아군 2 + (질투 공명 수 / 2)명의 체력을 (소모한 [Charge] 횟수)%만큼 회복  (최대 5명, 최대 5%)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [ArcanaQueenOfHate] 1 얻음\nEN:\n[BeforeAttack] Apply 1 [MagicalGirlResponse] to (1 + (Envy Reson. / 3)) random other allies (max 3 allies)\n\n[BeforeAttack] Gain +([Charge] - 1) Atk Weight (max 3)\n\n[EndSkill] Consume all [Charge] Count on self to heal (2 + (Envy Reson. / 2)) allies with the least HP percentages by ([Charge] Count consumed)% HP (max 5 allies, max 5%)\n\n[EndSkill] If this unit is Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [ArcanaQueenOfHate]"
+  },
+  {
+    "key": "2030911-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030911-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が1増加 (1ターンにつき最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が1増加 (1ターンにつき最大5)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가 (턴 당 최대 5)\nEN:\n[OnSucceedAttack] Gain +1 [Charge] Count (5 per turn)"
+  },
+  {
+    "key": "2030911-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030911-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n[OnSucceedAttackHead] Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "2030911-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Burst]を([Charge] - 1)だけ付与 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]を([Charge] - 1)だけ付与 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst]을 ([Charge] - 1)만큼 부여 (최대 2)\nEN:\n[OnSucceedAttack] Inflict ([Charge] - 1) [Burst] (max 2)"
+  },
+  {
+    "key": "2030911-levelList[1].name",
+    "original": "愛と憎悪の名の下に - メジャー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛と憎悪の名の下に - メジャー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑과 증오의 이름으로 - 메이저 아르카나 슬레이브!!!\nEN:\nIn the Name of Love and Hate - Major Arcana Slave!!!"
+  },
+  {
+    "key": "2030911-levelList[1].abName",
+    "original": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕\nEN:\nThe Queen of Hatred"
+  },
+  {
+    "key": "2030911-levelList[1].desc",
+    "original": "[BeforeAttack] 自分を除くランダムな味方1 + (嫉妬共鳴数 ÷ 3)名へ[MagicalGirlResponse]1を付与 (最大3名)\n<style=\"highlight\">- 自分に[MagicalGirlAppear]があれば、代わりにランダムな味方1 + (嫉妬共鳴数 ÷ 3)名へ[MagicalGirlResponse]2を付与 (最大3名)</style>\n\n[BeforeAttack] ([Charge] - 1)だけ攻撃加重値が増加 (最大<style=\"highlight\">5</style>)\n\n[EndSkill]  自分の[Charge]回数を全て消耗し、体力の比率が最も低い味方 2 + (嫉妬共鳴数 ÷ 2)名の体力を(消耗した[Charge]回数)%だけ回復 (最大5名、最大<style=\"highlight\">8</style>%)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 自分を除くランダムな味方1 + (嫉妬共鳴数 ÷ 3)名へ[MagicalGirlResponse]1を付与 (最大3名)\n<style=\"highlight\">- 自分に[MagicalGirlAppear]があれば、代わりにランダムな味方1 + (嫉妬共鳴数 ÷ 3)名へ[MagicalGirlResponse]2を付与 (最大3名)</style>\n\n[BeforeAttack] ([Charge] - 1)だけ攻撃加重値が増加 (最大<style=\"highlight\">5</style>)\n\n[EndSkill]  自分の[Charge]回数を全て消耗し、体力の比率が最も低い味方 2 + (嫉妬共鳴数 ÷ 2)名の体力を(消耗した[Charge]回数)%だけ回復 (最大5名、最大<style=\"highlight\">8</style>%)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 자신을 제외한 무작위 아군 1 + (질투 공명 수 / 3)명에게 [MagicalGirlResponse] 1 부여 (최대 3명)\n&lt;style=\"highlight\"&gt;- 자신에게 [MagicalGirlAppear]이 있으면, 대신하여 무작위 아군 1 + (질투 공명 수 / 3)에게 [MagicalGirlResponse] 2 부여 (최대 3명)&lt;/style&gt;\n\n[BeforeAttack] ([Charge] - 1)만큼 공격 가중치 증가 (최대 &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\n[EndSkill]  자신의 [Charge] 횟수를 전부 소모하여 체력 비율이 가장 낮은 아군 2 + (질투 공명 수 / 2)명의 체력을 (소모한 [Charge] 횟수)%만큼 회복  (최대 5명, 최대 &lt;style=\"highlight\"&gt;8&lt;/style&gt;%)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [ArcanaQueenOfHate] 1 얻음\nEN:\n[BeforeAttack] Apply 1 [MagicalGirlResponse] to (1 + (Envy Reson. / 3)) random other allies (max 3 allies)\n&lt;style=\"highlight\"&gt;- If this unit has [MagicalGirlAppear], apply 2 [MagicalGirlResponse] to (1 + (Envy Reson. / 3)) random other allies instead (max 3 allies)&lt;/style&gt;\n\n[BeforeAttack] Gain +([Charge] - 1) Atk Weight (max &lt;style=\"highlight\"&gt;5&lt;/style&gt;)\n[EndSkill] Consume all [Charge] Count on self to heal (2 + (Envy Reson. / 2)) allies with the least HP percentages by ([Charge] Count consumed)% HP (max 5 allies, max &lt;style=\"highlight\"&gt;8&lt;/style&gt;%)\n\n[EndSkill] If this unit is Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [ArcanaQueenOfHate]"
+  },
+  {
+    "key": "2030911-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030911-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が1増加 (1ターンにつき最大5)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が1増加 (1ターンにつき最大5)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가 (턴 당 최대 5)\nEN:\n[OnSucceedAttack] Gain +1 [Charge] Count (5 per turn)"
+  },
+  {
+    "key": "2030911-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030911-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackHead] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackHead] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackHead] 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n[OnSucceedAttackHead] Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "2030911-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Burst]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">3</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">3</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst]을 ([Charge] - 1)만큼 부여 (최대 &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Inflict ([Charge] - 1) [Burst] (max &lt;style=\"highlight\"&gt;3&lt;/style&gt;)"
+  },
+  {
+    "key": "2030911-levelList[2].name",
+    "original": "愛と憎悪の名の下に - メジャー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛と憎悪の名の下に - メジャー・アルカナ・スレイブ！！！\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑과 증오의 이름으로 - 메이저 아르카나 슬레이브!!!\nEN:\nIn the Name of Love and Hate - Major Arcana Slave!!!"
+  },
+  {
+    "key": "2030911-levelList[2].abName",
+    "original": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕\nEN:\nThe Queen of Hatred"
+  },
+  {
+    "key": "2030911-levelList[2].desc",
+    "original": "[BeforeAttack] 自分を除くランダムな味方1 + (嫉妬共鳴数 ÷ <style=\"highlight\">2</style>)名へ[MagicalGirlResponse]1を付与 (最大<style=\"highlight\">4</style>名)\n- 自分に[MagicalGirlAppear]があれば、代わりにランダムな味方1 + (嫉妬共鳴数 ÷ <style=\"highlight\">2</style>)名へ[MagicalGirlResponse]2を付与 (最大<style=\"highlight\">4</style>名)\n\n[BeforeAttack] ([Charge] - 1)だけ攻撃加重値が増加 (最大5)\n<style=\"highlight\">- 自分に[MagicalGirlAppear]があれば、代わりに[Charge]だけ攻撃加重値が増加 (最大5)</style>\n\n[EndSkill]  自分の[Charge]回数を全て消耗し、体力の比率が最も低い味方 2 + (嫉妬共鳴数 ÷ 2)名の体力を(消耗した[Charge]回数)%だけ回復 (最大5名、最大<style=\"highlight\">10</style>%)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[BeforeAttack] 自分を除くランダムな味方1 + (嫉妬共鳴数 ÷ <style=\"highlight\">2</style>)名へ[MagicalGirlResponse]1を付与 (最大<style=\"highlight\">4</style>名)\n- 自分に[MagicalGirlAppear]があれば、代わりにランダムな味方1 + (嫉妬共鳴数 ÷ <style=\"highlight\">2</style>)名へ[MagicalGirlResponse]2を付与 (最大<style=\"highlight\">4</style>名)\n\n[BeforeAttack] ([Charge] - 1)だけ攻撃加重値が増加 (最大5)\n<style=\"highlight\">- 自分に[MagicalGirlAppear]があれば、代わりに[Charge]だけ攻撃加重値が増加 (最大5)</style>\n\n[EndSkill]  自分の[Charge]回数を全て消耗し、体力の比率が最も低い味方 2 + (嫉妬共鳴数 ÷ 2)名の体力を(消耗した[Charge]回数)%だけ回復 (最大5名、最大<style=\"highlight\">10</style>%)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[ArcanaQueenOfHate]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[BeforeAttack] 자신을 제외한 무작위 아군 1 + (질투 공명 수 / &lt;style=\"highlight\"&gt;2&lt;/style&gt;)명에게 [MagicalGirlResponse] 1 부여 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;명)\n- 자신에게 [MagicalGirlAppear]이 있으면, 대신하여 무작위 아군 1 + (질투 공명 수 /&lt;style=\"highlight\"&gt; 2&lt;/style&gt;)에게 [MagicalGirlResponse] 2 부여 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;명)\n\n[BeforeAttack] ([Charge] - 1)만큼 공격 가중치 증가 (최대 5)\n&lt;style=\"highlight\"&gt;- 자신에게 [MagicalGirlAppear]이 있으면, 대신하여 [Charge]만큼 공격 가중치 증가 (최대 5)&lt;/style&gt;\n\n[EndSkill]  자신의 [Charge] 횟수를 전부 소모하여 체력 비율이 가장 낮은 아군 2 + (질투 공명 수 / 2)명의 체력을 (소모한 [Charge] 횟수)%만큼 회복  (최대 5명, 최대 &lt;style=\"highlight\"&gt;10&lt;/style&gt;%)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [ArcanaQueenOfHate] 1 얻음\nEN:\n[BeforeAttack] Apply 1 [MagicalGirlResponse] to (1 + (Envy Reson. / &lt;style=\"highlight\"&gt;2&lt;/style&gt;)) random other allies (max &lt;style=\"highlight\"&gt;4&lt;/style&gt; allies)\n- If this unit has [MagicalGirlAppear], apply 2 [MagicalGirlResponse] to (1 + (Envy Reson. / &lt;style=\"highlight\"&gt;2&lt;/style&gt;)) random other allies instead (max &lt;style=\"highlight\"&gt;4&lt;/style&gt; allies)\n\n[BeforeAttack] Gain +([Charge] - 1) Atk Weight (max 5)\n&lt;style=\"highlight\"&gt;- If this unit has [MagicalGirlAppear], gain +([Charge]) Atk Weight instead (max 5)&lt;/style&gt;\n\n[EndSkill] Consume all [Charge] Count on self to heal (2 + (Envy Reson. / 2)) allies with the least HP percentages by ([Charge] Count consumed)% HP (max 5 allies, max &lt;style=\"highlight\"&gt;10&lt;/style&gt;%)\n\n[EndSkill] If this unit is Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [ArcanaQueenOfHate]"
+  },
+  {
+    "key": "2030911-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030911-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">2</style>増加(1ターンにつき最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が<style=\"highlight\">2</style>増加(1ターンにつき最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가 (턴 당 최대 &lt;style=\"highlight\"&gt;10&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain +&lt;style=\"highlight\"&gt;2&lt;/style&gt; [Charge] Count (&lt;style=\"highlight\"&gt;10&lt;/style&gt; per turn)"
+  },
+  {
+    "key": "2030911-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030911-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n[OnSucceedAttack] Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "2030911-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Burst]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">4</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Burst]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">4</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Burst]을 ([Charge] - 1)만큼 부여 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Inflict ([Charge] - 1) [Burst] (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)"
+  },
+  {
+    "key": "2030911-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "<style=\"highlight\">- 自分に[MagicalGirlAppear]があれば、[Burst]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">- 自分に[MagicalGirlAppear]があれば、[Burst]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;- 자신에게 [MagicalGirlAppear]이 있으면, [Burst] 횟수 1 증가&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;- If this unit has [MagicalGirlAppear], inflict +1 [Burst] Count&lt;/style&gt;"
+  },
+  {
+    "key": "2030921-levelList[0].name",
+    "original": "マキシマイズド・リバースド・アルカナ・スレイブ - イレイシング・オブ・ヘイトリッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マキシマイズド・リバースド・アルカナ・スレイブ - イレイシング・オブ・ヘイトリッド\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맥시마이즈드 리버스드 아르카나 슬레이브 -  이레이징 오브 헤이트리드\nEN:\nMaximized Reversed Arcana Slave - Erasure of Hatred"
+  },
+  {
+    "key": "2030921-levelList[0].abName",
+    "original": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕\nEN:\nThe Queen of Hatred"
+  },
+  {
+    "key": "2030921-levelList[0].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] [Charge]だけ攻撃加重値が増加 (最大5)\n\n[BeforeAttack] 自分の[Charge]回数を全て消耗し、消耗した[Charge]回数1につきダメージ量 +1% (最大20%)\n\n[BeforeAttack] メインターゲットに[VillainMark]があれば、[Charge]1につきダメージ量 +3% (最大15%)\n\n[BeforeAttack] 嫉妬共鳴数3につき、ダメージ量 +5% (最大10%, 小数点切り捨て)\n\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -12 (最大-24)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[HystericGauge]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] [Charge]だけ攻撃加重値が増加 (最大5)\n\n[BeforeAttack] 自分の[Charge]回数を全て消耗し、消耗した[Charge]回数1につきダメージ量 +1% (最大20%)\n\n[BeforeAttack] メインターゲットに[VillainMark]があれば、[Charge]1につきダメージ量 +3% (最大15%)\n\n[BeforeAttack] 嫉妬共鳴数3につき、ダメージ量 +5% (最大10%, 小数点切り捨て)\n\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -12 (最大-24)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[HystericGauge]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [Charge]만큼 공격 가중치 증가 (최대 5)\n\n[BeforeAttack] 자신의 [Charge] 횟수를 전부 소모하여 소모한 [Charge] 횟수당 피해량 +1% (최대 20%)\n\n[BeforeAttack] 메인 타겟에게 [VillainMark]이 있으면, [Charge]당 피해량 +3% (최대 15%)\n\n[BeforeAttack] 질투 공명 수 3당, 피해량 +5% (최대 10%, 소수점 버림)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -12 (최대 -24)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [HystericGauge] 1 얻음\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n\n[BeforeAttack] Consume all [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max 20%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +3% damage for every [Charge] (max 15%)\n\n[BeforeAttack] Deal +5% damage for every 3 Envy Reson. (max 10%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]"
+  },
+  {
+    "key": "2030921-levelList[0].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030921-levelList[0].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が1増加 (1ターンにつき最大7)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が1増加 (1ターンにつき最大7)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 1 증가 (턴 당 최대 7)\nEN:\n[OnSucceedAttack] Gain +1 [Charge] Count (7 times per turn)"
+  },
+  {
+    "key": "2030921-levelList[0].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030921-levelList[0].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n[OnSucceedAttackTail] Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "2030921-levelList[0].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Sinking]を([Charge] - 1)だけ付与 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]を([Charge] - 1)だけ付与 (最大2)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking]을 ([Charge] - 1)만큼 부여 (최대 2)\nEN:\n[OnSucceedAttack] Inflict ([Charge] - 1) [Sinking] (max 2)"
+  },
+  {
+    "key": "2030921-levelList[1].name",
+    "original": "マキシマイズド・リバースド・アルカナ・スレイブ - イレイシング・オブ・ヘイトリッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マキシマイズド・リバースド・アルカナ・スレイブ - イレイシング・オブ・ヘイトリッド\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맥시마이즈드 리버스드 아르카나 슬레이브 -  이레이징 오브 헤이트리드\nEN:\nMaximized Reversed Arcana Slave - Erasure of Hatred"
+  },
+  {
+    "key": "2030921-levelList[1].abName",
+    "original": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕\nEN:\nThe Queen of Hatred"
+  },
+  {
+    "key": "2030921-levelList[1].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] [Charge]だけ攻撃加重値が増加 (最大5)\n<style=\"highlight\">- 自分に[NoVillain]があれば、代わりに([Charge] + 1)だけ攻撃加重値が増加 (最大5)</style>\n\n[BeforeAttack] 自分の[Charge]回数を全て消耗し、消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">40</style>%)\n\n[BeforeAttack] メインターゲットに[VillainMark]があれば、[Charge]1につきダメージ量 +<style=\"highlight\">5</style>% (最大<style=\"highlight\">25</style>%)\n<style=\"highlight\">-  自分に[HystericGauge]があれば、代わりに[Charge]1につきダメージ量 +7% (最大35%)</style>\n\n[BeforeAttack] 嫉妬共鳴数2につき、ダメージ量 +<style=\"highlight\">7</style>% (最大<style=\"highlight\">21</style>%, 小数点切り捨て)\n\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -12 (最大-24)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[HystericGauge]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] [Charge]だけ攻撃加重値が増加 (最大5)\n<style=\"highlight\">- 自分に[NoVillain]があれば、代わりに([Charge] + 1)だけ攻撃加重値が増加 (最大5)</style>\n\n[BeforeAttack] 自分の[Charge]回数を全て消耗し、消耗した[Charge]回数1につきダメージ量 +<style=\"highlight\">2</style>% (最大<style=\"highlight\">40</style>%)\n\n[BeforeAttack] メインターゲットに[VillainMark]があれば、[Charge]1につきダメージ量 +<style=\"highlight\">5</style>% (最大<style=\"highlight\">25</style>%)\n<style=\"highlight\">-  自分に[HystericGauge]があれば、代わりに[Charge]1につきダメージ量 +7% (最大35%)</style>\n\n[BeforeAttack] 嫉妬共鳴数2につき、ダメージ量 +<style=\"highlight\">7</style>% (最大<style=\"highlight\">21</style>%, 小数点切り捨て)\n\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -12 (最大-24)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[HystericGauge]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [Charge]만큼 공격 가중치 증가 (최대 5)\n&lt;style=\"highlight\"&gt;- 자신에게 [NoVillain]가 있으면, 대신하여 ([Charge] + 1)만큼 공격 가중치 증가 (최대 5)&lt;/style&gt;\n\n[BeforeAttack] 자신의 [Charge] 횟수를 전부 소모하여 소모한 [Charge] 횟수당 피해량 +&lt;style=\"highlight\"&gt;2&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;40&lt;/style&gt;%)\n\n[BeforeAttack] 메인 타겟에게 [VillainMark]이 있으면, [Charge]당 피해량 +&lt;style=\"highlight\"&gt;5&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;25&lt;/style&gt;%)\n&lt;style=\"highlight\"&gt;-  자신에게 [HystericGauge]가 있으면, 대신하여 [Charge]당 피해량 +7% (최대 35%)&lt;/style&gt;\n\n[BeforeAttack] 질투 공명 수 2당, 피해량 +&lt;style=\"highlight\"&gt;7&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;21&lt;/style&gt;%, 소수점 버림)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -12 (최대 -24)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [HystericGauge] 1 얻음\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n&lt;style=\"highlight\"&gt;- If this unit has [NoVillain], gain +([Charge] + 1) Atk Weight instead (max 5)&lt;/style&gt;\n\n[BeforeAttack] Consume all [Charge] Count and deal +&lt;style=\"highlight\"&gt;2&lt;/style&gt;% more damage for every [Charge] Count consumed (max &lt;style=\"highlight\"&gt;40&lt;/style&gt;%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +&lt;style=\"highlight\"&gt;5&lt;/style&gt;% damage for every [Charge] (max &lt;style=\"highlight\"&gt;25&lt;/style&gt;%)\n&lt;style=\"highlight\"&gt;- If this unit has [HystericGauge], deal +7% damage for every [Charge] instead (max 35%)&lt;/style&gt;\n\n[BeforeAttack] Deal +&lt;style=\"highlight\"&gt;7&lt;/style&gt;% damage for every 2 Envy Reson. (max &lt;style=\"highlight\"&gt;21&lt;/style&gt;%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]"
+  },
+  {
+    "key": "2030921-levelList[1].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030921-levelList[1].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加(1ターンにつき最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加(1ターンにつき最大<style=\"highlight\">10</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가 (턴 당 최대 &lt;style=\"highlight\"&gt;10&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count (&lt;style=\"highlight\"&gt;10&lt;/style&gt; per turn)"
+  },
+  {
+    "key": "2030921-levelList[1].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030921-levelList[1].coinlist[1].coindescs[1].desc",
+    "original": "[OnSucceedAttackTail] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttackTail] 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttackTail] 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n[OnSucceedAttackTail] Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "2030921-levelList[1].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Sinking]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">3</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">3</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking]을 ([Charge] - 1)만큼 부여 (최대 &lt;style=\"highlight\"&gt;3&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Inflict ([Charge] - 1) [Sinking] (max &lt;style=\"highlight\"&gt;3&lt;/style&gt;)"
+  },
+  {
+    "key": "2030921-levelList[2].name",
+    "original": "マキシマイズド・リバースド・アルカナ・スレイブ - イレイシング・オブ・ヘイトリッド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マキシマイズド・リバースド・アルカナ・スレイブ - イレイシング・オブ・ヘイトリッド\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n맥시마이즈드 리버스드 아르카나 슬레이브 -  이레이징 오브 헤이트리드\nEN:\nMaximized Reversed Arcana Slave - Erasure of Hatred"
+  },
+  {
+    "key": "2030921-levelList[2].abName",
+    "original": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕\nEN:\nThe Queen of Hatred"
+  },
+  {
+    "key": "2030921-levelList[2].desc",
+    "original": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] [Charge]だけ攻撃加重値が増加 (最大5)\n- 自分に[NoVillain]があれば、代わりに([Charge] + 1)だけ攻撃加重値が増加 (最大5)\n\n[BeforeAttack] 自分の[Charge]回数を全て消耗し、消耗した[Charge]回数1につきダメージ量 <style=\"highlight\">+2.5</style>% (最大<style=\"highlight\">50</style>%)\n\n[BeforeAttack] メインターゲットに[VillainMark]があれば、[Charge]1につきダメージ量 +5% (最大25%)\n-  自分に[HystericGauge]があれば、代わりに[Charge]1につきダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">50</style>%)\n\n[BeforeAttack] 嫉妬共鳴数2につき、ダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">30</style>%, 小数点切り捨て)\n\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -12 (最大-24)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[HystericGauge]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[CantIdentify]\nランダムな対象を攻撃\n[BeforeAttack] [Charge]だけ攻撃加重値が増加 (最大5)\n- 自分に[NoVillain]があれば、代わりに([Charge] + 1)だけ攻撃加重値が増加 (最大5)\n\n[BeforeAttack] 自分の[Charge]回数を全て消耗し、消耗した[Charge]回数1につきダメージ量 <style=\"highlight\">+2.5</style>% (最大<style=\"highlight\">50</style>%)\n\n[BeforeAttack] メインターゲットに[VillainMark]があれば、[Charge]1につきダメージ量 +5% (最大25%)\n-  自分に[HystericGauge]があれば、代わりに[Charge]1につきダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">50</style>%)\n\n[BeforeAttack] 嫉妬共鳴数2につき、ダメージ量 +<style=\"highlight\">10</style>% (最大<style=\"highlight\">30</style>%, 小数点切り捨て)\n\n[BeforeAttack] 破壊されたコイン数1枚につき基本威力 -12 (最大-24)\n\n[EndSkill] ロボトミーE.G.O::愛と憎悪の名の下に ドンキホーテなら、[HystericGauge]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[CantIdentify]\n무작위 대상 공격\n[BeforeAttack] [Charge]만큼 공격 가중치 증가 (최대 5)\n- 자신에게 [NoVillain]가 있으면, 대신하여 ([Charge] + 1)만큼 공격 가중치 증가 (최대 5)\n\n[BeforeAttack] 자신의 [Charge] 횟수를 전부 소모하여 소모한 [Charge] 횟수당 피해량 &lt;style=\"highlight\"&gt;+2.5&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\n\n[BeforeAttack] 메인 타겟에게 [VillainMark]이 있으면, [Charge]당 피해량 +5% (최대 25%)\n-  자신에게 [HystericGauge]가 있으면, 대신하여 [Charge]당 피해량 +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% (최대 &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\n\n[BeforeAttack] 질투 공명 수 2당, 피해량 &lt;style=\"highlight\"&gt;+10%&lt;/style&gt; (최대 &lt;style=\"highlight\"&gt;30%&lt;/style&gt;, 소수점 버림)\n\n[BeforeAttack] 파괴된 코인 수당 기본 위력 -12 (최대 -24)\n\n[EndSkill] 로보토미 E.G.O::사랑과 증오의 이름으로 돈키호테이면, [HystericGauge] 1 얻음\nEN:\n[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain +([Charge]) Atk Weight (max 5)\n- If this unit has [NoVillain], gain +([Charge] + 1) Atk Weight instead (max 5)\n\n[BeforeAttack] Consume all [Charge] Count and deal &lt;style=\"highlight\"&gt;+2.5%&lt;/style&gt; more damage for every [Charge] Count consumed (max &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\n\n[BeforeAttack] If the main target has [VillainMark], deal +5% damage for every [Charge] (max 25%)\n- If this unit has [HystericGauge], deal +&lt;style=\"highlight\"&gt;10&lt;/style&gt;% damage for every [Charge] instead (max &lt;style=\"highlight\"&gt;50&lt;/style&gt;%)\n\n[BeforeAttack] Deal+&lt;style=\"highlight\"&gt;10&lt;/style&gt;% damage for every 2 Envy Reson. (max &lt;style=\"highlight\"&gt;30&lt;/style&gt;%, rounded down)\n\n[BeforeAttack] Base Power -12 for every Cracked Coin (max -24)\n\n[EndSkill] If this unit is a Lobotomy E.G.O::In the Name of Love and Hate Don Quixote, gain 1 [HystericGauge]"
+  },
+  {
+    "key": "2030921-levelList[2].coinlist[0].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030921-levelList[2].coinlist[0].coindescs[1].desc",
+    "original": "[OnSucceedAttack] 自分の[Charge]回数が2増加(1ターンにつき最大<style=\"highlight\">14</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 自分の[Charge]回数が2増加(1ターンにつき最大<style=\"highlight\">14</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] 자신의 [Charge] 횟수 2 증가 (턴 당 최대 &lt;style=\"highlight\"&gt;14&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Gain +2 [Charge] Count (&lt;style=\"highlight\"&gt;14&lt;/style&gt; per turn)"
+  },
+  {
+    "key": "2030921-levelList[2].coinlist[1].coindescs[0].desc",
+    "original": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[SuperCoin]\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[SuperCoin]\nEN:\n[SuperCoin]"
+  },
+  {
+    "key": "2030921-levelList[2].coinlist[1].coindescs[1].desc",
+    "original": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[OnSucceedAttack]</style> 次のターンにメインターゲットへ[VillainMark]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]&lt;/style&gt; 다음 턴에 메인 타겟에게 [VillainMark] 부여\nEN:\n&lt;style=\"highlight\"&gt;[OnSucceedAttack]&lt;/style&gt; Inflict [VillainMark] against the main target next turn"
+  },
+  {
+    "key": "2030921-levelList[2].coinlist[1].coindescs[2].desc",
+    "original": "[OnSucceedAttack] [Sinking]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">4</style>)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Sinking]を([Charge] - 1)だけ付与 (最大<style=\"highlight\">4</style>)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[OnSucceedAttack] [Sinking]을 ([Charge] - 1)만큼 부여 (최대 &lt;style=\"highlight\"&gt;4&lt;/style&gt;)\nEN:\n[OnSucceedAttack] Inflict ([Charge] - 1) [Sinking] (max &lt;style=\"highlight\"&gt;4&lt;/style&gt;)"
+  },
+  {
+    "key": "2030921-levelList[2].coinlist[1].coindescs[3].desc",
+    "original": "<style=\"highlight\">- 自分に[NoVillain]があれば、[Sinking]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">- 自分に[NoVillain]があれば、[Sinking]回数が1増加</style>\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n&lt;style=\"highlight\"&gt;- 자신에게 [NoVillain]가 있으면, [Sinking] 횟수 1 증가&lt;/style&gt;\nEN:\n&lt;style=\"highlight\"&gt;- If this unit has [NoVillain], inflict +1 [Sinking] Count&lt;/style&gt;"
   }
 ]

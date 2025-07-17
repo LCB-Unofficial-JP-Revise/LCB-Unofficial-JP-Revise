@@ -1,0 +1,184 @@
+[
+  {
+    "key": "9805-name",
+    "original": "灰色の星座の加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "灰色の星座の加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n잿빛 별자리의 가호\nEN:\nAshen Constellation's Blessing"
+  },
+  {
+    "key": "9805-desc",
+    "original": "[編成1番人格専用効果]\n\nステージ開始時に[KnightBless]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[編成1番人格専用効果]\n\nステージ開始時に[KnightBless]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[편성 1번 인격 전용 효과]\n\n스테이지 시작 시 [KnightBless] 얻음\nEN:\n[Effects apply only to #1 Deployed Identity]\n\nGain [KnightBless] at Encounter Start"
+  },
+  {
+    "key": "9805-simpleDesc[0].simpleDesc",
+    "original": "[KnightBless]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[KnightBless]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[KnightBless] 얻음\nEN:\nGain [KnightBless]"
+  },
+  {
+    "key": "9806-name",
+    "original": "選ばれなかった者\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選ばれなかった者\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 받지 못한 자\nEN:\nThe Unchosen"
+  },
+  {
+    "key": "9806-desc",
+    "original": "味方がダメージを受けるたび、攻撃者へ[Sinking]3を付与\n\n味方が死亡するたび、全味方が次のターンに[Enhancement]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方がダメージを受けるたび、攻撃者へ[Sinking]3を付与\n\n味方が死亡するたび、全味方が次のターンに[Enhancement]2を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군이 피격당할 때마다, 대상에게 [Sinking] 3 부여\n\n아군이 사망할 때마다, 모든 아군이 다음 턴에 [Enhancement] 2 얻음\nEN:\nWhenever an ally takes a hit, inflict 3 [Sinking] on the attacker\n\nWhenever an ally is killed, all allies gain 2 [Enhancement] next turn"
+  },
+  {
+    "key": "9806-simpleDesc[0].simpleDesc",
+    "original": "[Sinking]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Sinking]を付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Sinking] 부여\nEN:\nInflict [Sinking]"
+  },
+  {
+    "key": "9806-simpleDesc[1].simpleDesc",
+    "original": "[Enhancement]、[Agility]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[Enhancement]、[Agility]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[Enhancement], [Agility] 얻음\nEN:\nGain [Enhancement] and [Agility]"
+  },
+  {
+    "key": "9807-name",
+    "original": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "translation": "涙で研ぎ澄まされた剣\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n눈물로 벼려낸 검\nEN:\nSword Sharpened with Tears"
+  },
+  {
+    "key": "9807-desc",
+    "original": "味方のスキル的中時、対象の精神力が -20以下なら、対象の[Sinking]威力だけ憂鬱ダメージ (スキルごとに1回)\n\n- 貫通スキルなら、対象の([Sinking]回数 ÷ 2)だけ追加で固定ダメージ (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方のスキル的中時、対象の精神力が -20以下なら、対象の[Sinking]威力だけ憂鬱ダメージ (スキルごとに1回)\n\n- 貫通スキルなら、対象の([Sinking]回数 ÷ 2)だけ追加で固定ダメージ (スキルごとに1回)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군의 스킬 적중 시, 대상의 정신력이 -20 이하면, 대상의 [Sinking] 위력만큼 우울 피해 (스킬 당 1회)\n\n- 관통 스킬이었으면, 대상의 ([Sinking] 횟수 / 2)만큼 추가 고정 피해 (스킬 당 1회)\nEN:\nWhen an ally hits with a Skill, if target has -20 or less SP, deal Gloom damage equal to [Sinking] on target (once per Skill)\n\n- If it was a Pierce Skill, deal ([Sinking] Count on target / 2) bonus fixed damage (once per Skill)"
+  },
+  {
+    "key": "9807-simpleDesc[0].simpleDesc",
+    "original": "追加で憂鬱ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "追加で憂鬱ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추가 우울 피해\nEN:\nBonus Gloom damage"
+  },
+  {
+    "key": "9807-simpleDesc[1].simpleDesc",
+    "original": "追加で固定ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "追加で固定ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n추가 고정 피해\nEN:\nBonus fixed damage"
+  },
+  {
+    "key": "9808-name",
+    "original": "魔法少女の愛情が込められたプレゼント\n<CMT_KR>\n<CMT_JP>",
+    "translation": "魔法少女の愛情が込められたプレゼント\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n마법소녀의 애정 어린 선물\nEN:\nMagical Girl's Lovely Gift"
+  },
+  {
+    "key": "9808-desc",
+    "original": "味方の[Charge]回数または特殊充電を得るか消耗するスキルを的中させるたび、ランダムな味方の体力または精神力がランダムに3回復する (コインにつき1回、体力または精神力が最大の味方を除く)\n\n味方がパニックまたはE.G.O侵蝕状態から回復するとき、精神力が20回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "味方の[Charge]回数または特殊充電を得るか消耗するスキルを的中させるたび、ランダムな味方の体力または精神力がランダムに3回復する (コインにつき1回、体力または精神力が最大の味方を除く)\n\n味方がパニックまたはE.G.O侵蝕状態から回復するとき、精神力が20回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아군의 [Charge] 횟수 또는 특수 충전을 얻거나 소모하는 스킬 적중시마다, 무작위 아군의 체력 또는 정신력이 무작위로 3 회복됨 (코인 당 1회. 체력 또는 정신력이 최대인 아군 제외)\n\n아군이 패닉 또는 E.G.O 침식 상태에서 회복할 때, 정신력 20 회복\nEN:\nWhen an ally hits with a Skill that gains or consumes [Charge] Count or 'Unique Charge', a random ally's HP or SP heals by 3 (once per Coin; excludes allies with max HP or SP)\n\nWhen an ally recovers from Panic or 'E.G.O Corrosion', heal 20 SP"
+  },
+  {
+    "key": "9808-simpleDesc[0].simpleDesc",
+    "original": "体力、精神力をランダムに回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "体力、精神力をランダムに回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n체력, 정신력 무작위 회복\nEN:\nRandomly heal HP or SP"
+  },
+  {
+    "key": "9808-simpleDesc[1].simpleDesc",
+    "original": "精神力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "精神力を回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 회복\nEN:\nHeal SP"
+  },
+  {
+    "key": "9809-name",
+    "original": "尽きた使い道、宿った憎悪\n<CMT_KR>\n<CMT_JP>",
+    "translation": "尽きた使い道、宿った憎悪\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n다한 쓸모, 맺힌 증오\nEN:\nSpent Use, Forming Hate"
+  },
+  {
+    "key": "9809-desc",
+    "original": "攻撃スキルで[Charge]回数を消耗したら、次のターンに(消耗した[Charge]回数 ÷ 2)だけ[AttackUp]を得る (1ターンにつき最大10, 特殊充電を含む)\n\nターン終了時、このターンに味方の精神力が減少したなら、該当する味方が次のターンに[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "攻撃スキルで[Charge]回数を消耗したら、次のターンに(消耗した[Charge]回数 ÷ 2)だけ[AttackUp]を得る (1ターンにつき最大10, 特殊充電を含む)\n\nターン終了時、このターンに味方の精神力が減少したなら、該当する味方が次のターンに[Enhancement]1, [Vulnerable]1を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n공격 스킬로 [Charge] 횟수를 소모하면, 다음 턴에 (소모한 [Charge] 횟수 / 2) 만큼 [AttackUp] 얻음 (턴 당 최대 10. 특수 충전을 포함)\n\n턴 종료 시 이번 턴에 아군의 정신력이 감소했다면, 해당 아군이 다음 턴에 [Enhancement] 1, [Vulnerable] 1 얻음\nEN:\nWhen consuming [Charge] Count with Attack Skills, gain ([Charge] Count consumed / 2) [AttackUp] next turn (10 per turn; including 'Unique Charge')\n\nTurn End: if an ally lost SP this turn, the said ally gains 1 [Enhancement] and 1 [Vulnerable] next turn"
+  },
+  {
+    "key": "9809-simpleDesc[0].simpleDesc",
+    "original": "[AttackUp]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[AttackUp]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackUp] 얻음\nEN:\nGain [AttackUp]"
+  },
+  {
+    "key": "9809-simpleDesc[1].simpleDesc",
+    "original": "[AttackUp]、[DefenseDown]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[AttackUp]、[DefenseDown]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[AttackUp], [DefenseDown] 얻음\nEN:\nGain [AttackUp] and [DefenseDown]"
+  },
+  {
+    "key": "9810-name",
+    "original": "トラウマ防止フィールド\n<CMT_KR>\n<CMT_JP>",
+    "translation": "トラウマ防止フィールド\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n트라우마 방지장\nEN:\nTrauma Shield"
+  },
+  {
+    "key": "9810-desc",
+    "original": "ステージ開始時、全味方が[TraumaShield]2を得る。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ステージ開始時、全味方が[TraumaShield]2を得る。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n스테이지 시작 시, 모든 아군이 [TraumaShield] 2 얻음\nEN:\nEncounter Start: all allies gain 2 [TraumaShield]"
+  },
+  {
+    "key": "9810-simpleDesc[0].simpleDesc",
+    "original": "[TraumaShield]を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[TraumaShield]を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[TraumaShield] 얻음\nEN:\nGain [TraumaShield]"
+  },
+  {
+    "key": "9811-name",
+    "original": "価値処分\n<CMT_KR>\n<CMT_JP>",
+    "translation": "価値処分\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n가치처분\nEN:\nValue Disposal"
+  },
+  {
+    "key": "9811-desc",
+    "original": "戦闘中に味方が死亡時、全E.G.O資源を2つずつ得る\n\n戦闘開始時、このターンに待機解除された味方がいるなら、精神力が最も低い味方2名の精神力を10回復(1ターンにつき1回、パニック / E.G.O侵蝕状態を除外)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中に味方が死亡時、全E.G.O資源を2つずつ得る\n\n戦闘開始時、このターンに待機解除された味方がいるなら、精神力が最も低い味方2名の精神力を10回復(1ターンにつき1回、パニック / E.G.O侵蝕状態を除外)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 아군 사망 시, 모든 E.G.O 자원을 2개씩 얻음\n\n전투 시작 시 이번 턴에 대기해제된 아군이 있으면, 정신력이 가장 낮은 아군 2명의 정신력 10 회복 (턴 당 1회. 패닉 / E.G.O 침식 상태 제외)\nEN:\nWhen an ally dies in an Encounter, gain 2 E.G.O Resources for all Affinities\n\nCombat Start: if there are any allies who Substituted in this turn, heal 10 SP for 2 allies with the least SP (once per turn; unless they are in Panic or in 'E.G.O Corrosion')"
+  },
+  {
+    "key": "9811-simpleDesc[0].simpleDesc",
+    "original": "E.G.O資源を得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.O資源を得る\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\nE.G.O 자원 얻음\nEN:\nGain E.G.O Resources"
+  },
+  {
+    "key": "9811-simpleDesc[1].simpleDesc",
+    "original": "精神力を回復\n<CMT_KR>\n<CMT_JP>",
+    "translation": "精神力を回復\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n정신력 회복\nEN:\nHeal SP"
+  }
+]

@@ -241,7 +241,7 @@
     "key": "1012-panicDescription",
     "original": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_JP>",
     "translation": "<sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">脆弱</color></link></u>3を得る。マッチ中に1度でもコイン裏面が出ると該当マッチの間、マッチ威力が-3\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n&lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;취약&lt;/color&gt;&lt;/link&gt;</u> 3 얻음. 합 중 코인이 한 번이라도 뒷면이라면, 해당 합 동안 합 위력 -3.\nEN:\nGain 3 &lt;sprite name=\"Vulnerable\"&gt;&lt;color=#e30000&gt;<u>&lt;link=\"Vulnerable\"&gt;Fragile&lt;/color&gt;&lt;/link&gt;</u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
   },
   {
@@ -362,5 +362,19 @@
     "translation": "毎ターン終了時、[Sinking]5を得る。[Sinking]回数が3増加、自分のマッチ威力 -2\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n매 턴 종료 시 [Sinking] 5 얻음, [Sinking] 횟수 3 증가, 자신의 합 위력 -2\nEN:\nGain 5 [Sinking] and +3 [Sinking] Count at every Turn End; Clash Power -2"
+  },
+  {
+    "key": "9994-panicName",
+    "original": "愛と憎悪\n<CMT_KR>\n<CMT_JP>",
+    "translation": "愛と憎悪\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사랑과 증오\nEN:\nLove and Hate"
+  },
+  {
+    "key": "9994-panicDescription",
+    "original": "1ターンの間行動しない\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1ターンの間行動しない\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n한 턴 동안 행동하지 않음\nEN:\nDoes not act for this turn."
   }
 ]

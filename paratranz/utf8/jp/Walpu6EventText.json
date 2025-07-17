@@ -1,0 +1,366 @@
+[
+  {
+    "key": "Walpu6_event_desc-content",
+    "original": "憎悪と絶望 - イージー・ハードの戦闘にて幻想体を制圧し、ミッションをクリアしてください。\n\nミッションをクリアすれば様々な報酬が獲得できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎悪と絶望 - イージー・ハードの戦闘にて幻想体を制圧し、ミッションをクリアしてください。\n\nミッションをクリアすれば様々な報酬が獲得できます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오와 절망 쉬움, 어려움 난이도 전투에서 환상체를 제압하며 미션을 클리어하세요.\n\n미션을 클리어하면 다양한 보상을 얻을 수 있습니다.\nEN:\nSuppress the Abnormality in 'Easy' and 'Hard' difficulties of the Hatred and Despair Encounter.\n\nEarn various rewards by clearing these missions."
+  },
+  {
+    "key": "missionConditionTitle_10047-content",
+    "original": "アルカナ・スレイブで摩り切れた騎士のバフを持つ絶望の騎士の制圧に成功\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・スレイブで摩り切れた騎士のバフを持つ絶望の騎士の制圧に成功\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 슬레이브로 닳디 닳은 기사 버프를 가진 절망의 기사 제압 성공\nEN:\nUse Arcana Slave to suppress the Knight of Despair with the 'Weathered Knight' effect"
+  },
+  {
+    "key": "missionConditionTitle_10048-content",
+    "original": "憎しみの女王が、敵の攻撃スキルによってダメージを受けた回数が3回未満の状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王が、敵の攻撃スキルによってダメージを受けた回数が3回未満の状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕이 적의 공격 스킬로 피해를 3회 미만으로 받고 클리어\nEN:\nClear Encounter with The Queen of Hatred taking less than 3 hits from enemy Attack Skills"
+  },
+  {
+    "key": "missionConditionTitle_10049-content",
+    "original": "1回の戦闘で忘れられた騎士の剣を召喚したあと、1回以上復活させずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘で忘れられた騎士の剣を召喚したあと、1回以上復活させずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 잊혀진 기사의 검 소환 후 1회 이상 부활하지 않고 클리어\nEN:\nComplete the Encounter without letting Sword of a Forgotten Knight revive once or more after they are summoned"
+  },
+  {
+    "key": "missionConditionTitle_10050-content",
+    "original": "1回の戦闘にて、中央本部チームチーフバフを持つ味方が、無力な涙を持つ剣を3回倒して生存した状態でクリア。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、中央本部チームチーフバフを持つ味方が、無力な涙を持つ剣を3回倒して生存した状態でクリア。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 중앙 본부 팀장 버프가 있는 아군이 무력한 눈물이 있는 검을 3번 처치하고, 생존한 상태로 클리어\nEN:\nComplete the Encounter with the Central Command Team Captain surviving and defeating 3 Swords that have 'Helpless Tears'"
+  },
+  {
+    "key": "missionConditionTitle_10051-content",
+    "original": "中央本部チームチーフバフを持つ味方が、充電 威力を3以上得て生き残った状態でクリア(特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "中央本部チームチーフバフを持つ味方が、充電 威力を3以上得て生き残った状態でクリア(特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙 본부 팀장 버프가 있는 아군이 충전 위력을 3 이상 얻고, 생존한 상태로 클리어 (특수 충전 포함)\nEN:\nComplete the Encounter with the Central Command Team Captain surviving and with 3+ Charge Potency (including 'Unique Charge')"
+  },
+  {
+    "key": "missionConditionTitle_10052-content",
+    "original": "中央本部チームチーフバフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が8回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "中央本部チームチーフバフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が8回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙 본부 팀장 버프가 있는 아군이 적의 공격 스킬로 피해를 8회 미만으로 받고, 생존한 상태로 클리어\nEN:\nComplete the Encounter with the Central Command Team Captain surviving and taking less than 8 hits from enemy Attack Skills"
+  },
+  {
+    "key": "missionConditionTitle_10053-content",
+    "original": "1回の戦闘にて、福祉チーム優秀職員バフを持つ味方のスキルで敵へ沈潜または破裂威力を一定数値以上付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、福祉チーム優秀職員バフを持つ味方のスキルで敵へ沈潜または破裂威力を一定数値以上付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 복지팀 우수 직원 버프가 있는 아군의 스킬로 적에게 침잠 또는 파열 위력을 일정 수치 이상 부여\nEN:\nHave the Welfare Team Model Employee inflict a certain amount of Sinking or Rupture Potency with its Skills in an Encounter"
+  },
+  {
+    "key": "missionConditionTitle_10054-content",
+    "original": "福祉チーム優秀職員バフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が8回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "福祉チーム優秀職員バフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が8回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복지팀 우수 직원 버프가 있는 아군이 적의 공격 스킬로 피해를 8회 미만으로 받고, 생존한 상태로 클리어\nEN:\nComplete the Encounter with the Welfare Team Model Employee surviving and taking less than 8 hits from enemy Attack Skills"
+  },
+  {
+    "key": "missionConditionTitle_10055-content",
+    "original": "1回の戦闘にて、減算コインスキルを一定回数以上使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、減算コインスキルを一定回数以上使用\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 빼기 코인 스킬을 일정 횟수 이상 사용\nEN:\nUse Minus Coin Skills a certain number of times in an Encounter"
+  },
+  {
+    "key": "missionConditionTitle_10056-content",
+    "original": "全味方が生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方が生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 생존한 상태로 전투 클리어\nEN:\nClear Encounter without any ally deaths"
+  },
+  {
+    "key": "missionConditionTitle_10057-content",
+    "original": "全味方が精神力-45に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方が精神力-45に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 정신력 -45에 도달하지 않고 전투 클리어\nEN:\nClear Encounter without any of the allies reaching -45 SP"
+  },
+  {
+    "key": "missionConditionTitle_10058-content",
+    "original": "全味方に付与された黒く冷たい涙の回数が20以上に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方に付与された黒く冷たい涙の回数が20以上に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군의 차갑고 검은 눈물이 부여된 횟수가 20 이상 도달하지 않고 전투 클리어\nEN:\nClear Encounter without any of the allies reaching 20 Cold, Black Tears"
+  },
+  {
+    "key": "missionConditionTitle_20052-content",
+    "original": "アルカナ・スレイブで摩り切れた騎士のバフを持つ絶望の騎士の制圧に成功\n<CMT_KR>\n<CMT_JP>",
+    "translation": "アルカナ・スレイブで摩り切れた騎士のバフを持つ絶望の騎士の制圧に成功\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n아르카나 슬레이브로 닳디 닳은 기사 버프를 가진 절망의 기사 제압 성공\nEN:\nUse Arcana Slave to suppress the Knight of Despair with the 'Weathered Knight' effect"
+  },
+  {
+    "key": "missionConditionTitle_20053-content",
+    "original": "憎しみの女王が、敵の攻撃スキルによってダメージを受けた回数が3回未満の状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "憎しみの女王が、敵の攻撃スキルによってダメージを受けた回数が3回未満の状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n증오의 여왕이 적의 공격 스킬로 피해를 3회 미만으로 받고 클리어\nEN:\nClear Encounter with The Queen of Hatred taking less than 3 hits from enemy Attack Skills"
+  },
+  {
+    "key": "missionConditionTitle_20054-content",
+    "original": "1回の戦闘にて、心を壊す剣・心を引き裂く剣・心を貫く剣を召喚したあと、1回以上復活させずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、心を壊す剣・心を引き裂く剣・心を貫く剣を召喚したあと、1回以上復活させずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검 소환 후 1회 이상 부활하지 않고 클리어\nEN:\nComplete the Encounter without letting Heart-breaking Sword, Heart-tearing Sword, and Heart-piercing Sword revive once or more after they are summoned"
+  },
+  {
+    "key": "missionConditionTitle_20055-content",
+    "original": "1回の戦闘にて、中央本部チームチーフバフを持つ味方が、無力な涙を持つ剣を3回倒して生存した状態でクリア。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、中央本部チームチーフバフを持つ味方が、無力な涙を持つ剣を3回倒して生存した状態でクリア。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 중앙 본부 팀장 버프가 있는 아군이 무력한 눈물이 있는 검을 3번 처치하고, 생존한 상태로 클리어\nEN:\nComplete the Encounter with the Central Command Team Captain surviving and defeating 3 Swords that have 'Helpless Tears'"
+  },
+  {
+    "key": "missionConditionTitle_20056-content",
+    "original": "中央本部チームチーフバフを持つ味方が、充電 威力を5以上得て生き残った状態でクリア(特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "中央本部チームチーフバフを持つ味方が、充電 威力を5以上得て生き残った状態でクリア(特殊充電を含む)\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙 본부 팀장 버프가 있는 아군이 충전 위력을 5 이상 얻고, 생존한 상태로 클리어 (특수 충전 포함)\nEN:\nComplete the Encounter with the Central Command Team Captain surviving and with 5+ Charge Potency (including 'Unique Charge')"
+  },
+  {
+    "key": "missionConditionTitle_20057-content",
+    "original": "中央本部チームチーフバフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が5回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "中央本部チームチーフバフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が5回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙 본부 팀장 버프가 있는 아군이 적의 공격 스킬로 피해를 5회 미만으로 받고, 생존한 상태로 클리어\nEN:\nComplete the Encounter with the Central Command Team Captain surviving and taking less than 5 hits from enemy Attack Skills"
+  },
+  {
+    "key": "missionConditionTitle_20058-content",
+    "original": "1回の戦闘にて、福祉チーム優秀職員バフを持つ味方のスキルで敵へ沈潜または破裂威力を一定数値以上付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、福祉チーム優秀職員バフを持つ味方のスキルで敵へ沈潜または破裂威力を一定数値以上付与\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 복지팀 우수 직원 버프가 있는 아군의 스킬로 적에게 침잠 또는 파열 위력을 일정 수치 이상 부여\nEN:\nHave the Welfare Team Model Employee inflict a certain amount of Sinking or Rupture Potency with its Skills in an Encounter"
+  },
+  {
+    "key": "missionConditionTitle_20059-content",
+    "original": "1回の戦闘にて、福祉チーム優秀職員バフを持つ味方が心を壊す剣・心を引き裂く剣・心を貫く剣と1回ずつマッチする\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、福祉チーム優秀職員バフを持つ味方が心を壊す剣・心を引き裂く剣・心を貫く剣と1回ずつマッチする\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 복지팀 우수 직원 버프가 있는 아군이 마음을 부수는 검, 마음을 찢는 검, 마음을 꿰뚫는 검과 1번씩 합하기\nEN:\nHave the Welfare Team Model Employee clash against 'Heart-breaking Sword', 'Heart-tearing Sword', and 'Heart-piercing Sword' once, respectively, in an Encounter"
+  },
+  {
+    "key": "missionConditionTitle_20060-content",
+    "original": "福祉チーム優秀職員バフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が5回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "福祉チーム優秀職員バフを持つ味方が、敵の攻撃スキルでダメージを受けた回数が5回未満かつ生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복지팀 우수 직원 버프가 있는 아군이 적의 공격 스킬로 피해를 5회 미만으로 받고, 생존한 상태로 클리어\nEN:\nComplete the Encounter with the Welfare Team Model Employee surviving and taking less than 5 hits from enemy Attack Skills"
+  },
+  {
+    "key": "missionConditionTitle_20061-content",
+    "original": "1回の戦闘にて、減算コインスキルを一定回数以上使用\n<CMT_KR>\n<CMT_JP>",
+    "translation": "1回の戦闘にて、減算コインスキルを一定回数以上使用\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n1회 전투에서 빼기 코인 스킬을 일정 횟수 이상 사용\nEN:\nUse Minus Coin Skills a certain number of times in an Encounter"
+  },
+  {
+    "key": "missionConditionTitle_20062-content",
+    "original": "全味方が生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方が生存した状態でクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 생존한 상태로 전투 클리어\nEN:\nClear Encounter without any ally deaths"
+  },
+  {
+    "key": "missionConditionTitle_20063-content",
+    "original": "全味方が精神力-45に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方が精神力-45に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군이 정신력 -45에 도달하지 않고 전투 클리어\nEN:\nClear Encounter without any of the allies reaching -45 SP"
+  },
+  {
+    "key": "missionConditionTitle_20064-content",
+    "original": "全味方に付与された黒く冷たい涙の回数が10以上に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "全味方に付与された黒く冷たい涙の回数が10以上に到達せずにクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n모든 아군의 차갑고 검은 눈물이 부여된 횟수가 10 이상 도달하지 않고 전투 클리어\nEN:\nClear Encounter without any of the allies reaching 10 Cold, Black Tears"
+  },
+  {
+    "key": "missionConditionTitle_30005-content",
+    "original": "イージー・ハード難易度の全ミッションをクリア\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージー・ハード難易度の全ミッションをクリア\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움, 어려움 난이도의 모든 미션 클리어\nEN:\nComplete all Missions in both Easy and Hard difficulties"
+  },
+  {
+    "key": "walpu6_hard_stage_unlock_condition-content",
+    "original": "イージークリア時に解放\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージークリア時に解放\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도 클리어 시 개방\nEN:\nClear Easy Difficulty to Unlock"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_01_title-content",
+    "original": "第6回 ヴァルプルギスの夜 - 憎悪と絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "第6回 ヴァルプルギスの夜 - 憎悪と絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제6회 발푸르기스밤 - 증오와 절망\nEN:\nThe 6th Walpurgis Night - Hatred and Despair"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_01_title_01-content",
+    "original": "第6回 ヴァルプルギスの夜 - 憎悪と絶望\n<CMT_KR>\n<CMT_JP>",
+    "translation": "第6回 ヴァルプルギスの夜 - 憎悪と絶望\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제6회 발푸르기스밤 - 증오와 절망\nEN:\nThe 6th Walpurgis Night - Hatred and Despair"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_01_desc_01-content",
+    "original": "[第6回 ヴァルプルギスの夜 - 憎悪と絶望]はメインストーリーの進行度と関係なく解放されます。硝子窓や運転席にあるイベントバナーより入場できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[第6回 ヴァルプルギスの夜 - 憎悪と絶望]はメインストーリーの進行度と関係なく解放されます。硝子窓や運転席にあるイベントバナーより入場できます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[제6회 발푸르기스밤 - 증오와 절망]은 주요 이야기의 진행도에 관계 없이 개방됩니다. 유리창이나 운전석에 있는 이벤트 배너를 통해 입장할 수 있습니다.\nEN:\n[The 6th Walpurgis Night - Hatred and Despair] unlocks regardless of your progress in the Main Story. Enter via the event banner on the Window or the Driverside tabs."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_02_title_01-content",
+    "original": "イベント期間\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イベント期間\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트 기간\nEN:\nEvent Period"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_02_desc_01-content",
+    "original": "第6回 ヴァルプルギスの夜のイベント期間が表示されます。イベント期間中、イージー・ハードの戦闘を実施してミッションを遂行し、完了したミッションの報酬を受け取ることができます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "第6回 ヴァルプルギスの夜のイベント期間が表示されます。イベント期間中、イージー・ハードの戦闘を実施してミッションを遂行し、完了したミッションの報酬を受け取ることができます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n제6회 발푸르기스밤 이벤트 기간이 표시됩니다. 이벤트 기간 동안 쉬움 난이도, 어려움 난이도의 전투를 진행하여 미션을 수행하고, 완료한 미션의 보상을 수령할 수 있습니다.\nEN:\nThe duration of The 6th Walpurgis Night event is shown here. During the event, complete Missions for Easy and Hard difficulty event Encounters and claim their rewards."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_03_title_01-content",
+    "original": "難易度:イージー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "難易度:イージー\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도 전투\nEN:\nEasy Difficulty Encounter"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_03_desc_01-content",
+    "original": "扉を押して、戦闘(イージー)へ突入することができます。突入時にエンケファリンモジュールを消耗します。イージーでは、人格レベルが55未満なら55に上昇します。\nまた、人格の同期化段階・E.G.Oの幻想解析段階が3以下なら、3段階へ上昇します。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "扉を押して、戦闘(イージー)へ突入することができます。突入時にエンケファリンモジュールを消耗します。イージーでは、人格レベルが55未満なら55に上昇します。\nまた、人格の同期化段階・E.G.Oの幻想解析段階が3以下なら、3段階へ上昇します。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n문을 눌러 쉬움 난이도 전투에 입장할 수 있습니다.  전투는 입장 시 엔케팔린 모듈을 소모합니다. 쉬움 난이도 전투에서는 인격의 레벨이 55레벨보다 낮은 경우, 55레벨로 상승합니다. 또한 인격의 동기화 단계, E.G.O의 환상 해석 단계가 3단계보다 낮은 경우, 3단계로 상승합니다.\nEN:\nSelect the door to begin the Easy difficulty Encounter. The Encounter consumes an Enkephalin Module upon entry. On Easy difficulty, any Deployed Identities under Level 55 will be raised to Level 55. Also, any Deployed Identities and E.G.O under Tier 3 Uptie/Threadspinning Level will be raised to Tier 3 Uptie Level."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_03_title_02-content",
+    "original": "難易度:ハード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "難易度:ハード\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도 전투\nEN:\nHard Difficulty Encounter"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_03_desc_02-content",
+    "original": "イージーをクリアすると、ハードが解放されます。ハードでは現時点での人格レベル、同期化段階、E.G.Oの幻想解析状態がそのまま反映されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージーをクリアすると、ハードが解放されます。ハードでは現時点での人格レベル、同期化段階、E.G.Oの幻想解析状態がそのまま反映されます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도 전투를 클리어하면 어려움 난이도 전투가 개방됩니다. 어려움 난이도 전투는 인격의 레벨, 인격의 동기화 단계, E.G.O의 환상해석 단계가 현재 육성 상태로 반영됩니다.\nEN:\nClearing the Easy difficulty Encounter unlocks the Hard difficulty. In Hard difficulty, your Identities' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_04_title_01-content",
+    "original": "中央本部チームチーフ効果\n<CMT_KR>\n<CMT_JP>",
+    "translation": "中央本部チームチーフ効果\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중앙본부팀 팀장 효과\nEN:\nCentral Command Team Captain Effects"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_04_desc_01-content",
+    "original": "編成で1番目に選択した囚人に「中央本部チームチーフ」効果が付与されます。「中央本部チームチーフ」効果を受けた囚人は、戦闘にてスロット増加などのプラス効果を獲得します。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成で1番目に選択した囚人に「中央本部チームチーフ」効果が付与されます。「中央本部チームチーフ」効果を受けた囚人は、戦闘にてスロット増加などのプラス効果を獲得します。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 편성에서 1번으로 선택한 수감자에게 ‘중앙본부팀 팀장’ 효과가 부여됩니다. ‘중앙본부팀 팀장’ 효과를 받은 수감자는 전투에서 행동 수가 증가하고, 이로운 효과를 얻습니다.\nEN:\nThe #1 Sinner in the Deployment order will be imbued with the 'Central Command Team Captain' effect. The Sinner with the 'Central Command Captain' effect will gain more Slots and other beneficial effects."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_04_title_02-content",
+    "original": "福祉チーム優秀職員効果\n<CMT_KR>\n<CMT_JP>",
+    "translation": "福祉チーム優秀職員効果\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n복지팀 우수 직원 효과\nEN:\nWelfare Team Model Employee Effects"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_04_desc_02-content",
+    "original": "編成で2番目に選択した囚人に、効果「福祉チーム優秀職員」効果が付与されます。「福祉チーム優秀職員」効果を持つ囚人は、戦闘にてプラスの効果を獲得します。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "編成で2番目に選択した囚人に、効果「福祉チーム優秀職員」効果が付与されます。「福祉チーム優秀職員」効果を持つ囚人は、戦闘にてプラスの効果を獲得します。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 편성에서 2번으로 선택한 수감자에게 ‘복지팀 우수 직원’ 효과가 부여됩니다. ‘복지팀 우수 직원’ 효과를 받은 수감자는 전투에서 이로운 효과를 얻습니다.\nEN:\nThe #2 Sinner in the Deployment order will be imbued with the 'Welfare Team Model Employee' effect. The Sinner with the 'Welfare Team Model Employee' effect will gain beneficial effects."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_05_title_01-content",
+    "original": "ミッション一覧\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ミッション一覧\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미션 목록\nEN:\nMissions"
+  },
+  {
+    "key": "tutorial_mainui_walpu6_05_desc_01-content",
+    "original": "戦闘中に遂行できるミッションと、ミッションの報酬を確認できる[ミッション一覧]ページへ入場できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "戦闘中に遂行できるミッションと、ミッションの報酬を確認できる[ミッション一覧]ページへ入場できます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n전투 중 수행할 수 있는 미션과 미션의 보상을 확인할 수 있는 [미션 목록] 페이지로 입장할 수 있습니다.\nEN:\nYou can enter the [Missions] page, where you can view the list of Missions to be completed during the Encounter and their rewards."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_06_desc_01-content",
+    "original": "[ミッション一覧]ページに報酬を受け取れる期間が表示されます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[ミッション一覧]ページに報酬を受け取れる期間が表示されます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n[미션 목록] 페이지에서 보상을 수령할 수 있는 기간이 표시됩니다.\nEN:\nYou can view the Reward Exchange period in the [Missions] page."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_06_desc_02-content",
+    "original": "イージーとハードのミッションをそれぞれ確認できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージーとハードのミッションをそれぞれ確認できます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도 전투와 어려움 난이도 전투의 미션을 각각 확인할 수 있습니다.\nEN:\nEasy difficulty and Hard difficulty each has different sets of Missions to complete."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_06_desc_03-content",
+    "original": "ミッションを完了すれば[ミッション一覧]より様々な報酬を獲得できます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ミッションを完了すれば[ミッション一覧]より様々な報酬を獲得できます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n미션을 완료하면 [미션 목록]에서 다양한 보상을 얻을 수 있습니다.\nEN:\nComplete these Missions and claim various rewards from the [Missions] page."
+  },
+  {
+    "key": "tutorial_mainui_walpu6_07_desc_01-content",
+    "original": "イベント終了後も運転席と上映館 - [その他のストーリー]を通じて「第6回ヴァルプルギスの夜 - 憎悪と絶望」の戦闘を再び楽しんだり、ストーリーを閲覧したりすることができます。\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イベント終了後も運転席と上映館 - [その他のストーリー]を通じて「第6回ヴァルプルギスの夜 - 憎悪と絶望」の戦闘を再び楽しんだり、ストーリーを閲覧したりすることができます。\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n이벤트가 종료된 이후에도 운전석과 상영관 - [그 밖의 이야기]를 통해 ‘제6회 발푸르기스밤 - 증오와 절망’의 전투를 다시 즐기거나 스토리를 감상할 수 있습니다.\nEN:\nEven after the event fully ends, you will be able to experience the 'The 6th Walpurgis Night - Hatred and Despair' combat Encounters and view its story anytime at the Driverside and Theater - [Detour Tales]."
+  },
+  {
+    "key": "walpu6_reward_button_normal-content",
+    "original": "イージー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージー\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도\nEN:\nEasy"
+  },
+  {
+    "key": "walpu6_reward_button_hard-content",
+    "original": "ハード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハード\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도\nEN:\nHard"
+  },
+  {
+    "key": "walpu6_normal_difficulty-content",
+    "original": "イージー\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージー\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도\nEN:\nEasy"
+  },
+  {
+    "key": "walpu6_hard_difficulty-content",
+    "original": "ハード\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ハード\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n어려움 난이도\nEN:\nHard"
+  },
+  {
+    "key": "walpu6_hard_open_condition-content",
+    "original": "イージークリア時に解放\n<CMT_KR>\n<CMT_JP>",
+    "translation": "イージークリア時に解放\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n쉬움 난이도 클리어 시 개방\nEN:\nClear Easy Difficulty to Unlock"
+  }
+]

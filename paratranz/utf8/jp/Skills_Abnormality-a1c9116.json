@@ -8,8 +8,8 @@
   },
   {
     "key": "112701-levelList[0].desc",
-    "original": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]の数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンに[HitDamageUp]3を得る\n[WhenUse] メインターゲットの[MiddleFingerBook]の数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 [HitDamageUp] 3 얻음\n[WhenUse] 메인 타겟의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\nEN:\n[WhenUse] Gain 3 [HitDamageUp] next turn\n[WhenUse] If the main target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s"
   },
@@ -29,8 +29,8 @@
   },
   {
     "key": "112702-levelList[0].desc",
-    "original": "[MiddleFingerBook]数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[MiddleFingerBook]数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "original": "[MiddleFingerBook]の数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]の数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[MiddleFingerBook]の数値が最も高い対象を優先して指定\n[WhenUse] 対象の[MiddleFingerBook]の数値が3以上なら、このスキルの全コインが[SuperCoin]に変更される\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[MiddleFingerBook] 수치가 가장 높은 대상을 우선 지정\n[WhenUse] 대상의 [MiddleFingerBook] 수치가 3 이상이면, 이 스킬의 모든 코인이 [SuperCoin]으로 변경됨\nEN:\nPrioritizes targets with the highest [MiddleFingerBook] Stack\n[WhenUse] If target has 3+ [MiddleFingerBook], convert all Coins on this Skill to [SuperCoin]s"
   },
@@ -50,8 +50,8 @@
   },
   {
     "key": "112702-levelList[0].coinlist[2].coindescs[0].desc",
-    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]の数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]の数値 × 3)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 3)만큼 타격 추가 피해\nEN:\n[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 3) Blunt bonus damage"
   },
@@ -85,8 +85,8 @@
   },
   {
     "key": "112704-levelList[0].desc",
-    "original": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
-    "translation": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
+    "original": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]の数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
+    "translation": "速度と関係なく、このスキルとマッチができる\nメインターゲットの[MiddleFingerBook]の数値が5以上なら、最終威力 +5\n[EndSkill] 攻撃された全対象の[MiddleFingerBook]を除去\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n속도에 상관없이 이 스킬과 합을 할 수 있음\n메인 타겟의 [MiddleFingerBook] 수치가 5 이상이면, 최종 위력 +5\n[EndSkill] 공격 당한 모든 대상의 [MiddleFingerBook] 제거\nEN:\nCan Clash with this Skill regardless of Speed\nIf the main target has 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Remove [MiddleFingerBook] from all targets that were hit"
   },
@@ -99,8 +99,8 @@
   },
   {
     "key": "112704-levelList[0].coinlist[0].coindescs[1].desc",
-    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] (対象の[MiddleFingerBook]の数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] (対象の[MiddleFingerBook]の数値 × 10)だけ打撃追加ダメージ\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] (대상의 [MiddleFingerBook] 수치 x 10)만큼 타격 추가 피해\nEN:\n[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 10) Blunt bonus damage"
   },

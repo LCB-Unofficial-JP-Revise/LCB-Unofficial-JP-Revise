@@ -953,8 +953,8 @@
   },
   {
     "key": "1051002-levelList[2].coinlist[1].coindescs[0].desc",
-    "original": "[OnSucceedAttack] <style=\"highlight\">([KnowledgeExplored] × 2)</style>だけ[Sinking] を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] <style=\"highlight\">([KnowledgeExplored] × 2)</style>だけ[Sinking] を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] <style=\"highlight\">([KnowledgeExplored] × 2)</style>だけ[Sinking]を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] <style=\"highlight\">([KnowledgeExplored] × 2)</style>だけ[Sinking]を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] &lt;style=\"highlight\"&gt;([KnowledgeExplored] x 2)&lt;/style&gt;만큼 [Sinking] 부여\nEN:\n[OnSucceedAttack] Inflict [Sinking] equal to &lt;style=\"highlight\"&gt;([KnowledgeExplored] x 2)&lt;/style&gt;"
   },
@@ -1886,7 +1886,7 @@
     "key": "1051205-levelList[0].desc",
     "original": "メインターゲットの[Combustion]と[Vibration]を合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
     "translation": "メインターゲットの[Combustion]と[Vibration]を合計が8以上なら、コイン威力 +1\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n메인 타겟 대상의 [Combustion]과 [Vibration]의 합이 8 이상이면, 코인 위력 +1\nEN:\nIf the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1"
   },
   {

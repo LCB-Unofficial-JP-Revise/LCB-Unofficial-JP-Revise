@@ -309,8 +309,8 @@
   },
   {
     "key": "1080801-levelList[0].desc",
-    "original": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左方スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左方スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左端スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左端スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 자신을 제외하고 최대 체력이 가장 높은 아군 1명의 가장 왼쪽 슬롯의 [Aggro]가 (가장 높은 공명 수) 만큼 증가 (턴 당 1회)\nEN:\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)"
   },
@@ -330,8 +330,8 @@
   },
   {
     "key": "1080801-levelList[1].desc",
-    "original": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左方スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左方スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左端スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左端スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 다음 턴에 자신을 제외하고 최대 체력이 가장 높은 아군 1명의 가장 왼쪽 슬롯의 [Aggro]가 (가장 높은 공명 수) 만큼 증가 (턴 당 1회)\n- 가장 높은 완전 공명의 합이 4 이상이면, 효과 발동 시 다음 턴에 보호 1 부여 (턴 당 1회)\nEN:\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)"
   },
@@ -351,8 +351,8 @@
   },
   {
     "key": "1080801-levelList[2].desc",
-    "original": "<style=\"highlight\">[StartBattle] 操作パネルにて、自分の両隣の味方へ防御レベル増加 2を付与</style>\n[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左方スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n<style=\"highlight\">- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "<style=\"highlight\">[StartBattle] 操作パネルにて、自分の両隣の味方へ防御レベル増加 2を付与</style>\n[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左方スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n<style=\"highlight\">- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)</style>\n<CMT_KR>\n<CMT_JP>",
+    "original": "<style=\"highlight\">[StartBattle] 操作パネルにて、自分の両隣の味方へ防御レベル増加 2を付与</style>\n[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左端スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
+    "translation": "<style=\"highlight\">[StartBattle] 操作パネルにて、自分の両隣の味方へ防御レベル増加 2を付与</style>\n[WhenUse] 次のターンにて、(自分を除く)体力最大値が最も高い味方1名の最左端スロットの[Aggro]が(最も多い共鳴数)だけ増加。(1ターンにつき1回)\n- 最も多い完全共鳴の合計が4以上なら、効果発動時に次のターンにて保護1を付与(1ターンにつき1回)\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n&lt;style=\"highlight\"&gt;[StartBattle] 조작 패널에서 자신의 양 옆의 아군에게 방어 레벨 증가 2 부여&lt;/style&gt;\n[WhenUse] 다음 턴에 자신을 제외하고 최대 체력이 가장 높은 아군 1명의 가장 왼쪽 슬롯의 [Aggro]가 (가장 높은 공명 수) 만큼 증가 (턴 당 1회)\n- 가장 높은 완전 공명의 합이 4 이상이면, 효과 발동 시 다음 턴에 보호 1 부여 (턴 당 1회)\nEN:\n&lt;style=\"highlight\"&gt;[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard&lt;/style&gt;\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)"
   },
@@ -1044,8 +1044,8 @@
   },
   {
     "key": "1081002-levelList[1].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">3</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Vibration]"
   },
@@ -1086,8 +1086,8 @@
   },
   {
     "key": "1081002-levelList[2].coinlist[0].coindescs[0].desc",
-    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">4</style> を付与\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">4</style> を付与\n<CMT_KR>\n<CMT_JP>",
+    "original": "[OnSucceedAttack] [Vibration]<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] [Vibration]<style=\"highlight\">4</style>を付与\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] [Vibration] &lt;style=\"highlight\"&gt;4&lt;/style&gt; 부여\nEN:\n[OnSucceedAttack] Inflict &lt;style=\"highlight\"&gt;4&lt;/style&gt; [Vibration]"
   },
@@ -1583,8 +1583,8 @@
   },
   {
     "key": "1081201-levelList[0].desc",
-    "original": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WinDuel] [Breath]1を得る、自分の[Breath] 回数が1増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WinDuel] [Breath]1を得る、自分の[Breath] 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WinDuel] [Breath]1を得る、自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WinDuel] [Breath]1を得る、自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WinDuel] [Breath] 1 얻음, 자신의 [Breath] 횟수 1 증가\nEN:\n[WhenUse] If target has 5+ types of negative effects, Clash Power +1\n[WinDuel] Gain 1 [Breath] and +1 [Breath] Count"
   },
@@ -1618,8 +1618,8 @@
   },
   {
     "key": "1081201-levelList[1].desc",
-    "original": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Burst]が3以上なら、コイン威力 +1</style>\n[WinDuel] [Breath]2を得る、自分の[Breath] 回数が1増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Burst]が3以上なら、コイン威力 +1</style>\n[WinDuel] [Breath]2を得る、自分の[Breath] 回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Burst]が3以上なら、コイン威力 +1</style>\n[WinDuel] [Breath]2を得る、自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n<style=\"highlight\">[WhenUse] 対象の[Burst]が3以上なら、コイン威力 +1</style>\n[WinDuel] [Breath]2を得る、自分の[Breath]回数が1増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n&lt;style=\"highlight\"&gt;[WhenUse] 대상의 [Burst] 3 이상이면, 코인 위력 +1&lt;/style&gt;\n[WinDuel] [Breath] 2 얻음, 자신의 [Breath] 횟수 1 증가\nEN:\n[WhenUse] If target has 5+ types of negative effects, Clash Power +1\n&lt;style=\"highlight\"&gt;[WhenUse] If target has 3+ [Burst], Coin Power +1&lt;/style&gt;\n[WinDuel] Gain 2 [Breath] and +1 [Breath] Count"
   },
@@ -1653,8 +1653,8 @@
   },
   {
     "key": "1081201-levelList[2].desc",
-    "original": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]<style=\"highlight\">3に</style>つき、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WinDuel] [Breath]<style=\"highlight\">3</style>を得る、自分の[Breath] 回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]<style=\"highlight\">3に</style>つき、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WinDuel] [Breath]<style=\"highlight\">3</style>を得る、自分の[Breath] 回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "original": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]<style=\"highlight\">3に</style>つき、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WinDuel] [Breath]<style=\"highlight\">3</style>を得る、自分の[Breath]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象のマイナス効果の種類の合計が5個以上なら、マッチ威力 +1\n[WhenUse] 対象の[Burst]<style=\"highlight\">3に</style>つき、コイン威力 +1<style=\"highlight\">(最大2)</style>\n[WinDuel] [Breath]<style=\"highlight\">3</style>を得る、自分の[Breath]回数が<style=\"highlight\">2</style>増加\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상의 부정적인 효과가 5개 이상이면, 합 위력 +1\n[WhenUse] 대상의 [Burst] &lt;style=\"highlight\"&gt;3당&lt;/style&gt;, 코인 위력 +1 &lt;style=\"highlight\"&gt;(최대 2)&lt;/style&gt;\n[WinDuel] [Breath] &lt;style=\"highlight\"&gt;3&lt;/style&gt; 얻음, 자신의 [Breath] 횟수 &lt;style=\"highlight\"&gt;2&lt;/style&gt; 증가\nEN:\n[WhenUse] If target has 5+ types of negative effects, Clash Power +1\n[WhenUse] &lt;style=\"highlight\"&gt;Coin Power +1 for every 3 [Burst] on target (max 2)&lt;/style&gt;\n[WinDuel] Gain &lt;style=\"highlight\"&gt;3&lt;/style&gt; [Breath] and +&lt;style=\"highlight\"&gt;2&lt;/style&gt; [Breath] Count"
   },
@@ -2012,7 +2012,7 @@
     "key": "1081204-levelList[0].desc",
     "original": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n[OnSucceedEvade] [Breath]2を得る (1ターンにつき最大2回)\n<CMT_KR>\n<CMT_JP>",
     "translation": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n[OnSucceedEvade] [Breath]2を得る (1ターンにつき最大2回)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[StartBattle] 자신의 [StartXichun]가 3 이상이면, 턴 종료 시 [RetreatForCommon]함.\n- 퇴각 시 대기 순서 1번이 됨 (대기 인원의 대기 해제보다 우선적으로 복귀함)\n[OnSucceedEvade] [Breath] 2 얻음. (턴 당 최대 2회)\nEN:\n[StartBattle] At 3+ [StartXichun], perform a [RetreatForCommon] at Turn End.\n- Upon Retreat, move to the frontmost place in the Backup units' Deployment order (Returns first before the other Backup units Substitute in)\n[OnSucceedEvade] Gain 2 [Breath] (2 times per turn)"
   },
   {
@@ -2026,7 +2026,7 @@
     "key": "1081204-levelList[1].desc",
     "original": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n<style=\"highlight\">[WhenUse] [Breath]回数が1増加 (1ターンにつき最大2回)</style>\n[OnSucceedEvade] [Breath]2を得る (1ターンにつき最大2回)\n<CMT_KR>\n<CMT_JP>",
     "translation": "[StartBattle] 自分の[StartXichun]が3以上なら、ターン終了時に[RetreatForCommon]する。\n- 退却時、待機順1番になる (待機人員の待機解除よりも優先して復帰する)\n<style=\"highlight\">[WhenUse] [Breath]回数が1増加 (1ターンにつき最大2回)</style>\n[OnSucceedEvade] [Breath]2を得る (1ターンにつき最大2回)\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[StartBattle] 자신의 [StartXichun]가 3 이상이면, 턴 종료 시 [RetreatForCommon]함.\n- 퇴각 시 대기 순서 1번이 됨 (대기 인원의 대기 해제보다 우선적으로 복귀함)\n&lt;style=\"highlight\"&gt;[WhenUse] [Breath] 횟수 1 증가 (턴 당 최대 2회)&lt;/style&gt;\n[OnSucceedEvade] [Breath] 2 얻음. (턴 당 최대 2회)\nEN:\n[StartBattle] At 3+ [StartXichun], perform a [RetreatForCommon] at Turn End.\n- Upon Retreat, move to the frontmost place in the Backup units' Deployment order (Returns first before the other Backup units Substitute in)\n&lt;style=\"highlight\"&gt;[WhenUse] Gain +1 [Breath] Count (2 times per turn)&lt;/style&gt;\n[OnSucceedEvade] Gain 2 [Breath] (2 times per turn)"
   },
   {

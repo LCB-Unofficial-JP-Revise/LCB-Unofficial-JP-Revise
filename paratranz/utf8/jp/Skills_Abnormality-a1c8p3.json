@@ -178,7 +178,7 @@
     "key": "114505-levelList[0].desc",
     "original": "[Prey]を保有した対象を優先して指定\n速度と関係なく、このスキルとマッチができる\n対象の[Combustion]と[Vibration]の合計6につき、コインのダメージ量 +1 (最大3)\n[DefeatDuel] 自分の精神力が10減少\n<CMT_KR>\n<CMT_JP>",
     "translation": "[Prey]を保有した対象を優先して指定\n速度と関係なく、このスキルとマッチができる\n対象の[Combustion]と[Vibration]の合計6につき、コインのダメージ量 +1 (最大3)\n[DefeatDuel] 自分の精神力が10減少\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[Prey]을 보유한 대상을 우선으로 지정\n속도에 상관없이 이 스킬과 합을 할 수 있음\n대상의 [Combustion]과 [Vibration]의 합 6당 코인 위력 +1 (최대 3)\n[DefeatDuel] 자신의 정신력 10 감소\nEN:\nPrioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 3)\n[DefeatDuel] Lose 10 SP"
   },
   {
@@ -920,7 +920,7 @@
     "key": "113604-levelList[0].coinlist[0].coindescs[1].desc",
     "original": "[OnSucceedAttack] (的中時点での対象の現体力)だけ、最終コインに傲慢ダメージを追加\n<CMT_KR>\n<CMT_JP>",
     "translation": "[OnSucceedAttack] (的中時点での対象の現体力)だけ、最終コインに傲慢ダメージを追加\n<CMT_KR>\n<CMT_JP>",
-    "stage": 5,
+    "stage": 1,
     "context": "KR:\n[OnSucceedAttack] (대상의 적중시 현재 체력)만큼 마지막 코인에 오만 추가 피해\nEN:\n[OnSucceedAttack] Inflict (target's HP at the \"On Hit' timing) Pride bonus damage with the final Coin"
   },
   {
@@ -1383,7 +1383,7 @@
     "original": "[CantChangeTarget]\nホンルを優先して攻撃\n対象がホンルなら、ダメージ量が0に固定される\n[EndSkill] 対象がホンルなら、混乱状態にして次のターンに[ExpensiveJade]にする。以降ターン終了\n<CMT_KR>\n<CMT_JP>",
     "translation": "[CantChangeTarget]\nホンルを優先して攻撃\n対象がホンルなら、ダメージ量が0に固定される\n[EndSkill] 対象がホンルなら、混乱状態にして次のターンに[ExpensiveJade]にする。以降ターン終了\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[CantChangeTarget]\n홍루 우선 공격\n대상이 홍루면 피해량이 0으로 고정됨\n[EndSkill] 대상이 홍루면, 흐트러짐 상태로 만들고 다음 턴에 [ExpensiveJade]으로 만듦. 이후 턴 종료\nEN:\n[CantChangeTarget]\nPrioritizes Hong Lu\nWhen this Skill targets Hong Lu, deal 0 damage\n[EndSkill] When this Skill targets Hong Lu, Stagger him, then turn him into [ExpensiveJade]; then, end the turn"
+    "context": "KR:\n[CantChangeTarget]\n홍루 우선 공격\n대상이 홍루면 피해량이 0으로 고정됨\n[EndSkill] 대상이 홍루면, 흐트러짐 상태로 만들고 다음 턴에 [ExpensiveJade]으로 만듦. 이후 턴 종료\nEN:\n[CantChangeTarget]\nPrioritizes Hong Lu\nWhen this Skill targets Hong Lu, deal 0 damage\n[EndSkill] When this Skill targets Hong Lu, Stagger him, then turn him into [ExpensiveJade] next turn; then, end the turn"
   },
   {
     "key": "115201-levelList[0].coinlist[0].coindescs[0].desc",
