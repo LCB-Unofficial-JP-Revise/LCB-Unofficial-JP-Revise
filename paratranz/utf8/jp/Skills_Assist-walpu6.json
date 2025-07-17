@@ -156,7 +156,7 @@
   {
     "key": "40000306-levelList[0].coinlist[0].coindescs[0].desc",
     "original": "[OnSucceedAttack] 対処の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[OnSucceedAttack] 対処の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[OnSucceedAttack] 対象の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\n<CMT_KR>오기: \"[OnSucceedAttack] 「対処」の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\" 정확: \"「対象」の体力を現体力の\"\n<CMT_JP>誤記: \"[OnSucceedAttack] 「対処」の体力を現体力の(100 - ([CollapsedPride]の数値 × 33))%にする\" 訂正後: \"「対象」の体力を現体力の\"",
     "stage": 1,
     "context": "KR:\n[OnSucceedAttack] 대상의 체력을 현재 체력의 (100 - ([CollapsedPride] 수치 x 33))% 로 만듦\nEN:\n[OnSucceedAttack] Reduce target's HP to (100 - ([CollapsedPride] Stack x 33))%"
   },
