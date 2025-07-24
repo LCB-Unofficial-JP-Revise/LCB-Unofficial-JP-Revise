@@ -9,7 +9,7 @@
   {
     "key": "40000201-levelList[0].desc",
     "original": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 対象の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、基本威力 +1\n[WhenUse] 自分の[Breath]回数が1増加\n[OnDirectAttack] [Burst]回数が1増加\n<CMT_KR>오기: \"[WhenUse] 「対象」の[Breath]回数が1増加\" 정확: \"[WhenUse] 「自分」の[Breath]回数が1増加\"\n<CMT_JP>誤記: \"[WhenUse] 「対象」の[Breath]回数が1増加\" 訂正後: \"[WhenUse] 「自分」の[Breath]回数が1増加\"",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상이 보유한 부정적인 효과가 3개 이상이면, 기본 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 1 증가\n[OnDirectAttack] [Burst] 횟수 1 증가\nEN:\n[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Gain +1 [Breath] Count\n[OnDirectAttack] Inflict +1 [Burst] Count"
   },
@@ -79,7 +79,7 @@
   {
     "key": "40000203-levelList[0].desc",
     "original": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>\n<CMT_JP>",
-    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 対象の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>\n<CMT_JP>",
+    "translation": "[WhenUse] 対象の保有するマイナス効果が3種以上なら、コイン威力 +1\n[WhenUse] 自分の[Breath]回数が3増加\n[WhenUse] [Breath]威力を6得る\n<CMT_KR>오기: \"[WhenUse] 「対象」の[Breath]回数が3増加\" 정확: \"[WhenUse] 「自分」の[Breath]回数が3増加\"\n<CMT_JP>誤記: \"[WhenUse] 「対象」の[Breath]回数が3増加\" 訂正後: \"[WhenUse] 「自分」の[Breath]回数が3増加\"",
     "stage": 1,
     "context": "KR:\n[WhenUse] 대상이 보유한 부정적인 효과가 3개 이상이면, 코인 위력 +1\n[WhenUse] 자신의 [Breath] 횟수 3 증가\n[WhenUse] [Breath] 위력 6 얻음\nEN:\n[WhenUse] If target has 3+ types of negative effects, Coin Power +1\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] Gain 6 [Breath] Potency"
   },

@@ -232,8 +232,8 @@
   },
   {
     "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis-min",
-    "original": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "マッチ勝利時、マッチ回数に比例して増加\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>\n<CMT_KR>\n<CMT_JP>",
+    "original": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ勝利時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 승리 시 합 횟수에 비례하여 감소\n&lt;size=95%&gt;(감소량: 기본 값 {0}, 2합부터 1합당 &lt;color=red&gt;{1}%&lt;/color&gt;씩 증가)&lt;/size&gt;\nEN:\nDecreases after winning a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by &lt;color=red&gt;{1}%&lt;/color&gt; per Clash count after 1)&lt;/size&gt;"
   },
@@ -246,8 +246,8 @@
   },
   {
     "key": "OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis-min",
-    "original": "マッチ敗北時、マッチ回数に比例して増加\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>\n<CMT_KR>\n<CMT_JP>",
-    "translation": "マッチ敗北時、マッチ回数に比例して増加\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ減少)</size>\n<CMT_KR>\n<CMT_JP>",
+    "original": "マッチ敗北時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ増加)</size>\n<CMT_KR>\n<CMT_JP>",
+    "translation": "マッチ敗北時、マッチ回数に比例して減少\n<size=95%>(減少量: 基本値{0}, 2マッチ目から1マッチにつき<color=red>{1}%</color>ずつ増加)</size>\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n합 패배 시 합 횟수에 비례하여 감소\n&lt;size=95%&gt;(감소량: 기본 값 {0}, 2합부터 1합당 &lt;color=red&gt;{1}%&lt;/color&gt;씩 증가)&lt;/size&gt;\nEN:\nDecreases after losing a Clash based on the Clash count\n&lt;size=95%&gt;(Base Value is {0}, raised by &lt;color=red&gt;{1}%&lt;/color&gt; per Clash count after 1)&lt;/size&gt;"
   },

@@ -123,7 +123,7 @@
     "original": "[HelplessTear]を持つ敵の体力が0になると、絶望の騎士に突き刺さる\n<CMT_KR>\n<CMT_JP>",
     "translation": "[HelplessTear]を持つ敵の体力が0になると、絶望の騎士に突き刺さる\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂힘\nEN:\nIf a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair"
+    "context": "KR:\n[HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂힘\nEN:\nIf a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair[TabExplain]"
   },
   {
     "key": "122402-name",
@@ -179,6 +179,6 @@
     "original": "[HelplessTear]を持つ剣の体力が0になると絶望の騎士に突き刺さり、 次のターンにて任意の剣1つに自分の物理耐性のうち脆弱の耐性を同じく脆弱にする\n<CMT_KR>\n<CMT_JP>",
     "translation": "[HelplessTear]を持つ剣の体力が0になると絶望の騎士に突き刺さり、 次のターンにて任意の剣1つに自分の物理耐性のうち脆弱の耐性を同じく脆弱にする\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n[HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂히고, 다음 턴에 임의의 검 1개에게 자신의 물리 내성 중 취약인 내성을 똑같이 취약으로 바꿈\nEN:\nIf a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair; then, transfers its Fatal Resistance value to 1 other random Sword next turn"
+    "context": "KR:\n[HelplessTear]이 있는 검이 체력이 0이 되면, 절망의 기사에게 꽂히고, 다음 턴에 임의의 검 1개에게 자신의 물리 내성 중 취약인 내성을 똑같이 취약으로 바꿈\nEN:\nIf a sword with [HelplessTear] reaches 0 HP, it stabs the Knight of Despair[TabExplain]; then, transfers its Fatal Resistance value to 1 other random Sword next turn"
   }
 ]

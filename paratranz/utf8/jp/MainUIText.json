@@ -3428,5 +3428,12 @@
     "translation": "告知をロードできませんでした。ネットワークを確認してください。\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
     "context": "KR:\n공지사항을 로드하지 못했습니다. 네트워크를 확인해주세요.\nEN:\nCould not load notices. Please check your network connection."
+  },
+  {
+    "key": "mainui_settings_show_importance_level_UI-content",
+    "original": "ギミック重要度表示\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ギミック重要度表示\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n중요도 표기\nEN:\nShow Battle Hints\n(Gimmick Priority)"
   }
 ]

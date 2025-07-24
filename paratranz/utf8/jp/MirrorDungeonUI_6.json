@@ -4,7 +4,7 @@
     "original": "テーマパック観測\n<CMT_KR>\n<CMT_JP>",
     "translation": "テーマパック観測\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n테마팩 관측\nEN:\nSearch"
+    "context": "KR:\n테마팩 관측\nEN:\nPack Search"
   },
   {
     "key": "mirror_dungeon_detect_theme_pack_list_popup_title_format-content",
@@ -498,17 +498,17 @@
   },
   {
     "key": "mirror_observation_ego_gift_title-content",
-    "original": "E.G.Oギフト\n観測\n<CMT_KR>\n<CMT_JP>",
-    "translation": "E.G.Oギフト\n観測\n<CMT_KR>\n<CMT_JP>",
+    "original": "E.G.Oギフト観測\n<CMT_KR>\n<CMT_JP>",
+    "translation": "E.G.Oギフト観測\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\nE.G.O 기프트\n관측\nEN:\nE.G.O Gift\nSearch"
+    "context": "KR:\nE.G.O 기프트 관측\nEN:\nE.G.O Gift Search"
   },
   {
     "key": "mirror_observation_ego_gift_confirm-content",
     "original": "選択\n<CMT_KR>\n<CMT_JP>",
     "translation": "選択\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n선택\nEN:\n선택"
+    "context": "KR:\n선택\nEN:\nSelect"
   },
   {
     "key": "mirror_observation_have_starlight-content",
@@ -522,14 +522,14 @@
     "original": "E.G.Oギフト観測をやめますか？\n<CMT_KR>\n<CMT_JP>",
     "translation": "E.G.Oギフト観測をやめますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\nE.G.O 기프트 관측을 진행하지 않으시겠습니까?\nEN:\nE.G.O 기프트 관측을 진행하지 않으시겠습니까?"
+    "context": "KR:\nE.G.O 기프트 관측을 진행하지 않으시겠습니까?\nEN:\nForgo E.G.O Gift Search?"
   },
   {
     "key": "mirror_dungeon_ask_confirm_ego_gift_observation-content",
     "original": "星明かりを{0}消耗してE.G.Oギフト観測を行いますか？\n<CMT_KR>\n<CMT_JP>",
     "translation": "星明かりを{0}消耗してE.G.Oギフト観測を行いますか？\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n별빛 {0}개를 소모하여 E.G.O 기프트 관측을 진행하시겠습니까?\nEN:\n별빛 {0}개를 소모하여 E.G.O 기프트 관측을 진행하시겠습니까?"
+    "context": "KR:\n별빛 {0}개를 소모하여 E.G.O 기프트 관측을 진행하시겠습니까?\nEN:\nConsume {0} Starlight to search and obtain these E.G.O Gifts?"
   },
   {
     "key": "mirror_dungeon_observation_filter_reset-content",
@@ -547,9 +547,30 @@
   },
   {
     "key": "mirror_observation_ego_gift_title_toggle-content",
-    "original": "(더미)에고기프트 관측의 카테고리 선택 토글의 제목\n<CMT_KR>\n<CMT_JP>",
-    "translation": "(더미)에고기프트 관측의 카테고리 선택 토글의 제목\n<CMT_KR>\n<CMT_JP>",
+    "original": "ギフト観測\n活性化\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ギフト観測\n活性化\n<CMT_KR>\n<CMT_JP>",
     "stage": 1,
-    "context": "KR:\n(더미)에고기프트 관측의 카테고리 선택 토글의 제목\nEN:\n(더미)에고기프트 관측의 카테고리 선택 토글의 제목"
+    "context": "KR:\n기프트 관측\n활성화\nEN:\nActivate Gift\nSearch"
+  },
+  {
+    "key": "mirror_observation_lack_starlight_title-content",
+    "original": "ギフト観測\n活性化不能\n<CMT_KR>\n<CMT_JP>",
+    "translation": "ギフト観測\n活性化不能\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n기프트 관측\n활성화 불가\nEN:\nCannot Search\nGifts"
+  },
+  {
+    "key": "mirror_observation_lack_starlight_desc-content",
+    "original": "使用可能な星明かりが、ギフト観測にて必要な量を下回っています\n<CMT_KR>\n<CMT_JP>",
+    "translation": "使用可能な星明かりが、ギフト観測にて必要な量を下回っています\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n사용 가능한 별빛이 기프트 관측에서 필요한 양보다 적습니다\nEN:\nYou do not have enough Starlight for this Gift Search."
+  },
+  {
+    "key": "mirror_dungeon_finished_panel_selected_startBuff-content",
+    "original": "選んだ星の加護\n<CMT_KR>\n<CMT_JP>",
+    "translation": "選んだ星の加護\n<CMT_KR>\n<CMT_JP>",
+    "stage": 1,
+    "context": "KR:\n선택 별의 가호\nEN:\nSelected Grace of Stars"
   }
 ]
