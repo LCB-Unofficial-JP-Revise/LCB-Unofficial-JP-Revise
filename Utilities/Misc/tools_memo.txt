@@ -1,0 +1,23 @@
+GitHubへの反映:
+1. リポジトリのLocalizeフォルダをいったん削除した後、最新版のLocalizeフォルダをコピーしてコミット
+2. ワークフローを実行
+
+
+ParaTranzへのインポート:
+
+1. GitHubリポジトリで「Manual Snapshot Release」ワークフローを実行し、過去バージョンのリリースを作成しておく
+2. ParaTranzから古いバージョンのJsonファイルをダウンロード
+2. 古いバージョンのJsonファイルをParaTranz_Divider.pyでインポートし、対象エントリのみをparatranz_extractedフォルダに抽出
+3. 旧版のLocalizeフォルダをLocalize_oldに名前変更
+4. 最新版のLocalizeフォルダをコピー（Tempフォルダ、etcフォルダ、RemoteLocalizeFileList.jsonは不要）
+5. OUTPUT_UPDATEDをTrueにし、JP_LangJsonGenerator.pyを実行
+6. translation_processing.logのログにて削除されたファイルをプロジェクトから手動で削除
+7. json_outputのファイルでAdd Files、Update Files、Import Translations(こちらのみForce Import)を順に実行
+8. paratranz_extractedのファイルでImport Translationsを実行
+9. HistoryのImportをチェックし、不備がないか確認
+10. 修正されたテキストが見つかった場合、ソースをコピペして「レビュー済み」にする
+
+
+メンバーが行うべき作業:
+インポート後のテキストをチェックし、目が通された箇所を「レビュー済み」にすること
+追加・変更のあったテキストをチェックし、誤記がないか確かめること
